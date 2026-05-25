@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Streamlit secrets (nunca subir tokens)
+.streamlit/secrets.toml
+
+# Datos locales / backups
+*.backup.xlsx
+*.tmp
+
+# Notebooks state
+.ipynb_checkpoints/
+
+# Editores
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
