@@ -62,7 +62,7 @@ local (ignorado por git para no contaminar el repo con marcas de prueba).
 ## Despliegue en Streamlit Community Cloud
 
 1. Repo en GitHub con `app.py` en la raíz.
-2. Conectar en https://share.streamlit.io apuntando a `app.py`.
+2. Conectar en [share.streamlit.io](https://share.streamlit.io) apuntando a `app.py`.
 3. **App settings → Secrets**, pegar el bloque `[github]` (ver
    [.streamlit/secrets.toml.example](.streamlit/secrets.toml.example)) con un
    PAT fine-grained con permiso `Contents: read & write` sobre el repo donde
@@ -102,4 +102,9 @@ Mínimas (ver [requirements.txt](requirements.txt)):
 - `streamlit>=1.36` — `st.navigation` y `st.Page` requieren ≥1.36.
 - `pandas`, `openpyxl` — lectura del Excel.
 - `streamlit-echarts` — gráficos de la página de estadísticas.
-- `PyGithub` — backend de persistencia (importado perezosamente).
+- `PyGithub` — backend de persistencia (importado perezosamente en
+  [seleccion.py](seleccion.py)).
+- `networkx` — layout Fruchterman-Reingold para el grafo de coocurrencias.
+  **Importado perezosamente** dentro de `_layout_vos` en
+  [graficos_echarts.py](graficos_echarts.py) — un grep de imports top-level lo
+  pierde. Si añadís más imports lazy, actualizá ambos.
