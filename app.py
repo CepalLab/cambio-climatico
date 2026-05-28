@@ -16,6 +16,7 @@ st.set_page_config(
     page_title="Cambio climático · CEPAL Lab",
     page_icon="🌎",
     layout="wide",
+    initial_sidebar_state="collapsed",
 )
 
 # Tabs un poco más grandes + stepper del number_input con flechas en vez de +/-.
