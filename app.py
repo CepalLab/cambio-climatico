@@ -18,6 +18,43 @@ st.set_page_config(
     layout="wide",
 )
 
+# Tabs un poco más grandes + stepper del number_input con flechas en vez de +/-.
+# Los selectores con data-testid son los que Streamlit expone públicamente; si
+# cambian en una versión futura habría que reajustar.
+st.markdown(
+    """
+    <style>
+    [data-testid="stPageLink-NavLink"] {
+        font-size: 1.05rem !important;
+        padding: 0.5rem 0.95rem !important;
+    }
+    [data-testid="stNumberInputStepUp"],
+    [data-testid="stNumberInputStepDown"] {
+        position: relative;
+    }
+    [data-testid="stNumberInputStepUp"] > *,
+    [data-testid="stNumberInputStepDown"] > * {
+        visibility: hidden;
+    }
+    [data-testid="stNumberInputStepUp"]::after,
+    [data-testid="stNumberInputStepDown"]::after {
+        position: absolute;
+        inset: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 0.75rem;
+        pointer-events: none;
+        color: var(--text-color, currentColor);
+        visibility: visible;
+    }
+    [data-testid="stNumberInputStepUp"]::after { content: "▶"; }
+    [data-testid="stNumberInputStepDown"]::after { content: "◀"; }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
+
 pg = st.navigation(
     [
         st.Page(
@@ -32,6 +69,7 @@ pg = st.navigation(
             icon=":material/analytics:",
             url_path="estadisticas",
         ),
-    ]
+    ],
+    position="top",
 )
 pg.run()

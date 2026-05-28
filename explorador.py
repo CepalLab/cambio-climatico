@@ -22,6 +22,8 @@ from datos import (
     cargar_datos,
     cargar_mapa_clusters,
     color_tema,
+    filtrar_excluir_boletines,
+    filtrar_solo_sustantivas,
 )
 from topic_spa import contiene_tema, normalizar_a_lista, temas_a_texto
 import seleccion
@@ -80,7 +82,6 @@ PLANTILLAS: dict[str, list[str]] = {
         "dc.description.abstract",
         "dc.year",
         "tipo_gr",
-        "Sustantivo",
         "cepal.topicSpa",
         "dc.identifier.uri",
         "division",
@@ -217,12 +218,13 @@ def ordenar_dataframe(
 
 
 def altura_tabla(n_filas: int, max_chars: int, con_temas_pills: bool = False) -> int:
-    """Altura del frame según filas visibles y texto por celda."""
-    altura_encabezado = 48
-    altura_fila = 32 if max_chars <= 100 else 38 if max_chars <= 180 else 44
-    if con_temas_pills:
-        altura_fila = max(altura_fila, 52)
-    return min(900, altura_encabezado + max(n_filas, 1) * altura_fila)
+    """Altura ajustada al alto real de las filas de `st.data_editor` (~35 px),
+    sin cap superior, para que las N filas entren sin scroll interno."""
+    altura_encabezado = 35
+    altura_fila = 35
+    if max_chars > 180:
+        altura_fila += 3
+    return altura_encabezado + max(n_filas, 1) * altura_fila + 4
 
 
 def preparar_vista_tabla(df: pd.DataFrame, max_chars: int) -> pd.DataFrame:
@@ -397,10 +399,7 @@ def mostrar_detalle_campo(nombre: str, valor) -> None:
 
 def main() -> None:
     st.title("Explorador de publicaciones")
-    st.caption(
-        "Tabla Streamlit: temas como pills en `cepal.topicSpa`. "
-        "Menú ⋮ en columnas · filtros en la barra lateral."
-    )
+    st.caption("Publicaciones sustantivas excluyendo boletines.")
 
     if not ARCHIVO_DATOS.exists():
         st.error(f"No se encontró el archivo de datos: {ARCHIVO_DATOS}")
@@ -414,61 +413,29 @@ def main() -> None:
     modo_vacio = "Todos"
     valores: list = []
 
+    solo_clima = True
+    solo_sustantivas = True
+    excluir_boletines = True
+    columnas_visibles = columnas_por_plantilla(PLANTILLA_DEFECTO, todas_las_columnas)
+    max_tabla = 120
+    filas_pagina = 30
+
+    df_base = df_completo
+    if solo_clima and "cepal.topicSpa" in df_base.columns:
+        df_base = df_base[
+            df_base["cepal.topicSpa"].apply(lambda v: contiene_tema(v, "CAMBIO CLIMÁTICO"))
+        ]
+    if solo_sustantivas:
+        df_base = filtrar_solo_sustantivas(df_base)
+    if excluir_boletines:
+        df_base = filtrar_excluir_boletines(df_base)
+
+    texto_busqueda = st.text_input(
+        "Buscar texto",
+        placeholder="Palabra en las columnas visibles…",
+    )
+
     with st.sidebar:
-        st.header("Filtros")
-        solo_clima = st.checkbox(
-            'Tema "CAMBIO CLIMÁTICO" (`cepal.topicSpa`)',
-            value=True,
-        )
-        texto_busqueda = st.text_input(
-            "Buscar texto",
-            placeholder="Palabra en las columnas visibles…",
-        )
-
-        st.divider()
-        st.header("Columnas")
-        plantilla = st.selectbox(
-            "Plantilla",
-            OPCIONES_PLANTILLA,
-            index=OPCIONES_PLANTILLA.index(PLANTILLA_DEFECTO),
-        )
-
-        if st.session_state.pop("_limpiar_filtro_columnas", False):
-            st.session_state["filtro_nombre_col"] = ""
-
-        filtro_nombre_col = st.text_input(
-            "Filtrar nombres de columna",
-            placeholder="ej. dc.title, Sustantivo…",
-            key="filtro_nombre_col",
-        )
-
-        if "selector_columnas" not in st.session_state:
-            st.session_state["selector_columnas"] = columnas_por_plantilla(
-                PLANTILLA_DEFECTO, todas_las_columnas
-            )
-
-        seleccion_previa = st.session_state.get("selector_columnas", [])
-        opciones_col = opciones_multiselect(
-            todas_las_columnas,
-            filtro_nombre_col,
-            seleccion_previa,
-            plantilla,
-        )
-
-        if st.button("Cargar columnas de la plantilla", use_container_width=True):
-            st.session_state["selector_columnas"] = columnas_por_plantilla(
-                plantilla, todas_las_columnas
-            )
-            st.session_state["_limpiar_filtro_columnas"] = True
-            st.rerun()
-
-        columnas_visibles = st.multiselect(
-            "Columnas visibles",
-            options=opciones_col,
-            key="selector_columnas",
-        )
-
-        st.divider()
         st.subheader("Filtro rápido por campo")
         col_filtro = st.selectbox(
             "Campo",
@@ -481,8 +448,8 @@ def main() -> None:
                 ["Todos", "Solo vacíos", "Solo con valor"],
                 horizontal=True,
             )
-            if col_filtro in df_completo.columns:
-                serie_ref = df_completo[col_filtro]
+            if col_filtro in df_base.columns:
+                serie_ref = df_base[col_filtro]
                 if serie_ref.nunique(dropna=True) <= 20:
                     valores = st.multiselect(
                         "Valores",
@@ -491,9 +458,6 @@ def main() -> None:
                     )
                 else:
                     valores = []
-
-        max_tabla = st.slider("Caracteres en la tabla", 40, 300, 120)
-        filas_pagina = st.selectbox("Filas por página", [10, 25, 50, 100], index=1)
 
         st.divider()
         st.subheader("Orden global")
@@ -534,9 +498,7 @@ def main() -> None:
         st.warning("Selecciona al menos una columna en la barra lateral.")
         st.stop()
 
-    df = df_completo
-    if solo_clima and "cepal.topicSpa" in df.columns:
-        df = df[df["cepal.topicSpa"].apply(lambda v: contiene_tema(v, "CAMBIO CLIMÁTICO"))]
+    df = df_base
 
     if texto_busqueda.strip():
         patron = texto_busqueda.strip()

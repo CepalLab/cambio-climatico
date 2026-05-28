@@ -115,6 +115,41 @@ def filtrar_cambio_climatico(df: pd.DataFrame) -> pd.DataFrame:
     return df[df["cepal.topicSpa"].apply(lambda v: contiene_tema(v, TEMA_CAMBIO_CLIMATICO))]
 
 
+def filtrar_solo_sustantivas(df: pd.DataFrame) -> pd.DataFrame:
+    """Mantiene solo publicaciones marcadas como sustantivas (Sustantivo == 1)."""
+    if "Sustantivo" not in df.columns:
+        return df
+    return df[pd.to_numeric(df["Sustantivo"], errors="coerce") == 1]
+
+
+def filtrar_excluir_boletines(df: pd.DataFrame) -> pd.DataFrame:
+    """Dentro de tipo_gr == 'Boletines y Revistas' deja solo las revistas
+    (excluye tipo_doc == 'Boletines'). El resto del corpus queda intacto."""
+    if "tipo_gr" not in df.columns or "tipo_doc" not in df.columns:
+        return df
+    es_grupo_byr = df["tipo_gr"].astype(str).eq("Boletines y Revistas")
+    es_boletin = df["tipo_doc"].astype(str).eq("Boletines")
+    return df[~(es_grupo_byr & es_boletin)]
+
+
+def filtrar_periodos(df: pd.DataFrame, periodos: list[str]) -> pd.DataFrame:
+    """Filtra a publicaciones cuyo `dc.year` cae en los bins indicados
+    (etiquetas de `PERIODOS_BINS`). Si la selección está vacía o incluye los
+    tres bins devuelve el df sin tocar (no se considera filtro activo)."""
+    if "dc.year" not in df.columns:
+        return df
+    todos = {etiqueta for etiqueta, _, _ in PERIODOS_BINS}
+    sel = set(periodos)
+    if not sel or sel >= todos:
+        return df
+    serie_anio = pd.to_numeric(df["dc.year"], errors="coerce")
+    mask = pd.Series(False, index=df.index)
+    for etiqueta, ini, fin in PERIODOS_BINS:
+        if etiqueta in sel:
+            mask = mask | ((serie_anio >= ini) & (serie_anio <= fin))
+    return df[mask]
+
+
 def asignar_periodo(year) -> str | None:
     valor = pd.to_numeric(year, errors="coerce")
     if pd.isna(valor):
