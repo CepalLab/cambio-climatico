@@ -17,6 +17,8 @@ from datos import (
     ARCHIVO_DATOS,
     cargar_datos,
     filtrar_cambio_climatico,
+    filtrar_solo_sustantivas,
+    filtrar_excluir_boletines,
 )
 import seleccion
 
@@ -210,32 +212,37 @@ def main() -> None:
     Esta vista muestra el listado depurado de documentos para la segunda fase del análisis.
     Se han aplicado los siguientes criterios:
     
-    **Documentos excluidos:**
-    - Versiones duplicadas (ej. Acuerdo Regional en varios idiomas)
-    - Reglas de procedimiento del Acuerdo de Escazú
-    - Versiones accesibles de documentos de CEPAL
-    - Catálogo de publicaciones de la División de Desarrollo Sostenible y Asentamientos Humanos
+    **Base de partida**: 239 documentos sustantivos con tema "CAMBIO CLIMÁTICO"
     
-    **Documentos agregados:**
-    - Documentos del Período de Sesiones de CEPAL
-    - Documentos del Foro Regional sobre Desarrollo Sostenible
+    **Documentos excluidos (9 total):**
+    - Acuerdo Regional (versiones duplicadas): 4 documentos
+    - Versiones accesibles: 2 documentos
+    - Revistas de CEPAL: 3 documentos
+    
+    **Documentos agregados (14 total):**
+    - Documentos del Período de Sesiones de CEPAL: 5 documentos
+    - Documentos del Foro Regional sobre Desarrollo Sostenible: 9 documentos
     """)
     
     # Cargar datos
     df = cargar_datos()
-    st.info(f"Total de registros en el dataset: {len(df)}")
     
-    # Filtrar documentos con tema "CAMBIO CLIMÁTICO"
+    # Base: Documentos sustantivos con tema "CAMBIO CLIMÁTICO", sin boletines
     df_cambio_climatico = filtrar_cambio_climatico(df)
-    st.info(f"Documentos con tema 'CAMBIO CLIMÁTICO': {len(df_cambio_climatico)}")
+    df_sustantivos = filtrar_solo_sustantivas(df_cambio_climatico)
+    df_sin_boletines = filtrar_excluir_boletines(df_sustantivos)
+    
+    st.info(f"Base (sustantivos sin boletines): {len(df_sin_boletines)} documentos")
     
     # Excluir documentos según instrucciones
-    df_filtrado = excluir_documentos(df_cambio_climatico)
-    st.info(f"Documentos después de aplicar exclusiones: {len(df_filtrado)}")
+    df_filtrado = excluir_documentos(df_sin_boletines)
+    excluidos = len(df_sin_boletines) - len(df_filtrado)
+    st.info(f"Documentos excluidos: {excluidos} | Después de aplicar exclusiones: {len(df_filtrado)} documentos")
     
     # Agregar documentos adicionales
     df_final = agregar_documentos(df_filtrado)
-    st.success(f"Listado final para segunda fase: {len(df_final)} documentos")
+    agregados = len(df_final) - len(df_filtrado)
+    st.success(f"Documentos agregados: {agregados} | Listado final para segunda fase: {len(df_final)} documentos")
     
     # Mostrar tabla con resultados
     columnas_mostrar = [
