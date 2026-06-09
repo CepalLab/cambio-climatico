@@ -1,5 +1,5 @@
 """
-Aplicación Streamlit — explorador y estadísticas (cambio climático CEPAL).
+Aplicación Streamlit — explorador, estadísticas y segunda fase (cambio climático CEPAL).
 
 Ejecutar desde esta carpeta:
     streamlit run app.py
@@ -11,6 +11,7 @@ import streamlit as st
 
 from explorador import main as pagina_explorador
 from visualizaciones import main as pagina_visualizaciones
+from segunda_fase import main as pagina_segunda_fase
 
 st.set_page_config(
     page_title="Cambio climático · CEPAL Lab",
@@ -69,6 +70,12 @@ pg = st.navigation(
             title="Estadísticas",
             icon=":material/analytics:",
             url_path="estadisticas",
+        ),
+        st.Page(
+            pagina_segunda_fase,
+            title="Documentos para 2da fase",
+            icon=":material/checklist:",
+            url_path="segunda-fase",
         ),
     ],
     position="top",
