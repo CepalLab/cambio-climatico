@@ -172,17 +172,27 @@ def buscar_documento_inteligente(df: pd.DataFrame, doc: dict) -> dict | None:
 
 
 def agregar_documentos(df_base: pd.DataFrame) -> pd.DataFrame:
-    """Agrega documentos adicionales al DataFrame"""
+    """Agrega documentos adicionales al DataFrame (solo si no están ya en la base)"""
     # Crear un nuevo DataFrame con los documentos adicionales
     nuevos_documentos = []
+    handles_en_base = set(df_base[COLUMNA_URI].dropna().astype(str))
     
     for doc in DOCUMENTOS_A_AGREGAR:
+        # Chequear si el handle ya está en la base
+        handle = doc.get("handle", "")
+        if handle in handles_en_base:
+            # Ya existe en la base, no duplicar
+            continue
+        
         # Intentar encontrar el documento usando búsqueda inteligente
         resultado = buscar_documento_inteligente(df_base, doc)
         
         if resultado is not None:
-            # Si existe en el dataset, usar los datos originales
-            nuevos_documentos.append(resultado)
+            # Si existe en el dataset bajo otro handle, usar los datos originales
+            # pero SOLO si no lo hemos visto ya
+            uri_resultado = resultado.get(COLUMNA_URI, "")
+            if uri_resultado not in handles_en_base:
+                nuevos_documentos.append(resultado)
         else:
             # Si no existe, crear una entrada básica con el título proporcionado
             nuevo_doc = {
@@ -197,11 +207,13 @@ def agregar_documentos(df_base: pd.DataFrame) -> pd.DataFrame:
             nuevos_documentos.append(nuevo_doc)
     
     # Convertir a DataFrame
-    df_nuevos = pd.DataFrame(nuevos_documentos)
+    df_nuevos = pd.DataFrame(nuevos_documentos) if nuevos_documentos else pd.DataFrame()
     
-    # Combinar con el dataset base
-    df_combinado = pd.concat([df_base, df_nuevos], ignore_index=True)
-    
+    # Combinar con el dataset base (solo agregar los que no estaban)
+    if len(df_nuevos) > 0:
+        df_combinado = pd.concat([df_base, df_nuevos], ignore_index=True)
+    else:
+        df_combinado = df_base.copy()
     return df_combinado
 
 
