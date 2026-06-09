@@ -130,21 +130,58 @@ def excluir_documentos(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 
+def buscar_documento_inteligente(df: pd.DataFrame, doc: dict) -> dict | None:
+    """Busca un documento usando múltiples estrategias"""
+    # Estrategia 1: Buscar por handle/URI
+    if "handle" in doc and pd.notna(doc["handle"]):
+        mask = df['dc.identifier.uri'].astype(str).str.contains(doc["handle"], case=False, na=False)
+        resultados = df[mask]
+        if not resultados.empty:
+            return resultados.iloc[0].to_dict()
+    
+    # Estrategia 2: Buscar por título completo (primeras palabras significativas)
+    titulo_palabras = doc["titulo"].split()[:5]
+    for palabra in titulo_palabras:
+        if len(palabra) > 5:  # Solo palabras significativas
+            mask = df['dc.title'].str.contains(palabra, case=False, na=False)
+            resultados = df[mask]
+            if not resultados.empty:
+                # Filtrar por año si es disponible
+                if "anio" in doc:
+                    resultados_anio = resultados[resultados['dc.year'].astype(str).str.contains(str(doc["anio"]), na=False)]
+                    if not resultados_anio.empty:
+                        return resultados_anio.iloc[0].to_dict()
+                # Si no hay coincidencia de año, devolver el primero
+                return resultados.iloc[0].to_dict()
+    
+    # Estrategia 3: Buscar solo por año (último recurso)
+    if "anio" in doc:
+        mask = df['dc.year'].astype(str).str.contains(str(doc["anio"]), na=False)
+        resultados = df[mask]
+        # Buscar documento que contenga palabras clave del título
+        for palabra in doc["titulo"].split():
+            if len(palabra) > 5:
+                resultados_filtrados = resultados[resultados['dc.title'].str.contains(palabra, case=False, na=False)]
+                if not resultados_filtrados.empty:
+                    return resultados_filtrados.iloc[0].to_dict()
+    
+    return None
+
+
 def agregar_documentos(df_base: pd.DataFrame) -> pd.DataFrame:
     """Agrega documentos adicionales al DataFrame"""
     # Crear un nuevo DataFrame con los documentos adicionales
     nuevos_documentos = []
     
     for doc in DOCUMENTOS_A_AGREGAR:
-        # Buscar si el documento ya existe en el dataset
-        mask = df_base['dc.title'].str.contains(doc["titulo"][:20], case=False, na=False)
-        resultados = df_base[mask]
+        # Intentar encontrar el documento usando búsqueda inteligente
+        resultado = buscar_documento_inteligente(df_base, doc)
         
-        if not resultados.empty:
-            # Si existe, usar los datos existentes
-            nuevos_documentos.append(resultados.iloc[0].to_dict())
+        if resultado is not None:
+            # Si existe en el dataset, usar los datos originales
+            nuevos_documentos.append(resultado)
         else:
-            # Si no existe, crear una entrada básica
+            # Si no existe, crear una entrada básica con el título proporcionado
             nuevo_doc = {
                 "dc.title": doc["titulo"],
                 "dc.year": doc["anio"],
