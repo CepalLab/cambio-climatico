@@ -85,12 +85,12 @@ def main():
     if antes != despues:
         print(f"Excluido 'accesible': -{antes - despues} documentos")
     
-    # Excluir por división
+    # Excluir catálogo de publicaciones
     antes = len(df_segunda_fase)
-    df_segunda_fase = df_segunda_fase[~df_segunda_fase["division"].str.contains("Desarrollo Sostenible y Asentamientos Humanos", case=False, na=False)]
+    df_segunda_fase = df_segunda_fase[~df_segunda_fase["dc.title"].str.contains("Catálogo de publicaciones", case=False, na=False)]
     despues = len(df_segunda_fase)
     if antes != despues:
-        print(f"Excluido división 'Desarrollo Sostenible': -{antes - despues} documentos")
+        print(f"Excluido catálogo de publicaciones: -{antes - despues} documentos")
     
     # Excluir TODAS las revistas (no solo boletines)
     antes = len(df_segunda_fase)

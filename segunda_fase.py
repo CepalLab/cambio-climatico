@@ -117,8 +117,9 @@ def excluir_documentos(df: pd.DataFrame) -> pd.DataFrame:
     # Excluir versiones accesibles de documentos de CEPAL (patrón)
     df = df[~df["dc.title"].str.contains("accesible", case=False, na=False)]
     
-    # Excluir catálogo de publicaciones de la División de Desarrollo Sostenible y Asentamientos Humanos
-    df = df[~df["division"].str.contains("Desarrollo Sostenible y Asentamientos Humanos", case=False, na=False)]
+    # Excluir catálogo de publicaciones (específicamente el de la División de Desarrollo Sostenible y Asentamientos Humanos)
+    # No excluimos toda la división, solo el catálogo específico
+    df = df[~df["dc.title"].str.contains("Catálogo de publicaciones", case=False, na=False)]
     
     # Excluir revistas de CEPAL (excepto artículos sustantivos de CEPAL)
     # Las revistas generalmente están marcadas en tipo_gr == "Boletines y Revistas"
