@@ -40,12 +40,12 @@ DOCUMENTOS_A_AGREGAR = [
     {
         "titulo": "América Latina y el Caribe ante las trampas del desarrollo: Transformaciones indispensables y cómo gestionarlas",
         "anio": 2024,
-        "handle": "https://repositorio.cepal.org/server/api/core/bitstreams/ddaf4444-dcbc-48a9-afd2-06306ac3e5c3/content"
+        "handle": "https://hdl.handle.net/11362/80727"
     },
     {
         "titulo": "Hacia la transformación del modelo de desarrollo en América Latina y el Caribe: producción, inclusión y sostenibilidad",
         "anio": 2022,
-        "handle": "https://repositorio.cepal.org/server/api/core/bitstreams/cfdfbffc-660a-4b8c-86e8-532bcf884af5/content"
+        "handle": "https://hdl.handle.net/11362/48304"
     },
     {
         "titulo": "Construir un nuevo futuro: una recuperación transformadora con igualdad y sostenibilidad",
@@ -60,27 +60,27 @@ DOCUMENTOS_A_AGREGAR = [
     {
         "titulo": "Horizontes 2030: la igualdad en el centro del desarrollo Sostenible",
         "anio": 2016,
-        "handle": "https://periododesesiones.cepal.org/36/es/horizontes-2030-la-igualdad-centro-desarrollo-sostenible"
+        "handle": "https://hdl.handle.net/11362/40159"
     },
     {
         "titulo": "Agenda 2030 en América Latina y el Caribe: ¿cómo acelerar el paso hacia su cumplimiento en la nueva era de incertidumbre y fragmentación geopolítica?",
         "anio": 2026,
-        "handle": "https://foroalc2030.cepal.org/2026/es/documentos/agenda-2030-america-latina-caribe-como-acelerar-paso-su-cumplimiento-la-nueva-era"
+        "handle": "https://hdl.handle.net/11362/89774"
     },
     {
         "titulo": "América Latina y el Caribe y la Agenda 2030 a cinco años de la meta: ¿cómo gestionar las transformaciones para acelerar el progreso?",
         "anio": 2025,
-        "handle": "https://foroalc2030.cepal.org/2025/es/documentos/america-latina-caribe-la-agenda-2030-cinco-anos-la-meta-como-gestionar-transformaciones"
+        "handle": "https://hdl.handle.net/11362/81405"
     },
     {
         "titulo": "América Latina y el Caribe ante el desafío de acelerar el paso hacia el cumplimiento de la Agenda 2030: transiciones hacia la sostenibilidad",
         "anio": 2024,
-        "handle": "https://foroalc2030.cepal.org/2024/es/documentos/america-latina-caribe-desafio-acelerar-paso-cumplimiento-la-agenda-2030-transiciones-la"
+        "handle": "https://hdl.handle.net/11362/69132"
     },
     {
         "titulo": "América Latina y el Caribe en la mitad del camino hacia 2030: avances y propuestas de aceleración",
         "anio": 2023,
-        "handle": "https://foroalc2030.cepal.org/2023/es/documentos/america-latina-caribe-la-mitad-camino-2030-avances-propuestas-aceleracion"
+        "handle": "https://hdl.handle.net/11362/48823"
     },
     {
         "titulo": "Una década de acción para un cambio de época",
@@ -90,22 +90,22 @@ DOCUMENTOS_A_AGREGAR = [
     {
         "titulo": "INFORME ANUAL DE PROGRESO: Construir un futuro mejor: acciones para fortalecer la Agenda 2030 para el Desarrollo Sostenible",
         "anio": 2021,
-        "handle": "https://foroalc2030.cepal.org/2021/es/documentos/informe-anual-progreso-construir-un-futuro-mejor-acciones-fortalecer-la-agenda-2030"
+        "handle": "https://hdl.handle.net/11362/46682"
     },
     {
         "titulo": "Informe de avance cuatrienal sobre el progreso y los desafíos regionales de la Agenda 2030 para el Desarrollo Sostenible en América Latina y el Caribe",
         "anio": 2019,
-        "handle": "https://foroalc2030.cepal.org/2019/es/documentos/informe-avance-cuatrienal-progreso-desafios-regionales-la-agenda-2030-desarrollo"
+        "handle": "https://hdl.handle.net/11362/44551"
     },
     {
         "titulo": "Segundo informe anual sobre el progreso y los desafíos regionales de la Agenda 2030 para el Desarrollo Sostenible en América Latina y el Caribe",
         "anio": 2018,
-        "handle": "https://foroalc2030.cepal.org/2018/es/documentos/segundo-informe-anual-progreso-desafios-regionales-la-agenda-2030-desarrollo-sostenible"
+        "handle": "https://hdl.handle.net/11362/43415"
     },
     {
         "titulo": "Informe anual sobre el progreso y los desafíos regionales de la Agenda 2030 para el Desarrollo Sostenible en América Latina y el Caribe",
         "anio": 2017,
-        "handle": "https://foroalc2030.cepal.org/2017/es/documentos/informe-anual-progreso-desafios-regionales-la-agenda-2030-desarrollo-sostenible-america"
+        "handle": "https://hdl.handle.net/11362/41173"
     }
 ]
 
