@@ -50,12 +50,12 @@ DOCUMENTOS_A_AGREGAR = [
     {
         "titulo": "Construir un nuevo futuro: una recuperación transformadora con igualdad y sostenibilidad",
         "anio": 2020,
-        "handle": "https://hdl.handle.net/11362/46682"
+        "handle": "https://hdl.handle.net/11362/46227"
     },
     {
         "titulo": "La ineficiencia de la desigualdad",
         "anio": 2018,
-        "handle": "https://repositorio.cepal.org/server/api/core/bitstreams/cd373168-ed4d-4bb7-b70a-4d9fd80c68a9/content"
+        "handle": "https://hdl.handle.net/11362/43442"
     },
     {
         "titulo": "Horizontes 2030: la igualdad en el centro del desarrollo Sostenible",
@@ -194,17 +194,26 @@ def agregar_documentos(df_base: pd.DataFrame) -> pd.DataFrame:
             if uri_resultado not in handles_en_base:
                 nuevos_documentos.append(resultado)
         else:
-            # Si no existe, crear una entrada básica con el título proporcionado
-            nuevo_doc = {
-                "dc.title": doc["titulo"],
-                "dc.year": doc["anio"],
-                "dc.identifier.uri": doc["handle"],
-                "cepal.topicSpa": "CAMBIO CLIMÁTICO",  # Asignar tema por relevancia
-                "division": "Documentos adicionales",  # Marcar como documento adicional
-                "tipo_gr": "Documentos adicionales",
-                "dc.description.abstract": f"Documento adicional para segunda fase. Año: {doc['anio']}"
-            }
-            nuevos_documentos.append(nuevo_doc)
+            # Buscar en el dataset COMPLETO para traer datos correctos (especialmente topics)
+            df_completo = cargar_datos()
+            registro_completo = df_completo[df_completo[COLUMNA_URI] == handle]
+            
+            if len(registro_completo) > 0:
+                # Usar todos los datos del dataset completo (groundtruth real)
+                nuevo_doc = registro_completo.iloc[0].to_dict()
+                nuevos_documentos.append(nuevo_doc)
+            else:
+                # Si ni siquiera está en el dataset completo, crear una entrada básica
+                nuevo_doc = {
+                    "dc.title": doc["titulo"],
+                    "dc.year": doc["anio"],
+                    "dc.identifier.uri": doc["handle"],
+                    "cepal.topicSpa": [],  # Sin topics asignados
+                    "division": "Documentos adicionales",
+                    "tipo_gr": "Documentos adicionales",
+                    "dc.description.abstract": f"Documento adicional para segunda fase. Año: {doc['anio']}"
+                }
+                nuevos_documentos.append(nuevo_doc)
     
     # Convertir a DataFrame
     df_nuevos = pd.DataFrame(nuevos_documentos) if nuevos_documentos else pd.DataFrame()
