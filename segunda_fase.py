@@ -15,15 +15,23 @@ import streamlit as st
 
 from datos import (
     ARCHIVO_DATOS,
+    ARCHIVO_CLUSTERS,
+    _mtime_archivo,
     cargar_datos,
+    cargar_mapa_clusters,
     filtrar_cambio_climatico,
     filtrar_solo_sustantivas,
     filtrar_excluir_boletines,
 )
-import seleccion
+from explorador import (
+    CAMPOS_VISTA_RAPIDA,
+    formatear_fecha_es,
+    mostrar_detalle_campo,
+    mostrar_temas_pills,
+    preparar_vista_tabla,
+)
 
 COLUMNA_URI = "dc.identifier.uri"
-COLUMNA_INCLUIR_VISUAL = "✓"
 COLUMNA_VER_DETALLE = "🔍"
 
 # Documentos que deben excluirse según las instrucciones
@@ -219,44 +227,65 @@ def agregar_documentos(df_base: pd.DataFrame) -> pd.DataFrame:
     return df_combinado
 
 
+def _limpiar_tras_dialogo() -> None:
+    st.session_state.pop("_dialogo_fila_idx", None)
+    st.session_state["_editor_rev_segfase"] = st.session_state.get("_editor_rev_segfase", 0) + 1
+
+
+@st.dialog("Vista rápida del registro", width="large", on_dismiss=_limpiar_tras_dialogo)
+def _dialogo_vista_rapida(fila: pd.Series, mapa=None) -> None:
+    for campo, etiqueta in CAMPOS_VISTA_RAPIDA:
+        if campo not in fila.index:
+            continue
+        valor = fila[campo]
+        st.markdown(f"**{etiqueta}**")
+        if campo == "cepal.topicSpa":
+            mostrar_temas_pills(valor, mapa)
+        elif campo == "dc.identifier.uri":
+            mostrar_detalle_campo(campo, valor)
+        elif campo == "dc.date.issued":
+            fecha_es = formatear_fecha_es(valor)
+            if fecha_es:
+                st.write(fecha_es)
+            else:
+                st.caption("_vacío_")
+        elif pd.isna(valor) or str(valor).strip() == "":
+            st.caption("_vacío_")
+        else:
+            st.write(str(valor))
+    if "dc.year" in fila.index and (
+        "dc.date.issued" not in fila.index
+        or pd.isna(fila.get("dc.date.issued"))
+        or str(fila.get("dc.date.issued", "")).strip() == ""
+    ):
+        st.markdown("**Año**")
+        v_anio = fila["dc.year"]
+        st.write(str(v_anio) if pd.notna(v_anio) else "_vacío_")
+
+    if st.button("Cerrar", type="primary", use_container_width=True):
+        _limpiar_tras_dialogo()
+        st.rerun()
+
+
 def main() -> None:
     """Página principal de la segunda fase de documentos"""
     st.title("Documentos para 2da fase")
-    st.markdown("""
-    Esta vista muestra el listado depurado de documentos para la segunda fase del análisis.
-    Se han aplicado los siguientes criterios:
     
-    **Base de partida**: 239 documentos sustantivos con tema "CAMBIO CLIMÁTICO"
-    
-    **Documentos excluidos (9 total):**
-    - Acuerdo Regional (versiones duplicadas): 4 documentos
-    - Versiones accesibles: 2 documentos
-    - Revistas de CEPAL: 3 documentos
-    
-    **Documentos agregados (14 total):**
-    - Documentos del Período de Sesiones de CEPAL: 5 documentos
-    - Documentos del Foro Regional sobre Desarrollo Sostenible: 9 documentos
-    """)
-    
-    # Cargar datos
     df = cargar_datos()
+    mapa_clusters = cargar_mapa_clusters(_mtime=_mtime_archivo(ARCHIVO_CLUSTERS))
     
-    # Base: Documentos sustantivos con tema "CAMBIO CLIMÁTICO", sin boletines
     df_cambio_climatico = filtrar_cambio_climatico(df)
     df_sustantivos = filtrar_solo_sustantivas(df_cambio_climatico)
     df_sin_boletines = filtrar_excluir_boletines(df_sustantivos)
-    
-    st.info(f"Base (sustantivos sin boletines): {len(df_sin_boletines)} documentos")
-    
-    # Excluir documentos según instrucciones
     df_filtrado = excluir_documentos(df_sin_boletines)
-    excluidos = len(df_sin_boletines) - len(df_filtrado)
-    st.info(f"Documentos excluidos: {excluidos} | Después de aplicar exclusiones: {len(df_filtrado)} documentos")
-    
-    # Agregar documentos adicionales
     df_final = agregar_documentos(df_filtrado)
-    agregados = len(df_final) - len(df_filtrado)
-    st.success(f"Documentos agregados: {agregados} | Listado final para segunda fase: {len(df_final)} documentos")
+    
+    with st.expander(f"Cómo se construyó este listado ({len(df_final)} documentos)"):
+        st.markdown(f"""
+        - **Base**: {len(df_sin_boletines)} documentos sustantivos con tema "CAMBIO CLIMÁTICO"
+        - **Excluidos**: {len(df_sin_boletines) - len(df_filtrado)} (Acuerdo Regional duplicado, versiones accesibles, revistas)
+        - **Agregados**: {len(df_final) - len(df_filtrado)} (documentos del Período de Sesiones y Foro Regional sobre DSS)
+        """)
     
     # Mostrar tabla con resultados
     columnas_mostrar = [
@@ -266,15 +295,43 @@ def main() -> None:
         "cepal.topicSpa",
         "dc.identifier.uri"
     ]
-    
-    # Filtrar columnas que existen en el DataFrame
     columnas_existentes = [col for col in columnas_mostrar if col in df_final.columns]
     
-    st.dataframe(
-        df_final[columnas_existentes],
-        use_container_width=True,
-        hide_index=True
+    df_vista = preparar_vista_tabla(df_final[columnas_existentes], max_chars=120)
+    df_vista.insert(0, COLUMNA_VER_DETALLE, [False] * len(df_vista))
+    
+    column_cfg: dict = {}
+    for col in columnas_existentes:
+        if col == "cepal.topicSpa":
+            column_cfg[col] = st.column_config.ListColumn(
+                col, width="large", help="Temas del registro",
+            )
+        elif col == "dc.identifier.uri":
+            column_cfg[col] = st.column_config.LinkColumn(
+                col, display_text="Abrir enlace",
+                help="Clic para abrir en otra pestaña",
+            )
+    column_cfg[COLUMNA_VER_DETALLE] = st.column_config.CheckboxColumn(
+        "🔍 ver", width="small",
+        help="Click para abrir el popup con detalle completo.",
     )
+    
+    rev_editor = st.session_state.get("_editor_rev_segfase", 0)
+    edited = st.data_editor(
+        df_vista,
+        use_container_width=True,
+        hide_index=True,
+        height=740,
+        column_config=column_cfg,
+        disabled=columnas_existentes,
+        key=f"editor_segfase_v{rev_editor}",
+    )
+    
+    for i, ojo in enumerate(edited[COLUMNA_VER_DETALLE].tolist()):
+        if bool(ojo) and st.session_state.get("_dialogo_fila_idx") != i:
+            st.session_state["_dialogo_fila_idx"] = i
+            _dialogo_vista_rapida(df_final.iloc[i], mapa_clusters)
+            break
     
     # Descargar listado
     csv = df_final.to_csv(index=False, encoding='utf-8')
