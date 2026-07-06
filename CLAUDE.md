@@ -38,8 +38,8 @@ Módulos de soporte:
 
 ## Documentación de proceso
 
-Además de este archivo, hay documentación de proceso en la raíz que registra decisiones y
-metodología (no código):
+Además de este archivo, hay documentación de proceso que registra decisiones y metodología (no
+código):
 
 - [CLUSTERS.md](CLUSTERS.md) — mapeo tema → cluster usado por `clusters.xlsx`.
 - [SEGUNDA_FASE.md](SEGUNDA_FASE.md) y [DOCUMENTOS_EXCLUIDOS_DEFINITIVO.md](DOCUMENTOS_EXCLUIDOS_DEFINITIVO.md)
@@ -47,9 +47,11 @@ metodología (no código):
   referencian funciones (`excluir_documentos`, `agregar_documentos`) que ya no existen tras el
   refactor de `datos.py`/`segunda_fase.py`; usar `segunda_fase.py` como fuente de verdad del
   proceso actual.
-- [FASE2_PREPARACION.md](FASE2_PREPARACION.md) — revisión crítica de la nota conceptual del curso,
-  intercambio con el equipo del curso, propuesta de codebook para clasificación a nivel de
-  fragmento, y muestra de calibración de 14 documentos.
+- [fase2/](fase2/) — carpeta con el trabajo de Fase 2 (análisis estructurado a nivel de fragmento):
+  [fase2/README.md](fase2/README.md) (revisión crítica de la nota conceptual e intercambio con el
+  equipo del curso), [fase2/codebook_v0.md](fase2/codebook_v0.md) (propuesta de codificación) y
+  [fase2/muestra_calibracion.csv](fase2/muestra_calibracion.csv) (14 documentos para calibrar el
+  codebook antes de escalar a los 244).
 
 ## Datos esperados
 
