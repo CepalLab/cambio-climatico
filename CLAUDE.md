@@ -36,6 +36,21 @@ Módulos de soporte:
   `aplicar_cambios_lote` = 1 commit al repo.
 - [graficos_echarts.py](graficos_echarts.py) — construcción de opciones ECharts.
 
+## Documentación de proceso
+
+Además de este archivo, hay documentación de proceso en la raíz que registra decisiones y
+metodología (no código):
+
+- [CLUSTERS.md](CLUSTERS.md) — mapeo tema → cluster usado por `clusters.xlsx`.
+- [SEGUNDA_FASE.md](SEGUNDA_FASE.md) y [DOCUMENTOS_EXCLUIDOS_DEFINITIVO.md](DOCUMENTOS_EXCLUIDOS_DEFINITIVO.md)
+  — metodología de depuración del corpus de 244 documentos (Fase 1→2). **Desactualizados**:
+  referencian funciones (`excluir_documentos`, `agregar_documentos`) que ya no existen tras el
+  refactor de `datos.py`/`segunda_fase.py`; usar `segunda_fase.py` como fuente de verdad del
+  proceso actual.
+- [FASE2_PREPARACION.md](FASE2_PREPARACION.md) — revisión crítica de la nota conceptual del curso,
+  intercambio con el equipo del curso, propuesta de codebook para clasificación a nivel de
+  fragmento, y muestra de calibración de 14 documentos.
+
 ## Datos esperados
 
 En la raíz del repo (mismo nivel que `app.py`):

@@ -12,6 +12,13 @@ venv/
 # Datos locales / backups
 *.backup.xlsx
 *.tmp
+*.7z
+
+# Selección de revisión local (fallback sin backend GitHub) — nunca subir marcas reales
+seleccion_revision.json
+
+# Archivos de lock de Office (Word/Excel abiertos)
+~$*
 
 # Notebooks state
 .ipynb_checkpoints/
