@@ -20,16 +20,13 @@ from datos import (
     MapaClusters,
     _mtime_archivo,
     cargar_datos,
+    cargar_documentos_definitivos,
     cargar_mapa_clusters,
     color_tema,
-    filtrar_excluir_boletines,
-    filtrar_solo_sustantivas,
 )
 from topic_spa import contiene_tema, normalizar_a_lista, temas_a_texto
-import seleccion
 
 COLUMNA_URI = "dc.identifier.uri"
-COLUMNA_INCLUIR_VISUAL = "✓"
 COLUMNA_VER_DETALLE = "🔍"
 
 # Selección por lotes sobre el filtro actual.
@@ -151,14 +148,7 @@ def es_url_valida(valor) -> bool:
 
 
 def construir_column_config(df: pd.DataFrame, columnas: list[str]) -> dict:
-    config = {
-        COLUMNA_INCLUIR_VISUAL: st.column_config.CheckboxColumn(
-            COLUMNA_INCLUIR_VISUAL,
-            width="small",
-            disabled=True,
-            help="Marcado para incluir en el análisis. Edítalo desde el popup del registro.",
-        )
-    }
+    config: dict = {}
     for col in columnas:
         if col == "cepal.topicSpa":
             config[col] = st.column_config.ListColumn(
@@ -296,7 +286,7 @@ def mostrar_temas_pills(valor, mapa: MapaClusters | None = None) -> None:
 
 @st.dialog("Vista rápida del registro", width="large", on_dismiss=marcar_limpieza_tras_dialogo)
 def dialogo_vista_rapida(fila: pd.Series, mapa: MapaClusters | None = None) -> None:
-    """Popup de detalle + edición de Incluir/Nota."""
+    """Popup de detalle del registro."""
     for campo, etiqueta in CAMPOS_VISTA_RAPIDA:
         if campo not in fila.index:
             continue
@@ -325,66 +315,19 @@ def dialogo_vista_rapida(fila: pd.Series, mapa: MapaClusters | None = None) -> N
         v_anio = fila["dc.year"]
         st.write(str(v_anio) if pd.notna(v_anio) else "_vacío_")
 
-    uri = str(fila.get(COLUMNA_URI, "")).strip() if COLUMNA_URI in fila.index else ""
-    if uri:
-        st.divider()
-        st.markdown("### Selección para análisis")
-        marca_actual = seleccion.marca_de(uri)
-        if marca_actual.marcado_en:
-            st.caption(f"Última actualización: `{marca_actual.marcado_en}`")
-        incluir_nuevo = st.toggle(
-            "Incluir en el análisis",
-            value=marca_actual.incluir,
-            key=f"toggle_incluir_{uri}",
-        )
-        nota_nueva = st.text_area(
-            "Nota del revisor",
-            value=marca_actual.nota,
-            placeholder="Justificación, observaciones, contexto…",
-            height=110,
-            key=f"nota_{uri}",
-        )
-        col_g, col_c = st.columns(2)
-        with col_g:
-            if st.button("Guardar", type="primary", use_container_width=True, key=f"guardar_{uri}"):
-                try:
-                    seleccion.actualizar_marca(uri, incluir_nuevo, nota_nueva)
-                    st.toast("Selección guardada", icon="✅")
-                    marcar_limpieza_tras_dialogo()
-                    st.rerun()
-                except Exception as exc:  # noqa: BLE001
-                    st.error(f"No se pudo guardar: {exc}")
-        with col_c:
-            if st.button("Cerrar", use_container_width=True, key=f"cerrar_{uri}"):
-                marcar_limpieza_tras_dialogo()
-                st.rerun()
-    else:
-        if st.button("Cerrar", type="primary", use_container_width=True):
-            marcar_limpieza_tras_dialogo()
-            st.rerun()
+    # Mostrar trazabilidad
+    st.divider()
+    st.markdown("### Trazabilidad")
+    if "__origen" in fila.index:
+        origen = fila["__origen"]
+        justificacion = fila.get("__justificacion", "")
+        st.caption(f"**Origen**: {origen}")
+        if justificacion:
+            st.caption(f"**Justificación**: {justificacion}")
 
-
-def _aplicar_bulk(uris: list[str], incluir: bool) -> int:
-    """Aplica incluir/excluir a una lista de URIs en una sola escritura.
-    Conserva las notas existentes (aplicar_cambios_lote no las toca)."""
-    cambios = {u: incluir for u in uris}
-    return seleccion.aplicar_cambios_lote(cambios)
-
-
-def _construir_export_seleccion(df_completo: pd.DataFrame) -> pd.DataFrame:
-    """DataFrame con las publicaciones marcadas + nota + fecha de marcado."""
-    estado = seleccion.cargar_seleccion()
-    incluidas = {u: m for u, m in estado.items() if m.incluir}
-    if not incluidas or COLUMNA_URI not in df_completo.columns:
-        return pd.DataFrame()
-    df_sel = df_completo[df_completo[COLUMNA_URI].astype(str).isin(incluidas)].copy()
-    df_sel["__nota_revisor"] = df_sel[COLUMNA_URI].astype(str).map(
-        lambda u: incluidas[u].nota if u in incluidas else ""
-    )
-    df_sel["__marcado_en"] = df_sel[COLUMNA_URI].astype(str).map(
-        lambda u: incluidas[u].marcado_en if u in incluidas else ""
-    )
-    return df_sel
+    if st.button("Cerrar", type="primary", use_container_width=True):
+        marcar_limpieza_tras_dialogo()
+        st.rerun()
 
 
 def mostrar_detalle_campo(nombre: str, valor) -> None:
@@ -399,13 +342,13 @@ def mostrar_detalle_campo(nombre: str, valor) -> None:
 
 def main() -> None:
     st.title("Explorador de publicaciones")
-    st.caption("Publicaciones sustantivas excluyendo boletines.")
+    st.caption("Corpus definitivo de publicaciones sobre cambio climático para Fase 2.")
 
     if not ARCHIVO_DATOS.exists():
         st.error(f"No se encontró el archivo de datos: {ARCHIVO_DATOS}")
         st.stop()
 
-    df_completo = cargar_datos(_mtime=_mtime_archivo(ARCHIVO_DATOS))
+    df_completo = cargar_documentos_definitivos(_mtime=_mtime_archivo(ARCHIVO_DATOS))
     mapa_clusters = cargar_mapa_clusters(_mtime=_mtime_archivo(ARCHIVO_CLUSTERS))
     todas_las_columnas = sorted(df_completo.columns.tolist())
 
@@ -413,22 +356,11 @@ def main() -> None:
     modo_vacio = "Todos"
     valores: list = []
 
-    solo_clima = True
-    solo_sustantivas = True
-    excluir_boletines = True
     columnas_visibles = columnas_por_plantilla(PLANTILLA_DEFECTO, todas_las_columnas)
     max_tabla = 120
     filas_pagina = 30
 
     df_base = df_completo
-    if solo_clima and "cepal.topicSpa" in df_base.columns:
-        df_base = df_base[
-            df_base["cepal.topicSpa"].apply(lambda v: contiene_tema(v, "CAMBIO CLIMÁTICO"))
-        ]
-    if solo_sustantivas:
-        df_base = filtrar_solo_sustantivas(df_base)
-    if excluir_boletines:
-        df_base = filtrar_excluir_boletines(df_base)
 
     texto_busqueda = st.text_input(
         "Buscar texto",
@@ -476,22 +408,6 @@ def main() -> None:
         )
 
         st.divider()
-        st.subheader("Selección de revisión")
-        try:
-            n_incluidos = seleccion.total_incluidos()
-        except Exception as exc:  # noqa: BLE001
-            n_incluidos = 0
-            st.error(f"No se pudo cargar selección: {exc}")
-        st.metric("Publicaciones marcadas", n_incluidos)
-        filtro_seleccion = st.radio(
-            "Mostrar",
-            ["Todas", "Solo marcadas", "Solo no marcadas"],
-            horizontal=False,
-            key="filtro_seleccion",
-        )
-        st.caption(f"Persistencia → {seleccion.store_etiqueta()}")
-
-        st.divider()
         st.caption(f"**{len(df_completo):,}** filas · **{len(todas_las_columnas)}** columnas")
 
     if not columnas_visibles:
@@ -520,14 +436,6 @@ def main() -> None:
             df = df[serie.notna() & serie.astype(str).str.strip().ne("")]
         if col_filtro in df.columns and valores:
             df = df[df[col_filtro].isin(valores)]
-
-    if filtro_seleccion != "Todas" and COLUMNA_URI in df.columns:
-        uris_inc = seleccion.uris_incluidas()
-        mask_inc = df[COLUMNA_URI].astype(str).isin(uris_inc)
-        if filtro_seleccion == "Solo marcadas":
-            df = df[mask_inc]
-        else:
-            df = df[~mask_inc]
 
     columna_orden = None if orden_col == "— sin orden —" else orden_col
     ascendente = not orden_desc
@@ -654,9 +562,7 @@ def main() -> None:
     uris_pagina: list[str] = []
     if COLUMNA_URI in df_pagina.columns:
         uris_pagina = df_pagina[COLUMNA_URI].astype(str).tolist()
-        incluido_efectivo = [seleccion.marca_de(u).incluir for u in uris_pagina]
         df_vista.insert(0, COLUMNA_VER_DETALLE, [False] * len(df_vista))
-        df_vista.insert(1, COLUMNA_INCLUIR_VISUAL, incluido_efectivo)
 
     column_cfg = construir_column_config(df_pagina, cols_para_mostrar)
     altura = altura_tabla(
@@ -669,15 +575,10 @@ def main() -> None:
         column_cfg[COLUMNA_VER_DETALLE] = st.column_config.CheckboxColumn(
             "🔍 ver",
             width="small",
-            help="Click para abrir el popup con detalle completo y editar nota.",
-        )
-        column_cfg[COLUMNA_INCLUIR_VISUAL] = st.column_config.CheckboxColumn(
-            "Incluir",
-            width="small",
-            help="Marcar para incluir en el análisis (autosave por click).",
+            help="Click para abrir el popup con detalle completo.",
         )
         rev_editor = st.session_state.get("_editor_rev", 0)
-        clave_editor = f"editor_marcado_p{pagina}_v{rev_editor}"
+        clave_editor = f"editor_vista_p{pagina}_v{rev_editor}"
         edited = st.data_editor(
             df_vista,
             use_container_width=True,
@@ -694,20 +595,6 @@ def main() -> None:
             if bool(ojo):
                 indice_a_inspeccionar = i
                 break
-
-        # ✓ → autosave de cambios de inclusión
-        cambios: dict[str, bool] = {}
-        for uri, nuevo in zip(uris_pagina, edited[COLUMNA_INCLUIR_VISUAL].tolist()):
-            nuevo_bool = bool(nuevo)
-            if nuevo_bool != seleccion.marca_de(uri).incluir:
-                cambios[uri] = nuevo_bool
-        if cambios:
-            try:
-                with st.spinner("Guardando…"):
-                    seleccion.aplicar_cambios_lote(cambios)
-                st.toast(f"{len(cambios)} marca(s) guardadas", icon="✅")
-            except Exception as exc:  # noqa: BLE001
-                st.error(f"No se pudo guardar: {exc}")
 
         if indice_a_inspeccionar is not None:
             indice_global = inicio + indice_a_inspeccionar
@@ -727,8 +614,7 @@ def main() -> None:
         )
 
     st.caption(
-        "Columna **🔍 ver**: tilda para abrir el popup completo (se auto-resetea al cerrar). "
-        "Columna **Incluir**: marcar/desmarcar para incluir en el análisis (autosave). "
+        "Columna **🔍 ver**: tilda para abrir el popup completo con detalle y trazabilidad. "
         "Orden global: barra lateral → «Ordenar por» (las flechas de la tabla solo reordenan la página visible)."
     )
 
@@ -742,15 +628,16 @@ def main() -> None:
             use_container_width=True,
         )
     with col_dl_b:
-        df_seleccion = _construir_export_seleccion(df_completo)
+        cols_trazabilidad = [c for c in ["dc.title", "dc.year", "dc.identifier.uri",
+                                          "__origen", "__justificacion", "__fecha_inclusion"]
+                             if c in df.columns]
         st.download_button(
-            f"Descargar selección final ({len(df_seleccion)})",
-            data=df_seleccion.to_csv(index=False).encode("utf-8-sig"),
-            file_name="seleccion_final.csv",
+            f"Descargar definitivos con trazabilidad ({len(df)})",
+            data=df[cols_trazabilidad].to_csv(index=False).encode("utf-8-sig"),
+            file_name="documentos_definitivos_trazabilidad.csv",
             mime="text/csv",
-            disabled=df_seleccion.empty,
             use_container_width=True,
-            help="Solo las publicaciones marcadas como Incluir.",
+            help="Documentos definitivos con metadatos de origen y justificación.",
         )
 
 

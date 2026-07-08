@@ -28,3 +28,8 @@ seleccion_revision.json
 .idea/
 .DS_Store
 Thumbs.db
+
+# Fase 2 — PDFs descargados del repositorio y extracciones temporales (no versionar binarios pesados)
+fase2/pilot/pdfs/
+fase2/corpus/pdfs/
+fase2/_nota_conceptual_extraida.txt

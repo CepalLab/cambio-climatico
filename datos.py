@@ -265,3 +265,144 @@ def frecuencia_temas(df: pd.DataFrame) -> dict[str, int]:
             clave = normalizar_nombre_tema(tema)
             conteo[clave] = conteo.get(clave, 0) + 1
     return conteo
+
+
+# ---------------------------------------------------------------------------
+# Documentos definitivos para Fase 2
+# ---------------------------------------------------------------------------
+
+# Documentos que deben excluirse según las instrucciones de los expertos
+DOCUMENTOS_A_EXCLUIR: list[str] = [
+    "Acuerdo Regional",  # Versiones duplicadas en varios idiomas
+    "Reglas de procedimiento del Acuerdo de Escazú",
+    "Catálogo de publicaciones de la División de Desarrollo Sostenible y Asentamientos Humanos",
+    "The Hummingbird",  # Revistas que deben excluirse
+]
+
+# Documentos adicionales que deben agregarse (Período de Sesiones + Foro Regional)
+DOCUMENTOS_A_AGREGAR: list[dict] = [
+    {"titulo": "América Latina y el Caribe ante las trampas del desarrollo", "anio": 2024,
+     "handle": "https://hdl.handle.net/11362/80727"},
+    {"titulo": "Hacia la transformación del modelo de desarrollo", "anio": 2022,
+     "handle": "https://hdl.handle.net/11362/48304"},
+    {"titulo": "Construir un nuevo futuro", "anio": 2020,
+     "handle": "https://hdl.handle.net/11362/46227"},
+    {"titulo": "La ineficiencia de la desigualdad", "anio": 2018,
+     "handle": "https://hdl.handle.net/11362/43442"},
+    {"titulo": "Horizontes 2030", "anio": 2016,
+     "handle": "https://hdl.handle.net/11362/40159"},
+    {"titulo": "Agenda 2030 en América Latina y el Caribe", "anio": 2026,
+     "handle": "https://hdl.handle.net/11362/89774"},
+    {"titulo": "América Latina y el Caribe y la Agenda 2030 a cinco años", "anio": 2025,
+     "handle": "https://hdl.handle.net/11362/81405"},
+    {"titulo": "América Latina y el Caribe ante el desafío de acelerar el paso", "anio": 2024,
+     "handle": "https://hdl.handle.net/11362/69132"},
+    {"titulo": "América Latina y el Caribe en la mitad del camino hacia 2030", "anio": 2023,
+     "handle": "https://hdl.handle.net/11362/48823"},
+    {"titulo": "Una década de acción para un cambio de época", "anio": 2022,
+     "handle": "https://hdl.handle.net/11362/47745"},
+    {"titulo": "INFORME ANUAL DE PROGRESO", "anio": 2021,
+     "handle": "https://hdl.handle.net/11362/46682"},
+    {"titulo": "Informe de avance cuatrienal sobre el progreso", "anio": 2019,
+     "handle": "https://hdl.handle.net/11362/44551"},
+    {"titulo": "Segundo informe anual sobre el progreso", "anio": 2018,
+     "handle": "https://hdl.handle.net/11362/43415"},
+    {"titulo": "Informe anual sobre el progreso y los desafíos regionales", "anio": 2017,
+     "handle": "https://hdl.handle.net/11362/41173"},
+]
+
+COLUMNA_URI = "dc.identifier.uri"
+
+
+def _excluir_documentos(df: pd.DataFrame) -> pd.DataFrame:
+    """Excluye documentos según las instrucciones de los expertos."""
+    for titulo in DOCUMENTOS_A_EXCLUIR:
+        df = df[~df["dc.title"].str.contains(titulo, case=False, na=False)]
+    df = df[~df["dc.title"].str.contains("accesible", case=False, na=False)]
+    df = df[~df["dc.title"].str.contains("Catálogo de publicaciones", case=False, na=False)]
+    if "tipo_gr" in df.columns:
+        es_revista = df["tipo_gr"].astype(str).eq("Boletines y Revistas")
+        df = df[~es_revista]
+    return df
+
+
+def _agregar_documentos(df_base: pd.DataFrame, df_completo: pd.DataFrame) -> pd.DataFrame:
+    """Agrega los 14 documentos adicionales al DataFrame."""
+    nuevos_documentos: list[dict] = []
+    handles_en_base = set(df_base[COLUMNA_URI].dropna().astype(str))
+
+    for doc in DOCUMENTOS_A_AGREGAR:
+        handle = doc.get("handle", "")
+        if handle in handles_en_base:
+            continue
+        registro = df_completo[df_completo[COLUMNA_URI] == handle]
+        if len(registro) > 0:
+            nuevos_documentos.append(registro.iloc[0].to_dict())
+        else:
+            nuevos_documentos.append({
+                "dc.title": doc["titulo"],
+                "dc.year": doc["anio"],
+                "dc.identifier.uri": doc["handle"],
+                "cepal.topicSpa": [],
+                "division": "Documentos adicionales",
+                "tipo_gr": "Documentos adicionales",
+                "dc.description.abstract": f"Documento adicional para segunda fase. Año: {doc['anio']}",
+            })
+
+    if nuevos_documentos:
+        return pd.concat([df_base, pd.DataFrame(nuevos_documentos)], ignore_index=True)
+    return df_base.copy()
+
+
+def _marcar_trazabilidad(df: pd.DataFrame) -> pd.DataFrame:
+    """Agrega columnas de trazabilidad al DataFrame de definitivos."""
+    import datetime
+
+    df = df.copy()
+    handles_agregados = {d["handle"] for d in DOCUMENTOS_A_AGREGAR}
+    ahora = datetime.datetime.now().isoformat(timespec="seconds")
+
+    def _origen(fila):
+        uri = str(fila.get(COLUMNA_URI, ""))
+        if uri in handles_agregados:
+            return "agregado_fase2"
+        return "corpus_original"
+
+    def _justificacion(fila):
+        uri = str(fila.get(COLUMNA_URI, ""))
+        titulo = str(fila.get("dc.title", ""))
+        if uri in handles_agregados:
+            doc = next((d for d in DOCUMENTOS_A_AGREGAR if d["handle"] == uri), None)
+            if doc:
+                if "foro" in titulo.lower() or "agenda 2030" in titulo.lower():
+                    return "agregado_foro_regional"
+                return "agregado_periodo_sesiones"
+        for excl in DOCUMENTOS_A_EXCLUIR:
+            if excl.lower() in titulo.lower():
+                return "excluido_" + excl[:30].replace(" ", "_")
+        if "accesible" in titulo.lower():
+            return "excluido_version_accesible"
+        return "corpus_original"
+
+    df["__origen"] = df.apply(_origen, axis=1)
+    df["__justificacion"] = df.apply(_justificacion, axis=1)
+    df["__fecha_inclusion"] = ahora
+    df["__fase"] = "fase2_depuracion"
+    return df
+
+
+def cargar_documentos_definitivos(_mtime: int = 0) -> pd.DataFrame:
+    """Carga el corpus definitivo para Fase 2 con columnas de trazabilidad.
+
+    Aplica: cambio climático → sustantivas → excluir boletines →
+    excluir documentos específicos → agregar documentos adicionales →
+    marcar trazabilidad.
+    """
+    df_completo = cargar_datos(_mtime=_mtime)
+    df = filtrar_cambio_climatico(df_completo)
+    df = filtrar_solo_sustantivas(df)
+    df = filtrar_excluir_boletines(df)
+    df = _excluir_documentos(df)
+    df = _agregar_documentos(df, df_completo)
+    df = _marcar_trazabilidad(df)
+    return df

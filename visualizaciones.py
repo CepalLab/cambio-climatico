@@ -17,6 +17,7 @@ from datos import (
     PERIODOS_BINS,
     _mtime_archivo,
     cargar_datos,
+    cargar_documentos_definitivos,
     cargar_mapa_clusters,
     frecuencia_temas,
     filtrar_cambio_climatico,
@@ -150,6 +151,14 @@ def main() -> None:
     todos_periodos = [etiqueta for etiqueta, _, _ in PERIODOS_BINS]
 
     with st.sidebar:
+        st.subheader("Fuente de datos")
+        solo_definitivos = st.checkbox(
+            "Mostrar solo documentos definitivos",
+            value=True,
+            help="Filtra el corpus a los documentos validados para Fase 2.",
+        )
+
+        st.divider()
         st.subheader("Periodo")
         periodos_sel = st.multiselect(
             "Bins de años",
@@ -210,11 +219,17 @@ def main() -> None:
                 + ", ".join(c for c in mapa.columnas_detectadas if c)
             )
 
-    df = filtrar_cambio_climatico(df_completo) if solo_clima else df_completo
-    if solo_sustantivas:
-        df = filtrar_solo_sustantivas(df)
-    if excluir_boletines:
-        df = filtrar_excluir_boletines(df)
+    if solo_definitivos:
+        df = cargar_documentos_definitivos(_mtime=_mtime_archivo(ARCHIVO_DATOS))
+        # Quitar columnas de trazabilidad para que no afecten los gráficos
+        cols_traz = [c for c in df.columns if c.startswith("__")]
+        df = df.drop(columns=cols_traz, errors="ignore")
+    else:
+        df = filtrar_cambio_climatico(df_completo) if solo_clima else df_completo
+        if solo_sustantivas:
+            df = filtrar_solo_sustantivas(df)
+        if excluir_boletines:
+            df = filtrar_excluir_boletines(df)
 
     df_periodo = filtrar_periodos(df, periodos_sel)
     periodo_activo = len(df_periodo) != len(df)
@@ -225,7 +240,9 @@ def main() -> None:
         if temas_sin:
             st.sidebar.caption(f"{temas_sin} tema(s) sin entrada en clusters.xlsx")
 
-    if periodo_activo:
+    if solo_definitivos:
+        st.metric("Documentos definitivos (Fase 2)", f"{len(df):,}")
+    elif periodo_activo:
         etiqueta_periodo = ", ".join(periodos_sel) if periodos_sel else "—"
         col_m1, col_m2 = st.columns(2)
         col_m1.metric("Registros (corpus)", f"{len(df):,}")
