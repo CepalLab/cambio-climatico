@@ -18,6 +18,10 @@ Contenido:
   institucional (gran impulso ambiental, articulación de actores, oportunidades productivas sostenibles, "cómo hacerlo"), pendiente de recalibrar con feedback sobre el piloto.
 - [pipeline/cepal_repositorio.py](pipeline/cepal_repositorio.py) — utilidad que resuelve handles del
   repositorio institucional vía su API REST (sin scraping), usada por el plan anterior.
+- [para_equipo_curso/](para_equipo_curso/) — **material divulgativo, NO canónico**: nota metodológica
+  en lenguaje simple para compartir con el equipo del curso + 3 anexos con las fichas de los pilotos en
+  formato tabla (versión legible de los JSON de `pilot/`). Si la metodología canónica cambia, revisar que
+  este material no quede desincronizado antes de enviarlo.
 
 ---
 
