@@ -1,7 +1,7 @@
-# Metodología de interpelación institucional v0.3
+# Metodología de interpelación institucional v0.4
 
-**Fecha**: 2026-07-07 (creación) — revisado 2026-07-07 (Ronda 2), 2026-07-07 (Ronda 3) y 2026-07-08 (Ronda 4)
-**Estado**: v0.3, recalibrado con la revisión humana de los 3 JSON piloto (Ronda 3): definición operativa del gran impulso ambiental anclada a [big_push.md](big_push.md), regla de ámbito de aplicación para el criterio (ii) —que corrigió el veredicto de doc13—, y regla de autocontención (los veredictos no referencian otros documentos del corpus, ver [esquema_json_v1.md](esquema_json_v1.md) regla transversal 3). Ronda 4 cierra dos preguntas que quedaban abiertas (ver [§1.6](#16-documentos-de-naturaleza-distinta-a-una-propuesta-de-política-climática-ronda-4) y el cierre de sección 4).
+**Fecha**: 2026-07-07 (creación) — revisado 2026-07-07 (Ronda 2), 2026-07-07 (Ronda 3), 2026-07-08 (Ronda 4) y 2026-07-13 (Ronda 5)
+**Estado**: v0.4. La v0.3 quedó recalibrada con la revisión humana de los 3 JSON piloto (Ronda 3): definición operativa del gran impulso ambiental anclada a [big_push.md](big_push.md), regla de ámbito de aplicación para el criterio (ii) —que corrigió el veredicto de doc13—, y regla de autocontención (los veredictos no referencian otros documentos del corpus, ver [esquema_json_v1.md](esquema_json_v1.md) regla transversal 3). Ronda 4 cerró dos preguntas que quedaban abiertas (ver [§1.6](#16-documentos-de-naturaleza-distinta-a-una-propuesta-de-política-climática-ronda-4) y el cierre de sección 4). La v0.4 (Ronda 5) incorpora dos refuerzos derivados de la prueba de portabilidad multimodelo sobre doc09 ([pilot/EVALUACION_MULTIMODELO_DOC09.md](pilot/EVALUACION_MULTIMODELO_DOC09.md)): el cierre de la zona gris del criterio (ii) sobre mecanismos de planificación ([§1.2](#12-regla-sharpened--criterio-ii-institución-o-mecanismo-nombrado-no-solo-actores-nombrados)) y el anclaje del test de concreción del criterio (iv) con ítems resueltos, regla de unidad y regla de desempate ([§1.4](#14-regla-sharpened--criterio-iv-enumeración-ítem-por-ítem-no-la-lista-completa-a-la-vez)).
 Sigue pendiente de validación por el equipo del curso antes de escalar a los 12 documentos restantes de la muestra.
 
 **Unidad de análisis**: documento completo.
@@ -44,6 +44,8 @@ interés" y lenguaje de "se podría considerar la posibilidad de colaborar". Reg
 - El mecanismo nombrado cuenta para "Sí" solo si pertenece al **ámbito de aplicación** del documento (la región/países que analiza — misma distinción ámbito vs. referentes del [codebook §2](codebook_v0.md)) o si el documento lo **propone explícitamente** para ese ámbito.
 - Mecanismos extrarregionales citados como referentes o buenas prácticas topean el veredicto en **"Parcial"**, por concretos que sean — describen la articulación de otros, no la del sujeto del documento.
 
+**Aclaración Ronda 5 — los mecanismos de planificación multiactor cuentan.** En la prueba de portabilidad multimodelo ([pilot/EVALUACION_MULTIMODELO_DOC09.md](pilot/EVALUACION_MULTIMODELO_DOC09.md)) un modelo bajó el veredicto a "Parcial" razonando que el mecanismo citado "es un instrumento de planificación, no una plataforma de articulación de actores" — una interpretación defendible que esta regla no cerraba. Se cierra así: **un mecanismo, plan o proceso de planificación con nombre propio cuenta como mecanismo de articulación** cuando (a) su proceso integra formalmente a múltiples tipos de actores (no solo al ente rector del sector), y (b) está adoptado, avalado o en implementación institucional dentro del ámbito de aplicación. El criterio no distingue "planificación" de "articulación" como categorías excluyentes: si el proceso de planificación *es* el espacio donde los actores se coordinan, es el mecanismo que este criterio busca. Ejemplo resuelto: el IRRP de doc09 — avalado por CARICOM, en desarrollo en cinco países con apoyo del CCREEE, con integración explícita de autoridades ambientales, oficinas meteorológicas, agencias de emergencia y planificadores urbanos en su proceso — es "Sí", no "Parcial".
+
 ### 1.3 Regla sharpened — criterio (iii): enumeración de oportunidades + chequeo explícito de empleo/desigualdad
 
 No basta con una mención aislada de "co-beneficios económicos". El criterio pide dos cosas verificables por separado: (a) que el documento **enumere** sectores, industrias, mercados o actividades concretas donde ve la oportunidad (no una afirmación genérica de que "hay oportunidades"), y (b) que conecte esa enumeración
@@ -61,6 +63,25 @@ proporción de la lista pasa el test, no si existe una lista.
 - **Sí**: la mayoría de los ítems enumerados (indicar M de N) pasan el test de concreción — verbo + objeto específico, identificable como acción ejecutable.
 - **Parcial**: la lista existe pero es una mezcla — algunos ítems pasan el test de concreción y otros son genéricos/aspiracionales (indicar M de N igualmente, para que quede trazable cuál es cuál).
 - **No**: la lista, si existe, es mayoritariamente genérica, o solo hay diagnóstico sin recomendación operativa.
+
+**Refuerzos Ronda 5** (derivados de la prueba de portabilidad multimodelo, donde este test resultó la métrica más inestable del pipeline — tally de 4/8 a 7/8 sobre el mismo documento con estas mismas reglas):
+
+1. **Unidad de análisis del desglose**: el test se corre sobre el **texto completo de cada recomendación en la sección de recomendaciones del documento**, nunca sobre versiones abreviadas en recuadros de portada, "key messages" o resúmenes. Los bullets abreviados pierden exactamente el objeto específico que hace pasar o fallar el test. Las páginas de `desglose_items` deben caer dentro del rango de esa sección.
+2. **Qué decide no es el verbo sino el objeto**: un ítem que enumera instrumentos, entregables o poblaciones identificables es CONCRETO aunque el verbo sea blando ("promover X" es CONCRETO si X es una lista de instrumentos nombrados); un ítem cuyo objeto es una capacidad o principio abstracto ("capacidades", "coordinación", "resiliencia" a secas) es GENERICO aunque el verbo sea de acción.
+3. **Regla de desempate**: si tras aplicar la regla 2 el ítem sigue siendo genuinamente ambiguo, se clasifica **GENERICO** — es la misma lógica del default a Parcial/No ante ambigüedad que rige toda la metodología. Clasificar CONCRETO exige poder señalar el instrumento/entregable/población en el texto del ítem.
+
+**Ítems resueltos (anclas del test de concreción)** — tomados de doc11 y doc13 del piloto (deliberadamente no de doc09, que es el caso de prueba del protocolo de portabilidad; ver las fichas completas en los JSON de `pilot/`):
+
+| Ítem (abreviado) | Clasificación | Por qué |
+| ---------------- | ------------- | ------- |
+| "Crear un fondo de emergencia para familias con niñas y niños pequeños tras eventos climáticos extremos" (doc11, p.43) | CONCRETO | Verbo + entregable identificable (fondo) + población objetivo (familias con niños pequeños) + disparador (post-evento). |
+| "Garantizar el diseño y la construcción de escuelas resistentes a fenómenos climáticos" (doc11, p.42) | CONCRETO | Objeto físico específico (escuelas) con estándar verificable (resistencia climática). |
+| "Promover políticas activas y pasivas del mercado laboral" (doc13, p.75) | CONCRETO | El verbo es blando, pero el ítem enumera los instrumentos: formación profesional, seguro médico universal, apoyo financiero por desempleo, revisión curricular (regla 2). |
+| "Promover políticas fiscales con objetivo climático" (doc13, p.76) | CONCRETO | Mismo caso: nombra comercio de derechos de emisión, impuestos al carbono, eliminación gradual de subsidios. |
+| "Priorizar la resiliencia de la infraestructura de agua potable y saneamiento" (doc11, p.42) | GENERICO | "Priorizar" sin acción ejecutable ni entregable — no dice qué se hace con esa prioridad. |
+| "Fortalecer las capacidades técnicas y la coordinación entre los actores del financiamiento climático" (doc11, p.42) | GENERICO | Objeto abstracto ("capacidades", "coordinación") sin instrumento ni entregable (regla 2). |
+| "Garantizar un poder de representación equilibrado entre sectores y partes interesadas" (doc13, p.75) | GENERICO | Solo "los marcos legales podrían ayudar" — condicional sin mecanismo nombrado. |
+| "Integrar las acciones de adaptación al clima con medidas de política comercial" (doc13, p.77) | GENERICO | Lenguaje de "es imperativo que" / "podría beneficiarse", sin instrumento identificable. |
 
 ### 1.5 Definición operativa del gran impulso ambiental — criterio (i) anclado a big_push.md (Ronda 3)
 

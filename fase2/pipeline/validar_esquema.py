@@ -22,6 +22,17 @@ XREF = re.compile(r"doc\s*\.?\s*0?9|doc\s*\.?\s*11|doc\s*\.?\s*13|documento[s]?\
 errores = []
 def err(doc, msg): errores.append(f"[{doc}] {msg}")
 
+def rango_pagina(p):
+    """Normaliza `pagina`/`paginas` (int, "9", "9-10") a una tupla (desde, hasta) o None."""
+    if isinstance(p, int): return (p, p)
+    if isinstance(p, str):
+        m = re.fullmatch(r"\s*(\d+)\s*(?:-\s*(\d+))?\s*", p)
+        if m: return (int(m.group(1)), int(m.group(2) or m.group(1)))
+    return None
+
+def contar_oraciones(texto):
+    return len([s for s in re.split(r"[.!?]+(?:\s|$)", texto or "") if s.strip()])
+
 def check_secciones(doc, secs, nivel_esperado=1, path=""):
     for s in secs:
         p = f"{path}/{s.get('seccion','?')[:40]}"
@@ -35,6 +46,14 @@ def check_secciones(doc, secs, nivel_esperado=1, path=""):
             if "subtipo_brecha" in d and d["dimension"] != "brechas_implementacion":
                 err(doc, f"seccion {p}: subtipo_brecha en dimension no-brecha")
         if s.get("subsecciones"): check_secciones(doc, s["subsecciones"], nivel_esperado+1, p)
+        else:
+            # Piso proporcional de calidad (Ronda 5): ~1 línea/página con piso de 3-4 líneas.
+            # Heurística barata: max(200, 55*páginas) caracteres en las hojas con resumen propio.
+            r, rng = s.get("resumen"), rango_pagina(s.get("paginas"))
+            if r and rng:
+                piso = max(200, 55 * (rng[1] - rng[0] + 1))
+                if len(r) < piso:
+                    err(doc, f"seccion {p}: resumen de {len(r)} caracteres, por debajo del piso proporcional (~{piso}) para {rng[1]-rng[0]+1} pagina(s)")
 
 PILOTO = [f"fase2/pilot/{n}.json" for n in
           ("doc09_caribbean_power", "doc11_pobreza_infantil", "doc13_carbono_frontera")]
@@ -71,6 +90,36 @@ for ruta in (sys.argv[1:] or PILOTO):
                 err(name, f"{c}: cita no es objeto {{cita,pagina}}")
     if "desglose_items" not in itp["como_hacerlo_concreto"] or "tally" not in itp["como_hacerlo_concreto"]:
         err(name, "como_hacerlo_concreto sin desglose_items/tally")
+    # --- Chequeos Ronda 5 (heurísticos, derivados de la prueba de portabilidad multimodelo) ---
+    chc = itp["como_hacerlo_concreto"]
+    items = chc.get("desglose_items") or []
+    # 1. Consistencia tally ↔ desglose: "M de N" debe coincidir con los ítems y sus clasificaciones.
+    m_tally = re.search(r"(\d+)\s+de\s+(\d+)", str(chc.get("tally", "")))
+    if m_tally and items:
+        m_dice, n_dice = int(m_tally.group(1)), int(m_tally.group(2))
+        concretos = sum(1 for it in items if it.get("clasificacion") == "CONCRETO")
+        if n_dice != len(items): err(name, f"tally dice N={n_dice} pero desglose_items tiene {len(items)} items")
+        if m_dice != concretos: err(name, f"tally dice M={m_dice} pero hay {concretos} items CONCRETO en el desglose")
+    # 2. Páginas del desglose dentro de la sección de recomendaciones (regla de unidad de INTERPELACION §1.4):
+    #    el test se corre sobre el texto completo de las recomendaciones, no sobre recuadros de portada.
+    rec_rangos = [rango_pagina(s.get("paginas")) for s in j["resumen_secciones"]
+                  if re.search(r"recomenda|recommendation|conclusi|conclusion", str(s.get("seccion", "")), re.I)]
+    rec_rangos = [r for r in rec_rangos if r]
+    if rec_rangos:
+        lo, hi = min(r[0] for r in rec_rangos), max(r[1] for r in rec_rangos)
+        fuera = [it for it in items if (rp := rango_pagina(it.get("pagina"))) and (rp[1] < lo or rp[0] > hi)]
+        if fuera:
+            err(name, f"{len(fuera)} item(s) del desglose con pagina fuera del rango de la seccion de recomendaciones ({lo}-{hi}) — posible uso de recuadro de portada/key messages")
+    # 3. Largo mínimo del resumen narrativo (3-5 oraciones según esquema §2).
+    narr = j["resumen_enriquecido"].get("resumen_narrativo", "")
+    if contar_oraciones(narr) < 3:
+        err(name, f"resumen_narrativo con {contar_oraciones(narr)} oracion(es), por debajo del piso de 3-5")
+    # 4. Encoding: un JSON en español sin un solo caracter acentuado/ñ delata pérdida de tildes en la
+    #    serialización del harness (observado en la prueba de portabilidad).
+    prosa = narr + " ".join(str(s.get("resumen") or "") for s in j["resumen_secciones"]) + \
+            " ".join(str(v.get("evidencia", "")) for v in itp.values())
+    if len(prosa) > 400 and not re.search(r"[áéíóúñÁÉÍÓÚÑ¿¡]", prosa):
+        err(name, "prosa en español sin tildes/enies/signos de apertura: posible perdida de encoding del harness")
     t = j["tipologia"]
     for k in ("transformacion_primaria","transformacion_secundaria","razonamiento_5_pasos",
               "tipo_documento_climatico","nivel_aplicacion","ambiguedad_pendiente_validacion"):

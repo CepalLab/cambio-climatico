@@ -22,7 +22,7 @@
       "temporal": "Prospectivo, con eventos de referencia 2017 (huracanes Irma y María) y 2022 (huracán Fiona), datos de capacidad instalada de 2021 y proyecciones de demanda de refrigeración hasta 2050"
     },
     "hallazgos_principales": [
-      "Los combustibles fósiles representan el 79,5% de la capacidad instalada de generación eléctrica en el Caribe (2021), con tarifas promedio de US$0,33/kWh, el triple del promedio de Estados Unidos (p.2).",
+      "Los combustibles fósiles representan el 79,5% de la capacidad instalada de generación eléctrica en el Caribe (2021) —cifra computada: suma de las categorías fósiles del gráfico de p.3 (petróleo 47,8%, gas natural 20,7%, carbón y turba 5,7%, otros fósiles n.e.s. 5,3%)—, con tarifas promedio de US$0,33/kWh, el triple del promedio de Estados Unidos (p.2).",
       "Las renovables solo alcanzan el 18,7% de la capacidad instalada pese a que casi todos los SIDS del Caribe tienen metas de energía renovable, incluidas seis metas de 100% para 2030 (p.2).",
       "Un aumento de 1°C de temperatura global reduce entre 0,45% y 0,8% la eficiencia de generación de las plantas térmicas y cerca de 0,5% la de los módulos solares fotovoltaicos, y elevará la demanda de refrigeración un 25% adicional hasta 2050 (p.3-4).",
       "El huracán María (2017) dejó al 90% de la población de Dominica sin electricidad por más de cuatro meses y a Puerto Rico sin red eléctrica por 11 meses (p.1).",
@@ -36,10 +36,29 @@
   },
   "resumen_secciones": [
     {
-      "seccion": "Introduction / Background",
+      "seccion": "Introduction",
       "nivel": 1,
-      "paginas": "1-3",
-      "resumen": "Abre el documento motivando el problema con dos colapsos de red concretos —el huracán María (2017) dejó al 90% de la población de Dominica sin electricidad por más de cuatro meses y a Puerto Rico sin red por 11 meses; Fiona (2022) repitió apagones de semanas— y define la resiliencia del sector eléctrico como la capacidad de anticipar, resistir y recuperarse de disrupciones. El diagnóstico identifica las características estructurales que agravan la vulnerabilidad: operación por una única utility nacional, generación centralizada, dependencia de fósiles importados (79,5% de la capacidad instalada en 2021, con solo 18,7% de renovables) y tarifas de US$0,33/kWh, el triple del promedio de Estados Unidos. Registra la transición en curso —casi todos los SIDS tienen metas renovables; seis países (Antigua y Barbuda, Barbados, Dominica, Granada, Guyana y Saint Kitts y Nevis) comprometieron 100% para 2030, mientras Trinidad y Tabago y San Vicente y las Granadinas mantienen metas vencidas sin actualizar— impulsada por el costo de los fósiles importados, el abaratamiento de las tecnologías renovables y los compromisos internacionales de reducción de emisiones. Cierra señalando que esa transición está reestructurando el sector: del monopolio de una sola utility hacia un sistema descentralizado con productores independientes y autogeneración, que requiere reguladores más robustos y un rango más amplio de actores en la planificación.",
+      "paginas": "1-2",
+      "resumen": "Abre el documento motivando el problema con dos colapsos de red concretos —el huracán María (2017) dejó al 90% de la población de Dominica sin electricidad por más de cuatro meses y a Puerto Rico sin red por 11 meses; Fiona (2022) repitió apagones de semanas— y define la resiliencia del sector eléctrico como la capacidad de anticipar, prepararse, adaptarse, resistir y recuperarse de disrupciones mediante planificación holística y soluciones técnicas. Reconoce el mantenimiento rutinario de la infraestructura como medida costo-efectiva de reducción de vulnerabilidad, pero sostiene que la amenaza climática creciente exige enfoques más sistemáticos que incorporen la resiliencia a las prácticas tradicionales de planificación del sector, y anuncia el objetivo del brief: recomendaciones para que los SIDS del Caribe mejoren la resiliencia climática de su sector eléctrico en el contexto de la transición energética.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "In 2017, Hurricane Maria left 90 per cent of the population of Dominica without access to electricity for over four months and caused a systemwide collapse of Puerto Rico's power grid that took 11 months to be entirely restored",
+          "pagina": 1
+        },
+        {
+          "dimension": "desafios",
+          "cita": "the increasing threats posed by climate hazards require more systematic approaches that mainstream resilience into traditional planning practices of the power sector",
+          "pagina": 1
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Background",
+      "nivel": 1,
+      "paginas": "2-3",
+      "resumen": "El diagnóstico identifica las características estructurales que agravan la vulnerabilidad: operación por una única utility nacional, generación centralizada, dependencia de fósiles importados (79,5% de la capacidad instalada en 2021 —cifra computada: suma de las categorías fósiles del gráfico de p.3—, con solo 18,7% de renovables) y tarifas de US$0,33/kWh, el triple del promedio de Estados Unidos. Registra la transición en curso —casi todos los SIDS tienen metas renovables; seis países (Antigua y Barbuda, Barbados, Dominica, Granada, Guyana y Saint Kitts y Nevis) comprometieron 100% para 2030, mientras Trinidad y Tabago y San Vicente y las Granadinas mantienen metas vencidas sin actualizar— impulsada por el costo de los fósiles importados, el abaratamiento de las tecnologías renovables y los compromisos internacionales de reducción de emisiones. Cierra señalando que esa transición está reestructurando el sector: del monopolio de una sola utility hacia un sistema descentralizado con productores independientes y autogeneración, que requiere reguladores más robustos y un rango más amplio de actores en la planificación.",
       "dimensiones": [
         {
           "dimension": "estado_de_situacion",
@@ -133,10 +152,24 @@
       "subsecciones": []
     },
     {
-      "seccion": "Policy recommendations / Conclusion",
+      "seccion": "Policy recommendations",
       "nivel": 1,
       "paginas": "9-10",
-      "resumen": "Cierra el documento con ocho recomendaciones dirigidas a los Estados miembros y a los actores de los sectores de energía y gestión del riesgo de desastres: priorizar el mantenimiento rutinario de la infraestructura eléctrica como medida costo-efectiva de reducción de vulnerabilidad; incorporar la resiliencia climática a la planificación sectorial tradicional considerando toda la cadena de valor; mapear y priorizar las necesidades eléctricas de la infraestructura crítica (telecomunicaciones, hospitales, agua y saneamiento, refrigeración de alimentos, refugios, transporte); fortalecer capacidades humanas e institucionales de producción de estadísticas energéticas y datos de desastres oportunos y accesibles; promover un enfoque colaborativo multiactor en todas las etapas; acelerar la incorporación de renovables al mix de generación actualizando las metas vencidas; llevar la resiliencia climática a los estándares de calidad, códigos de construcción y regulaciones sectoriales apoyándose en instituciones nacionales de I+D; y revisar políticas, arreglos institucionales, legislación y regulación para atraer la inversión privada que financie los costos adicionales de la resiliencia. La conclusión reitera el argumento central del brief: la planificación proactiva que identifica y mitiga sistemáticamente riesgos multiamenaza —con el IRRP como 'plataforma ideal' para un diálogo colaborativo multiactor basado en datos— es la vía para enfrentar la amenaza creciente del cambio climático sobre toda la cadena de valor eléctrica.",
+      "resumen": "Cierra el argumento con ocho recomendaciones dirigidas a los Estados miembros y a los actores de los sectores de energía y gestión del riesgo de desastres: priorizar el mantenimiento rutinario de la infraestructura eléctrica como medida costo-efectiva de reducción de vulnerabilidad; incorporar la resiliencia climática a la planificación sectorial tradicional considerando toda la cadena de valor; mapear y priorizar las necesidades eléctricas de la infraestructura crítica (telecomunicaciones, hospitales, agua y saneamiento, refrigeración de alimentos, refugios, transporte); fortalecer capacidades humanas e institucionales de producción de estadísticas energéticas y datos de desastres oportunos y accesibles; promover un enfoque colaborativo multiactor en todas las etapas; acelerar la incorporación de renovables al mix de generación actualizando las metas vencidas; llevar la resiliencia climática a los estándares de calidad, códigos de construcción y regulaciones sectoriales apoyándose en instituciones nacionales de I+D; y revisar políticas, arreglos institucionales, legislación y regulación para atraer la inversión privada que financie los costos adicionales de la resiliencia.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Map and prioritize the power needs of critical infrastructure for disaster risk response and recovery strategies, such as telecommunications, hospitals and health facilities, water supply and sanitation, refrigeration for the food sector, shelters, and transportation",
+          "pagina": 9
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Conclusion",
+      "nivel": 1,
+      "paginas": "10",
+      "resumen": "Reitera el argumento central del brief: los desastres climáticos son una amenaza considerable y creciente para la integridad y eficiencia del sector eléctrico caribeño, y la respuesta es la planificación proactiva que identifica y mitiga sistemáticamente los riesgos multiamenaza. Presenta el IRRP —y las metodologías que incorporan la resiliencia climática a la planificación sectorial tradicional— como la 'plataforma ideal' para un diálogo colaborativo multiactor basado en datos, que involucre a los actores tradicionales del sector energético y a otros relevantes en la comprensión y respuesta a los efectos de corto y largo plazo del cambio climático sobre toda la cadena de valor eléctrica.",
       "dimensiones": [
         {
           "dimension": "propuestas_politica",

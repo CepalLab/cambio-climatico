@@ -62,7 +62,9 @@ A partir del texto completo, extraer con evidencia textual (no parafraseo libre)
 - Alcance: `ambito_aplicacion` (región/países donde el documento analiza o propone aplicar) separado de
   `referentes_dependencias` (países/bloques citados solo como comparación u origen de un instrumento
   externo), más alcance sectorial y temporal.
-- Hallazgos principales (con cifra o cita concreta cuando exista).
+- Hallazgos principales (con cifra o cita concreta cuando exista). Cifras no literales (derivadas de un
+  gráfico o tabla) se marcan como computadas, indicando la operación — ver la regla de
+  [esquema_json_v1.md §2](esquema_json_v1.md).
 - Conclusiones y recomendaciones (distinguiendo explícitamente cuáles son del documento y cuáles son
   recomendaciones a terceros/gobiernos).
 - `resumen_narrativo`: 3-5 oraciones en formato de relato, no de lista. Guardrail anti-genérico: debe fallar
@@ -73,7 +75,9 @@ A partir del texto completo, extraer con evidencia textual (no parafraseo libre)
 ## Etapa 3 — Resumen de secciones
 
 A partir del índice (cuando existe — los documentos de proyecto/estudios técnicos de CEPAL casi siempre lo
-traen; los policy briefs cortos no), un resumen por sección con:
+traen; los policy briefs cortos no: en ese caso los **encabezados tipográficos de nivel 1 cuentan como
+índice**, cada encabezado es una sección propia y no se fusionan secciones contiguas), un resumen por
+sección con:
 
 - Título y rango de páginas de la sección, según la numeración interna del documento.
 - **Estructura anidada por niveles**: se capturan siempre todas las secciones de nivel 1 del índice, en

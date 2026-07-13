@@ -111,7 +111,7 @@ la conformidad estructural — claves, slugs, formato de citas, veredictos, tipo
 | `paginas_cuerpo`          | Entero: **hasta el final de conclusiones/recomendaciones** según la numeración interna (Resumen/Introducción → Conclusiones), excluyendo bibliografía y anexos (Ronda 4, decisión que separa este campo de `paginas_totales`). Es la medida comparable de "cuánto argumento sustantivo" tiene el documento, sin que anexos técnicos infrecuentes distorsionen el agregado. |
 | `paginas_totales`         | Entero: numeración interna completa del documento (incluye bibliografía y anexos, sin contar tapas/colofón). Dato calculado/imputado, no extraído de un metadato único — se mantiene junto a `paginas_cuerpo` en vez de elegir uno solo, porque ambos son útiles y no son intercambiables (Ronda 4). |
 | `autoria`                 | `null` si el documento es institucional sin autoría personal.                                                                                                                          |
-| `tiene_resumen_ejecutivo` | Ver regla de `resumen_secciones` abajo.                                                                                                                                                |
+| `tiene_resumen_ejecutivo` | Ver regla de `resumen_secciones` abajo. **Qué cuenta (Ronda 5)**: solo un apartado propio del documento titulado Resumen / Resumen ejecutivo / Abstract / Executive summary, con prosa sintética del contenido. Los recuadros de portada ("key recommendations", "key messages", "highlights") **no cuentan** — son maqueta editorial, no resumen; en la prueba de portabilidad 2 de 5 modelos marcaron `true` por ese recuadro en un documento sin resumen ejecutivo. |
 
 ### `resumen_enriquecido`
 
@@ -121,10 +121,16 @@ la conformidad estructural — claves, slugs, formato de citas, veredictos, tipo
 - `resumen_narrativo`: 3-5 oraciones, guardrail anti-genérico de
   [INTERPELACION_v0.md §3](INTERPELACION_v0.md). Sin referencias a otros documentos del corpus (regla
   transversal 3).
+- **Cifras computadas vs. literales (Ronda 5)**: cuando una cifra de `hallazgos_principales` no está
+  literal en el texto sino que se deriva (p. ej. sumar las porciones de un gráfico de torta), se marca como
+  computada indicando la operación — "79,5% (suma de las categorías fósiles del gráfico de p.3)" — y la
+  suma incluye **solo** las categorías estrictamente pertinentes (p. ej. "other non-renewable" no es
+  combustible fósil). En la prueba de portabilidad dos modelos derivaron cifras distintas (79,5% vs. 81,3%)
+  del mismo gráfico sin dejar rastro de la operación — irreproducible en el agregado.
 
 ### `resumen_secciones` — estructura anidada por niveles (Ronda 3)
 
-1. **Se capturan siempre todas las secciones de nivel 1 del índice**, en orden, sin excepciones. Nunca se salta del nivel 1 al nivel 3 sin registrar el padre intermedio.
+1. **Se capturan siempre todas las secciones de nivel 1 del índice**, en orden, sin excepciones. Nunca se salta del nivel 1 al nivel 3 sin registrar el padre intermedio. **En documentos sin índice (Ronda 5)** — los policy briefs cortos —, los **encabezados tipográficos de nivel 1 cuentan como índice**: se captura cada encabezado como sección propia, sin fusionar secciones contiguas aunque sean breves o temáticamente continuas ("Introduction" y "Background" son dos filas, no una "Introduction / Background").
 2. **Se desciende a subsecciones solo cuando la sección de nivel 1 supera ~8-10 páginas**, y las subsecciones van **anidadas dentro de su padre** (campo `subsecciones`, mismo shape, `nivel` 2 o 3) — no aplanadas como filas hermanas del nivel 1. El padre conserva su fila con `paginas` del rango completo; su `resumen` puede ser una síntesis breve de 1-2 líneas del arco de la sección o `null` si
    las subsecciones lo cubren todo.
 3. **El resumen ejecutivo / resumen / abstract del propio documento NO se procesa como sección.** Su contenido ya alimenta `resumen_enriquecido`; procesarlo como sección duplica el conteo de dimensiones en el agregado (repite lo que las demás secciones ya dicen). Se deja constancia con `documento.tiene_resumen_ejecutivo: true`.

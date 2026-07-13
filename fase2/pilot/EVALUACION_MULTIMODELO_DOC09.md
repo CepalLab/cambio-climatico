@@ -136,7 +136,9 @@ otros 4 casos resolvieron conforme a la referencia.
   Conclusion). Los casos 02-05 capturan los 7; **el 01 (la referencia) fusiona en 5** ("Introduction /
   Background" y "Policy recommendations / Conclusion"). Hallazgo incómodo pero útil: la referencia calibrada
   viola la letra de su propia regla ("todas las secciones de nivel 1, sin excepciones") — los cuatro modelos
-  nuevos fueron más fieles al esquema que el original. Pendiente de decisión (sección 5, propuesta 5).
+  nuevos fueron más fieles al esquema que el original. *Resuelto el mismo día*: el JSON canónico se corrigió
+  a 7 secciones (ver tabla de decisiones de Ronda 5 en la bitácora); `_01` conserva la versión previa como
+  artefacto de la prueba a ciegas.
 - **Calidad de resúmenes**: 01 claramente superior (largo proporcional, función argumental, cifras y
   actores — cumple la regla de calidad de Ronda 3 al pie). 04 y 02 buenos. 05 intermedio. **03 muy por
   debajo del piso**: resúmenes de 1-2 líneas que enuncian temas sin función ni cifras; su
@@ -187,11 +189,13 @@ hallazgo sobre el protocolo (propuesta 6).
 - **Propensión a alucinar en campos de síntesis libre** (UE en 05): inherente; se contiene exigiendo
   verificabilidad textual.
 
-## 5. Refuerzos propuestos al pipeline (pendientes de decisión — candidatos a una Ronda 5 de metodología)
+## 5. Refuerzos propuestos al pipeline
 
-Ninguno de estos cambios está aplicado todavía. Si se adoptan, se formalizan en los documentos de
-metodología correspondientes y se registran en la bitácora de PLAN_ANALISIS_PROFUNDO.md; este documento solo
-los propone.
+**Estado (2026-07-13, mismo día)**: el usuario aprobó aplicar de inmediato las propuestas **1, 2, 4 y 5**
+(aplicadas — ver la tabla de decisiones de Ronda 5 en la bitácora de
+[../PLAN_ANALISIS_PROFUNDO.md](../PLAN_ANALISIS_PROFUNDO.md) para el dónde exacto de cada una) y **diferir
+la 3 y la 6** hasta el feedback del equipo del curso. El texto siguiente se conserva tal como se propuso, a
+ciegas, antes de esa decisión.
 
 1. **Anclar el test de concreción con ítems resueltos** (fuente de varianza #1): agregar a
    INTERPELACION_v0 §1.4 una tabla de 6-8 ítems ejemplo ya clasificados CONCRETO/GENERICO con una línea de
@@ -235,5 +239,6 @@ Al preparar esta prueba, `pilot/doc09_caribbean_power.json` (la referencia calib
 GUIA_OPERATIVA_PIPELINE.md (Paso 1 del protocolo), INTERPELACION_v0.md §4, PLAN_ANALISIS_PROFUNDO.md y
 esquema_json_v1.md. **Resuelto (2026-07-13)**: se restauró la copia canónica `doc09_caribbean_power.json`
 (la metodología vuelve a apuntar a un archivo existente) y se conservó `_01` como parte del set de 5 casos
-de esta evaluación — son el mismo contenido; el canónico es el artefacto del pipeline, los numerados son
-los artefactos de esta prueba.
+de esta evaluación. Tras la corrección de secciones de la propuesta 5 (aplicada el mismo día), el canónico
+ya no es idéntico a `_01`: el canónico es el artefacto vigente del pipeline (7 secciones), los numerados
+son los artefactos congelados de esta prueba a ciegas.
