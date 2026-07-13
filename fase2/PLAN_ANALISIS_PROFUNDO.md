@@ -152,6 +152,32 @@ A diferencia de las Rondas 1-3 (calibración contra el propio piloto), esta rond
 | 6   | Etiqueta `subtipo_brecha: "prospectiva"` en doc09 (p.7, IRRP/datos) — la más discutible del piloto, evidencia no explícita. Verificada la cita exacta contra el PDF: describe una herramienta genérica ("machine learning... when critical datasets are unavailable"), no una carencia declarada de los SIDS del Caribe. | Se retira la etiqueta de esa cita puntual — no cumple la regla de decisión del codebook (requiere referencia explícita a falta de preparación) y mantenerla habría sido una excepción a la regla anti-copia que rige el resto de la metodología. El apartado queda igual de bien evidenciado con `propuestas_politica` y `avances_implementacion`. Nota al margen: la Introducción de doc13 (punto 5) sí trae una cita explícita y fuerte de brecha prospectiva ("los países de la subregión no están bien preparados para este cambio..., p.13") — el estándar correcto para citar esta etiqueta en adelante. | [pilot/doc09_caribbean_power.json](pilot/doc09_caribbean_power.json)            |
 | 7   | Criterio de `documento.paginas_cuerpo` con anexos técnicos extensos (doc13: 105 páginas de numeración completa vs. 80 "hasta conclusiones", pregunta abierta desde Ronda 3). Aclarado que es un eje distinto de la decisión de no *procesar* anexos como sección (punto 3): ahí se decide si se lee/etiqueta el contenido, acá qué número describe "cuánto mide el documento" — la decisión de contenido no resuelve por sí sola la de metadato. Al ser un dato calculado y no extraído de un metadato único, no hay razón para elegir uno solo. | Se agregan **dos campos**: `paginas_cuerpo` pasa a significar "hasta el final de conclusiones/recomendaciones" (excluye bibliografía y anexos) — medida comparable del argumento sustantivo entre documentos; se agrega `paginas_totales` (numeración interna completa, incluye bibliografía y anexos). Recalculado contra el PDF en los 3 piloto: doc09 10/12, doc11 43/62, doc13 80/105. `pipeline/validar_esquema.py` actualizado para exigir ambos campos. | [esquema_json_v1.md §2](esquema_json_v1.md), los 3 JSON del piloto, [pipeline/validar_esquema.py](pipeline/validar_esquema.py) |
 
+### Ronda 5 (2026-07-13) — ejecución de la prueba de portabilidad multimodelo sobre doc09
+
+Distinta en naturaleza a las Rondas 1-4: no es una ronda de calibración metodológica sino la **ejecución del
+protocolo de portabilidad** agregado en Ronda 4 (próximo paso 3.5 de la sección 5), extendida de 1 corrida
+nueva a 4 — el pipeline completo (Etapas 1-5) corrido sobre doc09 con 4 modelos/harnesses distintos, más la
+referencia calibrada como quinto caso. La evaluación comparada completa —convergencias, divergencias,
+verificación factual contra el PDF, ranking y refuerzos propuestos— vive en
+[pilot/EVALUACION_MULTIMODELO_DOC09.md](pilot/EVALUACION_MULTIMODELO_DOC09.md) (registro de evaluación, no
+metodología del pipeline). Resumen de lo esencial:
+
+- **Lo calibrado se transfiere**: tipología (5/5 idéntica al ancla, certeza Alta), criterio (i) Parcial
+  (5/5), criterio (iii) No con chequeo negativo explícito (5/5), esquema v1 (5/5 válidos estructuralmente).
+  Todo lo que las Rondas 1-4 convirtieron en regla escrita + ejemplo resuelto convergió en modelos que
+  nunca vieron esas rondas.
+- **Lo que diverge**: el test de concreción del criterio (iv) es la métrica más inestable (tally de 4/8 a
+  7/8 con las mismas reglas, con cambio de veredicto en un caso); un caso bajó el criterio (ii) a "Parcial"
+  con una interpretación defendible que la regla §1.2 no cierra ("el IRRP es planificación, no
+  articulación"); 3 de 5 casos perdieron la dimensión `brechas_implementacion`; y aparecieron errores de
+  capa de harness (encoding sin tildes, alcance temporal contaminado por un artefacto de maqueta del PDF,
+  un referente alucinado).
+- **Decisiones que abre (pendientes, no tomadas)**: las 6 propuestas de refuerzo de la sección 5 del
+  registro — ítems resueltos para el test de concreción, cierre de la zona gris del (ii), estructurar los
+  tests del (i) como subcampos del esquema, extender `validar_esquema.py`, reglas puntuales faltantes
+  (resumen ejecutivo, cifras computadas, encabezados como índice), y ampliar el protocolo de portabilidad
+  de 3 a ~6 checkpoints.
+
 ---
 
 ## 2. Arquitectura propuesta
@@ -238,10 +264,14 @@ Cuando el equipo del curso valide el piloto y se quiera escalar a los 12 documen
 2. **Compartir el paquete completo** (los 5 documentos de metodología + los 3 JSON) con el equipo del curso para su validación — es un solo ciclo de revisión, no procesos separados. Dado que la contraparte de dominio ha sido poco proactiva en esta etapa, el Lab ya resolvió 2 de las 4 preguntas originales por iniciativa propia (Ronda 4); quedan explícitas por si el equipo, al revisar, quiere corregirlas.
 3. **Pregunta que sigue genuinamente abierta para el equipo del curso** (las otras 3 de la lista original se cerraron en Ronda 4, ver tabla arriba):
    - El caso ambiguo de transformación primaria/secundaria del doc. 13 (`#6` vs. `#9`, certeza "Baja" en ambos campos — ver [TIPOLOGIA_v0.md §3](TIPOLOGIA_v0.md)).
-3.5. **(Opcional, no bloqueante, puede correr en paralelo mientras se espera al equipo del curso)**: probar el
+3.5. **Hecho (2026-07-13, Ronda 5)**: se ejecutó el
    [protocolo de portabilidad de harness/modelo](GUIA_OPERATIVA_PIPELINE.md#protocolo-de-prueba-de-portabilidad-de-harnessmodelo)
-   agregado en Ronda 4 — correr doc09 en un harness/modelo distinto de Claude Code y comparar contra su JSON
-   ya calibrado. Deriesga barato la pregunta de portabilidad (§1.4) sin esperar a resolver `docling`.
+   con 4 corridas nuevas sobre doc09 más la referencia calibrada — ver la entrada de Ronda 5 en la bitácora
+   y el registro completo en [pilot/EVALUACION_MULTIMODELO_DOC09.md](pilot/EVALUACION_MULTIMODELO_DOC09.md).
+   Quedan abiertas las 6 propuestas de refuerzo de ese registro (pendientes de decisión). El housekeeping
+   quedó resuelto el mismo día: el mapeo caso → modelo/harness se completó post-hoc (la evaluación se hizo
+   a ciegas por diseño) y se restauró la copia canónica `pilot/doc09_caribbean_power.json` de la referencia
+   (idéntica al caso `_01`, que se conserva como artefacto de la prueba).
 4. **Cerradas en Ronda 4** (ver tabla arriba para el detalle): si los 4 criterios de interpelación aplican a documentos no-propositivos (sí, sin excepción); si el estándar de "mecanismo con nombre propio del ámbito de aplicación" es el correcto (sí, confirmado); si se procesan anexos como sección (no, de aquí en adelante); regla de dimensiones en secciones padre con subsecciones (solo en hojas, salvo contenido propio del padre); etiqueta `subtipo_brecha` interpretativa de doc09 (retirada, no cumplía la regla de evidencia); criterio de `paginas_cuerpo` con anexos extensos (se dividió en dos campos, `paginas_cuerpo` y `paginas_totales`, en vez de elegir uno).
 5. **Si el equipo valida el enfoque**: correr los 12 documentos restantes de la muestra vía workflow (sección 4.4), con doble lectura (verificación cruzada) al menos en los veredictos de interpelación, dado lo señalado en 3.2 sobre ausencia de segundo lector en este piloto. Cada JSON nuevo debe validar contra `pipeline/validar_esquema.py` antes de darse por completo.
 6. Recién después de esa calibración, evaluar la Etapa 6 (mapeo a preguntas de investigación) y el escalamiento a los 244 documentos.

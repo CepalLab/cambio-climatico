@@ -1,0 +1,317 @@
+{
+  "documento": {
+    "num_muestra": 9,
+    "titulo": "Building a climate resilient power sector in the context of the Caribbean small island developing States' energy transition. Policy Brief",
+    "autoria": null,
+    "handle": "https://hdl.handle.net/11362/48603",
+    "simbolo": "LC/CAR/2022/6",
+    "isbn": null,
+    "fecha": "2022-12-15",
+    "tipo_documento": "Policy Brief",
+    "paginas_cuerpo": 10,
+    "paginas_totales": 12,
+    "idioma": "en",
+    "tiene_resumen_ejecutivo": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "How can Caribbean small island developing States build a climate-resilient power sector in the context of their ongoing energy transition toward renewable sources?",
+    "alcance": {
+      "ambito_aplicacion": "Caribbean SIDS (CARICOM member States: Antigua and Barbuda, Bahamas, Barbados, Belize, Cuba, Dominica, Dominican Republic, Grenada, Guyana, Haiti, Jamaica, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Suriname, Trinidad and Tobago)",
+      "referentes_dependencias": null,
+      "sectorial": "Power sector (electricity generation, transmission and distribution, energy demand)",
+      "temporal": "2022 (publication) with forward-looking recommendations for the energy transition period (2030 targets)"
+    },
+    "hallazgos_principales": [
+      "Hurricane Maria (2017) left 90% of Dominica without electricity for over four months and caused a systemwide collapse of Puerto Rico's grid that took 11 months to restore (p.1).",
+      "Fossil fuels (oil 47.8%, natural gas 20.7%) dominate the Caribbean SIDS electricity installed capacity; renewables account for only 18.7% (p.2-3).",
+      "Electricity tariffs in the subregion average US$ 0.33/kWh — three times higher than the US average — driven by imported fossil fuel dependency (p.2).",
+      "Six Caribbean SIDS have pledged 100% renewable energy targets by 2030 (p.2); three main drivers are high-cost fuel imports, declining RE technology costs, and international emissions commitments (p.2).",
+      "The Integrated Resource and Resilience Plan (IRRP), endorsed by CARICOM, has been adopted by Belize, Guyana, Jamaica, Saint Kitts and Nevis, and Trinidad and Tobago as a 'least-regret' planning method (p.6).",
+      "A 20 MW battery storage installation in the Dominican Republic provided grid stability during Hurricanes Irma and Maria (p.8)."
+    ],
+    "conclusiones_recomendaciones": [
+      "Proactive planning must systematically identify and mitigate multi-hazard risks, particularly regarding the growing effects of climate change (p.10).",
+      "Methodologies that mainstream climate resilience into power sector planning — such as the IRRP — are the ideal platform for data-driven, multi-stakeholder collaborative dialogue (p.10).",
+      "Traditional energy stakeholders and other relevant actors must be involved in understanding and acting on the short- and long-term effects of climate change on the entire power sector value chain (p.10)."
+    ],
+    "resumen_narrativo": "Este policy brief de 12 páginas analiza la vulnerabilidad del sector eléctrico de los pequeños Estados insulares en desarrollo del Caribe ante desastres climáticos, documentando cómo el huracán María (2017) dejó al 90% de Dominica sin electricidad por más de cuatro meses y colapsó la red de Puerto Rico por 11 meses. Describe una matriz energética dominada por combustibles fósiles (81,3% de la capacidad instalada) y tarifas tres veces superiores al promedio estadounidense (US$ 0,33/kWh), impulsando una transición hacia renovables que seis países ya han comprometido al 100% para 2030. La propuesta central es el Plan Integrado de Recursos y Resiliencia (IRRP), avalado por CARICOM y ya en implementación en cinco países, como mecanismo para incorporar la resiliencia climática en la planificación sectorial mediante análisis multirriesgo y diálogo multi-actor. Las 8 recomendaciones de política cubren mantenimiento de infraestructura, capacidad de datos, coordinación institucional, normativa y atracción de inversión privada, pero no abordan el vínculo con empleo, productividad o desigualdad."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introduction",
+      "nivel": 1,
+      "paginas": "1-2",
+      "resumen": "Abre con evidencia del impacto de huracanes en Caribe (María 2017, Fiona 2022) para establecer la vulnerabilidad del sector eléctrico. Define el concepto de resiliencia del sector eléctrico como capacidad de anticipar, prepararse, adaptarse y recuperarse de disrupciones. Presenta el objetivo del brief: recomendar cómo los SIDS caribeños pueden mejorar la resiliencia climática de su sector eléctrico en el contexto de la transición energética.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "In 2017, Hurricane Maria left 90 per cent of the population of Dominica without access to electricity for over four months and caused a systemwide collapse of Puerto Rico's power grid that took 11 months to be entirely restored",
+          "pagina": 1
+        },
+        {
+          "dimension": "tendencias",
+          "cita": "These events highlight the vulnerabilities of the subregion's power sector and demonstrate the lasting, compounding, and increasingly frequent impacts of extreme climate disasters in Caribbean SIDS",
+          "pagina": 1
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Background",
+      "nivel": 1,
+      "paginas": "2-3",
+      "resumen": "Caracteriza la situación actual del sector energético caribeño: operación por una sola utility, generación centralizada, alta dependencia de combustibles fósiles importados (81,3% de capacidad instalada), baja eficiencia de transmisión y distribución, y tarifas eléctricas elevadas (US$ 0,33/kWh). Describe la transición hacia renovables impulsada por tres factores (costos de importación, disminución de costos de tecnologías renovables, compromisos internacionales de emisiones) y seis países con meta 100% renovable a 2030. Señala que la creciente penetración de renovables está reestructurando el modelo de utility única hacia uno descentralizado con productores independientes y autogeneración.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "plants fuelled by oil and natural gas represented the highest share of electricity installed capacity in the subregion in 2021, with renewables accounting for just 18.7 per cent",
+          "pagina": 2
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "That dependency on imported fossil fuels leads to extremely high tariffs in the subregion, averaging US$ 0.33/kWh — three times higher than the average in the USA",
+          "pagina": 2
+        },
+        {
+          "dimension": "tendencias",
+          "cita": "The subregion is undergoing an energy transition towards increasing the use of renewables. Almost all Caribbean SIDS have a renewable energy target",
+          "pagina": 2
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Multi-hazard risks to Caribbean small island developing States' power sector",
+      "nivel": 1,
+      "paginas": "3-5",
+      "resumen": "Identifica las amenazas al sector eléctrico categorizadas en naturales (climáticas y no climáticas), tecnológicas y humanas, que pueden ocurrir simultáneamente. Describe impactos específicos por tipo de riesgo: huracanes como amenaza climática dominante, eventos de inicio lento (aumento de temperatura, aumento del nivel del mar), y cómo las características específicas de cada país determinan distintos perfiles de exposición (Belice 28% hidroeléctrica expuesta a sequías; Antigua y Barbuda 83% térmica expuesta a pérdida de eficiencia). Presenta la Tabla 1 como matriz de tendencias climáticas y sus impactos en generación, transmisión y distribución, y demanda.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Caribbean SIDS' power sector has become increasingly more vulnerable to climate hazards due to the effects of climate change",
+          "pagina": 3
+        },
+        {
+          "dimension": "tendencias",
+          "cita": "every 1°C increase in global temperature will result in an additional 25 per cent increase in cooling demand until 2050",
+          "pagina": 4
+        },
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "Selected climate trends and parameters and implications to Caribbean SIDS' power sector",
+          "pagina": 5
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Incorporating resilience requirements into power sector planning",
+      "nivel": 1,
+      "paginas": "6-7",
+      "resumen": "Propone incorporar la resiliencia climática en la planificación sectorial mediante metodologías que integren amenazas múltiples. Describe el Plan Integrado de Recursos y Resiliencia (IRRP) como evolución del plan integrado de recursos tradicional, adoptado por CARICOM y ya en desarrollo en cinco países (Belice, Guyana, Jamaica, Saint Kitts y Nevis, Trinidad y Tobago) con apoyo del CCREEE. Destaca que la recolección de estadísticas energéticas y datos de riesgo multi-amenaza es crucial para el IRRP, y que plataformas de datos abiertos y herramientas de machine learning pueden suplir vacíos de información crítica.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "the Integrated Resource and Resilience Plan (IRRP) is one method that brings the resilience element into the sector's planning process",
+          "pagina": 6
+        },
+        {
+          "dimension": "avances_implementacion",
+          "cita": "Belize, Guyana, Jamaica, Saint Kitts and Nevis, and Trinidad and Tobago have already engaged with the Caribbean Centre for Renewable Energy and Energy Efficiency (CREEE) Climate Resilience Programme to develop IRRPs",
+          "pagina": 6
+        },
+        {
+          "dimension": "oportunidades",
+          "cita": "Open data platforms and machine learning tools applied to big data are used to develop predictive maps of countries' and regions' power systems when critical datasets are unavailable",
+          "pagina": 7
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Technologies and technical solutions for building climate resilience",
+      "nivel": 1,
+      "paginas": "8-9",
+      "resumen": "Explora soluciones tecnológicas para gobiernos, utilities y comunidades: energías renovables (protegen contra shocks de precios y permiten generación distribuida post-desastre), almacenamiento de energía (baterías, volantes de inercia, aire comprimido, hidrobombeo — cita el caso de 20 MW en República Dominicana durante huracanes Irma y María), minirredes y microrredes (autonomía y redundancia para infraestructura crítica), redes inteligentes (monitoreo y respuesta en tiempo real), y endurecimiento de infraestructura existente (5-5,5% de sobrecosto para resistencia a huracanes categoría 5).",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "promoting renewable energy sources can shield the subregion from global price shocks and build its power sector's resilience",
+          "pagina": 8
+        },
+        {
+          "dimension": "avances_implementacion",
+          "cita": "In 2017, a 20MW of battery storage employed in the Dominican Republic during Hurricanes Irma and Maria supported grid stability, frequency control, and critical reliability services of the interconnected power system",
+          "pagina": 8
+        },
+        {
+          "dimension": "oportunidades",
+          "cita": "a diversified renewable energy matrix is inherently more resilient because it allows countries to be less exposed to shocks affecting one fuel or energy source",
+          "pagina": 8
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Policy recommendations",
+      "nivel": 1,
+      "paginas": "9-10",
+      "resumen": "Lista 8 recomendaciones para Estados miembros y actores del sector energético y gestión de riesgo de desastres: (1) mantenimiento prioritario de infraestructura como medida costo-efectiva; (2) incorporar resiliencia climática en planificación considerando naturaleza multi-amenaza; (3) mapear necesidades energéticas de infraestructura crítica; (4) fortalecer capacidades humanas e institucionales para datos y estadísticas energéticas; (5) enfoque multi-actor colaborativo; (6) acelerar incorporación de renovables actualizando metas vencidas; (7) incorporar resiliencia en estándares, códigos y regulaciones; (8) revisar políticas y marcos institucionales para atraer inversión privada.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Scale up and accelerate the incorporation of renewable energy sources into the electricity generation mix as a key climate adaptation measure, updating expired renewable energy targets when required",
+          "pagina": 10
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Review and update the power sector's policies, institutional arrangements, legislation, and regulations to attract private investments and competition to finance the additional costs required by building climate resilience in the power sector",
+          "pagina": 10
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Conclusion",
+      "nivel": 1,
+      "paginas": "10",
+      "resumen": "Sintetiza que los desastres climáticos representan una amenaza creciente para la integridad y eficiencia del sector eléctrico caribeño. La planificación proactiva debe identificar y mitigar sistemáticamente los riesgos multi-amenaza. El IRRP y metodologías similares son la plataforma ideal para promover un diálogo colaborativo basado en datos entre actores del sector energético tradicional y otros actores relevantes.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Climate-related disasters pose a considerable and increasing threat to the integrity and efficiency of the Caribbean power sector",
+          "pagina": 10
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Methodologies that mainstream climate resilience into traditional power sector planning — such as the Integrated Resource and Resilience Plans (IRRP) — are the ideal platform to promote a data-driven and multi-stakeholder collaborative dialogue",
+          "pagina": 10
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento nombra el IRRP como instrumento concreto y el sector eléctrico/renovables como sector estratégico (Test 2: sectores estratégicos nombrados), y las 8 recomendaciones tienen cierto carácter de paquete coordinado. Pero no hay inversión masiva coordinada (Test 1 ausente: las recomendaciones son pasos técnicos de planificación sectorial, no un paquete de inversiones simultáneas a escala de modelo de desarrollo). Tampoco conecta con eficiencia schumpeteriana (conocimiento/tecnología en procesos locales) ni keynesiana (empleo/demanda/desigualdad) — solo cubre eficiencia ambiental (desacople/resiliencia). Test 1 no se cumple, por lo que el veredicto es Parcial: instrumento nombrado pero sectorial y sin lógica de paquete coordinado de inversiones.",
+      "citas": [
+        {
+          "cita": "the Integrated Resource and Resilience Plan (IRRP) is one method that brings the resilience element into the sector's planning process. CARICOM member States endorsed the IRRP as a preferred mechanism to guide planning in the electricity sector",
+          "pagina": 6
+        }
+      ],
+      "nota": "Policy breve técnico sobre resiliencia sectorial, no una propuesta de transformación productiva. El alcance es sectorial (electricidad), no multisectorial como requiere el concepto de gran impulso ambiental. El veredicto 'Parcial' refleja que el documento nombra un instrumento concreto (IRRP) y un sector estratégico (energía renovable), pero no alcanza la escala de modelo de desarrollo."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El documento nombra un mecanismo de coordinación con nombre propio: el Integrated Resource and Resilience Plan (IRRP), respaldado por CARICOM y con 5 países participantes, ejecutado por el Caribbean Centre for Renewable Energy and Energy Efficiency (CCREEE). Este mecanismo pertenece al ámbito de aplicación del documento (Caribbean SIDS/CARICOM). El IRRP es descrito como un proceso multi-stakeholder que integra actores del sector energético con autoridades ambientales, oficinas meteorológicas, agencias de emergencia, planificadores urbanos y otros. Además, la sección de recomendaciones promueve explícitamente un enfoque de múltiples actores.",
+      "citas": [
+        {
+          "cita": "CARICOM member States endorsed the IRRP as a preferred mechanism to guide planning in the electricity sector... Belize, Guyana, Jamaica, Saint Kitts and Nevis, and Trinidad and Tobago have already engaged with the Caribbean Centre for Renewable Energy and Energy Efficiency (CREEE) Climate Resilience Programme to develop IRRPs",
+          "pagina": 6
+        },
+        {
+          "cita": "This critical step calls for close integration with stakeholders, such as environmental authorities, meteorological offices, national emergency agencies, public service providers, urban and physical planning practitioners, and others that can provide additional data",
+          "pagina": 7
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "Chequeo negativo explícito: el documento no enumera sectores o industrias concretas como oportunidades económicas de la transición energética. Tampoco desarrolla ningún vínculo entre las propuestas del documento y empleo, productividad o desigualdad. Las menciones a 'oportunidades' son exclusivamente técnicas (open data platforms, machine learning tools para suplir datos faltantes, p.7; matriz energética diversificada como oportunidad de resiliencia, p.8) — ninguna conecta con generación de empleo, mejora de productividad o reducción de desigualdades. No hay enumeración de sectores productivos, ni cifras de empleo, ni mecanismo de política que vincule la resiliencia energética con resultados distributivos.",
+      "citas": [
+        {
+          "cita": "Open data platforms and machine learning tools applied to big data are used to develop predictive maps of countries' and regions' power systems when critical datasets are unavailable",
+          "pagina": 7
+        },
+        {
+          "cita": "a diversified renewable energy matrix is inherently more resilient because it allows countries to be less exposed to shocks affecting one fuel or energy source",
+          "pagina": 8
+        }
+      ],
+      "nota": "El documento no menciona empleo, productividad ni desigualdad en ningún pasaje del cuerpo. Tampoco enumera sectores u oportunidades productivas vinculadas a la transición energética. Las únicas menciones a 'oportunidades' son de naturaleza técnica (datos, resiliencia), no económica ni distributiva."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento presenta 8 recomendaciones numeradas. De ellas, 4 pasan el test de concreción (verbo + objeto específico, acción ejecutable): (1) incluir mantenimiento de infraestructura como medida prioritaria en estrategias de reducción de riesgo, (3) mapear y priorizar necesidades energéticas de infraestructura crítica, (6) escalar y acelerar la incorporación de renovables actualizando metas vencidas, (7) incorporar resiliencia climática en estándares, códigos y regulaciones empleando I+D nacional. Las otras 4 son genéricas/aspiracionales: (2) incorporar resiliencia en planificación como enfoque amplio, (4) fortalecer capacidades institucionales, (5) promover enfoque multi-actor, (8) revisar políticas para atraer inversión privada.",
+      "citas": [
+        {
+          "cita": "Include improved and regular maintenance of power infrastructure as a priority measure in disaster risk reduction and preparedness strategies",
+          "pagina": 9
+        },
+        {
+          "cita": "Scale up and accelerate the incorporation of renewable energy sources into the electricity generation mix as a key climate adaptation measure, updating expired renewable energy targets when required",
+          "pagina": 10
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Include improved and regular maintenance of power infrastructure as a priority measure in disaster risk reduction and preparedness strategies",
+          "clasificacion": "CONCRETO",
+          "pagina": 9
+        },
+        {
+          "item": "Mainstream climate resilience into traditional power sector planning, considering the multi-hazardous nature of vulnerabilities occurring along the power sector value chain",
+          "clasificacion": "GENERICO",
+          "pagina": 9
+        },
+        {
+          "item": "Map and prioritize the power needs of critical infrastructure for disaster risk response and recovery strategies, such as telecommunications, hospitals, water supply, shelters, and transportation",
+          "clasificacion": "CONCRETO",
+          "pagina": 9
+        },
+        {
+          "item": "Strengthen human and institutional capacities to collect, process, analyze and disseminate appropriate energy statistics and other relevant climate disaster-related data in a timely and accessible manner",
+          "clasificacion": "GENERICO",
+          "pagina": 9
+        },
+        {
+          "item": "Promote a collaborative multiple-stakeholder approach at all stages of the resilience-building planning and implementation process",
+          "clasificacion": "GENERICO",
+          "pagina": 9
+        },
+        {
+          "item": "Scale up and accelerate the incorporation of renewable energy sources into the electricity generation mix as a key climate adaptation measure, updating expired renewable energy targets when required",
+          "clasificacion": "CONCRETO",
+          "pagina": 10
+        },
+        {
+          "item": "Incorporate climate resilience into the energy industry's quality standards, building codes, and other sectoral regulations, employing national research and development institutions and capabilities to explore and test the suitability and cost-effectiveness of technologies",
+          "clasificacion": "CONCRETO",
+          "pagina": 10
+        },
+        {
+          "item": "Review and update the power sector's policies, institutional arrangements, legislation, and regulations to attract private investments and competition to finance the additional costs required by building climate resilience in the power sector",
+          "clasificacion": "GENERICO",
+          "pagina": 10
+        }
+      ],
+      "tally": "4 de 8 ítems pasan el test de concreción",
+      "nota": null
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la contradicción entre la vulnerabilidad climática aguda de los SIDS caribeños (huracanes recurrentes que paralizan la infraestructura eléctrica por meses) y la debilidad estructural de sus sistemas energéticos heredados: centralizados, mono-utility, dependientes de combustibles fósiles importados (81,3% de la capacidad instalada) con tarifas tres veces el promedio estadounidense. La tensión no es entre desarrollo y ambiente, sino entre urgencia de adaptación climática e infraestructura heredada no diseñada para resiliencia.",
+      "filtro_categoria_primaria": "El objetivo principal de cambio es transformar el sector eléctrico caribeño hacia uno resiliente al clima mediante renovables, planificación integrada y endurecimiento de infraestructura. La sostenibilidad ambiental (resiliencia climática + transición energética) es el sujeto del documento, no un canal hacia otro fin. Asignación: #6 Sostenibilidad ambiental.",
+      "secundaria_obligatoria": "Las 8 recomendaciones se centran abrumadoramente en capacidades institucionales: recolección de datos, metodologías de planificación (IRRP), marcos regulatorios, coordinación inter-actor, y capital humano en estadística energética. El documento no propone inversión directa ni transformación productiva, sino que fortalece la capacidad del Estado para planificar y regular un sector resiliente. Asignación: #11 Capacidades del Estado.",
+      "justificacion_anti_copia": "El sujeto del documento es específicamente la cadena de valor del sector eléctrico caribeño (generación, T&D, demanda) con datos país por país: Belice 28% hidroeléctrica expuesta a sequías, Antigua y Barbuda 83% térmica (p.4). El IRRP está avalado por CARICOM (no es un instrumento genérico de planificación) y tiene 5 países identificados como adoptantes con nombre propio: Belice, Guyana, Jamaica, Saint Kitts and Nevis, Trinidad y Tobago (p.6). Las 8 recomendaciones responden a características estructurales específicas del Caribe: modelo de utility única, 81,3% de combustibles fósiles, tarifas de US$ 0,33/kWh, huracanes como amenaza dominante.",
+      "validacion_anclas": "Coincide con el ancla de calibración registrada en la tabla de anclas de la metodología: primaria #6 Sostenibilidad ambiental, secundaria #11 Capacidades del Estado. Caso claro: tecnología/resiliencia energética como sujeto, recomendaciones concretas de capacidad institucional (datos, coordinación, planificación)."
+    },
+    "tipo_documento_climatico": "Policy Brief",
+    "nivel_aplicacion": "Subregional (Caribbean SIDS / CARICOM)",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

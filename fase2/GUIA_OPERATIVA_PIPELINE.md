@@ -163,6 +163,13 @@ Este protocolo no resuelve el punto 1 (sigue haciendo falta que el harness lea P
 correr `docling` antes) — pero da una forma barata de saber, con evidencia y no con supuestos, si vale la
 pena portar el pipeline a otro harness/modelo antes de escalar.
 
+> **Este protocolo ya se ejecutó una vez** (2026-07-13, Ronda 5): 4 corridas nuevas sobre doc09 con
+> modelos/harnesses distintos, más la referencia calibrada. Resultados, ranking y refuerzos propuestos en
+> [pilot/EVALUACION_MULTIMODELO_DOC09.md](pilot/EVALUACION_MULTIMODELO_DOC09.md) (registro de evaluación —
+> **no es metodología del pipeline**, no leerlo como insumo para correr el pipeline). Hallazgo principal:
+> los 3 checkpoints del Paso 5 no capturan todos los modos de falla observados — hay una propuesta de
+> ampliarlos a ~6, pendiente de decisión.
+
 **Paso 1 — Elegir el caso de prueba**: usar doc09
 ([pilot/doc09_caribbean_power.json](pilot/doc09_caribbean_power.json), 12 páginas totales / 10 hasta
 conclusiones) — es el más corto del piloto y ya pasó por las 4 rondas de calibración, así que su JSON actual
