@@ -145,6 +145,16 @@ pedirlo explícitamente — p. ej. *"corré el pipeline de enriquecimiento sobre
 la muestra usando un workflow"*. No conviene lanzarlo antes de que el equipo del curso valide el enfoque del
 piloto (ver [PLAN_ANALISIS_PROFUNDO.md §5](PLAN_ANALISIS_PROFUNDO.md)).
 
+## Revisión ciega externa de veredictos (posterior al lote, fuera de este pipeline)
+
+La parte subjetiva de la salida (interpelación + tipología) se verifica con una **segunda lectura ciega en
+un harness/modelo externo**, corrida por lotes una vez completado el trabajo del ejecutor — no es una etapa
+de este pipeline y no la ejecuta el mismo agente. Instrucciones autocontenidas (insumos exactos, regla de
+ceguera, formato de salida, comparación y adjudicación) en
+[INSTRUCCIONES_REVISOR_EXTERNO.md](INSTRUCCIONES_REVISOR_EXTERNO.md). Para el piloto de la muestra de 17 el
+revisor designado es DeepSeek en OpenCode (Ronda 5); el rol es intercambiable por cualquier harness/modelo
+que pase el protocolo de portabilidad de abajo.
+
 ---
 
 ## Protocolo de prueba de portabilidad de harness/modelo

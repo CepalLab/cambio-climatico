@@ -281,6 +281,35 @@ Con esto, escalar a los 14 documentos de la muestra: **~700.000-900.000 tokens**
 
 **Implicación de diseño**: usar siempre "una sola conversación/agente por documento, todas las etapas adentro", nunca un agente nuevo por etapa. La diferencia es 2.5-3x en costo y no aporta nada a cambio — las 5 etapas necesitan el mismo texto fuente, no hay razón para pagarlo varias veces.
 
+### 4.3.1 Actualización Ronda 6 (2026-07-14) — páginas reales de la muestra de 17 y costo en dólares
+
+La proyección de arriba asumía una distribución de extensiones como la del piloto y **quedó corta**: al
+resolver las páginas reales de los 14 documentos pendientes contra la API del repositorio
+(`dc.format.extent`), la muestra resultó mucho más pesada — **2.501 páginas** los 14 pendientes (el piloto
+completo fueron 181), con seis documentos por encima de 190 páginas: agua 332, trampas del desarrollo 300,
+Estudio Económico 2023 299, costa 265, Panorama de la Gestión Pública 247, Honduras 228. En tokens
+facturables (con caché de prompts, que el harness aplica automáticamente): **~4-5M para el lote de 14**,
+no los 700-900k proyectados para 14 documentos "tipo piloto".
+
+Costo estimado con Claude Sonnet como ejecutor (USD 3/M input, 3,75 escritura de caché, 0,30 lectura de
+caché, 15/M output; ~475 tokens/página, empírico del piloto; estimación ±50%):
+
+| Escenario | Costo aprox. |
+| --------- | ------------ |
+| 14 pendientes, solo ejecutor (etapas 1→5 + auto-validación) | **~USD 16** |
+| 14 pendientes, ejecutor + revisor ciego inline + árbitro | ~USD 27 |
+| Reprocesar además los 3 pilotos | +~USD 3 (descartado: son las anclas calibradas) |
+| Techo si el caché de prompts no aplicara | ~USD 85 |
+| Extrapolación al corpus de 244 (misma distribución) | ~USD 300-450 con revisor |
+
+**Decisión asociada (Ronda 6)**: el revisor ciego **no** corre inline en el workflow — corre **fuera de
+Claude Code, después del lote completo del ejecutor**, en un harness/modelo externo (piloto: DeepSeek en
+OpenCode, elegido por su desempeño en la prueba de portabilidad de Ronda 5; eventualmente cualquiera que
+pase el protocolo de portabilidad). Instrucciones autocontenidas y portables en
+[INSTRUCCIONES_REVISOR_EXTERNO.md](INSTRUCCIONES_REVISOR_EXTERNO.md). El workflow del lote queda entonces
+en la variante "solo ejecutor" (~USD 16), y la comparación/adjudicación se hace al cerrar la revisión
+externa.
+
 ### 4.4 Cómo pedirlo cuando llegue el momento
 
 Cuando el equipo del curso valide el piloto y se quiera escalar a los 12 documentos restantes (o a los 244), alcanza con pedir explícitamente usar un workflow — por ejemplo: *"corré el pipeline de enriquecimiento sobre los 12 documentos restantes de la muestra usando un workflow"*. No conviene lanzarlo antes de esa validación.
