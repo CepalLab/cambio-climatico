@@ -218,8 +218,8 @@ en los veredictos de interpelación (pendiente de 3.2).
 adquisición, lectura, enriquecimiento documental, resumen de secciones, interpelación, tipología, y el
 mapeo a preguntas de investigación pospuesto— son la especificación operativa del pipeline: viven en un
 documento aparte para que cualquiera (persona o agente, en cualquier harness) pueda correr el pipeline hoy
-sin tener que separar la regla vigente de la narrativa de cómo se llegó a ella. Si buscás *qué hacer paso a
-paso*, andá a esa guía; si buscás *por qué se decidió así*, seguí con la bitácora de esta sección y la
+sin tener que separar la regla vigente de la narrativa de cómo se llegó a ella. Si se busca *qué hacer paso
+a paso*, ir a esa guía; si se busca *por qué se decidió así*, seguir con la bitácora de esta sección y la
 sección 3 (piloto ejecutado).
 
 ---
@@ -312,7 +312,7 @@ externa.
 
 ### 4.4 Cómo pedirlo cuando llegue el momento
 
-Cuando el equipo del curso valide el piloto y se quiera escalar a los 12 documentos restantes (o a los 244), alcanza con pedir explícitamente usar un workflow — por ejemplo: *"corré el pipeline de enriquecimiento sobre los 12 documentos restantes de la muestra usando un workflow"*. No conviene lanzarlo antes de esa validación.
+Cuando el equipo del curso valide el piloto y se quiera escalar a los documentos restantes de la muestra (o a los 244), alcanza con pedir explícitamente usar un workflow — por ejemplo: *"corre el pipeline de enriquecimiento sobre los 14 documentos restantes de la muestra usando un workflow"*. No conviene lanzarlo antes de esa validación (condición ya cumplida en Ronda 6).
 
 ---
 

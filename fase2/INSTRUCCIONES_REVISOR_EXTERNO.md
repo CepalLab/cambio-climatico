@@ -104,12 +104,12 @@ se repiten acá las que la Ronda 5 mostró frágiles entre modelos):
 
 ### Bloque de prompt sugerido (copiar/pegar en el harness externo)
 
-> Actuá como codificador independiente de un ejercicio de calibración. Vas a leer un documento de la CEPAL
+> Actúa como codificador independiente de un ejercicio de calibración. Vas a leer un documento de la CEPAL
 > (PDF adjunto) y tres documentos de metodología (INTERPELACION_v0.md, big_push.md, TIPOLOGIA_v0.md).
-> Producí únicamente el JSON de veredictos con el formato de la sección 5 de
-> INSTRUCCIONES_REVISOR_EXTERNO.md. Aplicá las reglas de decisión de la metodología al pie de la letra,
-> con citas textuales y página para todo veredicto. No tenés acceso a ninguna respuesta previa sobre este
-> documento y no debés intentar adivinarla: tu valor es la lectura independiente.
+> Produce únicamente el JSON de veredictos con el formato de la sección 5 de
+> INSTRUCCIONES_REVISOR_EXTERNO.md. Aplica las reglas de decisión de la metodología al pie de la letra,
+> con citas textuales y página para todo veredicto. No tienes acceso a ninguna respuesta previa sobre este
+> documento y no debes intentar adivinarla: tu valor es la lectura independiente.
 
 ## 6. Qué pasa con el resultado (comparación y adjudicación)
 
