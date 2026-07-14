@@ -155,6 +155,20 @@ ceguera, formato de salida, comparación y adjudicación) en
 revisor designado es DeepSeek en OpenCode (Ronda 5); el rol es intercambiable por cualquier harness/modelo
 que pase el protocolo de portabilidad de abajo.
 
+**Circuito completo de un lote** (quién hace qué, en orden):
+
+| Paso | Quién | Qué hace | Deja |
+| ---- | ----- | -------- | ----- |
+| 1. Ejecutor | Workflow en el harness principal (un agente por documento, etapas 1→5 + auto-validación con `validar_esquema.py`) | Procesa el lote completo | `pilot/docNN_*.json` |
+| 2. Revisor ciego | Operador humano en el harness externo, siguiendo [INSTRUCCIONES_REVISOR_EXTERNO.md](INSTRUCCIONES_REVISOR_EXTERNO.md) | Re-deriva solo veredictos (interpelación + tipología), sin ver nada del ejecutor. No compara ni reporta — solo codifica | `pilot/revision/docNN_revision.json` |
+| 3. Comparación | `python fase2/pipeline/comparar_revision.py` (código, no un modelo — los veredictos son valores cerrados) | Cruza ejecutor↔revisor, calcula tasa de acuerdo, lista discrepancias con ambas evidencias | `pilot/revision/REPORTE_COMPARACION.md` |
+| 4. Adjudicación | Sesión en el harness principal (pedirla explícitamente: *"adjudicá el reporte de comparación"*), con el operador validando las sistémicas | Cada discrepancia se resuelve en una de tres: ejecutor tenía razón (no se toca nada) · revisor tenía razón (**corrección puntual** al JSON citando la regla) · ambas defendibles o patrón en 2+ docs (**falla sistemática**: primero la regla nueva/ejemplo resuelto en la metodología, como ronda de bitácora, después se corrigen los JSON) | JSON corregidos + ronda en bitácora si hubo cambios de regla |
+
+El revisor **no es ground truth** — es segunda opinión (en Ronda 5 el segundo lector también se equivocó);
+por eso ninguna discrepancia se aplica automáticamente y todas pasan por el paso 4. La **tasa de acuerdo**
+del paso 3 es la métrica que se reporta al equipo del curso y la que decide si, para los 244, el revisor
+corre sobre todos los documentos o sobre una submuestra.
+
 ---
 
 ## Protocolo de prueba de portabilidad de harness/modelo
