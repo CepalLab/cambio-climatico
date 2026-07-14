@@ -113,9 +113,13 @@ se repiten acá las que la Ronda 5 mostró frágiles entre modelos):
 
 ## 6. Qué pasa con el resultado (comparación y adjudicación)
 
-1. **Comparación mecánica**: cruzar veredicto por veredicto (4 criterios + primaria/secundaria) contra el
-   JSON del ejecutor. Registrar la **tasa de acuerdo** del lote — es la métrica que se reporta al equipo
-   del curso y el insumo para decidir si el revisor se mantiene para los 244 (¿en todos o en submuestra?).
+1. **Comparación mecánica**: `python fase2/pipeline/comparar_revision.py` cruza veredicto por veredicto
+   (4 criterios + primaria/secundaria de tipología) cada `pilot/revision/docNN_revision.json` contra el
+   JSON del ejecutor correspondiente, y escribe `pilot/revision/REPORTE_COMPARACION.md` con la **tasa de
+   acuerdo** del lote (la métrica que se reporta al equipo del curso y el insumo para decidir si el revisor
+   se mantiene para los 244 — ¿en todos o en submuestra?) y el detalle de cada discrepancia con ambos
+   veredictos y ambas evidencias, listo para la sesión de adjudicación. La comparación es código, no un
+   modelo: los veredictos son valores cerrados y el juicio pertenece al paso 3, no a este.
 2. **Coincidencia** → veredicto confirmado, no se toca nada.
 3. **Discrepancia** → adjudicación con la metodología a la vista (árbitro agente o revisión humana). Dos
    salidas posibles, con destinos distintos:
