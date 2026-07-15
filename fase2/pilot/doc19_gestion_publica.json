@@ -1,0 +1,1223 @@
+{
+  "documento": {
+    "num_muestra": 19,
+    "titulo": "Panorama de la Gestión Pública en América Latina y el Caribe, 2023: un Estado preparado para la acción climática",
+    "autoria": "Dante Arenas, Alejandra Naser, Verona Fideleff y Paulina Pizarro (ILPES/CEPAL); Marianela Armijo, Juan Pablo Mottola y María José Beck (consultores del ILPES); bajo la supervisión de Cielo Morales (ILPES/CEPAL) y la coordinación de Valeria Torres y Annie Dufey (ILPES/CEPAL)",
+    "handle": "https://hdl.handle.net/11362/69075",
+    "simbolo": "LC/PUB.2023/27-P",
+    "isbn": null,
+    "fecha": "2024",
+    "tipo_documento": "Informe institucional periódico de la serie Panorama de la Gestión Pública en América Latina y el Caribe (CEPAL/ILPES)",
+    "paginas_cuerpo": 223,
+    "paginas_totales": 244,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿En qué medida los países de América Latina y el Caribe han incorporado la acción climática (mitigación, adaptación y gestión del riesgo de desastres) en cada etapa del ciclo de la gestión pública —planificación, presupuestación, ejecución/inversión pública, seguimiento y evaluación, y modernización del Estado mediante gobierno abierto, gobierno digital, profesionalización del servicio civil y compras públicas— y qué brechas institucionales persisten para lograr un Estado preparado para la acción climática?",
+    "alcance": {
+      "ambito_aplicacion": "Los 33 países de América Latina y el Caribe, con análisis comparado de instrumentos, marcos legales e institucionalidad de sus administraciones públicas nacionales (planificación, hacienda/presupuesto, inversión pública, monitoreo y evaluación, servicio civil, compras públicas) y, en menor medida, ejemplos subnacionales (por ejemplo, gobiernos locales miembros de la Alianza para el Gobierno Abierto o el estado de Guanajuato en México).",
+      "referentes_dependencias": "Se usan como referentes comparativos la OCDE (presupuesto verde, panorama de administraciones públicas, índice de gobierno electrónico), la Unión Europea, y experiencias puntuales extrarregionales citadas como modelo (Nueva Zelandia —Presupuesto del Bienestar—, Reino Unido —costo de mitigación para el precio social del carbono—, Estados Unidos —costo social del carbono del IWG—, República de Corea —sistema e-Saram de gestión de recursos humanos adoptado por Uruguay—).",
+      "sectorial": "Gestión pública transversal a todos los sectores de gobierno: planificación para el desarrollo, presupuestación pública, gestión de la inversión pública, sistemas de monitoreo y evaluación de políticas, y modernización del Estado (gobierno abierto, gobierno digital, servicio civil, compras públicas sostenibles), analizados en cada caso bajo el lente de la mitigación y adaptación al cambio climático y la gestión del riesgo de desastres.",
+      "temporal": "Situación institucional vigente hacia 2023 (marcos legales, estrategias, encuestas ILPES/CEPAL y OCDE de 2018-2023), con series históricas de contraste (por ejemplo, el índice de desarrollo del gobierno electrónico de Naciones Unidas 2003-2022) y horizonte prospectivo hacia las metas climáticas de las contribuciones determinadas a nivel nacional para 2030 y de neutralidad de carbono para 2050."
+    },
+    "hallazgos_principales": [
+      "América Latina y el Caribe genera solo el 10% de las emisiones mundiales de gases de efecto invernadero pero es una de las regiones más vulnerables a sus efectos físicos; el Caribe sufrió al menos 326 desastres relacionados con peligros naturales entre 2000 y 2021 (p.17)",
+      "El número de instrumentos de planificación a largo plazo vigentes en la región aumentó de 12 a 17 entre 2018 y 2023, y los 17 incluyen líneas de acción climática, pero solo 11 de los 18 planes nacionales de desarrollo examinados incorporan indicadores específicos de cambio climático (p.39, p.65)",
+      "Solo Chile y el Perú han implementado efectivamente el precio social del carbono en la evaluación de sus proyectos de inversión pública; Costa Rica, Nicaragua y la República Dominicana ya lo calcularon pero aún no lo aplican, y Honduras está en proceso de estimación (p.156-157)",
+      "El gasto público en cambio climático medido con la metodología CPEIR del PNUD en cinco países piloto (Chile, Colombia, Ecuador, El Salvador y Honduras) osciló entre 0,27% y 2,24% del PIB (p.103)",
+      "Las emisiones de bonos verdes en la región se duplicaron de 13.600 millones de dólares en 2019 a 30.200 millones de dólares en 2021, con 12 países emisores, pero solo Chile y Colombia han emitido bonos verdes soberanos (p.109, p.114)",
+      "Solo el 8% del gasto de reactivación económica pospandemia en la región se asoció a proyectos verdes, y ese porcentaje cae a 1,2% si se compara con el gasto total pos-COVID-19 (p.21, p.134)",
+      "13 países de la región han adoptado instrumentos para incorporar la gestión del riesgo de desastres en la inversión pública, pero la evaluación ex post de proyectos solo está institucionalizada como responsabilidad del ente rector en 6 de los 16 países analizados (p.137, p.144-145)",
+      "En 2022 el 91% de los países de la región alcanzó un grado alto o muy alto de desarrollo del gobierno electrónico según Naciones Unidas, y seis países (Uruguay, Chile, Argentina, Brasil, Costa Rica y el Perú) se situaron en el nivel muy alto (p.204)",
+      "Solo 42 de los 1.378 compromisos asumidos por los países de la región en la Alianza para el Gobierno Abierto están orientados explícitamente a la acción climática (Objetivo de Desarrollo Sostenible 13) (p.196)",
+      "El índice de desarrollo del servicio civil promedio del Caribe (33 puntos sobre 100) es inferior al de América Latina (40 puntos) según la medición del BID de 2011-2013 (p.214)",
+      "19 países de la región cuentan con algún marco normativo o herramienta de compras públicas sostenibles, pero solo 3 disponen de presupuesto específico asignado para su implementación y solo 4 tienen sistemas de medición y seguimiento (p.219-221)",
+      "Solo en el 45% de los 29 países encuestados por el ILPES/CEPAL existe un marco legal para datos abiertos de gobierno, pese a que el 86% ya cuenta con una estrategia nacional de gobierno digital (p.207)"
+    ],
+    "conclusiones_recomendaciones": [
+      "Fortalecer la institucionalidad presupuestaria y de inversión pública para que incorpore de manera sistemática clasificadores de gasto climático, precio social del carbono y evaluación del riesgo de desastres en todas las etapas del ciclo presupuestario y de la inversión",
+      "Avanzar hacia presupuestos por programas y una coordinación efectiva entre los ministerios de finanzas y de planificación que vincule las prioridades climáticas de los planes de desarrollo con la asignación presupuestaria y los marcos de gastos a mediano plazo",
+      "Transversalizar el enfoque de mitigación y adaptación al cambio climático en los sistemas de monitoreo y evaluación de políticas públicas que no son de carácter ambiental, ámbito en el que la revisión de literatura especializada encontró prácticamente ninguna experiencia consolidada",
+      "Profesionalizar el servicio civil bajo criterios de mérito y fortalecer las capacidades técnicas de los equipos a cargo de la inversión pública, el monitoreo y la evaluación en materia climática, incluida la formación en metodologías como el precio social del carbono",
+      "Extender el uso de las compras públicas sostenibles dotándolas de presupuesto propio y de sistemas de seguimiento y evaluación, elementos hoy ausentes en la mayoría de los países analizados",
+      "Profundizar el gobierno abierto y el gobierno digital como aceleradores de la acción climática, integrando compromisos climáticos explícitos en los planes de acción de la Alianza para el Gobierno Abierto y aprovechando la interoperabilidad y los datos geoespaciales para la toma de decisiones"
+    ],
+    "resumen_narrativo": "El documento sistematiza, capítulo por capítulo del ciclo de la gestión pública (planificación, presupuesto, inversión, monitoreo y evaluación, y modernización del Estado), el grado en que los 33 países de América Latina y el Caribe han incorporado la mitigación y la adaptación al cambio climático en sus instrumentos y su institucionalidad. Su argumento central es que, si bien casi todos los países ya integran compromisos climáticos en sus planes de desarrollo y contribuciones determinadas a nivel nacional, la traducción de esos compromisos en presupuestos etiquetados, precios sociales del carbono, evaluaciones de riesgo de desastres, sistemas de monitoreo climático y compras públicas sostenibles con presupuesto y seguimiento propios sigue siendo incipiente y muy heterogénea entre países. El informe documenta avances concretos —como el precio social del carbono en Chile y el Perú, la duplicación de la emisión de bonos verdes regionales entre 2019 y 2021, o el 91% de países con desarrollo alto o muy alto de gobierno electrónico en 2022— junto a brechas persistentes en evaluación ex post, gasto público climático medido, transparencia presupuestaria y profesionalización del servicio civil. La conclusión general es que un Estado preparado para la acción climática requiere fortalecer simultáneamente la institucionalidad técnica y las capacidades humanas en cada eslabón del ciclo de la gestión pública, no solo declarar objetivos climáticos en los instrumentos de planificación de más alto nivel."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "9-29",
+      "resumen": "La introducción presenta la premisa conceptual de todo el informe: un Estado orientado al desarrollo inclusivo y sostenible requiere instituciones públicas eficientes que operen con probidad y rendición de cuentas, y organiza la gestión pública para el desarrollo en cuatro etapas —planificación, presupuestación, implementación y evaluación— atravesadas por el gobierno abierto, el gobierno digital y el enfoque territorial (diagrama 1). A partir de esta arquitectura conceptual, el documento anuncia que esta edición del Panorama de la Gestión Pública analiza cada una de esas etapas específicamente desde la perspectiva de la acción climática, entendida como mitigación de gases de efecto invernadero y adaptación/resiliencia a sus efectos físicos.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "la gestión pública para el desarrollo supone la planificación, la movilización, el despliegue, la organización y la transformación de recursos financieros, humanos, materiales, tecnológicos y metodológicos para proveer, asignar y distribuir bienes y servicios públicos",
+          "pagina": 9
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Acción climática con sentido de urgencia",
+          "nivel": 2,
+          "paginas": "12-22",
+          "resumen": "Con base en el Sexto Informe de Evaluación del IPCC, la sección establece que el calentamiento global de origen antropogénico ya alcanzó 1,1°C sobre el nivel preindustrial en 2011-2020 y que, aunque América Latina y el Caribe solo genera el 10% de las emisiones mundiales, es una región desproporcionadamente vulnerable: el Caribe sufrió al menos 326 desastres relacionados con peligros naturales entre 2000-2021 y pierde hasta el 3% de su PIB anual por desastres climáticos, frente al 1,7% de América Latina. La sección analiza además la recuperación pospandémica como oportunidad perdida: los paquetes de estímulo de la región promediaron solo 2,4% del PIB (frente al 3,7% mundial) y únicamente el 8% del gasto de reactivación se asoció a proyectos verdes (1,2% si se compara con el gasto total pos-COVID-19), y cierra señalando al Acuerdo de Escazú como instrumento regional para catalizar la gobernanza climática mediante acceso a la información y participación pública.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "en 2011-2020 la temperatura de la superficie del planeta alcanzaría 1,1 °C por encima del promedio registrado en el período 1850-1900",
+              "pagina": 12
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "a pesar de que América Latina y el Caribe solo genera el 10% de las emisiones mundiales de GEI, es mucho más vulnerable a sus efectos que los principales países y regiones emisores a nivel mundial",
+              "pagina": 17
+            },
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "los paquetes de recuperación pospandémica presentados por los gobiernos de la región no abordaron los riesgos estructurales mencionados anteriormente y fueron inferiores a la media mundial del 3,7% del PIB destinado a estos fines, pues alcanzaron solo el 2,4%",
+              "pagina": 21,
+              "subtipo_brecha": "retrospectiva"
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. El Estado, la gestión pública y la acción climática",
+          "nivel": 2,
+          "paginas": "23-29",
+          "resumen": "Esta sección articula, con cinco argumentos numerados, por qué cada etapa del ciclo de la gestión pública debe transformarse para abordar el desafío climático, y anuncia explícitamente el contenido de los cinco capítulos siguientes: (1) la planificación requiere nuevas capacidades de prospectiva y análisis retrospectivo (backcasting) para lidiar con la incertidumbre de largo plazo del cambio climático (capítulo I); (2) el presupuesto debe vincular las metas de las CDN con la asignación de recursos, dado que solo Chile, Colombia, Ecuador, Honduras y El Salvador han adoptado metodologías internacionales de medición del gasto climático (capítulo II); (3) la inversión pública debe evitar candados tecnológicos y mala adaptación mediante metodologías como el precio social del carbono (capítulo III); (4) el seguimiento y la evaluación deben generar sistemas de vigilancia, notificación y verificación conforme al artículo 13 del Acuerdo de París (capítulo IV); y (5) el Estado abierto, digital, profesionalizado y las compras públicas son aceleradores transversales de la acción climática (capítulo V).",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "en el caso de América Latina y el Caribe, se observan brechas importantes en este sentido, pues solo un número muy reducido de países ha adoptado las metodologías citadas: Chile, Colombia, Ecuador, Honduras y El Salvador",
+              "pagina": 26
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "el papel del Estado en la gestión adecuada de la acción climática para generar un triple dividendo va mucho más allá de la elaboración y la implementación de las CDN, pues el margen de acción es mucho más amplio",
+              "pagina": 23
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "Capítulo I. Planificación para enfrentar el desafío climático",
+      "nivel": 1,
+      "paginas": "33-65",
+      "resumen": null,
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. La planificación a largo plazo para la gestión pública",
+          "nivel": 2,
+          "paginas": "35-39",
+          "resumen": "La sección define la planificación para el desarrollo como un proceso gubernamental integrador y participativo orientado a fijar los cursos de acción de largo plazo de un país, y describe el panorama regional: los 33 países cuentan con una institución rectora de planificación (21 con rango ministerial, 12 adscritas a la Presidencia), 27 tienen planes vigentes a mediano o largo plazo, y el número de instrumentos a largo plazo aumentó de 12 a 17 entre 2018 y 2023. Se destaca que los 17 instrumentos vigentes definen líneas de acción vinculadas a la acción climática, que 15 de ellos cuentan con mecanismos explícitos de vigilancia y evaluación, y que persisten brechas estadísticas que limitan especialmente a los países del Caribe para medir el progreso de sus planes a largo plazo.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "se aprecia que el número de instrumentos a largo plazo aumentó de 12 a 17 en los últimos cinco años, mientras el de instrumentos a mediano plazo no ha variado significativamente",
+              "pagina": 36
+            },
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "la falta de información y la necesidad de seguir fortaleciendo los sistemas estadísticos nacionales siguen constituyendo uno de los desafíos más urgentes... especialmente en los del Caribe, donde la brecha estadística limita su capacidad para desarrollar indicadores",
+              "pagina": 39,
+              "subtipo_brecha": "prospectiva"
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. La planificación orientada a la acción climática en América Latina y el Caribe",
+          "nivel": 2,
+          "paginas": "40-64",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Conceptualización de la planificación orientada a la acción climática",
+              "nivel": 3,
+              "paginas": "40-42",
+              "resumen": "La subsección conceptualiza la gestión del cambio climático como un acto de planificación y ubica a las contribuciones determinadas a nivel nacional (CDN) como el instrumento central, en consonancia con el Acuerdo de París, para establecer metas de mitigación (típicamente a 2030 y 2050) y compromisos de adaptación. Presenta un cuadro tipológico (cuadro I.3) que clasifica los instrumentos climáticos según la función de prospección, formulación, coordinación/implementación o evaluación, y subraya que el artículo 13 del Acuerdo de París obliga a los países a establecer sistemas nacionales de vigilancia, notificación y verificación que incluyan un componente de financiamiento.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "los principales instrumentos para la planificación de la gestión del cambio climático son las contribuciones determinadas a nivel nacional (CDN) que, en consonancia con el Acuerdo de París, establecen compromisos y metas de mitigación y adaptación a largo plazo",
+                  "pagina": 40
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Las contribuciones determinadas a nivel nacional de los países de América Latina y el Caribe como instrumentos de planificación",
+              "nivel": 3,
+              "paginas": "42-49",
+              "resumen": "A partir de un cuadro comparativo de las 33 CDN de la región (cuadro I.4), la subsección muestra que siete países (Argentina, Brasil, Chile, Colombia, Costa Rica, Panamá y Perú) fijaron metas de mitigación a 2050, que 16 países cuentan con estrategias climáticas de largo plazo (ocho de ellas coherentes con sus CDN) y que 23 países tienen sistemas de vigilancia, notificación y verificación establecidos o en desarrollo, aunque solo cinco (Antigua y Barbuda, Dominica, Honduras, Panamá y República Dominicana) incluyen metas específicas para mejorarlos. También documenta que 30 países cuentan con un consejo o comité interministerial de cambio climático (recuadro I.1, detallado en el cuadro A1.2 del anexo) y que nueve países disponen de procesos de planificación climática subnacional (Argentina, Chile, Colombia, Costa Rica, Honduras, México, Nicaragua, Paraguay y Venezuela).",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "en casi todos se establecieron metas para 2030 y en siete de ellos —la Argentina, el Brasil, Chile, Colombia, Costa Rica, Panamá y el Perú— se incluyeron metas para 2050",
+                  "pagina": 42
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "pese a que los sistemas de vigilancia, notificación y verificación son clave para el reconocimiento y la visibilidad de los logros en la implementación de las CDN, solo en cinco países... se incluyen metas y acciones específicas para mejorarlos",
+                  "pagina": 48,
+                  "subtipo_brecha": "prospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Planes nacionales de desarrollo y cambio climático",
+              "nivel": 3,
+              "paginas": "49-54",
+              "resumen": "La subsección examina cómo los 17 planes nacionales de desarrollo a largo plazo de la región vinculan sus objetivos a los compromisos climáticos (cuadro I.5): todos incluyen objetivos explícitos de cambio climático, pero solo 10 de los 17 planes examinados cuentan con indicadores de cambio climático propiamente dichos. Se destacan como casos de integración profunda Costa Rica (con la meta de descarbonización como una de sus siete metas nacionales), Colombia (con la acción climática como una de las cinco transformaciones del Plan Nacional de Desarrollo 2022-2026, con 114,3 billones de pesos proyectados) y Granada (con 13 líneas de acción climática detalladas). Sin embargo, cita a Calfucoy y otros (2022) para señalar que en Chile, Colombia, Costa Rica y el Perú las estrategias climáticas de largo plazo no son reconocidas como estrategias de desarrollo, sino como política exclusivamente ambiental, lo que genera tensión de gobernanza con los ministerios de medio ambiente.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "en la actualidad, todos los planes de desarrollo de los países de la región incluyen, en forma explícita, objetivos para abordar el cambio climático",
+                  "pagina": 50
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "las estrategias climáticas a largo plazo de Chile, Colombia, Costa Rica y el Perú... no son reconocidas en estos países como una estrategia de desarrollo. En la mayoría de ellos, las estrategias climáticas a largo plazo funcionan como una política exclusivamente de medio ambiente",
+                  "pagina": 54,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Otros instrumentos de planificación para integrar la dimensión climática en América Latina y el Caribe",
+              "nivel": 3,
+              "paginas": "55-64",
+              "resumen": "La subsección presenta cuatro estudios de caso de instrumentos de planificación climática que van más allá de los planes nacionales de desarrollo: a) las políticas industriales orientadas por misiones (Mazzucato, 2023), con ejemplos en Chile (minería y energía solar), México (clústeres de Nuevo León), Uruguay (Plan Ceibal), Argentina (kits de COVID-19) y Colombia (Medellín la más educada); b) la política Energía 2050 de Chile, elaborada en 18 meses con un Consejo Consultivo de 27 actores y luego actualizada como política de Estado en 2022; c) la actualización del Plan Estatal de Desarrollo 2050 del estado de Guanajuato (México), con apoyo del ILPES; y d) la iniciativa Desarrollando Ciudades Resilientes 2030 (MCR2030), en la que participan 14 países de la región con 718 ciudades, concentradas en el Brasil, México y Colombia.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "el proceso de elaboración de Energía 2050 supuso la convocación de una amplia gama de actores... con distintos niveles de participación (estratégico, técnico, ciudadano)... esto constituyó una de las claves de su éxito",
+                  "pagina": 59
+                },
+                {
+                  "dimension": "oportunidades",
+                  "cita": "en América Latina y el Caribe participan 14 países, con un total de 709 municipios que se encuentran en distintas etapas de la hoja de ruta",
+                  "pagina": 63
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Reflexiones finales",
+          "nivel": 2,
+          "paginas": "64-65",
+          "resumen": "El cierre del capítulo sintetiza que la región muestra una tendencia clara a designar entes rectores de planificación y a adoptar diseño participativo en sus instrumentos de largo plazo, y que casi todos los países vinculan sus planes de desarrollo con sus compromisos climáticos, pero que persisten brechas estadísticas (especialmente en el Caribe), solo 11 de 18 planes incluyen indicadores de cambio climático, y los ministerios de medio ambiente carecen de las atribuciones necesarias para liderar una implementación que excede su ámbito de acción tradicional.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "para avanzar hacia una mayor integración de los compromisos climáticos en las estrategias y los planes de desarrollo es necesario otorgar más responsabilidades a las otras instituciones participantes y repensar el papel de los ministerios de medio ambiente",
+              "pagina": 65
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "Capítulo II. Presupuestación en América Latina y el Caribe: la perspectiva del cambio climático",
+      "nivel": 1,
+      "paginas": "67-114",
+      "resumen": null,
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Conceptualización del presupuesto",
+          "nivel": 2,
+          "paginas": "69-71",
+          "resumen": "La sección define el presupuesto público a partir de sus tres funciones —eficiencia macroeconómica, eficiencia asignativa y eficiencia técnica— y describe el ciclo presupuestario en cuatro fases (programación/formulación, discusión/aprobación, ejecución, evaluación), señalando que en cada una de ellas deben incorporarse marcadores presupuestarios de cambio climático para asignar y dar seguimiento al gasto público destinado a mitigación y adaptación.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "el marco fiscal a mediano plazo debe tener en cuenta las necesidades de gasto público climático que surgen de los acuerdos internacionales y se expresan en las metas climáticas (contribuciones determinadas a nivel nacional (CDN))",
+              "pagina": 70
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Gestión del presupuesto en América Latina y el Caribe",
+          "nivel": 2,
+          "paginas": "72-98",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Institucionalidad presupuestaria",
+              "nivel": 3,
+              "paginas": "72-74",
+              "resumen": "A partir de la encuesta de la OCDE de 2018, la subsección muestra que en el 84% de los países la autoridad presupuestaria central (APC) está radicada en el ministerio de finanzas o economía, con una centralización mayor que en la OCDE en la autorización de desembolsos (10 de 13 países) y la producción de presupuestos complementarios, y que en el 62% de los países el director de presupuesto es un cargo político (no de carrera). Destaca que la prioridad de las APC durante la pandemia fue movilizar recursos de emergencia sanitaria, lo que se identifica como una fortaleza replicable para conducir el gasto público climático.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "en la mayoría de los países la autoridad presupuestaria central (APC), o dirección de presupuesto estaba radicada en una división o unidad del ministerio de finanzas o economía (84%)",
+                  "pagina": 72
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Técnicas presupuestarias",
+              "nivel": 3,
+              "paginas": "74-77",
+              "resumen": "La subsección describe cuatro técnicas presupuestarias (incremental, por programas, base cero, por resultados) y documenta que el presupuesto por programas —la técnica más usada en la región (Argentina, Brasil, Costa Rica, Chile, Guatemala, Honduras, Paraguay y Perú)— es la vía más directa para determinar el gasto específico en cambio climático mediante clasificadores funcionales y programáticos, con innovaciones recientes en Chile (vinculación de oferta programática con clasificador presupuestario, incluyendo género y cambio climático) y en el Paraguay (categoría de \"programas sustantivos\", con 24 programas y el 86,7% de ocho ministerios proveedores de servicios incorporándola en 2022).",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "en Chile, se reconoce que uno de los desafíos para mejorar la determinación de los recursos de los programas a los resultados es avanzar en la presupuestación por programas... incorporar los gastos con componente de género y de cambio climático",
+                  "pagina": 76
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Clasificación presupuestaria",
+              "nivel": 3,
+              "paginas": "77-79",
+              "resumen": "La subsección explica las cuatro clasificaciones presupuestarias (administrativa, económica, funcional, por programas) y señala que, aunque casi todos los países organizan su presupuesto con lógica administrativa y económica, el avance hacia una clasificación programática —requisito para medir el gasto climático transversal— sigue siendo limitado; se destaca como avance reciente la reforma de clasificadores de la República Dominicana desde 2019, evaluada positivamente por la misión PEFA de 2022.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "desde 2019, el país ha tenido mejoras en el sistema presupuestario, que facilitan el logro de los objetivos del presupuesto por resultados",
+                  "pagina": 78
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Marcos de gastos a mediano plazo",
+              "nivel": 3,
+              "paginas": "79-80",
+              "resumen": "La subsección distingue tres tipos de marcos de gasto a mediano plazo (fiscal, presupuestario y de gastos propiamente dicho) y reporta, con base en la encuesta OCDE de 2020, que 8 de 13 países cuentan con marco presupuestario plurianual, que el puntaje regional promedio subió de 0,50 en 2013 a 0,63 en 2019 (en escala de 0 a 1), aún por debajo del 0,75 de la OCDE, con horizontes de entre tres y cinco años en la mayoría de los casos.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "el puntaje promedio de la región aumentó de 0,50 en 2013 a 0,63 en 2019 (en una escala de 0 a 1, en la que 1 es el puntaje más alto)",
+                  "pagina": 80
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Flexibilidad presupuestaria",
+              "nivel": 3,
+              "paginas": "80-81",
+              "resumen": "La subsección mide la capacidad de los ministerios de línea para trasladar fondos no gastados entre años fiscales y reporta que esta flexibilidad se redujo entre 2013 y 2018: mientras en 2013 solo el Brasil la permitía sin límite, en 2018 únicamente 4 de 13 países (Bahamas, Brasil, Chile y el Perú) la autorizaban, y el número de países que no permiten ningún traspaso aumentó de siete a nueve, una rigidez mayor que la de la OCDE, donde la mitad de los países permite traslados sin límite.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "en el resto de los países analizados en 2013 (siete) no se permitía el traspaso de fondos, situación que se volvió más rígida en 2018, cuando el número de países en los que no se permitían las reasignaciones había aumentado a nueve",
+                  "pagina": 81,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "6. Sistemas integrados de información financiera",
+              "nivel": 3,
+              "paginas": "81-82",
+              "resumen": "Con base en una encuesta del BID (Pimenta y Cermeño, 2020), la subsección reporta avances en la cuenta única del tesoro y en la interconexión con recursos humanos, compras y deuda pública (más del 50% de los sistemas), pero rezagos tecnológicos: solo el 39% de los países usa software abierto, el 28% usa servicios en la nube y solo 3 de 18 países aplican criptografía en sus bases de datos, lo que limita la trazabilidad del gasto público en cambio climático.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "se destacan el avance de la operación de la CUT en los sistemas integrados de información financiera y la ampliación de su cobertura en el sector público de los países de América Latina y el Caribe",
+                  "pagina": 82
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "7. Presupuesto por resultados",
+              "nivel": 3,
+              "paginas": "82-86",
+              "resumen": "La subsección detalla los componentes del presupuesto por resultados y presenta el caso del Perú como referencia regional: el Decreto Legislativo núm. 1440 de 2018 creó los programas presupuestarios orientados a resultados centrados en la \"condición de interés\" del ciudadano, ilustrados con el caso del programa de desarrollo infantil temprano, que vincula evidencia científica, trabajo intersectorial multianual y presupuesto. Una encuesta del BID de 2023 a 17 países encontró que 14 ya implementan un marco de presupuestación por resultados, aunque persisten desafíos de coordinación interministerial y de uso efectivo de la información de desempeño.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "en 2018 se llevó a cabo en el Perú la reforma presupuestaria expresada en el Decreto Legislativo núm. 1440... se definió una nueva metodología y gobernanza para la elaboración del presupuesto por resultados",
+                  "pagina": 85
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "el seguimiento del desempeño del gasto en un presupuesto por resultados puede ayudar mucho a enfrentar el cambio climático",
+                  "pagina": 84
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "8. Vinculación de los planes de desarrollo con el presupuesto",
+              "nivel": 3,
+              "paginas": "86-90",
+              "resumen": "La subsección documenta, citando a Sanginés y Nicaretta (2022) y a un estudio de la OCDE (2021b), que en la mayoría de los países de América Latina y el Caribe no existe una conexión clara entre los planes nacionales de desarrollo y la asignación presupuestaria, con planificación, presupuesto y formulación de políticas operando como procesos independientes; presenta como excepciones parciales a Costa Rica (directrices anuales MIDEPLAN-Hacienda) y la República Dominicana (cadena de valor RUTA-SIGEF desde 2019), y cita el Presupuesto del Bienestar de Nueva Zelandia como mejor práctica internacional de vinculación plan-presupuesto.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "en muchos países de ALC no existe una conexión clara entre los planes nacionales de desarrollo y su asignación en el presupuesto gubernamental, y con frecuencia su financiación resulta insuficiente",
+                  "pagina": 88,
+                  "subtipo_brecha": "retrospectiva"
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "definir objetivos de los planes de desarrollo simples y adaptables a los formatos presupuestarios para permitir su integración en la \"etapa estratégica\" del ciclo presupuestario",
+                  "pagina": 89
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "9. Sistemas de seguimiento y evaluación y presupuesto público",
+              "nivel": 3,
+              "paginas": "90-92",
+              "resumen": "La subsección distingue evaluaciones ex ante y ex post y describe el caso de Chile, donde una evaluación experimental del \"Reporte al Contribuyente\" (Ministerio de Hacienda, SII, DIPRES y Laboratorio de Gobierno) mostró que informar a la ciudadanía sobre el uso de sus impuestos mejora la percepción de transparencia en un 16%-20% y la confianza en un 8%-10%, evidencia que ilustra el potencial de la evaluación de impacto para retroalimentar decisiones de gasto, incluido el climático.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "en la mayoría de los países la evaluación de la ejecución presupuestaria es ex post, lo cual limita los efectos correctivos que ofrecen las evaluaciones concurrentes o en tiempo real",
+                  "pagina": 91
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "10. Revisión del gasto público",
+              "nivel": 3,
+              "paginas": "92-93",
+              "resumen": "La subsección define la revisión del gasto público (spending review) como una herramienta para generar espacio fiscal reasignando recursos sin necesariamente recortar el gasto total, y presenta el caso de Chile, donde el presupuesto de 2021 generó un espacio fiscal de 2.270 millones de dólares (3% del presupuesto total) mediante priorización, evaluación y eficiencia, financiando subsidios al empleo e inversión en infraestructura durante la pandemia.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "en Chile se utilizó la revisión del gasto de diversos programas para la generación de espacio fiscal y el financiamiento de iniciativas de reactivación económica",
+                  "pagina": 92
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "11. Participación pública en el presupuesto",
+              "nivel": 3,
+              "paginas": "93-95",
+              "resumen": "Basada en la encuesta OCDE de 2020, la subsección muestra que los mecanismos de consulta pública en el ciclo presupuestario son heterogéneos y limitados: en la Argentina, Chile, México y Panamá no existe ninguna instancia de participación con actores interesados, ni antes ni después de la presentación del presupuesto, mientras que las Bahamas y el Paraguay son los países con mayor variedad de mecanismos (grupos focales, consultas privadas, audiencias formales y foros públicos) en ambas fases del ciclo.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "en la Argentina, Chile, México y Panamá no hay instancias de participación con actores interesados, ni en las fases previas ni posteriores a la presentación del presupuesto",
+                  "pagina": 93,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "12. Transparencia y rendición de cuentas",
+              "nivel": 3,
+              "paginas": "95",
+              "resumen": "La subsección compara la transparencia presupuestaria regional con la de la OCDE mediante la encuesta de 2018: en 12 de 13 países se incluyen las prioridades presupuestarias en la ley de presupuesto (frente al 59% de la OCDE) y en 11 de 13 se divulga la perspectiva de mediano plazo de ingresos y gastos, pero solo cinco países presentan un plan financiero anual que incluya fondos extrapresupuestarios, frente a más de la mitad de los países de la OCDE.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "en 11 de los 13 países de América Latina y el Caribe estudiados (con excepción de Panamá y el Paraguay) se divulga la perspectiva a mediano plazo sobre los ingresos y los gastos totales",
+                  "pagina": 95
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "13. Presupuestos abiertos en América Latina y el Caribe",
+              "nivel": 3,
+              "paginas": "95-98",
+              "resumen": "Con base en la Encuesta de Presupuesto Abierto 2021 de la International Budget Partnership (18 países), la subsección muestra que la región no alcanza el mínimo de apertura (61 puntos) en ninguno de sus tres pilares: transparencia (52 puntos), vigilancia (55 puntos) y, de forma más marcada, participación pública (solo 7 de 18 países superan los 20 puntos, con el Perú a la cabeza con 31). Documenta experiencias digitales de acercamiento presupuestario a la ciudadanía como el pódcast \"Hablemos de presupuesto\" (República Dominicana), la aplicación PresupuestApp (Paraguay) y el portal de Transparencia Presupuestaria (México, con infraestructura blockchain en la nube).",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "los resultados más desfavorables se observan con respecto al pilar de participación... Solo en 7 de los 18 países analizados se logra superar los 20 puntos",
+                  "pagina": 96,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Presupuesto público y cambio climático",
+          "nivel": 2,
+          "paginas": "98-112",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Antecedentes del presupuesto con perspectiva de cambio climático",
+              "nivel": 3,
+              "paginas": "98-99",
+              "resumen": "La subsección sitúa el acuerdo de Helsinki de 2019, que creó la Coalición de Ministros de Finanzas para la Acción Climática con seis Principios de Helsinki suscritos por más de 20 países (incluidos Chile, Costa Rica, Colombia, Guatemala y México en la región), y describe cinco mecanismos nacionales de coordinación técnica entre ministerios de hacienda/planificación y ambiente (Chile, Colombia, Ecuador, El Salvador y Honduras) para gestionar las finanzas del clima.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "en abril de 2019, los ministros de finanzas de más de 20 países adhirieron a la Coalición de Ministros de Finanzas para la Acción Climática. En esta instancia se respaldaron seis principios comunes, conocidos como los Principios de Helsinki",
+                  "pagina": 98
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. La medición del gasto público en cambio climático y su aplicación en América Latina y el Caribe",
+              "nivel": 3,
+              "paginas": "100-105",
+              "resumen": "La subsección explica el marco conceptual de clasificación del gasto climático en primario y secundario (positivo/negativo) según el COFOG ampliado, presenta las metodologías internacionales (FMI, SCAE, CEPAL, PNUD-CPEIR, OCDE-presupuesto verde, BID) y reporta los resultados del ejercicio piloto del PNUD-CPEIR en cinco países: el gasto público en cambio climático osciló entre 0,27% del PIB (Colombia) y 2,24% (Honduras), y en Chile alcanzó 532.696 millones de pesos en 2020 (0,86% de la Ley de Presupuestos), un aumento del 30% respecto de 2019. También documenta que en cinco países estudiados por el BID (Argentina, Colombia, Jamaica, México y Perú) el gasto potencialmente perjudicial para el clima (1,9%-8,6% del presupuesto) supera al gasto climático positivo (1,1%-3,3%).",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "el informe presenta evidencia que confirma que el gasto público en cambio climático es significativo en la región (0,27% al 2,24% del PIB)",
+                  "pagina": 103
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "en estos mismos países y sectores, el rango de recursos presupuestales asignados a programas y proyectos que \"potencialmente\" contribuirían negativamente a los esfuerzos de cambio climático se ubican en un rango notoriamente más alto",
+                  "pagina": 102,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Otros aspectos presupuestarios relacionados con el cambio climático",
+              "nivel": 3,
+              "paginas": "105-108",
+              "resumen": "La subsección describe el \"presupuesto verde\" de la OCDE, cuantificando su adopción en 24 países (22 usan instrumentos de fijación del precio del carbono, 18 evaluaciones de impacto ambiental y bonos verdes soberanos), y documenta el auge de los presupuestos participativos verdes desde Porto Alegre (1989), con casos regionales destacados: Cuenca (Ecuador), donde el 77% de los proyectos de presupuesto participativo 2017-2019 se orientó a mitigación/adaptación climática (más de 13 millones de dólares), y General Escobedo (México), pionero mundial en enfocar su presupuesto participativo en medio ambiente y la Agenda 2030.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "en 2017, 2018 y 2019 se destinaron más de 13 millones de dólares a proyectos relacionados con la mitigación y la adaptación a los efectos del cambio climático. Esto significa que, en promedio, el 77% de los proyectos seleccionados tienen este enfoque",
+                  "pagina": 108
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Iniciativas fiscales para el financiamiento del gasto público en cambio climático",
+              "nivel": 3,
+              "paginas": "108-110",
+              "resumen": "La subsección detalla el panorama de bonos verdes, sociales y sostenibles en la región según la metodología de la Climate Bonds Initiative: las emisiones de bonos verdes se duplicaron de 13.600 millones de dólares en 2019 a 30.200 millones en 2021, con 12 países emisores; Chile lidera con 36.000 millones de dólares acumulados y es el único país junto con Colombia que ha emitido bonos verdes soberanos (a marzo de 2023), mientras Guatemala y Ecuador encabezan los bonos sociales soberanos junto con Chile.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "desde la primera versión del informe del estado del mercado en América Latina y el Caribe en 2019 hasta 2021, las emisiones de bonos verdes en la región se duplicaron de 13.600 millones de dólares en 2019 a 30.200 millones de dólares en 2021",
+                  "pagina": 109
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Sistemas de seguimiento y evaluación del gasto público en cambio climático",
+              "nivel": 3,
+              "paginas": "110-112",
+              "resumen": "La subsección presenta el sistema de vigilancia, notificación y verificación del financiamiento climático de Colombia (parte del Sistema Nacional de Información sobre Cambio Climático, creado en 2017) y el mecanismo de trazabilidad del financiamiento internacional climático de Costa Rica (vinculado al SINAMECC), y concluye que persisten desafíos técnicos de marcación presupuestaria, evaluación de impacto del gasto climático y desarrollo de clasificadores funcionales, disponibles solo en seis países (Costa Rica, Ecuador, Honduras, Nicaragua, el Perú y la República Dominicana).",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "los países de América Latina y el Caribe que cuentan con clasificadores funcionales del gasto climático son todavía pocos: Costa Rica, Ecuador, Honduras, Nicaragua, Perú y República Dominicana",
+                  "pagina": 111,
+                  "subtipo_brecha": "prospectiva"
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "D. Reflexiones finales",
+          "nivel": 2,
+          "paginas": "112-114",
+          "resumen": "El capítulo concluye que la institucionalidad presupuestaria regional se mantuvo estable entre 2013 y 2018 —una fortaleza que permitió reaccionar rápido durante la pandemia y que podría replicarse para el gasto climático—, que avanzan los marcos de gasto a mediano plazo y el presupuesto por resultados, pero que la dimensión más débil de la Encuesta de Presupuesto Abierto sigue siendo la participación ciudadana, que la medición del gasto climático es aún incipiente y heterogénea, y que la emisión de bonos verdes se duplicó entre 2019 y 2021 pese a que los emisores soberanos siguen siendo pocos.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "el tema pendiente es mejorar la priorización del gasto público y su expresión en programas presupuestarios. Para ello se debe avanzar en los presupuestos por programas y lograr una coordinación efectiva entre los ministerios de finanzas y planificación",
+              "pagina": 113
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "Capítulo III. Ejecución de políticas públicas: la inversión pública orientada a la acción climática",
+      "nivel": 1,
+      "paginas": "117-157",
+      "resumen": null,
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Conceptualización de la gestión de la inversión pública y la integración de la acción climática",
+          "nivel": 2,
+          "paginas": "119-123",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Conceptualización de la gestión de la inversión pública",
+              "nivel": 3,
+              "paginas": "119-122",
+              "resumen": "La subsección define la inversión pública (dura y blanda) como catalizador del crecimiento y describe el ciclo de gestión de la inversión en cuatro fases (planificación, asignación de recursos, implementación, evaluación), señalando que los sistemas nacionales de inversión pública (SNIP) surgieron en la región en la década de 1980 y que persisten desafíos de alineación con la política nacional de desarrollo, coordinación entre el nivel central y subnacional, y seguimiento físico-financiero de las obras, ya que la información se organiza en etapas tardías del ciclo, lo que encarece los ajustes.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "los sistemas nacionales de inversión pública (SNIP) son fundamentales para llevar a cabo en forma coordinada los procesos necesarios de gestión de los proyectos de inversión",
+                  "pagina": 119
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Integración de criterios climáticos",
+              "nivel": 3,
+              "paginas": "122-123",
+              "resumen": "La subsección enumera el ecosistema de instituciones internacionales que trabajan la integración climática en la inversión pública (CEPAL/EUROCLIMA con el precio social del carbono, FMI, BID, OCDE, Banco Mundial) y propone alinear la fase de preinversión con taxonomías verdes y estrategias de gestión del riesgo de desastres, la fase de evaluación con el precio social del carbono y el análisis costo-beneficio, y la fase de financiamiento con mecanismos climáticos como los bonos verdes.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "se debe buscar alinear con taxonomías verdes las estrategias climáticas de largo plazo o los respectivos planes de adaptación en infraestructura y cambio climático y las estrategias de gestión del riesgo de desastres",
+                  "pagina": 122
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Panorama de la gestión de la inversión pública en América Latina y el Caribe",
+          "nivel": 2,
+          "paginas": "123-137",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Sistemas nacionales de inversión pública (SNIP)",
+              "nivel": 3,
+              "paginas": "123-125",
+              "resumen": "La subsección mapea los entes rectores de los SNIP en la región (37% en ministerios de finanzas, 31% en ministerios de planeación, 13% en la Presidencia y 19% con más de una entidad) y describe la Red de los Sistemas Nacionales de Inversión Pública de América Latina y el Caribe (Red SNIP), creada en 2011 con apoyo del BID, la CEPAL/ILPES y la GIZ, que hoy integra 16 países como espacio de cooperación horizontal en gestión de la inversión pública.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "un 37% está representado por los ministerios de finanzas como los principales rectores, seguidos por los ministerios de planeación (31%)",
+                  "pagina": 123
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Sistemas nacionales de inversión pública (SNIP) en la integración del cambio climático en la gestión de la inversión pública",
+              "nivel": 3,
+              "paginas": "125-126",
+              "resumen": "La subsección documenta que los países recién comienzan a fortalecer la institucionalidad de los SNIP frente al desafío climático, con dos hitos legales de 2022 (la propuesta de Autoridad Nacional de Infraestructura del Perú y la Ley Marco de Cambio Climático de Chile, que obliga al SNIP a incorporar el precio social del carbono), y presenta la iniciativa regional CEPAL/EUROCLIMA de precio social del carbono, en marcha desde 2018, que ha apoyado a Chile, Costa Rica, Honduras, Nicaragua, el Perú y la República Dominicana.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "los países de la región recién comienzan a dar los primeros pasos para fortalecer la institucionalidad de los SNIP y atender los desafíos climáticos",
+                  "pagina": 125,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Gestión de la inversión pública según las fases de su ciclo",
+              "nivel": 3,
+              "paginas": "126-137",
+              "resumen": "La subsección analiza las tres fases del ciclo de inversión —planificación, ejecución y evaluación ex post— con foco en 16 países: en planificación, más del 70% de los países de América Latina cuenta con algún plan nacional de inversiones (frente al 38% mundial), y solo cinco países (Colombia, Costa Rica, Honduras, República Dominicana y, de forma sectorial, Chile) vinculan explícitamente sus planes de inversión con objetivos de acción climática; en ejecución, la mayoría de los países mantiene bancos de proyectos, algunos interconectados con sistemas financieros o de compras (Colombia, Costa Rica, Guatemala, Nicaragua, Panamá, Paraguay, República Dominicana y Uruguay); y en evaluación ex post, aunque 10 países la incluyen en su marco legal, solo 6 la asignan como responsabilidad de la autoridad rectora del SNIP y solo Chile y México registran evaluaciones efectivamente realizadas.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "más del 70% de los países analizados tiene algún tipo de plan nacional de inversiones... siendo la región con el mayor porcentaje de países que utilizan estos instrumentos de planificación",
+                  "pagina": 127
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "de los 16 países analizados, actualmente solo en 6 de ellos las evaluaciones ex post se consideran dentro de las responsabilidades de las autoridades rectoras de los SNIP... según la información disponible, solo se registran evaluaciones ex post en Chile y México",
+                  "pagina": 137,
+                  "subtipo_brecha": "retrospectiva"
+                },
+                {
+                  "dimension": "oportunidades",
+                  "cita": "en Chile se utilizó la revisión del gasto de diversos programas para la generación de espacio fiscal y el financiamiento de iniciativas de reactivación económica",
+                  "pagina": 133
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Metodologías para incorporar la variable climática en el ciclo de la inversión pública",
+          "nivel": 2,
+          "paginas": "138-155",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Precio social del carbono",
+              "nivel": 3,
+              "paginas": "138-144",
+              "resumen": "La subsección explica las tres metodologías para estimar el precio social del carbono (costo social del carbono, costo de mitigación para un objetivo de política, formulación con base empírica) y detalla su aplicación en tres países: Chile, que ha usado la metodología desde 2011 y la aplica desde 2015 en edificación pública, agua caliente sanitaria, transporte y residuos sólidos, con una actualización pendiente que podría situar el precio entre 588 y 600 dólares por tonelada de CO2 si se ajusta a la nueva CDN; el Perú, que desde 2022 incorpora el precio social del carbono en su guía general de evaluación de proyectos para diez tipologías de inversión; y Costa Rica, que mediante un análisis multicriterio con 38 estudios internacionales llegó a un precio de 40 dólares por tonelada, a actualizarse cada cinco años.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "la aplicación de la metodología en la evaluación de proyectos de inversión comenzó en 2015 con la incorporación del concepto de eficiencia energética en los proyectos de edificación pública",
+                  "pagina": 141
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "en la región además están los casos de Nicaragua y la República Dominicana, que ya han calculado su precio social del carbono, y Honduras, que está en proceso de estimación",
+                  "pagina": 140,
+                  "subtipo_brecha": "prospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Metodologías de evaluación del riesgo de desastre",
+              "nivel": 3,
+              "paginas": "144-146",
+              "resumen": "La subsección identifica 13 países con metodologías propias de evaluación del riesgo de desastres en la inversión pública (cuadro III.8), con dos enfoques dominantes: la cuantificación de riesgos e incorporación de medidas de mitigación en el flujo de evaluación costo-beneficio (Chile, Colombia, Costa Rica, Ecuador, Guatemala, Honduras, Nicaragua y República Dominicana) y la identificación de eventos específicos como inundaciones (Chile y Uruguay), destacando además el caso colombiano de una caja de herramientas metodológica desarrollada entre 2019 y 2021 con apoyo de la GIZ.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "se identifican 13 países que han adoptado medidas o cuentan con instrumentos para enfrentar los riesgos de desastres y adaptarse a los efectos del cambio climático en los procesos de inversión pública",
+                  "pagina": 144
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Metodologías de priorización de inversiones con atributos climáticos",
+              "nivel": 3,
+              "paginas": "146-151",
+              "resumen": "La subsección describe dos metodologías internacionales de priorización: la Iniciativa de bonos climáticos (Climate Bonds Initiative), lanzada en 2009, cuya certificación ha alcanzado a nueve países de la región (Chile es el único con bonos soberanos certificados, siete en total); y Envision, el sistema de calificación de infraestructura sostenible de Harvard/ISI con 64 créditos en cinco categorías, utilizado en 46 proyectos de 14 países, mayoritariamente del sector energético (48%) y en esquemas público-privados (48%), y adoptado por el Ministerio de Obras Públicas de Chile en su Plan de Adaptación y Mitigación 2017-2022.",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "de la información disponible en la página del Programa Zofnass, 14 de los 33 países han utilizado el método de autoevaluación de Envision en sus proyectos públicos y privados de inversión en infraestructura, involucrando un total de 46 proyectos",
+                  "pagina": 150
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Incorporación de criterios climáticos en los sistemas de evaluación del impacto ambiental (SEIA)",
+              "nivel": 3,
+              "paginas": "151-155",
+              "resumen": "La subsección documenta que Guyana y Jamaica, junto con Barbados, Granada y Trinidad y Tabago (miembros de la CARICOM), fueron pioneros desde 2004 en incorporar la variable climática al SEIA, y describe cuatro guías nacionales exclusivas más recientes: Colombia (2015), El Salvador (2017, con módulos separados de adaptación y mitigación de GEI), el Perú (2017, a cargo del SENACE) y Chile (2022-2023, con ocho pasos metodológicos apoyados en el Atlas de Riesgos Climáticos ARClim).",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "colombia, El Salvador, el Perú y Chile han elaborado guías exclusivas para la incorporación del criterio climático en las evaluaciones del impacto ambiental",
+                  "pagina": 152
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "D. Reflexiones finales",
+          "nivel": 2,
+          "paginas": "155-157",
+          "resumen": "El capítulo concluye que 12 países ya cuentan con instrumentos de mitigación o adaptación en sus procesos de inversión pública, con Chile y el Perú (Ley Marco de Cambio Climático y Autoridad Nacional de Infraestructura, ambas de 2022) como referentes regionales, pero que la mayor parte del avance se concentra en la fase de evaluación ex ante, mientras la evaluación ex post y el desarrollo de metodologías de precio social del carbono siguen siendo desafíos pendientes que requieren fortalecer las capacidades de los equipos técnicos a cargo de la inversión pública.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "fortalecer la evaluación ex post y el desarrollo de metodologías específicas (por ejemplo, el precio social del carbono)",
+              "pagina": 156
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "Capítulo IV. Incorporación de los compromisos climáticos en los sistemas de monitoreo y evaluación de políticas públicas",
+      "nivel": 1,
+      "paginas": "161-186",
+      "resumen": null,
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Sistemas de monitoreo y evaluación",
+          "nivel": 2,
+          "paginas": "163-168",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Visión regional: avances concretos con desafíos persistentes",
+              "nivel": 3,
+              "paginas": "163-164",
+              "resumen": "La subsección sintetiza cuatro tendencias regionales en monitoreo y evaluación: la estabilización de prácticas más allá de la exigencia de organismos internacionales, la proliferación de indicadores de desempeño (más avanzada que la evaluación propiamente dicha), la diversificación de tipos de evaluación (impacto, participativa, estratégica) y la creciente incorporación de enfoques transversales de género, subrayando que no existe una fórmula única y que las trayectorias institucionales son discontinuas.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "los avances más notorios corresponden al monitoreo de los proyectos, programas y políticas públicas. En la región se aplican múltiples sistemas de indicadores de desempeño",
+                  "pagina": 163
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Conceptualización",
+              "nivel": 3,
+              "paginas": "164-166",
+              "resumen": "La subsección define los sistemas de monitoreo y evaluación como dispositivos organizacionales que armonizan la demanda de información (autoridades, ciudadanía, poder legislativo, organismos internacionales) con la oferta de producción de información (capacidad técnica, sistemas de información, registros administrativos), y propone tres escenarios de encuentro entre oferta y demanda —compartimentos estancos, articulación básica y convergencia armónica— como marco analítico para diagnosticar la madurez de cualquier sistema, incluido el climático.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "los sistemas de monitoreo y evaluación de proyectos, programas, planes, políticas públicas u otras entidades se definen como dispositivos organizacionales destinados a enriquecer los procesos de toma de decisiones con base empírica",
+                  "pagina": 164
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Objetivos y componentes: modelos para armar",
+              "nivel": 3,
+              "paginas": "166-168",
+              "resumen": "La subsección enumera cinco objetivos posibles de los sistemas de monitoreo y evaluación (apoyo a la planificación, apoyo al presupuesto, mejor gestión, transparencia/rendición de cuentas, aprendizaje y movilización de actores) y cuatro componentes de diseño (alcances, marco institucional, marco operativo, marco técnico) que estructuran cualquier sistema nacional, incluidos los orientados a la acción climática.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "la definición de los componentes de los sistemas de monitoreo y evaluación responde a cuatro requerimientos básicos... alcances del sistema, marco institucional, marco operativo y marco técnico",
+                  "pagina": 167
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Monitoreo y evaluación: un círculo virtuoso",
+          "nivel": 2,
+          "paginas": "169-180",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Funciones",
+              "nivel": 3,
+              "paginas": "169-170",
+              "resumen": "La subsección distingue el monitoreo (función continua, durante la implementación, a cargo del equipo interno) de la evaluación (valoración puntual, en cualquier momento del ciclo, a cargo de un equipo externo o mixto) mediante cuatro preguntas clave (para qué, cuándo, con qué frecuencia, quién), estableciendo el marco conceptual que se aplicará luego a los sistemas climáticos.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "mediante el monitoreo se puede conocer la situación de las intervenciones públicas en un momento dado en función de los logros esperados... la evaluación se enfoca sobre todo... en alcanzar una mayor comprensión de las razones",
+                  "pagina": 170
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Panorama del monitoreo de las políticas públicas",
+              "nivel": 3,
+              "paginas": "170-174",
+              "resumen": "La subsección mapea 12 sistemas nacionales de monitoreo (cuadro IV.4), mostrando que unos están alojados en instituciones de planificación (Costa Rica, Colombia, Guatemala, Honduras), otros en entidades presupuestarias (Chile, Paraguay, Uruguay) y otros en organismos autónomos (CONEVAL en México); destaca avances recientes en el Perú (2021), el Paraguay (2019), Guatemala (2022) y Honduras (2023), pero señala como desafíos persistentes el bajo uso de la información de monitoreo en la formulación presupuestaria, la escasa participación ciudadana y el predominio de indicadores de producto sobre los de resultado.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "se identifican importantes avances al respecto con el desarrollo reciente de sistemas en la región, como es el caso del Perú en 2021, el Paraguay en 2019, Guatemala en 2022 y Honduras en 2023",
+                  "pagina": 172
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "con frecuencia los sistemas de monitoreo se centran en la identificación de los avances en la implementación de las políticas y hay pocos indicios de que esta información realmente se utilice en la formulación y discusión del presupuesto",
+                  "pagina": 173,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Panorama de la evaluación de las políticas públicas",
+              "nivel": 3,
+              "paginas": "174-180",
+              "resumen": "La subsección describe seis tipos de evaluación (diagnóstica, de diseño, de proceso, de gestión, de resultados/desempeño y de impacto) y mapea ocho sistemas nacionales de evaluación (cuadro IV.6), constatando que los programas públicos son el objeto más evaluado (Brasil, Chile, Colombia, México), que la evaluación de impacto —la más exigente técnicamente— existe solo en seis países, y que Costa Rica innovó con una Agenda Nacional de Evaluación 2023-2026 cocreada con múltiples actores para priorizar qué evaluar.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "el instrumento de política pública más evaluado por los países son los programas públicos (Chile, Brasil, Colombia y México)... las evaluaciones de impacto son las que menos se realizan en la región",
+                  "pagina": 179
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "en comparación con los sistemas de monitoreo, los avances son menores en cuanto a la institucionalidad, así como los marcos operativos y técnicos necesarios para el sostén de las prácticas evaluativas",
+                  "pagina": 180,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Sistemas de monitoreo y evaluación y cambio climático",
+          "nivel": 2,
+          "paginas": "180-186",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Aportes a la conceptualización de los sistemas vinculados al cambio climático",
+              "nivel": 3,
+              "paginas": "180-183",
+              "resumen": "La subsección adapta los criterios del Grupo de Evaluación de las Naciones Unidas (UNEG, originalmente para género) a siete dimensiones de análisis de la sensibilidad climática de un sistema de M&E (análisis de involucrados, preguntas de evaluación, indicadores, equipos técnicos, estrategia metodológica, recolección de datos, informes), y documenta cinco desafíos técnico-metodológicos estructurales: falta de mediciones comunes, horizontes de largo plazo, incertidumbre sobre impactos, atribución causal compleja por factores múltiples, y falta de disponibilidad de datos.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "uno de los principales desafíos que enfrentan estos dispositivos institucionales es el problema de la atribución; en particular, establecer los abordajes teórico-metodológicos y la generación de información sólida para atribuir los cambios observados",
+                  "pagina": 183
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Integración de la adaptación al cambio climático en las políticas públicas de América Latina y el Caribe",
+              "nivel": 3,
+              "paginas": "183-186",
+              "resumen": "La subsección constata que la transversalización climática en los sistemas de M&E de políticas no ambientales es prácticamente inexistente en la literatura especializada mundial (solo cuatro artículos identificados en siete revistas académicas revisadas) y en la práctica regional, con la excepción de México, donde la Ley General de Cambio Climático obliga a evaluar la Política Nacional de Cambio Climático (a cargo del INECC con seis consejeros sociales), y destaca a la Comunidad de Práctica de Monitoreo y Evaluación de Políticas Climáticas (17 países, apoyada por EUROCLIMA+/FIIAPP) como espacio de aprendizaje regional.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "prácticamente no se encontraron indicios de que este enfoque esté siendo transversalizado en los sistemas de monitoreo y evaluación de las políticas públicas que no sean de carácter ambiental o climático específicamente",
+                  "pagina": 184,
+                  "subtipo_brecha": "prospectiva"
+                },
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "a nivel legal se ha establecido el mandato de que la Política Nacional de Cambio Climático debe evaluarse según la Ley General de Cambio Climático en México",
+                  "pagina": 185
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "D. Reflexiones finales",
+          "nivel": 2,
+          "paginas": "186",
+          "resumen": "El capítulo concluye que el monitoreo (indicadores de desempeño) está más desarrollado que la evaluación en la región, que el Caribe enfrenta limitaciones particulares de recopilación de datos, y que persiste como desafío principal lograr una efectiva transversalización del enfoque climático en los sistemas de monitoreo y evaluación de políticas que no son de carácter ambiental, así como consolidar una cultura de monitoreo y evaluación con base empírica reconocida por todos los actores del ecosistema de política pública.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "con todo, persiste el desafío de lograr una efectiva transversalización del enfoque ambiental y climático en los sistemas de monitoreo y evaluación de las políticas públicas que no sean de carácter ambiental o climático específicamente",
+              "pagina": 186
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "Capítulo V. Hacia un Estado moderno para abordar la crisis climática: el Estado abierto, digital y profesionalizado y las compras públicas",
+      "nivel": 1,
+      "paginas": "191-223",
+      "resumen": null,
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Elementos del contexto",
+          "nivel": 2,
+          "paginas": "191-192",
+          "resumen": "La sección abre el capítulo señalando que la confianza ciudadana en las instituciones de la región cae de forma sostenida desde 2010 (según Latinobarómetro), lo que exige repensar la interacción Estado-ciudadanía mediante el gobierno abierto y digital, y anuncia que la profesionalización del servicio civil y las compras públicas sostenibles completan el conjunto de palancas de modernización estatal analizadas en el capítulo.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "la confianza de la ciudadanía en las instituciones públicas está disminuyendo desde 2010, al tiempo que aumenta la percepción de que los gobernantes de la región gobiernan según los intereses de unos pocos",
+              "pagina": 191
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. América Latina y el Caribe: del gobierno abierto al Estado abierto",
+          "nivel": 2,
+          "paginas": "192-200",
+          "resumen": "La sección describe la Alianza para el Gobierno Abierto (creada en 2011), sus dos herramientas centrales —planes de acción bianuales/cuatrienales y foros multiactor de seguimiento— y su expansión desde el Poder Ejecutivo hacia el Estado abierto: 15 países de la región son miembros, con 75 planes de acción cocreados y 1.401 compromisos implementados a diciembre de 2023 (cuadro V.1); nueve países ya tienen planes de parlamento abierto y tres de justicia abierta; 36 gobiernos locales de la región integran el programa OGP Local; y desde 2015 la Red Académica de Gobierno Abierto (RAGA, coordinada por el CEDES en convenio con el ILPES desde 2020) articula al sector académico como actor clave.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "los 15 países de América Latina y el Caribe que integran actualmente la Alianza para el Gobierno Abierto han favorecido la cocreación de 75 planes de acción y el cumplimiento de 1.401 compromisos de política pública",
+              "pagina": 194
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "1. El gobierno abierto como acelerador de la acción climática",
+              "nivel": 3,
+              "paginas": "199-200",
+              "resumen": "La subsección sostiene que la modalidad multiactor de la Alianza para el Gobierno Abierto puede acelerar la implementación del Acuerdo de París, pero que solo 42 de los 1.378 compromisos de política pública asumidos por los países de la región están orientados explícitamente a la acción climática (Objetivo de Desarrollo Sostenible 13), y presenta ejemplos concretos —la plataforma de datos abiertos sobre cambio climático de la Argentina, el impulso de Chile al Acuerdo de Escazú y el diseño participativo del Plan Nacional de Cambio Climático de Honduras— junto a nueve buenas prácticas replicables de la OGP en transparencia, participación y reforma institucional.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "la crisis climática se aborda en 42 de los 1.378 compromisos de acción formulados en los países de América Latina y el Caribe miembros de la Alianza para el Gobierno Abierto",
+                  "pagina": 196,
+                  "subtipo_brecha": "retrospectiva"
+                },
+                {
+                  "dimension": "oportunidades",
+                  "cita": "el gobierno abierto tiene un enorme potencial para acelerar la acción climática mediante el incremento del acceso a los datos, la transparencia y la participación pública en el desarrollo y la implementación de políticas climáticas",
+                  "pagina": 199
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. El gobierno digital como habilitador de las políticas de gobierno abierto",
+          "nivel": 2,
+          "paginas": "200-210",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Encuesta de las Naciones Unidas sobre el desarrollo del gobierno electrónico",
+              "nivel": 3,
+              "paginas": "202-206",
+              "resumen": "La subsección analiza las 12 ediciones de la encuesta de gobierno electrónico de Naciones Unidas (2001-2022): en 2022 el 91% de los países de la región alcanzó un nivel alto o muy alto, con seis países en el nivel muy alto (Uruguay, primer país regional en llegar a ese nivel en 2018, seguido de Chile, Argentina, Brasil, Costa Rica y, por primera vez, el Perú), mientras Haití y Honduras retrocedieron 7 y 17 posiciones mundiales respectivamente, evidenciando una brecha persistente entre los países más avanzados y los más rezagados de la región.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "en 2022, el 91% de los países de la región alcanzó el grado alto o muy alto en el desarrollo del gobierno digital y seis países (Uruguay, Chile, Argentina, Brasil, Costa Rica y Perú) se situaron en el nivel muy alto",
+                  "pagina": 204
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Panorama de la transformación digital del Estado en América Latina y el Caribe",
+              "nivel": 3,
+              "paginas": "206-208",
+              "resumen": "Con base en una encuesta propia del ILPES/CEPAL a 29 países (2021), la subsección reporta que el 86% ya tiene una estrategia nacional de gobierno digital y el 93% cuenta con marcos de referencia de interoperabilidad, pero que solo el 45% dispone de marco legal de datos abiertos de gobierno y solo 10 países utilizan efectivamente un sistema de interoperabilidad gubernamental, evidenciando que las dimensiones de estrategia y gobernanza están más avanzadas que las de políticas normativas y proyectos concretos.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "de los 29 países que participaron en la encuesta, menos de la mitad (45%) cuenta con marcos legales para datos abiertos de gobierno, en consonancia con la proporción de países que tienen una estrategia de datos abiertos",
+                  "pagina": 207,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Transformación digital para la acción climática",
+              "nivel": 3,
+              "paginas": "208-210",
+              "resumen": "La subsección estima, citando al Foro Económico Mundial, que las tecnologías digitales podrían reducir un 20% las emisiones de los tres sectores más intensivos (energía, materiales y movilidad) hacia 2050, presenta la Coalición para la Sostenibilidad Ambiental Digital (CODES, 2021) como marco de integración de ambas agendas a nivel internacional, y documenta dos casos nacionales de institucionalización: la Agenda Digital 2030 de la República Dominicana y el visualizador de la CDN del Uruguay, construido por el Sistema Nacional de Respuesta al Cambio Climático junto con la Agencia de Gobierno Electrónico (AGESIC).",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "según estimaciones del Foro Económico Mundial... en 2050 las tecnologías digitales podrían reducir un 20% las emisiones en los tres sectores más intensivos en emisiones: energía, materiales y movilidad",
+                  "pagina": 209
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "D. Profesionalización del servicio civil",
+          "nivel": 2,
+          "paginas": "210-216",
+          "resumen": "La sección sitúa la profesionalización del servicio civil como correlato de la reforma del Estado, apoyada en el trabajo del Centro Latinoamericano de Administración para el Desarrollo (CLAD, fundado en 1972, con 19 países miembros) y en el índice de desarrollo del servicio civil del BID (ocho subsistemas: planificación, organización del trabajo, gestión del empleo, del rendimiento, de la compensación, del desarrollo, de las relaciones humanas y de la función de recursos humanos), documentando reformas institucionales recientes en el Brasil (Ministerio de Gestión e Innovación, 2023), Chile (Sistema de Alta Dirección Pública desde 2003, fortalecido en 2016), Costa Rica (Ley Marco de Empleo Público núm. 10159, vigente desde marzo de 2023) y el Caribe, donde el índice promedio (33 puntos) es inferior al de América Latina (40 puntos), con Jamaica como mejor desempeño subregional (54 puntos).",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "el promedio de la subregión es inferior al de los países de América Latina en la última medición (33 en comparación con 40, en una escala de 0 a 100)",
+              "pagina": 214
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "1. Evaluación del desempeño de los funcionarios públicos",
+              "nivel": 3,
+              "paginas": "215-216",
+              "resumen": "La subsección documenta que al menos 14 países cuentan con sistemas de evaluación del desempeño del servicio civil, la mayoría integrados a toda la administración pública, y presenta tres casos de incentivos institucionales: el Programa de Mejoramiento de la Gestión de Chile (desde 1998, con 194 instituciones y más de 87.000 funcionarios cubiertos, con incorporación del enfoque de género desde 2002), el modelo de gestión por competencias del Uruguay (con el sistema e-Saram adoptado de la República de Corea) y el fortalecimiento del Sistema de Evaluación del Desempeño Institucional de la República Dominicana.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "el desarrollo de los sistemas de evaluación del desempeño del servicio civil en América Latina y el Caribe ha evolucionado en los últimos años, de manera que al menos 14 países de la región cuentan en la actualidad con este tipo de sistemas",
+                  "pagina": 215
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "E. Incentivos para innovar y establecer patrones de consumo y producción sostenibles: el papel de las compras públicas en la acción climática",
+          "nivel": 2,
+          "paginas": "216-222",
+          "resumen": "La sección argumenta que el Estado es el mayor comprador de la economía (28,1% del PIB regional en gasto público en 2017) y que las compras públicas pueden orientar a los proveedores hacia productos sostenibles desde el diseño, presentando cuatro mecanismos internacionales (criterios ambientales/sociales en licitaciones, economía circular, promoción de la innovación, cadenas de suministro responsables) y el estado de su adopción regional: 20 de 23 países cuentan con marco normativo de compras públicas sostenibles y 21 ya han implementado acciones concretas, pero solo 10 disponen de herramientas de implementación, solo 4 tienen sistemas de medición y seguimiento, y solo 3 (Belice, Panamá y Uruguay) cuentan con presupuesto específico asignado; entre los bienes y servicios más incorporados figuran la eficiencia energética, la iluminación LED y los vehículos menos contaminantes en países como Chile, Uruguay, el Perú y Paraguay.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "en un estudio sobre los avances en materia de compras públicas sostenibles en 23 países de la región se indica que 20 países cuentan con un marco normativo... 21 países ya han realizado acciones de implementación",
+              "pagina": 219
+            },
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "probablemente los mayores desafíos que hoy se enfrentan para extender la adopción de las compras públicas sostenibles o alineadas con la acción climática... se relacionan con la falta de presupuesto y de sistemas de seguimiento y evaluación",
+              "pagina": 221,
+              "subtipo_brecha": "prospectiva"
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "F. Reflexiones finales",
+          "nivel": 2,
+          "paginas": "222-223",
+          "resumen": "El capítulo cierra sosteniendo que gobierno abierto y gobierno digital son valiosas oportunidades para acelerar la acción climática y fortalecer la democracia, pero que solo el 27% de los países involucra a la ciudadanía en la toma de decisiones digitales (frente al 70% que la involucra en diseño e implementación); que la profesionalización meritocrática del servicio civil es condición para sostener el aprendizaje institucional frente a la crisis climática; y que las compras públicas, que representan entre el 20% y el 30% del gasto público regional, tienen un gran potencial todavía poco aprovechado para orientar los patrones de consumo y producción hacia la acción climática.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "los resultados de la encuesta realizada por el ILPES de la CEPAL revelan que en casi el 70% de los países estudiados se involucra a los usuarios en el diseño y la implementación de proyectos de gobierno digital, pero solo en el 27% hay iniciativas que incluyen a la ciudadanía en la toma de decisiones",
+                  "pagina": 222
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "en la región, estos procesos suponen entre el 20% y el 30% del gasto público y, paulatinamente, se han adoptado medidas para la incorporación de la acción climática, entre ellas la definición de requisitos técnicos de sostenibilidad para los proveedores",
+              "pagina": 223
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento invoca explícitamente el concepto de \"gran impulso para la sostenibilidad\" de la CEPAL (p.121) y enumera sectores estratégicos concretos —transición energética hacia renovables, electromovilidad, inclusión digital, industria manufacturera, bioeconomía, economía del cuidado, economía circular y turismo sostenible (p.121, p.133)— junto con mecanismos de inversión coordinada (bonos verdes que se duplicaron a 30.200 millones de dólares en 2021, precio social del carbono, compras públicas sostenibles). Sin embargo, no desarrolla un plan de inversión masivo y cuantificado propio del documento (solo cita paquetes de reactivación pospandémica que fueron insuficientes: 2,4% del PIB regional frente al 3,7% mundial, p.21) y no aplica explícitamente el test de las tres eficiencias schumpeteriana-keynesiana-ambiental de big_push.md; el chequeo negativo es que el propio documento constata que solo el 8% del gasto de reactivación regional se asoció a proyectos verdes (1,2% del gasto total pos-COVID-19), es decir, la inversión coordinada a la escala del Big Push no se materializó en la práctica que el documento describe.",
+      "citas": [
+        {
+          "cita": "la CEPAL identifica sectores dinamizadores de una recuperación transformadora, con menor huella ecológica o ambiental y con generación de empleo... para que ello resulte en un \"gran impulso para la sostenibilidad\"",
+          "pagina": 121
+        },
+        {
+          "cita": "el proyecto del Programa de las Naciones Unidas para el Medio Ambiente (PNUMA)... demuestra que en América Latina y el Caribe solo el 8% del gasto en reactivación se asocia a proyectos verdes",
+          "pagina": 134
+        }
+      ],
+      "nota": "El Big Push se menciona por referencia a la literatura de la CEPAL (gran impulso para la sostenibilidad), no se construye como argumento original del propio documento con cifras de inversión coordinada específicas para el sector público analizado."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El documento identifica mecanismos de articulación multiactor nombrados y activos dentro de su propio ámbito de aplicación (la gestión pública climática regional): 30 consejos o comités interministeriales de cambio climático con participación de sociedad civil, sector privado y academia en varios países (cuadro A1.2, p.47), los foros multiactor de la Alianza para el Gobierno Abierto que cocrean y supervisan 75 planes de acción con 1.401 compromisos (p.194-195), y la Mesa Nacional de Estado Abierto de Chile, creada en 2023 mediante Resolución Exenta núm. 499, que integra representantes de gobierno, sociedad civil, academia, Corte Suprema, Congreso, Contraloría y organismos internacionales (p.195).",
+      "citas": [
+        {
+          "cita": "se creó la Mesa Nacional de Estado Abierto, conformada por 1 representante gubernamental, 2 representantes de las organizaciones de la sociedad civil, 2 representantes del sector académico, 1 representante de la Corte Suprema de Justicia, 1 representante del Grupo Bicameral de Transparencia del Congreso Nacional de Chile, 1 representante de la Contraloría General de la República",
+          "pagina": 195
+        },
+        {
+          "cita": "un foro multiactor es una plataforma de diálogo y coordinación formada por actores de diversos sectores, cuya función es dar seguimiento... a la implementación de los compromisos de acción contenidos en el plan",
+          "pagina": 193
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento enumera sectores productivos concretos (transición energética renovable, electromovilidad, bioeconomía, economía circular, turismo sostenible, compras públicas sostenibles en construcción/salud/transporte, p.121, p.216-217) y vincula la inversión en infraestructura resiliente a la generación de empleo con una cifra concreta (entre 130 y 200 nuevos puestos de trabajo por cada millón de dólares gastado, p.27). Sin embargo, la vinculación explícita con la reducción de la desigualdad —el segundo elemento exigido por el criterio— es más tenue e implícita (se menciona la desigualdad territorial y de género de forma general en la introducción, p.20, pero no se conecta cuantitativamente con los sectores productivos sostenibles enumerados en los capítulos analíticos).",
+      "citas": [
+        {
+          "cita": "el gasto en infraestructura puede generar entre 130 y 200 nuevos puestos de trabajo por cada millón de dólares gastado",
+          "pagina": 27
+        },
+        {
+          "cita": "estos sectores contribuyen a la transición energética hacia energías renovables, la electromovilidad, la inclusión digital, la industria manufacturera, la bioeconomía, la economía del cuidado, la economía circular y el turismo sostenible",
+          "pagina": 121
+        }
+      ],
+      "nota": "El vínculo empleo-sectores es explícito y cuantificado; el vínculo con la desigualdad es genérico y no se desarrolla con cifras propias para los sectores productivos sostenibles identificados."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "No",
+      "evidencia": "Se aplicó el test de concreción ítem por ítem a la lista de desafíos pendientes del capítulo III (p.156-157), la más operativa del documento en cuanto a \"cómo hacerlo\". De los cinco ítems, solo uno nombra un objeto concreto (una metodología específica, el precio social del carbono); los otros cuatro usan verbos genéricos (alinear, mejorar, ampliar, fortalecer) sin especificar el instrumento, la instancia o el mecanismo concreto mediante el cual se ejecutaría la acción, lo que según la regla de empate hacia GENERICO de INTERPELACION_v0 determina un veredicto global de No.",
+      "citas": [
+        {
+          "cita": "fortalecer la evaluación ex post y el desarrollo de metodologías específicas (por ejemplo, el precio social del carbono)",
+          "pagina": 156
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Alinear los programas de inversión con la política nacional de desarrollo y los Objetivos de Desarrollo Sostenible",
+          "clasificacion": "GENERICO",
+          "pagina": 156
+        },
+        {
+          "item": "Mejorar la coordinación entre el nivel central y el nivel subnacional para promover un desarrollo sostenible e inclusivo en todos los territorios",
+          "clasificacion": "GENERICO",
+          "pagina": 156
+        },
+        {
+          "item": "Ampliar los espacios para la participación de los distintos actores sociales y el acceso a la información sobre inversión pública; compartir experiencias y buenas prácticas de la región",
+          "clasificacion": "GENERICO",
+          "pagina": 156
+        },
+        {
+          "item": "Fortalecer la evaluación ex post y el desarrollo de metodologías específicas (por ejemplo, el precio social del carbono)",
+          "clasificacion": "CONCRETO",
+          "pagina": 156
+        },
+        {
+          "item": "Fortalecer las capacidades de los equipos técnicos a cargo de la inversión pública en metodologías, transparencia y participación, indicadores, monitoreo y evaluación de proyectos",
+          "clasificacion": "GENERICO",
+          "pagina": 157
+        }
+      ],
+      "tally": "1 de 5 ítems pasan el test de concreción",
+      "nota": "El único ítem concreto nombra un objeto/instrumento específico (el precio social del carbono); el resto son verbos de acción (alinear, mejorar, ampliar, fortalecer) sin especificar el mecanismo concreto de implementación."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "La tensión que procesa el documento es entre la urgencia de transformar la gestión pública para habilitar la acción climática —planificación de largo plazo, presupuesto etiquetado, precio social del carbono, sistemas de monitoreo climático, gobierno abierto y digital, servicio civil profesionalizado, compras públicas sostenibles— y las capacidades institucionales reales, heterogéneas y en muchos casos todavía incipientes de los 33 Estados de la región para llevar esa transformación más allá de los instrumentos de más alto nivel (por ejemplo, solo Chile y el Perú aplican efectivamente el precio social del carbono, y solo 3 de 19 países dotan de presupuesto a sus compras públicas sostenibles, p.156-157, p.219-221).",
+      "filtro_categoria_primaria": "El objeto de análisis del documento, capítulo por capítulo, no es un resultado ambiental sustantivo sino la arquitectura administrativa del Estado —entes rectores de planificación e inversión, autoridades presupuestarias, sistemas de monitoreo y evaluación, agencias de servicio civil, direcciones de compras públicas— y su grado de madurez institucional (marcos legales, marcos operativos, marcos técnicos, cuadros comparativos país por país en 33 países). El ambiente y el clima son la variable que se pide incorporar a esa arquitectura en cada capítulo, pero el sujeto transformador que el documento diagnostica, mide y recomienda fortalecer es la capacidad del propio Estado, no el desempeño ambiental en sí mismo.",
+      "secundaria_obligatoria": "El ámbito sustantivo en el que se aplica esa capacidad estatal reformada es, de principio a fin, climático: contribuciones determinadas a nivel nacional, precio social del carbono, gasto público en cambio climático, evaluación del riesgo de desastres, sistemas de vigilancia-notificación-verificación y compras públicas alineadas con la acción climática constituyen el hilo conductor explícito de los cinco capítulos (p.40-64, p.98-114, p.138-155, p.180-186, p.216-222); de ahí que Sostenibilidad ambiental sea la secundaria obligatoria, con certeza Alta porque el cambio climático es el criterio de selección y organización de todo el contenido analítico del libro, no una mención incidental.",
+      "justificacion_anti_copia": "A diferencia de un documento que analizara una política climática sectorial concreta (por ejemplo, resiliencia energética) con recomendaciones de fortalecimiento institucional como complemento, aquí la maquinaria administrativa del Estado es el objeto mismo del libro —su título, su estructura capitular (planificación, presupuesto, inversión, monitoreo, modernización del Estado) y sus más de cien cuadros comparativos país por país versan sobre instituciones y procedimientos de gestión pública—, y el cambio climático opera como el criterio transversal aplicado a cada uno de esos procedimientos, no como el fenómeno sustantivo bajo estudio.",
+      "validacion_anclas": "Las tres anclas registradas en TIPOLOGIA_v0.md §3 asignan #6 Sostenibilidad ambiental como primaria en dos casos (doc09, con #11 secundaria y certeza Alta; doc13, ambiguo entre #6 y #9) y como canal causal secundario en el tercero (doc11, primaria #2 con #6 secundaria). Este documento invierte ese patrón dominante: coloca #11 Capacidades del Estado como primaria y #6 Sostenibilidad ambiental como secundaria obligatoria, porque su objeto analítico explícito —a diferencia de doc09, doc11 y doc13, que analizan sectores o fenómenos sustantivos con el clima como canal causal o ámbito de aplicación— es la propia institucionalidad de la gestión pública, con el clima como lente aplicada de forma sistemática a cada instrumento administrativo."
+    },
+    "tipo_documento_climatico": "Informe institucional periódico de diagnóstico de gestión pública (serie Panorama de la Gestión Pública en América Latina y el Caribe), con el cambio climático como lente transversal aplicada a la planificación, el presupuesto, la inversión pública, el monitoreo/evaluación y la modernización del Estado; no es una CDN, un plan climático sectorial ni un estudio de impacto ambiental",
+    "nivel_aplicacion": "Regional (33 países de América Latina y el Caribe), con comparación sistemática país por país mediante cuadros de instrumentos, marcos legales e institucionalidad, y ejemplos puntuales de aplicación subnacional (gobiernos locales de la Alianza para el Gobierno Abierto, estado de Guanajuato en México)",
+    "ambiguedad_pendiente_validacion": "Dado que el título del documento declara explícitamente su propósito como \"un Estado preparado para la acción climática\", es defendible leer #6 Sostenibilidad ambiental como primaria (el objetivo final declarado) y #11 Capacidades del Estado como el medio instrumental secundario —el mismo patrón ancla que doc09—. Se prioriza #11 como primaria porque el contenido analítico dominante de las más de 150 páginas de cuerpo del documento describe y mide arquitectura institucional (entes rectores, marcos legales, sistemas de información, índices de servicio civil, marcos de compras públicas) antes que sustancia climática propiamente dicha, y porque el objetivo declarado de \"Estado preparado\" es en sí mismo un objetivo de capacidad institucional. Esta asignación queda pendiente de validación cuando se calibre contra documentos adicionales de la muestra con estructura similar (informes institucionales periódicos con lente climática transversal)."
+  }
+}

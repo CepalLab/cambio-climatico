@@ -1,0 +1,908 @@
+{
+  "documento": {
+    "num_muestra": 1,
+    "titulo": "Efectos del cambio climático en la costa de América Latina y el Caribe: dinámicas, tendencias y variabilidad climática",
+    "autoria": "Instituto de Hidráulica Ambiental de la Universidad de Cantabria (dirección: Iñigo Losada Rodríguez; coordinación: Fernando J. Méndez Incera; equipo de investigación encabezado por Borja González Reguero), en colaboración con la División de Desarrollo Sostenible y Asentamientos Humanos de la CEPAL (Carlos de Miguel, José Javier Gómez, Karina Martínez y Mauricio Pereira)",
+    "handle": "https://hdl.handle.net/11362/3955",
+    "simbolo": "LC/W.447/Rev.1",
+    "isbn": null,
+    "fecha": "2015-09",
+    "tipo_documento": "Documento de proyecto o estudio técnico (informe técnico regional, primero de una serie de cuatro del proyecto C3A)",
+    "paginas_cuerpo": 177,
+    "paginas_totales": 263,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cuál es el estado actual de las dinámicas físicas de la costa de América Latina y el Caribe (nivel del mar, oleaje, marea astronómica y meteorológica, temperatura superficial del mar, salinidad, viento y huracanes), cómo han cambiado en las últimas seis décadas y cuál es su tendencia esperada hacia 2040, 2050 y 2070 —incluyendo la incertidumbre estadística asociada y la influencia de la variabilidad climática interanual (ENOS y otros patrones)— como insumo físico para los análisis posteriores de vulnerabilidad, impacto y riesgo del mismo estudio regional (p.31)?",
+    "alcance": {
+      "ambito_aplicacion": "Costa de América Latina y el Caribe en su conjunto, de aproximadamente 72.182 km, subdividida en cuatro zonas geográficas: Norteamérica (México), Centroamérica, Sudamérica e Islas del Caribe (p.28), con resultados calculados en 1.132 puntos costeros en profundidades indefinidas y comparaciones puntuales en localizaciones específicas de casi todos los países ribereños (p.60, cuadro 1.10)",
+      "referentes_dependencias": "España, a través de la Oficina Española de Cambio Climático (Ministerio de Medio Ambiente y Medio Rural y Marino) y el Ministerio de Asuntos Exteriores y de Cooperación, como financiador y origen de la metodología UC/OECC de evaluación de impactos costeros que se aplica en el estudio (p.27); Estados Unidos, como origen de las bases de datos de reanálisis atmosférico NCEP/NCAR, la base de datos de huracanes HURDAT y la red de boyas NDBC de la NOAA (p.40, p.223); el IPCC (informes TAR y AR4) como fuente de los escenarios de emisión y proyecciones de nivel del mar contrastados en el documento (p.43-45)",
+      "sectorial": "Dinámica oceanográfica y costera (nivel del mar, oleaje, mareas, temperatura, salinidad, viento, huracanes) como insumo físico para la ingeniería de costas y puertos, la planificación de infraestructura portuaria y turística, y la gestión integral del riesgo climático costero (p.26-27); no aborda directamente sectores productivos, energéticos ni sociales",
+      "temporal": "Reanálisis histórico horario de 61 años (1948-2008/2010) para oleaje, marea meteorológica y marea astronómica, y de 54 años (1955-2008) para huracanes, con extrapolación estadística de tendencias a los periodos 2010-2040 y 2040-2070 y proyecciones puntuales para los años horizonte 2040, 2050 y 2070 (p.82, figura 1.55)"
+    },
+    "hallazgos_principales": [
+      "La tendencia media global actual de ascenso del nivel medio del mar es de 3,3 mm/año, con una aceleración media en el siglo XX de 0,0083 mm/año (p.146); en ALyC la tendencia varía entre ~1 mm/año en Ecuador y ~3 mm/año en el norte de Brasil, Venezuela y parte del Caribe, alcanzando en 2070 valores medios de ascenso de hasta casi 200 mm en la costa norte de Sudamérica (p.98).",
+      "La altura de ola significante superada 12 horas al año (Hs12) aumenta en promedio ~2,5 cm/año en el sur de Brasil, Uruguay, norte de Argentina, Baja California y la costa Pacífica de México, lo que se traduce en incrementos de hasta 0,9 m en 2040 y hasta 1,8 m en 2070 en esas localizaciones (p.125).",
+      "El análisis de extremos de oleaje con periodo de retorno de 500 años arroja valores por encima de 11 m de altura significante en ambas costas del extremo sur del continente y en el sur del golfo de México, para las condiciones actuales de 2010 (p.80).",
+      "La marea meteorológica alcanza sus mayores valores (cuantil 0,99 por encima de 1 m, hasta 1,4 m) en el Río de la Plata, por la extensión de su plataforma y la forma de embudo del estuario, con una tendencia de aumento de hasta 5 mm/año en esa misma zona hacia 2070 (p.68, p.144).",
+      "La temperatura superficial del mar aumentaría entre 0,57 °C (2040) y 1,2 °C (2070) en la costa de Brasil entre 0° y 15°S, con incertidumbres asociadas por debajo de 0,1 °C y 0,3 °C respectivamente (p.112); la temperatura del aire en esa misma franja podría subir hasta 1,7 °C en 2040 y 3,8 °C en 2070 (p.117-118).",
+      "Los reanálisis numéricos GOW y GOS (1948-2008), forzados con viento y presión del reanálisis NCEP/NCAR de resolución 6 horas / ~2°, no capturan adecuadamente los eventos extremos de huracanes, por lo que el documento reconstruye 54 años de huracanes históricos (1955-2008) en el Atlántico Norte, Caribe, Golfo de México y Pacífico Nordeste con modelos paramétricos (Hydromet-Rankin Vortex, Bretschneider, SPM-modificado), validados contra 58 boyas NDBC de la NOAA (p.219-220, p.242).",
+      "La comparación entre el efecto de la variabilidad climática interanual y las tendencias de largo plazo muestra que la sobreelevación del nivel del mar producida por el fenómeno de El Niño de 1998 (~0,2 m en el Pacífico ecuatorial) es del mismo orden de magnitud que la subida esperada por tendencia hasta mediados de siglo, y solo hacia 2070 las tendencias de fondo alcanzan valores comparables en el resto de la región (p.99-100).",
+      "Existía, al momento del estudio, una carencia documentada de información oceanográfica de alta resolución en ALyC y, de forma más general, en todo el Hemisferio Sur, lo que motivó la generación ex novo de las bases de datos GOW, GOS y GOT mediante modelado numérico en lugar de depender solo de registros instrumentales dispersos (p.33, p.56)."
+    ],
+    "conclusiones_recomendaciones": [
+      "El documento concluye (cap.7, p.177) que constituye el primer entregable de un estudio regional de cuatro documentos (Documento 1: dinámicas/agentes costeros; Documento 2: vulnerabilidad y exposición; Documento 3: impactos; Documento 4: evaluación de riesgos), más dos documentos auxiliares (efectos teóricos y guía metodológica) y un visor web, y que su función es proveer el atlas físico-estadístico de base sobre el que se apoyan los análisis de vulnerabilidad, impacto y riesgo de los documentos siguientes (p.25-26, cuadro 1.1).",
+      "No formula recomendaciones de política dirigidas a terceros o gobiernos: es un documento de generación de conocimiento físico-estadístico (bases de datos GOW/GOS/GOT, técnica Trend-EOF, análisis de variabilidad climática y de huracanes), no una propuesta de intervención productiva, energética o social sobre la región.",
+      "Señala como conclusión metodológica transversal que la tendencia de largo plazo y la variabilidad climática interanual deben analizarse como dos escalas temporales distintas y complementarias, ya que para varias dinámicas (nivel del mar, oleaje, marea meteorológica) la variabilidad asociada a patrones como ENOS puede explicar una parte sustancial de la señal observada, no atribuible solo al cambio climático de largo plazo (p.175)."
+    ],
+    "resumen_narrativo": "Este documento reconstruye 61 años (1948-2008) de reanálisis horario de oleaje, marea astronómica y marea meteorológica para 1.132 puntos a lo largo de 72.182 km de costa de América Latina y el Caribe, generados con los modelos numéricos WaveWatch III, ROMS y TPXO y validados contra boyas de la NOAA y mareógrafos de la Universidad de Hawai. A partir de esa base calcula tendencias de largo plazo con la técnica Trend-EOF y proyecta los cambios esperables hacia 2040, 2050 y 2070, encontrando por ejemplo un ascenso del nivel del mar que se acelera hasta casi 200 mm en la costa norte de Sudamérica hacia 2070 y aumentos de la altura de ola de hasta 1,8 m en la Hs12 del norte de México y el sur de Brasil-Uruguay-Argentina. Incorpora además un módulo específico de 54 años de huracanes históricos (1955-2008) en el Atlántico y el Pacífico Nordeste, modelados con Hydromet-Rankin Vortex, Bretschneider y el SPM modificado para suplir la baja resolución del reanálisis NCEP/NCAR frente a eventos ciclónicos. Es el primero de una serie de cuatro documentos (dinámicas, vulnerabilidad, impactos, riesgos) encargada por la CEPAL al Instituto de Hidráulica Ambiental de Cantabria con financiamiento del Gobierno de España, y no formula recomendaciones de política sino que provee la base física para los análisis de vulnerabilidad e impacto de los documentos siguientes."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "1. Introducción",
+      "nivel": 1,
+      "paginas": "25-32",
+      "resumen": "Presenta la arquitectura institucional y metodológica del estudio regional (proyecto C3A) y define su zona y objetivos, antes de entrar en el detalle técnico de las secciones siguientes.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "1.1. Contexto",
+          "nivel": 2,
+          "paginas": "25-26",
+          "resumen": "Ubica este documento como el primero de cuatro entregables principales del estudio regional (Documento 1: agentes costeros -dinámicas, tendencias, variabilidad-; Documento 2: vulnerabilidad; Documento 3: impacto; Documento 4: riesgos), más dos documentos auxiliares (efectos teóricos del cambio climático en las costas y guía metodológica del análisis del riesgo) y un visor web de resultados, según el esquema del Cuadro 1.1. Su función es dejar explícita la posición de este volumen dentro de la cadena analítica completa del proyecto, de modo que el lector entienda que aquí solo se trata la caracterización física de las dinámicas costeras, no la vulnerabilidad ni el riesgo.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "el presente documento es el primero de todos ellos y se dedica al estudio de las dinámicas costeras, los cambios detectados y la influencia de la variabilidad climática en las mismas",
+              "pagina": 26
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "1.2. Exposición de motivos",
+          "nivel": 2,
+          "paginas": "26-28",
+          "resumen": "Justifica el estudio describiendo la elevada vulnerabilidad de las zonas costeras de ALyC frente al cambio climático: presión demográfica migratoria hacia la costa, crecimiento de infraestructura portuaria y turística en zonas no siempre compatibles con la conservación de ecosistemas, y riesgos de erosión e inundación agravados por el cambio climático. Ancla la necesidad del estudio en los Estudios Regionales sobre Economía del Cambio Climático (ERECC) coordinados por la CEPAL y en la metodología UC/OECC desarrollada por España para evaluar impactos costeros, que el Gobierno de España decide poner a disposición de los países de la región que la deseen aplicar.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Las zonas costeras son sumamente vulnerables a los potenciales impactos del cambio climático tal y como muestran diversos estudios e investigaciones en los últimos años",
+              "pagina": 26
+            },
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "la Oficina Española de Cambio Climático dependiente del Ministerio de Medio Ambiente y Medio Rural y Marino, ha desarrollado en colaboración con el Instituto de Hidráulica Ambiental de la Universidad de Cantabria, una metodología específica (en adelante, metodología UC/OECC) para la evaluación de impactos del cambio climático en zonas costeras",
+              "pagina": 27
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "1.3. Objetivos del estudio",
+          "nivel": 2,
+          "paginas": "28",
+          "resumen": "Fija el objetivo general -dotar al ERECC de ALyC de la información necesaria para el análisis económico de los impactos del cambio climático en la costa- y lo desagrega en nueve objetivos específicos: desarrollar metodologías de alta resolución del clima marítimo pasado y futuro, generar bases de datos de dinámica marina, aplicar técnicas de downscaling, elaborar indicadores de impacto (inundación, erosión, infraestructuras), generar un atlas de impactos, una guía de adaptación con costos, e integrar todo en el análisis económico del ERECC y en iniciativas de capacitación regional.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "El objetivo general de este estudio es dotar al ERECC de ALyC de la información específica necesaria para poder realizar un análisis económico de los impactos del cambio climático en la costa de ALyC",
+              "pagina": 28
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "1.4. Zona de estudio",
+          "nivel": 2,
+          "paginas": "28-31",
+          "resumen": "Delimita la zona de estudio en 72.182 km de costa distribuidos en cuatro subregiones y describe sus rasgos geomorfológicos: Norteamérica (costa mexicana, con provincia tectónicamente activa en el Pacífico y sistemas barra-laguna en el Golfo), Centroamérica (12% de la costa de ALyC, con fuerte contraste dinámico entre Pacífico -mareas vivas de hasta 6 m- y Caribe -unos 30 cm-), Sudamérica (playas de arena dominantes, arrecifes más desarrollados en el Atlántico, grandes deltas de los ríos Amazonas, Orinoco y de la Plata) e Islas del Caribe (régimen micromareal dominado por los vientos Alisios y expuesto a la trayectoria de huracanes). Provee el marco físico-geográfico que da sentido a las diferencias regionales analizadas en el resto del documento.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "La zona de estudio comprende la costa de América Latina y el Caribe, cubriendo una longitud total de costa de, aproximadamente, 72.182 km",
+              "pagina": 28
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "1.5. Objetivos y estructura del documento",
+          "nivel": 2,
+          "paginas": "31-32",
+          "resumen": "Explicita los tres objetivos concretos de este primer documento -recopilar/generar datos de dinámicas costeras, calcular tendencias de largo plazo y analizar la influencia de patrones de variabilidad climática como El Niño- y detalla la estructura en siete apartados más dos anexos (metodología de generación de bases de datos y huracanes), que se corresponde con los capítulos 2 a 7 desarrollados a continuación.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Este documento responde a una necesidad de satisfacer la carencia de conocimiento en tres objetivos concretos",
+              "pagina": 31
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "2. Fuentes de información y bases de datos",
+      "nivel": 1,
+      "paginas": "33-48",
+      "resumen": "Cataloga, con su cobertura temporal y espacial, todas las fuentes externas (satélite, boyas, mareógrafos, reanálisis atmosféricos, escenarios IPCC) usadas para construir posteriormente las bases de datos propias del estudio (GOW, GOS, GOT).",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "2.1. Introducción",
+          "nivel": 2,
+          "paginas": "33",
+          "resumen": "Explica por qué, a pesar de la abundante información disponible a escala global (Cuadro 1.2), existe una carencia específica de datos de marea meteorológica, astronómica y oleaje de calidad homogénea y suficiente longitud temporal en ALyC, lo que obligó al Instituto de Hidráulica de Cantabria a generar numéricamente sus propias bases de datos (GOW, GOS y GOT, detalladas en el Cuadro 1.3) en lugar de depender solo de registros instrumentales dispersos.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "se ha identificado una importante carencia de información en cuanto a los datos de marea meteorológica, astronómica y oleaje. Las causas son que los datos disponibles no cubren homogéneamente todo el área de estudio",
+              "pagina": 33
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "2.2. Bases de datos de información existente",
+          "nivel": 2,
+          "paginas": "34-48",
+          "resumen": "Describe, subapartado por subapartado, cada una de las diez fuentes de datos externas empleadas como forzamiento o validación: nivel del mar (CSIRO), marea astronómica (TPXO), salinidad (NCEP-GODAS), temperatura superficial del mar (ERSST-NOAA), presión y viento (NCEP/NCAR), registros instrumentales de oleaje (satélite AVISO y boyas), registros del nivel del mar (mareógrafos UHSLC), temperatura del aire (NCEP-NCAR), proyecciones de nivel del mar (IPCC TAR/AR4) y proyecciones de modelos climáticos AOGCM.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "2.2.1. Datos del Nivel Medio del Mar global (NMM)",
+              "nivel": 3,
+              "paginas": "35-38",
+              "resumen": "Describe la fuente de datos globales de nivel del mar del centro CSIRO, que combina mareógrafos históricos (desde 1870) con altimetría satelital (desde 1993) y aplica correcciones de barómetro inverso y ajuste glacial isostático (GIA). Ilustra con ejemplos internacionales (Estocolmo, Nezugaseki en Japón, Bangkok, Manila, Hawái) cómo distintos procesos de la tierra (rebote postglacial, sismos, extracción de agua subterránea, sedimentación) alteran el nivel relativo del mar registrado en cada mareógrafo, lo cual es relevante para separar la señal climática de la geológica.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Los datos de nivel del mar han sido obtenidos del centro CSIRO (Commonwealth Scientific and Industrial Research Organisation)",
+                  "pagina": 35
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2.2.2. Datos de Marea Astronómica (MA)",
+              "nivel": 3,
+              "paginas": "38-39",
+              "resumen": "Describe el modelo global de mareas TPXO (versión 7) de la Universidad de Oregón, que asimila datos de la misión satelital TOPEX/POSEIDON y de mareógrafos, y que aporta ocho constantes armónicas primarias y dos de largo periodo en una malla global de 0,25° de resolución, base con la que IH Cantabria generará posteriormente series horarias de marea astronómica hasta el año 2099 en ALyC.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Los datos de marea astronómica han sido generados por IH Cantabria a lo largo de la costa de ALyC utilizando las constantes armónicas procedentes del modelo global de mareas TPXO",
+                  "pagina": 38
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2.2.3. Datos de salinidad (Salinity, SAL)",
+              "nivel": 3,
+              "paginas": "39",
+              "resumen": "Describe el sistema GODAS de la NOAA (Global Ocean Data Assimilation System), basado en el modelo GFDL MOM.v3 forzado con el Reanálisis Atmosférico NCEP-2, del cual se toma el dato de salinidad a 5 m de profundidad con cobertura mensual desde 1980 hasta 2009 y resolución de aproximadamente 0,33° x 1°.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Los datos de salinidad utilizados provienen del reanálisis NCEP-Global Ocean Data Assimilation System (GODAS) de la NOAA",
+                  "pagina": 39
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2.2.4. Datos de temperatura superficial del mar (Sea Surface Temperature, SST)",
+              "nivel": 3,
+              "paginas": "39-40",
+              "resumen": "Describe la base de datos ERSST.v3b de la NOAA (Extended Reconstructed Sea Surface Temperature), basada en el International Comprehensive Ocean-Atmosphere Data Set, que reconstruye estadísticamente la temperatura superficial del mar desde 1854, con señal consistente a partir de 1880, en malla global de 2° y resolución mensual.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Los datos de temperatura de la superficie del mar se han obtenido de la NOAA (Extended Reconstructed Sea Surface Temperature, ERSST)",
+                  "pagina": 39
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2.2.5. Bases de datos de presión y viento",
+              "nivel": 3,
+              "paginas": "40-41",
+              "resumen": "Describe el Reanálisis NCEP/NCAR de presión y viento (resolución 6 horas, malla gaussiana T62 de ~1,9° x 1,875°, cobertura global desde 1948) usado como forzamiento principal para generar oleaje y marea meteorológica en el estudio, señalando su cobertura global y actualización periódica como criterios de selección frente a otras fuentes.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Los datos han sido obtenidos del Proyecto de Reanálisis de los National Centers for Environmental Prediction (USA) y National Center for Atmospheric Research (NCEP/NCAR)",
+                  "pagina": 40
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2.2.6. Bases de datos de registros instrumentales de oleaje",
+              "nivel": 3,
+              "paginas": "41-42",
+              "resumen": "Describe las dos fuentes usadas para validar y calibrar el oleaje modelado: datos de altimetría satelital de la red AVISO (1992-2009, procesados de las misiones Jason-1/2, TOPEX/POSEIDON, ERS-2, Envisat y GFO) y datos de boyas de Puertos del Estado de España y del National Data Buoy Center de la NOAA, complementarios porque el satélite cubre el espacio de forma homogénea pero no el tiempo.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "En la base de datos utilizada se cuenta con información de alturas de ola desde 1992 hasta 2009",
+                  "pagina": 41
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2.2.7. Bases de datos de registros instrumentales del nivel del mar",
+              "nivel": 3,
+              "paginas": "42-43",
+              "resumen": "Describe los 179 mareógrafos de la red UHSLC (Centro de Nivel del Mar de la Universidad de Hawái) disponibles en la zona de estudio, con control de calidad previo y resolución horaria, usados para validar los resultados numéricos de la componente meteorológica del nivel del mar y de la marea astronómica.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Se dispone de un total de 179 mareógrafos",
+                  "pagina": 43
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2.2.8. Temperatura del aire",
+              "nivel": 3,
+              "paginas": "43",
+              "resumen": "Justifica la elección del reanálisis NCEP-NCAR (resolución mensual, ~1,875° x 1,9°) frente a otras fuentes disponibles como el Hadley Centre o la NASA, por su mejor cobertura espacial y temporal para los fines del estudio.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Se ha preferido esta fuente de información en lugar de otras como las del Hadley Centre o la NASA",
+                  "pagina": 43
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2.2.9. Bases de datos de proyecciones del nivel medio del mar",
+              "nivel": 3,
+              "paginas": "43-46",
+              "resumen": "Presenta las proyecciones de ascenso del nivel del mar del tercer y cuarto informe del IPCC (TAR 2001 y AR4 2007) para seis escenarios socioeconómicos (A1B, A1T, A1FI, A2, B1, B2), con valores del Cuadro 1.4 que van de 9-12 cm en 2000 a 496-819 mm en 2100 según escenario, y contrasta esas proyecciones oficiales con estimaciones semiempíricas más altas (Rahmstorf, Vermeer, Horton, Grinsted) que sugieren hasta 1 m de ascenso hacia 2100 al comparar con la tasa observada de 3,3 mm/año.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "en la figura 1.11. se muestra una comparación entre la subida del nivel del mar obtenida con observaciones de mareógrafos y de satélite (3,3 mm/año) y la media de los modelos del IPCC",
+                  "pagina": 45
+                },
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "en dicho informe (ver figura 1.10.) se realiza una agregación de 7 modelos atmosférico-oceánicos (AOGCM, Atmosphere Ocean General Circulation Model) y se obtienen, desde 1990 y hasta el año 2100, el ascenso del nivel medio del mar global para 6 escenarios socioeconómicos",
+                  "pagina": 43
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2.2.10. Bases de datos de proyecciones de modelos climáticos",
+              "nivel": 3,
+              "paginas": "46-48",
+              "resumen": "Describe los modelos climáticos AOGCM del IPCC-AR4 disponibles en la plataforma PCMDI y justifica por qué el estudio decide no usar sus proyecciones del siglo XXI para el fenómeno ENOS: la literatura científica revisada (Cane 2005, Nicholls 2008, Van Oldenborgh 2005, Collins 2005) muestra que esos modelos presentan grandes incertidumbres para reproducir El Niño-Oscilación del Sur, por lo que el análisis de variabilidad climática del capítulo 6 se basará en correlaciones históricas con índices climáticos observados, no en proyecciones de modelos.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "al día de hoy, los modelos climáticos AOGCM presentan grandes incertidumbres en cuanto al modelado de los eventos ENOS y que no hay consenso en cuanto a si estos eventos son más o menos intensos y/o frecuentes",
+                  "pagina": 47
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "3. Dinámicas costeras en América Latina y el Caribe",
+      "nivel": 1,
+      "paginas": "49-80",
+      "resumen": "Describe, con las bases de datos propias generadas por el estudio (GOW, GOS, GOT), el estado actual (climatología 1948-2008) de cada dinámica meteo-oceanográfica y costera de ALyC, sus eventos extremos y los huracanes históricos, cerrando con una tabla de conclusiones por variable.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "3.1. Dinámicas Meteo-Oceanográficas",
+          "nivel": 2,
+          "paginas": "49-56",
+          "resumen": "Caracteriza la estacionalidad actual del nivel medio del mar, la salinidad, la temperatura superficial del mar, la temperatura del aire y el viento en toda la región. Encuentra mayor variación estacional del nivel del mar en la costa norte de Brasil y en la costa Pacífica de Centroamérica, mayor salinidad en el Atlántico que en el Pacífico, un patrón latitudinal claro de temperatura del mar y del aire, y los vientos más intensos (percentil 90) en el sur del continente (por los vientos del Oeste) y en las islas del Caribe (por los vientos alisios y tropicales), con clara diferencia estacional en el hemisferio Norte frente al Sur.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "A la escala de ALyC –figura 1.16.– se aprecia una variación estacional entre la parte del hemisferio Norte y la del Sur, con las mayores variaciones teniendo lugar en la costa norte de Brasil y la costa Pacífica de Centroamérica",
+              "pagina": 49
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Se aprecia en la figura 1.23. que los mayores vientos se dan en el Sur del continente, debidos a los vientos del Oeste y en las islas del Caribe, en este caso, debido a los vientos tropicales",
+              "pagina": 54
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "3.2. Dinámicas Costeras",
+          "nivel": 2,
+          "paginas": "56-70",
+          "resumen": "Caracteriza el oleaje, la marea astronómica y la marea meteorológica actuales de ALyC a partir de las bases de datos GOW, GOT y GOS generadas por el propio estudio, señalando explícitamente la escasez de información previa sobre estas tres dinámicas en la región y en el Hemisferio Sur en general.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "3.2.1. Oleaje",
+              "nivel": 3,
+              "paginas": "56-65",
+              "resumen": "Describe la climatología del oleaje (altura significante media, máxima, Hs12 y dirección del flujo medio de energía) obtenida con el reanálisis GOW: las mayores alturas medias en el hemisferio Norte se dan en la península de California, México (~2 m), y en el hemisferio Sur en el sur de Chile, donde los estados de mar máximos superan los 8,5 m; documenta también fuerte estacionalidad (mayor energía en invierno boreal en el hemisferio Norte y en invierno austral en el Sur) y presenta la metodología de redes auto-organizativas (SOM) usada para describir el clima marítimo punto a punto, incluyendo el análisis detallado del oleaje frente a los 100 puertos más importantes de ALyC según el ranking de puertos de la CEPAL.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Las mayores alturas medias de ALyC del hemisferio Norte tienen lugar en la península de California, México, con alturas significante medias entorno a los 2 m",
+                  "pagina": 57
+                },
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "La costa Pacífica destaca por los valores máximos en el sur del continente con alturas máximas medias de hasta 8,5 m al sur de Chile",
+                  "pagina": 58
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3.2.2. Marea Astronómica",
+              "nivel": 3,
+              "paginas": "65-68",
+              "resumen": "Describe, con la base de datos GOT, la gran variabilidad espacial de la marea astronómica en ALyC: regímenes macromareales con carreras de marea superiores a 10 m en el sur de Argentina (con efecto amplificador local en Río Negro) frente a regímenes micromareales de menos de 0,5 m en las islas del Caribe, destacando el fuerte contraste entre las dos costas de Panamá (menos de 0,5 m en el Caribe frente a ~3 m en el Pacífico).",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Las características de las mareas en ALyC varían en magnitud desde regímenes macromareales, con máximos de carreras de marea de más de 10 m en el Sur de Argentina, hasta regímenes micromareales como en las islas del Caribe, con carreras de marea inferiores a 0,5 m",
+                  "pagina": 65
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3.2.3. Marea Meteorológica",
+              "nivel": 3,
+              "paginas": "68-70",
+              "resumen": "Describe, con la base de datos GOS, las dos zonas de mayor sobreelevación por marea meteorológica de la región: la costa de Argentina, Uruguay y sur de Brasil, con valores del cuantil 0,99 por encima de 1 m y un máximo de 1,4 m en el Río de la Plata por la forma de embudo del estuario, y el golfo de California, con sobreelevaciones de ~0,5 m por su configuración cerrada; en el resto de la región los valores del cuantil 0,99 se mantienen por debajo de 0,2 m, con escasa variación estacional en todos los casos.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Resalta especialmente la zona del río de la Plata, donde se obtienen los valores máximos de esta variable (hasta 1,4 m en el cuantil 0,99) debido al efecto de la configuración de la costa en forma de entrante",
+                  "pagina": 68
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "3.3. Eventos Extremos",
+          "nivel": 2,
+          "paginas": "70-74",
+          "resumen": "Analiza los eventos extremos de oleaje y marea meteorológica con un modelo de máximos mensuales ajustado a una distribución Generalizada de Extremos (GEV) para periodos de retorno de 50 a 500 años, encontrando en oleaje valores por encima de 13 m de Hs (retorno 50 años) en el sur del continente por los temporales del Pacífico Sur y en marea meteorológica un rango gradual de 1 a 3 m en la costa Atlántica Sur (máximo en el Río de la Plata) frente a menos de 0,5 m en el resto de la costa.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "en la gráfica de periodo de retorno de 50 años, los mayores valores, por encima de los 13 m de Hs se obtienen en el sur del continente debido a los temporales del Pacífico Sur",
+              "pagina": 71
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "los valores con periodo de retorno de 50 años varían de forma gradual, en el rango entre 1 m y los 3 m, con valores máximos en la zona del Río de la Plata",
+              "pagina": 73
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "3.4. Análisis de los huracanes",
+          "nivel": 2,
+          "paginas": "74-79",
+          "resumen": "Explica por qué el reanálisis GOW/GOS basado en NCEP/NCAR no captura adecuadamente los huracanes (insuficiente resolución de los forzamientos de viento y presión) y describe la solución adoptada: generar campos analíticos de presión y viento a partir de la base histórica de trayectorias HURDAT de la NOAA para 54 años (1955-2008) de huracanes en el Atlántico Norte, Caribe, Golfo de México y Pacífico Nordeste, validados satisfactoriamente contra boyas del National Data Buoy Center, con detalle completo remitido al Anexo 2.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Los reanálisis numéricos (GOW y GOS, 1948-2008) generados con modelos numéricos (WW3 y ROMS)... no recogen los eventos extremos asociados a tormentas tropicales y huracanes debido a una insuficiente resolución de los forzamientos",
+              "pagina": 74
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "los campos de presión y viento generados con modelos paramétricos se ajustan satisfactoriamente a los datos instrumentales",
+              "pagina": 76
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "3.5. Conclusiones de las dinámicas costeras en América Latina y el Caribe",
+          "nivel": 2,
+          "paginas": "80",
+          "resumen": "Sintetiza en una tabla, variable por variable, el estado actual de la región: el oleaje del sur de Chile (>9 m) como el más energético del continente, sobreelevaciones por marea meteorológica superiores a 1 m concentradas en el Río de la Plata, marea astronómica con carreras superiores a 5 m en el sur de Argentina, temperatura superficial variando entre más de 25 °C en el Ecuador y menos de 10 °C en Tierra del Fuego, y vientos más intensos en las islas del Caribe, la costa Atlántica y el extremo sur del continente.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "El sur de Chile, con estados de mar de más de Hs=9 m es la zona más energética. Otras zonas con valores Hs > 5 m son la Baja California, el sur del Golfo de México, la parte Atlántica de las islas del Caribe y algunas zonas del sur de Brasil y de Argentina",
+              "pagina": 80
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "4. Métodos para evaluar las tendencias de largo plazo",
+      "nivel": 1,
+      "paginas": "81-90",
+      "resumen": "Presenta y compara las tres familias de métodos disponibles para estimar cómo cambiarán las dinámicas costeras hasta fin de siglo, justificando por qué el estudio elige la extrapolación estadística de tendencias históricas (con la técnica Trend-EOF) en vez de depender de las proyecciones de los modelos climáticos globales.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "4.1. Métodos de evaluación de la variación a largo plazo de una variable",
+          "nivel": 2,
+          "paginas": "81-83",
+          "resumen": "Compara tres enfoques para proyectar una dinámica al futuro: (A) extrapolación de tendencias históricas, que asume implícitamente que no habrá aceleración de las emisiones de GEI, algo que el propio estudio reconoce como una simplificación incorrecta pero necesaria dado que oleaje y nivel del mar cuentan con series numéricas largas y fiables (>60 años); (B) modelos de regresión con índices climáticos como predictores; y (C) modelos climáticos AOGCM del IPCC, cuyos forzamientos, condiciones iniciales y deficiencias numéricas introducen gran incertidumbre. El estudio opta principalmente por (A) y (B), descartando (C) por las limitaciones ya señaladas para reproducir ENOS.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "esta técnica asume que la inercia del sistema climático es constante y que, por tanto, no se incrementa la velocidad de emisión de los gases de efecto invernadero (GEI), lo cual no es correcto",
+              "pagina": 81
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "4.2. Técnicas para analizar las tendencias de largo plazo",
+          "nivel": 2,
+          "paginas": "83-88",
+          "resumen": "Explica las dos técnicas de cálculo de tendencias usadas en el capítulo 5: la regresión local punto a punto (limitada porque no separa la variabilidad interanual, como ENSO, de la tendencia) y la variante Trend-EOF desarrollada por Hannachi (2007), que introduce el concepto de monotonicidad para aislar la tendencia de largo plazo de los patrones de variabilidad climática de escala interanual, y que el estudio valida reproduciendo con éxito la tendencia global de temperatura superficial del mar obtenida por Barbosa y Andersen (2009). Explica también el criterio para decidir entre un ajuste lineal o cuadrático según cuál resulte estadísticamente más significativo.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Hannachi (2007) desarrolló una variante de la técnica EOF tradicional enfocada a la detección de la tendencia de largo plazo en datos con distribución espacio-temporal, gracias a incluir el concepto de la monotonicidad",
+              "pagina": 84
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "4.3. Técnicas aproximadas para determinar la variación de una variable en función de la variación de otra",
+          "nivel": 2,
+          "paginas": "88-90",
+          "resumen": "Presenta el método de las perturbaciones -una linealización de primer orden que aproxima el cambio en una variable dependiente (por ejemplo, erosión de playa) a partir del cambio en la variable independiente de la que depende (por ejemplo, intensidad de oleaje)- como alternativa simplificada al análisis de tendencias de largo plazo cuando este no es aplicable o no se justifica, advirtiendo que su validez depende de que la perturbación de la variable independiente sea pequeña.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Esta aproximación se denomina método de las perturbaciones, entendiéndose que se perturba la ecuación de relación y=f(xi), de forma que se obtienen las variaciones de y",
+              "pagina": 89
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "5. Tendencias de las dinámicas en América Latina y el Caribe",
+      "nivel": 1,
+      "paginas": "91-147",
+      "resumen": "Aplica las técnicas del capítulo 4 a cada dinámica meteo-oceanográfica, costera y de eventos extremos, produciendo mapas de tendencia histórica, valores medios e incertidumbre para los años horizonte 2040, 2050 y 2070, y cierra con una tabla-resumen de todas las tendencias encontradas.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "5.1. Situación actual y conocimiento actual sobre el cambio en la región de América Latina y el Caribe",
+          "nivel": 2,
+          "paginas": "91-92",
+          "resumen": "Enmarca el capítulo en la evidencia ya establecida por el IPCC (2007) sobre el carácter inequívoco del cambio climático global y remite a dos documentos de referencia previos -Cambio climático y desarrollo en América Latina y el Caribe: una reseña (CEPAL, 2009) y los resúmenes de los tres grupos de trabajo del IPCC (2007)- como base sobre la que este estudio pretende aportar información regional adicional mediante el cálculo propio de tendencias de largo plazo.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Los documentos de referencia a consultar sobre la situación y el conocimiento actual sobre el cambio climático en la región son los dos siguientes: a) Cambio climático y desarrollo en América Latina y el Caribe: una reseña (CEPAL, 2009). b) IPCC 2007",
+              "pagina": 91
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "5.2. Tendencias en las dinámicas meteo-oceanográficas",
+          "nivel": 2,
+          "paginas": "93-124",
+          "resumen": "Calcula, para cada una de seis variables meteo-oceanográficas, la tendencia histórica (con ajuste local y Trend-EOF), su proyección a los años horizonte y la incertidumbre estadística asociada, encontrando en todos los casos patrones espacialmente heterogéneos dentro de ALyC.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "5.2.1. Tendencias del Nivel Medio del Mar (Sea Level Rise)",
+              "nivel": 3,
+              "paginas": "93-100",
+              "resumen": "Confirma con la técnica Trend-EOF (más adecuada que el ajuste local por la fuerte influencia de ENOS en esta variable) una tendencia global de ascenso acelerado del nivel del mar, con los mayores valores de ALyC en la franja costera Atlántica (~2,8 mm/año actual, hasta 3,6 mm/año en 2040-2070 en el norte de Sudamérica y el Caribe) y los menores en la zona ecuatorial del Pacífico (~1,5 mm/año); proyecta ascensos medios de hasta ~90 mm en 2040 y ~200 mm en 2070 en la costa norte de Sudamérica, y compara ese ascenso de tendencia con la sobreelevación puntual que produjo El Niño de 1998 (~0,2 m en el Pacífico ecuatorial), mostrando que ambas magnitudes solo se vuelven comparables hacia 2070.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "Los mayores valores de las tendencias se obtienen en la franja costera Atlántica, con valores de aproximadamente 2,8 mm al año en la costa del Norte de Sudamérica y la costa del Caribe, con menores valores en las islas caribeñas. En estas zonas, en el segundo periodo del siglo la tendencia asciende hasta los 3,6 mm por año de media",
+                  "pagina": 98
+                },
+                {
+                  "dimension": "tendencias",
+                  "cita": "el valor esperado dado por las tendencias no llega ni con mucho a este valor en la zona. Tan sólo en el 2070 serían esperables valores comparables en el resto de la región",
+                  "pagina": 100
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5.2.2. Tendencias en el Nivel Medio del Mar Relativo (Relative Sea Level Rise)",
+              "nivel": 3,
+              "paginas": "101-103",
+              "resumen": "Combina la tendencia de ascenso del nivel del mar (5.2.1) con datos de subsidencia/elevación de la tierra por ajuste glacial isostático de Peltier (2000), obtenidos con interpolación IDW y un supuesto adicional de 2 mm/año de subsidencia en zonas deltaicas, para producir mapas de ascenso relativo del nivel del mar (RSLR) a 2040 y 2070 a lo largo de la costa de ALyC, relevantes porque en zonas de subsidencia activa el ascenso percibido localmente puede superar al ascenso oceánico puro calculado en 5.2.1.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "A partir de la información obtenida de subsidencia junto con los datos de SLR, se han obtenido los mapas de RSLR a lo largo de la zona de estudio mostrados a continuación",
+                  "pagina": 101
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5.2.3. Tendencias en la Salinidad",
+              "nivel": 3,
+              "paginas": "103-108",
+              "resumen": "Encuentra, con menor confianza que en el resto de variables por la mayor incertidumbre de la base de datos GODAS, una tendencia decreciente de la salinidad en las latitudes cercanas a los 15°N (islas del Caribe Norte y sur de Centroamérica, hasta -0,7/-1,7 psu en 2040/2070) y creciente en la costa Atlántica por debajo del Ecuador y en la península de California/golfo de México (hasta +0,8/+2 psu en 2040/2070), con la costa Pacífica de Perú y Chile prácticamente sin cambios.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "mientras la tendencia de la salinidad en las latitudes entorno a los 15ºN es decreciente, en la costa Atlántica por debajo del Ecuador es creciente, así como en la península de California y el golfo de México. En estas últimas dos zonas es donde se obtienen mayores valores de las tendencias, con valores medios en 2040 y 2070 de hasta 0,8 y 2 psu respectivamente",
+                  "pagina": 106
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5.2.4. Tendencias de Temperatura Superficial del Mar",
+              "nivel": 3,
+              "paginas": "108-114",
+              "resumen": "Proyecta un aumento generalizado de la temperatura superficial del mar en la costa Atlántica de ALyC, con el mayor incremento en la costa de Brasil entre 0° y 15°S (+0,57 °C en 2040, +1,2 °C en 2070, con incertidumbre de 95% inferior a 0,1 °C y 0,3 °C respectivamente) y descensos localizados en el norte del mar Caribe; calcula además, con la escala de probabilidad del IPCC, que en parte de la costa de Brasil un aumento de 1 °C será \"probable\" hacia 2070, relevante para el análisis posterior de blanqueo de corales.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "Los mayores aumentos esperables se obtienen en las costa de Brasil entre los 0 y 15ºS (+0,57º y +1,2ºC en 2040 y 2070, con incertidumbres por debajo de 0,1º y 0,3ºC respectivamente)",
+                  "pagina": 112
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5.2.5. Tendencias de la Temperatura del Aire",
+              "nivel": 3,
+              "paginas": "114-120",
+              "resumen": "Proyecta, con el reanálisis NCEP-NCAR como fuente (menos fiable que las bases instrumentales usadas para SST y nivel del mar), un ascenso generalizado de la temperatura del aire en superficie salvo en zonas de la costa Pacífica de Sudamérica (Perú, Ecuador, norte de Chile) donde la tendencia es nula o levemente negativa; identifica la zona Atlántica entre 15°N y 15°S, y en particular la costa de Brasil, como la de mayor tendencia, con incrementos medios esperables de hasta 1,7 °C en 2040 y 3,8 °C en 2070.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "es esperable que se alcance incrementos medios de temperatura de hasta 1,7 y 3,8 ºC en la costa de Brasil en 2040 y 2070, respectivamente, con una incertidumbre al nivel de confianza del 95% de 0,03 y 0,07 ºC",
+                  "pagina": 118
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5.2.6. Tendencias del viento",
+              "nivel": 3,
+              "paginas": "121-124",
+              "resumen": "Analiza por separado la tendencia de la magnitud (cuantil 0,9 de la velocidad a 10 m) y la dirección (giro del flujo medio de energía eólica) del viento: la magnitud aumenta en el extremo sur del continente (costas de Uruguay y Porto Alegre en Brasil) y en Guatemala/El Salvador, pero disminuye claramente en el norte de Chile, Ecuador y norte de Perú, concentrándose los mayores cambios en los cinturones subtropical (Alisios) y de latitudes medias (vientos del Oeste); la dirección presenta giros de hasta 0,37°E/año en distintos sectores, con patrones opuestos entre el hemisferio Norte y Sur para los vientos del Oeste.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "Los mayores aumentos se obtienen en el extremo sur del continente, en las costas de Uruguay y zona de Porto Alegre en Brasil, Guatemala y el Salvador. Sin embargo, de forma generalizada, en el norte de Chile, Ecuador y norte de Perú las tendencias resultan claramente negativas",
+                  "pagina": 121
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "5.3. Tendencias en las dinámicas costeras",
+          "nivel": 2,
+          "paginas": "125-133",
+          "resumen": "Calcula, con ajuste local lineal, las tendencias de tres indicadores de oleaje -altura superada 12 horas al año (Hs12), altura media mensual y dirección del flujo medio de energía- que en conjunto describen cómo están cambiando tanto las condiciones extremas como las medias del clima marítimo de la región, y en qué direcciones está girando la procedencia dominante del oleaje.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "5.3.1. Tendencias en la altura de ola significante superada 12 horas al año",
+              "nivel": 3,
+              "paginas": "125-128",
+              "resumen": "Encuentra un aumento generalizado de la Hs12 (indicador ligado al perfil de equilibrio de playas) de hasta ~3 cm/año en el norte de México, norte de Argentina, Uruguay y sur de Brasil, lo que se traduce en incrementos de hasta 0,9 m en 2040 y 1,8 m en 2070 en esas localizaciones, mientras que el sur del golfo de México y la costa norte de Sudamérica muestran tendencias suaves o incluso negativas; señala además que, en términos porcentuales respecto a las condiciones actuales, el mayor impacto relativo se da en zonas con oleaje hoy más suave (Río de la Plata, centro de México), no en las de mayor oleaje absoluto.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "se han obtenido tendencias generalmente de aumento –figura 1.113.–, con valores máximos en el Norte de México, Norte de Argentina, Uruguay y Sur de Brasil, todos con valores en el entorno de 3 cm al año de media. Estas tendencias suponen que en el año 2040 aumente la Hs12 en hasta 0,9 m y en hasta 1,8 m en el 2070 en estas localizaciones",
+                  "pagina": 125
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5.3.2. Tendencias en la altura significante media mensual",
+              "nivel": 3,
+              "paginas": "129-131",
+              "resumen": "Encuentra que las condiciones medias de oleaje (a diferencia de la Hs12) tienen su mayor tendencia de aumento en la costa Pacífica de México, Uruguay y sur de Brasil, y en el sur de Chile y Perú, con valores esperables de hasta 0,3 m adicionales en 2040 y 0,6 m en 2070, mientras que la costa Sur del Caribe y el golfo de México muestran disminución; contrasta esta geografía del cambio con la de la Hs12, mostrando que ambos indicadores no siempre coinciden en dónde se concentra el mayor cambio relativo.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "Los mayores aumentos del oleaje se vuelven a obtener en la costa del Pacífico de México, Uruguay y Sur de Brasil, y en este caso también para el Sur de Chile y en menor medida Sur de Perú. Se han obtenido valores esperables de aumento de 0,3 m en 2040 y 0,6 m en 2070",
+                  "pagina": 129
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5.3.3. Tendencias en la dirección del flujo medio de energía",
+              "nivel": 3,
+              "paginas": "132-133",
+              "resumen": "Encuentra un giro del oleaje hacia el Norte en Argentina (por oleaje del Pacífico Sur que traspasa el Cabo de Hornos) y hacia el Sur en el resto de la costa Atlántica, con los mayores giros esperables en el sur de Argentina y el norte de México, lo cual es relevante para la planta de equilibrio de playas y el transporte de sedimentos, tema que se remite al análisis de impactos del Documento 3 del proyecto.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "Los mayores giros esperables se dan en el Sur de Argentina y Norte de México",
+                  "pagina": 132
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "5.4. Tendencias en los eventos extremos",
+          "nivel": 2,
+          "paginas": "134-145",
+          "resumen": "Aplica un ajuste GEV no estacionario (que incorpora un parámetro de tendencia de largo plazo) a los máximos mensuales de oleaje y de marea meteorológica, para proyectar cómo cambiarán los periodos de retorno de 50 a 500 años hacia 2040 y 2070, complementando el análisis de tendencias en régimen medio del apartado 5.3.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "5.4.1. Tendencias en los eventos extremos de oleaje",
+              "nivel": 3,
+              "paginas": "134-142",
+              "resumen": "Encuentra una tendencia anual generalizada de aumento de los extremos de oleaje, mayor en el sur de Brasil, Uruguay, la zona del Cabo de Hornos y la costa Pacífica de México (1-1,7 cm/año); introduce un Índice de Seguridad (relación entre el nuevo y el antiguo periodo de retorno de 500 años) que muestra que el mayor cambio relativo no ocurre donde la tendencia absoluta es mayor, sino en zonas de oleaje hoy más moderado (ejemplo: costa norte de Brasil); y compara cinco puntos con climas de oleaje muy distintos, mostrando que en Sao Paulo el periodo de retorno de 50 años caería de 50 a 7 años hacia 2070 mientras que en Barbados apenas cambiaría de 50 a 39 años, evidenciando que la forma de la distribución de extremos condiciona tanto como la magnitud de la tendencia.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "mientras en el punto 332 (Sao Paulo), el periodo de retorno de 50 años es esperable que disminuya hasta los 7 años en el 2070, en el punto 900 (Barbados) se mantendrá en 39 años",
+                  "pagina": 141
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5.4.2. Tendencias en los eventos extremos de marea meteorológica",
+              "nivel": 3,
+              "paginas": "143-145",
+              "resumen": "Encuentra una tendencia de aumento de los extremos de marea meteorológica de hasta 5 mm/año en el Río de la Plata -precisamente donde ya se registran los mayores valores actuales- y una tendencia negativa de ~4 mm/año en el golfo de California, con tendencias sostenidas de forma similar en todas las estaciones del año, coherente con la escasa estacionalidad que ya mostraba esta variable en el capítulo 3.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "la zona con mayor tendencia es Río de la Plata, donde se obtienen aumentos de hasta 5 mm/año. Es también significativa la tendencia en el golfo de California donde está disminuyendo a una tasa de aproximadamente 4 mm/año",
+                  "pagina": 144
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "5.5. Resumen de las tendencias",
+          "nivel": 2,
+          "paginas": "146-147",
+          "resumen": "Sintetiza en una tabla, por variable, las tendencias del capítulo: ascenso generalizado e inequívoco del nivel del mar con aceleración documentada (3,3 mm/año global, hasta 2 mm/año de tendencia media en ALyC según el análisis espacial); salinidad y temperatura del mar con tendencias mixtas; viento y oleaje con patrones tanto positivos como negativos según la subregión; y marea meteorológica con tendencia positiva concentrada en el Río de la Plata y negativa en el golfo de California.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "La tendencia media global actual de ascenso de nivel medio del mar es de 3,3 mm/año con una aceleración media en el siglo XX de 0,0083 mm/año, coincidiendo con estudios previos",
+              "pagina": 146
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "6. Análisis de la variabilidad climática interanual de las dinámicas en América Latina y el Caribe",
+      "nivel": 1,
+      "paginas": "149-175",
+      "resumen": "Cuantifica, mediante un modelo de regresión lineal simple con series estandarizadas, en qué medida y con qué desfase temporal distintos índices climáticos (ENOS, AO, SAM, AMO, NTA, TSA, CAR, entre otros) explican la variabilidad interanual observada en el oleaje, el nivel del mar y la marea meteorológica de ALyC, como complemento necesario a las tendencias de largo plazo del capítulo 5.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "6.1. Introducción",
+          "nivel": 2,
+          "paginas": "149-150",
+          "resumen": "Justifica el capítulo en la evidencia del IPCC (2007) sobre patrones de variabilidad preferenciales (modos anulares NAM/SAM, Oscilación Decadal del Pacífico, teleconexiones PPN) que explican buena parte de los cambios climáticos regionales observados, pero advierte que existe alta incertidumbre científica sobre cómo el cambio climático de largo plazo modificará la frecuencia e intensidad futura del fenómeno ENOS, lo cual justifica tratarlo empíricamente en vez de con proyecciones de modelos.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "muchos cambios climáticos regionales se pueden describir en términos de pautas de variabilidad climática preferenciales y por ende, como cambios en la aparición de índices que caracterizan la fuerza y fase de estas pautas",
+              "pagina": 149
+            },
+            {
+              "dimension": "desafios",
+              "cita": "existe una alta incertidumbre en cómo el cambio climático va a afectar al fenómeno ENSO",
+              "pagina": 150
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "6.2. Técnicas estadísticas para analizar la variabilidad climática de los agentes",
+          "nivel": 2,
+          "paginas": "150-152",
+          "resumen": "Presenta el modelo lineal usado en todo el capítulo: la anomalía estandarizada de cada dinámica (sin tendencia ni estacionalidad) se regresiona contra cada índice climático estandarizado, obteniéndose un coeficiente de correlación (β) y un coeficiente de determinación (R²) que mide qué porcentaje de la varianza de la dinámica queda explicado por ese índice, insumo que luego permitiría un downscaling estadístico si se dispusiera de predicciones del índice.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "El modelo utilizado para analizar la influencia de diversos índices climáticos en las dinámicas costeras de ALyC ha sido un modelo basado en una regresión lineal que relaciona cada índice climático con la variable estudiada",
+              "pagina": 150
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "6.3. Descripción de los índices climáticos analizados",
+          "nivel": 2,
+          "paginas": "152-161",
+          "resumen": "Describe el origen físico y el mecanismo de más de una decena de índices climáticos usados en el análisis -Oscilación del Ártico (AO) y Oscilación Antártica (SAM), El Niño-Oscilación del Sur (ENOS/ENSO, con sus componentes NIÑO3 y SOI), la Oscilación Multidecadal del Atlántico (AMO) y los índices regionales NTA, TSA y CAR-, explicando en detalle el mecanismo océano-atmósfera de El Niño y La Niña (desplazamiento de la lengua fría del Pacífico, inclinación de la termoclina) y la asociación documentada del AMO con sequías en Norteamérica y con la actividad de huracanes en el Atlántico.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "El fenómeno conocido por Oscilación del Sur El Niño (El Niño Southern Oscillation, ENSO) es, aparentemente, el más fuerte y predecible de los principales sistemas que influyen en la variabilidad climática",
+              "pagina": 153
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "En condiciones normales, los vientos alisios desplazan la capa superficial de agua caliente del océano Pacífico hacia el oeste, por lo que el nivel del mar es aproximadamente medio metro más alto en las costas de Indonesia que frente a Perú y Ecuador",
+              "pagina": 154
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "6.4. Resultados",
+          "nivel": 2,
+          "paginas": "161-175",
+          "resumen": "Presenta los resultados numéricos de correlación (contemporánea y con desfase temporal) entre cada índice climático y cada dinámica analizada, distinguiendo entre la influencia coetánea de cada patrón y el retraso con el que esa influencia se manifiesta físicamente en la costa.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "6.4.1. Resultados de Correlación con índices climáticos contemporáneos",
+              "nivel": 3,
+              "paginas": "161-169",
+              "resumen": "Encuentra que el NIÑO3 explica una correlación positiva alta (>0,5) con el nivel del mar hasta el Ecuador en el Atlántico y hasta los 15°S en el Pacífico -es decir, el índice sobreeleva el nivel del mar de forma generalizada cuando está en fase positiva-, mientras que el SOI produce el efecto contrario; documenta también correlaciones relevantes del oleaje con SOI y NTA (opuestas entre costa Pacífica y Atlántica), de la dirección del flujo medio de energía con NIÑO3 y SAM, y de la marea meteorológica con AMO, NTA y NIÑO3, cada una con un patrón espacial distinto que no se superpone entre variables.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "El NIÑO3 muestra una gran influencia en el nivel medio del mar en toda la costa pacífica en general y en las costas del Sur de Brasil... En conclusión, el NIÑO3 origina una sobreelevación del nivel del mar de forma generalizada en todo el dominio y sobremanera hasta la latitud de 15ºS",
+                  "pagina": 167
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "6.4.2. Análisis de desfase temporal (Correlación cruzada)",
+              "nivel": 3,
+              "paginas": "170-175",
+              "resumen": "Determina, mediante correlación cruzada, el desfase óptimo entre cada índice climático y su máximo efecto en la costa: para el nivel del mar, NIÑO3 y SOI actúan casi de inmediato (un mes), mientras que TSA y CAR muestran desfases de varios meses; para el oleaje y la dirección del flujo de energía los desfases son en general de 1 a 3 meses, salvo SAM y AMO que resultan casi contemporáneos; para la marea meteorológica el desfase varía mucho según el índice y la zona geográfica.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "los índices con más alta correlación con el nivel del mar, NIÑO3 y SOI, manifiestan su efecto durante el mes siguiente del valor del índice. En segundo lugar, tanto el índice TSA como el CAR muestran un gran desfase temporal",
+                  "pagina": 173
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "6.5. Resumen de la variabilidad climática interanual de las dinámicas",
+          "nivel": 2,
+          "paginas": "175",
+          "resumen": "Concluye que la variabilidad climática interanual es un factor necesario de estudiar porque, para varias dinámicas, explica una parte sustancial de la señal observada junto con la tendencia de largo plazo, y que ambas escalas temporales -tendencia y variabilidad- deben analizarse por separado, sin mezclarlas, para poder interpretar correctamente tanto el pasado reciente como la evolución futura.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "La conclusión general que se puede extraer del análisis de variabilidad climática es que es un factor que es necesario estudiar, puesto que para algunas variables puede explicar gran parte de la variabilidad inter-anual que se ha producido junto a las tendencias de largo plazo",
+              "pagina": 175
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "7. Conclusiones generales",
+      "nivel": 1,
+      "paginas": "177",
+      "resumen": "Cierra el documento situándolo como el primero de los cuatro documentos del Estudio regional de los efectos del Cambio Climático en la Costa de América Latina y el Caribe (proyecto C3A, IH Cantabria-CEPAL), resumiendo que aporta un atlas de las condiciones físicas actuales, un cálculo de tendencias de largo plazo con incertidumbre acotada a 2040/2050/2070, y un primer análisis de la influencia de patrones de variabilidad climática, todo ello como insumo para los documentos siguientes sobre vulnerabilidad, impacto y riesgo del mismo proyecto.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "Este documento es el primero de los documentos desarrollados dentro del \"Estudio regional de los efectos del Cambio Climático en la Costa de América Latina y el Caribe\" (C3A) realizado entre el Instituto de Hidráulica Ambiental de Cantabria y CEPAL",
+          "pagina": 177
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Bibliografía",
+      "nivel": 1,
+      "paginas": "179-183",
+      "resumen": "Listado de aproximadamente 90 referencias bibliográficas citadas a lo largo del documento (artículos científicos sobre oleaje, nivel del mar, mareas, huracanes, downscaling estadístico y modelos numéricos, además de los informes del IPCC). No se etiquetan dimensiones del codebook sobre esta sección por tratarse de material de referencia bibliográfica, no de contenido analítico propio del documento.",
+      "dimensiones": [],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "No",
+      "evidencia": "El documento no menciona en ningún pasaje una inversión masiva y coordinada de política pública e inversión privada, ni sectores estratégicos del tipo transición energética, electromovilidad, bioeconomía, economía circular o salud/cuidados, ni conecta su contenido con las eficiencias schumpeteriana, keynesiana o ambiental del Big Push. Su contenido es exclusivamente la caracterización física y estadística de dinámicas oceanográficas (oleaje, mareas, nivel del mar, temperatura, salinidad, viento, huracanes) y sus tendencias de largo plazo; no propone ninguna transformación productiva, energética ni de inversión.",
+      "citas": [],
+      "nota": "El No es por diseño del documento, no por omisión descuidada: es un estudio técnico-científico de generación de bases de datos y metodologías (primero de cuatro documentos de un proyecto de cooperación técnica), no una propuesta de política climática ni de transformación del modelo de desarrollo. Los cuatro criterios de interpelación se aplican igualmente por instrucción metodológica (INTERPELACION_v0.md §1.6), pero corresponde señalar aquí explícitamente esta naturaleza distinta."
+    },
+    "articulacion_actores": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento nombra mecanismos institucionales concretos de coordinación: los Estudios Regionales sobre Economía del Cambio Climático (ERECC), 'coordinados técnicamente por la CEPAL', que dan a los países de la región acceso a este tipo de análisis (p.26); y el proyecto de cooperación C3A mismo, financiado por el Gobierno de España a través de dos ministerios y ejecutado con supervisión de la CEPAL y participación técnica del Instituto de Hidráulica Ambiental de Cantabria, cuya metodología UC/OECC España 'desea poner... a disposición de aquellos países que así lo deseen' (p.27). Ambos mecanismos tienen nombre propio y están efectivamente en implementación dentro del ámbito de aplicación (la región), pero articulan cooperación técnica e intergubernamental para la producción de conocimiento, no una plataforma multiactor (gobiernos, sector privado, sociedad civil) de coordinación de la acción climática en sí.",
+      "citas": [
+        {
+          "cita": "Los Estudios Regionales sobre Economía del Cambio Climático (ERECC) coordinados técnicamente por la CEPAL proporcionan análisis a escala local, permitiendo a países y regiones identificar las implicaciones del cambio climático para sus economías y grupos socio-económicos específicos",
+          "pagina": 26
+        },
+        {
+          "cita": "El Gobierno de España desea poner esta metodología y las herramientas asociadas a disposición de aquellos países que así lo deseen pues la información generada mediante la aplicación de esta metodología puede ser de gran utilidad para evaluar impactos, plantear medidas de adaptación y realizar un análisis económico de las mismas",
+          "pagina": 27
+        }
+      ],
+      "nota": "El documento es de naturaleza distinta a una propuesta de política climática (es un estudio técnico-científico de dinámicas costeras); los mecanismos citados articulan cooperación técnica para la producción de conocimiento (ERECC, proyecto C3A), no una gobernanza multiactor de la acción climática regional."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "El documento no menciona en ningún pasaje empleo, productividad ni reducción de la desigualdad como beneficios asociados a una transición climática, y tampoco enumera sectores, industrias o mercados donde vería oportunidades productivas sostenibles derivadas del cambio climático o su gestión. Todo su contenido es físico-oceanográfico (oleaje, mareas, nivel del mar, temperatura superficial, salinidad, viento, huracanes) y estadístico-metodológico (técnicas de cálculo de tendencias), sin ninguna conexión con la esfera económica, laboral o de oportunidades de mercado.",
+      "citas": [],
+      "nota": "El No es por diseño del documento, no por omisión descuidada: es un estudio técnico-científico de caracterización física de la costa, sin objeto ni vocación de identificar oportunidades productivas."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "No",
+      "evidencia": "El documento no contiene, en ninguna de sus siete secciones ni en sus conclusiones generales (p.177), una lista de acciones o recomendaciones de política a implementar. Sus 'próximos pasos' explícitos son metodológicos y remiten a los documentos siguientes del mismo proyecto (Documento 2: vulnerabilidad; Documento 3: impactos; Documento 4: riesgos, cuadro 1.1, p.26), no a acciones de terceros o gobiernos. No existe, por tanto, una lista de recomendaciones sobre la que aplicar el test ítem por ítem de concreción.",
+      "citas": [],
+      "desglose_items": [],
+      "tally": "0 de 0 ítems: el documento no contiene una lista de recomendaciones o pasos de acción sobre los que aplicar el test de concreción",
+      "nota": "El No es por diseño del documento, no por omisión descuidada: como estudio técnico de caracterización física, sus conclusiones (cap.7, p.177) describen lo que el documento produjo y su lugar dentro de la serie de cuatro documentos del proyecto, no una hoja de ruta de implementación dirigida a terceros."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento no analiza una tensión de política pública sino una carencia de conocimiento científico: la región de ALyC, y en particular el Hemisferio Sur, carecía de bases de datos oceanográficas de alta resolución espacio-temporal (oleaje, marea, nivel del mar) equivalentes a las disponibles en el Hemisferio Norte -'Merece la pena llamar la atención sobre la escasez de este tipo de información... concretamente en la zona de ALyC, y de forma generalizada en el Hemisferio Sur del planeta' (p.56)-, lo cual limitaba la capacidad de la región de anticipar y adaptarse a los cambios físicos de su clima costero.",
+      "filtro_categoria_primaria": "El objeto sustantivo que el documento pretende transformar no es una intervención productiva o social directa, sino el estado del conocimiento sobre el medio ambiente costero: genera 61 años de reanálisis horario (GOW, GOS, GOT) en 1.132 puntos de costa y calcula, con la técnica Trend-EOF, cómo cambiarán el nivel del mar, el oleaje, la temperatura y la salinidad hacia 2040, 2050 y 2070 -es decir, produce evidencia física sobre la sostenibilidad ambiental de la costa de la región, no sobre otro sector (comercio, energía, gobernanza) que actúe como sujeto sustituto.",
+      "secundaria_obligatoria": "El propio documento se define como el primero de cuatro entregables de un proyecto de cooperación técnica (cuadro 1.1, p.26) cuyo resultado son herramientas de cálculo reutilizables -bases de datos validadas, un módulo de huracanes con tres modelos paramétricos contrastados contra 58 boyas de la NOAA, y una guía metodológica para analizar tendencias- que se plantean explícitamente como 'primer diagnóstico en futuros proyectos locales y regionales' (p.25): esto es, fortalecimiento de la capacidad técnica e institucional de la región y de la propia CEPAL para la gestión del riesgo climático costero, no una intervención ambiental en sí misma.",
+      "justificacion_anti_copia": "El Cuadro 1.1 (p.26) encadena este documento con los tres siguientes (vulnerabilidad, impacto, riesgo) como piezas de una misma cadena analítica; sus productos concretos y verificables son el reanálisis GOW de oleaje calibrado direccionalmente con datos de satélite AVISO, el reanálisis GOS de marea meteorológica validado con mareógrafos GESLA, el reanálisis GOT de marea astronómica basado en TPXO, y el módulo de huracanes históricos (1955-2008) con los modelos Hydromet-Rankin Vortex, Bretschneider y SPM-modificado validados contra boyas NDBC de la NOAA -herramientas de cálculo, no una propuesta de intervención ambiental directa sobre la costa.",
+      "validacion_anclas": "El ancla ya validada para el corpus climático es el caso doc09 (TIPOLOGIA_v0.md §3): primaria #6 Sostenibilidad ambiental / secundaria #11 Capacidades del Estado, para un documento donde la tecnología/resiliencia energética es el sujeto pero las recomendaciones concretas son de capacidad institucional (datos, coordinación). Este documento reproduce el mismo patrón a mayor escala: el sujeto es la dinámica físico-climática costera y el aporte concreto y explícito es la capacidad institucional/técnica (bases de datos, metodologías, herramientas de cálculo validadas) para su gestión futura, por lo que se asigna la misma combinación con certeza Alta."
+    },
+    "tipo_documento_climatico": "Documento de proyecto o estudio técnico (informe técnico regional extenso, primero de una serie de cuatro documentos de un proyecto de cooperación técnica)",
+    "nivel_aplicacion": "Regional (América Latina y el Caribe en su conjunto), con desagregación en 1.132 puntos costeros y comparaciones puntuales a nivel subregional y nacional (México, Centroamérica, Sudamérica e islas del Caribe)",
+    "ambiguedad_pendiente_validacion": "Cabe una hipótesis alternativa razonable: dado que el propio documento se autodefine como una herramienta metodológica ('primer diagnóstico en futuros proyectos locales y regionales', p.25) más que como una intervención ambiental, podría defenderse #11 Capacidades del Estado como transformación primaria y #6 Sostenibilidad ambiental como canal temático/secundaria. Se mantiene la combinación #6 primaria / #11 secundaria por ser la que reproduce fielmente el ancla ya validada de doc09 para el mismo patrón documental (estudio técnico centrado en un agente físico costero cuyo aporte concreto es de capacidad institucional), pero la clasificación no está exenta de discusión y queda señalada para eventual revisión por el equipo del curso."
+  }
+}

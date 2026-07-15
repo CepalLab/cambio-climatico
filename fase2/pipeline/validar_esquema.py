@@ -17,6 +17,9 @@ CRITERIOS = {"gran_impulso_ambiental_concreto","articulacion_actores",
              "oportunidades_productivas_sostenibles","como_hacerlo_concreto"}
 DOC_KEYS = {"num_muestra","titulo","autoria","handle","simbolo","isbn","fecha","tipo_documento",
             "paginas_cuerpo","paginas_totales","idioma","tiene_resumen_ejecutivo"}
+# tiene_anexos es opcional: campo nuevo desde Ronda 4 (esquema_json_v1.md regla 7), ausente por
+# diseño en los 3 pilotos originales (doc09/11/13, generados antes de esa regla).
+DOC_KEYS_OPCIONALES = {"tiene_anexos"}
 XREF = re.compile(r"doc\s*\.?\s*0?9|doc\s*\.?\s*11|doc\s*\.?\s*13|documento[s]?\s+(9|11|13)\b|versi[oó]n previa|Ronda [12]", re.I)
 
 errores = []
@@ -70,7 +73,8 @@ for ruta in (sys.argv[1:] or PILOTO):
     if set(j) != {"documento","resumen_enriquecido","resumen_secciones","interpelacion","tipologia"}:
         err(name, f"bloques raiz: {sorted(j)}")
     d = j["documento"]
-    if set(d) != DOC_KEYS: err(name, f"claves documento difieren: faltan {DOC_KEYS-set(d)}, sobran {set(d)-DOC_KEYS}")
+    faltan, sobran = DOC_KEYS - set(d), set(d) - DOC_KEYS - DOC_KEYS_OPCIONALES
+    if faltan or sobran: err(name, f"claves documento difieren: faltan {faltan}, sobran {sobran}")
     if not isinstance(d.get("paginas_cuerpo"), int): err(name, "paginas_cuerpo no es entero")
     if not isinstance(d.get("paginas_totales"), int): err(name, "paginas_totales no es entero")
     elif d["paginas_totales"] < d.get("paginas_cuerpo", 0): err(name, "paginas_totales menor que paginas_cuerpo")
