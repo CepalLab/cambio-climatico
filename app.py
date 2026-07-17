@@ -12,6 +12,7 @@ import streamlit as st
 from explorador import main as pagina_explorador
 from visualizaciones import main as pagina_visualizaciones
 from segunda_fase import main as pagina_segunda_fase
+from revision_piloto import main as pagina_revision_piloto
 
 st.set_page_config(
     page_title="Cambio climático · CEPAL Lab",
@@ -76,6 +77,12 @@ pg = st.navigation(
             title="Documentos para 2da fase",
             icon=":material/checklist:",
             url_path="segunda-fase",
+        ),
+        st.Page(
+            pagina_revision_piloto,
+            title="Revisión del Piloto",
+            icon=":material/rate_review:",
+            url_path="revision-piloto",
         ),
     ],
     position="top",

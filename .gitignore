@@ -17,6 +17,9 @@ venv/
 # Selección de revisión local (fallback sin backend GitHub) — nunca subir marcas reales
 seleccion_revision.json
 
+# Comentarios de revisión del piloto — no versionar revisiones en curso
+fase2/pilot/comentarios_revision.json
+
 # Archivos de lock de Office (Word/Excel abiertos)
 ~$*
 
