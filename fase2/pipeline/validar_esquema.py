@@ -1,8 +1,9 @@
 """Chequeo de conformidad de los JSON del pipeline contra esquema_json_v1.md.
 
 Uso: python validar_esquema.py <ruta1.json> [<ruta2.json> ...]
-Sin argumentos, valida los 3 JSON del piloto (rutas relativas a la raíz del repo).
-Solo stdlib, igual que el resto del pipeline. Creado en Ronda 3.
+Sin argumentos, valida todos los JSON canónicos de fase2/pilot/ (excluye variantes
+multimodelo doc09_01..05). Solo stdlib, igual que el resto del pipeline. Creado en Ronda 3;
+chequeo de secciones excluidas (reglas 7–9) agregado en Ronda 8.
 
 El chequeo de referencias cruzadas es heurístico (regex sobre menciones a otros documentos del
 corpus y narrativa de proceso): una coincidencia es una observación a revisar a mano, no
@@ -10,6 +11,7 @@ necesariamente un error — la única excepción legítima es tipologia.validaci
 tabla de TIPOLOGIA_v0.md §3.
 """
 import json, re, sys
+from pathlib import Path
 
 SLUGS = {"contexto_antecedentes","estado_de_situacion","diagnostico_estructural","tendencias",
          "desafios","oportunidades","propuestas_politica","avances_implementacion","brechas_implementacion"}
@@ -21,6 +23,21 @@ DOC_KEYS = {"num_muestra","titulo","autoria","handle","simbolo","isbn","fecha","
 # diseño en los 3 pilotos originales (doc09/11/13, generados antes de esa regla).
 DOC_KEYS_OPCIONALES = {"tiene_anexos"}
 XREF = re.compile(r"doc\s*\.?\s*0?9|doc\s*\.?\s*11|doc\s*\.?\s*13|documento[s]?\s+(9|11|13)\b|versi[oó]n previa|Ronda [12]", re.I)
+# Títulos de sección excluidos (esquema §2 reglas 7–9). Anclados al inicio del título.
+# Anexos: se alerta salvo excepción histórica doc11 (regla 7).
+SECCION_EXCLUIDA = re.compile(
+    r"^(?:"
+    r"bibliograf[ií]a|bibliography|referencias?(?:\s+bibliogr[aá]ficas?)?|references?|"
+    r"acr[oó]nimos?|acronyms?|list\s+of\s+acronyms|glosario|glossary|"
+    r"pr[oó]logo|prologue|prefacio|preface|"
+    r"mensajes?(?:\s+(?:del|de\s+la|clave|institucional|principal(?:es)?))?|"
+    r"(?:key\s+)?messages?(?:\s+from)?|"
+    r"message\s+from|"
+    r"(?:\d+\.\s*)?anexos?"
+    r")\b",
+    re.I,
+)
+ANEXO_HISTORICO = re.compile(r"(?:\d+\.\s*)?anexos?\b", re.I)
 
 errores = []
 def err(doc, msg): errores.append(f"[{doc}] {msg}")
@@ -38,28 +55,45 @@ def contar_oraciones(texto):
 
 def check_secciones(doc, secs, nivel_esperado=1, path=""):
     for s in secs:
-        p = f"{path}/{s.get('seccion','?')[:40]}"
+        titulo = (s.get("seccion") or "").strip()
+        p = f"{path}/{titulo[:40] or '?'}"
         for k in ("seccion","nivel","paginas","resumen","dimensiones","subsecciones"):
             if k not in s: err(doc, f"seccion {p}: falta clave '{k}'")
         if s.get("nivel") != nivel_esperado: err(doc, f"seccion {p}: nivel {s.get('nivel')} != esperado {nivel_esperado}")
+        # Reglas 7–9: front/back-matter no debe aparecer como fila.
+        if SECCION_EXCLUIDA.search(titulo):
+            if doc.startswith("doc11") and ANEXO_HISTORICO.search(titulo):
+                pass  # excepción histórica regla 7
+            else:
+                err(doc, f"seccion excluida por reglas 7-9 del esquema: '{titulo}' (nivel {s.get('nivel')})")
         for d in s.get("dimensiones", []):
             if not isinstance(d, dict): err(doc, f"seccion {p}: dimension no es objeto"); continue
             if d.get("dimension") not in SLUGS: err(doc, f"seccion {p}: slug no canonico '{d.get('dimension')}'")
             if "cita" not in d or "pagina" not in d: err(doc, f"seccion {p}: dimension sin cita/pagina propia")
             if "subtipo_brecha" in d and d["dimension"] != "brechas_implementacion":
                 err(doc, f"seccion {p}: subtipo_brecha en dimension no-brecha")
-        if s.get("subsecciones"): check_secciones(doc, s["subsecciones"], nivel_esperado+1, p)
+        if s.get("subsecciones"):
+            # Padres-puente: sin piso proporcional (post-Ronda 9). El contenido vive en las hojas.
+            check_secciones(doc, s["subsecciones"], nivel_esperado + 1, p)
         else:
-            # Piso proporcional de calidad (Ronda 5): ~1 línea/página con piso de 3-4 líneas.
-            # Heurística barata: max(200, 55*páginas) caracteres en las hojas con resumen propio.
+            # Piso proporcional solo en hojas (Ronda 5 + aclaración post-Ronda 9).
+            # Heurística: max(200, 55*páginas) caracteres.
             r, rng = s.get("resumen"), rango_pagina(s.get("paginas"))
             if r and rng:
                 piso = max(200, 55 * (rng[1] - rng[0] + 1))
                 if len(r) < piso:
-                    err(doc, f"seccion {p}: resumen de {len(r)} caracteres, por debajo del piso proporcional (~{piso}) para {rng[1]-rng[0]+1} pagina(s)")
+                    err(
+                        doc,
+                        f"seccion {p}: resumen de {len(r)} caracteres, por debajo del piso "
+                        f"proporcional (~{piso}) para {rng[1] - rng[0] + 1} pagina(s)",
+                    )
 
-PILOTO = [f"fase2/pilot/{n}.json" for n in
-          ("doc09_caribbean_power", "doc11_pobreza_infantil", "doc13_carbono_frontera")]
+# Sin argumentos: todos los canónicos del piloto (excluye variantes multimodelo doc09_01..05).
+_PILOT_DIR = Path(__file__).resolve().parent.parent / "pilot"
+PILOTO = sorted(
+    str(p) for p in _PILOT_DIR.glob("doc*.json")
+    if not re.search(r"_0[1-5]\.json$", p.name)
+)
 
 for ruta in (sys.argv[1:] or PILOTO):
     name = ruta.rsplit("/", 1)[-1].rsplit("\\", 1)[-1].removesuffix(".json")
@@ -82,6 +116,20 @@ for ruta in (sys.argv[1:] or PILOTO):
     a = j["resumen_enriquecido"].get("alcance", {})
     if set(a) != {"ambito_aplicacion","referentes_dependencias","sectorial","temporal"}:
         err(name, f"claves alcance: {sorted(a)}")
+    # conclusiones_recomendaciones: objeto canónico {conclusiones, recomendaciones}; lista = legado piloto.
+    cr = j["resumen_enriquecido"].get("conclusiones_recomendaciones")
+    if isinstance(cr, dict):
+        if "conclusiones" not in cr or "recomendaciones" not in cr:
+            err(name, "conclusiones_recomendaciones (objeto) debe tener 'conclusiones' y 'recomendaciones'")
+        elif not isinstance(cr.get("conclusiones"), list) or not isinstance(cr.get("recomendaciones"), list):
+            err(name, "conclusiones y recomendaciones deben ser listas")
+        extras = set(cr) - {"conclusiones", "recomendaciones", "nota"}
+        if extras:
+            err(name, f"conclusiones_recomendaciones: claves de mas {sorted(extras)}")
+    elif isinstance(cr, list):
+        pass  # legado muestra de 17
+    else:
+        err(name, "conclusiones_recomendaciones ausente o tipo invalido (objeto o lista legacy)")
     check_secciones(name, j["resumen_secciones"])
     itp = j["interpelacion"]
     if set(itp) != CRITERIOS: err(name, f"criterios interpelacion: {sorted(itp)}")
@@ -141,4 +189,4 @@ if errores:
     print(f"{len(errores)} observaciones:")
     for e in errores: print(" -", e)
     sys.exit(1)
-print("Los 3 JSON conformes al esquema v1, sin referencias cruzadas.")
+print("Todos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas).")

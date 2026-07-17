@@ -1,0 +1,717 @@
+{
+  "documento": {
+    "num_muestra": 17,
+    "titulo": "Estudio Económico de América Latina y el Caribe 2023. El financiamiento de una transición sostenible: inversión para crecer y enfrentar el cambio climático",
+    "autoria": "Documento institucional coordinado por Daniel Titelman, Director de la División de Desarrollo Económico de la CEPAL (Parte I, junto con Ramón Pineda Salazar; Parte II, junto con Noel Pérez Benítez para los capítulos II y III, y con Christine Carton como autora del capítulo IV), con la colaboración de un amplio equipo de la División de Desarrollo Económico, la División de Estadísticas, la División de Comercio Internacional e Integración y las sedes subregionales y oficinas nacionales de la CEPAL (créditos completos en p.4).",
+    "handle": "https://hdl.handle.net/11362/67989",
+    "simbolo": "LC/PUB.2023/11-P/Rev.1",
+    "isbn": "978-92-1-122123-7 (versión impresa); 978-92-1-002238-5 (versión pdf); 978-92-1-358427-9 (versión ePub)",
+    "fecha": "2023",
+    "tipo_documento": "Informe insignia anual de la CEPAL (Estudio Económico de América Latina y el Caribe, 75ª edición), con una monografía especial de tres capítulos sobre financiamiento climático en su segunda parte — es un híbrido entre el panorama macroeconómico regional estándar de la serie y un análisis climático-fiscal especializado.",
+    "paginas_cuerpo": 244,
+    "paginas_totales": 296,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": true,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cuáles son las implicaciones macroeconómicas y fiscales del cambio climático en las economías de América Latina y el Caribe, y qué mecanismos de financiamiento (movilización de recursos internos, financiamiento privado innovador, cooperación internacional y alivio de la deuda climática) y de política monetaria y macroprudencial podrían movilizar la inversión pública y privada necesaria para enfrentar el cambio climático e impulsar un crecimiento dinámico, sostenido y sostenible? (planteada explícitamente en la Introducción de la Parte II, p.149). La primera parte del documento (Capítulo I) responde en cambio a la pregunta anual estándar de la serie —desempeño macroeconómico de la región en 2022-2023 y perspectivas para 2023-2024— sin vínculo analítico con el cambio climático.",
+    "alcance": {
+      "ambito_aplicacion": "América Latina y el Caribe en su conjunto (33 países) para el panorama macroeconómico general de la Parte I y para los capítulos III y IV de la Parte II (financiamiento y banca central); un grupo de seis países de Centroamérica y el Caribe especialmente vulnerables —Barbados, El Salvador, Guatemala, Honduras, República Dominicana y Santa Lucía— para el modelo de crecimiento y sostenibilidad de la deuda del capítulo II (p.153).",
+      "referentes_dependencias": "Estados Unidos, la Unión Europea y China como socios comerciales y como origen de shocks financieros externos (política monetaria de la Reserva Federal, crisis bancaria de marzo de 2023); las economías emergentes y en desarrollo de Asia y las economías avanzadas de la OCDE como puntos de comparación en inversión pública (11,7% y 3,5% del PIB frente al 2,8% de la región, p.196-197), presión tributaria (34,1% del PIB en la OCDE frente al 21,7% regional, p.204) y tasas de interés efectivas de la deuda (2,8% en Asia emergente y 1,4% en economías avanzadas frente a promedios regionales muy superiores, p.201); la Unión Europea (Banco Central Europeo, taxonomía verde de la UE) como referente metodológico para las taxonomías verdes e iniciativas de banca central de la región.",
+      "sectorial": "Panorama macroeconómico regional completo (contexto internacional, liquidez global, sector externo, desempeño interno, política fiscal y monetaria) en la Parte I; en la Parte II: estructuras económicas vulnerables al clima (agricultura, turismo), inversión pública y privada, sostenibilidad de la deuda pública, tributación ambiental, mercados de capitales y bonos temáticos, cooperación internacional para el desarrollo, mecanismos de alivio de deuda climática, y el papel de los bancos centrales y supervisores financieros en la gestión de riesgos climáticos y el escalamiento de finanzas sostenibles.",
+      "temporal": "Datos observados 2010-2023 (series históricas desde 1990 o 2000 según el indicador) y proyecciones de crecimiento para 2023-2024 en la Parte I; proyecciones climático-económicas de mediano plazo 2025-2050 en el capítulo II de la Parte II."
+    },
+    "hallazgos_principales": [
+      "Se proyecta que la economía de América Latina y el Caribe crezca un 1,7% en 2023 y un 1,5% en 2024, muy por debajo de los promedios históricos, en un contexto de política monetaria y fiscal restrictivas (p.25).",
+      "Para el grupo de seis países de Centroamérica y el Caribe analizado, el PIB en 2050 podría ser entre un 9% y un 12% menor que en un escenario de crecimiento tendencial como resultado de la agudización de los choques climáticos (p.153, 169).",
+      "Compensar por completo esas pérdidas requeriría una inversión adicional de entre el 5,3% del PIB (El Salvador, Guatemala) y el 10,9% del PIB (Honduras) por año entre 2025 y 2050 (p.153, 172, gráfico II.11).",
+      "Un impulso de inversión menos ambicioso, en línea con las contribuciones determinadas a nivel nacional (CDN, fijado en el modelo en 1,8% del PIB anual: 0,9% adaptación + 0,9% mitigación), limitaría las pérdidas económicas a entre un 5% y un 7% del PIB en 2050, pero llevaría la deuda pública a niveles del 100% del PIB o más en Barbados, El Salvador y Santa Lucía, y superiores al 70% del PIB en Honduras (p.153, 176, 179-180).",
+      "La inversión pública del grupo de seis países cayó de un 5,3% del PIB en 2000 a un 2,7% del PIB en 2019, mientras que la región en su conjunto invierte solo un 2,8% del PIB en inversión pública, frente al 11,7% del PIB de las economías emergentes y en desarrollo de Asia (p.162, 196-197).",
+      "Los ingresos tributarios relacionados con el medio ambiente en América Latina y el Caribe representaron en promedio solo el 1% del PIB en 2020, frente al 2,1% del PIB de la OCDE (p.205-206).",
+      "El volumen acumulado de bonos verdes, sociales y sostenibles emitidos por países de la región alcanzó los 95.700 millones de dólares al cierre de 2022, concentrado en solo 14 países, de los cuales el Brasil, Chile y México representan más del 80% del monto (p.240).",
+      "Los bancos multilaterales de desarrollo aportaron 10.800 millones de dólares de financiamiento climático a la región en 2021 (un 0,2% del PIB regional), de los cuales el 70% se destinó a mitigación (p.214-215)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El cambio climático representa un reto trascendental para la región; la magnitud de la inversión necesaria (entre el 2% y el 10% del PIB anual) no tiene precedentes dados los niveles históricamente bajos de inversión pública y privada, y el actual contexto de tasas de interés altas y espacio fiscal reducido complica su financiamiento (p.219).",
+        "Reducir el costo del financiamiento climático (por ejemplo, mediante deuda a tasas concesionales equivalentes a la mitad de la tasa de interés efectiva vigente) mejoraría sustancialmente la dinámica de la deuda pública en la mayoría de los países del grupo analizado, aunque no en todos —la deuda de El Salvador sigue siendo desfavorable incluso en ese escenario— (p.154, 181)."
+      ],
+      "recomendaciones": [
+        "Reforzar la movilización de recursos internos mediante el aumento de la recaudación tributaria (combate a la evasión fiscal, revisión de gastos tributarios, consolidación del impuesto a la renta personal) y la profundización de los mercados de capitales nacionales para canalizar financiamiento hacia proyectos climáticos (p.203-212).",
+        "Diseñar mecanismos institucionalizados de alivio de la deuda climática —canjes de deuda por adaptación, cláusulas de desastres y huracanes en la deuda soberana, un Fondo de Resiliencia del Caribe liderado por la CEPAL— dado que el Marco Común del G20 y la Iniciativa de Suspensión del Servicio de la Deuda han tenido escaso alcance para los países de renta media (p.217-219).",
+        "Adoptar un enfoque precautorio para calibrar instrumentos de política macroprudencial y monetaria ante los riesgos climáticos, y explorar la coordinación entre las políticas macroprudencial, monetaria y fiscal, mientras se perfeccionan las metodologías de cuantificación de esos riesgos —las pruebas de estrés climático requieren horizontes de 30 a 50 años, muy superiores a los 3-5 años del análisis tradicional— (p.238-239, 244)."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "El informe estima que, para un grupo de seis países de Centroamérica y el Caribe especialmente vulnerables —Barbados, El Salvador, Guatemala, Honduras, República Dominicana y Santa Lucía—, el PIB en 2050 podría ser entre un 9% y un 12% menor que en un escenario de crecimiento tendencial debido a la agudización de los choques climáticos, y que compensar esa pérdida exigiría una inversión adicional de hasta el 10,9% del PIB anual en el caso de Honduras. Documenta que la inversión pública regional cayó a apenas un 2,8% del PIB en 2019 —frente al 11,7% del PIB de las economías emergentes de Asia— y que financiar siquiera el escenario más modesto de las contribuciones determinadas a nivel nacional (1,8% del PIB anual) llevaría la deuda pública de Barbados, El Salvador y Santa Lucía a superar el 100% del PIB hacia 2050. Como respuesta, propone un marco de financiamiento en cuatro ejes —movilización de recursos internos, financiamiento privado innovador, cooperación internacional y mecanismos de alivio de la deuda climática— e ilustra el estado dispar de las iniciativas de los bancos centrales de la región, desde Colombia (la única en etapa de \"consolidación\" según la Red de Banca y Finanzas Sostenibles) hasta países que apenas comienzan a divulgar riesgos climáticos. La primera parte del documento, de naturaleza distinta, resume el desempeño macroeconómico regional de 2022-2023 —con un crecimiento proyectado de apenas 1,7% para 2023— sin vínculo analítico con el cambio climático."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Parte I. Informe macroeconómico regional y perspectivas 2023 y 2024",
+      "nivel": 1,
+      "paginas": "29-140",
+      "resumen": null,
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "Capítulo I. Panorama regional",
+          "nivel": 2,
+          "paginas": "31-140",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "A. El contexto internacional",
+              "nivel": 3,
+              "paginas": "33-46",
+              "resumen": "Analiza la desaceleración de la actividad y el comercio mundiales en 2023 (crecimiento global de 3,0%, comercio de bienes de 1,7%), la persistencia de la inflación subyacente pese a la baja de los precios de bienes primarios y las presiones en cadenas de suministro, y la crisis bancaria de marzo de 2023 en los Estados Unidos y Suiza (quiebras del Silicon Valley Bank y el First Republic Bank, la segunda y tercera de mayor tamaño en el país desde 1934, cuadro I.4) como fuente de volatilidad financiera mundial. Documenta el ciclo de alzas de tasas más rápido de la Reserva Federal desde 1982 (525 puntos básicos en 17 meses) y los niveles récord de endeudamiento de las economías emergentes y en desarrollo (100 billones de dólares, 250% del PIB). Como riesgo puntual y acotado, señala que el fenómeno de El Niño podría presionar al alza los precios de las bebidas tropicales y el azúcar en los mercados internacionales de productos básicos.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "A pesar de las tendencias comentadas, el anunciado fenómeno climático de El Niño presenta el riesgo de que se produzcan alzas de los precios, sobre todo en el caso de las bebidas tropicales y el azúcar",
+                  "pagina": 38
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "B. La liquidez global",
+              "nivel": 3,
+              "paginas": "47-57",
+              "resumen": "Documenta la contracción sin precedentes históricos de la oferta monetaria en los Estados Unidos (de 5,2% a -3,2% entre 2022 y los primeros cinco meses de 2023) y su desaceleración en la zona del euro, el Reino Unido y el Japón, resultado del alza de tasas de corto plazo combinada con políticas de restricción cuantitativa del Banco de Inglaterra, la Reserva Federal y el Banco Central Europeo. Explica los riesgos de esas políticas —reducción de reservas bancarias por debajo del nivel necesario y pérdida de control de las tasas de corto plazo, como ocurrió entre 2017 y 2019— y describe la crisis bancaria de marzo de 2023 (SVB, Signature Bank, First Republic Bank) como manifestación de esos riesgos, con más de 1 billón de dólares de apoyo de liquidez de la Reserva Federal entre marzo y junio de ese año.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "C. El sector externo",
+              "nivel": 3,
+              "paginas": "58-69",
+              "resumen": "Proyecta una reducción del déficit de cuenta corriente regional a un 1,8% del PIB en 2023 (frente a 2,6% en 2022), con caídas simétricas de exportaciones (-1%) e importaciones (-2%) de bienes explicadas por la baja de precios de productos básicos, una mejora de los términos de intercambio para el Caribe y Centroamérica importadores de combustibles frente a un deterioro de 14% para los países exportadores de hidrocarburos, y una recuperación del turismo que reduce el déficit de servicios. Documenta la caída de 57% de las emisiones de deuda de la región en mercados internacionales en 2022 y el aumento de la participación de bonos temáticos y emisiones soberanas en el total emitido, así como la persistencia de un riesgo soberano (EMBI) muy heterogéneo entre países, desde 91 puntos básicos en el Uruguay hasta más de 30.000 en Venezuela (República Bolivariana de).",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "D. El desempeño interno",
+              "nivel": 3,
+              "paginas": "70-99",
+              "resumen": "Documenta el estancamiento del PIB regional en los últimos cuatro trimestres hasta el primer trimestre de 2023, con desaceleración generalizada en 13 de 16 países, impulsada por la caída de la inversión (el componente más golpeado, sobre todo en construcción por el mayor costo del financiamiento) y el menor dinamismo del consumo privado (2,3% interanual, frente a 3,9% en 2022) en un contexto de pérdida de poder adquisitivo, deterioro de la confianza y crédito más restrictivo; las exportaciones netas no contribuyeron al crecimiento por la desaceleración de los principales socios comerciales, y el sector de servicios (financieros, transporte) sigue siendo el más dinámico frente a la desaceleración de la manufactura y la construcción. Sobre inflación, describe el ciclo completo desde el máximo de 9,7% interanual en junio de 2022 —atribuido a la pandemia y al conflicto entre la Federación de Rusia y Ucrania— hasta 4,9% en junio de 2023, con reducción generalizada en 25 países pero persistencia de la inflación subyacente (6,1% en junio de 2023) por sobre el promedio prepandemia de 4,3% (2015-2019); señala que la incertidumbre sobre el precio de los alimentos por fenómenos climáticos como El Niño-La Niña, y por la suspensión del acuerdo de granos entre la Federación de Rusia y Ucrania, es un riesgo al alza para esa trayectoria hacia fines de 2023. En materia laboral, documenta que la tasa de participación (62,6% en 2022, aún por debajo del 63,3% de 2019) y la de desocupación (7,0%, la más baja desde 2016) aún no recuperan del todo los niveles y la calidad del empleo prepandemia: el número de ocupados creció 5,6% en 2022 pero se concentró en el sector de servicios (más del 78% del empleo total) y en las categorías de asalariados y servicio doméstico; persisten una tasa de ocupación informal cercana al 48%, una brecha de participación de género de 22,2 puntos porcentuales y de desocupación de 2,8 puntos porcentuales, y una caída de la productividad laboral y del salario real desde mediados de 2022 vinculada a la mayor concentración del empleo en servicios de baja productividad y a la persistencia de la informalidad.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "existe preocupación sobre la trayectoria que esta podría seguir en los próximos meses debido a los problemas vinculados al cambio climático y a fenómenos climáticos como El Niño-La Niña, que incluso podrían poner en riesgo el suministro de alimentos",
+                  "pagina": 85
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "E. Las políticas macroeconómicas",
+              "nivel": 3,
+              "paginas": "100-137",
+              "resumen": "Analiza el deterioro fiscal proyectado para 2023: caída de los ingresos tributarios de América Latina (16,2% a 15,8% del PIB) por la desaceleración económica y menores precios de hidrocarburos, con contracciones de recaudación de dos dígitos en Chile y el Perú y menores ingresos no tributarios por hidrocarburos en el Brasil, el Ecuador y México; reducción del gasto corriente primario (retiro de programas de emergencia por la pandemia, con los subsidios y transferencias corrientes bajando a 8,3% del PIB) compensada parcialmente por mayores gastos de capital; y un resultado primario que volvería a ser deficitario tras el superávit de 2022, devolviendo a la región a la posición fiscal prepandemia (déficit global promedio de 2,9% del PIB en 2015-2019). En el Caribe, en cambio, se prevé una reducción del déficit global por el mayor ajuste del gasto. Documenta el aumento de 21,6 puntos porcentuales del PIB en la deuda pública bruta de América Latina entre 2011 y 2022 (hasta 51,4% del PIB, con la Argentina y el Brasil por sobre 70% y Guatemala, el Paraguay y el Perú cerca de 30%) y del Caribe (77,9% del PIB en 2022, con Barbados y Suriname por sobre 120% del PIB), así como la heterogeneidad en la composición de esa deuda por moneda (mayoritariamente en dólares salvo en el Brasil, Chile y México) y por residencia del acreedor. En materia monetaria y financiera, describe la política restrictiva sostenida de los bancos centrales de la región desde 2021 pese a la caída de la inflación —solo el Brasil, Chile, Costa Rica, la República Dominicana y el Uruguay habían comenzado a bajar tasas hacia marzo de 2023—, el aumento de las tasas de interés activas y su efecto limitante sobre el crédito privado, la reducción de casi 7% de las reservas internacionales regionales en 2022 (a 871.414 millones de dólares) por intervenciones cambiarias, el buen desempeño relativo del sector bancario (baja mora, capitalización por sobre los requisitos regulatorios) pese a episodios de inestabilidad financiera internacional en marzo de 2023, y el endurecimiento de disposiciones macroprudenciales en Chile, el Uruguay, el Brasil y México tras esos episodios.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "F. Perspectivas económicas para América Latina y el Caribe en 2023 y 2024",
+              "nivel": 3,
+              "paginas": "138-140",
+              "resumen": "Proyecta un crecimiento regional de 1,5% para 2024 (América del Sur 1,2%, Centroamérica y México 2,1%, el Caribe sin Guyana 2,8%), sostenido en un espacio de política macroeconómica limitado tanto en lo fiscal (caída de ingresos, deuda elevada, mayor peso de los intereses) como en lo monetario (condiciones internacionales restrictivas que retrasan el inicio de un ciclo de baja de tasas). Anticipa una desaceleración del empleo (1,9% en 2023, 1,1% en 2024) y de la tasa de desocupación (6,8% y 7,1%), con riesgo de mayor informalidad, menor protección social y aumento de la pobreza y la desigualdad si se mantiene el bajo dinamismo económico.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "Parte II. El financiamiento de una transición sostenible: inversión para crecer y enfrentar el cambio climático",
+      "nivel": 1,
+      "paginas": "145-244",
+      "resumen": null,
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "Introducción",
+          "nivel": 2,
+          "paginas": "147-150",
+          "resumen": "Presenta la segunda parte del informe: las consecuencias macroeconómicas del cambio climático (capítulo II, con el hallazgo central de una pérdida de PIB de entre 9% y 12% en 2050 para seis países analizados), los mecanismos de financiamiento posibles (capítulo III) y el papel de los bancos centrales y supervisores financieros (capítulo IV). Enmarca a la región como muy vulnerable por su exposición geográfica a sequías, olas de calor y variabilidad de precipitaciones, y por su dependencia de sectores económicos —agricultura, minería, turismo— sensibles al clima. Adelanta que las inversiones de adaptación en línea con las CDN limitarían pero no eliminarían las pérdidas económicas, y que el financiamiento no puede descansar solo en mayor endeudamiento público, sino que requiere movilizar recursos internos, privados e internacionales, además de mecanismos de alivio de deuda.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Capítulo II. Crecimiento y consecuencias fiscales de los choques climáticos en las economías de América Latina y el Caribe",
+          "nivel": 2,
+          "paginas": "151-183",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "Introducción",
+              "nivel": 3,
+              "paginas": "153",
+              "resumen": "Sitúa el análisis en seis países de Centroamérica y el Caribe (Barbados, El Salvador, Guatemala, Honduras, República Dominicana y Santa Lucía) elegidos por su vulnerabilidad geográfica, su dependencia de la agricultura y el turismo, y sus niveles de pobreza y desigualdad. Anticipa los resultados centrales: una pérdida de PIB de entre 9% y 12% hacia 2050 por la agudización de los choques climáticos, una necesidad de inversión de entre 5,3% y 10,9% del PIB anual para compensarla por completo, y un deterioro de la dinámica de la deuda pública si la inversión se limita al nivel más modesto de las CDN.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "hacia 2050 el PIB de los países que integran este grupo podría ser entre un 9% y un 12% más bajo como consecuencia del cambio climático y de la mayor intensidad de los fenómenos meteorológicos graves, en comparación con un escenario contrafáctico de crecimiento tendencial",
+                  "pagina": 153
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "A. Las condiciones climáticas se deterioran y los países de la región están muy expuestos",
+              "nivel": 3,
+              "paginas": "154-155",
+              "resumen": "Documenta la vulnerabilidad estructural de los seis países por su ubicación geográfica (istmo centroamericano propenso a sequías e inundaciones, pequeños Estados insulares expuestos a huracanes del Atlántico) y por desigualdades socioeconómicas que afectan de forma diferenciada a las mujeres en situación de pobreza. Cuantifica el deterioro observado: 38,8% más de superficie centroamericana afectada por sequía extrema entre 1950-1959 y 2010-2019, aumento del nivel del mar en el Caribe de 3,6 mm/año (1993-2020) y máximo histórico de temperatura superficial del mar Caribe en 2020. El número de desastres meteorológicos, hidrológicos y climatológicos en el grupo se duplicó a partir de la década de 2000 respecto de 1960-1989, con pérdidas de producción estimadas en 2% del PIB por las 30 tormentas más letales y daños de 8,9% del PIB en Honduras por los huracanes Eta e Iota en 2020.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "un 38,8% más de superficie terrestre se vio afectada por una sequía extrema de al menos un mes de duración... en el período 2010-2019 en comparación con el período 1950-1959",
+                  "pagina": 154
+                },
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "El número de desastres por década se duplicó con creces a partir de la década de 2000, en comparación con el período comprendido entre los años sesenta y ochenta. Entre 2020 y 2022 se produjeron 35 desastres",
+                  "pagina": 155
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "B. Las estructuras económicas son vulnerables a los choques climáticos y el margen de política fiscal para responder es reducido",
+              "nivel": 3,
+              "paginas": "156-168",
+              "resumen": null,
+              "dimensiones": [],
+              "subsecciones": [
+                {
+                  "seccion": "1. Vulnerabilidad de las estructuras económicas",
+                  "nivel": 4,
+                  "paginas": "156-160",
+                  "resumen": "Explica que el cambio climático perturba de forma inmediata (destrucción de acervo de capital por fenómenos extremos) y progresiva (caída de productividad agrícola y laboral) la estructura productiva de los seis países, muy dependientes de agricultura y turismo. La disminución de precipitaciones redujo 5% la duración de los cultivos de maíz en Centroamérica (1981-2010 frente a 2015-2019), y se proyecta para 2050 una caída del rendimiento agrícola de frijoles (19%), maíz (4%-21%) y arroz (23%) si no se controla el calentamiento; la agricultura representa más de 30% del empleo en Guatemala y Honduras. El turismo, con hasta 80% de las exportaciones totales en Santa Lucía, es igualmente vulnerable: un aumento de 1 metro del nivel del mar inundaría hasta 83% de la infraestructura turística de las Bahamas en escenarios de tormentas fuertes.",
+                  "dimensiones": [
+                    {
+                      "dimension": "diagnostico_estructural",
+                      "cita": "Estos choques serán especialmente intensos para los países del grupo analizado, ya que estos dependen mucho de actividades económicas que se prevé que estén entre las más afectadas por el cambio climático",
+                      "pagina": 156
+                    },
+                    {
+                      "dimension": "estado_de_situacion",
+                      "cita": "han provocado una disminución del 5% en la duración de los cultivos de maíz en Centroamérica entre los períodos 1981-2010 y 2015-2019",
+                      "pagina": 156
+                    }
+                  ],
+                  "subsecciones": []
+                },
+                {
+                  "seccion": "2. Inversión limitada",
+                  "nivel": 4,
+                  "paginas": "160-164",
+                  "resumen": "Documenta que la formación bruta de capital fijo total del grupo bajó de un promedio de 24,3% del PIB en 2000-2009 a 22,0% en 2010-2019, explicada por el desplome de la inversión pública —de 5,3% del PIB en 2000 a 2,7% en 2019, con caídas de 6,7 puntos en Barbados— sin que la inversión privada ni las alianzas público-privadas compensaran esa caída; la inversión privada muestra además una tendencia a la baja desde 2000 con alta volatilidad entre países.",
+                  "dimensiones": [
+                    {
+                      "dimension": "brechas_implementacion",
+                      "cita": "la inversión pública del grupo de países promedió un 2,7% del PIB en 2019, frente a un 5,3% del PIB en 2000, una reducción equivalente a 2,6 puntos porcentuales del PIB",
+                      "pagina": 162,
+                      "subtipo_brecha": "retrospectiva"
+                    }
+                  ],
+                  "subsecciones": []
+                },
+                {
+                  "seccion": "3. Margen fiscal reducido para políticas de inversión activas",
+                  "nivel": 4,
+                  "paginas": "164-168",
+                  "resumen": "Muestra que la deuda pública bruta del grupo aumentó considerablemente en la década de 2010 (hasta 21,2 puntos porcentuales del PIB en Honduras) y se disparó con la pandemia de COVID-19 y los huracanes Eta, Iota, Elsa y Fiona, que generaron gastos de emergencia de hasta 0,8% del PIB en Barbados. Aunque el FMI considera sostenible la deuda de la mayoría de estos países (salvo El Salvador, calificada insostenible), los pagos de intereses equivalen a entre 14% y 24% de los ingresos tributarios y a casi el 100% (o más) de los gastos de capital del gobierno central en Barbados, El Salvador, Honduras y la República Dominicana, lo que limita drásticamente el margen para inversión climática proactiva.",
+                  "dimensiones": [
+                    {
+                      "dimension": "brechas_implementacion",
+                      "cita": "en Barbados, El Salvador, Honduras y la República Dominicana, los pagos de intereses equivalen a casi el 100% (o incluso más) de los gastos de capital del gobierno central",
+                      "pagina": 166,
+                      "subtipo_brecha": "retrospectiva"
+                    },
+                    {
+                      "dimension": "desafios",
+                      "cita": "El elevado servicio de la deuda pública limita mucho la medida en que las políticas fiscales activas apoyan a la inversión para enfrentar el cambio climático",
+                      "pagina": 166
+                    }
+                  ],
+                  "subsecciones": []
+                }
+              ]
+            },
+            {
+              "seccion": "C. Los choques climáticos tendrán efectos negativos en el crecimiento a mediano plazo",
+              "nivel": 3,
+              "paginas": "169-171",
+              "resumen": "Presenta el modelo de crecimiento de Cobb-Douglas aplicado a los seis países (proyección 2025-2050), que incorpora pérdidas de productividad laboral y agrícola y una serie de choques crecientes de fenómenos meteorológicos extremos cada cinco años sobre el acervo de capital. El resultado —PIB entre 9% y 12% menor en 2050 respecto del escenario tendencial— es más severo en El Salvador, Guatemala y Honduras por el peso de la agricultura, y se traduce también en trayectorias de PIB per cápita más bajas, agravando los niveles de pobreza multidimensional ya elevados en Centroamérica y la República Dominicana.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "hacia 2050 el PIB de los países que integran este grupo podría ser entre un 9% y un 12% más bajo... en comparación con un escenario contrafáctico de crecimiento tendencial",
+                  "pagina": 169
+                },
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "El déficit de crecimiento refleja la merma progresiva de la productividad laboral y agrícola provocada por el aumento de las temperaturas",
+                  "pagina": 169
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "D. Las necesidades de inversión para compensar el daño provocado por el cambio climático son excepcionalmente elevadas",
+              "nivel": 3,
+              "paginas": "172-173",
+              "resumen": "Estima que revertir por completo el daño climático exigiría una inversión adicional de entre 5,3% del PIB (El Salvador, Guatemala) y 10,9% del PIB (Honduras) anual entre 2025 y 2050, cifra que coincide con estimaciones internacionales similares (3% a 8% del PIB) para cerrar brechas de infraestructura y alcanzar los Objetivos de Desarrollo Sostenible, aunque estas últimas rara vez incluyen inversión en educación, salud y protección social necesarias para una transición justa.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "se precisaría una inversión adicional equivalente a un promedio de entre el 5,3% del PIB y el 10,9% del PIB anual",
+                  "pagina": 172
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "E. La inversión conforme a las contribuciones definidas a nivel nacional (CDN) limitarían las pérdidas económicas, pero provocarían un deterioro de la dinámica de la deuda",
+              "nivel": 3,
+              "paginas": "173-180",
+              "resumen": "Modela un escenario alternativo de inversión de 1,8% del PIB anual (0,9% adaptación, 0,9% mitigación, siguiendo la CDN de la República Dominicana, con 80% de la inversión en adaptación a cargo del sector público y 60% de la mitigación a cargo del privado). Ese impulso —con adaptación pública anticipada que se duplica a mediados de la década— reduciría la pérdida de PIB en 2050 a entre 5% y 7% frente al escenario tendencial, pero aceleraría la deuda pública en El Salvador, Guatemala, Honduras y Santa Lucía, y la mantendría sobre 100% del PIB en Barbados y la República Dominicana, dado que las tasas de interés efectivas superan 5% en la mayoría de los países (6,2% en Guatemala, 7,0% en Honduras).",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "En el modelo para el escenario de inversión de CDN se fija la inversión anual total en un 1,8% del PIB. De este monto se dedica un 0,9% del PIB por año a acciones de adaptación y un 0,9% del PIB por año a proyectos de mitigación",
+                  "pagina": 174
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "la realización de estas inversiones podría traducirse en niveles de deuda pública en 2050 equivalentes al 100% del PIB o más en Barbados, El Salvador y Santa Lucía, y superiores al 70% del PIB en Honduras",
+                  "pagina": 153,
+                  "subtipo_brecha": "prospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "F. Los costos de financiamiento de las inversiones para hacer frente al cambio climático tendrán un gran impacto en las trayectorias de la deuda",
+              "nivel": 3,
+              "paginas": "181-182",
+              "resumen": "Simula el efecto de financiar la inversión de CDN a una tasa de interés equivalente a la mitad de la tasa efectiva vigente de cada país: la deuda pública se estabilizaría en Santa Lucía, se suavizaría (sin aplanarse) en Guatemala y Honduras, y bajaría —aunque seguiría por sobre el escenario tendencial— en Barbados y la República Dominicana; en El Salvador la dinámica de la deuda seguiría siendo desfavorable incluso con financiamiento concesional, dado que su deuda ya es calificada insostenible por el FMI.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Si las inversiones previstas en las CDN se financiaran en condiciones favorables, definidas como la mitad de la tasa de interés efectiva de cada país del grupo, la dinámica de la deuda pública sería mucho más favorable",
+                  "pagina": 154
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "G. Conclusiones",
+              "nivel": 3,
+              "paginas": "183",
+              "resumen": "Sintetiza que el cambio climático socava el crecimiento potencial del grupo de seis países por su efecto en la productividad y en el acervo de capital, que la inversión necesaria (entre 5,3% y 10,9% del PIB) no tiene precedentes dado el bajo nivel de inversión histórica, que el elevado servicio de la deuda ya limita el margen fiscal disponible, y que reducir el costo de financiamiento climático y movilizar más recursos internos y privados es esencial para hacer viable la inversión a gran escala.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Capítulo III. Una estrategia de financiamiento para impulsar la inversión climática y promover un crecimiento dinámico, sostenido y sostenible",
+          "nivel": 2,
+          "paginas": "191-219",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "Introducción",
+              "nivel": 3,
+              "paginas": "191-192",
+              "resumen": "Presenta el argumento del capítulo: la región depende de sectores vulnerables al clima (agricultura, industrias extractivas) y tiene poca capacidad de respuesta social, por lo que la inversión en adaptación y mitigación es indispensable, pero enfrentará limitaciones fiscales severas —crecimiento proyectado de apenas 0,8% anual entre 2014 y 2023, por debajo de la \"década perdida\" de 1980— y un contexto de tasas de interés y riesgo soberano al alza que complica la emisión y el refinanciamiento de deuda. Anuncia un marco de financiamiento en cuatro ejes: movilización de recursos internos, financiamiento privado innovador, cooperación internacional y mecanismos de alivio de la deuda climática.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "el contexto macrofinanciero actual plantea retos adicionales para la gestión de la deuda pública a corto plazo. La subida de las tasas de interés y el riesgo soberano, así como la volatilidad del mercado financiero, complican la emisión de nueva deuda y el refinanciamiento de los pasivos existentes",
+                  "pagina": 192
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "A. La inversión es esencial para enfrentar el cambio climático y promover el desarrollo sostenible, pero en la región su nivel no es suficiente",
+              "nivel": 3,
+              "paginas": "193-197",
+              "resumen": "Argumenta que la adaptación (infraestructura de transporte, protección costera, agua y saneamiento, salud, investigación y desarrollo) y la mitigación (adopción de tecnologías bajas en carbono ante una matriz energética regional intensiva en combustibles fósiles, sobre todo en el Caribe) son ambas indispensables, con estimaciones de daños históricos de hasta 90% del PIB en Dominica (tormenta Erika, 2015) y 26% del PIB en las Bahamas (huracán Dorian, 2019). Documenta que la inversión total regional (18,4% del PIB en 2022) está por debajo de las economías emergentes de Asia y de las economías avanzadas, y que la inversión pública regional (2,8% del PIB en 2019) es la más baja entre las regiones en desarrollo, muy inferior al 11,7% del PIB de Asia emergente.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "la región destinó apenas el 2,8% del PIB a la inversión pública, frente al 11,7% del PIB de las economías emergentes y en desarrollo de Asia",
+                  "pagina": 196
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "B. La región enfrenta importantes restricciones fiscales para invertir en cambio climático",
+              "nivel": 3,
+              "paginas": "197-202",
+              "resumen": "Muestra que la deuda pública bruta del gobierno central de América Latina pasó de 29,8% del PIB en 2011 a 45,3% en 2019, y se disparó a 56,3% con la pandemia; en el Caribe promedió 69,8% del PIB entre 2011 y 2019 y llegó a 87,6% en 2020, con balances primarios superavitarios que reflejan el elevado servicio de la deuda. Documenta la heterogeneidad entre países (de Guatemala, con bajo endeudamiento y espacio fiscal, a Argentina, Ecuador y Barbados, con procesos de reestructuración) y destaca que la tasa de interés efectiva de la deuda regional (promedio 2011-2022) supera ampliamente la de las economías emergentes de Asia (2,8%) y de las economías avanzadas (1,4%), llegando a 7,6% en el Brasil.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "los niveles de deuda pública tendieron al alza y pasaron del 29,8% del PIB en 2011 al 45,3% del PIB en 2019",
+                  "pagina": 198,
+                  "subtipo_brecha": "retrospectiva"
+                },
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "la tasa de interés efectiva de la deuda bruta del gobierno general de la región es elevada y se sitúa muy por encima del promedio del 2,8% de las economías emergentes y en desarrollo de Asia",
+                  "pagina": 201
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "C. Un marco de financiamiento para la inversión vinculada al cambio climático",
+              "nivel": 3,
+              "paginas": "202-219",
+              "resumen": null,
+              "dimensiones": [],
+              "subsecciones": [
+                {
+                  "seccion": "1. Movilización de recursos internos",
+                  "nivel": 4,
+                  "paginas": "203-210",
+                  "resumen": "Propone aumentar la recaudación tributaria (la región recauda 21,7% del PIB frente al 34,1% de la OCDE) combatiendo la evasión (325.000 millones de dólares perdidos en 2018, 6,1% del PIB regional) y revisando gastos tributarios (3,7% del PIB); alinear el sistema fiscal con objetivos climáticos mediante impuestos al carbono como los de México, Colombia (recuadro III.1) y Chile; aprovechar la asistencia oficial para el desarrollo, aún limitada (concentrada en Centroamérica y el Caribe); profundizar los mercados de capitales nacionales mediante política monetaria verde y bancos nacionales de desarrollo (1.900 millones de dólares anuales en financiamiento climático); y promover compras públicas verdes, que en América Latina representan hasta 5,9% del PIB en el Perú.",
+                  "dimensiones": [
+                    {
+                      "dimension": "propuestas_politica",
+                      "cita": "la CEPAL estima que las pérdidas de ingresos por incumplimiento tributario en la región llegaron a 325.000 millones de dólares en 2018, lo que equivale al 6,1% del PIB regional",
+                      "pagina": 204
+                    }
+                  ],
+                  "subsecciones": []
+                },
+                {
+                  "seccion": "2. Financiamiento privado innovador",
+                  "nivel": 4,
+                  "paginas": "210-216",
+                  "resumen": "Describe el uso extendido de incentivos fiscales para electromovilidad y energías renovables (leyes recientes en Costa Rica, Barbados, Colombia, El Salvador, Jamaica y Nicaragua, cuadro III.2) y la necesidad de gobernanza sólida para evaluarlos. Documenta el crecimiento del mercado de bonos temáticos regionales, de 5.000 millones de dólares en 2019 a 46.000 millones en 2021 (con creciente participación soberana, del 44% al 57% del total), impulsado por bonos sociales durante la pandemia, y el papel creciente pero aún incipiente de los bancos multilaterales de desarrollo (10.800 millones de dólares de financiamiento climático regional en 2021, 70% para mitigación) y la asistencia oficial para el desarrollo vinculada al clima (0,06% del PIB regional en 2010-2019).",
+                  "dimensiones": [
+                    {
+                      "dimension": "propuestas_politica",
+                      "cita": "El valor de los bonos temáticos emitidos por entidades tanto públicas como privadas de la región aumentó de 5.000 millones de dólares en 2019 a 13.000 millones de dólares en 2020 y 46.000 millones de dólares en 2021",
+                      "pagina": 213
+                    },
+                    {
+                      "dimension": "avances_implementacion",
+                      "cita": "los países de la región han ofrecido diversos incentivos fiscales para promover objetivos relacionados con el cambio climático, principalmente dirigidos a esfuerzos de mitigación vinculados con la producción o el uso de energía",
+                      "pagina": 211
+                    }
+                  ],
+                  "subsecciones": []
+                },
+                {
+                  "seccion": "3. Mecanismos de alivio de la deuda climática",
+                  "nivel": 4,
+                  "paginas": "216-219",
+                  "resumen": "Señala que los países del Caribe combinan alta exposición a desastres naturales con niveles de deuda entre los más elevados del mundo (Barbados y Suriname por sobre 120% del PIB), y que los mecanismos de reestructuración existentes —Iniciativa de Suspensión del Servicio de la Deuda, Marco Común del G20— no están diseñados para países de renta media. Propone como respuesta la iniciativa de la CEPAL de crear un Fondo de Resiliencia del Caribe, cita el canje de deuda por conservación ambiental entre Belice y The Nature Conservancy (que redujo en 12 puntos porcentuales del PIB la carga de la deuda del país) como precedente concreto, y recomienda extender cláusulas de desastres y huracanes en la deuda soberana, ya usadas por Granada (2015) y Barbados (2018).",
+                  "dimensiones": [
+                    {
+                      "dimension": "brechas_implementacion",
+                      "cita": "Tampoco existen medidas institucionalizadas de alivio de la deuda (el Club de París es la principal excepción)",
+                      "pagina": 218,
+                      "subtipo_brecha": "retrospectiva"
+                    },
+                    {
+                      "dimension": "propuestas_politica",
+                      "cita": "La CEPAL lidera una iniciativa de canje de deuda por adaptación climática que prevé la creación de un Fondo de Resiliencia del Caribe para proporcionar financiamiento para el desarrollo a largo plazo y bajo costo",
+                      "pagina": 218
+                    }
+                  ],
+                  "subsecciones": []
+                }
+              ]
+            },
+            {
+              "seccion": "D. Conclusiones",
+              "nivel": 3,
+              "paginas": "219",
+              "resumen": "Concluye que la región no invierte lo suficiente para generar crecimiento y resiliencia climática, que el contexto de tasas altas complica un impulso de inversión sin precedentes, y que se requiere un marco de financiamiento integral que combine movilización de recursos internos, inversión privada, cooperación internacional y alivio de deuda climática.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Capítulo IV. El papel de los bancos centrales y los supervisores financieros en el escalamiento de las finanzas y las inversiones sostenibles en América Latina y el Caribe",
+          "nivel": 2,
+          "paginas": "225-244",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "Introducción",
+              "nivel": 3,
+              "paginas": "225",
+              "resumen": "Sitúa el mandato de los bancos centrales y supervisores financieros —transparentar riesgos climáticos, preservar la estabilidad financiera y monetaria, y facilitar mercados de finanzas sostenibles— en el marco del Acuerdo de París (2015), y advierte que el debate internacional sobre ese papel no suele distinguir las mayores restricciones financieras y de capacidad institucional de las economías en desarrollo frente a las avanzadas.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "situar los flujos financieros en un nivel compatible con una trayectoria que conduzca a un desarrollo resiliente al clima y con bajas emisiones de gases de efecto invernadero",
+                  "pagina": 225
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "A. Los riesgos climáticos como fuente de inestabilidad financiera y monetaria: el papel de los bancos centrales y los supervisores financieros",
+              "nivel": 3,
+              "paginas": "226-235",
+              "resumen": null,
+              "dimensiones": [],
+              "subsecciones": [
+                {
+                  "seccion": "1. Los riesgos climáticos como fuente de inestabilidad financiera",
+                  "nivel": 4,
+                  "paginas": "226-228",
+                  "resumen": "Distingue riesgos físicos (impacto directo de fenómenos extremos o cambios graduales del clima) y riesgos de transición (cambios socioeconómicos de la descarbonización), interconectados y con canales de transmisión hacia el sistema financiero —erosión del valor de activos y garantías, pérdidas de aseguradoras, deterioro de la solvencia de deudores, activos inmovilizados— que pueden convertirse en riesgo sistémico. Para América Latina y el Caribe añade fuentes propias de inestabilidad derivadas de la transición: deterioro de términos de intercambio, aumento de deuda pública, presiones inflacionarias y desempleo.",
+                  "dimensiones": [
+                    {
+                      "dimension": "diagnostico_estructural",
+                      "cita": "los riesgos financieros derivados del cambio climático pueden convertirse en fuentes de riesgo sistémico e implicar crisis financieras de gran alcance",
+                      "pagina": 226
+                    }
+                  ],
+                  "subsecciones": []
+                },
+                {
+                  "seccion": "2. Opciones de política macroprudencial ante los riesgos climáticos",
+                  "nivel": 4,
+                  "paginas": "228-231",
+                  "resumen": "Describe el conjunto de instrumentos macroprudenciales disponibles en el marco de Basilea III para abordar riesgos climáticos —divulgación de información, pruebas de estrés, requisitos de capital y liquidez diferenciados, límites de exposición y de crédito a sectores intensivos en carbono (cuadro IV.1)— y advierte que la sola divulgación no corrige las imperfecciones de mercado dada la naturaleza agregada e incierta de los riesgos climáticos. Documenta que solo el 48,5% de los países de la región cuantificó en sus CDN las necesidades de financiamiento para mitigación y adaptación (recuadro IV.1), lo que dificulta calibrar los instrumentos.",
+                  "dimensiones": [
+                    {
+                      "dimension": "propuestas_politica",
+                      "cita": "los instrumentos de política macroprudencial para abordar la urgencia climática se enfocan en facilitar la divulgación y la transparencia de la información respecto a los riesgos climáticos, realizar pruebas de estrés... y ajustar otros instrumentos macroprudenciales específicos",
+                      "pagina": 229
+                    }
+                  ],
+                  "subsecciones": []
+                },
+                {
+                  "seccion": "3. Los riesgos climáticos como fuente de inestabilidad monetaria",
+                  "nivel": 4,
+                  "paginas": "231-235",
+                  "resumen": "Explica que los choques climáticos pueden operar como choques de oferta (menor producción agrícola, alza de precios de alimentos) que enfrentan a los bancos centrales al dilema de estabilizar precios o sostener el crecimiento, y que la persistencia de la inflación climática podría exceder la capacidad de la política monetaria nacional. Señala, con matiz regional (recuadro IV.2), que las economías en desarrollo enfrentan condicionantes adicionales —mayor costo de capital, vulnerabilidad de la balanza comercial y del tipo de cambio, exposición de las reservas internacionales— que limitan aún más su espacio de política durante la transición climática; cita como ejemplos la inclusión de bonos verdes en la cartera de reservas del Banco Central de Chile y la inversión de hasta 2% de las reservas en instrumentos ASG por el Banco Central de Trinidad y Tabago.",
+                  "dimensiones": [
+                    {
+                      "dimension": "diagnostico_estructural",
+                      "cita": "Los choques climáticos pueden manifestarse como choques de demanda y de oferta. Las presiones inflacionarias pueden surgir debido a la disminución de la oferta nacional provocada por el impacto físico del cambio climático",
+                      "pagina": 231
+                    },
+                    {
+                      "dimension": "contexto_antecedentes",
+                      "cita": "el mayor costo de capital que enfrentan las economías en desarrollo dificulta el acceso a fuentes de financiamiento sostenibles, lo que puede crear una trampa de inversión que redunda en un nivel crónico de inversión insuficiente",
+                      "pagina": 234
+                    }
+                  ],
+                  "subsecciones": []
+                }
+              ]
+            },
+            {
+              "seccion": "B. Iniciativas y acciones de los bancos centrales y las autoridades de supervisión financiera en América Latina y el Caribe destinadas a movilizar las finanzas y las inversiones sostenibles",
+              "nivel": 3,
+              "paginas": "235-244",
+              "resumen": null,
+              "dimensiones": [],
+              "subsecciones": [
+                {
+                  "seccion": "1. Divulgación de la información relativa a los riesgos climáticos",
+                  "nivel": 4,
+                  "paginas": "235-237",
+                  "resumen": "Reseña protocolos y guías de divulgación alineados con el Equipo de Tareas sobre la Divulgación de Información Financiera relacionada con el Clima (TCFD) en más de una decena de países —desde el Protocolo Verde de la banca colombiana (2012) hasta la Estrategia Nacional de Finanzas Sostenibles de la Argentina (2023) y la Taxonomía Sostenible de México (2023, 124 actividades en seis sectores)— liderados en general por supervisores financieros y asociaciones bancarias, con enfoque predominante en el sector bancario y carácter mayormente voluntario, lo que limita su capacidad de inducir un cambio radical en las carteras.",
+                  "dimensiones": [
+                    {
+                      "dimension": "avances_implementacion",
+                      "cita": "las iniciativas que ha habido en materia de divulgación y difusión de la información relacionada con el cambio climático se destacan por estar estratégicamente alineadas con los estándares y las mejores prácticas internacionales",
+                      "pagina": 235
+                    }
+                  ],
+                  "subsecciones": []
+                },
+                {
+                  "seccion": "2. Medición de los riesgos financieros derivados del cambio climático y pruebas de estrés",
+                  "nivel": 4,
+                  "paginas": "238-239",
+                  "resumen": "Documenta pruebas de estrés climático exploratorias del Banco Central del Brasil (sequías extremas y lluvias intensas sobre la cartera bancaria), un ejercicio del Banco Central de Colombia sobre el impacto de un impuesto al carbono en el sector bancario, pruebas del Banco de México sobre fenómenos hidrometeorológicos extremos, y dos ejercicios del Banco Central de la República Dominicana (huracán y terremoto) que estiman un aumento de hasta 4,2 puntos porcentuales de la morosidad bancaria. Todos los bancos centrales señalan como límite metodológico el uso de datos históricos y la necesidad de horizontes de 30 a 50 años, muy superiores a los 3-5 años del análisis de riesgo tradicional, lo que hace imprecisas las estimaciones de exposición.",
+                  "dimensiones": [
+                    {
+                      "dimension": "avances_implementacion",
+                      "cita": "el Banco Central del Brasil realizó distintas pruebas de estrés que se presentaron en sus informes de estabilidad financiera... ante los riesgos climáticos vinculados a los fenómenos de sequías extremas",
+                      "pagina": 238
+                    },
+                    {
+                      "dimension": "brechas_implementacion",
+                      "cita": "para realizar pruebas de estrés ante el cambio climático, el horizonte sugerido es de entre 30 y 50 años, lo que redunda en que las estimaciones obtenidas sobre la exposición de las entidades financieras sean imprecisas",
+                      "pagina": 239,
+                      "subtipo_brecha": "prospectiva"
+                    }
+                  ],
+                  "subsecciones": []
+                },
+                {
+                  "seccion": "3. Acciones destinadas a escalar las finanzas sostenibles en los mercados de capital",
+                  "nivel": 4,
+                  "paginas": "239-244",
+                  "resumen": "Describe los mecanismos de financiamiento sostenible disponibles (financiamiento estructurado, mixto, deuda vinculada a resultados) y el crecimiento del mercado regional de bonos temáticos (95.700 millones de dólares acumulados a 2022, concentrado en Brasil, Chile y México). Presenta la evaluación de la Red de Banca y Finanzas Sostenibles sobre el progreso de 12 países en tres pilares —criterios ambientales/sociales/de gobernanza, gestión de riesgos y finanzas sostenibles—, donde Colombia es el único país en etapa de \"consolidación\" (con su Taxonomía Verde de 2022) y el Brasil el más avanzado entre los países en \"implementación\" (exigencia desde 2022 de gestión de riesgos climáticos para todas las instituciones financieras), mientras Chile lidera en desarrollo de mercado pese a estar formalmente en \"preparación\" regulatoria.",
+                  "dimensiones": [
+                    {
+                      "dimension": "avances_implementacion",
+                      "cita": "el volumen acumulado de bonos verdes, sociales y sostenibles de la región había alcanzado los 95.700 millones de dólares, una proporción limitada del mercado global de bonos temáticos",
+                      "pagina": 240
+                    },
+                    {
+                      "dimension": "propuestas_politica",
+                      "cita": "existen por lo menos tres políticas adicionales que pueden incentivar la alineación de los mercados financieros con los objetivos de sostenibilidad: el uso de líneas de financiamiento disponibles para intermediarios financieros; la gestión de la cartera de activos de la banca central, y el apoyo a iniciativas destinadas a desarrollar mercados de finanzas sostenibles",
+                      "pagina": 241
+                    }
+                  ],
+                  "subsecciones": []
+                }
+              ]
+            },
+            {
+              "seccion": "C. Consideraciones finales",
+              "nivel": 3,
+              "paginas": "244",
+              "resumen": "Concluye que los recursos públicos nacionales son la primera línea de financiamiento climático, pero que atraer inversión privada exige que las autoridades financieras no se limiten a mitigar riesgos, sino que impulsen activamente mercados de finanzas sostenibles; reconoce avances desiguales en la región en divulgación y pruebas de estrés, con límites metodológicos persistentes, y recomienda un enfoque precautorio y una mayor coordinación entre política macroprudencial, monetaria y fiscal.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "El documento pasa el test 1 de big_push.md (inversión masiva y coordinada, no reformas fragmentadas): plantea explícitamente que la región necesita \"un gran impulso asociado a la inversión vinculada al cambio climático\" (p.219) y estructura ese impulso como un marco de financiamiento de cuatro ejes coordinados (Diagrama III.1, p.203) que cubre toda la economía (\"estas inversiones tendrían que abarcar toda la economía, impulsando una transformación de la oferta\", p.172), en vez de medidas aisladas. También pasa el test 3 (las tres eficiencias) en al menos dos de sus tres dimensiones: la eficiencia ambiental es obviamente central en todo el documento; la eficiencia keynesiana se conecta explícitamente cuando se señala que la inversión de adaptación y mitigación \"probablemente también generarían un importante nivel de empleo... podrían reducir la pobreza y la desigualdad\" (p.177); y la eficiencia schumpeteriana aparece al vincular la inversión privada en mitigación con \"nuevas tecnologías con bajas emisiones de carbono que aumentarían la productividad y la competitividad de la economía\" (p.176). El test 2 (sectores estratégicos nombrados con instrumento identificable) es el más débil: el documento no ofrece una enumeración de sectores transformadores tan explícita como en otros documentos del corpus, limitándose a áreas de inversión en adaptación (transporte, protección costera, agua y saneamiento, salud, I+D, p.193) sin un diagrama sectorial propio.",
+      "citas": [
+        {
+          "cita": "la región necesita un gran impulso asociado a la inversión vinculada al cambio climático. Para que este enfoque resulte viable, será necesario contar con un marco de financiamiento global que alinee la política fiscal con los objetivos del cambio climático",
+          "pagina": 219
+        },
+        {
+          "cita": "Estas inversiones probablemente también generarían un importante nivel de empleo, lo que podría tener efectos secundarios positivos. Las externalidades positivas también podrían reducir la pobreza y la desigualdad",
+          "pagina": 177
+        },
+        {
+          "cita": "la inversión del sector privado, principalmente en proyectos de mitigación, incorporaría nuevas tecnologías con bajas emisiones de carbono que aumentarían la productividad y la competitividad de la economía",
+          "pagina": 176
+        }
+      ],
+      "nota": "A diferencia de otros documentos del corpus que enumeran sectores transformadores con instrumentos concretos (energía renovable, electromovilidad, bioeconomía), este documento formula el \"gran impulso\" ante todo como un marco de mecanismos de financiamiento (movilización interna, financiamiento privado, cooperación internacional, alivio de deuda) más que como un plan de inversión sectorial; el veredicto \"Sí\" se sostiene porque el test 1 (paquete coordinado, explícitamente llamado \"gran impulso\") está cumplido con fuerza y el test 3 conecta al menos dos de las tres eficiencias de forma explícita, aunque el test 2 quede comparativamente subdesarrollado."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El documento describe la Mesa Público-Privada de Finanzas Verdes de Chile como un mecanismo de coordinación con nombre propio, ya adoptado desde 2019 (no solo propuesto), que integra formalmente a múltiples tipos de actores dentro del ámbito de aplicación del documento: el banco central, la Comisión para el Mercado Financiero, la Superintendencia de Pensiones y asociaciones y entidades del sector financiero privado, y que en 2022 produjo un resultado institucional concreto (la hoja de ruta para la Taxonomía Verde de finanzas). Como evidencia complementaria dentro del ámbito regional, el documento describe la iniciativa liderada por la propia CEPAL —no un ejemplo extrarregional— para crear un Fondo de Resiliencia del Caribe que coordinaría financiamiento de adaptación y reestructuración de deuda para los países del Caribe.",
+      "citas": [
+        {
+          "cita": "En 2019 se crea la Mesa Público-Privada de Finanzas Verdes... en agosto de 2022 se publicó la hoja de ruta para la elaboración de una taxonomía de finanzas verdes, creada de manera conjunta por Climate Bonds Initiative, el Ministerio de Hacienda y la Mesa Público-Privada de Finanzas Verdes, en la que participan el banco central, la CMF, la Superintendencia de Pensiones, y asociaciones y entidades del sector financiero",
+          "pagina": 243
+        },
+        {
+          "cita": "La CEPAL lidera una iniciativa de canje de deuda por adaptación climática que prevé la creación de un Fondo de Resiliencia del Caribe para proporcionar financiamiento para el desarrollo a largo plazo y bajo costo para la inversión en adaptación y mitigación climática",
+          "pagina": 218
+        }
+      ],
+      "nota": "Además de la Mesa chilena, el documento registra \"mesas\" de finanzas sostenibles similares en varios países (Bolivia, Ecuador, Paraguay), pero la evaluación de la Red de Banca y Finanzas Sostenibles (recuadro IV.6) ubica a la mayoría de esos procesos todavía en etapa de \"implementación\" o \"preparación\"; el caso chileno es el que ofrece la evidencia más concreta de una plataforma multiactor ya adoptada con resultados institucionales verificables."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento enumera áreas concretas de inversión climática —transporte, protección costera, abastecimiento de agua y saneamiento, irrigación, atención de salud, investigación y desarrollo, formación de capacidades (p.193)— cumpliendo el primer elemento del criterio, aunque las presenta como necesidades de adaptación más que como \"oportunidades productivas\" en el sentido de nuevos sectores generadores de empleo. El vínculo con empleo y desigualdad queda en una proyección genérica derivada del modelo macroeconómico del capítulo II: que la inversión de adaptación y mitigación \"probablemente también generarían un importante nivel de empleo\" y \"podrían reducir la pobreza y la desigualdad\", sin una cifra propia de empleos creados ni un mecanismo de política nombrado que conecte un sector específico con la reducción de la desigualdad, a diferencia de otros documentos del corpus que enumeran sectores transformadores explícitos con ese vínculo desarrollado.",
+      "citas": [
+        {
+          "cita": "La inversión en adaptación será necesaria en toda la economía, pero sobre todo en la infraestructura en áreas como el transporte, la protección costera, el abastecimiento de agua y el saneamiento, la irrigación y el control del agua. También se necesitan inversiones climáticas en infraestructura \"blanda\" en áreas como la atención de la salud, la investigación y el desarrollo, junto con la formación y creación de capacidad",
+          "pagina": 193
+        },
+        {
+          "cita": "Estas inversiones probablemente también generarían un importante nivel de empleo, lo que podría tener efectos secundarios positivos. Las externalidades positivas también podrían reducir la pobreza y la desigualdad en la medida en que este empleo beneficie a las familias de ingresos bajos y medios y promueva la formalización de la economía",
+          "pagina": 177
+        }
+      ],
+      "nota": "El documento carece de una enumeración de \"sectores transformadores\" con instrumentos nombrados equivalente a la de otros documentos de la serie sobre economía del cambio climático del corpus; sus áreas de inversión están orientadas a resiliencia y mitigación de daños (adaptación) más que a nuevas oportunidades de mercado, y el vínculo con empleo/desigualdad es una proyección de modelo, no una cifra propia verificable ni un mecanismo de política específico."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "El documento no presenta una lista numerada única de recomendaciones, sino que organiza el \"cómo hacerlo\" en los cuatro ejes del marco de financiamiento (Diagrama III.1, p.203), cada uno desarrollado con instrumentos, cifras y ejemplos nombrados y verificables: (1) movilización de recursos internos, con cifras propias de evasión tributaria (325.000 millones de dólares, 6,1% del PIB, p.204) e impuestos al carbono con tasas nombradas por país (recuadro III.1); (2) financiamiento privado innovador, con series de emisión de bonos temáticos por año (p.213) y leyes de incentivo fiscal nombradas por país (cuadro III.2); (3) cooperación internacional, con cifras de financiamiento de bancos multilaterales de desarrollo por país y por sector (gráficos III.14 y III.15); y (4) mecanismos de alivio de la deuda climática, con el ejemplo ya ejecutado del canje de deuda Belice-The Nature Conservancy (reducción de 12 puntos porcentuales del PIB, p.218) y la propuesta nombrada del Fondo de Resiliencia del Caribe. Los cuatro ejes pasan el test de concreción al tener objeto identificable (instrumento, cifra o ejemplo), no solo lenguaje de \"debería\".",
+      "citas": [
+        {
+          "cita": "En el diagrama III.1 se muestran los principales componentes de un marco de financiamiento de inversiones en materia de cambio climático",
+          "pagina": 203
+        },
+        {
+          "cita": "una filial de TNC prestó fondos al país para recomprar su deuda externa pendiente a una tasa de descuento, lo que redujo aproximadamente 12 puntos porcentuales del PIB la carga de la deuda del país",
+          "pagina": 218
+        },
+        {
+          "cita": "En 2021, aportaron 10.800 millones de dólares de financiamiento climático a los países de la región",
+          "pagina": 214
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Movilización de recursos internos: recaudación tributaria (combate a la evasión, revisión de gastos tributarios), impuestos al carbono y ambientales, profundización de mercados de capitales nacionales, compras públicas verdes",
+          "clasificacion": "CONCRETO",
+          "pagina": 204
+        },
+        {
+          "item": "Financiamiento privado innovador: incentivos fiscales específicos por país para electromovilidad y energías renovables, bonos verdes/sociales/de sostenibilidad, financiamiento estructurado y mixto",
+          "clasificacion": "CONCRETO",
+          "pagina": 213
+        },
+        {
+          "item": "Cooperación internacional para el desarrollo: financiamiento climático de bancos multilaterales de desarrollo (incluidos préstamos contingentes ante desastres) y ampliación de la AOD para países de renta media",
+          "clasificacion": "CONCRETO",
+          "pagina": 214
+        },
+        {
+          "item": "Mecanismos de alivio de la deuda climática: Fondo de Resiliencia del Caribe (propuesto por la CEPAL), canjes de deuda por adaptación (caso Belice-The Nature Conservancy) y cláusulas de desastres/huracanes en la deuda soberana",
+          "clasificacion": "CONCRETO",
+          "pagina": 218
+        }
+      ],
+      "tally": "4 de 4 ejes del marco de financiamiento (Diagrama III.1) pasan el test de concreción",
+      "nota": "El documento no ofrece una lista numerada de recomendaciones ítem por ítem; el desglose de arriba aproxima el test de concreción a los cuatro ejes del marco de financiamiento en que el propio capítulo III organiza sus instrumentos de política, siguiendo el mismo criterio aplicado en otros documentos del corpus organizados por bloques temáticos en vez de listas numeradas."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Media"
+    },
+    "transformacion_secundaria": {
+      "numero": 10,
+      "nombre": "Macroeconomía y fiscalidad",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento, en su segunda parte —que concentra el aparato analítico climático propiamente dicho—, procesa la tensión entre la magnitud excepcional de la inversión que exige la adaptación y mitigación climáticas en la región (hasta el 10,9% del PIB anual para compensar íntegramente las pérdidas proyectadas a 2050 en el grupo de seis países analizado en el capítulo II) y el reducido espacio fiscal disponible, caracterizado por una inversión pública regional de solo el 2,8% del PIB en 2019 y tasas de interés efectivas de la deuda muy superiores a las de otras regiones en desarrollo (p.153, 196-197, 202).",
+      "filtro_categoria_primaria": "El objetivo de cambio que persigue la segunda parte del documento no es transformar por sí misma la estructura fiscal o financiera de la región, sino movilizar el financiamiento —interno, privado, internacional y de alivio de deuda— necesario para que los países puedan \"contar con economías resilientes\" e impulsar \"un crecimiento dinámico, sostenido y sostenible\" frente al cambio climático (Introducción, p.149). El diseño de instrumentos fiscales, de mercado de capitales y de política monetaria es, en la propia enunciación del documento, el medio; la resiliencia climática y la transición hacia la neutralidad en carbono son el fin declarado.",
+      "secundaria_obligatoria": "El vehículo analítico dominante a través del cual se persigue esa transformación climática es macroeconómico y fiscal: el capítulo II modela la dinámica de la deuda pública bajo distintos escenarios de inversión climática con el marco de sostenibilidad de deuda del FMI (p.179-182); el capítulo III se dedica íntegramente a instrumentos de recaudación tributaria, mercados de bonos temáticos y mecanismos de alivio de deuda (p.203-219); y el capítulo IV analiza el papel de los bancos centrales y la política macroprudencial y monetaria (p.226-244). De las aproximadamente 100 páginas de la segunda parte del documento, más de 90 están dedicadas a ese aparato fiscal-financiero-monetario, de donde surge la secundaria #10 Macroeconomía y fiscalidad, con certeza Alta dentro de la segunda parte.",
+      "justificacion_anti_copia": "El documento cuantifica la brecha de inversión pública (2,8% del PIB regional en 2019 frente al 11,7% del PIB en las economías emergentes de Asia, p.196), modela trayectorias de deuda pública a 2050 bajo tres escenarios distintos para seis países del Caribe y Centroamérica (p.179-182), y detalla instrumentos fiscales concretos como el impuesto sobre las emisiones de carbono de Colombia (de 15.000 a 20.500 pesos colombianos por tonelada de CO2 eq, recuadro III.1, p.207) y el volumen de bonos temáticos emitidos por la región (95.700 millones de dólares acumulados a 2022, concentrados en el Brasil, Chile y México, p.240), en vez de concentrarse en describir los impactos biofísicos del cambio climático, que ocupan un espacio comparativamente menor (secciones A y C del capítulo II, apenas 5 de las cerca de 100 páginas de la segunda parte).",
+      "validacion_anclas": "Ninguna de las tres anclas registradas en la tabla de TIPOLOGIA_v0.md §3 (primaria #6/secundaria #11 para un caso de resiliencia energética; primaria #6 tentativa/secundaria #9 para un caso de comercio e impuesto fronterizo al carbono; primaria #2/secundaria #6 para un caso de canal causal clima-pobreza) coincide con el patrón de este documento, en el que la segunda parte dedica casi la totalidad de su extensión a instrumentos fiscales, de deuda pública y de banca central. Este documento aportaría una nueva ancla de patrón macro-fiscal para la secundaria #10, análoga en su lógica de método-vs-objeto a la distinción ya registrada entre las anclas #9 (comercio como canal) y #6 (canal causal), pero con un aparato fiscal-financiero-monetario aún más dominante en términos de extensión relativa que en cualquiera de los tres casos ya registrados."
+    },
+    "tipo_documento_climatico": "Informe insignia anual de la CEPAL (Estudio Económico de América Latina y el Caribe, 75ª edición), con una monografía especial de tres capítulos sobre financiamiento climático en su segunda parte; no es un documento monotemático sobre cambio climático, sino un híbrido entre el informe macroeconómico regional estándar de la serie (primera parte, sin contenido climático) y un análisis climático-fiscal especializado (segunda parte).",
+    "nivel_aplicacion": "Regional (América Latina y el Caribe en su conjunto) en la primera parte y en los capítulos III y IV de la segunda parte; subregional (un grupo de seis países de Centroamérica y el Caribe: Barbados, El Salvador, Guatemala, Honduras, República Dominicana y Santa Lucía) en el modelo de crecimiento y deuda del capítulo II.",
+    "ambiguedad_pendiente_validacion": "Dado que la primera parte del documento (Capítulo I, aproximadamente 110 de las 232 páginas del cuerpo) es un panorama macroeconómico regional estándar sin ningún contenido climático, la certeza de la tipología asignada se limita en rigor a la segunda parte, que es la única con relevancia para el corpus climático. Dentro de esa segunda parte, es igualmente defendible leer #10 Macroeconomía y fiscalidad como primaria y #6 Sostenibilidad ambiental como secundaria, dado que el aparato fiscal-financiero-monetario (capítulos II a IV) ocupa una proporción de la extensión aún mayor que el patrón ya registrado como ambiguo en la tabla de anclas. Se prioriza #6 como primaria porque el objetivo de cambio declarado explícitamente en el título y en la introducción de la segunda parte es climático, y el aparato fiscal se presenta en todo momento como el medio para financiar ese objetivo, no como un fin en sí mismo."
+  }
+}

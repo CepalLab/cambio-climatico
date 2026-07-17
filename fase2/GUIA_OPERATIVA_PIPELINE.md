@@ -65,8 +65,16 @@ A partir del texto completo, extraer con evidencia textual (no parafraseo libre)
 - Hallazgos principales (con cifra o cita concreta cuando exista). Cifras no literales (derivadas de un
   gráfico o tabla) se marcan como computadas, indicando la operación — ver la regla de
   [esquema_json_v1.md §2](esquema_json_v1.md).
-- Conclusiones y recomendaciones (distinguiendo explícitamente cuáles son del documento y cuáles son
-  recomendaciones a terceros/gobiernos).
+- **`conclusiones_recomendaciones` como objeto** con dos listas (ver
+  [esquema_json_v1.md](esquema_json_v1.md)):
+  - `conclusiones`: cierre de la pregunta de investigación (síntesis interpretativa, no copia de hallazgos).
+  - `recomendaciones`: qué hacer para que eso cambie (propias del documento vs. dirigidas a
+    terceros/gobiernos, cuando aplique). Si no hay agenda de acción → `[]` + `nota` explícita.
+  - **Test de cierre** (obligatorio antes de dar por cerrada la Etapa 2): releer `pregunta_investigacion` y
+    preguntar *«¿estas conclusiones la responden sin mirar hallazgos ni recomendaciones?»*. Si no →
+    reescribir. El capítulo «Conclusiones» del documento suele mezclar (a) síntesis de lo hallado,
+    (b) agenda de acción y (c) cierre institucional; `conclusiones` se alimenta de (a), no de tomar solo
+    (b)+(c).
 - `resumen_narrativo`: 3-5 oraciones en formato de relato, no de lista. Guardrail anti-genérico: debe fallar
   el test "¿esto podría describir cualquier otro documento del corpus con solo cambiar el título?" —
   incluir al menos 2 elementos verificables y específicos (cifra, mecanismo nombrado, país/subregión,
@@ -80,19 +88,35 @@ traen; los policy briefs cortos no: en ese caso los **encabezados tipográficos 
 sección con:
 
 - Título y rango de páginas de la sección, según la numeración interna del documento.
-- **Estructura anidada por niveles**: se capturan siempre todas las secciones de nivel 1 del índice, en
-  orden, sin excepciones. Se desciende a subsecciones (`subsecciones`, mismo shape, `nivel` 2 o 3) solo
+- **Estructura anidada por niveles**: se capturan las secciones de nivel 1 del índice en orden, **salvo las
+  exclusiones listadas abajo**. Se desciende a subsecciones (`subsecciones`, mismo shape, `nivel` 2 o 3) solo
   cuando el padre supera ~8-10 páginas; nunca se aplanan ni se salta del nivel 1 al nivel 3 sin registrar el
   padre intermedio.
 - **Dimensiones solo en las hojas**: cuando una sección tiene `subsecciones`, el padre lleva
   `"dimensiones": []` — las etiquetas viven en las subsecciones, salvo que el padre tenga contenido propio
   no cubierto por ningún hijo, en cuyo caso ese fragmento sí lleva su propia cita+página.
+- **Dimensiones solo con señal climática/ambiental (docs híbridos)**: se resume todo el índice; se etiquetan
+  dimensiones solo en hojas atingentes al corpus climático. Hojas sin esa señal → `"dimensiones": []`
+  (informativo, no error). Detalle en [codebook_v0.md §1](codebook_v0.md) y
+  [esquema_json_v1.md §2 regla 6bis](esquema_json_v1.md).
+- **Padre-puente vs hoja (aclaración post-Ronda 9)**: si la sección tiene `subsecciones`, su `resumen` es
+  solo un mapa de 2–4 oraciones (función del bloque + qué cubren los hijos) o `null` — **sin** piso
+  proporcional al rango de páginas del padre. El largo proporcional y los requisitos de calidad (a)(b)(c)
+  aplican **solo a las hojas** (secciones sin `subsecciones`). Detalle en
+  [esquema_json_v1.md §2 reglas 2 y 4](esquema_json_v1.md).
 - **El resumen ejecutivo/abstract del documento no se procesa como sección** (su contenido ya alimenta
   `resumen_enriquecido`; procesarlo duplicaría el conteo de dimensiones en el agregado). Se deja constancia
   con `documento.tiene_resumen_ejecutivo: true`.
 - **Los anexos técnicos no se procesan como sección** (metodología detallada, pruebas de robustez, fuentes
-  de datos). No se etiquetan dimensiones sobre su contenido.
-- Resumen de largo proporcional al número de páginas de la sección (~1 línea por página, piso de 3-4 líneas,
+  de datos). No se etiquetan dimensiones sobre su contenido. Se registra `documento.tiene_anexos`.
+- **Bibliografía / Referencias no se procesan como sección** (ni a nivel 1 ni como subsección de capítulo):
+  material de referencia sin señal analítica; `paginas_cuerpo` ya las excluye. Sin fila en
+  `resumen_secciones` — ni siquiera con `dimensiones: []`.
+- **Front-matter editorial y glosarios no se procesan como sección (Ronda 8)**: prólogo, prefacio, mensajes
+  institucionales / "mensajes clave" / key messages, acrónimos y glosario. El pipeline va al cuerpo
+  argumentativo (Introducción → capítulos → Conclusiones). Sin fila, sin dimensiones. Detalle y títulos
+  cubiertos en [esquema_json_v1.md §2 reglas 8–9](esquema_json_v1.md).
+- **Resumen de hoja**: largo proporcional al número de páginas (~1 línea por página, piso de 3-4 líneas,
   sin techo), que incluya (a) el argumento/función de la sección dentro del documento — qué trabajo hace, no
   solo qué temas toca —, (b) cifras o datos clave si los hay, (c) instrumentos/actores/casos nombrados si
   los hay.
@@ -102,12 +126,16 @@ sección con:
 
 ## Etapa 4 — Interpelación institucional
 
-Metodología completa en [INTERPELACION_v0.md](INTERPELACION_v0.md): 4 criterios de la nota conceptual, cada
-uno con veredicto en 3 valores (Sí / Parcial / No — nunca binario), regla anti-copia (evidencia = cita
-textual literal con página, nunca parafraseo de la definición del criterio), y definición operativa por
-criterio. Se aplican los 4 criterios sin excepción a todo documento del corpus, incluso a los de naturaleza
-distinta a una propuesta de política climática (diagnósticos, proyecciones cuantitativas) — en esos casos el
-campo `nota` debe indicar explícitamente esa naturaleza distinta.
+Metodología completa en [INTERPELACION_v0.md](INTERPELACION_v0.md) (**v0.5 / Ronda 9**): 4 criterios de la
+nota conceptual, cada uno con veredicto en 3 valores (Sí / Parcial / No — nunca binario), regla anti-copia
+(evidencia = cita textual literal con página, nunca parafraseo de la definición del criterio), y definición
+operativa por criterio. Se aplican los 4 criterios sin excepción a todo documento del corpus, incluso a los
+de naturaleza distinta a una propuesta de política climática (diagnósticos, proyecciones cuantitativas) — en
+esos casos el campo `nota` debe indicar explícitamente esa naturaleza distinta. Atención Ronda 9: en el
+criterio (iv) desglosar solo la sección de **voz normativa del cierre** (no casos de terceros ni recuadros
+intercalados); en el (ii) mecanismos de gobernanza *vigentes en el ámbito* cuentan, mecanismos de *autoría
+del estudio* no. **Aclaración post-Ronda 9**: listas de lugares/ecosistemas (Amazonas, Gran Chaco, etc.)
+son alcance de un ítem de acción, no N filas del `desglose_items` — ver [INTERPELACION_v0.md §1.4](INTERPELACION_v0.md).
 
 ## Etapa 5 — Tipología de documentos
 
@@ -147,13 +175,12 @@ piloto (ver [PLAN_ANALISIS_PROFUNDO.md §5](PLAN_ANALISIS_PROFUNDO.md)).
 
 ## Revisión ciega externa de veredictos (posterior al lote, fuera de este pipeline)
 
-La parte subjetiva de la salida (interpelación + tipología) se verifica con una **segunda lectura ciega en
-un harness/modelo externo**, corrida por lotes una vez completado el trabajo del ejecutor — no es una etapa
-de este pipeline y no la ejecuta el mismo agente. Instrucciones autocontenidas (insumos exactos, regla de
-ceguera, formato de salida, comparación y adjudicación) en
-[INSTRUCCIONES_REVISOR_EXTERNO.md](INSTRUCCIONES_REVISOR_EXTERNO.md). Para el piloto de la muestra de 17 el
-revisor designado es DeepSeek en OpenCode (Ronda 5); el rol es intercambiable por cualquier harness/modelo
-que pase el protocolo de portabilidad de abajo.
+La parte subjetiva de la salida (interpelación + tipología) se verifica con una **segunda lectura ciega**,
+agnóstica de modelo/harness, corrida **después** del trabajo del ejecutor — no es una etapa de este pipeline
+ni la ejecuta el mismo agente con los JSON del ejecutor a la vista. Instrucciones: [INSTRUCCIONES_REVISOR_EXTERNO.md](INSTRUCCIONES_REVISOR_EXTERNO.md).
+Prompt operativo (**una sesión = un documento**): [PROMPT_SESION_REVISOR_CIEGO.md](PROMPT_SESION_REVISOR_CIEGO.md).
+Para el piloto de la muestra de 17 se había designado DeepSeek en OpenCode (Ronda 5); cualquier harness/modelo
+que respete la ceguera y pase el protocolo de portabilidad es válido — registrar `modelo` y `harness` en el JSON.
 
 **Circuito completo de un lote** (quién hace qué, en orden):
 

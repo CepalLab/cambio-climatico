@@ -31,13 +31,18 @@
       "Las estimaciones de costos de adaptación al cambio climático para ALC son inferiores al 0,5% del PIB regional actual (p.18).",
       "Bajo un escenario inercial (business as usual) con una pérdida anual promedio de 0,8% del PIB al 2025, entre 597 mil y 1,08 millones de personas podrían mantenerse en condición de indigencia y de pobreza, respectivamente, en relación con ese escenario (p.17)."
     ],
-    "conclusiones_recomendaciones": [
-      "Conclusión del documento: el cambio climático es un fenómeno complejo indefectiblemente ligado al estilo de desarrollo, de modo que el desafío del cambio climático es el desafío del desarrollo sostenible (p.29-30).",
-      "Conclusión del documento: los procesos de adaptación y mitigación no son independientes entre sí -la adaptación depende de los niveles de mitigación alcanzados y la adaptación en bosques incide en la mitigación- y ambos exigen transformaciones sustanciales al estilo de desarrollo actual (p.30).",
-      "Recomendación a terceros/gobiernos de la región: es necesario que América Latina y el Caribe incorporen en sus estrategias de desarrollo sostenible procesos oportunos y eficientes de adaptación al cambio climático que además no requieran un acuerdo global (p.18).",
-      "Recomendación a terceros/gobiernos: es indispensable combinar de manera consistente los instrumentos de mercado y las regulaciones para reducir el consumo de gasolinas en un entorno de rápido crecimiento económico (p.24).",
-      "Recomendación a terceros/gobiernos: la transformación al modelo de desarrollo pasa por una nueva matriz de bienes y servicios públicos y privados y por una sociedad más igualitaria, en la que el sistema de transporte público predomine sobre el privado en la movilidad urbana (p.27)."
-    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El cambio climático es un fenómeno complejo indefectiblemente ligado al estilo de desarrollo, de modo que el desafío del cambio climático es el desafío del desarrollo sostenible (p.29-30).",
+        "Los procesos de adaptación y mitigación no son independientes entre sí -la adaptación depende de los niveles de mitigación alcanzados y la adaptación en bosques incide en la mitigación- y ambos exigen transformaciones sustanciales al estilo de desarrollo actual (p.30)."
+      ],
+      "recomendaciones": [
+        "Es necesario que América Latina y el Caribe incorporen en sus estrategias de desarrollo sostenible procesos oportunos y eficientes de adaptación al cambio climático que además no requieran un acuerdo global (p.18).",
+        "Es indispensable combinar de manera consistente los instrumentos de mercado y las regulaciones para reducir el consumo de gasolinas en un entorno de rápido crecimiento económico (p.24).",
+        "La transformación al modelo de desarrollo pasa por una nueva matriz de bienes y servicios públicos y privados y por una sociedad más igualitaria, en la que el sistema de transporte público predomine sobre el privado en la movilidad urbana (p.27)."
+      ],
+      "nota": null
+    },
     "resumen_narrativo": "Este documento de proyecto de la CEPAL, financiado por el programa EUROCLIMA de la Unión Europea y publicado en diciembre de 2015, organiza su argumento en ocho tesis sucesivas que van de la evidencia física del cambio climático (un aumento lineal de 0,85°C entre 1880 y 2012) a la afirmación de que América Latina y el Caribe, con solo el 9% de las emisiones globales de GEI, podría enfrentar costos de entre 1,5% y 5% de su PIB regional ante un aumento de 2,5°C. La octava tesis cierra el argumento con la cifra de transitar de 7 a 2 toneladas de CO2 per cápita hacia 2050 para no superar los 2°C, y con la idea de que el transporte público debería predominar sobre el privado en la movilidad urbana. Buena parte del desarrollo empírico del texto se apoya en encuestas de gasto de los hogares de nueve países (entre ellos Argentina, Brasil, Chile y México) para mostrar que el gasto en gasolina se concentra en los quintiles de mayor ingreso y que la elasticidad ingreso de la demanda de gasolina en la región (0,69 de largo plazo) supera a la de los países de la OCDE (0,55). Con esa evidencia el documento sostiene que el actual patrón de consumo latinoamericano, apoyado en el auge exportador de recursos naturales, está erosionando sus propias bases de sustentación y no es compatible con un desarrollo sostenible."
   },
   "resumen_secciones": [
@@ -234,30 +239,36 @@
         }
       ],
       "subsecciones": []
-    },
-    {
-      "seccion": "Bibliografía",
-      "nivel": 1,
-      "paginas": "31-33",
-      "resumen": "Listado de referencias citadas a lo largo del documento (cerca de 60 entradas), predominantemente en inglés: informes del IPCC (2007, 2013a, 2013b, 2014), estudios del Banco Mundial sobre costos de adaptación, artículos econométricos sobre elasticidad crecimiento-pobreza (Ravallion, Bourguignon, Adams), meta-análisis de elasticidad de la demanda de gasolina, estudios epidemiológicos sobre contaminación atmosférica en ciudades latinoamericanas y documentos previos de la propia CEPAL (Pactos para la igualdad, La economía del cambio climático en ALC). No aporta contenido analítico propio, por lo que no se etiqueta con dimensiones del codebook.",
-      "dimensiones": [],
-      "subsecciones": []
     }
   ],
   "interpelacion": {
     "gran_impulso_ambiental_concreto": {
-      "veredicto": "Parcial",
-      "evidencia": "El documento no propone un paquete coordinado de inversión (test 1 ausente): su octava tesis se limita a señalar que estabilizar las emisiones de GEI 'implica transitar de cerca de 7 a 2 toneladas per cápita en los próximos 35 años' y que la transformación 'pasa por la configuración de una nueva matriz de bienes y servicios públicos y privados... y donde, por ejemplo, el sistema de transporte público predomina en la movilidad urbana' (p.27). Nombra un único instrumento sectorial (transporte público) sin desarrollarlo en un paquete de inversión, pero sí conecta la propuesta con al menos dos de las tres eficiencias (keynesiana, vía 'sociedad más igualitaria', y ambiental, vía estabilización de emisiones), lo que sostiene 'Parcial' en vez de 'No'.",
+      "veredicto": "No",
+      "evidencia": "Test 1 ausente: el documento argumenta que el cambio climático exige 'transformaciones substanciales al actual estilo de desarrollo' y transitar a un desarrollo sostenible, pero no propone un paquete coordinado de inversiones/políticas simultáneas. Test 2 ausente como instrumento: diagnostica patrones de consumo (migración del transporte público al privado, gasolinas) y la necesidad de una 'nueva matriz de bienes y servicios públicos y privados', sin nombrar instrumentos de política identificables (precios del carbono, planes sectoriales, fondos, etc.). Test 3: la dimensión ambiental y la vulnerabilidad de la población pobre están presentes; no hay eficiencia schumpeteriana ni paquete keynesiano de empleo/productividad asociados a sectores verdes. Predomina lenguaje aspiracional/diagnóstico de ocho tesis → No.",
       "citas": [
-        { "cita": "esta transformación al modelo de desarrollo pasa por la configuración de una nueva matriz de bienes y servicios públicos y privados y en una sociedad más igualitaria... el sistema de transporte público predomina en la movilidad urbana", "pagina": 27 }
+        {
+          "cita": "Realizar los procesos de mitigación y adaptarse a las nuevas condiciones climáticas implica transformaciones substanciales al estilo de desarrollo actual.",
+          "pagina": 27
+        },
+        {
+          "cita": "esta transformación al modelo de desarrollo pasa por la configuración de una nueva matriz de bienes y servicios públicos y privados y en una sociedad más igualitaria.",
+          "pagina": 28
+        },
+        {
+          "cita": "Instrumentar, de manera eficiente, estos procesos de adaptación y mitigación implica transformaciones substanciales al actual estilo de desarrollo e implica transitar a un desarrollo sostenible.",
+          "pagina": 30
+        }
       ],
-      "nota": "El documento es, en su mayor parte, un ensayo argumentativo organizado en ocho tesis para vincular cambio climático y estilo de desarrollo, no una propuesta de política climática con un plan de inversión; el gesto hacia la transformación productiva aparece solo en la tesis de cierre (8), de forma sintética y sin desarrollo instrumental, lo cual explica que el veredicto tope en 'Parcial' y no alcance 'Sí'."
+      "nota": "Corregido en adjudicación Ronda 9 (2026-07-16) según revisor ciego."
     },
     "articulacion_actores": {
       "veredicto": "No",
       "evidencia": "En ningún apartado del documento se nombra una institución, plataforma, consejo o mecanismo de coordinación entre actores (gobiernos, sector privado, sociedad civil) para la acción climática; las referencias a coordinación son genéricas, del tipo 'debe ponderarse el mejor momento para instrumentar los procesos de mitigación... y administrar el riesgo' (p.26) o 'requiere identificar estas sinergias que permitan instrumentar... procesos de adaptación y de mitigación' (p.27), sin nombre propio de mecanismo ni evidencia de que exista o esté en diseño.",
       "citas": [
-        { "cita": "una apropiada administración de riesgos para América Latina requiere identificar estas sinergias que permitan instrumentar, en el contexto del desarrollo sostenible, procesos de adaptación y de mitigación", "pagina": 27 }
+        {
+          "cita": "una apropiada administración de riesgos para América Latina requiere identificar estas sinergias que permitan instrumentar, en el contexto del desarrollo sostenible, procesos de adaptación y de mitigación",
+          "pagina": 27
+        }
       ],
       "nota": "El documento es un ensayo de vínculo conceptual entre cambio climático y desarrollo, no un documento operativo sobre gobernanza climática, por lo que no era de esperar que nombrara mecanismos de coordinación institucional; el veredicto 'No' refleja esa ausencia, no una omisión descuidada."
     },
@@ -268,24 +279,30 @@
       "nota": "Chequeo negativo explícito: se revisaron las ocho tesis y las conclusiones buscando enumeración de sectores u oportunidades productivas sostenibles y su vínculo con empleo o productividad; no se encontró ninguna, ya que el documento está centrado en diagnóstico de riesgos, costos y patrones de consumo insostenibles, no en identificar oportunidades económicas emergentes."
     },
     "como_hacerlo_concreto": {
-      "veredicto": "Parcial",
-      "evidencia": "El documento no trae una lista numerada de recomendaciones -a diferencia de un policy brief-, sino cuatro sentencias prescriptivas dispersas en las tesis 5, 6, 7 y 8, evaluadas aquí ítem por ítem: 'procesos oportunos y eficientes de adaptación al cambio climático' (p.18, GENÉRICO, sin entregable), 'combinar de manera consistente los instrumentos de mercado y las regulaciones' (p.24, GENÉRICO, no nombra el instrumento específico pese a citarlo en la bibliografía), 'identificar estas sinergias que permitan instrumentar... procesos de adaptación y de mitigación' (p.27, GENÉRICO, objeto abstracto 'sinergias'), y 'el sistema de transporte público predomina en la movilidad urbana' dentro de la nueva matriz de bienes y servicios (p.27, CONCRETO: nombra el instrumento -predominancia del transporte público- como objeto identificable). Tally: 1 de 4.",
+      "veredicto": "No",
+      "evidencia": "No existe una sección de recomendaciones con ítems operativos enumerados. El capítulo II ('Conclusiones y comentarios generales', pp. 29–30) reexpone las ocho tesis y concluye que el desafío del cambio climático es el del desarrollo sostenible, sin lista de acciones con verbo + objeto específico ejecutable. Las tesis son argumentos analíticos, no un desglose de política. Tally: 0 de 0 ítems operativos — diagnóstico/argumentación sin recomendación operativa.",
       "citas": [
-        { "cita": "el sistema de transporte público predomina en la movilidad urbana", "pagina": 27 }
+        {
+          "cita": "Instrumentar, de manera eficiente, estos procesos de adaptación y mitigación implica transformaciones substanciales al actual estilo de desarrollo e implica transitar a un desarrollo sostenible. En este sentido, el desafío del cambio climático es el desafío del desarrollo sostenible.",
+          "pagina": 30
+        }
       ],
-      "desglose_items": [
-        { "item": "procesos oportunos y eficientes de adaptación al cambio climático", "clasificacion": "GENERICO", "pagina": 18 },
-        { "item": "combinar de manera consistente los instrumentos de mercado y las regulaciones", "clasificacion": "GENERICO", "pagina": 24 },
-        { "item": "identificar estas sinergias que permitan instrumentar... procesos de adaptación y de mitigación", "clasificacion": "GENERICO", "pagina": 27 },
-        { "item": "el sistema de transporte público predomina en la movilidad urbana", "clasificacion": "CONCRETO", "pagina": 27 }
-      ],
-      "tally": "1 de 4 ítems pasan el test de concreción",
-      "nota": "El documento no contiene una sección de recomendaciones enumerada; el desglose se construyó sobre las sentencias prescriptivas dispersas de las tesis 5-8 porque es la única evidencia de 'cómo hacerlo' que ofrece un ensayo organizado por tesis, no por plan de acción."
+      "desglose_items": [],
+      "tally": "0 de 0 ítems pasan el test de concreción (no hay lista operativa de recomendaciones)",
+      "nota": "Corregido en adjudicación Ronda 9 (2026-07-16) según revisor ciego."
     }
   },
   "tipologia": {
-    "transformacion_primaria": { "numero": 6, "nombre": "Sostenibilidad ambiental", "certeza": "Alta" },
-    "transformacion_secundaria": { "numero": 2, "nombre": "Reducción de la desigualdad", "certeza": "Media" },
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 2,
+      "nombre": "Reducción de la desigualdad",
+      "certeza": "Media"
+    },
     "razonamiento_5_pasos": {
       "tension_dialectica": "El documento procesa la tensión entre el dinamismo económico reciente de América Latina -apoyado en el auge exportador de recursos naturales y en la expansión del consumo de los hogares que salieron de la pobreza- y el hecho de que ese mismo patrón de consumo (tránsito del transporte público al privado, mayor gasto en gasolina en los quintiles altos) está, según las propias tesis 6 y 8 del documento, erosionando las bases de sustentación de ese dinamismo y es incompatible con la estabilización climática que requeriría pasar de 7 a 2 toneladas de CO2 per cápita hacia 2050.",
       "filtro_categoria_primaria": "El objetivo explícito del documento (Resumen, p.5) es argumentar que el cambio climático 'está indefectiblemente ligado al estilo de desarrollo' y que su resolución exige 'transformaciones profundas al estilo de desarrollo actual' (Introducción, p.7); el objeto de cambio perseguido es el propio modelo de desarrollo frente a su huella ambiental, no un instrumento sectorial aislado, lo que aterriza en la transformación #6 Sostenibilidad ambiental.",

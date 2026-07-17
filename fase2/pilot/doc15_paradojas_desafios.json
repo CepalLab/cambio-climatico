@@ -30,30 +30,21 @@
       "Las emisiones de gases de efecto invernadero de América Latina y el Caribe representan el 9% de las emisiones mundiales (4,2 GtCO2 eq en 2011); su estructura sectorial difiere de la global: el sector energético concentra el 42% de las emisiones regionales frente al 73% mundial, mientras que la agricultura (28%) y el cambio de uso del suelo (21%) tienen un peso mucho mayor que a nivel global (13% y 5%, respectivamente) (p.70).",
       "La elasticidad-ingreso de la demanda de gasolina en América Latina (0,69 a largo plazo, meta-análisis de 227 estimaciones) es más alta que en los países de la OCDE (0,55), mientras que la elasticidad-precio es menor en valor absoluto (-0,31 frente a -0,41), lo que indica que los mecanismos de precios por sí solos no bastan para frenar el crecimiento del consumo de combustibles fósiles en la región (p.80, cuadro VI.1)."
     ],
-    "conclusiones_recomendaciones": [
-      "Conclusión propia del documento: el desafío del cambio climático es, en última instancia, el desafío del desarrollo sostenible; solo una mayor igualdad y cohesión social, junto con una matriz público-privada coherente, reduce la vulnerabilidad regional y abarata los costos de la mitigación (p.85).",
-      "Conclusión propia del documento: la adaptación al cambio climático no requiere un acuerdo climático global previo y puede atenuar por sí misma los efectos más adversos e irreversibles, pero tiene límites, enfrenta ineficiencias y puede dejar daños residuales, incluso irreversibles (p.67, p.84).",
-      "Recomendación dirigida a gobiernos/terceros: instrumentar de forma simultánea los procesos de adaptación y de mitigación, reconociendo responsabilidades comunes pero diferenciadas y capacidades heterogéneas entre países, en el marco de un acuerdo climático global (p.67, p.85).",
-      "Recomendación dirigida a gobiernos/terceros: combinar los mecanismos de precios (impuestos a combustibles, eliminación de subsidios) con regulaciones y con la construcción de una nueva infraestructura de movilidad, porque el uso exclusivo de los mecanismos de precios no alcanza para reducir el consumo de gasolina en un entorno de crecimiento económico acelerado (p.80-81).",
-      "Recomendación dirigida a los gobiernos de Centroamérica (SICA): adoptar el Mecanismo Internacional de Varsovia para las Pérdidas y los Daños, desarrollar seguros contra riesgos catastróficos y constituir fondos nacionales de cambio climático (p.51, p.55)."
-    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El desafío del cambio climático es, en última instancia, el desafío del desarrollo sostenible; solo una mayor igualdad y cohesión social, junto con una matriz público-privada coherente, reduce la vulnerabilidad regional y abarata los costos de la mitigación (p.85).",
+        "La adaptación al cambio climático no requiere un acuerdo climático global previo y puede atenuar por sí misma los efectos más adversos e irreversibles, pero tiene límites, enfrenta ineficiencias y puede dejar daños residuales, incluso irreversibles (p.67, p.84)."
+      ],
+      "recomendaciones": [
+        "Instrumentar de forma simultánea los procesos de adaptación y de mitigación, reconociendo responsabilidades comunes pero diferenciadas y capacidades heterogéneas entre países, en el marco de un acuerdo climático global (p.67, p.85).",
+        "Combinar los mecanismos de precios (impuestos a combustibles, eliminación de subsidios) con regulaciones y con la construcción de una nueva infraestructura de movilidad, porque el uso exclusivo de los mecanismos de precios no alcanza para reducir el consumo de gasolina en un entorno de crecimiento económico acelerado (p.80-81).",
+        "Adoptar el Mecanismo Internacional de Varsovia para las Pérdidas y los Daños, desarrollar seguros contra riesgos catastróficos y constituir fondos nacionales de cambio climático (p.51, p.55)."
+      ],
+      "nota": null
+    },
     "resumen_narrativo": "Publicado por la CEPAL en febrero de 2015 bajo la coordinación de Luis Miguel Galindo y Joseluis Samaniego, este informe institucional de 95 páginas internas ensambla evidencia física del IPCC, modelos ricardianos de impacto agrícola y datos de gasto por quintiles de nueve países para argumentar que América Latina y el Caribe enfrenta costos económicos del cambio climático de entre el 1,5% y el 5% del PIB regional a 2050, frente a costos de adaptación estimados en menos del 0,5% del PIB. Recorre siete capítulos que van de la evidencia climática global del IPCC a estudios de caso subregionales -Centroamérica, el Caribe, la Argentina, Chile y el Uruguay- y culmina en un capítulo dedicado enteramente a la 'matriz público-privada', donde compara la elasticidad-ingreso de la demanda de gasolina en la región (0,69) con la de los países de la OCDE (0,55) para sostener que los mecanismos de precios no bastan por sí solos para frenar el consumo de combustibles fósiles. A diferencia de una propuesta de política climática con recomendaciones ejecutables, el documento se mantiene mayormente en el registro diagnóstico-cuantitativo, apoyado en decenas de metaanálisis (deforestación, demanda de agua, gasolina, mortalidad por PM10/ozono) para sostener que el desafío del cambio climático es, en última instancia, el desafío de construir un desarrollo sostenible con mayor igualdad."
   },
   "resumen_secciones": [
-    {
-      "seccion": "Prólogo",
-      "nivel": 1,
-      "paginas": "7",
-      "resumen": "Prólogo firmado por la Secretaria Ejecutiva de la CEPAL, Alicia Bárcena, que encuadra el cambio climático como uno de los grandes retos del siglo XXI por sus impactos regionales heterogéneos y asimétricos, y presenta la tesis central del libro: que el desafío del cambio climático es inseparable del desafío del desarrollo sostenible, dado que América Latina y el Caribe combina una contribución histórica menor a las emisiones globales con una alta vulnerabilidad y con patrones productivos y de consumo aún dependientes de energías fósiles.",
-      "dimensiones": [
-        {
-          "dimension": "diagnostico_estructural",
-          "cita": "El reto del cambio climático se asocia a la presencia de patrones productivos y de consumo insostenibles, dependientes del uso de energías fósiles con altas emisiones de carbono. En consecuencia, el cambio climático impone límites y restricciones y obliga a reorientar el paradigma productivo y los patrones de consumo.",
-          "pagina": 7
-        }
-      ],
-      "subsecciones": []
-    },
     {
       "seccion": "Introducción",
       "nivel": 1,
@@ -495,33 +486,64 @@
       "nota": "Chequeo negativo parcial: se buscó una enumeración desarrollada de sectores u oportunidades productivas ligadas explícitamente a empleo o reducción de la desigualdad con cifra propia o instrumento nombrado, y no se encontró; solo aparece la mención aislada citada arriba."
     },
     "como_hacerlo_concreto": {
-      "veredicto": "Parcial",
-      "evidencia": "El documento no tiene, en su capítulo de conclusiones, una lista numerada de recomendaciones; la lista más completa y verificable de acciones concretas es la del recuadro II.2 (seis medidas de política urbana). Aplicando el test de concreción ítem por ítem, 3 de los 6 ítems tienen objeto/entregable identificable (sistemas BRT y redes no motorizadas; redes de monitoreo de calidad del aire con alertas tempranas; cambios en precios relativos de combustibles/automóviles) y 3 son genéricos (incentivos vía 'normas de regulación e instrumentos económicos' sin nombrarlos; mejorar la calidad de los combustibles sin estándar verificable; 'coordinación interregional' como objeto abstracto).",
+      "veredicto": "No",
+      "evidencia": "La sección de cierre operativo es el Cap. VII “Conclusiones y comentarios generales” (pp. 83-85): síntesis diagnóstica sin lista numerada de recomendaciones. El desglose se corre sobre los imperativos de política que ese cierre formula (no sobre el Cuadro IV.1 de medidas posibles, que es catálogo bibliográfico del Cap. IV, ni sobre el resumen ejecutivo). Los ítems son mayoritariamente genericos/aspiracionales (objeto = paradigma o capacidad abstracta). Tally: 0 de 5 pasan el test de concreción → No.",
       "citas": [
         {
-          "cita": "inversión en infraestructura sostenible, como los sistemas de transporte rápido por autobús y las redes para el transporte no motorizado, con criterios de eficiencia, calidad y seguridad, que permitan avanzar hacia un cambio modal en la movilidad urbana",
-          "pagina": 39
+          "cita": "Por ende, en América Latina y el Caribe los mecanismos de precios deben acompañarse de considerables reglamentaciones y la configuración de una nueva infraestructura de movilidad. […] para satisfacer las demandas de movilidad de los nuevos grupos emergentes es necesario constituir una nueva matriz público-privada.",
+          "pagina": 85
         },
         {
-          "cita": "cambios en los precios relativos de los combustibles y de los automóviles, de tal manera que se internalicen las externalidades negativas",
-          "pagina": 39
+          "cita": "resulta imperativo que la región instrumente diversas estrategias de adaptación que reduzcan de manera significativa los costos del cambio climático.",
+          "pagina": 84
+        },
+        {
+          "cita": "Para modificar estas tendencias se requieren transformaciones profundas del paradigma de desarrollo.",
+          "pagina": 85
         }
       ],
       "desglose_items": [
-        { "item": "Inversión en infraestructura sostenible (sistemas de transporte rápido por autobús y redes de transporte no motorizado)", "clasificacion": "CONCRETO", "pagina": 39 },
-        { "item": "Incentivos para disminuir el uso del transporte particular mediante normas de regulación e instrumentos económicos", "clasificacion": "GENERICO", "pagina": 39 },
-        { "item": "Mejorar la calidad de los combustibles para minimizar impactos en la calidad del aire y las emisiones de GEI", "clasificacion": "GENERICO", "pagina": 39 },
-        { "item": "Mejorar los sistemas de información mediante redes de monitoreo de la calidad del aire y alertas tempranas", "clasificacion": "CONCRETO", "pagina": 39 },
-        { "item": "Coordinación interregional de políticas macroeconómicas y sectoriales para garantizar sostenibilidad ambiental y bienestar", "clasificacion": "GENERICO", "pagina": 39 },
-        { "item": "Cambios en los precios relativos de los combustibles y de los automóviles para internalizar externalidades negativas", "clasificacion": "CONCRETO", "pagina": 39 }
+        {
+          "item": "Modificar la matriz energética y la infraestructura proclive a altas emisiones de CO2, con planificación de largo plazo (infraestructura con vida útil hasta 2050).",
+          "clasificacion": "GENERICO",
+          "pagina": 84
+        },
+        {
+          "item": "Instrumentar diversas estrategias de adaptación (incluye medidas precautorias/correctivas, proteger población vulnerable y activos naturales).",
+          "clasificacion": "GENERICO",
+          "pagina": 84
+        },
+        {
+          "item": "Acompañar mecanismos de precios con reglamentaciones y una nueva infraestructura de movilidad.",
+          "clasificacion": "GENERICO",
+          "pagina": 85
+        },
+        {
+          "item": "Constituir una nueva matriz público-privada que satisfaga demandas de movilidad/servicios de grupos emergentes.",
+          "clasificacion": "GENERICO",
+          "pagina": 85
+        },
+        {
+          "item": "Alcanzar un acuerdo mundial que apunte a transitar hacia un desarrollo sostenible basado en igualdad y cohesión social.",
+          "clasificacion": "GENERICO",
+          "pagina": 85
+        }
       ],
-      "tally": "3 de 6 ítems pasan el test de concreción",
-      "nota": "El documento no presenta, en su capítulo de conclusiones (capítulo VII), una lista numerada propia de recomendaciones; la lista desglosada corresponde al recuadro II.2 sobre políticas urbanas, la más completa y verificable del documento para este criterio. Es coherente con la naturaleza mayormente diagnóstica del documento, no de propuesta de política climática integral."
+      "tally": "0 de 5 ítems pasan el test de concreción",
+      "nota": "Corregido en adjudicación Ronda 9 (2026-07-16) según revisor ciego."
     }
   },
   "tipologia": {
-    "transformacion_primaria": { "numero": 6, "nombre": "Sostenibilidad ambiental", "certeza": "Alta" },
-    "transformacion_secundaria": { "numero": 10, "nombre": "Macroeconomía y fiscalidad", "certeza": "Media" },
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 10,
+      "nombre": "Macroeconomía y fiscalidad",
+      "certeza": "Media"
+    },
     "razonamiento_5_pasos": {
       "tension_dialectica": "El documento completo gira sobre la paradoja que titula el libro: un estilo de desarrollo regional (auge exportador de recursos naturales, expansión del consumo privado, matriz energética con emisiones crecientes) que ha reducido la pobreza pero erosiona sus propias bases de sustentación ambiental y social; la tensión no es entre 'clima' y 'economía' en abstracto, sino entre el ritmo de crecimiento actual y la necesidad de una nueva matriz público-privada que sostenga ese crecimiento sin profundizar el deterioro ambiental.",
       "filtro_categoria_primaria": "El objetivo transformador explícito del documento -declarado en el prólogo y retomado en las conclusiones- es la transición de la región hacia un 'desarrollo sostenible' que reconcilie crecimiento, igualdad y bajas emisiones de carbono; los siete capítulos (evidencia física, impactos sectoriales, casos subregionales, adaptación, mitigación, matriz público-privada) están organizados en función de esa meta ambiental, no de una meta distributiva o productiva independiente.",

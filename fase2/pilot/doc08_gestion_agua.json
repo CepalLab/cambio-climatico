@@ -1,0 +1,945 @@
+{
+  "documento": {
+    "num_muestra": 8,
+    "titulo": "Reflexiones sobre la gestión del agua en América Latina y el Caribe. Textos seleccionados 2002-2020",
+    "autoria": "Andrei Jouravlev, Silvia Saravia Matus y Marina Gil Sevilla (compiladores). Autores de los textos originales compilados: M. Ballestero Vargas, J. Bautista Justo, G. Chávez, A. Dourojeanni, A. Embid, M. Hantke-Domas, A. Jouravlev, M. Liber-Justo, T. López Lee, L. Martín, L. Naranjo, H. Peña, F. Saulino, M. Solanes, B. Willaarts y E. Zegarra.",
+    "handle": "https://hdl.handle.net/11362/46792",
+    "simbolo": "LC/M.2021/1",
+    "isbn": "978-92-1-004756-2",
+    "fecha": "2021",
+    "tipo_documento": "Compilación institucional de la colección \"Páginas Selectas de la CEPAL\", que reúne extractos de estudios elaborados entre 2002 y 2020 por la División de Recursos Naturales de la CEPAL, organizados en tres capítulos con múltiples obras fuente. El Capítulo I (gobernanza hídrica, gestión de cuencas, seguridad hídrica y conflictos por el agua) compila cuatro documentos de proyecto/serie distintos (Solanes y Jouravlev, 2005; Dourojeanni, Jouravlev y Chávez, 2002; Peña, 2016; Martín y Bautista Justo, 2015). El Capítulo II (derecho humano al agua potable y saneamiento, y regulación de sus servicios) compila dos (Bautista Justo, 2013; Hantke-Domas y Jouravlev, 2011). El Capítulo III (el Nexo entre el agua, la energía y la alimentación) compila seis estudios conceptuales y de caso (Embid y Martín, 2017; Ballestero y López, 2017; Naranjo y Willaarts, 2020; Peña, 2018; Saulino, 2011; Zegarra, 2018). El cambio climático no es el tema central de ninguna de las tres partes: aparece de forma dispersa como uno de varios factores de riesgo y estrés sobre la gestión hídrica, la generación hidroeléctrica y la seguridad alimentaria.",
+    "paginas_cuerpo": 296,
+    "paginas_totales": 329,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Qué marcos institucionales, legales y de gestión requiere América Latina y el Caribe para lograr una gobernanza hídrica efectiva que resuelva la creciente competencia y los conflictos por el uso del agua (Capítulo I), garantice el derecho humano al agua potable y al saneamiento mediante servicios regulados, eficientes y financieramente sustentables (Capítulo II), y articule de forma coordinada los usos del agua con la energía y la alimentación bajo el enfoque del Nexo (Capítulo III), en un contexto regional de escasez creciente, deterioro ambiental y variabilidad climática?",
+    "alcance": {
+      "ambito_aplicacion": "América Latina y el Caribe en su conjunto, con estudios de caso nacionales y subnacionales específicos: Chile (gobernanza hídrica y reforma del Código de Aguas de 2005; Nexo agua-energía-alimentación 1995-2017), Perú (valle de Ica: sobreexplotación de acuíferos, agroexportación y trasvase Choclococha; Ley de Recursos Hídricos de 2009), Costa Rica (cuenca alta del río Reventazón: interdependencia ICE-AyA-JASEC-SENARA), Argentina (conflictos interjurisdiccionales por el río Atuel, Laguna del Maule transfronteriza en la práctica, caso Tucumán/biocombustibles), Brasil (Agencia Nacional de Aguas, biocombustibles de caña de azúcar), México (Comisión Nacional de Agua, trasvases urbanos, precios de energía para bombeo agrícola), Bolivia (Cochabamba, Ley de la Década del Riego), y numerosos otros casos de país dispersos por capítulo.",
+      "referentes_dependencias": "Estados Unidos (jurisprudencia de derechos de agua, Tennessee Valley Authority, principios regulatorios de servicios públicos), España (Ley de Aguas de 1879, planificación por cuenca desde 1926), Francia (organismos de cuenca, contratos de \"délégation de service public\"), la Unión Europea (Directiva Marco del Agua 2000/60/CE), y organismos internacionales (Banco Mundial, Global Water Partnership, OCDE, IPCC, ONU-Agua, Foro Económico Mundial) como referentes conceptuales y normativos incorporados al análisis regional, sin ser objeto de la propuesta de política del documento.",
+      "sectorial": "Cobertura multisectorial: gobernanza y legislación de aguas, gestión de cuencas, seguridad hídrica, conflictos por el agua, derecho humano al agua potable y saneamiento, regulación económica y tarifaria de servicios públicos de agua, y el nexo intersectorial entre agua, energía (hidroelectricidad, biocombustibles, minería) y alimentación (riego, agroexportación).",
+      "temporal": "Compilación de textos elaborados entre 2002 y 2020 por la División de Recursos Naturales de la CEPAL; los datos y casos analizados cubren principalmente el período 1990-2018, con proyecciones a 2030-2050 (y hasta fin de siglo) en los estudios de impacto del cambio climático sobre la generación hidroeléctrica centroamericana y la disponibilidad hídrica regional."
+    },
+    "hallazgos_principales": [
+      "Casi 166 millones de personas en la región (26% de la población) aún no tienen acceso a un abastecimiento de agua potable que satisfaga los criterios de los Objetivos de Desarrollo Sostenible, y más de 443 millones de personas (69%) todavía no disponen de servicios de saneamiento adecuados (p.14).",
+      "Solo entre el 25% y el 30% de los efluentes urbanos de la región es retornado a los cuerpos de agua con algún grado de tratamiento previo (p.91, p.157).",
+      "En los últimos 30 años la región presentó casi 90.000 pérdidas de vidas humanas por eventos hidrológicos, meteorológicos y climatológicos extremos, que afectaron a unos 150 millones de personas y produjeron daños por más de 120.000 millones de dólares (p.95).",
+      "El sistema glaciar de Choclococha, que trasvasa agua hacia el valle de Ica (Perú), perdió el 90% de su superficie glaciar, con la desaparición de 221 km² de hielo en la Cordillera del Chonta entre 1980 y 2010, atribuida al cambio climático (p.253).",
+      "El acuífero del valle de Ica se explota al 123% de su reserva renovable (hasta 262% en el sector de Villacurí), con un descenso de la napa freática de 1,4 a 1,5 metros por año (más de 4 m/año en Villacurí) y un 70% de los pozos operando sin licencia (p.247-248).",
+      "Un estudio sobre las centrales Chixoy (Guatemala) y Cerrón Grande (El Salvador) proyecta, en el escenario más pesimista, reducciones de generación hidroeléctrica superiores al 20% para 2020, al 40% para 2050 y de más del 70% para Chixoy y Cerrón Grande a fines de siglo (Recuadro I.6, p.85; retomado en el Capítulo III, p.224).",
+      "El fenómeno El Niño, en su forma normal a extraordinaria, podría restar entre el 0,6% y el 1,7% del PIB a los países andinos, particularmente vulnerables por su dependencia del deshielo glaciar (p.224).",
+      "El cambio climático provocaría una pérdida equivalente a alrededor del 1% del producto anual regional entre 2010 y 2100, con un costo mayor en los países andinos, de Centroamérica y el Caribe (Recuadro II.9, p.177, con fuente en CEPAL 2010c).",
+      "Uruguay suscribió en 2014 un préstamo con el Banco Mundial diseñado a raíz de la sequía de 2012, que había forzado sustituir generación hidroeléctrica por energía más costosa procedente de combustibles fósiles y generado un déficit presupuestario (p.209-210).",
+      "En el sector Nexo, de una lista de 7 líneas de política sobre diversificación del portafolio de inversiones en agua, energía y alimentación (p.288), solo 1 (tratar aguas residuales para su reúso agrícola) pasa el test de concreción del pipeline; las 6 restantes son formulaciones genéricas sin instrumento o entregable identificable."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "No existen respuestas únicas ni fáciles que garanticen la gobernabilidad del agua; cada sociedad debe atender sus propias condiciones naturales, estructuras de poder y capacidad de gestión del Estado al diseñar sus arreglos institucionales (p.45).",
+        "Los conflictos por el agua no son incidentales sino estructurales, en buena medida emergentes de una crisis de gobernabilidad no asumida, conjugada con el empoderamiento de los grupos vulnerables (p.113).",
+        "La región no ha incorporado el enfoque del Nexo agua-energía-alimentación en sus políticas, planificación ni regulación, a pesar de su relativa abundancia de recursos naturales, contrapuesta a una escasa capacidad de coordinación intersectorial (p.284)."
+      ],
+      "recomendaciones": [
+        "El agua debe tratarse como el elemento predominante del Nexo, no en pie de igualdad con la energía y la alimentación, y las prioridades deben definirse a escala de cuenca o subregión, no de forma regional genérica (p.284-285).",
+        "Diversificar el portafolio de inversiones en agua, energía y alimentación, incluyendo infraestructura resiliente ante la incertidumbre climática, tratamiento y reúso de aguas residuales, y diversificación de fuentes de energía ante variaciones climáticas (p.288).",
+        "Adoptar una ley de aguas que articule planificación de cuencas, medidas de adaptación al cambio climático y posición prioritaria del consumo humano, junto con mecanismos formales de coordinación entre reguladores sectoriales, sin necesariamente fusionarlos en un ministerio único (p.289).",
+        "Separar las funciones de rectoría, regulación y prestación de los servicios de agua potable y saneamiento en al menos tres organismos formales diferenciados, cada uno con mecanismos propios de rendición de cuentas (p.177-178)."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "El documento es una compilación de la colección \"Páginas Selectas de la CEPAL\" que reúne, en tres capítulos, cuatro estudios sobre gobernanza y conflictos hídricos (2002-2015), dos sobre derecho humano al agua potable y saneamiento (2011-2013), y seis sobre el enfoque del Nexo agua-energía-alimentación (2011-2020), sin que el cambio climático sea el eje organizador de ninguno de ellos. El hilo conductor explícito es la capacidad institucional y legal del Estado para gestionar un recurso escaso y disputado: desde la separación de funciones rectoras, reguladoras y prestadoras en los servicios de agua potable, hasta la creación de entidades de cuenca y consejos de recursos hídricos en el Perú. El cambio climático entra de forma dispersa como uno de los factores de estrés que esa gobernanza debe absorber —el retroceso del 90% de la superficie glaciar del sistema Choclococha que alimenta el valle de Ica, la sequía uruguaya de 2012 que forzó sustituir hidroelectricidad por combustibles fósiles más caros, y proyecciones de caída de hasta 70% en la generación hidroeléctrica de Guatemala y El Salvador a fin de siglo—, pero nunca como el objeto central de ninguna de las tres partes. Sus conclusiones (Capítulo III) reconocen que la región no ha incorporado el enfoque del Nexo en su planificación, y que la mayoría de sus recomendaciones de \"cómo hacerlo\" resultan genéricas salvo la referida al reúso de aguas residuales tratadas para riego."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "13-17",
+      "resumen": "Introducción general que sitúa la trayectoria de trabajo de la CEPAL en materia hídrica desde el Plan de Acción de Mar del Plata (1977) hasta la Agenda 2030, documenta el déficit regional de acceso a agua potable (166 millones de personas, 26%) y saneamiento (443 millones, 69%) pese a la abundancia relativa de recursos hídricos de la región, y anuncia la estructura tripartita del volumen: gobernanza y gestión de cuencas/seguridad hídrica/conflictos (Capítulo I), derecho humano al agua potable y saneamiento (Capítulo II), y el enfoque del Nexo entre agua, energía y alimentación (Capítulo III), presentado como respuesta a la fragmentación sectorial tradicional.",
+      "dimensiones": [
+        {
+          "dimension": "desafios",
+          "cita": "la prestación de estos servicios se ve obligada a adaptarse —lo que es un proceso sumamente complejo y costoso— a las restricciones ambientales que se hacen cada vez más evidentes en la región (por contaminación hídrica tanto puntual como difusa, cambio climático, agotamiento y deterioro de fuentes de captación y proliferación de conflictos relacionados con el agua).",
+          "pagina": 14
+        },
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "en las condiciones actuales de crecientes demandas económicas, sociales y ambientales; mayor competencia por el uso y aprovechamiento de recursos naturales; presión del cambio climático y otras amenazas globales, es de vital importancia comprender, considerar y gestionar las interdependencias e interrelaciones entre el agua, la energía y la alimentación para alcanzar las metas de desarrollo sostenible a largo plazo.",
+          "pagina": 17
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Capítulo I: Gestión integrada de los recursos hídricos",
+      "nivel": 1,
+      "paginas": "19-133",
+      "resumen": null,
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "Parte A: Elementos claves de la gobernanza hídrica",
+          "nivel": 2,
+          "paginas": "21-48",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "Preámbulo: la gobernabilidad del agua",
+              "nivel": 3,
+              "paginas": "21-25",
+              "resumen": "Define la gobernabilidad hídrica como la capacidad social de generar políticas públicas sustentables y llevarlas a la práctica, y diagnostica que la crisis de gobernabilidad regional proviene de la desarmonía entre arreglos institucionales preexistentes y los cambios estructurales de las últimas décadas. Documenta la desconfianza ciudadana en las instituciones públicas, la debilidad de la sociedad civil frente a sectores con mayor poder de facto, los problemas de captura y corrupción (solo Chile, Barbados y Uruguay superan la nota 5 en el Índice de Percepción de la Corrupción de 2004), y los riesgos que los tratados de protección a la inversión plantean para la capacidad regulatoria nacional. Cierra señalando la creciente conciencia pública sobre el agua tras la Cumbre de Johannesburgo (2002) como un factor que favorece la búsqueda de soluciones.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Institucionalidad del sector hídrico: temas críticos",
+              "nivel": 3,
+              "paginas": "26-44",
+              "resumen": "Desarrolla en profundidad los temas jurídico-institucionales centrales del sector: la naturaleza pública del agua y los tres sistemas históricos de otorgamiento de derechos (riberaneidad, primera apropiación, permiso administrativo), con el caso chileno de reforma del Código de Aguas de 2005 (Ley N°20.017) como ejemplo de introducción de patentes por no uso y resguardo del interés público; los mercados de agua y sus condiciones de funcionamiento; la dependencia jerárquica de la autoridad hídrica, contrastando los casos de México (Comisión Nacional de Agua) y Brasil (Agencia Nacional de Aguas) con la experiencia chilena de separación de roles desde 1969; la tensión entre racionalidad económica y demanda social en agua potable/saneamiento (caso Cochabamba, Bolivia) y en la asignación de agua en zonas de escasez; el papel regulador del Estado frente a la privatización de servicios (con el caso argentino de Buenos Aires como ejemplo de fragilidad regulatoria); el dilema ambiental (conservación de caudales, control de contaminación, grandes obras hidráulicas); la protección de usos consuetudinarios indígenas (con el fallo de la Corte Suprema de Chile en el caso de la Comunidad Atacameña de Toconce); la gestión de cuencas transfronterizas; y una síntesis de principios éticos para la gestión integrada del agua. No hay ninguna referencia a cambio climático o variabilidad climática en todo este desarrollo: la única mención al \"clima\" es histórica, sobre cómo las condiciones climáticas (zonas áridas/húmedas) influyeron en la titularidad pública del agua en el derecho medieval francés y español (p.27), sin relación con el cambio climático contemporáneo.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Conclusiones",
+              "nivel": 3,
+              "paginas": "45-48",
+              "resumen": "Cierra la Parte A afirmando que no existen respuestas únicas para la gobernabilidad del agua, dado que cada sociedad tiene condiciones étnicas, culturales, geográficas, institucionales y de capacidad estatal propias que deben orientar el diseño de sus arreglos legales. Presenta un decálogo de \"lecciones y consensos generales\" organizado por materia —legislación de aguas (dominio público, derechos protegidos por la propiedad privada, sistemas de asignación uniformes), prestación de servicios de agua potable y saneamiento (universalidad, tarifas razonables, subsidios focalizados), centralización/descentralización, institucionalidad del agua (autoridad independiente y no colegiada, organismos de cuenca con poderes reales) y entidades de regulación de agua potable y saneamiento (universo regulable manejable, independencia y capacidades legales)— derivado de la experiencia comparada de la región.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Parte B: Gestión del agua a nivel de cuencas",
+          "nivel": 2,
+          "paginas": "49-69",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "Introducción a la gestión del agua a nivel de cuencas",
+              "nivel": 3,
+              "paginas": "49-56",
+              "resumen": "Argumenta que la cuenca es la unidad territorial óptima para la gestión integrada del agua por la naturaleza interconectada, unidireccional y asimétrica de las interrelaciones entre usuarios aguas arriba y aguas abajo, respaldado por la Conferencia de Mar del Plata (1977), la Declaración de Dublín (1992), el capítulo 18 del Programa 21 (Río, 1992) y la Directiva Marco Europea del Agua (2000/60/CE). Discute alternativas y límites de la cuenca como unidad de gestión (hidrológicos, políticos e institucionales) y documenta la extrema variabilidad histórica de las entidades de cuenca en la región —muchas desaparecidas por falta de apoyo sostenido, recursos o claridad de roles— frente al renovado interés reciente impulsado por reformas legales, procesos de descentralización y campañas internacionales de gestión integrada del agua (GWP, 2000; BID). No contiene ninguna mención a cambio climático ni variabilidad climática.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Modalidades de gestión a nivel de cuencas",
+              "nivel": 3,
+              "paginas": "57-64",
+              "resumen": "Propone una clasificación de los enfoques de gestión de cuencas según la etapa del proceso (previa, de inversión, permanente) y el alcance de recursos abarcado (todos los recursos naturales, uso múltiple o sectorial del agua), documentando el auge y posterior declive del modelo de \"desarrollo integral de cuencas\" inspirado en la Tennessee Valley Authority estadounidense (1933) —con las comisiones ejecutivas mexicanas de los años 40-60 y corporaciones como la CVC y la CAR de Colombia como ejemplos regionales—, y lista una decena de modalidades de gestión parcial (protección de cuencas municipales, control de torrentes, manejo de humedales andinos, etc.). Advierte contra mezclar los roles de regulador/administrador del agua con los de usuario o fomento de su aprovechamiento. No hay señal climática en este tramo.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Aspectos operativos e institucionalización de la gestión de cuencas",
+              "nivel": 3,
+              "paginas": "65-69",
+              "resumen": "Identifica tres condiciones para el éxito de una entidad de cuenca (estabilidad político-institucional, apoyo estatal sostenido y demanda clara de los usuarios) y describe los procesos genéricos necesarios para crearla y consolidarla (comunicación, formación de alianzas, legalización de funciones, diagnóstico, consolidación operativa de cada actor, administración, formulación de estrategias), recomendando destinar entre el 5% y el 10% del valor de las obras hidráulicas mayores al sistema de gestión y no menos de 10 años para su consolidación. Cierra distinguiendo la estructura directiva (con capacidad resolutiva, no meramente consultiva) de la estructura operativa (técnica, con personal calificado), citando el caso de la COMCURE de Costa Rica como ejemplo de esa separación de roles. Sin contenido climático.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Parte C: Seguridad hídrica",
+          "nivel": 2,
+          "paginas": "71-98",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "La seguridad hídrica: la definición de un objetivo estratégico",
+              "nivel": 3,
+              "paginas": "71-78",
+              "resumen": "Traza la evolución del concepto de seguridad hídrica desde el II Foro Mundial del Agua (2000) hasta su consolidación como marco integrador de disponibilidad, riesgo aceptable y capacidad de gestión, revisando definiciones de GWP, Grey y Sadoff (2007), Mason y Calow (2012), ONU-Agua (2013) y la OCDE (2013), y proponiendo una definición propia para la región centrada en disponibilidad adecuada, capacidad institucional/financiera/de infraestructura, y nivel aceptable de riesgo. El Foro Económico Mundial (2009, 2015, 2016) sitúa la crisis hídrica como uno de los principales riesgos globales, vinculado explícitamente al cambio climático, la estabilidad económica y el desplazamiento poblacional; el documento advierte además que el análisis de riesgos hídricos en la región no debe restringirse a la variabilidad hidrológica y climática, porque una fuente igualmente importante de amenaza son las dificultades de la sociedad para adaptarse a su propio desarrollo acelerado.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "por su naturaleza, el recurso hídrico es un recurso variable, en términos temporales y espaciales y sujeto a eventos extremos. Esta situación se ve agravada por el cambio climático.",
+                  "pagina": 73
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "El acceso de la población a niveles adecuados de agua potable y saneamiento",
+              "nivel": 3,
+              "paginas": "79-82",
+              "resumen": "Documenta que más de 13 millones de habitantes urbanos de la región no tienen acceso a fuentes mejoradas de agua y casi 61 millones a saneamiento mejorado, con brechas de calidad de servicio (continuidad, control de calidad) aún mayores que las de cobertura nominal; recomienda como meta el acceso universal con conexión domiciliaria, alineado con la Agenda 2030. Identifica tres amenazas a la disponibilidad futura de las fuentes de abastecimiento urbano: intensificación de la aridez y la incertidumbre climática (con el retroceso de glaciares que abastecen a Bogotá, Quito, Lima y La Paz, y el colapso de sistemas rurales chilenos abastecidos por camiones aljibe durante la sequía), cambios de uso del suelo/degradación de cuencas, y el aumento de la demanda urbana.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "el acceso a los servicios también está ligado a las enfermedades trasmitidas por vectores y asociadas al agua, en que además el aumento de temperatura favorece las condiciones climáticas para que se desarrollen nuevos vectores desconocidos o poco frecuentes en la región.",
+                  "pagina": 79
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "En muchas zonas áridas o semiáridas las fuentes que abastecen a grandes ciudades podrían experimentar una disminución del caudal debido al cambio climático... en algunas ciudades (como Bogotá, Quito, Lima y La Paz) una fuente importante de abastecimiento lo constituyen glaciares, los cuales presentan importantes retrocesos a causa del cambio climático (IPCC, 2014).",
+                  "pagina": 81
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "El desarrollo productivo sustentable",
+              "nivel": 3,
+              "paginas": "83-90",
+              "resumen": "Analiza los riesgos hídricos del desarrollo productivo distinguiendo zonas húmedas (donde predomina el riesgo hidroeléctrico y de seguridad energética) de zonas áridas/semiáridas (donde predomina el riego agrícola). Para la generación hidroeléctrica identifica el impacto de sequías y cambio climático y la colmatación de embalses por erosión de cuencas degradadas como principales riesgos, con el Recuadro I.6 documentando proyecciones de caída de generación de más del 70% a fin de siglo para las plantas Chixoy (Guatemala) y Cerrón Grande (El Salvador). Para el riego, discute el balance entre extensión regada y disponibilidad hídrica, el conflicto entre eficiencia de riego y sustentabilidad de caudales de retorno, la sobreexplotación de acuíferos (con hasta 300 mil hectáreas afectadas por salinización en el Perú), y cierra con un análisis extenso de la incertidumbre climática: la región muestra aumento de temperaturas y reducción de precipitaciones en zonas áridas, con una disminución del 25% en precipitación traduciéndose en 50% menos caudal, mayor intensidad de eventos de El Niño/La Niña, y la necesidad de estrategias de adaptación sensibles, proactivas, flexibles, duraderas y robustas frente a un escenario de incertidumbre climática que hace inaplicables los métodos estadísticos convencionales de planificación hidrológica.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "la incertidumbre hidrológica asociada al cambio climático obliga a generar una estrategia de adaptación y a crear sistemas de generación eléctrica suficientemente robustos, diseñados con una matriz diversificada... capaz de asimilar estas incertidumbres con un nivel de riesgo aceptable, que no provoque impactos críticos en el funcionamiento de los países.",
+                  "pagina": 83
+                },
+                {
+                  "dimension": "tendencias",
+                  "cita": "En un estudio realizado de las plantas Chixoy de Guatemala y Cerrón Grande de El Salvador, esta cadena de efectos da como resultado, en el escenario más pesimista, reducciones de la generación superiores al 20% en las dos plantas para el corte 2020 respecto a la generación de los períodos de referencia. Al corte 2050, las reducciones serían superiores al 40% en ambas hidroeléctricas y en más de 80% para Chixoy y 70% para Cerrón Grande a finales del siglo.",
+                  "pagina": 85
+                },
+                {
+                  "dimension": "tendencias",
+                  "cita": "Las modelaciones de los efectos del cambio climático en América Latina y el Caribe muestran un aumento de las temperaturas del aire y, en general, una reducción significativa de las precipitaciones en sus zonas áridas y semiáridas.",
+                  "pagina": 89
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "los desequilibrios en los balances entre la oferta y la demanda en las zonas áridas y semiáridas debido a una menor disponibilidad de recursos hídricos, como resultado de la variabilidad y cambio climático, pueden llegar a ser de gran magnitud y una fuente de grave inseguridad hídrica para los países.",
+                  "pagina": 90
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "La conservación de cuerpos de agua en un estado compatible con la salud y el medioambiente",
+              "nivel": 3,
+              "paginas": "91-95",
+              "resumen": "Diagnostica los principales procesos de deterioro de los recursos hídricos de la región: solo entre 25%-30% de los efluentes urbanos recibe tratamiento previo; contaminación difusa por nitratos y fertilizantes agrícolas (89 a 126 kg/ha entre 2002 y 2013); contaminación industrial y minera concentrada geográficamente (con el caso mexicano de duplicación de la carga orgánica industrial entre 1984-2007); y pérdida de ecosistemas acuáticos y biodiversidad —la región incluye 5 de los 20 países con más fauna amenazada y 7 de los 20 con más flora amenazada—, por contaminación, deterioro de humedales y especies invasoras. El cambio climático se identifica como un cuarto proceso de pérdida de biodiversidad, de relación compleja e incierta con los impactos directos e indirectos, ilustrado con el escenario de \"sabanización\" del Amazonas.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "Los procesos de pérdida de biodiversidad y los cambios en el clima tienen relaciones complejas de difícil predicción... algunas predicciones muestran situaciones que tendrían altos impactos, tales como una \"sabanización\" del Amazonas con una disminución del 30% de la disponibilidad de agua en las regiones sur y sureste del Brasil.",
+                  "pagina": 94
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "La protección de la población contra inundaciones",
+              "nivel": 3,
+              "paginas": "95-98",
+              "resumen": "Documenta la magnitud de los desastres hidrológicos regionales (90.000 muertes y 120.000 millones de dólares en daños en 30 años) y su diversidad de origen (huracanes en el Caribe, grandes inundaciones de llanura en la Cuenca del Plata, aluviones áridos en el norte de Chile, crecidas glaciovolcánicas como la de Armero, Colombia, en 1985, con 23.000 muertos), atribuyéndolos a la débil planificación territorial y a sistemas de drenaje urbano insuficientes frente al crecimiento de las ciudades. Identifica al cambio climático como un factor adicional de agravamiento futuro de este riesgo, con proyecciones diferenciadas de aumento en tormentas tropicales, precipitaciones extremas en el sudeste de Sudamérica y la Amazonia occidental, y crecidas por elevación de la línea de nieves en cuencas cordilleranas.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "Se ha observado en las últimas décadas, en concordancia con los resultados previstos, un aumento en el número e intensidad de las tormentas y huracanes tropicales... Se espera un incremento sustancial de los caudales de crecida, irregularidades en el régimen hídrico y cambios en las condiciones de precipitación de sólida a liquida, en las cuencas nivales y pluvio-nivales de las zonas cordilleranas de Sudamérica.",
+                  "pagina": 98
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Parte D: Conflictos por el uso del agua",
+          "nivel": 2,
+          "paginas": "99-133",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "Marco teórico, tipología de conflictos y propuesta para prevenirlos",
+              "nivel": 3,
+              "paginas": "99-111",
+              "resumen": "Define los conflictos por el agua (CpA) como relaciones antagónicas derivadas de demandas incompatibles sobre un recurso escaso, con rasgos propios (movilidad del ciclo hidrológico, diversidad de usos, interdependencia asimétrica aguas arriba/aguas abajo) que exigen intervención regulatoria estatal. Propone una tipología de seis clases de conflicto —entre usos (caso de la Laguna del Maule, Chile, cuya capacidad cayó de 1.420 a 294 millones de m³ tras dos años de sequía en 2012), entre usuarios (río Tinguiririca, Chile), con actores no usuarios, intergeneracionales (Pascua Lama, en la frontera Chile-Argentina, con la ley argentina de protección de glaciares de 2010), interjurisdiccionales (río Atuel, Argentina; Majes Siguas II, Perú) e institucionales— y cierra proponiendo que la gobernabilidad hídrica se vuelva integral, cooperativa y participativa. No se detectó ninguna vinculación textual explícita entre estos casos y el cambio climático: la sequía del Maule y el retroceso de glaciares en Pascua Lama se presentan como fenómenos hidrológicos/de intervención minera directa, sin calificarlos de climáticos.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "El enfoque del agua basado en derechos humanos (EBDH) y sus instrumentos",
+              "nivel": 3,
+              "paginas": "111-133",
+              "resumen": "Desarrolla el enfoque basado en derechos humanos (EBDH) —originado en la Conferencia Mundial de Derechos Humanos de Viena (1993)— como marco para prevenir y resolver conflictos por el agua mediante empoderamiento, rendición de cuentas y participación, y detalla ocho instrumentos operativos: el derecho humano al agua y al saneamiento (con la jerarquía de usos que prioriza el consumo personal/doméstico sobre el agrícola de subsistencia); la cooperación e integración del derecho internacional de aguas (con el caso de las plantas de celulosa Argentina-Uruguay ante la Corte Internacional de Justicia, y el estado incipiente de ratificación regional de la Convención de Nueva York de 1997); el rol de la comunidad frente al paradigma dominial tradicional (caso Yacyretá, Argentina, con la Corte Suprema rechazando en 2007 la indemnización a un pescador del Paraná por tratarse de dominio público); el acceso a la información bajo el principio de \"Máxima Divulgación\" de la Corte Interamericana de Derechos Humanos, señalando una brecha informativa detectada por la OCDE en 9 de 12 países analizados en 2012; la equidad intergeneracional, con el paso de una visión productivista estática a la noción de \"desarrollo sustentable\" de la Comisión Mundial sobre el Medio Ambiente y el Desarrollo (1987); la gestión integrada de los recursos hídricos (GIRH); el consentimiento libre, previo e informado de comunidades indígenas, con el caso HidroAysén en Chile (cinco represas, 2.750 MW, revocado en 2014) y el estándar fijado por la Corte Interamericana en el caso del Pueblo Saramaka; y los mecanismos judiciales y administrativos de resolución de conflictos. El cambio climático aparece en dos pasajes puntuales, como una variable de incertidumbre que exige mayor flexibilidad normativa y de gestión.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Esa diversidad de regulación por usos no debe ir en detrimento de un enfoque de gestión integrada de los recursos hídricos que compute el cambio climático como variable determinante que exige mayor flexibilidad, capacidad de reacción y adaptación, nivel de información y coordinación.",
+                  "pagina": 119
+                },
+                {
+                  "dimension": "tendencias",
+                  "cita": "La planificación rígida comienza a ser reemplazada por una planificación dinámica, flexible y adaptativa capaz de evolucionar al ritmo de la economía y sociedad pero también de factores como el cambio climático que introducen un importante grado de variabilidad e incertidumbre.",
+                  "pagina": 130
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "Capítulo II: Servicios de agua potable y saneamiento en América Latina y el Caribe",
+      "nivel": 1,
+      "paginas": "135-199",
+      "resumen": null,
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "Parte A: Derecho humano al agua potable y al saneamiento",
+          "nivel": 2,
+          "paginas": "137-163",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "El derecho humano al agua (DHA) en el derecho internacional",
+              "nivel": 3,
+              "paginas": "137-156",
+              "resumen": "Reconstruye la genealogía jurídica del derecho humano al agua (DHA) desde el Plan de Acción de Mar del Plata (1977) hasta la Observación General N°15 del Comité de Derechos Económicos, Sociales y Culturales (2002) y la Resolución 64/292 de la Asamblea General de la ONU (julio de 2010, impulsada por Bolivia y respaldada por 33 países), como reacción tanto a la ola privatizadora centrada en recuperación de costos de los años noventa como al trato tradicional del usuario como \"administrado\" pasivo sin derechos exigibles. Desarrolla el contenido dogmático del DHA (disponibilidad —con estándares mínimos de entre 20 y 50 litros por persona al día—, calidad, accesibilidad física/económica, no discriminación, acceso a la información) y sus obligaciones estatales de respeto, protección y cumplimiento, distinguiendo obligaciones básicas de exigibilidad inmediata de obligaciones progresivas. Se apoya en jurisprudencia de Colombia (varias sentencias de la Corte Constitucional sobre disponibilidad y cortes de servicio), Argentina (casos \"Marchisio\" y \"Conde\"), Sudáfrica (casos \"Bon Vista Mansions\", \"Manquele\" y \"Mazibuko\" sobre medidores prepagos) y Costa Rica, y con el caso de la \"Guerra del Agua\" de Cochabamba, Bolivia (2000, tras un préstamo del Banco Mundial condicionado a participación privada) como hito regional. No hay mención de cambio climático en todo este desarrollo doctrinal.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "El saneamiento como derecho humano y los principios rectores sobre empresas y derechos humanos",
+              "nivel": 3,
+              "paginas": "156-163",
+              "resumen": "Argumenta que el saneamiento, aunque reconocido en la Observación General N°15, tiene menor desarrollo normativo que el DHA propiamente dicho, y le aplica el mismo aparato de disponibilidad/calidad/accesibilidad/asequibilidad/aceptabilidad, señalando que menos del 30% de las aguas servidas de la región recibe tratamiento y unos 121 millones de personas (20%) carecen de saneamiento mejorado. Presenta luego los Principios Rectores de Naciones Unidas sobre Empresas y Derechos Humanos (2011, proceso liderado por John Ruggie desde 2005), que fijan el deber estatal de regular a las empresas prestadoras —incluidas las públicas y los procesos de privatización— y el deber autónomo de respeto empresarial del derecho humano al agua y al saneamiento, independiente del cumplimiento de la ley nacional. Sin contenido climático.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Parte B: Lineamientos de políticas en el sector de agua potable y saneamiento",
+          "nivel": 2,
+          "paginas": "163-199",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "Introducción, factores exógenos y eficiencia de los prestadores",
+              "nivel": 3,
+              "paginas": "163-175",
+              "resumen": "Sintetiza ocho lecciones históricas de la CEPAL en el sector (prioridad política real, sustentabilidad financiera atada al crecimiento nacional, complementariedad eficiencia-equidad, riesgos de reforma impuesta externamente, sesgo comercialista de los tratados de inversión) y documenta las externalidades del sector en salud pública, pobreza y desarrollo económico —la epidemia de cólera de 1991 en el Perú costó más de 700 millones de dólares en exportaciones pesqueras—. Analiza los factores exógenos que condicionan el desempeño sectorial (macroeconomía, pobreza regional de 33,1%, calidad institucional, prioridad política) y contrasta modelos de eficiencia bajo prestación pública y privada, con la inversión regional histórica (2.800 millones de dólares/año, 1990-2008) muy por debajo de los 4.700 millones/año requeridos para el acceso universal a 2020. No se detectó mención de cambio climático en este tramo, salvo la referencia genérica a \"desastres naturales\" como factor exógeno del caso guatemalteco, sin desarrollo climático.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Organización institucional",
+              "nivel": 3,
+              "paginas": "176-178",
+              "resumen": "Propone la arquitectura institucional óptima del sector: separar la gestión de agua potable/saneamiento de la gestión general de recursos hídricos, y crear al menos tres organismos diferenciados —ente rector con jerarquía mínima de viceministerio, agencia reguladora independiente y entidad prestadora con personalidad jurídica propia—, cada uno con mecanismos de rendición de cuentas bien delimitados. El Recuadro II.9, dedicado íntegramente al cambio climático en la región, refuerza el argumento institucional señalando que la variable climática eleva la complejidad de la gestión del recurso hídrico y el riesgo de desastres asociados.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "Si se agrega la variable del manejo del recurso hídrico y la problemática asociada al cambio climático (véase el recuadro II.9) y gestión del riesgo —sequías, inundaciones, deslizamientos de tierra, etc.—, la pregunta sobre las organizaciones formales cobra aún más relevancia.",
+                  "pagina": 176
+                },
+                {
+                  "dimension": "tendencias",
+                  "cita": "Las proyecciones realizadas bajo distintos escenarios indican que existe una alta probabilidad de que se observe un aumento medio de la temperatura de entre 1°C y 6°C, acompañado de modificaciones en los patrones de precipitación con oscilaciones al alza de entre un 5% y un 10% y reducciones de entre un 20% y un 40%... Se estima que el cambio climático provocaría una pérdida equivalente a alrededor de 1% del producto anual entre 2010 y 2100 en los países de la región, costo que sería mayor en los países andinos, de Centroamérica y el Caribe.",
+                  "pagina": 177
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Estructura industrial, regulación, tarifas, ruralidad y globalización",
+              "nivel": 3,
+              "paginas": "179-199",
+              "resumen": "Aborda la consolidación de prestadores urbanos por economías de escala óptimas entre 100 mil y 4 millones de habitantes (con costos unitarios de inversión hasta ocho veces mayores en sistemas pequeños según Phillips, 1993), los fundamentos de la regulación económica como monopolio natural local —con los principios regulatorios de EE.UU./Reino Unido como referencia (retorno razonable, control de precios de transferencia)— y los contratos de concesión de tipo francés (\"délégation de service public\"), cuya duración bajó en la práctica de más de 20 años a 10-12 años. Desarrolla la sustentabilidad tarifaria (la mayoría de los prestadores regionales no logra autofinanciarse) y los subsidios cruzados frente a los subsidios a la demanda, y formula políticas diferenciadas para población rural —heterogénea, dispersa y con presencia de pueblos indígenas— citando como casos de mancomunidades rurales a MANCUERNA (Guatemala), las Asociaciones Administradoras de Acueductos Rurales o ASADAS (Costa Rica) y las Juntas de Saneamiento (Paraguay). Cierra con los tratados bilaterales de inversión frente al derecho humano al agua: la ola de demandas arbitrales ante el CIADI tras la reestatización de operadores privados en la primera década del siglo XXI, y la propuesta de un tratado modelo regional que armonice ambos regímenes, con AquaFed como actor que defiende su compatibilidad. No se detectó ninguna mención explícita de cambio climático o variabilidad climática en estas 21 páginas.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "Capítulo III: El Nexo entre el agua, la energía y la alimentación",
+      "nivel": 1,
+      "paginas": "201-296",
+      "resumen": null,
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "Introducción",
+          "nivel": 2,
+          "paginas": "201-202",
+          "resumen": "Presenta la estructura del capítulo: el contexto institucional y de políticas públicas del enfoque del Nexo en América Latina y el Caribe, seguido de estudios de caso (biocombustibles regionales, valle de Ica en Perú, cuenca del Reventazón en Costa Rica y el caso nacional de Chile), y un cierre de conclusiones/recomendaciones y una guía práctica para el ciclo de formulación de políticas públicas. No menciona cambio climático en estas dos páginas introductorias.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Parte A: El concepto del Nexo",
+          "nivel": 2,
+          "paginas": "203-234",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "El Nexo en las políticas tradicionales y su planificación",
+              "nivel": 3,
+              "paginas": "203-208",
+              "resumen": "Traza el reconocimiento histórico e implícito del Nexo en el orden jerárquico de usos de las leyes de aguas clásicas —con la Ley de Aguas española de 1879 (antecedente de la mayoría de las leyes latinoamericanas) priorizando abastecimiento poblacional sobre riego y energía—, señalando que estas políticas eran productivistas y sin coordinación institucional intersectorial. Describe el paso hacia instrumentos modernos de planificación hídrica vinculante (Ecuador 2014, México y Brasil con planes no vinculantes atados al ciclo presidencial), notando que las planificaciones energéticas de la región solo incorporan el cambio climático como uno de varios \"elementos modernos\" retóricos, sin que ello implique una consideración real del enfoque del Nexo.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "incorporan elementos modernos como energías renovables, eficiencia energética e hídrica, seguridad energética, preocupaciones ambientales y cambio climático.",
+                  "pagina": 207
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Cuestiones adicionales relevantes: Objetivos de Desarrollo Sostenible, financiamiento y seguridad",
+              "nivel": 3,
+              "paginas": "208-212",
+              "resumen": "Vincula el Nexo con la Agenda 2030 (ODS 2, 6, 7 y explícitamente el ODS 13 sobre cambio climático), analiza la necesidad de reflejar en las tarifas el costo de las inversiones en resiliencia climática —con el caso del préstamo entre Uruguay y el Banco Mundial (2014), diseñado tras la sequía de 2012 que forzó sustituir generación hidroeléctrica por combustibles fósiles más caros— y la posibilidad de indexar seguros a variables climáticas. Cierra situando la seguridad hídrica, alimentaria y energética bajo el paradigma de seguridad humana, citando al Foro Económico Mundial (2016) sobre las fallas de mitigación/adaptación climática como uno de los mayores riesgos globales, y al IPCC (2014) sobre riesgos climáticos diferenciados para Sudamérica (disponibilidad hídrica en zonas semiáridas y dependientes de deshielo glaciar) y Centroamérica (inundaciones y deslizamientos).",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "el ODS 13 sobre las medidas para combatir el cambio climático y sus efectos.",
+                  "pagina": 208
+                },
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "el contrato de préstamo suscrito entre el Uruguay y el Banco Mundial en el año 2014, como consecuencia de la sequía del año 2012, que obligó a sustituir la energía hidroeléctrica, imposible de producir en la cantidad requerida a causa de la reducción de agua a turbinar, por la energía más costosa procedente de combustibles fósiles, lo que condujo a un déficit presupuestario.",
+                  "pagina": 209
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "las crisis del agua; ii) los fracasos en las políticas de mitigación y adaptación al cambio climático; iii) los eventos climáticos extremos; iv) las crisis de alimentación; y v) la profunda inestabilidad social.",
+                  "pagina": 211
+                },
+                {
+                  "dimension": "tendencias",
+                  "cita": "Las proyecciones del cambio climático indican, para América del Sur y como riesgo clave, la disponibilidad del agua en las regiones semiáridas y dependientes del deshielo de glaciares, y para América Central, las inundaciones y deslizamientos de tierra debido a la precipitación extrema (IPCC, 2014).",
+                  "pagina": 212
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Dificultades para la implementación del Nexo en la región",
+              "nivel": 3,
+              "paginas": "212-216",
+              "resumen": "Diagnostica tres obstáculos principales para implementar el enfoque del Nexo: la falta de información desagregada sobre usos y consumos hídricos estacionales, la débil gobernabilidad regional que permite a intereses sectoriales obstaculizar la planificación intersectorial, y la marcada heterogeneidad de la matriz energética regional (hidroelectricidad supera 70% en Colombia, Brasil, Perú, Uruguay y Paraguay; la zona andina concentra 65% del petróleo y 34% del gas natural). Cierra señalando el conocimiento insuficiente de las dinámicas locales del Nexo, con el estudio de Meza y otros (2015) sobre cuatro regiones de Chile como referencia metodológica que mapea interacciones prioritarias tanto en la situación actual como bajo condiciones de cambio climático.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "identifican las interacciones prioritarias (minería, sobreexplotación de acuíferos, expansión urbana, hidroelectricidad y agricultura), tanto en la actualidad (véase el diagrama III.1) como en condiciones del cambio climático.",
+                  "pagina": 216
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "El Nexo en la región: derechos humanos, prioridades de uso y primacía práctica de la hidroelectricidad",
+              "nivel": 3,
+              "paginas": "216-221",
+              "resumen": "Argumenta que los estudios sobre el Nexo en la región han omitido el papel de los derechos humanos como eje articulador, documentando que Uruguay (2004), Ecuador (2008), Bolivia (2009) y México (2012) han constitucionalizado el derecho humano al agua, y que Bolivia es el único país que reconoce constitucionalmente los tres derechos (agua, alimentación y electricidad/gas). Analiza luego el orden legal de prioridades de uso del agua (doméstico, agrícola, energético) y muestra que, en la práctica, el sector hidroeléctrico termina imponiéndose por asimetrías de poder y captura regulatoria, pese a que ninguna ley de la región le otorga prioridad formal.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "tal como se sostiene desde el ámbito del cuarto elemento que integra el Nexo en su versión ampliada —el cambio climático—, lo que debe revisarse es el patrón de producción y consumo de energía.",
+                  "pagina": 220
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Interrelaciones entre agua y energía",
+              "nivel": 3,
+              "paginas": "221-225",
+              "resumen": "Analiza la hidroelectricidad como el uso más crítico del Nexo agua-energía (15% de las captaciones mundiales de agua), cuestionando su clasificación simple como \"renovable\" por sus pérdidas por evaporación e impactos aguas abajo, con el Cono Sur (68%) y el Grupo Andino (71%) fuertemente dependientes de esta fuente frente a México (15%). Documenta la vulnerabilidad de la hidroelectricidad a sequías y El Niño —con la caída del consumo hidroeléctrico brasileño en 7% (2013) y 6% más (2014)— y retoma las proyecciones de reducción de generación de Chixoy y Cerrón Grande, así como el impacto de El Niño (-0,6% a -1,7% del PIB de países andinos), recomendando repensar las matrices energéticas y planificar la infraestructura hidroeléctrica dentro de rangos de incertidumbre climática.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "lo que se agrava en el contexto del cambio climático. Esto hace conveniente repensar las matrices energéticas.",
+                  "pagina": 223
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "se ha recomendado que los planes contengan provisiones para operaciones específicas dependiendo del clima y de la demanda de agua... como opciones para adaptarse a esa variabilidad climática.",
+                  "pagina": 224
+                },
+                {
+                  "dimension": "tendencias",
+                  "cita": "En lugar de planes y diseños estáticos, la infraestructura hidroeléctrica tendrá que ser planeada dentro de los rangos de incertidumbre que imponen las tendencias del clima y precipitación para la región.",
+                  "pagina": 224
+                },
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "El fenómeno El Niño afecta con sequía... e inundaciones... Los países andinos son especialmente vulnerables al fenómeno, por lo que un El Niño normal a extraordinario podría restar entre 0.6% y 1.7% PIB a estos países.",
+                  "pagina": 224
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Interrelaciones entre energía y agua",
+              "nivel": 3,
+              "paginas": "225-228",
+              "resumen": "Aborda la desalación como opción de suministro intensiva en energía (3,48 kWh/m³ frente a 0,50 kWh/m³ de captación convencional), con casos de la minería del cobre chilena, el uso urbano mexicano y el Caribe; el ciclo urbano del agua y los trasvases de larga distancia; y el vínculo agricultura-energía a través del bombeo subsidiado, con casos de sobreexplotación de acuíferos en Copiapó y Antofagasta (Chile), el valle de Ica (Perú) y varios estados mexicanos. Cierra señalando que México ha explorado explícitamente el Nexo entre agua, energía y clima para proponer políticas de precios de la energía que desincentiven el bombeo y reduzcan la sobreexplotación de acuíferos.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Esta interacción ha recibido atención desde el enfoque del Nexo entre agua, energía y clima en México, por ejemplo, donde se ha propuesto implementar una política de precios de la energía con el objeto de desincentivar el bombeo para reducir la sobreexplotación de acuíferos y mejorar su uso sustentable.",
+                  "pagina": 228
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Interrelaciones entre agua y alimentación",
+              "nivel": 3,
+              "paginas": "228-231",
+              "resumen": "Desarrolla los conceptos de agua verde/azul y agua virtual (el comercio agrario ahorraría 352.000 millones de m³/año a nivel global), señalando a la región como exportadora neta de agua virtual, con Argentina y Brasil a la cabeza, y destaca la Ley de la Década del Riego 2015-2025 de Bolivia (meta de un millón de hectáreas bajo riego) como instrumento de política nombrado. Cierra con el \"Nexo urbano\" y los retos de servicios de agua potable/saneamiento en una región 80% urbana. No se detectó ninguna mención de cambio climático en este tramo.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Interrelaciones entre agua, energía y alimentación, e identificación de prioridades",
+              "nivel": 3,
+              "paginas": "231-234",
+              "resumen": "Centra el análisis trinómico del Nexo en la biomasa y los biocombustibles, con el riesgo de afectar la producción de alimentos y los bosques —un tercio de los alimentos producidos se pierde, representando 15% de la demanda energética global y 20-30% del uso total de agua—, contrastando el caso de Bolivia (Ley Marco de la Madre Tierra, 2012, que prohíbe los agrocombustibles) con Brasil y Argentina como mayores productores regionales de biocombustibles de primera generación. Cierra con el Recuadro III.1 y el Cuadro III.1, que sintetizan por subregión el grado de relevancia de seis ámbitos de interconexión del Nexo, señalando a la hidroelectricidad a gran escala como la interconexión de mayor riesgo combinado con el cambio y la variabilidad climática para países como Colombia, Venezuela o algunos del Caribe.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "la actividad agrícola genera, globalmente, entre el 10% y el 12% de los gases de efecto invernadero. De la misma forma, la producción de energía eléctrica y de calor contribuye con el 27% al total de las emisiones de estos gases.",
+                  "pagina": 232
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "La hidroelectricidad a gran escala presenta múltiples interconexiones y la dependencia excesiva de esta fuente en consideración del cambio y variabilidad climática amenaza simultáneamente la seguridad hídrica, energética y alimentaria de países como Colombia, Venezuela o algunos del Caribe.",
+                  "pagina": 233
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Parte B: Estudios de caso sobre el Nexo entre agua, energía y alimentación",
+          "nivel": 2,
+          "paginas": "235-283",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "B1: Implicaciones del desarrollo de biocombustibles para la gestión y uso del agua",
+              "nivel": 3,
+              "paginas": "235-245",
+              "resumen": "Analiza los impactos de los biocombustibles en cantidad y calidad del agua a partir de los conceptos de agua azul/verde y eficiencia de riego (con el caso peruano de los valles de Chira y Piura, donde un estudio de la FAO proyecta caída de la confiabilidad del sistema de 75% a 59-70% con la incorporación de nuevas hectáreas de biomasa a 2030) y de los casos brasileño (caña de azúcar; la extracción de agua por tonelada de caña bajó de 15-20 m³ en 1970 a 1 m³ en 2010 gracias a legislación ambiental y cobro por uso del agua) y argentino/Tucumán (vertido de 2,6 millones de m³ anuales de vinaza al sistema hidrológico, de los cuales 1,7 millones llegan a la cuenca del río Salí, por la imposibilidad de fertirrigar suelos ricos en potasio). No se detectó ninguna mención explícita de cambio climático o variabilidad climática en las 11 páginas de este estudio de caso.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "B2: Interrelaciones del Nexo en el valle de Ica, Perú",
+              "nivel": 3,
+              "paginas": "246-259",
+              "resumen": null,
+              "dimensiones": [],
+              "subsecciones": [
+                {
+                  "seccion": "Configuración del Nexo: derechos de agua, sobreexplotación del acuífero y usos sectoriales",
+                  "nivel": 4,
+                  "paginas": "246-252",
+                  "resumen": "Documenta la estructura de derechos de agua de Ica (91% del volumen asignado proviene del acuífero, que representa solo 18% de los derechos) y la sobreexplotación resultante —123% de la reserva explotable, hasta 262% en Villacurí, con descenso de la napa freática de 1,4-1,5 m/año y 70% de los pozos sin licencia— impulsada por el quintuplicamiento de las agroexportaciones entre 2005 y 2015 (de 100 a 500 millones de dólares). Describe la fragmentación de actores (más de 15.600 pequeños agricultores frente a 200 empresas agroexportadoras), el uso poblacional a cargo de la EPS Emapica (con solo 36% de micromedición) y la ausencia de generación hidroeléctrica local, con Electro Dunas vendiendo el 26% de su energía al sector agroindustrial. No hay señal climática en esta configuración de base.",
+                  "dimensiones": [],
+                  "subsecciones": []
+                },
+                {
+                  "seccion": "Ecosistema en el contexto del cambio climático",
+                  "nivel": 4,
+                  "paginas": "253-254",
+                  "resumen": "Vincula explícitamente el retroceso glaciar de las zonas de trasvase (sistema Choclococha, cuenca de Huancavelica) con el cambio climático, documentando una pérdida del 90% de la superficie glaciar y la desaparición de 221 km² de hielo en la Cordillera del Chonta entre 1980 y 2010, con cambio en el régimen de alimentación de las lagunas (de deshielo a lluvias/nevadas) desde 2005, y 944 hectáreas de suelo y cobertura natural afectadas por lluvias intensas entre 2003 y 2013. Distingue este proceso climático de dos problemas de origen antrópico no atribuidos al clima: la vulnerabilidad del acuífero a la contaminación agroquímica, y la desertificación/pérdida de nueve lagunas desde fines de los años 70, incluida la laguna Huacachina, mantenida artificialmente por bombeo desde los años 80.",
+                  "dimensiones": [
+                    {
+                      "dimension": "estado_de_situacion",
+                      "cita": "En algunos casos (especialmente el trasvase de Choclococha y futuros trasvases), la cuenca de Ica recibe agua de zonas relacionadas a glaciares, que han decrecido en las últimas dos décadas debido al cambio climático.",
+                      "pagina": 253
+                    },
+                    {
+                      "dimension": "tendencias",
+                      "cita": "La zona relacionada al sistema Choclococha presenta la pérdida en un 90% de la superficie glaciar y desaparición de glaciares en la Cordillera del Chonta (221 kilómetros cuadrados entre los años 1980 y 2010), así como el cambio de régimen de alimentación de lagunas y pérdida de estabilidad de lagunas y bofedales.",
+                      "pagina": 253
+                    },
+                    {
+                      "dimension": "diagnostico_estructural",
+                      "cita": "las lluvias intensas, sequías y bajas temperaturas, vienen generando impactos negativos sobre el suelo y los ecosistemas de pastizales... en el periodo del 2003-2013, se reportaron un total de 944 hectáreas de suelos y cobertura natural afectados principalmente por las lluvias intensas.",
+                      "pagina": 253
+                    },
+                    {
+                      "dimension": "desafios",
+                      "cita": "Estos efectos del cambio climático ya se han hecho sentir en cuanto al decrecimiento de manera significativa, en las últimas dos décadas, en la oferta de agua que puede ser trasvasada del sistema de lagunas de Choclococha. La situación también afectará a cualquier proyecto futuro que pretenda trasvasar agua desde zonas relacionadas a glaciares andinos.",
+                      "pagina": 253
+                    }
+                  ],
+                  "subsecciones": []
+                },
+                {
+                  "seccion": "Interacciones con actores fuera de la cuenca y desafíos de política pública",
+                  "nivel": 4,
+                  "paginas": "254-259",
+                  "resumen": "Describe el conflicto de más de una década (2005-2015) entre Ica y Huancavelica por el proyecto de trasvase \"Choclococha ampliado\", escalado hasta el Tribunal Latinoamericano del Agua y resuelto parcialmente con inversión en reforestación financiada desde la parte baja de la cuenca, mientras persiste sin solución el conflicto con agricultores de Pisco por el trasvase de aguas excedentes hacia el acuífero de Villacurí. Analiza el nuevo marco institucional de la Ley de Recursos Hídricos del Perú (2009) —que unificó la autoridad de aguas y creó cinco instrumentos económicos— y documenta su débil aplicación en Ica: el régimen de vedas a nuevos pozos desde 2008 fue sistemáticamente incumplido, y la autoridad local debe notificar a las agroexportadoras con tres días de anticipación antes de cualquier inspección, lo que limita su capacidad sancionadora. La mención a la Estrategia Nacional ante el Cambio Climático del Perú aparece solo como un ítem dentro de un listado normativo, sin desarrollo argumental propio.",
+                  "dimensiones": [],
+                  "subsecciones": []
+                }
+              ]
+            },
+            {
+              "seccion": "B3: El Nexo en la cuenca alta del río Reventazón, Costa Rica",
+              "nivel": 3,
+              "paginas": "260-272",
+              "resumen": null,
+              "dimensiones": [],
+              "subsecciones": [
+                {
+                  "seccion": "Identificación de interrelaciones: agua-energía, energía-alimentos y agua-alimentos",
+                  "nivel": 4,
+                  "paginas": "260-264",
+                  "resumen": "Describe el predominio del uso hidroeléctrico del ICE y JASEC en la cuenca, la Reserva Nacional de Energía Hidráulica (Ley N°1657 de 1953) que subordina las concesiones agrícolas a consulta previa del ICE, y la interdependencia institucionalizada entre el ICE y el AyA desde el Embalse El Llano (1963) y el trasvase del Acueducto Orosi (1987), que abastece al 25% de la Gran Área Metropolitana. Documenta la insuficiente infraestructura de riego administrada por SENARA (22 de 32 proyectos regionales construidos desde 1991) y advierte que los agricultores han reducido el número de cosechas anuales por la menor oferta hídrica atribuida al cambio climático, en un contexto de lluvias cada vez más impredecibles.",
+                  "dimensiones": [
+                    {
+                      "dimension": "diagnostico_estructural",
+                      "cita": "Los agricultores han visto reducido el número de cosechas al año, así como el tipo de cultivos, debido a la disminución de la oferta hídrica por los impactos del cambio climático que, en los últimos tres años, se ha manifestado en una prolongada sequía.",
+                      "pagina": 262
+                    },
+                    {
+                      "dimension": "tendencias",
+                      "cita": "Las necesidades de riego están asociadas a la estacionalidad de las lluvias, demandando más agua en la época de verano, aunque la variabilidad climática y los fenómenos extremos hacen que las lluvias sean poco predecibles.",
+                      "pagina": 263
+                    }
+                  ],
+                  "subsecciones": []
+                },
+                {
+                  "seccion": "Análisis de interrelaciones prioritarias: interdependencia ICE-AyA, agua para riego y asignación energética",
+                  "nivel": 4,
+                  "paginas": "265-272",
+                  "resumen": "Detalla la historia institucional del Acueducto Orosi 1 (1983-1987, financiado con un préstamo del Banco Mundial de 40 millones de dólares) que abastece a 750 mil personas (25% de la Gran Área Metropolitana) mediante un convenio AyA-ICE avalado por la Contraloría, señalando el riesgo de que esta interdependencia hoy pacífica se vea afectada si la disponibilidad de agua cambia por efecto del cambio climático. Documenta también, con la Ley N°3300 (1964) que creó JASEC, cómo el cambio climático ha modificado los períodos de precipitación, la escorrentía y la recarga de acuíferos en la subcuenca del río Birrís, alterando las prácticas de cultivo en la parte alta de la cuenca, y recomienda fortalecer el carácter vinculante de la Comisión de la Cuenca del Reventazón (COMCURE) y avanzar en un proyecto de ley de gestión integrada de recursos hídricos.",
+                  "dimensiones": [
+                    {
+                      "dimension": "desafios",
+                      "cita": "Hasta la fecha esta interconexión ha tenido una dinámica positiva y no ha habido conflictos, pero esta situación podría cambiar si las necesidades de agua para todos los usos se incrementasen a futuro o si la disponibilidad de agua se viese afectada, por ejemplo, como consecuencia del cambio climático.",
+                      "pagina": 267
+                    },
+                    {
+                      "dimension": "diagnostico_estructural",
+                      "cita": "Aunado a lo anterior, el cambio climático ha modificado los períodos de precipitación, la escorrentía y la recarga de acuíferos, lo que provoca, a su vez, una alteración en las prácticas de cultivo en la parte alta de la cuenca.",
+                      "pagina": 268
+                    }
+                  ],
+                  "subsecciones": []
+                }
+              ]
+            },
+            {
+              "seccion": "B4: El Nexo en Chile (1995-2017)",
+              "nivel": 3,
+              "paginas": "273-283",
+              "resumen": null,
+              "dimensiones": [],
+              "subsecciones": [
+                {
+                  "seccion": "Contexto de la transformación y reforma legal, ambiental y energética",
+                  "nivel": 4,
+                  "paginas": "273-275",
+                  "resumen": "Sitúa la transformación chilena 1995-2017 en tres factores clave: la crisis del gas argentino desde 1997 (con racionamiento eléctrico evitado mediante la planta de GNL de Quintero desde 2009), la creciente competitividad de las energías renovables no convencionales, y las sequías persistentes de las últimas décadas, parcialmente relacionadas con el cambio climático según el Centro de Ciencia del Clima y la Resiliencia (CR2, 2015). Documenta la reforma ambiental (Ley de Bases Generales del Medio Ambiente de 1994, reforma institucional de 2010-2012 con creación del Ministerio de Medio Ambiente) y la reforma del Código de Aguas de 2005, que introdujo patentes por derechos no utilizados y caudales ecológicos obligatorios tras más de 12 años de debate legislativo.",
+                  "dimensiones": [
+                    {
+                      "dimension": "contexto_antecedentes",
+                      "cita": "las persistentes sequías observadas en el país en las últimas décadas, parcialmente relacionadas con el fenómeno del cambio climático.",
+                      "pagina": 273
+                    }
+                  ],
+                  "subsecciones": []
+                },
+                {
+                  "seccion": "Matriz energética, riego bajo escasez y universalización de servicios públicos",
+                  "nivel": 4,
+                  "paginas": "275-279",
+                  "resumen": "Documenta la caída de la participación hidroeléctrica de 40% a 32% (1990s-2015) por desincentivos regulatorios y el abandono de proyectos como HidroAysén, frente al auge de precios competitivos de licitación de renovables (de 128 a 33 dólares/MWh entre 2013 y 2017) y capacidad solar instalada (de 7 a 1.769 MW). El riego tecnificado creció de 92 mil a más de 300 mil hectáreas impulsado por la Ley N°18.450, con la sobreexplotación de acuíferos llevando a más de 300 sectores declarados de restricción desde 2005; el texto describe esta expansión como concentrada en \"cuencas más vulnerables a la variabilidad hidrológica\", sin calificar explícitamente esa variabilidad de climática. Cierra con la universalización casi completa del agua potable rural y la cobertura eléctrica rural, que pasó de 53% (1994) a cerca de 98% en la actualidad.",
+                  "dimensiones": [],
+                  "subsecciones": []
+                },
+                {
+                  "seccion": "Espacios de complementación entre el uso del agua y la demanda de energía",
+                  "nivel": 4,
+                  "paginas": "279-283",
+                  "resumen": "Cuantifica el consumo energético del sector hídrico chileno (minería, riego y servicios sanitarios) en torno a 3 TWh, un 4% del consumo eléctrico nacional, destacando la desalación minera en el norte (que se proyecta crecerá 290% entre 2016 y 2028) y describe mecanismos concretos de complementación: minicentrales hidroeléctricas instaladas en canales de riego de la cuenca del Maule (asociaciones Canal Maule y Canal Melado), el convenio entre Colbún y la Asociación de Regantes Maule Sur que logró un ahorro de agua de riego del 29% en la temporada 2016-2017, y más de 2.500 instalaciones solares de apoyo al riego. No se detectó mención de cambio climático en este tramo.",
+                  "dimensiones": [],
+                  "subsecciones": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "seccion": "Parte C: Conclusiones y propuestas",
+          "nivel": 2,
+          "paginas": "284-296",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "C1: Conclusiones y recomendaciones generales de gobernanza del Nexo",
+              "nivel": 3,
+              "paginas": "284-287",
+              "resumen": "Concluye que los países de la región no han incorporado el enfoque del Nexo en sus políticas, planificación ni regulación, pese a su relativa abundancia de recursos naturales, y recomienda que el agua sea el elemento predominante del Nexo —no en pie de igualdad con energía y alimentación— y que las prioridades se definan a escala de cuenca o subregión, no a nivel regional genérico, situando la satisfacción de los derechos económicos, sociales y culturales al agua y la alimentación como primer objetivo. Diagnostica serias deficiencias de gobernabilidad regional y una planificación hidrológica de cuenca que en la práctica es \"mayoritariamente teórica, falta de realizaciones prácticas\", y cierra señalando que el enfoque del Nexo puede ser una vía para enfrentar el cambio climático mientras se diversifican los patrones de desarrollo no sostenibles de la región.",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "el enfoque del Nexo puede constituir una oportunidad para enfrentar de forma eficaz el cambio climático, al tiempo que se modifican patrones de desarrollo no sustentables.",
+                  "pagina": 287
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "C1: Recomendaciones de diversificación de inversiones y propuestas institucionales",
+              "nivel": 3,
+              "paginas": "288-292",
+              "resumen": "Presenta una lista de siete líneas de política para diversificar el portafolio de inversiones en agua, energía y alimentación —preservar fuentes de agua para consumo humano, planificar infraestructura resiliente ante la incertidumbre climática, tratar aguas residuales para reúso agrícola, diversificar fuentes de energía, fomentar renovables locales, incrementar eficiencia hídrica/energética y reducir el monocultivo/deforestación—, de las cuales solo la referida al tratamiento y reúso de aguas residuales identifica un instrumento y entregable concreto. Recomienda además construir consenso político amplio y de largo plazo, generar información precisa sobre los tres sectores, coordinar formalmente a los reguladores sectoriales sin fusionarlos en un ministerio único, e incorporar el derecho humano al agua/energía/alimentación y medidas de adaptación al cambio climático en una ley de aguas moderna.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Planificar, diseñar y construir infraestructuras bajo el enfoque del Nexo dentro de los rangos de incertidumbre que imponen las tendencias de cambio climático para la cuenca en cuestión, resilientes y adaptables que contribuyan al refuerzo de la seguridad hídrica, energética y alimentaria de manera simultánea.",
+                  "pagina": 288
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Diversificar las fuentes de generación de energía para evitar la dependencia exclusiva de sólo un tipo de ellas y fomentar la complementación energética, ante incertidumbres y variaciones meteorológicas y climáticas.",
+                  "pagina": 288
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "se considera conveniente una ley de aguas que refleje y articule las necesidades que se desprenden de una efectiva política del Nexo: planificación de cuencas, medidas de adaptación al cambio climático, cuestiones ambientales como elemento subyacente, conservación del agua y posición prioritaria del consumo humano.",
+                  "pagina": 289
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "C2: Ventajas de adoptar el ciclo de acciones con enfoque del Nexo",
+              "nivel": 3,
+              "paginas": "293-296",
+              "resumen": "Describe la Guía Metodológica del Nexo (CEPAL, 2020) y sus ventajas por fase del ciclo de políticas públicas: diagnóstico con visión sistémica intersectorial, formulación con objetivos realistas y búsqueda conjunta de soluciones, planificación e implementación con coordinación a escalas nacional/regional/local, y monitoreo y evaluación basados en evidencia sobre qué funciona, para quién y por qué. No contiene ninguna mención de cambio climático.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento no propone un paquete masivo y coordinado de inversiones a escala de modelo de desarrollo (test 1 del criterio no se satisface): sus recomendaciones concentradas en el Capítulo III (Parte C1) son de naturaleza sectorial —agua, energía, alimentación— y buscan diversificar inversiones dentro de esos tres sectores, no reorientar el patrón productivo regional en su conjunto. Sin embargo, sí nombra sectores e instrumentos concretos con lógica de adaptación climática (infraestructura resiliente, diversificación de fuentes de energía) y toca al menos una de las tres eficiencias (la ambiental, mediante el desacople de la generación hidroeléctrica de la vulnerabilidad climática), lo que impide calificarlo de \"No\" pero tampoco alcanza el estándar de paquete coordinado que exige el \"Sí\". Es, además, un documento de naturaleza distinta a una propuesta de política climática: es una compilación de gobernanza hídrica, derecho humano al agua y el enfoque del Nexo, no un documento de transformación productiva.",
+      "citas": [
+        {
+          "cita": "Planificar, diseñar y construir infraestructuras bajo el enfoque del Nexo dentro de los rangos de incertidumbre que imponen las tendencias de cambio climático para la cuenca en cuestión, resilientes y adaptables que contribuyan al refuerzo de la seguridad hídrica, energética y alimentaria de manera simultánea.",
+          "pagina": 288
+        },
+        {
+          "cita": "Diversificar las fuentes de generación de energía para evitar la dependencia exclusiva de sólo un tipo de ellas y fomentar la complementación energética, ante incertidumbres y variaciones meteorológicas y climáticas.",
+          "pagina": 288
+        }
+      ],
+      "nota": "El No por diseño no aplica aquí porque el documento sí nombra instrumentos sectoriales con lógica adaptativa; el Parcial refleja que esos instrumentos son sectoriales (agua-energía-alimentación) y no forman parte de un paquete coordinado de escala económica, tal como exige el criterio §1.5 de la metodología."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El documento nombra mecanismos institucionales de coordinación multiactor/multijurisdiccional ya adoptados en el ámbito ALC: organismos interjurisdiccionales argentinos (COIRCO, COREBE, AIC), comisiones binacionales/trinacionales (Pilcomayo, Bermejo, Autoridad del Lago Titicaca), entidades de cuenca como la CVC (Colombia) y, en planificación hídrica, CONAGUA/Programa Nacional Hídrico (México) y el Consejo Nacional de Recursos Hídricos con el Plan Nacional de Recursos Hídricos (Brasil), este último con participación explícita de administración, usuarios y comunidades. Cumple nombre propio + adopción institucional dentro del ámbito de aplicación (no son meros referentes extrarregionales).",
+      "citas": [
+        {
+          "cita": "se han creado varios organismos interjurisdiccionales de cuencas, como por ejemplo, el Comité Interjurisdiccional del Río Colorado (COIRCO), la Comisión Regional del Río Bermejo (COREBE) y la Autoridad Interjurisdiccional de las Cuencas de los Ríos Limay, Neuquén y Negro (AIC).",
+          "pagina": 64
+        },
+        {
+          "cita": "Algunos ejemplos recientes de este tipo de entidades incluyen: la Comisión Trinacional para el Desarrollo de la Cuenca del Río Pilcomayo, creada en 1995 por Argentina, Bolivia y Paraguay; la Comisión Binacional para el Desarrollo de la Alta Cuenca del Río Bermejo y el Río Grande de Tarija, creada también en 1995 por Argentina y Bolivia; y la Autoridad Binacional Autónoma del Sistema Hídrico del Lago Titicaca, Río Desaguadero, Lago Poopó y Salar de Coipasa, establecida por Bolivia y Perú",
+          "pagina": 65
+        },
+        {
+          "cita": "la gestión de los recursos hídricos debe ser descentralizada y contar con la participación de la administración pública, de los usuarios y de las comunidades. […] El 30 de enero del año 2006, el Consejo Nacional de Recursos Hídricos aprobó el Plan Nacional de Recursos Hídricos.",
+          "pagina": 208
+        }
+      ],
+      "nota": "Corregido en adjudicación Ronda 9 (2026-07-16) según revisor ciego."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "Sí enumera actividades/sectores concretos ligados al agua: hidroelectricidad, riego/agricultura (incluida modernización y agricultura familiar), minería e industria, biocombustibles, biorrefinería y energías renovables. El vínculo con productividad aparece con cifra citada (productividad económica por m³ mucho mayor en industria/minería que en agricultura), y hay menciones aisladas a empleo ('fuente de trabajo' en hidrocarburos/minería) y a desigualdad/pobreza como rasgo regional. No desarrolla con mecanismo de política o cifra propia el vínculo oportunidades sostenibles → empleo o reducción de desigualdad (queda en mención o en diagnóstico de productividad del agua). Enumeración sí + vínculo empleo/desigualdad poco desarrollado → Parcial.",
+      "citas": [
+        {
+          "cita": "los aprovechamientos productivos más relevantes corresponden al uso hidroeléctrico […] son distintos los riesgos aceptables para las actividades agrícolas, industriales y mineras […] la productividad económica por metro cúbico de agua de la industria y de la minería es decenas de veces mayor en comparación con la agricultura (Willaarts, Garrido y Llamas, 2014)",
+          "pagina": 83
+        },
+        {
+          "cita": "La explotación hidrocarburífera y minera, que aporta ingresos fiscales para los Estados y es fuente de trabajo para la población, pero que necesita grandes caudales de agua",
+          "pagina": 287
+        },
+        {
+          "cita": "El uso de los desechos agrícolas, agroindustriales y de alimentos, que bajo el concepto de biorrefinería, pueden permitir un aprovechamiento pleno de la cascada de uso de la biomasa, generando nuevas cadenas de valor",
+          "pagina": 287
+        }
+      ],
+      "nota": "Corregido en adjudicación Ronda 9 (2026-07-16) según revisor ciego."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "Desglose sobre el texto completo de C1 'Conclusiones y recomendaciones del Nexo' (pp. 286-294): lista de direcciones del portafolio de inversiones (p. 290), propuestas institucionales/organizativas (pp. 291-294) y propuestas sectoriales (p. 294). Se excluye C2 (ventajas de la Guía Metodológica) y el Recuadro III.5. De 21 ítems, 15 pasan el test de concreción (objeto/instrumento identificable) y 6 son genéricos (capacidades, principios de planificación, mainstreaming de enfoque o 'considerar' en foros). Mayoría concreta → Sí.",
+      "citas": [
+        {
+          "cita": "Ayudar al establecimiento de instalaciones que produzcan energías renovables, singularmente en el ámbito local y rural, y como apoyo a los sistemas de riego y servicios de agua potable (incluyendo desalobración de aguas salobres y desalinización de aguas marinas).",
+          "pagina": 290
+        },
+        {
+          "cita": "se considera conveniente una ley de aguas que refleje y articule las necesidades que se desprenden de una efectiva política del Nexo: planificación de cuencas, medidas de adaptación al cambio climático […] un registro de aguas […] y mecanismos de resolución de conflictos",
+          "pagina": 291
+        },
+        {
+          "cita": "Implantar (o mejorar) sistemas efectivos de control de la extracción de aguas superficiales y subterráneas […] autorización administrativa y la necesaria implantación progresiva de contadores (caudalímetros)",
+          "pagina": 294
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Asegurar la preservación e intangibilidad de las fuentes de agua (consumo humano/urbano), identificando tempranamente fuentes alternativas para situaciones críticas",
+          "clasificacion": "CONCRETO",
+          "pagina": 290
+        },
+        {
+          "item": "Planificar, diseñar y construir infraestructuras bajo el enfoque del Nexo, resilientes y adaptables, que refuercen seguridad hídrica, energética y alimentaria de manera simultánea",
+          "clasificacion": "CONCRETO",
+          "pagina": 290
+        },
+        {
+          "item": "Incentivar el tratamiento adecuado de las aguas residuales para su posterior dedicación a otros usos, preferentemente agrícolas",
+          "clasificacion": "CONCRETO",
+          "pagina": 290
+        },
+        {
+          "item": "Diversificar las fuentes de generación de energía y fomentar la complementación energética ante incertidumbres climáticas",
+          "clasificacion": "CONCRETO",
+          "pagina": 290
+        },
+        {
+          "item": "Establecer instalaciones de energías renovables (ámbito local/rural) de apoyo a riego y agua potable, incluyendo desalobración y desalinización",
+          "clasificacion": "CONCRETO",
+          "pagina": 290
+        },
+        {
+          "item": "Potenciar el incremento de la eficiencia energética e hídrica en riego, plantas de tratamiento, abastecimiento y normas de construcción",
+          "clasificacion": "CONCRETO",
+          "pagina": 290
+        },
+        {
+          "item": "Fomentar producción agrícola que reduzca monocultivo y deforestación y contemple la agricultura familiar",
+          "clasificacion": "CONCRETO",
+          "pagina": 290
+        },
+        {
+          "item": "Implementar sistemas de relevamiento y producción de información fundamental para la perspectiva del Nexo (datos comparables entre escalas, abiertos a actores y público)",
+          "clasificacion": "CONCRETO",
+          "pagina": 291
+        },
+        {
+          "item": "Programas de fortalecimiento de capacidades / fomentar investigación local del Nexo para identificar capacidades a crear o fortalecer",
+          "clasificacion": "GENERICO",
+          "pagina": 291
+        },
+        {
+          "item": "Ley de aguas moderna con planificación de cuencas, adaptación climática, registro de derechos y mecanismos de resolución de conflictos",
+          "clasificacion": "CONCRETO",
+          "pagina": 291
+        },
+        {
+          "item": "Normativa energética que fomente renovables (termosolar, eólica, mareomotriz), política de precios y control administrativo de biomasa",
+          "clasificacion": "CONCRETO",
+          "pagina": 292
+        },
+        {
+          "item": "Normativa agraria de establecimiento/modernización de regadíos, con autorización de expansión de frontera agrícola y uso mayoritario de renovables en riego",
+          "clasificacion": "CONCRETO",
+          "pagina": 292
+        },
+        {
+          "item": "La planificación debe ser elemento común de las tres legislaciones (agua, energía, agraria)",
+          "clasificacion": "GENERICO",
+          "pagina": 292
+        },
+        {
+          "item": "Planificación sectorial con datos de los otros dos sectores, aprobada por órgano con representantes de cada sector (gobierno o parlamento)",
+          "clasificacion": "CONCRETO",
+          "pagina": 292
+        },
+        {
+          "item": "Prever en tratados de cuencas transfronterizas planificación que incorpore el Nexo e incorporar criterios Nexo a la normativa de los organismos de tratados",
+          "clasificacion": "CONCRETO",
+          "pagina": 292
+        },
+        {
+          "item": "Mecanismos formales de coordinación entre reguladores (comisiones delegadas presididas por el Ejecutivo o mesas de diálogo público-privadas)",
+          "clasificacion": "CONCRETO",
+          "pagina": 293
+        },
+        {
+          "item": "Presencia de derechos humanos (agua, energía, alimentación) en las legislaciones de los tres componentes del Nexo",
+          "clasificacion": "GENERICO",
+          "pagina": 293
+        },
+        {
+          "item": "Tratados de protección de inversiones que tengan en cuenta consecuencias para derechos humanos (reflexionar formas de resolver conflictos)",
+          "clasificacion": "GENERICO",
+          "pagina": 293
+        },
+        {
+          "item": "Reformas normativas para que entes locales/subnacionales tengan en cuenta impactos sobre los componentes del Nexo",
+          "clasificacion": "GENERICO",
+          "pagina": 293
+        },
+        {
+          "item": "Que MERCOSUR, OTCA, CAN y organismos de tratados de aguas transfronterizas consideren el enfoque del Nexo en su actuación",
+          "clasificacion": "GENERICO",
+          "pagina": 294
+        },
+        {
+          "item": "Implantar/mejorar control de extracción de aguas superficiales y subterráneas con autorización administrativa e implantación progresiva de caudalímetros",
+          "clasificacion": "CONCRETO",
+          "pagina": 294
+        }
+      ],
+      "tally": "15 de 21 ítems pasan el test de concreción",
+      "nota": "Corregido en adjudicación Ronda 9 (2026-07-16) según revisor ciego."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Media"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento no trata centralmente el cambio climático sino la arquitectura institucional y legal para gestionar el agua como recurso escaso, multiuso y generador de conflicto: gobernabilidad hídrica, entidades de cuenca, seguridad hídrica y conflictos por el agua (Capítulo I); derecho humano al agua y regulación de servicios de agua potable/saneamiento (Capítulo II); y coordinación intersectorial bajo el enfoque del Nexo agua-energía-alimentación (Capítulo III). El cambio climático aparece de forma dispersa —sequías que fuerzan sustituir hidroelectricidad por combustibles fósiles en Uruguay, retroceso glaciar del sistema Choclococha que abastece el valle de Ica, proyecciones de caída de generación hidroeléctrica en Centroamérica— como uno de los factores de estrés que la gobernanza hídrica debe absorber, no como el objeto de transformación en sí.",
+      "filtro_categoria_primaria": "El objetivo de cambio que persigue el documento, de principio a fin, es fortalecer la capacidad institucional, regulatoria y legal del Estado para gestionar el agua: separación de funciones rectoras/reguladoras/prestadoras en los servicios de agua potable (Capítulo II), creación de entidades de cuenca con estructura directiva y operativa diferenciadas (Capítulo I, Parte B), consejos de recursos hídricos de cuenca en el Perú a partir de su Ley de Recursos Hídricos de 2009, y mecanismos de coordinación intersectorial del Nexo (fortalecimiento del carácter vinculante de la Comisión de la Cuenca del Reventazón, comisiones delegadas entre reguladores). Esto corresponde a la transformación #11 Capacidades del Estado, no a #6 Sostenibilidad ambiental, porque el objeto explícito de cambio es la capacidad de gobernar el recurso, no en primer término la sostenibilidad ambiental del recurso mismo.",
+      "secundaria_obligatoria": "La transformación #6 Sostenibilidad ambiental es secundaria pero sustantiva: el recurso que esa capacidad institucional debe gestionar está bajo presión ambiental y climática creciente —sobreexplotación de acuíferos (123% en Ica, hasta 262% en Villacurí), retroceso del 90% de la superficie glaciar del sistema Choclococha, proyecciones de caída de generación hidroeléctrica centroamericana de hasta 70% a fin de siglo, y pérdida de humedales y biodiversidad acuática—, de modo que fortalecer la gobernanza hídrica es, en la práctica, una vía indirecta hacia la sostenibilidad ambiental de la región.",
+      "justificacion_anti_copia": "La evidencia específica que sostiene esta clasificación no es genérica: el propio índice del libro estructura las cuatro partes del Capítulo I en torno a gobernabilidad, entidades de cuenca, indicadores de seguridad hídrica y tipologías de conflicto —no en torno a mitigación o adaptación climática—; el Capítulo II dedica sus dos partes a la arquitectura de derechos y de regulación económica de los servicios de agua potable; y las conclusiones del Capítulo III (Parte C1) versan sobre \"el fortalecimiento de la gobernabilidad\" y la coordinación entre reguladores como ejes centrales, con el cambio climático mencionado como una de las incertidumbres que la planificación debe absorber, no como el eje de las recomendaciones.",
+      "validacion_anclas": "No hay ancla previa en la tabla de anclas del corpus climático con este patrón #11 primaria/#6 secundaria: los casos ya calibrados sobre resiliencia eléctrica caribeña y sobre las grandes transformaciones estructurales de desarrollo regional asignan la sostenibilidad ambiental como categoría primaria y las capacidades del Estado como secundaria, porque en esos documentos el objeto de análisis es la transformación productiva o energética en sí, con la institucionalidad entrando como medio. Aquí la relación se invierte: el objeto de análisis explícito y estructurador del libro es la arquitectura institucional y legal del agua, y la dimensión ambiental/climática entra como uno de los riesgos que esa arquitectura debe absorber. Se propone esta combinación (#11 primaria/#6 secundaria) como un nuevo patrón candidato para la tabla de anclas del corpus climático, a discutir en la próxima calibración conjunta con el equipo del curso."
+    },
+    "tipo_documento_climatico": "Compilación institucional de gobernanza hídrica, derecho humano al agua y enfoque del Nexo agua-energía-alimentación, con el cambio climático como factor de riesgo disperso, no como objeto central.",
+    "nivel_aplicacion": "Regional (América Latina y el Caribe), con desagregaciones nacionales y subnacionales frecuentes: Chile, Perú (valle de Ica), Costa Rica (cuenca del Reventazón), Argentina, Brasil, México y Bolivia, entre otros casos de país.",
+    "ambiguedad_pendiente_validacion": "Podría defenderse con menor fuerza una clasificación primaria alternativa de #9 Integración económica, dado el desarrollo extenso que el documento hace de los tratados bilaterales de inversión y del comercio de agua virtual; sin embargo, ese es un tema transversal de una sola sección (Capítulo II, Condicionantes de la globalización) frente al hilo institucional que atraviesa los tres capítulos completos, por lo que se descartó como primaria. Asimismo, la certeza \"Media\" de la secundaria #6 refleja que, a diferencia de otros documentos del corpus donde el cambio climático forma un hilo narrativo continuo, aquí aparece en fragmentos puntuales y dispersos por más de 20 secciones distintas, sin una síntesis propia del documento que lo trate como problema unificado."
+  }
+}

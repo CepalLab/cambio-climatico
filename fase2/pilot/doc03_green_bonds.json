@@ -31,25 +31,22 @@
       "La región representa menos del 1% del total de bonos climate-aligned en circulación a nivel global, según la Climate Bonds Initiative (p.23).",
       "Multisector (35%), energía (32%) y transporte (24%) concentran el grueso de las emisiones climate-aligned de la región entre 2014 y 2017 YTD (p.25, Figura 8)."
     ],
-    "conclusiones_recomendaciones": [
-      "Conclusión propia del documento: el financiamiento vía bonos es una herramienta disponible solo para el subconjunto de países de la región con mercados de capital domésticos más desarrollados y acceso a mercados internacionales; para las economías más pequeñas, el rol de la banca regional y multilateral es de importancia vital para el financiamiento directo (p.5, p.29, p.41).",
-      "Conclusión propia del documento: ni el sector público ni el privado por separado pueden movilizar los montos que exige la Agenda 2030; la solución debe combinar cooperación público-privada y fuentes nacionales e internacionales de financiamiento (p.42).",
-      "Conclusión propia del documento: el mercado regional de bonos con foco verde, aunque marginal a escala global, muestra una tendencia de crecimiento sostenido que podría ampliar su rol en la movilización de recursos para la Agenda 2030 si esa tendencia continúa (p.5, p.42).",
-      "Recomendación a actores de mercado y reguladores (no al propio documento): desarrollar mercados locales, dando visibilidad a la demanda local de bonos verdes y estableciendo lineamientos locales e internacionales para emisores, replicando el modelo de la Bolsa Mexicana de Valores (p.42).",
-      "Recomendación a reguladores/gobiernos: incentivar y regular, generando un entorno regulatorio favorable, removiendo barreras a la inversión en bonos verdes y fortaleciendo canales de crédito público y privado para infraestructura verde (p.42).",
-      "Recomendación a inversionistas institucionales: que fondos de pensiones e inversionistas institucionales incrementen la participación de bonos con foco verde en sus portafolios para cubrir el faltante de capital público (p.42)."
-    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El financiamiento vía bonos es una herramienta disponible solo para el subconjunto de países de la región con mercados de capital domésticos más desarrollados y acceso a mercados internacionales; para las economías más pequeñas, el rol de la banca regional y multilateral es de importancia vital para el financiamiento directo (p.5, p.29, p.41).",
+        "Ni el sector público ni el privado por separado pueden movilizar los montos que exige la Agenda 2030; la solución debe combinar cooperación público-privada y fuentes nacionales e internacionales de financiamiento (p.42).",
+        "El mercado regional de bonos con foco verde, aunque marginal a escala global, muestra una tendencia de crecimiento sostenido que podría ampliar su rol en la movilización de recursos para la Agenda 2030 si esa tendencia continúa (p.5, p.42)."
+      ],
+      "recomendaciones": [
+        "Desarrollar mercados locales, dando visibilidad a la demanda local de bonos verdes y estableciendo lineamientos locales e internacionales para emisores, replicando el modelo de la Bolsa Mexicana de Valores (p.42).",
+        "Incentivar y regular, generando un entorno regulatorio favorable, removiendo barreras a la inversión en bonos verdes y fortaleciendo canales de crédito público y privado para infraestructura verde (p.42).",
+        "Que fondos de pensiones e inversionistas institucionales incrementen la participación de bonos con foco verde en sus portafolios para cubrir el faltante de capital público (p.42)."
+      ],
+      "nota": null
+    },
     "resumen_narrativo": "El informe rastrea el nacimiento del mercado de bonos verdes en América Latina y el Caribe hasta diciembre de 2014, cuando la peruana Energía Eólica coloca el primer bono verde certificado de la región —financiado en más de 80% por fondos de pensiones y aseguradoras locales— para refinanciar los parques eólicos Cupisnique y Talara. De ahí sigue el ascenso del instrumento hasta septiembre de 2016, cuando el fideicomiso del nuevo aeropuerto de Ciudad de México coloca un bono de dos tramos por US$ 2.000 millones, la mayor emisión verde de la región hasta la fecha, para financiar una terminal que aspira a ser carbono neutral. Documenta que Brasil y México concentran más de 70% de las 26 emisiones regionales identificadas entre 2014 y agosto de 2017, y que la participación de estos bonos en las emisiones internacionales de la región saltó de 0,2% en 2014 a 3,7% en el primer semestre de 2017. Pero también advierte que este instrumento sigue siendo un privilegio de las economías con mercados de capital más desarrollados, razón por la cual bancos multilaterales como la Corporación Interamericana de Inversiones recurren a estructuras como el B-bond —usado en agosto de 2017 para financiar el parque eólico uruguayo Campo Palomas— para llevar capital institucional a los países con menor acceso directo a estos mercados."
   },
   "resumen_secciones": [
-    {
-      "seccion": "List of acronyms",
-      "nivel": 1,
-      "paginas": "7-8",
-      "resumen": "Glosario de dos páginas con 29 siglas usadas en el resto del informe, dominado por instituciones financieras multilaterales y bancos nacionales de fomento de la región (BNDES de Brasil, BANOBRAS y NAFIN de México, BANCÓLDEX de Colombia, CABEI de Centroamérica), organismos internacionales de normalización del mercado de bonos verdes (ICMA, CBI) y monedas locales (BRL, COP, MXN, ZAR). No contiene texto analítico propio: es material de referencia para leer el resto del documento, sin diagnóstico ni propuesta.",
-      "dimensiones": [],
-      "subsecciones": []
-    },
     {
       "seccion": "Introduction",
       "nivel": 1,
@@ -203,14 +200,6 @@
         }
       ],
       "subsecciones": []
-    },
-    {
-      "seccion": "Bibliography",
-      "nivel": 1,
-      "paginas": "43-44",
-      "resumen": "Lista bibliográfica de alrededor de 40 referencias (p.43-44) que respalda las cifras y marcos citados en el cuerpo del informe: predominan publicaciones de la Climate Bonds Initiative (seis referencias, 2015-2017c), organismos multilaterales (BID, Banco Mundial, OCDE, UNCTAD, UNEP) y la propia CEPAL (tres FAL Bulletins y el informe de financiamiento de la Agenda 2030 de 2017a), junto con fuentes de mercado (ICMA, S&P Global Ratings, White and Case LLP, PwC). No contiene texto analítico propio: es material de referencia.",
-      "dimensiones": [],
-      "subsecciones": []
     }
   ],
   "interpelacion": {
@@ -245,52 +234,60 @@
       "nota": "El documento es un informe de mercado, no una propuesta institucional de articulación de actores; los mecanismos identificados (B-Bond, cooperación técnica BID-SECO) surgen como hallazgos descriptivos de operaciones ya ejecutadas, no como una arquitectura de gobernanza propuesta por el propio informe."
     },
     "oportunidades_productivas_sostenibles": {
-      "veredicto": "No",
-      "evidencia": "El documento enumera con detalle sectores y actividades concretas financiables con bonos verdes —energía renovable, eficiencia energética, transporte sostenible, manejo de agua y saneamiento, silvicultura sostenible, conservación de biodiversidad, control de contaminación (Tabla 1, p.13; Tabla 3, p.25)—, cumpliendo el primer elemento del criterio. Sin embargo, chequeo negativo explícito: en ningún pasaje del documento se menciona empleo, generación de puestos de trabajo, productividad laboral ni reducción de la desigualdad en conexión con estos sectores o con el mercado de bonos verdes; el análisis se mantiene enteramente en el plano de inversionistas, emisores, calificaciones crediticias y tamaños de emisión, no en sus efectos distributivos o laborales. Al faltar por completo el segundo elemento —no una mención aislada sin desarrollar, sino ausencia total en las 44 páginas del cuerpo del documento— el veredicto es \"No\", no \"Parcial\".",
+      "veredicto": "Parcial",
+      "evidencia": "Elemento (a) enumeración de sectores/actividades: sí, de forma extensa — renovables, eficiencia energética, transporte limpio, agua/saneamiento, agricultura y silvicultura sostenibles, biodiversidad, edificios verdes (Tabla 1 GBP) y destinos multi-sector de emisores ALC (Tabla 3: Banobras, Bancóldex, CMPC, etc.). Elemento (b) vínculo desarrollado con empleo/productividad/desigualdad: no. Aparece el nexo infraestructura–crecimiento y, en nota al pie sobre bonos “sustainable”, una mención aislada a “employment, education and healthcare”; la categoría Banobras de infraestructura asequible para segmentos vulnerables no se desarrolla como política de empleo o reducción de desigualdad. Chequeo negativo explícito: se buscaron pasajes que conecten la emisión verde con creación de empleo, productividad o desigualdad con cifra o mecanismo de política — no hay desarrollo más allá de menciones aisladas. Enumeración sin vínculo elaborado → Parcial.",
       "citas": [
         {
-          "cita": "The GBP proposes a list of categories that highlight some of the main types of projects financed by green bonds (Table 1).",
+          "cita": "The GBP proposes a list of categories that highlight some of the main types of projects financed by green bonds (Table 1). […] Renewable Energy; Energy Efficiency; Pollution Prevention & Control; […] Transportation; Water and wastewater management; […] Green buildings.",
           "pagina": 12
         },
         {
-          "cita": "Multi-sector initiatives account for 35% of total climate-sensitive bond issuance",
-          "pagina": 25
+          "cita": "There is a consensus regarding the importance of infrastructure spending in stimulating economic growth and its fundamental role in addressing the region’s development challenges.",
+          "pagina": 23
+        },
+        {
+          "cita": "These include protecting biodiversity or reducing resource use, or socially positive activities such as employment, education and healthcare.",
+          "pagina": 37
         }
       ],
-      "nota": "El informe es un análisis de mercado de capitales orientado a inversionistas y emisores; su naturaleza explica por qué no desarrolla vínculos con empleo o desigualdad, temas fuera de su objeto declarado (financiamiento, no impacto socioeconómico distributivo)."
+      "nota": "Corregido en adjudicación Ronda 9 (2026-07-16) según revisor ciego."
     },
     "como_hacerlo_concreto": {
-      "veredicto": "Parcial",
-      "evidencia": "El documento tiene una única lista de recomendaciones, concentrada en dos párrafos de la Conclusión (p.42), con tres ítems numerados (i, ii, iii). Cada uno se sometió al test de concreción sobre su texto completo en esa sección (no hay versión abreviada en otra parte del documento). El resultado es mixto: dos de los tres ítems (i y iii) nombran un objeto identificable (un modelo de mercado a replicar; una población de inversionistas y una acción de portafolio concreta), mientras que el ítem ii se queda en objetos abstractos (\"entorno regulatorio favorable\", \"incentivos\", \"canales de crédito\") sin especificar cuál instrumento regulatorio o qué incentivo concreto.",
+      "veredicto": "Sí",
+      "evidencia": "La sección de recomendaciones operativas es IV. Conclusion (pp. 41-42), tras el bloque de “main takeaways” (diagnóstico). El desglose se corre sobre las tres consideraciones numeradas que el texto introduce como “the following considerations should be explored” (más el párrafo inmediato sobre banca multilateral, que opera como cuarto ítem de “cómo”). 3 de 3 ítems numerados pasan el test de concreción (objeto/instrumento identificable; el verbo blando no decide). Tally de la lista numerada: 3 de 3 → Sí.",
       "citas": [
         {
-          "cita": "Develop local markets: promote visibility of local demand for green bonds while establishing a set of local and international guidelines for issuers to follow. Bring together national market actors with private and institutional investors similar to what the Mexican Stock Exchange has done in Mexico to increase green-financing awareness.",
+          "cita": "To continue the region’s solidifying growth in the climate-aligned bond market the following considerations should be explored: i. Develop local markets: promote visibility of local demand for green bonds while establishing a set of local and international guidelines for issuers to follow. Bring together national market actors with private and institutional investors similar to what the Mexican Stock Exchange has done in Mexico to increase green-financing awareness.",
           "pagina": 42
         },
         {
-          "cita": "Increase the role of nontraditional investors... Institutional investors, particularly pension and private funds, could help cover the remaining gap and play a more significant role in the market by committing to increase the participation of bonds with a green focus... in their portfolios.",
+          "cita": "ii. Incentivize and regulate: provide a friendly regulatory environment for investors to support green projects, including removing barriers that hinder green bond investment, offering incentives to investors willing to invest in green bond initiatives and enhancing private and public credit channels for green infrastructure.",
+          "pagina": 42
+        },
+        {
+          "cita": "iii. Increase the role of nontraditional investors: […] Institutional investors, particularly pension and private funds, could help cover the remaining gap and play a more significant role in the market by committing to increase the participation of bonds with a green focus […] in their portfolios.",
           "pagina": 42
         }
       ],
       "desglose_items": [
         {
-          "item": "Develop local markets: promote visibility of local demand for green bonds while establishing a set of local and international guidelines for issuers to follow. Bring together national market actors with private and institutional investors similar to what the Mexican Stock Exchange has done in Mexico to increase green-financing awareness.",
+          "item": "Develop local markets: establish local and international guidelines for issuers; bring together national market actors with private/institutional investors modeled on the Mexican Stock Exchange’s green-financing awareness work.",
           "clasificacion": "CONCRETO",
           "pagina": 42
         },
         {
-          "item": "Incentivize and regulate: provide a friendly regulatory environment for investors to support green projects, including removing barriers that hinder green bond investment, offering incentives to investors willing to invest in green bond initiatives and enhancing private and public credit channels for green infrastructure.",
-          "clasificacion": "GENERICO",
+          "item": "Incentivize and regulate: remove barriers to green bond investment; offer incentives to green-bond investors; enhance private and public credit channels for green infrastructure.",
+          "clasificacion": "CONCRETO",
           "pagina": 42
         },
         {
-          "item": "Increase the role of nontraditional investors: many governments have shown their commitment to funding climate-sensitive endeavors... Institutional investors, particularly pension and private funds, could help cover the remaining gap and play a more significant role in the market by committing to increase the participation of bonds with a green focus... in their portfolios.",
+          "item": "Increase the role of nontraditional investors: pension and private funds commit to raising the share of green-focus bonds in their portfolios.",
           "clasificacion": "CONCRETO",
           "pagina": 42
         }
       ],
-      "tally": "2 de 3 ítems pasan el test de concreción",
-      "nota": "La lista analizada es la única enumeración de recomendaciones del documento (las tres \"considerations\" de la Conclusión, p.42); no existe una sección de recomendaciones más extensa ni versiones abreviadas en recuadros de portada. El documento es mayormente descriptivo del mercado, con estas tres recomendaciones concentradas al cierre."
+      "tally": "3 de 3 ítems pasan el test de concreción",
+      "nota": "Corregido en adjudicación Ronda 9 (2026-07-16) según revisor ciego."
     }
   },
   "tipologia": {

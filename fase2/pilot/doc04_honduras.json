@@ -33,89 +33,21 @@
       "La plaga de la roya del café de 2012-2013 costó 500 millones de dólares a la región centroamericana, de los cuales aproximadamente 100 millones (20%) correspondieron a Honduras (p.138).",
       "Honduras se comprometió, en su Contribución Prevista y Determinada a Nivel Nacional (INDC), a reducir 15% sus emisiones respecto de un escenario tendencial (BAU) para 2030, reforestar un millón de hectáreas de bosque y reducir 39% el consumo de leña de los hogares mediante una NAMA de fogones eficientes (p.193)."
     ],
-    "conclusiones_recomendaciones": [
-      "Del documento: es imperativo transitar hacia una agricultura más sostenible e incluyente, cambiando prácticas de cultivo, certificando fertilizantes, controlando la humedad y retención del suelo y ampliando el aseguramiento agrícola frente a eventos extremos (p.208).",
-      "Del documento: se recomienda ampliar las Áreas Naturales Protegidas y los corredores biológicos, fomentar la agricultura y el aprovechamiento forestal sostenibles y rescatar cultivos locales resistentes al cambio climático (p.209).",
-      "Del documento: se propone priorizar políticas públicas que integren adaptación, reducción de la pobreza y transición a economías bajas en emisiones de GEI de forma articulada entre sectores, evitando estrategias ad hoc que resuelvan la urgencia de un sector a costa de otro (p.209).",
-      "Del documento: el país ha creado el Comité Interinstitucional de Cambio Climático (CICC) y su Comité Técnico Interinstitucional (CTICC) como plataforma de coordinación multiactor —gobierno central, empresa privada, sociedad civil, academia, comunidades indígenas y cooperantes— para articular la respuesta nacional al cambio climático (p.211).",
-      "Del documento: el reto a escala nacional es implementar las respuestas articulando acciones entre sectores e involucrando a todos los actores de la sociedad, mientras que a escala global el reto es cerrar las brechas de reducción de emisiones y de apoyo financiero internacional (p.212)."
-    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "Sin medidas de adaptación, el costo económico acumulado del cambio climático en Honduras a 2100 alcanza el 45,79% del PIB de 2008 bajo el escenario B2 y el 79,55% bajo el A2 (tasa de descuento 0,5%), cifra que sintetiza los impactos en agricultura, recursos hídricos, biodiversidad y eventos extremos (p.207; síntesis en Conclusiones, p.208-209).",
+        "Ese costo se concentra en una trayectoria de estrés estructural —disponibilidad de agua por habitante −96% en A2, generación de la única cuenca hidroeléctrica (El Cajón) hasta −72% en 2090, y caídas de rendimiento de hasta ~50% en granos básicos y ~33% en café— de modo que el documento concluye que el cambio climático constituye un pasivo público contingente con implicaciones fiscales crecientes, no un problema exclusivo de las instituciones ambientales (p.208-211)."
+      ],
+      "recomendaciones": [
+        "Es imperativo transitar hacia una agricultura más sostenible e incluyente, cambiando prácticas de cultivo, certificando fertilizantes, controlando la humedad y retención del suelo y ampliando el aseguramiento agrícola frente a eventos extremos (p.208).",
+        "Se recomienda ampliar las Áreas Naturales Protegidas y los corredores biológicos, fomentar la agricultura y el aprovechamiento forestal sostenibles y rescatar cultivos locales resistentes al cambio climático (p.209).",
+        "Se propone priorizar políticas públicas que integren adaptación, reducción de la pobreza y transición a economías bajas en emisiones de GEI de forma articulada entre sectores, evitando estrategias ad hoc que resuelvan la urgencia de un sector a costa de otro (p.209)."
+      ],
+      "nota": "Conclusiones reescritas a partir de la síntesis del capítulo Conclusiones (p.208-212) y del costo agregado del cap. 8, para cerrar la pregunta de investigación. El marco CICC/CTICC (p.211) y el 'reto nacional/global' (p.212) quedan fuera: el primero es avance institucional de contexto; el segundo se solapa con la agenda de las recomendaciones."
+    },
     "resumen_narrativo": "Este documento técnico de la CEPAL cuantifica los impactos económicos del cambio climático en Honduras a 2100 bajo los escenarios B2 y A2, cubriendo ocho ámbitos: escenarios macroeconómicos y demográficos, clima, recursos hídricos e hidroelectricidad, agricultura, ecosistemas, salud, emisiones de gases de efecto invernadero y costos económicos agregados. Encuentra que Honduras fue el país más afectado por eventos climáticos extremos entre 1995 y 2014 según German Watch, que la única cuenca hidroeléctrica del país (El Cajón) podría perder hasta 72% de su generación para 2090 en el escenario A2, y que los rendimientos de maíz, frijol, arroz y café podrían caer entre 32% y 50% para 2100. El costo acumulado total de estos impactos alcanzaría el 45,79% del PIB de 2008 en el escenario B2 y el 79,55% en el A2. El documento cierra con un llamado a políticas de adaptación articuladas entre sectores, apoyándose en el Comité Interinstitucional de Cambio Climático (CICC) y su comité técnico (CTICC) como mecanismo de coordinación multiactor ya creado por el país, y en la Contribución Prevista y Determinada a Nivel Nacional (INDC) de Honduras como marco de mitigación condicionado a financiamiento internacional."
   },
   "resumen_secciones": [
-    {
-      "seccion": "Mensaje del Presidente de la República",
-      "nivel": 1,
-      "paginas": "13",
-      "resumen": "Mensaje político de apertura del Presidente de Honduras que enmarca el documento en el compromiso del país con el Acuerdo de París, presentando el cambio climático como una amenaza existencial ineludible (\"ya no hay plan B\") y respaldando la producción de evidencia técnica nacional sobre sus impactos económicos.",
-      "dimensiones": [
-        {
-          "dimension": "contexto_antecedentes",
-          "cita": "ya no hay plan B",
-          "pagina": 13
-        }
-      ],
-      "subsecciones": []
-    },
-    {
-      "seccion": "Prólogo",
-      "nivel": 1,
-      "paginas": "14",
-      "resumen": "Sitúa el documento dentro de la iniciativa Economía del Cambio Climático en Centroamérica (ECC CA), en curso desde 2008 y liderada por los ministerios de ambiente, hacienda, agricultura y salud de los países del SICA, y menciona la ratificación por Honduras de su INDC y del Acuerdo de París como marco de referencia del estudio.",
-      "dimensiones": [
-        {
-          "dimension": "contexto_antecedentes",
-          "cita": "la iniciativa Economía del Cambio Climático en Centroamérica (ECC CA), en curso desde 2008, liderada por los ministerios de ambiente, hacienda y agricultura de la región centroamericana",
-          "pagina": 14
-        }
-      ],
-      "subsecciones": []
-    },
-    {
-      "seccion": "Mensajes clave",
-      "nivel": 1,
-      "paginas": "15-30",
-      "resumen": "Síntesis narrativa extensa (16 páginas, sin subdivisión formal en el índice) que recorre, con cifras propias, todos los hallazgos del documento antes de su desarrollo capitular: la vulnerabilidad extrema de Honduras según los índices German Watch, DARA y ND-GAIN; los impactos proyectados en eventos extremos, recursos hídricos, hidroelectricidad (caso El Cajón), agricultura de granos básicos y café, aseguramiento agropecuario, biodiversidad, enfermedades sensibles al clima y emisiones de GEI; el costo acumulado total (hasta 79,6% del PIB de 2008 a 2100 en el escenario A2); y un bloque final sobre adaptación sostenible e incluyente que introduce la Agenda 2030, el concepto de \"gran impulso ambiental\" y el mecanismo institucional CICC/CTICC. Funciona como el verdadero resumen ejecutivo ampliado del documento, aunque el resumen ejecutivo formal es la sección \"Resumen\" que le sigue.",
-      "dimensiones": [
-        {
-          "dimension": "estado_de_situacion",
-          "cita": "Honduras fue el país más afectado en el período 1995-2014",
-          "pagina": 15
-        },
-        {
-          "dimension": "contexto_antecedentes",
-          "cita": "Se requiere un «gran impulso ambiental» para la igualdad y la sostenibilidad... aprobaron en su trigésimo sexto período de sesiones (CEPAL, 2016)",
-          "pagina": 17
-        },
-        {
-          "dimension": "estado_de_situacion",
-          "cita": "la demanda de agua aumentaría hasta 1.785% respecto de la línea base, llevando el estrés hídrico al 403% en 2100 bajo el escenario A2, muy por encima del umbral crítico del 20%",
-          "pagina": 19
-        },
-        {
-          "dimension": "estado_de_situacion",
-          "cita": "en El Cajón, la única cuenca hidroeléctrica del país, la generación caería 22%, 39% y 72% en 2030, 2050 y 2090 respectivamente bajo el escenario A2",
-          "pagina": 20
-        },
-        {
-          "dimension": "brechas_implementacion",
-          "cita": "las primas de seguro agropecuario cayeron de 1,25 millones a 852.000 dólares entre 2006 y 2010",
-          "pagina": 22,
-          "subtipo_brecha": "retrospectiva"
-        },
-        {
-          "dimension": "avances_implementacion",
-          "cita": "la INDC de Honduras compromete una reducción de 15% de las emisiones respecto del escenario tendencial (BAU) para 2030, la reforestación de un millón de hectáreas de bosque y una NAMA de fogones eficientes que reduciría en 39% el consumo de leña",
-          "pagina": 25
-        },
-        {
-          "dimension": "avances_implementacion",
-          "cita": "El país ha creado un marco de coordinación interinstitucional mediante el Comité Interinstitucional de Cambio Climático (CICC)... Como apoyo al CICC se creó el Comité Técnico Interinstitucional de Cambio Climático (CTICC)",
-          "pagina": 30
-        }
-      ],
-      "subsecciones": []
-    },
     {
       "seccion": "Introducción",
       "nivel": 1,
@@ -820,7 +752,10 @@
       "veredicto": "No",
       "evidencia": "El documento no pasa los tres tests operativos de big_push.md. Test 1 (paquete coordinado de inversión): el término \"gran impulso ambiental\" se menciona citando literalmente la resolución de la CEPAL de 2016 (p.17) y se retoma en el bloque de adaptación sostenible e incluyente (p.26-30), pero en ningún pasaje se presenta un paquete de inversión coordinado y costeado multisectorialmente; las únicas medidas con costo propio identificadas —la turbina adicional de 75 MW en El Cajón (100 millones de dólares, p.112) y la reforestación de la cuenca (52 millones, p.112)— son intervenciones sectoriales aisladas, evaluadas una por una, no un paquete. Test 2 (sectores estratégicos nombrados): el documento sí nombra sectores (agua, agricultura, energía, salud, biodiversidad) pero como objetos de impacto climático a medir, no como sectores estratégicos de una cartera de inversión coordinada. Test 3 (2 de 3 eficiencias): no hay una argumentación que conecte explícitamente eficiencia schumpeteriana, keynesiana y ambiental en torno a un mismo paquete. Chequeo negativo explícito: no existe en las 212 páginas del cuerpo del documento una sección o cuadro que agregue inversiones sectoriales en un monto único y las presente como un paquete coordinado de estímulo ambiental.",
       "citas": [
-        { "cita": "Se requiere un «gran impulso ambiental» para la igualdad y la sostenibilidad... aprobaron en su trigésimo sexto período de sesiones (CEPAL, 2016)", "pagina": 17 }
+        {
+          "cita": "Se requiere un «gran impulso ambiental» para la igualdad y la sostenibilidad... aprobaron en su trigésimo sexto período de sesiones (CEPAL, 2016)",
+          "pagina": 17
+        }
       ],
       "nota": "El documento es, por diseño, un estudio de cuantificación de impactos y costos, no una propuesta de inversión; la mención del \"gran impulso ambiental\" es una referencia retórica al marco institucional de la CEPAL, no un desarrollo propio del instrumento."
     },
@@ -828,46 +763,127 @@
       "veredicto": "Sí",
       "evidencia": "El documento describe, con evidencia repetida y específica (Mensajes clave p.30 y Conclusiones p.211), un mecanismo de coordinación institucionalizado con nombre propio, creado por el propio país —dentro de su ámbito de aplicación, Honduras— y no un proyecto de cooperación externa: el Comité Interinstitucional de Cambio Climático (CICC), integrado por los titulares de las instituciones de Gobierno Central, con participación prevista de empresa privada, sociedad civil organizada, academia, comunidades indígenas, colegios profesionales y cooperantes, y su órgano técnico co-ejecutor, el Comité Técnico Interinstitucional de Cambio Climático (CTICC). Es un mecanismo real y multiactor, no una mención genérica de \"coordinación\" o \"articulación institucional\".",
       "citas": [
-        { "cita": "El país ha creado un marco de coordinación interinstitucional mediante el Comité Interinstitucional de Cambio Climático (CICC) como instancia de asesoría y plataforma política integrada por los titulares de las instituciones de Gobierno Central. Se prevé la participación de representantes de la empresa privada, sociedad civil organizada, academia, comunidades indígenas, colegios profesionales y cooperantes. Como apoyo al CICC se creó el Comité Técnico Interinstitucional de Cambio Climático (CTICC)", "pagina": 211 },
-        { "cita": "El Comité Técnico Interinstitucional de Cambio Climático (CTICC)... servirá de órgano técnico co-ejecutor de las directrices emitidas por el CICC", "pagina": 211 }
+        {
+          "cita": "El país ha creado un marco de coordinación interinstitucional mediante el Comité Interinstitucional de Cambio Climático (CICC) como instancia de asesoría y plataforma política integrada por los titulares de las instituciones de Gobierno Central. Se prevé la participación de representantes de la empresa privada, sociedad civil organizada, academia, comunidades indígenas, colegios profesionales y cooperantes. Como apoyo al CICC se creó el Comité Técnico Interinstitucional de Cambio Climático (CTICC)",
+          "pagina": 211
+        },
+        {
+          "cita": "El Comité Técnico Interinstitucional de Cambio Climático (CTICC)... servirá de órgano técnico co-ejecutor de las directrices emitidas por el CICC",
+          "pagina": 211
+        }
       ],
       "nota": "El Instituto Hondureño del Café (IHCAFÉ, p.139) y la Comisión Permanente de Contingencias (COPECO, p.154) son mecanismos adicionales, multiactor y con nombre propio, pero de alcance sectorial (café, gestión de contingencias) y no climático-transversal como el CICC/CTICC, por lo que se toma a este último como evidencia principal del veredicto."
     },
     "oportunidades_productivas_sostenibles": {
-      "veredicto": "Parcial",
-      "evidencia": "El documento enumera sectores productivos concretos con potencial de reconversión sostenible —agricultura de granos básicos y café bajo prácticas resilientes, ecoturismo ligado a la conservación de bosques y Áreas Naturales Protegidas (p.209), energías renovables e hidroelectricidad vía los 32 proyectos del Mecanismo de Desarrollo Limpio (p.199-201)— y sí liga explícitamente el cambio climático con pobreza, empleo y migración en sus Conclusiones, citando el enfoque de \"capacidades y oportunidades\" de Amartya Sen y el 64,5% de la población hondureña en condición de pobreza en 2013 (p.208-210). Sin embargo, este vínculo se queda en una afirmación programática —la necesidad de vincular adaptación con reducción de pobreza— sin desarrollar con cifras o mecanismos propios cuánto empleo o qué reducción de desigualdad generarían específicamente esas oportunidades sectoriales, por lo que no alcanza un \"Sí\" pleno.",
+      "veredicto": "No",
+      "evidencia": "Chequeo negativo explícito: (a) se buscó enumeración de sectores/actividades como oportunidades productivas sostenibles de una transición (empleo verde, nuevos mercados, industrias de baja huella como oportunidad de inversión) — no aparece; agricultura, café, hidro y bosques se tratan como sectores de impacto/adaptación o de emisiones, no como cartera de oportunidades productivas. El ecoturismo se menciona de paso como fomento asociado a protección de ecosistemas, sin desarrollo. (b) se buscó vínculo desarrollado entre esas oportunidades y empleo/productividad/desigualdad — «empleo» figura como canal de impacto negativo de la caída de rendimientos agrícolas sobre ingreso y migración; la pobreza (64,5% en 2013) se vincula a priorizar adaptación e inclusión, no a oportunidades productivas de la transición. Ninguno de los dos elementos del §1.3 está presente como oportunidad productiva sostenible.",
       "citas": [
-        { "cita": "Considerando que el 64,5% de la población de Honduras vivía en condición de pobreza en 2013 (CEPALSTAT), la vinculación de las respuestas al cambio climático con los programas de reducción de la pobreza y la mejora de la calidad de vida y de las oportunidades de la población es una importante apuesta para el país", "pagina": 210 },
-        { "cita": "Las autoridades, el sector privado y las comunidades deben cooperar en la protección de los ecosistemas para fomentar el ecoturismo", "pagina": 209 }
+        {
+          "cita": "Se espera una reducción importante en los rendimientos de los principales cultivos como los granos básicos, situación que tendrá impactos en el ingreso, empleo, migración y la seguridad alimentaria y nutricional de la población en condición de exclusión y pobreza de las zonas rurales y urbanas.",
+          "pagina": 208
+        },
+        {
+          "cita": "Las autoridades, el sector privado y las comunidades deben cooperar en la protección de los ecosistemas para fomentar el ecoturismo.",
+          "pagina": 209
+        }
       ],
-      "nota": null
+      "nota": "Corregido en adjudicación Ronda 9 (2026-07-16) según revisor ciego."
     },
     "como_hacerlo_concreto": {
-      "veredicto": "Parcial",
-      "evidencia": "El documento distribuye sus recomendaciones en al menos once recuadros temáticos (Recuadros 1 a 14, salvo los puramente informativos) más un bloque final en las Conclusiones, en lugar de una lista única enumerada. Aplicando el test de concreción a una muestra representativa de ítems de distintos capítulos, se observa un patrón consistente: la mayoría de los ítems son genéricos (verbos de capacidad como \"fortalecer\", \"considerar\", \"fomentar\" sin objeto o instrumento específico), pero en cada capítulo aparecen algunos ítems concretos con instrumento, actor o cifra identificable (turbina de 75 MW en El Cajón, norma ISO 14000, IHCAFÉ, COPECO, NAMA de fogones eficientes, reforestación de un millón de hectáreas). Esta mezcla sistemática en todos los capítulos —ni predominantemente genérica al punto del \"No\", ni predominantemente concreta al punto del \"Sí\"— sostiene el veredicto \"Parcial\".",
+      "veredicto": "Sí",
+      "evidencia": "Unidad de desglose: sección «Conclusiones» (pp. 208-212) — no Mensajes clave ni recuadros de recomendaciones intercalados en capítulos analíticos. La mayoría de los ítems de acción identificables en Conclusiones pasan el test (prácticas agrícolas concretas, ANP/corredores, control de tala/incendios, normatividad energética/vehicular, hidro, seguro agrícola, redes de productores/innovación). Persisten ítems genéricos de priorización/transición/coordinación. Tally: 9 de 13 (Ronda 9: corregido conteo del desglose).",
       "citas": [
-        { "cita": "instalar una turbina adicional de 75 MW en la represa de El Cajón, con un costo estimado de 100 millones de dólares", "pagina": 112 },
-        { "cita": "reforestar un millón de hectáreas de bosque antes de 2030... reducir en un 39% el consumo de leña de las familias mediante una NAMA de fogones eficientes", "pagina": 193 }
+        {
+          "cita": "Algunas acciones para asegurar el abasto de granos básicos son ampliar las redes de productores, aumentar los servicios de innovación y difundir opciones de adaptación sostenible. Será necesario cambiar prácticas de cultivo, certificar fertilizantes y controlar la humedad y retención del suelo, almacenar y hacer uso eficiente del agua, regular los tiempos de siembra y perfeccionar el manejo pos cosecha de productos […].",
+          "pagina": 208
+        },
+        {
+          "cita": "Para la conservación de la biodiversidad se recomienda ampliar las definiciones de Áreas Naturales Protegidas (ANP) y corredores biológicos a fin de proteger la mayor cantidad posible de recursos naturales.",
+          "pagina": 209
+        }
       ],
       "desglose_items": [
-        { "item": "Instalar una turbina adicional de 75 MW en la represa de El Cajón (Recuadro 3)", "clasificacion": "CONCRETO", "pagina": 112 },
-        { "item": "Reforestar el 3% de la cuenca de El Cajón (Recuadro 3)", "clasificacion": "CONCRETO", "pagina": 112 },
-        { "item": "Fortalecer la adaptación y la gestión del riesgo ante eventos extremos (Recuadro 1)", "clasificacion": "GENERICO", "pagina": 94 },
-        { "item": "Adoptar certificaciones comerciales como la norma ISO 14000 (Recuadro 2)", "clasificacion": "CONCRETO", "pagina": 107 },
-        { "item": "Manejar el agua en ciclos cerrados y reforzar los marcos legales de gestión hídrica (Recuadro 2)", "clasificacion": "GENERICO", "pagina": 106 },
-        { "item": "Fortalecer los seguros y microseguros agrícolas gestionados por el Comité de Seguro Agrícola (Recuadro 5)", "clasificacion": "CONCRETO", "pagina": 135 },
-        { "item": "Aumentar los servicios de innovación en el sector agrícola (Recuadro 5)", "clasificacion": "GENERICO", "pagina": 134 },
-        { "item": "Ampliar la reforestación en un millón de hectáreas y reducir 39% el consumo de leña mediante una NAMA de fogones eficientes (Recuadro 13)", "clasificacion": "CONCRETO", "pagina": 193 },
-        { "item": "Considerar las implicaciones de cambios de temperatura y precipitación en distintos escenarios de salud (Recuadro 12)", "clasificacion": "GENERICO", "pagina": 187 },
-        { "item": "Ampliar las Áreas Naturales Protegidas y los corredores biológicos (Recuadro 9)", "clasificacion": "GENERICO", "pagina": 175 }
+        {
+          "item": "Proteger ecosistemas naturales/biodiversidad y tomar medidas contra impactos en agricultura, agua, salud e hidroelectricidad",
+          "clasificacion": "GENERICO",
+          "pagina": 208
+        },
+        {
+          "item": "Usar información georreferenciada desagregada por departamentos/regiones geoclimáticas (años de corte y patrones intraanuales) para dimensionar medidas de adaptación",
+          "clasificacion": "CONCRETO",
+          "pagina": 208
+        },
+        {
+          "item": "Adoptar/fortalecer el aseguramiento agrícola ante eventos extremos",
+          "clasificacion": "CONCRETO",
+          "pagina": 208
+        },
+        {
+          "item": "Ampliar redes de productores, servicios de innovación y difusión de opciones de adaptación sostenible para granos básicos",
+          "clasificacion": "CONCRETO",
+          "pagina": 208
+        },
+        {
+          "item": "Cambiar prácticas de cultivo (certificar fertilizantes, humedad/retención del suelo, almacenamiento y uso eficiente del agua, tiempos de siembra, manejo poscosecha; reducir producción en zonas no aptas; rehabilitar tierras degradadas)",
+          "clasificacion": "CONCRETO",
+          "pagina": 208
+        },
+        {
+          "item": "Ampliar Áreas Naturales Protegidas (ANP) y corredores biológicos",
+          "clasificacion": "CONCRETO",
+          "pagina": 209
+        },
+        {
+          "item": "Fomentar agricultura y aprovechamiento forestal sostenibles y rescate de cultivos locales resistentes al cambio climático",
+          "clasificacion": "CONCRETO",
+          "pagina": 209
+        },
+        {
+          "item": "Participación de comunidades locales y recuperación/revalorización de conocimientos tradicionales de preservación",
+          "clasificacion": "GENERICO",
+          "pagina": 209
+        },
+        {
+          "item": "Mejorar gestión de bosques y controlar tala, deforestación e incendios forestales",
+          "clasificacion": "CONCRETO",
+          "pagina": 209
+        },
+        {
+          "item": "Normatividad en vehículos de transporte y en consumo doméstico e industrial; programas organizacionales urbanos para reducir emisiones energéticas",
+          "clasificacion": "CONCRETO",
+          "pagina": 209
+        },
+        {
+          "item": "Incrementar la producción de energía de fuentes hidroeléctricas",
+          "clasificacion": "CONCRETO",
+          "pagina": 209
+        },
+        {
+          "item": "Priorizar políticas de adaptación integradas a reducción de pobreza/vulnerabilidad y fomentar la transición a economías bajas en emisiones de GEI",
+          "clasificacion": "GENERICO",
+          "pagina": 209
+        },
+        {
+          "item": "Desarrollar políticas fiscales, comerciales, tecnológicas y educativas facilitadoras de bienes públicos (clima, agua, SAN, energía, transporte público)",
+          "clasificacion": "GENERICO",
+          "pagina": 210
+        }
       ],
-      "tally": "5 de 10 ítems pasan el test de concreción (muestra representativa de los Recuadros 1, 2, 3, 5, 9, 12 y 13; el documento no ofrece una lista única enumerada de recomendaciones, sino recuadros temáticos distribuidos por capítulo)",
-      "nota": "El patrón se repite de forma consistente en los recuadros no muestreados (4, 6, 7, 8, 10, 11, 14), todos con la misma mezcla aproximada de ítems genéricos mayoritarios y concretos minoritarios documentada en el borrador de trabajo."
+      "tally": "9 de 13 ítems pasan el test de concreción",
+      "nota": "Corregido en adjudicación Ronda 9 (2026-07-16) según revisor ciego."
     }
   },
   "tipologia": {
-    "transformacion_primaria": { "numero": 6, "nombre": "Sostenibilidad ambiental", "certeza": "Alta" },
-    "transformacion_secundaria": { "numero": 11, "nombre": "Capacidades del Estado", "certeza": "Media" },
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Media"
+    },
     "razonamiento_5_pasos": {
       "tension_dialectica": "El documento procesa la tensión entre un modelo de desarrollo hondureño que erosiona su propia base de recursos naturales —expansión agropecuaria como mayor motor de deforestación (capítulo 1.D), cambio de uso de tierra como 84% de las emisiones brutas de GEI (capítulo 7.A), 77% de la oferta energética primaria dependiente de leña (capítulo 1.E)— y la creciente vulnerabilidad climática que ese mismo modelo agrava, expresada en caídas de rendimiento agrícola de hasta 50%, pérdida de disponibilidad de agua de 96% y un costo acumulado que podría llegar a 79,55% del PIB de 2008 hacia 2100 (escenario A2).",
       "filtro_categoria_primaria": "El objeto sustantivo que el documento mide de principio a fin es el desempeño ambiental del país frente al cambio climático —temperatura, precipitación, disponibilidad de agua, biodiversidad, rendimientos agrícolas, emisiones de GEI— y no la capacidad institucional del Estado como resultado en sí mismo; los ocho capítulos técnicos (1 a 8) son, sin excepción, estimaciones de impacto físico y económico sobre variables ambientales y productivas, lo que fija la primaria en #6 Sostenibilidad ambiental con certeza Alta, en el mismo patrón que la ancla doc09 (documento íntegro sobre impactos/resiliencia climática, no un canal causal indirecto).",

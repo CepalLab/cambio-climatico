@@ -1,10 +1,10 @@
 # Esquema JSON canónico v1 — salida por documento del pipeline de Fase 2b
 
-**Fecha**: 2026-07-07 (Ronda 3)
-**Estado**: v1, creado a raíz del feedback de la Ronda 3 sobre los 3 JSON piloto: los tres artefactos usaban estructuras distintas entre sí (claves en inglés y español mezcladas, citas como string plano en un documento y como objeto en otro, dos formatos diferentes de tipología). Para análisis agregado sobre 244 documentos esa consistencia no es cosmética — es la condición para poder computar cualquier cosa.
-**Regla general**: todo JSON producido por el pipeline (piloto, muestra de 14, corpus de 244) valida contra este esquema. Si un caso real no cabe en el esquema, se discute y se versiona el esquema — no se improvisa una variante en el artefacto.
+**Fecha**: 2026-07-07 (Ronda 3); actualizado 2026-07-16 (Ronda 8: exclusiones de front/back-matter; post-Ronda 9: split `conclusiones`/`recomendaciones` en enriquecimiento)
+**Estado**: v1 (campo `conclusiones_recomendaciones` canónico como objeto desde 2026-07-16; la lista plana del piloto de 17 se tolera como legado hasta retropase o escalamiento).
+**Regla general**: todo JSON producido por el pipeline (piloto, muestra de 17, corpus de 244) valida contra este esquema. Si un caso real no cabe en el esquema, se discute y se versiona el esquema — no se improvisa una variante en el artefacto.
 **Validador automático**: [pipeline/validar_esquema.py](pipeline/validar_esquema.py) (solo stdlib) chequea
-la conformidad estructural — claves, slugs, formato de citas, veredictos, tipología — y hace un chequeo heurístico de referencias cruzadas. `python fase2/pipeline/validar_esquema.py [rutas...]` (sin argumentos valida los 3 piloto).
+la conformidad estructural — claves, slugs, formato de citas, veredictos, tipología, exclusiones de secciones (reglas 7–9) — y hace un chequeo heurístico de referencias cruzadas. `python fase2/pipeline/validar_esquema.py [rutas...]` (sin argumentos valida todos los canónicos de `pilot/`).
 
 ## 0. Reglas transversales
 
@@ -44,7 +44,11 @@ la conformidad estructural — claves, slugs, formato de citas, veredictos, tipo
       "temporal": "…"
     },
     "hallazgos_principales": ["… (p.N)"],
-    "conclusiones_recomendaciones": ["…"],
+    "conclusiones_recomendaciones": {
+      "conclusiones": ["… respuesta a la pregunta de investigación …"],
+      "recomendaciones": ["… qué hacer para que eso cambie …"],
+      "nota": "… | null  (p. ej. si recomendaciones queda [])"
+    },
     "resumen_narrativo": "…"
   },
   "resumen_secciones": [
@@ -52,7 +56,7 @@ la conformidad estructural — claves, slugs, formato de citas, veredictos, tipo
       "seccion": "título tal como aparece en el índice",
       "nivel": 1,
       "paginas": "1-2",
-      "resumen": "… | null solo si se delega íntegramente en subsecciones",
+      "resumen": "hoja: proporcional + (a)(b)(c) | padre con subsecciones: mapa 2-4 oraciones o null",
       "dimensiones": [
         {
           "dimension": "estado_de_situacion",
@@ -118,6 +122,21 @@ la conformidad estructural — claves, slugs, formato de citas, veredictos, tipo
 - `alcance` separa `ambito_aplicacion` (sobre qué región/países el documento analiza o propone) de
   `referentes_dependencias` (bloques/países citados como comparación u origen de un instrumento
   externo) — variables del [codebook §2](codebook_v0.md), decisión de Ronda 1 punto 7.
+- `hallazgos_principales`: evidencia/cifras del recorrido analítico — **no** son el cierre de la pregunta
+  de investigación (eso va en `conclusiones`).
+- **`conclusiones_recomendaciones` (objeto, post-Ronda 9)**: dos listas bajo la misma clave, porque
+  responden a actos distintos y mezclarlas opaca documentos que cierran el análisis sin agenda de acción:
+  - `conclusiones`: respuesta(s) a `pregunta_investigacion` — qué concluye el documento del análisis.
+    No deben ser una reescritura de `hallazgos_principales`; son la síntesis interpretativa que cierra la
+    pregunta. Ver **test de cierre** en [GUIA_OPERATIVA_PIPELINE.md](GUIA_OPERATIVA_PIPELINE.md) Etapa 2
+    (no tomar solo el cierre institucional/normativo del capítulo Conclusiones).
+  - `recomendaciones`: imperativos de acción (qué hacer para que eso cambie), distinguiendo cuando aplique
+    si son del documento o dirigidas a terceros/gobiernos. Si el documento no formula recomendaciones
+    (diagnóstico, proyección, etc.), la lista va **`[]`** y `nota` lo declara explícitamente — misma lógica
+    que un veredicto "No" documentado en interpelación.
+  - `nota`: opcional (`null` si no hace falta).
+  - **Legado**: la muestra de 17 usó una lista plana de strings; el validador la tolera. Todo documento
+    nuevo (escalamiento a 244) debe usar el objeto.
 - `resumen_narrativo`: 3-5 oraciones, guardrail anti-genérico de
   [INTERPELACION_v0.md §3](INTERPELACION_v0.md). Sin referencias a otros documentos del corpus (regla
   transversal 3).
@@ -130,16 +149,20 @@ la conformidad estructural — claves, slugs, formato de citas, veredictos, tipo
 
 ### `resumen_secciones` — estructura anidada por niveles (Ronda 3)
 
-1. **Se capturan siempre todas las secciones de nivel 1 del índice**, en orden, sin excepciones. Nunca se salta del nivel 1 al nivel 3 sin registrar el padre intermedio. **En documentos sin índice (Ronda 5)** — los policy briefs cortos —, los **encabezados tipográficos de nivel 1 cuentan como índice**: se captura cada encabezado como sección propia, sin fusionar secciones contiguas aunque sean breves o temáticamente continuas ("Introduction" y "Background" son dos filas, no una "Introduction / Background").
-2. **Se desciende a subsecciones solo cuando la sección de nivel 1 supera ~8-10 páginas**, y las subsecciones van **anidadas dentro de su padre** (campo `subsecciones`, mismo shape, `nivel` 2 o 3) — no aplanadas como filas hermanas del nivel 1. El padre conserva su fila con `paginas` del rango completo; su `resumen` puede ser una síntesis breve de 1-2 líneas del arco de la sección o `null` si
-   las subsecciones lo cubren todo.
+1. **Se capturan todas las secciones de nivel 1 del índice**, en orden, **salvo las exclusiones de las reglas 3, 7, 8 y 9**. Nunca se salta del nivel 1 al nivel 3 sin registrar el padre intermedio. **En documentos sin índice (Ronda 5)** — los policy briefs cortos —, los **encabezados tipográficos de nivel 1 cuentan como índice**: se captura cada encabezado como sección propia, sin fusionar secciones contiguas aunque sean breves o temáticamente continuas ("Introduction" y "Background" son dos filas, no una "Introduction / Background").
+2. **Se desciende a subsecciones solo cuando la sección de nivel 1 supera ~8-10 páginas**, y las subsecciones van **anidadas dentro de su padre** (campo `subsecciones`, mismo shape, `nivel` 2 o 3) — no aplanadas como filas hermanas del nivel 1. El padre conserva su fila con `paginas` del rango completo. **Padre-puente (aclaración 2026-07-16, post-Ronda 9)**: si hay `subsecciones`, el `resumen` del padre es solo un **mapa** de 2–4 oraciones (función del bloque + qué cubren los hijos) o `null` si las subsecciones lo cubren todo. **No** se le exige el piso proporcional al rango de páginas del padre — el contenido sustantivo vive en las hojas. Las exclusiones de las reglas 7–9 también aplican a subsecciones (p. ej. una "Bibliografía" de capítulo a nivel 2 se omite igual que una de nivel 1).
 3. **El resumen ejecutivo / resumen / abstract del propio documento NO se procesa como sección.** Su contenido ya alimenta `resumen_enriquecido`; procesarlo como sección duplica el conteo de dimensiones en el agregado (repite lo que las demás secciones ya dicen). Se deja constancia con `documento.tiene_resumen_ejecutivo: true`.
-4. **Calidad del resumen** (endurece la regla proporcional de Ronda 2): además del largo proporcional (~1 línea por página, piso 3-4 líneas), cada resumen debe incluir (a) el argumento o función de la sección dentro del documento — qué trabajo hace, no solo qué temas toca; (b) las cifras o datos clave si los hay; (c) los instrumentos, actores o casos nombrados si los hay. Un resumen que solo enuncia
-   temas ("aborda la vulnerabilidad y las políticas del sector") no cumple, aunque tenga el largo correcto.
+4. **Calidad del resumen en las hojas** (endurece la regla proporcional de Ronda 2; el piso aplica **solo a secciones sin `subsecciones`**): además del largo proporcional (~1 línea por página, piso 3-4 líneas), cada resumen de hoja debe incluir (a) el argumento o función de la sección dentro del documento — qué trabajo hace, no solo qué temas toca; (b) las cifras o datos clave si los hay; (c) los instrumentos, actores o casos nombrados si los hay. Un resumen que solo enuncia temas ("aborda la vulnerabilidad y las políticas del sector") no cumple, aunque tenga el largo correcto. Los padres-puente (regla 2) quedan fuera de este piso.
 5. `dimensiones` es una **lista de objetos** (no un dict), cada uno con su cita+página propia — una dimensión no hereda la cita de otra (regla de Ronda 2).
 6. **Dimensiones solo en las hojas (Ronda 4)**: cuando una sección de nivel 1 se descompone en `subsecciones`, el padre lleva `"dimensiones": []` — las etiquetas viven únicamente en las subsecciones. Excepción: si el padre tiene contenido propio antes de su primera subsección (una frase de encuadre del capítulo que ninguna subsección cubre), ese fragmento sí lleva su propia dimensión con cita+página específica. Razón: la misma lógica anti-doble-conteo de la regla 3 (resumen ejecutivo) — una cita no puede sostener una dimensión en dos filas distintas del mismo agregado.
-7. **Anexos: no se procesan como sección (Ronda 4)**: los anexos técnicos (metodología detallada, pruebas de robustez, fuentes de datos) no se incluyen en `resumen_secciones`. Se registra su existencia como metadato (`documento.tiene_anexos: true | false`, campo nuevo) pero no se etiquetan dimensiones sobre su contenido. **Excepción histórica**: `pilot/doc11_pobreza_infantil.json` procesó su sección 5 (Anexos) completa porque se generó antes de esta decisión (Ronda 4, 2026-07-08) — se conserva así en el piloto, no se retroactúa; los documentos siguientes (12 restantes de la muestra, luego 244) siguen esta regla nueva.
-8. **Bibliografía/Referencias: tampoco se procesa como sección (Ronda 6)**: mismo criterio y misma razón que los anexos (regla 7) — es material de referencia sin contenido analítico propio, y `paginas_cuerpo` ya la excluye por definición (ver tabla de `documento` arriba: "excluyendo bibliografía y anexos"), así que incluirla en `resumen_secciones` es inconsistente con esa definición y duplica trabajo sin aportar señal al agregado. **No se registra ninguna fila para ella** — ni siquiera con `dimensiones: []` — a diferencia de los anexos, que si tienen su propio metadato (`tiene_anexos`), la bibliografía no necesita uno porque todo documento la tiene y no es informativo distinguir. **Excepción histórica**: `pilot/doc12_agricultura_clima.json` procesó su Bibliografía como fila propia porque se generó antes de esta decisión — se conserva así en el piloto, no se retroactúa; los documentos siguientes siguen esta regla nueva.
+6bis. **Dimensiones solo con señal climática/ambiental del corpus (2026-07-16)**: en documentos híbridos, las hojas sin contenido atingente al corpus climático llevan `"dimensiones": []` aunque tengan resumen sustantivo. Ver [codebook_v0.md §1](codebook_v0.md). No confundir con la regla 6 (padres-puente): acá la hoja se resume, pero no se etiqueta.
+7. **Anexos: no se procesan como sección (Ronda 4)**: los anexos técnicos (metodología detallada, pruebas de robustez, fuentes de datos) no se incluyen en `resumen_secciones`. Se registra su existencia como metadato (`documento.tiene_anexos: true | false`, campo nuevo) pero no se etiquetan dimensiones sobre su contenido. **Excepción histórica**: `pilot/doc11_pobreza_infantil.json` procesó su sección 5 (Anexos) completa porque se generó antes de esta decisión (Ronda 4, 2026-07-08) — se conserva así en el piloto, no se retroactúa; los documentos siguientes siguen esta regla.
+8. **Bibliografía/Referencias: tampoco se procesa como sección (Ronda 6; retroactuada en Ronda 8)**: mismo criterio y misma razón que los anexos (regla 7) — es material de referencia sin contenido analítico propio, y `paginas_cuerpo` ya la excluye por definición (ver tabla de `documento` arriba: "excluyendo bibliografía y anexos"), así que incluirla en `resumen_secciones` es inconsistente con esa definición y duplica trabajo sin aportar señal al agregado. **No se registra ninguna fila para ella** — ni siquiera con `dimensiones: []` — a diferencia de los anexos, que sí tienen su propio metadato (`tiene_anexos`); la bibliografía no necesita uno porque casi todo documento la tiene y no es informativo distinguir. Títulos cubiertos (es/en, nivel 1 o anidados): `Bibliografía`, `Bibliography`, `Referencias`, `References`, y variantes con "bibliográficas". En Ronda 8 se limpiaron las filas residuales del piloto (incl. la excepción histórica de `doc12` y las bibliografías de capítulo de `doc10`).
+9. **Front-matter editorial y material de referencia léxica: no se procesan como sección (Ronda 8)**: el pipeline va "al hueso" del documento — Introducción → cuerpo argumentativo → Conclusiones/Recomendaciones. Se excluyen de `resumen_secciones` (sin fila, sin dimensiones), en cualquier nivel:
+   - **Prólogo / Prefacio** (`Prólogo`, `Prologue`, `Prefacio`, `Preface`): texto institucional o de autoría que enmarca la publicación pero no desarrolla el argumento analítico; etiquetarlo sesga el agregado hacia `contexto_antecedentes` / `diagnostico_estructural` de portada.
+   - **Mensajes institucionales o "mensajes clave"** (`Mensaje del Presidente…`, `Mensajes clave`, `Key messages`, y análogos): apertura política o síntesis editorial que funciona como cuasi-resumen ejecutivo (misma lógica anti-doble-conteo de la regla 3). Los recuadros de portada ya estaban fuera de `tiene_resumen_ejecutivo` (Ronda 5); esta regla cierra el mismo hueco cuando aparecen como apartado del índice.
+   - **Acrónimos / Glosario** (`Acrónimos`, `List of acronyms`, `Glosario`, `Glossary`): material de referencia léxica sin contenido analítico propio (misma familia que bibliografía, regla 8).
+   No se agrega metadato tipo `tiene_prologo` — no aporta al agregado. Si un hallazgo sustantivo solo aparece en un prólogo/mensaje y no se repite en el cuerpo, puede alimentar `resumen_enriquecido` (con página), pero **no** genera fila en `resumen_secciones` ni dimensión de codebook.
 
 ### `interpelacion`
 

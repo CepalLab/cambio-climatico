@@ -32,11 +32,14 @@
       "La comparación entre el efecto de la variabilidad climática interanual y las tendencias de largo plazo muestra que la sobreelevación del nivel del mar producida por el fenómeno de El Niño de 1998 (~0,2 m en el Pacífico ecuatorial) es del mismo orden de magnitud que la subida esperada por tendencia hasta mediados de siglo, y solo hacia 2070 las tendencias de fondo alcanzan valores comparables en el resto de la región (p.99-100).",
       "Existía, al momento del estudio, una carencia documentada de información oceanográfica de alta resolución en ALyC y, de forma más general, en todo el Hemisferio Sur, lo que motivó la generación ex novo de las bases de datos GOW, GOS y GOT mediante modelado numérico en lugar de depender solo de registros instrumentales dispersos (p.33, p.56)."
     ],
-    "conclusiones_recomendaciones": [
-      "El documento concluye (cap.7, p.177) que constituye el primer entregable de un estudio regional de cuatro documentos (Documento 1: dinámicas/agentes costeros; Documento 2: vulnerabilidad y exposición; Documento 3: impactos; Documento 4: evaluación de riesgos), más dos documentos auxiliares (efectos teóricos y guía metodológica) y un visor web, y que su función es proveer el atlas físico-estadístico de base sobre el que se apoyan los análisis de vulnerabilidad, impacto y riesgo de los documentos siguientes (p.25-26, cuadro 1.1).",
-      "No formula recomendaciones de política dirigidas a terceros o gobiernos: es un documento de generación de conocimiento físico-estadístico (bases de datos GOW/GOS/GOT, técnica Trend-EOF, análisis de variabilidad climática y de huracanes), no una propuesta de intervención productiva, energética o social sobre la región.",
-      "Señala como conclusión metodológica transversal que la tendencia de largo plazo y la variabilidad climática interanual deben analizarse como dos escalas temporales distintas y complementarias, ya que para varias dinámicas (nivel del mar, oleaje, marea meteorológica) la variabilidad asociada a patrones como ENOS puede explicar una parte sustancial de la señal observada, no atribuible solo al cambio climático de largo plazo (p.175)."
-    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El documento concluye (cap.7, p.177) que constituye el primer entregable de un estudio regional de cuatro documentos (Documento 1: dinámicas/agentes costeros; Documento 2: vulnerabilidad y exposición; Documento 3: impactos; Documento 4: evaluación de riesgos), más dos documentos auxiliares (efectos teóricos y guía metodológica) y un visor web, y que su función es proveer el atlas físico-estadístico de base sobre el que se apoyan los análisis de vulnerabilidad, impacto y riesgo de los documentos siguientes (p.25-26, cuadro 1.1).",
+        "Señala como conclusión metodológica transversal que la tendencia de largo plazo y la variabilidad climática interanual deben analizarse como dos escalas temporales distintas y complementarias, ya que para varias dinámicas (nivel del mar, oleaje, marea meteorológica) la variabilidad asociada a patrones como ENOS puede explicar una parte sustancial de la señal observada, no atribuible solo al cambio climático de largo plazo (p.175)."
+      ],
+      "recomendaciones": [],
+      "nota": "Documento de generación de conocimiento físico-estadístico (bases GOW/GOS/GOT); no formula recomendaciones de política dirigidas a terceros o gobiernos."
+    },
     "resumen_narrativo": "Este documento reconstruye 61 años (1948-2008) de reanálisis horario de oleaje, marea astronómica y marea meteorológica para 1.132 puntos a lo largo de 72.182 km de costa de América Latina y el Caribe, generados con los modelos numéricos WaveWatch III, ROMS y TPXO y validados contra boyas de la NOAA y mareógrafos de la Universidad de Hawai. A partir de esa base calcula tendencias de largo plazo con la técnica Trend-EOF y proyecta los cambios esperables hacia 2040, 2050 y 2070, encontrando por ejemplo un ascenso del nivel del mar que se acelera hasta casi 200 mm en la costa norte de Sudamérica hacia 2070 y aumentos de la altura de ola de hasta 1,8 m en la Hs12 del norte de México y el sur de Brasil-Uruguay-Argentina. Incorpora además un módulo específico de 54 años de huracanes históricos (1955-2008) en el Atlántico y el Pacífico Nordeste, modelados con Hydromet-Rankin Vortex, Bretschneider y el SPM modificado para suplir la baja resolución del reanálisis NCEP/NCAR frente a eventos ciclónicos. Es el primero de una serie de cuatro documentos (dinámicas, vulnerabilidad, impactos, riesgos) encargada por la CEPAL al Instituto de Hidráulica Ambiental de Cantabria con financiamiento del Gobierno de España, y no formula recomendaciones de política sino que provee la base física para los análisis de vulnerabilidad e impacto de los documentos siguientes."
   },
   "resumen_secciones": [
@@ -836,14 +839,6 @@
         }
       ],
       "subsecciones": []
-    },
-    {
-      "seccion": "Bibliografía",
-      "nivel": 1,
-      "paginas": "179-183",
-      "resumen": "Listado de aproximadamente 90 referencias bibliográficas citadas a lo largo del documento (artículos científicos sobre oleaje, nivel del mar, mareas, huracanes, downscaling estadístico y modelos numéricos, además de los informes del IPCC). No se etiquetan dimensiones del codebook sobre esta sección por tratarse de material de referencia bibliográfica, no de contenido analítico propio del documento.",
-      "dimensiones": [],
-      "subsecciones": []
     }
   ],
   "interpelacion": {
@@ -854,19 +849,15 @@
       "nota": "El No es por diseño del documento, no por omisión descuidada: es un estudio técnico-científico de generación de bases de datos y metodologías (primero de cuatro documentos de un proyecto de cooperación técnica), no una propuesta de política climática ni de transformación del modelo de desarrollo. Los cuatro criterios de interpelación se aplican igualmente por instrucción metodológica (INTERPELACION_v0.md §1.6), pero corresponde señalar aquí explícitamente esta naturaleza distinta."
     },
     "articulacion_actores": {
-      "veredicto": "Parcial",
-      "evidencia": "El documento nombra mecanismos institucionales concretos de coordinación: los Estudios Regionales sobre Economía del Cambio Climático (ERECC), 'coordinados técnicamente por la CEPAL', que dan a los países de la región acceso a este tipo de análisis (p.26); y el proyecto de cooperación C3A mismo, financiado por el Gobierno de España a través de dos ministerios y ejecutado con supervisión de la CEPAL y participación técnica del Instituto de Hidráulica Ambiental de Cantabria, cuya metodología UC/OECC España 'desea poner... a disposición de aquellos países que así lo deseen' (p.27). Ambos mecanismos tienen nombre propio y están efectivamente en implementación dentro del ámbito de aplicación (la región), pero articulan cooperación técnica e intergubernamental para la producción de conocimiento, no una plataforma multiactor (gobiernos, sector privado, sociedad civil) de coordinación de la acción climática en sí.",
+      "veredicto": "No",
+      "evidencia": "Chequeo negativo explícito: se buscó mecanismo/plataforma/consejo/proceso de planificación multiactor con nombre propio en el ámbito ALC. No aparece. El texto menciona la colaboración institucional de producción del estudio (Instituto de Hidráulica Ambiental de Cantabria–CEPAL, financiamiento Gobierno de España) en créditos, no como mecanismo de articulación de política costera regional. Las conclusiones no abordan coordinación entre gobiernos, sector privado o sociedad civil.",
       "citas": [
         {
-          "cita": "Los Estudios Regionales sobre Economía del Cambio Climático (ERECC) coordinados técnicamente por la CEPAL proporcionan análisis a escala local, permitiendo a países y regiones identificar las implicaciones del cambio climático para sus economías y grupos socio-económicos específicos",
-          "pagina": 26
-        },
-        {
-          "cita": "El Gobierno de España desea poner esta metodología y las herramientas asociadas a disposición de aquellos países que así lo deseen pues la información generada mediante la aplicación de esta metodología puede ser de gran utilidad para evaluar impactos, plantear medidas de adaptación y realizar un análisis económico de las mismas",
-          "pagina": 27
+          "cita": "Este documento es el primero de los documentos desarrollados dentro del “Estudio regional de los efectos del Cambio Climático en la Costa de América Latina y el Caribe” (C3A) realizado entre el Instituto de Hidráulica Ambiental de Cantabria y CEPAL.",
+          "pagina": 177
         }
       ],
-      "nota": "El documento es de naturaleza distinta a una propuesta de política climática (es un estudio técnico-científico de dinámicas costeras); los mecanismos citados articulan cooperación técnica para la producción de conocimiento (ERECC, proyecto C3A), no una gobernanza multiactor de la acción climática regional."
+      "nota": "Corregido en adjudicación Ronda 9 (2026-07-16) según revisor ciego."
     },
     "oportunidades_productivas_sostenibles": {
       "veredicto": "No",
