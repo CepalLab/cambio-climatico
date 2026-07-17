@@ -1,0 +1,200 @@
+{
+  "num_muestra": 8,
+  "handle": "https://hdl.handle.net/11362/46792",
+  "revisor": {
+    "modelo": "cursor-grok-4.5",
+    "harness": "cursor",
+    "fecha": "2026-07-16"
+  },
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "Test 1 (paquete coordinado): el Prólogo define el gran impulso ambiental como reorientación coordinada de inversiones, políticas y regulaciones, y el Cap. III propone diversificar el portafolio de inversiones en agua-energía-agricultura con infraestructuras que refuercen las tres seguridades 'de manera simultánea'; sin embargo, el volumen es una compilación diagnóstica de gobernanza hídrica (2002-2020), no una hoja de ruta de despegue a escala de modelo de desarrollo. Test 2 (sectores estratégicos): sí nombra hidroelectricidad, energías renovables (termosolar, eólica, mareomotriz), modernización de regadíos, biocombustibles y biorrefinería con instrumentos. Test 3 (eficiencias): el Prólogo conecta empleo de calidad, reducción de brechas y desacople ambiental, pero el cuerpo desarrolla sobre todo la dimensión ambiental/hídrica. Cumple instrumentos sectoriales y algo de lógica coordinada en el Nexo, sin paquete Big Push a escala de modelo → Parcial.",
+      "citas": [
+        {
+          "cita": "el gran impulso ambiental se define como una reorientación coordinada de inversiones, políticas públicas, regulaciones y regímenes de incentivos e impositivos para impulsar el crecimiento socioeconómico, la generación de empleo y el desarrollo de cadenas productivas que, al mismo tiempo, reduzcan la huella ambiental",
+          "pagina": 10
+        },
+        {
+          "cita": "Planificar, diseñar y construir infraestructuras bajo el enfoque del Nexo dentro de los rangos de incertidumbre que imponen las tendencias de cambio climático para la cuenca en cuestión, resilientes y adaptables que contribuyan al refuerzo de la seguridad hídrica, energética y alimentaria de manera simultánea.",
+          "pagina": 290
+        }
+      ]
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El documento nombra mecanismos institucionales de coordinación multiactor/multijurisdiccional ya adoptados en el ámbito ALC: organismos interjurisdiccionales argentinos (COIRCO, COREBE, AIC), comisiones binacionales/trinacionales (Pilcomayo, Bermejo, Autoridad del Lago Titicaca), entidades de cuenca como la CVC (Colombia) y, en planificación hídrica, CONAGUA/Programa Nacional Hídrico (México) y el Consejo Nacional de Recursos Hídricos con el Plan Nacional de Recursos Hídricos (Brasil), este último con participación explícita de administración, usuarios y comunidades. Cumple nombre propio + adopción institucional dentro del ámbito de aplicación (no son meros referentes extrarregionales).",
+      "citas": [
+        {
+          "cita": "se han creado varios organismos interjurisdiccionales de cuencas, como por ejemplo, el Comité Interjurisdiccional del Río Colorado (COIRCO), la Comisión Regional del Río Bermejo (COREBE) y la Autoridad Interjurisdiccional de las Cuencas de los Ríos Limay, Neuquén y Negro (AIC).",
+          "pagina": 64
+        },
+        {
+          "cita": "Algunos ejemplos recientes de este tipo de entidades incluyen: la Comisión Trinacional para el Desarrollo de la Cuenca del Río Pilcomayo, creada en 1995 por Argentina, Bolivia y Paraguay; la Comisión Binacional para el Desarrollo de la Alta Cuenca del Río Bermejo y el Río Grande de Tarija, creada también en 1995 por Argentina y Bolivia; y la Autoridad Binacional Autónoma del Sistema Hídrico del Lago Titicaca, Río Desaguadero, Lago Poopó y Salar de Coipasa, establecida por Bolivia y Perú",
+          "pagina": 65
+        },
+        {
+          "cita": "la gestión de los recursos hídricos debe ser descentralizada y contar con la participación de la administración pública, de los usuarios y de las comunidades. […] El 30 de enero del año 2006, el Consejo Nacional de Recursos Hídricos aprobó el Plan Nacional de Recursos Hídricos.",
+          "pagina": 208
+        }
+      ]
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "Sí enumera actividades/sectores concretos ligados al agua: hidroelectricidad, riego/agricultura (incluida modernización y agricultura familiar), minería e industria, biocombustibles, biorrefinería y energías renovables. El vínculo con productividad aparece con cifra citada (productividad económica por m³ mucho mayor en industria/minería que en agricultura), y hay menciones aisladas a empleo ('fuente de trabajo' en hidrocarburos/minería) y a desigualdad/pobreza como rasgo regional. No desarrolla con mecanismo de política o cifra propia el vínculo oportunidades sostenibles → empleo o reducción de desigualdad (queda en mención o en diagnóstico de productividad del agua). Enumeración sí + vínculo empleo/desigualdad poco desarrollado → Parcial.",
+      "citas": [
+        {
+          "cita": "los aprovechamientos productivos más relevantes corresponden al uso hidroeléctrico […] son distintos los riesgos aceptables para las actividades agrícolas, industriales y mineras […] la productividad económica por metro cúbico de agua de la industria y de la minería es decenas de veces mayor en comparación con la agricultura (Willaarts, Garrido y Llamas, 2014)",
+          "pagina": 83
+        },
+        {
+          "cita": "La explotación hidrocarburífera y minera, que aporta ingresos fiscales para los Estados y es fuente de trabajo para la población, pero que necesita grandes caudales de agua",
+          "pagina": 287
+        },
+        {
+          "cita": "El uso de los desechos agrícolas, agroindustriales y de alimentos, que bajo el concepto de biorrefinería, pueden permitir un aprovechamiento pleno de la cascada de uso de la biomasa, generando nuevas cadenas de valor",
+          "pagina": 287
+        }
+      ]
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "Desglose sobre el texto completo de C1 'Conclusiones y recomendaciones del Nexo' (pp. 286-294): lista de direcciones del portafolio de inversiones (p. 290), propuestas institucionales/organizativas (pp. 291-294) y propuestas sectoriales (p. 294). Se excluye C2 (ventajas de la Guía Metodológica) y el Recuadro III.5. De 21 ítems, 15 pasan el test de concreción (objeto/instrumento identificable) y 6 son genéricos (capacidades, principios de planificación, mainstreaming de enfoque o 'considerar' en foros). Mayoría concreta → Sí.",
+      "citas": [
+        {
+          "cita": "Ayudar al establecimiento de instalaciones que produzcan energías renovables, singularmente en el ámbito local y rural, y como apoyo a los sistemas de riego y servicios de agua potable (incluyendo desalobración de aguas salobres y desalinización de aguas marinas).",
+          "pagina": 290
+        },
+        {
+          "cita": "se considera conveniente una ley de aguas que refleje y articule las necesidades que se desprenden de una efectiva política del Nexo: planificación de cuencas, medidas de adaptación al cambio climático […] un registro de aguas […] y mecanismos de resolución de conflictos",
+          "pagina": 291
+        },
+        {
+          "cita": "Implantar (o mejorar) sistemas efectivos de control de la extracción de aguas superficiales y subterráneas […] autorización administrativa y la necesaria implantación progresiva de contadores (caudalímetros)",
+          "pagina": 294
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Asegurar la preservación e intangibilidad de las fuentes de agua (consumo humano/urbano), identificando tempranamente fuentes alternativas para situaciones críticas",
+          "clasificacion": "CONCRETO",
+          "pagina": 290
+        },
+        {
+          "item": "Planificar, diseñar y construir infraestructuras bajo el enfoque del Nexo, resilientes y adaptables, que refuercen seguridad hídrica, energética y alimentaria de manera simultánea",
+          "clasificacion": "CONCRETO",
+          "pagina": 290
+        },
+        {
+          "item": "Incentivar el tratamiento adecuado de las aguas residuales para su posterior dedicación a otros usos, preferentemente agrícolas",
+          "clasificacion": "CONCRETO",
+          "pagina": 290
+        },
+        {
+          "item": "Diversificar las fuentes de generación de energía y fomentar la complementación energética ante incertidumbres climáticas",
+          "clasificacion": "CONCRETO",
+          "pagina": 290
+        },
+        {
+          "item": "Establecer instalaciones de energías renovables (ámbito local/rural) de apoyo a riego y agua potable, incluyendo desalobración y desalinización",
+          "clasificacion": "CONCRETO",
+          "pagina": 290
+        },
+        {
+          "item": "Potenciar el incremento de la eficiencia energética e hídrica en riego, plantas de tratamiento, abastecimiento y normas de construcción",
+          "clasificacion": "CONCRETO",
+          "pagina": 290
+        },
+        {
+          "item": "Fomentar producción agrícola que reduzca monocultivo y deforestación y contemple la agricultura familiar",
+          "clasificacion": "CONCRETO",
+          "pagina": 290
+        },
+        {
+          "item": "Implementar sistemas de relevamiento y producción de información fundamental para la perspectiva del Nexo (datos comparables entre escalas, abiertos a actores y público)",
+          "clasificacion": "CONCRETO",
+          "pagina": 291
+        },
+        {
+          "item": "Programas de fortalecimiento de capacidades / fomentar investigación local del Nexo para identificar capacidades a crear o fortalecer",
+          "clasificacion": "GENERICO",
+          "pagina": 291
+        },
+        {
+          "item": "Ley de aguas moderna con planificación de cuencas, adaptación climática, registro de derechos y mecanismos de resolución de conflictos",
+          "clasificacion": "CONCRETO",
+          "pagina": 291
+        },
+        {
+          "item": "Normativa energética que fomente renovables (termosolar, eólica, mareomotriz), política de precios y control administrativo de biomasa",
+          "clasificacion": "CONCRETO",
+          "pagina": 292
+        },
+        {
+          "item": "Normativa agraria de establecimiento/modernización de regadíos, con autorización de expansión de frontera agrícola y uso mayoritario de renovables en riego",
+          "clasificacion": "CONCRETO",
+          "pagina": 292
+        },
+        {
+          "item": "La planificación debe ser elemento común de las tres legislaciones (agua, energía, agraria)",
+          "clasificacion": "GENERICO",
+          "pagina": 292
+        },
+        {
+          "item": "Planificación sectorial con datos de los otros dos sectores, aprobada por órgano con representantes de cada sector (gobierno o parlamento)",
+          "clasificacion": "CONCRETO",
+          "pagina": 292
+        },
+        {
+          "item": "Prever en tratados de cuencas transfronterizas planificación que incorpore el Nexo e incorporar criterios Nexo a la normativa de los organismos de tratados",
+          "clasificacion": "CONCRETO",
+          "pagina": 292
+        },
+        {
+          "item": "Mecanismos formales de coordinación entre reguladores (comisiones delegadas presididas por el Ejecutivo o mesas de diálogo público-privadas)",
+          "clasificacion": "CONCRETO",
+          "pagina": 293
+        },
+        {
+          "item": "Presencia de derechos humanos (agua, energía, alimentación) en las legislaciones de los tres componentes del Nexo",
+          "clasificacion": "GENERICO",
+          "pagina": 293
+        },
+        {
+          "item": "Tratados de protección de inversiones que tengan en cuenta consecuencias para derechos humanos (reflexionar formas de resolver conflictos)",
+          "clasificacion": "GENERICO",
+          "pagina": 293
+        },
+        {
+          "item": "Reformas normativas para que entes locales/subnacionales tengan en cuenta impactos sobre los componentes del Nexo",
+          "clasificacion": "GENERICO",
+          "pagina": 293
+        },
+        {
+          "item": "Que MERCOSUR, OTCA, CAN y organismos de tratados de aguas transfronterizas consideren el enfoque del Nexo en su actuación",
+          "clasificacion": "GENERICO",
+          "pagina": 294
+        },
+        {
+          "item": "Implantar/mejorar control de extracción de aguas superficiales y subterráneas con autorización administrativa e implantación progresiva de caudalímetros",
+          "clasificacion": "CONCRETO",
+          "pagina": 294
+        }
+      ],
+      "tally": "15 de 21 ítems pasan el test de concreción"
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "justificacion_breve": "El volumen organiza 'reflexiones sobre la gestión del agua' en torno a gobernanza hídrica, seguridad hídrica, servicios de agua potable/saneamiento y el Nexo agua-energía-alimentación, con el recurso y sus usos como objeto de transformación. La vía predominante de cambio son entidades de cuenca, planificación hidrológica, leyes de aguas y coordinación intersectorial: es decir, fortalecer la capacidad estatal para gestionar el agua. El clima y la huella ambiental entran como condición y restricción del manejo del recurso, no como canal causal de otro objeto distributivo."
+  }
+}

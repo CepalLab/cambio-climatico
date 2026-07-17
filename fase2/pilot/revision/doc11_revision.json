@@ -1,0 +1,127 @@
+{
+  "num_muestra": 11,
+  "handle": "https://hdl.handle.net/11362/82426",
+  "revisor": {
+    "modelo": "cursor-grok-4.5",
+    "harness": "cursor",
+    "fecha": "2026-07-16"
+  },
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "No",
+      "evidencia": "Por diseño del documento: es un estudio de modelización (cambio climático → PIB → pobreza infantil/juvenil), no una propuesta de transformación productiva. Test 1 ausente: no hay paquete coordinado de inversiones/políticas a escala de modelo de desarrollo. Test 2 ausente: no nombra sectores estratégicos del tipo transición energética/electromovilidad/bioeconomía/circularidad con instrumentos de impulso productivo; las recomendaciones se concentran en servicios sociales, infraestructura escolar/WASH, protección social y financiamiento climático sensible a la infancia. Test 3: hay dimensión de desigualdad/pobreza (keynesiana distributiva) y el clima como canal, pero sin propuesta schumpeteriana ni de desacople productivo. El No es por naturaleza del documento, no por omisión descuidada.",
+      "citas": [
+        {
+          "cita": "Este estudio combina estimaciones del impacto del cambio climático sobre el PIB con asociaciones estadísticas para inferir la incidencia en la pobreza infantil y juvenil en América Latina en 2030 bajo varios escenarios climáticos.",
+          "pagina": 41
+        },
+        {
+          "cita": "En términos concretos, se pueden identificar cuatro grandes áreas de políticas para mitigar los efectos del cambio climático en la pobreza infantil y juvenil.",
+          "pagina": 42
+        }
+      ]
+    },
+    "articulacion_actores": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento pide 'mayor articulación' entre políticas climáticas y de protección/defensa de la infancia, y enumera tipos de actores (sector privado, organismos y fondos multilaterales, instituciones financieras, ministerios de economía, autoridades fiscales, salud y educación). No nombra un mecanismo, plataforma, consejo o proceso de coordinación con nombre propio adoptado o en diseño institucional dentro del ámbito. La coordinación queda en lenguaje de 'necesidad de fortalecer' / 'impulsar articulación', sin institución concreta.",
+      "citas": [
+        {
+          "cita": "estas propuestas buscan impulsar una mayor articulación entre las políticas climáticas y las políticas de protección y defensa de la infancia en la región.",
+          "pagina": 43
+        },
+        {
+          "cita": "se enfatiza la necesidad de fortalecer las capacidades técnicas y la coordinación para garantizar una acción climática centrada en la infancia, entre el sector privado, organismos y fondos multilaterales, instituciones financieras y actores clave, como los ministerios de economía, autoridades fiscales, salud y educación.",
+          "pagina": 42
+        }
+      ]
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "Chequeo negativo explícito: (a) se buscó enumeración de sectores, industrias, mercados o actividades productivas sostenibles presentadas como oportunidad — no aparece (el foco es pobreza infantil/juvenil vía PIB y Gini; las menciones de 'oportunidades' son oportunidades perdidas de desarrollo infantil u 'oportunidad en equidad', no oportunidades productivas verdes). (b) se buscó vínculo desarrollado entre esa enumeración y empleo/productividad/creación de empleo — no hay; el empleo aparece solo como canal de daño (productividad laboral ante olas de calor en la metodología de riesgos agudos), no como oportunidad de la transición. Desigualdad sí es central, pero como agravante de pobreza infantil, no como narrativa de oportunidades productivas sostenibles.",
+      "citas": [
+        {
+          "cita": "Este estudio analiza el impacto potencial del cambio climático sobre la incidencia de la pobreza infantil y juvenil en América Latina en 2030.",
+          "pagina": 1
+        },
+        {
+          "cita": "pudiendo resultar en una vida de oportunidades perdidas.",
+          "pagina": 1
+        }
+      ]
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "Desglose sobre el texto completo del capítulo 4 (Conclusiones y recomendaciones de política pública, pp. 41–43 internas), no sobre el resumen ejecutivo abreviado. De 8 ítems operativos identificados en las cuatro áreas, 6 pasan el test de concreción (programas combinados primera infancia; escuelas resistentes; financiamiento/indicadores de infancia; protección social adaptativa; fondo de emergencia post-evento; educación climática en currículos). Fallan 2 cuyo objeto es abstracto o solo 'priorizar'/'capacidades y coordinación' sin entregable.",
+      "citas": [
+        {
+          "cita": "el fortalecimiento de la infraestructura escolar, garantizando el diseño y la construcción de escuelas resistentes a fenómenos climáticos, representa una política primordial",
+          "pagina": 42
+        },
+        {
+          "cita": "la creación de un fondo de emergencia para familias con niñas y niños pequeños que busque limitar los posibles periodos de privaciones que experimenta la niñez desfavorecida tras la ocurrencia de eventos climáticos extremos.",
+          "pagina": 43
+        },
+        {
+          "cita": "mediante la incorporación de la educación ambiental y climática en los currículos escolares y los programas educativos.",
+          "pagina": 43
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Diseñar programas especiales de servicios combinados de salud, nutrición y cuidado temprano con enfoque climático (primeros 1.000 días).",
+          "clasificacion": "CONCRETO",
+          "pagina": 42
+        },
+        {
+          "item": "Garantizar el diseño y la construcción de escuelas resistentes a fenómenos climáticos.",
+          "clasificacion": "CONCRETO",
+          "pagina": 42
+        },
+        {
+          "item": "Priorizar la resiliencia de la infraestructura para agua potable y saneamiento.",
+          "clasificacion": "GENERICO",
+          "pagina": 42
+        },
+        {
+          "item": "Aumentar el financiamiento climático sensible a la infancia; incorporar objetivos/indicadores de infancia y mecanismos de evaluación en políticas de actores financieros.",
+          "clasificacion": "CONCRETO",
+          "pagina": 42
+        },
+        {
+          "item": "Fortalecer las capacidades técnicas y la coordinación entre actores del financiamiento climático (privado, multilaterales, ministerios).",
+          "clasificacion": "GENERICO",
+          "pagina": 42
+        },
+        {
+          "item": "Desarrollar sistemas de protección social adaptativos/responsivos a desastres, incorporando criterios de vulnerabilidad climática.",
+          "clasificacion": "CONCRETO",
+          "pagina": 43
+        },
+        {
+          "item": "Crear un fondo de emergencia para familias con niñas y niños pequeños tras eventos climáticos extremos.",
+          "clasificacion": "CONCRETO",
+          "pagina": 43
+        },
+        {
+          "item": "Incorporar la educación ambiental y climática en los currículos escolares y programas educativos.",
+          "clasificacion": "CONCRETO",
+          "pagina": 43
+        }
+      ],
+      "tally": "6 de 8 ítems pasan el test de concreción"
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 2,
+      "nombre": "Reducción de la desigualdad",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "justificacion_breve": "El objeto del estudio es la pobreza infantil y juvenil y su amplificación vía desigualdad (Gini) bajo escenarios climáticos a 2030; las recomendaciones apuntan a protección social, servicios sociales y equidad intergeneracional. El cambio climático entra como canal causal (temperatura, desastres → PIB → pobreza), no como el fin transformador principal. Por eso la primaria es distributiva y la secundaria ambiental."
+  }
+}

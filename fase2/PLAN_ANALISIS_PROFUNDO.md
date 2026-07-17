@@ -210,6 +210,132 @@ estimados). La condición de la sección 4.2 ("solo si el equipo del curso valid
 cumplida: el lote se puede correr vía workflow cuando el usuario lo pida explícitamente, con doble lectura
 en los veredictos de interpelación (pendiente de 3.2).
 
+### Ronda 7 (2026-07-14) — intento de workflow sobre los 14 pendientes: falló operativamente, no por costo
+
+Con la condición de 4.2 cumplida, se corrió el workflow proyectado en 4.3.1 (`fase2-enriquecimiento-lote-14`,
+14 agentes en paralelo, un documento por agente, etapas 1→5 encadenadas). El run terminó con `status:
+completed`, pero **10 de los 14 agentes fallaron** (8 por rate limit, 2 por prompt demasiado largo) — solo
+~4 documentos salieron utilizables de esa corrida. Dos reintentos posteriores sobre los 10 fallidos se
+abortaron manualmente (`status: killed`): primero `fase2-enriquecimiento-reintento-10` (3 agentes en
+paralelo), después `fase2-enriquecimiento-secuencial` (lotes de máximo 2, nunca todos a la vez). Los 10
+documentos pendientes terminaron procesándose **uno a la vez**, en conversación directa, en las sesiones
+siguientes — el enfoque que ya se venía usando en el piloto (secciones 3-4) y que exige la Guía Operativa
+para lotes desde entonces.
+
+**Costo real reconstruido de las 3 corridas** (a partir de `usage` en los transcripts, no del contador
+interno `totalTokens` del workflow — ver 4.3.2): **~USD 109 en total**, por encima del techo proyectado en
+4.3.1 (~USD 85) y muy por encima del escenario base (~USD 16) — el rate limit no solo hizo fallar 10/14
+agentes, también encareció la corrida (reintentos = releer/repagar el mismo texto fuente varias veces). La
+lección operativa, además del costo: **un lote de 14 agentes en paralelo contra la misma API en la misma
+ventana saturó el rate limit** — de ahí el reintento secuencial en lotes de 2, que tampoco se dejó terminar.
+Pendiente de decisión antes de escalar a los 244: si el patrón correcto para lotes grandes es paralelismo
+acotado (p. ej. 3-4 agentes concurrentes, no 14) en vez de todo-o-nada.
+
+### Ronda 8 (2026-07-16) — limpieza de front/back-matter en `resumen_secciones` antes del revisor
+
+Con los 17 JSON de la muestra ya generados, una pasada parcial sobre el agregado mostró que la regla 1
+("capturar todas las de nivel 1") había dejado entrar material editorial y de referencia que no aporta
+señal al codebook y sí sesga conteos: prólogos institucionales, prefacios, mensajes del presidente /
+"mensajes clave", acrónimos/glosarios, y bibliografías residuales (incl. de capítulo). La bibliografía ya
+estaba excluida en regla 8 (Ronda 6) pero no se había retroactuado ni endurecido el validador; el resto
+no tenía regla.
+
+| # | Observación | Decisión | Dónde quedó |
+| - | ----------- | -------- | ----------- |
+| 1 | 22 filas de front/back-matter en 12 de los 17 JSON (9 bibliografías, 8 prólogos, 2 mensajes, 2 acrónimos, 1 prefacio); 22 dimensiones etiquetadas en ese material (casi todas en prólogos/mensajes; bibliografía y acrónimos venían con `dimensiones: []`) | Se eliminan las filas de `resumen_secciones` (in-place). No se tocan `resumen_enriquecido`, interpelación ni tipología. Se cierra la excepción histórica de bibliografía en `doc12`. Anexos de `doc11` se mantienen (excepción regla 7). | 12 JSON en `pilot/` |
+| 2 | Caso crítico: `doc04` "Mensajes clave" (pp.15–30, 7 dims) actuaba como resumen ejecutivo ampliado dentro del índice | Misma lógica anti-doble-conteo que regla 3; queda cubierta por la regla nueva de mensajes. | [esquema_json_v1.md §2 regla 9](esquema_json_v1.md) |
+| 3 | Regla 1 decía "sin excepciones" y chocaba con 3/7/8 | Se reformula: capturar nivel 1 salvo exclusiones 3, 7, 8 y 9; las exclusiones también aplican a subsecciones. | [esquema_json_v1.md §2](esquema_json_v1.md), [GUIA Etapa 3](GUIA_OPERATIVA_PIPELINE.md) |
+| 4 | El validador no rechazaba títulos de la lista negra | Se agrega chequeo heurístico de títulos excluidos; default sin args = los 17 canónicos. | [pipeline/validar_esquema.py](pipeline/validar_esquema.py) |
+
+Script de una sola pasada (ya aplicado): [pipeline/_limpiar_frontmatter.py](pipeline/_limpiar_frontmatter.py).
+
+### Ronda 9 (2026-07-16) — adjudicación de la revisión ciega (muestra de 17)
+
+Tras completar los 17 `pilot/revision/docNN_revision.json` y correr
+`pipeline/comparar_revision.py` (**67/102 = 66%** de acuerdo bruto; 35 discrepancias), el Lab adjudicó como
+juez de calibración (mismo precedente que Ronda 4: contraparte de dominio poco proactiva). No se escalaron
+las 35 filas al equipo del curso: se cerraron tres fallas sistemáticas con evidencia de casos y se aplicaron
+correcciones puntuales a los JSON del ejecutor.
+
+| # | Observación | Decisión | Dónde quedó |
+| - | ----------- | -------- | ----------- |
+| 1 | 11/17 docs discrepaban en `como_hacerlo_concreto` porque ejecutor y revisor elegían unidades distintas (recuadros vs cierre; casos vs recomendaciones propias) | Regla de selección de unidad: voz normativa del cierre; casos/lecciones de terceros no cuentan salvo elevación explícita | [INTERPELACION_v0.md §1.4](INTERPELACION_v0.md) |
+| 2 | Discrepancias en `articulacion_actores` (doc01/08/15): ¿mecanismo *descrito* acredita, o solo el *propuesto*? ¿ERECC cuenta? | Descrito vigente en el ámbito = Sí; producción del estudio (autoría) = No | [INTERPELACION_v0.md §1.2](INTERPELACION_v0.md) |
+| 3 | Swap tipológico #6↔#11 en doc08/doc12 | Regla objeto vs instrumento; nuevas anclas #11/#6 para gobernanza institucional | [TIPOLOGIA_v0.md §2–3](TIPOLOGIA_v0.md) |
+| 4 | Aplicación | Script de adjudicación + backups `.pre_ronda9.bak`; tabla en `pilot/revision/ADJUDICACION_RONDA9.md`; reporte de comparación actualizado | [pipeline/_adjudicar_ronda9.py](pipeline/_adjudicar_ronda9.py) |
+
+Paquete para el equipo del curso: memo de una página en
+[para_equipo_curso/MEMO_CALIBRACION_RONDA9.md](para_equipo_curso/MEMO_CALIBRACION_RONDA9.md).
+
+**Confirmación recibida (2026-07-16)**: el equipo del curso está de acuerdo con las tres reglas. La
+muestra de 17 queda **cerrada** (no se reabren los 15 ítems residuales ni el resto de la adjudicación).
+Siguiente paso operativo: preparar el escalamiento al corpus de 244 con metodología v0.5 / tipología v0.1.
+
+**Aclaración misma fecha — padres-puente en `resumen_secciones`**: al revisar la muestra, los resúmenes
+que parecían “muy cortos” son casi todos padres cuyo contenido vive en los hijos. Se fija por escrito:
+padre con `subsecciones` = mapa de 2–4 oraciones (o `null`), **sin** piso proporcional; el piso y la
+calidad (a)(b)(c) aplican solo a hojas. El validador ya chequeaba solo hojas; se documenta en
+[esquema_json_v1.md §2](esquema_json_v1.md) y [GUIA Etapa 3](GUIA_OPERATIVA_PIPELINE.md).
+
+**Aclaración misma fecha — `como_hacerlo` y topónimos (doc06)**: desglosar ecosistemas/lugares
+(Amazonas, Gran Chaco, etc.) como N ítems CONCRETO infla el tally. Regla: van como *alcance* dentro
+del ítem de acción. Se corrigió `pilot/doc06_tragedia_ambiental.json` alineando el desglose al Cap. IX
+(como el revisor ciego); veredicto Sí se mantiene (5/6). Regla en [INTERPELACION_v0.md §1.4](INTERPELACION_v0.md).
+
+**Aclaración misma fecha — split conclusiones / recomendaciones**: bajo `resumen_enriquecido`, el campo
+`conclusiones_recomendaciones` pasa a ser un **objeto** con `conclusiones` (cierre de la pregunta de
+investigación) y `recomendaciones` (agenda de acción; `[]` + `nota` si no hay). No es redundante con
+`hallazgos_principales` ni con `como_hacerlo_concreto`. Canónico para los 244; la lista plana del piloto
+de 17 se tolera como legado. Ver [esquema_json_v1.md](esquema_json_v1.md) y [GUIA Etapa 2](GUIA_OPERATIVA_PIPELINE.md).
+
+**Aclaración misma fecha — dimensiones vacías en docs híbridos (doc14, doc17)**: se confirma la práctica
+ya aplicada: resumen de todo el índice; `dimensiones: []` en hojas sin señal climática/ambiental del
+corpus. Regla escrita en [codebook_v0.md §1](codebook_v0.md) y [esquema_json_v1.md](esquema_json_v1.md)
+regla 6bis.
+
+### 4.3.2 Reconciliación de costo — Ronda 7 vs. procesamiento uno a la vez (2026-07-15, corregida 2026-07-15)
+
+Al armar el cierre de la muestra de 17 se reconstruyó el gasto real de ese período completo a partir de los
+transcripts en disco (`fase2/pipeline/_analisis_costo_sesiones.py`, script de uso puntual, no parte del
+pipeline). **Nota de corrección**: la primera versión de este análisis reportó ~USD 5,85 para Ronda 7 y
+~USD 50-55 para el período completo — ambas cifras estaban mal por un bug real en el script (`costo_usd()`
+leía las claves del objeto `usage` crudo — `cache_creation`/`cache_read_input_tokens` — sobre un diccionario
+ya agregado con claves planas distintas, así que **todo el costo de caché quedaba en cero** y solo se
+contaba input+output). Al corregir el bug y además usar el precio intro vigente de Sonnet 5 (USD 2/10 por
+millón in/out, no el de lista USD 3/15 — vigente hasta 2026-08-31), las cifras reales quedaron:
+
+| Segmento | Costo real (corregido) |
+| -------- | ----------------------- |
+| Ronda 7 — las 3 corridas de Workflow combinadas | **~USD 109** |
+| Sesiones uno-a-la-vez posteriores (reproceso de los 10 fallidos + resto de la muestra hasta cerrar los 17) | ~USD 154 |
+| Sesión de preparación/recalibración previa (2026-07-13/14, modelo Fable 5) | ~USD 166 (ver nota abajo) |
+
+Dos hallazgos adicionales, más allá de la corrección del bug:
+
+1. **El contador `totalTokens` que el propio Workflow reporta en `wf_*.json` no sirve para estimar costo**:
+   suma ~7,4M tokens para las 3 corridas de Ronda 7, pero el volumen real por los canales facturables
+   (input+output+escritura/lectura de caché) de los 27 transcripts de subagentes sobrevivientes es **~94M
+   tokens** — 12-13x más. La diferencia es la caché: cada relectura de contexto compartido entre agentes se
+   cuenta una vez en `totalTokens` pero se factura (a precio reducido) cada vez. Cualquier estimación de
+   costo de un workflow debe reconstruirse desde `usage`, no desde ese contador.
+2. **El total de Sonnet 5 en la ventana de 3 días que el usuario reportó (USD 262) coincide casi exacto**
+   con la suma de Ronda 7 + uno-a-la-vez a precio intro (**USD 261,05** sobre los 13 transcripts de sesión
+   de este directorio) — es decir, **el "USD 100 y tanto" recordado subestimaba el gasto real, no lo
+   sobreestimaba**; el número real de todo el período (excluyendo la sesión con Fable 5, ver abajo) es
+   bastante más alto. **Pendiente de confirmar con el usuario**: la sesión de preparación previa
+   (2026-07-13T16:37 a 2026-07-14T17:33, un solo hilo largo sin subagentes) usó el modelo Fable 5 y sumaría
+   ~USD 166 más si se factura en la misma cuenta/ventana — no está claro todavía si esa sesión corresponde a
+   uso normal de la cuenta o a un acceso distinto (p. ej. vista previa de investigación), porque excluirla es
+   justamente lo que hace que el resto cuadre casi exacto contra el USD 262 reportado.
+
+**Conclusión para decisiones futuras**: a esta escala, el enfoque uno-a-la-vez **tampoco fue barato en
+términos absolutos** (~USD 154 para reprocesar 10-13 documentos), pero sí fue muy superior en tasa de éxito
+(17/17 documentos con JSON válido vs. 4/14 en la corrida paralela de Ronda 7, que además costó más por los
+reintentos). El caso de negocio real para retomar workflow en los 244 documentos no es "ahorrar dinero" en
+abstracto — ambos enfoques tienen costo comparable por documento cuando todo sale bien — es **paralelismo
+acotado** para ahorrar tiempo de pared sin pagar el sobrecosto de reintentos por saturar el rate limit, con
+un límite de concurrencia explícito (no 14 de una).
+
 ---
 
 ## 2. Arquitectura propuesta

@@ -6,6 +6,8 @@ Construido a partir de las 7 dimensiones nombradas en la nota conceptual (secci�
 [PLAN_ANALISIS_PROFUNDO.md § Bitácora](PLAN_ANALISIS_PROFUNDO.md#bitácora-de-calibración-metodológica):
 cambio de unidad de análisis (de párrafo a apartado), nueva dimensión de contexto/antecedentes, y subtipo retrospectiva/prospectiva de brechas de implementación. Ver esa bitácora para el razonamiento completo detrás de cada cambio — este documento solo fija el estado vigente de las reglas.
 
+**v0.1.1 (2026-07-16)** — regla explícita: en documentos híbridos, dimensiones solo en apartados con señal climática/ambiental del corpus; el resto se resume con `dimensiones: []`.
+
 ## 1. Dimensiones analíticas (multi-etiqueta a nivel de apartado)
 
 **Unidad de análisis: apartado, no párrafo.** La nota conceptual dejaba esto ambiguo ("párrafos, secciones o hallazgos específicos" indistintamente — ver crítica en [README.md](README.md) §1). Se fija como **apartado**: la unidad de heading más profunda que exista en la estructura real de cada documento (un "apartado" implícito sin numerar en policy briefs cortos; una sección N o subsección N.Y en documentos estándar; posiblemente X.N.Y en los más extensos). Un apartado normalmente va a traer más de una dimensión a la vez (multi-etiqueta, ya previsto) — esto no es un problema de precisión siempre que **cada etiqueta lleve una cita textual literal y el número de página** que la sostiene, para poder reconstruir el fragmento exacto dentro del apartado si hace falta ese nivel de detalle más adelante.
@@ -26,6 +28,15 @@ cambio de unidad de análisis (de párrafo a apartado), nueva dimensión de cont
 [pilot/doc13_carbono_frontera.json](pilot/doc13_carbono_frontera.json)), ~18 páginas de un documento de 107 (los capítulos sobre el funcionamiento del sistema de comercio de emisiones de la UE) no calzaban en ninguna de las 8 dimensiones originales — no por error de codificación, sino porque esa categoría simplemente no existía. Sin ella, ese contenido queda invisible en cualquier agregado posterior.
 
 **Nota de diseño:** estado de situación/diagnóstico y avances/brechas son los pares más propensos a confusión — por eso llevan regla de decisión explícita y permiten doble etiqueta en vez de forzar exclusividad.
+
+**Apartados sin señal climática / ambiental del corpus (regla 2026-07-16).** El codebook sirve al análisis del **corpus climático**, no a etiquetar todo el contenido de un informe insignia híbrido. En documentos que mezclan bloques no climáticos con bloques climáticos (p. ej. *Trampas del desarrollo*, *Estudio Económico* con Parte I macro + Parte II transición):
+
+1. Se **captura y resume** todo el índice pertinente (mismas reglas de `resumen_secciones`).
+2. Se **etiquetan dimensiones solo** en apartados (hojas) donde exista señal climática o ambiental atingente al corpus — impacto, mitigación, adaptación, financiamiento climático, transición sostenible, gobernanza ambiental, etc. — con cita+página que lo sostenga.
+3. Apartados sin esa señal (coyuntura macro genérica, política productiva sin vínculo climático, etc.) llevan `"dimensiones": []`. El vacío es **informativo**, no un error de extracción.
+4. Si un apartado no climático menciona el clima solo de pasada (nota al pie, rótulo de sector sin desarrollo), no fuerza etiqueta: hace falta contenido analítico etiquetable, no la palabra “clima”.
+
+Razón: etiquetar PIB, deuda o desigualdad *sin* anclaje climático contaminaría el agregado de dimensiones del corpus. La tipología y el enriquecimiento documental siguen mirando el documento completo.
 
 ## 2. Variables adicionales
 

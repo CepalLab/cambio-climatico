@@ -23,11 +23,17 @@ seleccion_revision.json
 # Notebooks state
 .ipynb_checkpoints/
 
-# Editores
+# Editores / IDEs
 .vscode/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Herramientas de IA / CLI helpers (config local, no versionar)
+.claude/
+.codacy*
+.cursor/
+*.bak
 
 # Fase 2 — PDFs descargados del repositorio y extracciones temporales (no versionar binarios pesados)
 fase2/pilot/pdfs/

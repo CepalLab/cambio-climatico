@@ -1,0 +1,78 @@
+{
+  "num_muestra": 1,
+  "handle": "https://hdl.handle.net/11362/3955",
+  "revisor": {
+    "modelo": "cursor-grok-4.5",
+    "harness": "cursor",
+    "fecha": "2026-07-16"
+  },
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "No",
+      "evidencia": "Documento de naturaleza técnico-científica (primer volumen del estudio regional C3A): atlas de dinámicas costeras, tendencias a 2040/2050/2070 y correlaciones con índices climáticos. Test 1: no propone paquete coordinado de inversiones/políticas. Test 2: no aterriza sectores estratégicos de transformación productiva con instrumentos; el litoral es objeto de medición física (oleaje, mareas, NMM, SST), no de política industrial. Test 3: no conecta con eficiencias schumpeteriana/keynesiana; la dimensión ambiental es climática-física, no de desacople productivo. El No es por diseño del documento (insumo físico para análisis económicos posteriores del ERECC), no por omisión descuidada. Chequeo: se buscaron propuestas de inversión, transición energética o cambio estructural — no aparecen en conclusiones ni cuerpo.",
+      "citas": [
+        {
+          "cita": "En el presente documento se ha llevado a cabo un estudio sobre las actuales dinámicas costeras en la región. A modo de atlas de resultados se ha obtenido la descripción espacial y temporal de variables como el nivel medio del mar, la temperatura superficial del agua del mar, la salinidad, el oleaje o la marea, entre otras.",
+          "pagina": 177
+        },
+        {
+          "cita": "Una segunda parte del presente documento se ha dedicado al análisis de las tendencias de cambio sobre las distintas variables y una extrapolación de los cambios a los años objetivo 2040, 2050 y 2070, acotando su incertidumbre estadística. Esta parte constituye el punto de apoyo para un análisis de los efectos derivados de estos cambios que se tratarán en el documento 3, referente a impactos en las costas.",
+          "pagina": 177
+        }
+      ]
+    },
+    "articulacion_actores": {
+      "veredicto": "No",
+      "evidencia": "Chequeo negativo explícito: se buscó mecanismo/plataforma/consejo/proceso de planificación multiactor con nombre propio en el ámbito ALC. No aparece. El texto menciona la colaboración institucional de producción del estudio (Instituto de Hidráulica Ambiental de Cantabria–CEPAL, financiamiento Gobierno de España) en créditos, no como mecanismo de articulación de política costera regional. Las conclusiones no abordan coordinación entre gobiernos, sector privado o sociedad civil.",
+      "citas": [
+        {
+          "cita": "Este documento es el primero de los documentos desarrollados dentro del “Estudio regional de los efectos del Cambio Climático en la Costa de América Latina y el Caribe” (C3A) realizado entre el Instituto de Hidráulica Ambiental de Cantabria y CEPAL.",
+          "pagina": 177
+        }
+      ]
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "Chequeo negativo explícito: se buscaron (a) enumeración de sectores/actividades como oportunidades productivas de la transición y (b) vínculo desarrollado con empleo, productividad o desigualdad. No hay ninguno de los dos. El único “turismo”/“infraestructuras del transporte” aparece en los objetivos generales del estudio regional más amplio como indicadores de impacto físico a elaborar, no como oportunidades productivas desarrolladas en este volumen. Empleo, desigualdad y productividad laboral no figuran en conclusiones ni en el análisis de dinámicas.",
+      "citas": [
+        {
+          "cita": "Elaborar y obtener indicadores de impacto para zonas costeras incluyendo la inundación, erosión, efectos sobre las infraestructuras del transporte, abastecimiento y turismo.",
+          "pagina": 28
+        },
+        {
+          "cita": "No obstante, dada la importancia que tiene la variabilidad climática en muchas de las variables de estudio, se ha considerado prudente estudiar mediante un sencillo análisis de correlación cuál es la influencia de distintos patrones climáticos (representados por índices climáticos) en distintas variables a lo largo de las costas de estudio.",
+          "pagina": 177
+        }
+      ]
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "No",
+      "evidencia": "La sección de cierre es “7. Conclusiones generales” (p. 177): resume qué se hizo (atlas, tendencias, correlaciones) y remite impactos/vulnerabilidad a documentos 2 y 3 de la serie. No hay lista de recomendaciones de política. Los objetivos del estudio (p. 28) mencionan una “guía de acciones posibles de adaptación” como meta del programa ERECC más amplio, pero ese entregable no se desarrolla ni enumera en este volumen. Desglose sobre el texto de conclusiones: 0 ítems de política con verbo+objeto ejecutable. Tally: 0 de 0 (sin ítems de recomendación) → No.",
+      "citas": [
+        {
+          "cita": "7. Conclusiones generales. Este documento es el primero de los documentos desarrollados dentro del “Estudio regional de los efectos del Cambio Climático en la Costa de América Latina y el Caribe” (C3A) […]. Esta parte constituye el punto de apoyo para un análisis de los efectos derivados de estos cambios que se tratarán en el documento 3, referente a impactos en las costas. En el documento 2 se analiza la realidad de la región en términos de vulnerabilidad y exposición de las costas.",
+          "pagina": 177
+        },
+        {
+          "cita": "Elaborar una guía de acciones posibles de adaptación frente al cambio climático con indicadores de coste económico asociado.",
+          "pagina": 28
+        }
+      ],
+      "desglose_items": [],
+      "tally": "0 de 0 ítems pasan el test de concreción (no hay sección de recomendaciones operativas en este volumen)"
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Media"
+    },
+    "justificacion_breve": "El volumen construye un atlas físico del clima marítimo en ~72.182 km de costa ALC (NMM, oleaje, mareas, SST, salinidad, viento) y tendencias a 2040–2070 con incertidumbre estadística, como insumo del ERECC. No propone política climática ni transformación productiva: genera bases de datos, downscaling y métodos para que el análisis económico de impactos sea posible. La secundaria #11 refleja esa función de capacidad informativa/metodológica (transferencia de herramientas y capacitación aparecen como objetivos del estudio), no una reforma institucional desarrollada en el texto."
+  }
+}

@@ -16,11 +16,16 @@ Contenido:
 - [TIPOLOGIA_v0.md](TIPOLOGIA_v0.md) — clasificación de documentos por transformación primaria/secundaria, reutilizando el canon de las 11 Grandes Transformaciones del proyecto `Desafío CEPAL`.
 - [INTERPELACION_v0.md](INTERPELACION_v0.md) — metodología de los 4 criterios de interpelación
   institucional (gran impulso ambiental, articulación de actores, oportunidades productivas sostenibles, "cómo hacerlo"), pendiente de recalibrar con feedback sobre el piloto.
+- [INSTRUCCIONES_REVISOR_EXTERNO.md](INSTRUCCIONES_REVISOR_EXTERNO.md) — revisor ciego de interpelación/tipología.
+- [PROMPT_SESION_REVISOR_CIEGO.md](PROMPT_SESION_REVISOR_CIEGO.md) — prompt operativo (una sesión = un documento;
+  agnóstico de modelo/harness).
 - [pipeline/cepal_repositorio.py](pipeline/cepal_repositorio.py) — utilidad que resuelve handles del
   repositorio institucional vía su API REST (sin scraping), usada por el plan anterior.
 - [para_equipo_curso/](para_equipo_curso/) — **material divulgativo, NO canónico**: nota metodológica
   en lenguaje simple para compartir con el equipo del curso + 3 anexos con las fichas de los pilotos en
-  formato tabla (versión legible de los JSON de `pilot/`). Si la metodología canónica cambia, revisar que
+  formato tabla (versión legible de los JSON de `pilot/`) +
+  [MEMO_CALIBRACION_RONDA9.md](para_equipo_curso/MEMO_CALIBRACION_RONDA9.md) (cierre de calibración
+  muestra de 17: tasa 66%→85% y tres reglas a confirmar). Si la metodología canónica cambia, revisar que
   este material no quede desincronizado antes de enviarlo.
 
 ---
@@ -75,3 +80,17 @@ División de responsabilidades explícita: **Lab** = pipeline técnico de extrac
   [INTERPELACION_v0.md](INTERPELACION_v0.md) (v0.1) tras revisar los pilotos doc09/doc13 — se agregan
   tres modos de falla (citar evidencia genuina pero débil, nombrar categorías de actores sin mecanismo nombrado, acreditar una lista completa de acciones citando solo sus ítems más fuertes) y se exige desglose ítem por ítem con umbral de mayoría para el criterio "cómo hacerlo concreto". Se agrega el campo `resumen_narrativo` (síntesis de 3-5 oraciones con guardarraíl anti-genérico) y una regla de longitud proporcional para `resumen_secciones`, incluyendo el criterio de dividir apartados largos en sus subsecciones numeradas reales cuando existan en el índice del documento. Al reaplicar las reglas sobre doc13, el criterio "cómo hacerlo concreto" bajó de "Sí" a "Parcial" (4 de 8 puntos de acción pasan el test de concreción, no 9 como se había contado antes). Se agrega un tercer documento piloto (doc11, UNICEF-CEPAL sobre pobreza infantil y cambio climático) para balancear la muestra con un caso donde el clima es canal causal de un problema distributivo y no objeto de transformación productiva —
   ver [TIPOLOGIA_v0.md §3](TIPOLOGIA_v0.md) y [pilot/doc11_pobreza_infantil.json](pilot/doc11_pobreza_infantil.json).
+- **2026-07-16** — Ronda 8: limpieza de front/back-matter en los JSON del piloto (prólogo, prefacio,
+  mensajes, acrónimos, bibliografía residual) y regla 9 nueva en [esquema_json_v1.md](esquema_json_v1.md).
+  Detalle en [PLAN_ANALISIS_PROFUNDO.md](PLAN_ANALISIS_PROFUNDO.md).
+- **2026-07-16** — prompt persistido para revisor ciego, una sesión por documento:
+  [PROMPT_SESION_REVISOR_CIEGO.md](PROMPT_SESION_REVISOR_CIEGO.md).
+- **2026-07-16** — Ronda 9: comparación ciega de la muestra de 17 (66% → 85% post-adjudicación),
+  adjudicación Lab y memo al equipo del curso. **Mismo día: el equipo confirmó las tres reglas** —
+  calibración interpelación/tipología de la muestra cerrada; listo para preparar escalamiento a 244.
+  Aclaración padres-puente: piso proporcional de `resumen_secciones` solo en hojas.
+  Aclaración `conclusiones_recomendaciones` → objeto `{conclusiones, recomendaciones}` (canónico para 244).
+  Aclaración docs híbridos: `dimensiones: []` si la hoja no tiene señal climática (codebook §1).
+  Ver [PLAN_ANALISIS_PROFUNDO.md](PLAN_ANALISIS_PROFUNDO.md),
+  [pilot/revision/ADJUDICACION_RONDA9.md](pilot/revision/ADJUDICACION_RONDA9.md) y
+  [para_equipo_curso/MEMO_CALIBRACION_RONDA9.md](para_equipo_curso/MEMO_CALIBRACION_RONDA9.md).

@@ -1,0 +1,86 @@
+{
+  "num_muestra": 2,
+  "handle": "https://hdl.handle.net/11362/39840",
+  "revisor": {
+    "modelo": "cursor-grok-4.5",
+    "harness": "cursor",
+    "fecha": "2026-07-16"
+  },
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "No",
+      "evidencia": "Test 1 ausente: el documento argumenta que el cambio climático exige 'transformaciones substanciales al actual estilo de desarrollo' y transitar a un desarrollo sostenible, pero no propone un paquete coordinado de inversiones/políticas simultáneas. Test 2 ausente como instrumento: diagnostica patrones de consumo (migración del transporte público al privado, gasolinas) y la necesidad de una 'nueva matriz de bienes y servicios públicos y privados', sin nombrar instrumentos de política identificables (precios del carbono, planes sectoriales, fondos, etc.). Test 3: la dimensión ambiental y la vulnerabilidad de la población pobre están presentes; no hay eficiencia schumpeteriana ni paquete keynesiano de empleo/productividad asociados a sectores verdes. Predomina lenguaje aspiracional/diagnóstico de ocho tesis → No.",
+      "citas": [
+        {
+          "cita": "Realizar los procesos de mitigación y adaptarse a las nuevas condiciones climáticas implica transformaciones substanciales al estilo de desarrollo actual.",
+          "pagina": 27
+        },
+        {
+          "cita": "esta transformación al modelo de desarrollo pasa por la configuración de una nueva matriz de bienes y servicios públicos y privados y en una sociedad más igualitaria.",
+          "pagina": 28
+        },
+        {
+          "cita": "Instrumentar, de manera eficiente, estos procesos de adaptación y mitigación implica transformaciones substanciales al actual estilo de desarrollo e implica transitar a un desarrollo sostenible.",
+          "pagina": 30
+        }
+      ]
+    },
+    "articulacion_actores": {
+      "veredicto": "No",
+      "evidencia": "Chequeo negativo: no se encontró mecanismo, plataforma, consejo o proceso de coordinación multiactor con nombre propio adoptado o propuesto para el ámbito (América Latina). Aparecen referencias genéricas a compromisos de mitigación en Naciones Unidas, al IPCC y a la necesidad de una 'solución global', sin institución de articulación. Las dos menciones de 'mecanismos' en el texto aluden a mecanismos de amortiguación de shocks de los pobres y a 'mecanismos de precios' para gasolinas — no a articulación de actores.",
+      "citas": [
+        {
+          "cita": "el cambio climático es uno de los grandes retos del siglo XXI ya que atendiendo a sus causas y consecuencias globales requiere de una solución global respetando las contribuciones heterogéneas por países.",
+          "pagina": 7
+        },
+        {
+          "cita": "el uso exclusivo de los mecanismos de precios es insuficiente para lograr reducir el consumo de las gasolinas en un entorno de rápido crecimiento económico",
+          "pagina": 25
+        }
+      ]
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "Chequeo negativo explícito: (a) no se enumeran sectores, industrias o mercados como oportunidades productivas sostenibles; el documento diagnostica patrones de consumo insostenibles (transporte privado, gasolinas) y menciona ajustes agropecuarios de adaptación (cambio de cultivos) como hechos observados, no como oportunidades a promover. (b) no hay vínculo desarrollado con empleo verde, productividad o reducción de desigualdad como oportunidad de la transición: la desigualdad y la pobreza aparecen como vulnerabilidad asimétrica ante el clima; el 'aumento del empleo' citado corresponde al auge exportador de recursos naturales (diagnóstico del estilo actual), no a oportunidades de la transición sostenible.",
+      "citas": [
+        {
+          "cita": "América Latina contribuyó con el 9% de las emisiones globales pero es particularmente vulnerable a los efectos climáticos y además, la población pobre es la más vulnerable.",
+          "pagina": 5
+        },
+        {
+          "cita": "diversas unidades agropecuarias, como consecuencia del cambio climático, están pasando de cultivar maíz, trigo y papas a frutas y vegetales",
+          "pagina": 18
+        },
+        {
+          "cita": "un auge exportador de recursos naturales renovables y no renovables que se ha traducido en un aumento del empleo, del consumo y la inversión y una reducción de la pobreza",
+          "pagina": 19
+        }
+      ]
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "No",
+      "evidencia": "No existe una sección de recomendaciones con ítems operativos enumerados. El capítulo II ('Conclusiones y comentarios generales', pp. 29–30) reexpone las ocho tesis y concluye que el desafío del cambio climático es el del desarrollo sostenible, sin lista de acciones con verbo + objeto específico ejecutable. Las tesis son argumentos analíticos, no un desglose de política. Tally: 0 de 0 ítems operativos — diagnóstico/argumentación sin recomendación operativa.",
+      "citas": [
+        {
+          "cita": "Instrumentar, de manera eficiente, estos procesos de adaptación y mitigación implica transformaciones substanciales al actual estilo de desarrollo e implica transitar a un desarrollo sostenible. En este sentido, el desafío del cambio climático es el desafío del desarrollo sostenible.",
+          "pagina": 30
+        }
+      ],
+      "desglose_items": [],
+      "tally": "0 de 0 ítems pasan el test de concreción (no hay lista operativa de recomendaciones)"
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 1,
+      "nombre": "Desarrollo productivo",
+      "certeza": "Media"
+    },
+    "justificacion_breve": "Las ocho tesis sostienen que el cambio climático es consustancial al estilo de desarrollo global y que el desafío climático es el del desarrollo sostenible: temperatura, emisiones, adaptación y mitigación son el eje. La secundaria apunta al rediseño del estilo de crecimiento —patrones de producción y consumo, matriz de bienes y servicios, transporte público vs. privado— más que a un programa distributivo autónomo, aunque la igualdad aparece como condición de eficiencia de la transición."
+  }
+}

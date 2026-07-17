@@ -4,20 +4,28 @@
 **Estado**: v1. Diseñado a partir de la prueba de portabilidad multimodelo de Ronda 5
 ([pilot/EVALUACION_MULTIMODELO_DOC09.md](pilot/EVALUACION_MULTIMODELO_DOC09.md)).
 **Qué es**: instrucciones autocontenidas para correr una **segunda lectura ciega** de la parte subjetiva
-del pipeline (interpelación + tipología) en un harness/modelo **externo** al que corrió el ejecutor.
-Para el piloto de la muestra de 17: **DeepSeek en OpenCode** (el mejor de los 4 modelos nuevos en la prueba
-de Ronda 5, con perfil de error complementario al ejecutor). Eventualmente, cualquier harness/modelo que
-pase el [protocolo de portabilidad](GUIA_OPERATIVA_PIPELINE.md#protocolo-de-prueba-de-portabilidad-de-harnessmodelo).
+del pipeline (interpelación + tipología) en un harness/modelo **externo** al que corrió el ejecutor — o en
+el mismo tipo de entorno con **ceguera estricta de archivos** (sin abrir los JSON del ejecutor). El rol es
+**agnóstico de modelo y de harness**: registrar siempre `revisor.modelo` y `revisor.harness` en el artefacto.
+Para el piloto de la muestra de 17 se validó DeepSeek en OpenCode en la prueba de Ronda 5; también puede
+correrse, por ejemplo, en Cursor con otro modelo, siempre que se respete la ceguera.
+**Prompt listo para pegar (una sesión = un documento)**: [PROMPT_SESION_REVISOR_CIEGO.md](PROMPT_SESION_REVISOR_CIEGO.md).
 **Qué NO es**: no es una etapa del pipeline del ejecutor ([GUIA_OPERATIVA_PIPELINE.md](GUIA_OPERATIVA_PIPELINE.md))
 ni re-hace la extracción (resúmenes, secciones, dimensiones) — solo re-deriva los **veredictos**, que es
 donde la prueba de Ronda 5 mostró varianza entre modelos.
 
 ## 1. Cuándo se corre
 
-**Después de completado el lote del ejecutor** (no documento a documento): se corre la revisión en tanda
-sobre todos los documentos del lote, se compara contra los JSON del ejecutor, y se adjudica. Correrla por
-lotes es deliberado: el revisor vive en otro harness operado a mano, y una sola sesión de revisión por lote
-cuesta menos operación que intercalar revisiones por documento.
+**Después de completado el lote del ejecutor**. La comparación y la adjudicación se hacen cuando hay un
+conjunto de revisiones; la **producción** de cada `docNN_revision.json` puede hacerse:
+
+- **por lotes** en un harness externo operado a mano (diseño original de Ronda 6: menos cambios de contexto
+  de operador), o
+- **una sesión por documento** (recomendado si el harness tiene ventana de contexto limitada — p. ej. Cursor):
+  pegar [PROMPT_SESION_REVISOR_CIEGO.md](PROMPT_SESION_REVISOR_CIEGO.md), completar DOCUMENTO ACTIVO, cerrar
+  al escribir el JSON, abrir sesión nueva para el siguiente.
+
+En ambos casos el artefacto y la ceguera son los mismos.
 
 ## 2. Regla de ceguera (la que hace válido el ejercicio)
 
@@ -94,7 +102,8 @@ se repiten acá las que la Ronda 5 mostró frágiles entre modelos):
 
 - Veredictos en 3 valores, default a Parcial/No ante ambigüedad; sin cita textual no hay "Sí".
 - Criterio (iv): el desglose se corre sobre el **texto completo de la sección de recomendaciones** (nunca
-  recuadros de portada/key messages); decide el objeto, no el verbo; ante empate, GENERICO.
+  recuadros de portada/key messages); decide el objeto, no el verbo; ante empate, GENERICO. Listas de
+  lugares/ecosistemas son *alcance* de un ítem, no filas separadas del tally (ver INTERPELACION_v0.md §1.4).
 - Criterio (ii): un mecanismo de planificación multiactor con nombre propio, adoptado institucionalmente
   dentro del ámbito de aplicación, cuenta como mecanismo de articulación; mecanismos extrarregionales
   citados como referentes topean en "Parcial".
@@ -102,14 +111,21 @@ se repiten acá las que la Ronda 5 mostró frágiles entre modelos):
 - Registrar siempre `revisor.modelo` y `revisor.harness` — en Ronda 5 el mapeo caso→modelo no quedó en los
   artefactos y hubo que reconstruirlo de memoria.
 
-### Bloque de prompt sugerido (copiar/pegar en el harness externo)
+### Prompt de sesión (canónico)
 
-> Actúa como codificador independiente de un ejercicio de calibración. Vas a leer un documento de la CEPAL
-> (PDF adjunto) y tres documentos de metodología (INTERPELACION_v0.md, big_push.md, TIPOLOGIA_v0.md).
-> Produce únicamente el JSON de veredictos con el formato de la sección 5 de
-> INSTRUCCIONES_REVISOR_EXTERNO.md. Aplica las reglas de decisión de la metodología al pie de la letra,
-> con citas textuales y página para todo veredicto. No tienes acceso a ninguna respuesta previa sobre este
-> documento y no debes intentar adivinarla: tu valor es la lectura independiente.
+El bloque corto de abajo sirve como recordatorio. Para operar de verdad —sobre todo **una sesión por
+documento**, agnóstico de modelo/harness— usar el archivo completo:
+
+**[PROMPT_SESION_REVISOR_CIEGO.md](PROMPT_SESION_REVISOR_CIEGO.md)**
+
+Recordatorio mínimo:
+
+> Actúe como codificador independiente de un ejercicio de calibración. Lea el documento de la CEPAL
+> (PDF indicado) y tres documentos de metodología (INTERPELACION_v0.md, big_push.md, TIPOLOGIA_v0.md).
+> Produzca únicamente el JSON de veredictos con el formato de la sección 5 de
+> INSTRUCCIONES_REVISOR_EXTERNO.md. Aplique las reglas de decisión de la metodología al pie de la letra,
+> con citas textuales y página para todo veredicto. No tiene acceso a ninguna respuesta previa sobre este
+> documento y no debe intentar adivinarla: su valor es la lectura independiente. Un documento por sesión.
 
 ## 6. Qué pasa con el resultado (comparación y adjudicación)
 

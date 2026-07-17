@@ -1,0 +1,64 @@
+{
+  "num_muestra": 17,
+  "handle": "https://hdl.handle.net/11362/67989",
+  "revisor": {
+    "modelo": "claude-sonnet-4.5",
+    "harness": "cursor",
+    "fecha": "2026-07-16"
+  },
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "Test 1 (inversión masiva y coordinada, no reformas fragmentadas): el documento no propone medidas aisladas sino un 'marco de financiamiento integral y coherente' articulado en cuatro pilares simultáneos (movilización de recursos internos, financiamiento privado innovador, cooperación internacional, alivio de deuda climática; Diagrama III.1, p.203) y llama explícitamente a 'un gran impulso asociado a la inversión vinculada al cambio climático' (p.219). Test 2 (sectores estratégicos nombrados): identifica instrumentos concretos en energía renovable, electromovilidad (p.194) e hidrógeno verde o azul (Cuadro III.2, p.211), aunque no desarrolla bioeconomía ni economía circular. Test 3 (tres eficiencias): conecta explícitamente la inversión climática con crecimiento económico y creación de empleo (eficiencia keynesiana) y con la reducción de emisiones (eficiencia ambiental) en la misma oración de cierre de la sección A del capítulo III (p.203); la eficiencia schumpeteriana es más débil (se limita a 'adopción de tecnología' sin desarrollo de capacidades locales). Como el test 1 está presente y se satisfacen además los tests 2 y 3, corresponde 'Sí' según la regla de lectura de §1.5 (test 1 + al menos uno de los otros dos).",
+      "citas": [
+        { "cita": "Ante estos retos y la imperiosa necesidad de hacer frente al cambio climático, la región necesita un gran impulso asociado a la inversión vinculada al cambio climático.", "pagina": 219 },
+        { "cita": "Diagrama III.1 Marco de financiamiento para un gran impulso de la inversión vinculada al cambio climático", "pagina": 203 },
+        { "cita": "los países deben considerar tomar medidas más audaces y disponer, en toda la economía, inversiones orientadas a la adopción de tecnologías con bajas emisiones de carbono (generación de energía renovable y electromovilidad, entre otras)", "pagina": 194 },
+        { "cita": "Se necesita de una estrategia de financiamiento integral y coherente... el crecimiento económico, creará empleo y promoverá una transformación relacionada con la oferta a mediano plazo", "pagina": 203 }
+      ]
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El documento nombra un mecanismo de coordinación multiactor ya adoptado dentro del ámbito de aplicación: la 'Mesa Público-Privada de Finanzas Verdes' de Chile, creada en 2019, que integra formalmente al banco central, la Comisión para el Mercado Financiero, la Superintendencia de Pensiones y asociaciones del sector financiero, y que en agosto de 2022 produjo un entregable concreto (la hoja de ruta de la taxonomía de finanzas verdes) junto con el Ministerio de Hacienda y Climate Bonds Initiative (p.243). No es un mecanismo 'debería existir' sino uno operando con producto verificable, y pertenece al ámbito de aplicación del documento (un país de la región analizada), por lo que no aplica el tope a 'Parcial' que sí aplicaría a referentes extrarregionales como la Red de Bancos Centrales y Supervisores para Ecologizar el Sistema Financiero (NGFS), citada solo como estándar internacional de mejores prácticas que los países de la región siguen, no como mecanismo propio de articulación regional. El patrón se repite, con menor desarrollo, en mesas o iniciativas análogas de Bolivia, Ecuador y Paraguay (p.236-237), lo que corrobora que no es un caso aislado.",
+      "citas": [
+        { "cita": "En 2019 se crea la Mesa Público-Privada de Finanzas Verdes.", "pagina": 236 },
+        { "cita": "en agosto de 2022 se publicó la hoja de ruta para la elaboración de una taxonomía de finanzas verdes, creada de manera conjunta por Climate Bonds Initiative, el Ministerio de Hacienda y la Mesa Público-Privada de Finanzas Verdes, en la que participan el banco central, la CMF, la Superintendencia de Pensiones, y asociaciones y entidades del sector financiero.", "pagina": 243 }
+      ]
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento sí enumera sectores/actividades concretas de inversión climática (infraestructura de transporte, protección costera, agua y saneamiento, irrigación para adaptación; energía renovable y electromovilidad para mitigación, p.193-194), lo que cubre el primer elemento del test. Pero el vínculo con empleo y desigualdad queda en una mención repetida en lenguaje condicional, sin cifra propia ni mecanismo de política nombrado que conecte sector específico con creación de empleo: 'estas inversiones probablemente también generarían un importante nivel de empleo... las externalidades positivas también podrían reducir la pobreza y la desigualdad en la medida en que este empleo beneficie a las familias de ingresos bajos y medios' (p.177-178, capítulo II) y 'creará empleo' como cláusula de una oración más amplia sobre el marco de financiamiento (p.203, capítulo III). En ningún pasaje se cuantifica el empleo esperado por sector ni se nombra un instrumento de política de empleo verde específico, por lo que el vínculo no pasa de mención aislada sin desarrollo (regla §1.3).",
+      "citas": [
+        { "cita": "La inversión en adaptación será necesaria en toda la economía, pero sobre todo en la infraestructura en áreas como el transporte, la protección costera, el abastecimiento de agua y el saneamiento, la irrigación y el control del agua.", "pagina": 193 },
+        { "cita": "Estas inversiones probablemente también generarían un importante nivel de empleo, lo que podría tener efectos secundarios positivos. Las externalidades positivas también podrían reducir la pobreza y la desigualdad en la medida en que este empleo beneficie a las familias de ingresos bajos y medios y promueva la formalización de la economía.", "pagina": 178 }
+      ]
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "El documento no tiene un recuadro de 'mensajes clave' separado de su análisis; la sección C del capítulo III ('Un marco de financiamiento para la inversión vinculada al cambio climático', p.203-219) es en sí misma la sección de recomendaciones, estructurada en 3 pilares con 9 sub-apartados con letra que funcionan como los ítems del 'cómo hacerlo'. Aplicando el test de concreción ítem por ítem (verbo + objeto específico, regla §1.4): pasan el test 6 de 9 ítems, todos los que nombran un instrumento identificable (impuesto al patrimonio, impuesto mínimo al carbono de 75 dólares/tonelada, operaciones de refinanciamiento verde, incentivos fiscales por país listados en el Cuadro III.2, marcos de bonos temáticos, Fondo de Resiliencia del Caribe y cláusulas de huracanes en la deuda). Fallan el test 3 ítems cuyo objeto es una acción abstracta sin instrumento nombrado ('identificar oportunidades de ayuda internacional', 'promover compras públicas con una perspectiva climática' sin criterio ni meta, 'cooperación internacional para el desarrollo' que cierra con la misma fórmula genérica de 'identificar oportunidades de inversión'). Al ser mayoría clara los que pasan el test, corresponde 'Sí'.",
+      "citas": [
+        { "cita": "a) Aumentar la recaudación y mejorar la progresividad de la estructura fiscal", "pagina": 204 },
+        { "cita": "sería necesario fijar los precios mínimos por tonelada de carbono en 75 dólares para los grandes emisores y en un rango de 25 dólares a 50 dólares para los países de renta baja y media", "pagina": 207 },
+        { "cita": "c) Identificar oportunidades de ayuda internacional para reforzar la movilización de recursos internos", "pagina": 207 },
+        { "cita": "3. Mecanismos de alivio de la deuda climática... la creación de un Fondo de Resiliencia del Caribe para proporcionar financiamiento para el desarrollo a largo plazo y bajo costo", "pagina": 216 }
+      ],
+      "desglose_items": [
+        { "item": "a) Aumentar la recaudación y mejorar la progresividad de la estructura fiscal (combate a la evasión, revisión de gastos tributarios, dos pilares OCDE/G20 de tributación digital, consolidación del impuesto a la renta personal, impuestos al patrimonio, reforma de regímenes fiscales de recursos no renovables)", "clasificacion": "CONCRETO", "pagina": 204 },
+        { "item": "b) Alineación del sistema fiscal con los objetivos climáticos (impuestos al carbono con piso de precio de 75 dólares/tonelada, transferencias en efectivo, tarjetas de carbono, recargo a la contaminación sobre grandes patrimonios)", "clasificacion": "CONCRETO", "pagina": 205 },
+        { "item": "c) Identificar oportunidades de ayuda internacional para reforzar la movilización de recursos internos", "clasificacion": "GENERICO", "pagina": 207 },
+        { "item": "d) Profundizar los mercados de capitales nacionales y promover la reducción del costo del capital para las inversiones climáticas (operaciones de refinanciamiento verde, garantías verdes, expansión cuantitativa verde, banca de desarrollo nacional)", "clasificacion": "CONCRETO", "pagina": 208 },
+        { "item": "e) Promover compras públicas con una perspectiva climática", "clasificacion": "GENERICO", "pagina": 209 },
+        { "item": "a) Aplicar incentivos fiscales específicos orientados al cambio climático (medidas por país listadas en el Cuadro III.2: exenciones de IVA y arancel para vehículos eléctricos en Barbados, Colombia, Costa Rica, El Salvador, Jamaica y Nicaragua)", "clasificacion": "CONCRETO", "pagina": 211 },
+        { "item": "b) Aprovechar el financiamiento privado innovador para la inversión climática pública y privada (bonos verdes, sociales y de sostenibilidad, marcos transparentes de bonos temáticos)", "clasificacion": "CONCRETO", "pagina": 211 },
+        { "item": "c) Cooperación internacional para el desarrollo (bancos multilaterales de desarrollo; cierra con 'identificar oportunidades de inversión y establecer carteras de proyectos')", "clasificacion": "GENERICO", "pagina": 214 },
+        { "item": "3. Mecanismos de alivio de la deuda climática (Fondo de Resiliencia del Caribe liderado por la CEPAL, canje de deuda Belice-The Nature Conservancy, cláusulas de huracanes en la deuda de Granada y Barbados)", "clasificacion": "CONCRETO", "pagina": 216 }
+      ],
+      "tally": "6 de 9 ítems pasan el test de concreción"
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": { "numero": 6, "nombre": "Sostenibilidad ambiental", "certeza": "Media" },
+    "transformacion_secundaria": { "numero": 10, "nombre": "Macroeconomía y fiscalidad", "certeza": "Alta" },
+    "justificacion_breve": "La Parte I del documento es el habitual 'Panorama regional' de coyuntura macrofiscal y monetaria sin contenido climático, pero la Parte II —que da título de portada a toda la edición 2023, 'El financiamiento de una transición sostenible'— propone explícitamente un 'gran impulso asociado a la inversión vinculada al cambio climático' y ocupa la mitad del volumen. El objeto de cambio que persigue esa mitad prescriptiva es la reorientación de la inversión regional hacia adaptación y mitigación; la arquitectura fiscal, de deuda soberana y de política monetaria de los capítulos II a IV opera como el canal instrumental para lograrlo, en un patrón inverso al de doc11 (allí el clima era canal causal de un objeto distributivo; aquí lo fiscal-macro es canal instrumental de un objeto ambiental). Se reconoce la ambigüedad de género documental —el Estudio Económico es, año tras año, un informe insignia de anclaje macroeconómico— por lo que la certeza de la primaria se marca como Media."
+  }
+}

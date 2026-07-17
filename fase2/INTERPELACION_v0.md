@@ -1,8 +1,7 @@
-# Metodología de interpelación institucional v0.4
+# Metodología de interpelación institucional v0.5
 
-**Fecha**: 2026-07-07 (creación) — revisado 2026-07-07 (Ronda 2), 2026-07-07 (Ronda 3), 2026-07-08 (Ronda 4) y 2026-07-13 (Ronda 5)
-**Estado**: v0.4. La v0.3 quedó recalibrada con la revisión humana de los 3 JSON piloto (Ronda 3): definición operativa del gran impulso ambiental anclada a [big_push.md](big_push.md), regla de ámbito de aplicación para el criterio (ii) —que corrigió el veredicto de doc13—, y regla de autocontención (los veredictos no referencian otros documentos del corpus, ver [esquema_json_v1.md](esquema_json_v1.md) regla transversal 3). Ronda 4 cerró dos preguntas que quedaban abiertas (ver [§1.6](#16-documentos-de-naturaleza-distinta-a-una-propuesta-de-política-climática-ronda-4) y el cierre de sección 4). La v0.4 (Ronda 5) incorpora dos refuerzos derivados de la prueba de portabilidad multimodelo sobre doc09 ([pilot/EVALUACION_MULTIMODELO_DOC09.md](pilot/EVALUACION_MULTIMODELO_DOC09.md)): el cierre de la zona gris del criterio (ii) sobre mecanismos de planificación ([§1.2](#12-regla-sharpened--criterio-ii-institución-o-mecanismo-nombrado-no-solo-actores-nombrados)) y el anclaje del test de concreción del criterio (iv) con ítems resueltos, regla de unidad y regla de desempate ([§1.4](#14-regla-sharpened--criterio-iv-enumeración-ítem-por-ítem-no-la-lista-completa-a-la-vez)).
-Sigue pendiente de validación por el equipo del curso antes de escalar a los 12 documentos restantes de la muestra.
+**Fecha**: 2026-07-07 (creación) — revisado 2026-07-07 (Ronda 2), 2026-07-07 (Ronda 3), 2026-07-08 (Ronda 4), 2026-07-13 (Ronda 5) y 2026-07-16 (Ronda 9)
+**Estado**: v0.5 (**vigente**). La v0.4 (Ronda 5) cerró planificación-como-articulación y el test de concreción del criterio (iv). La **v0.5 (Ronda 9)** cierra las tres ambigüedades que concentraron la revisión ciega de la muestra de 17 (tasa de acuerdo bruta 66% → 85% post-adjudicación): (1) unidad de desglose del criterio (iv) cuando no hay una sola lista numerada; (2) mecanismo *descrito* vs *propuesto* / producción del estudio vs gobernanza en el criterio (ii); (3) tipología objeto/instrumento en [TIPOLOGIA_v0.md](TIPOLOGIA_v0.md). **Confirmada por el equipo del curso (2026-07-16)**. Aclaración misma fecha: topónimos/ecosistemas no son filas del tally de `como_hacerlo` (caso doc06 corregido).
 
 **Unidad de análisis**: documento completo.
 
@@ -46,6 +45,17 @@ interés" y lenguaje de "se podría considerar la posibilidad de colaborar". Reg
 
 **Aclaración Ronda 5 — los mecanismos de planificación multiactor cuentan.** En la prueba de portabilidad multimodelo ([pilot/EVALUACION_MULTIMODELO_DOC09.md](pilot/EVALUACION_MULTIMODELO_DOC09.md)) un modelo bajó el veredicto a "Parcial" razonando que el mecanismo citado "es un instrumento de planificación, no una plataforma de articulación de actores" — una interpretación defendible que esta regla no cerraba. Se cierra así: **un mecanismo, plan o proceso de planificación con nombre propio cuenta como mecanismo de articulación** cuando (a) su proceso integra formalmente a múltiples tipos de actores (no solo al ente rector del sector), y (b) está adoptado, avalado o en implementación institucional dentro del ámbito de aplicación. El criterio no distingue "planificación" de "articulación" como categorías excluyentes: si el proceso de planificación *es* el espacio donde los actores se coordinan, es el mecanismo que este criterio busca. Ejemplo resuelto: el IRRP de doc09 — avalado por CARICOM, en desarrollo en cinco países con apoyo del CCREEE, con integración explícita de autoridades ambientales, oficinas meteorológicas, agencias de emergencia y planificadores urbanos en su proceso — es "Sí", no "Parcial".
 
+**Aclaración Ronda 9 — descrito en el ámbito cuenta; producción del estudio no.** El criterio (ii) mide articulación de la *acción/política*, no cómo se elaboró el PDF. Tabla de decisión:
+
+| Tipo de mecanismo nombrado | Veredicto máximo |
+| -------------------------- | ---------------- |
+| Colaboración de autoría, convenio de estudio, coordinación técnica de la publicación (p. ej. ERECC como producción de conocimiento, proyecto C3A de elaboración del informe) | **No** |
+| Mecanismo de gobernanza/planificación **vigente o en implementación** dentro del ámbito de aplicación (cuenca, SICA, IRRP, consejo de recursos hídricos, etc.), aunque el documento solo lo *describa* y no lo "invente" | **Sí** (si cumple nombre propio + multiactor/multinivel de Ronda 5) |
+| Mecanismo extrarregional solo como referente | **Parcial** (regla Ronda 3) |
+| Actores tipificados sin mecanismo con nombre propio | **Parcial** / **No** según la regla base de esta sección |
+
+No se exige propuesta normativa nueva: anclar la gobernanza relevante del ámbito basta (precedente IRRP/doc09). Ejemplos resueltos en adjudicación de la muestra: doc01 → **No** (ERECC/C3A = autoría); doc15 → **Sí** (SICA en el capítulo de Centroamérica); doc08 → **Sí** (COIRCO, Pilcomayo, Titicaca, CNRH).
+
 ### 1.3 Regla sharpened — criterio (iii): enumeración de oportunidades + chequeo explícito de empleo/desigualdad
 
 No basta con una mención aislada de "co-beneficios económicos". El criterio pide dos cosas verificables por separado: (a) que el documento **enumere** sectores, industrias, mercados o actividades concretas donde ve la oportunidad (no una afirmación genérica de que "hay oportunidades"), y (b) que conecte esa enumeración
@@ -70,6 +80,18 @@ proporción de la lista pasa el test, no si existe una lista.
 2. **Qué decide no es el verbo sino el objeto**: un ítem que enumera instrumentos, entregables o poblaciones identificables es CONCRETO aunque el verbo sea blando ("promover X" es CONCRETO si X es una lista de instrumentos nombrados); un ítem cuyo objeto es una capacidad o principio abstracto ("capacidades", "coordinación", "resiliencia" a secas) es GENERICO aunque el verbo sea de acción.
 3. **Regla de desempate**: si tras aplicar la regla 2 el ítem sigue siendo genuinamente ambiguo, se clasifica **GENERICO** — es la misma lógica del default a Parcial/No ante ambigüedad que rige toda la metodología. Clasificar CONCRETO exige poder señalar el instrumento/entregable/población en el texto del ítem.
 
+**Selección de unidad — Ronda 9** (cierra el cluster dominante de la revisión ciega: 11/17 docs discrepantes en este criterio). Cuando el documento no tiene una sola lista numerada obvia, la unidad se elige así:
+
+1. Desglosar **solo** la sección donde el documento habla en **voz normativa propia**: título con “recomendaciones”, “conclusiones y recomendaciones”, “propuestas de política”, o el bloque de cierre que formule imperativos de acción.
+2. Si hay varias candidatas, elegir la **más completa del cierre**; no mezclar con recuadros intercalados en capítulos analíticos ni con “mensajes clave”.
+3. Listas dentro de **casos, lecciones aprendidas o planes de terceros** (p. ej. metas del Plan ABC descritas en un estudio comparado) **no cuentan**, salvo que el documento las eleve explícitamente como recomendación para su ámbito (“los países deberían replicar X”).
+4. Si el cierre es solo síntesis diagnóstica sin ítems operativos → veredicto **No** (aunque el cuerpo tenga recuadros de medidas).
+5. Ante duda entre dos unidades → la más restrictiva (cierre formal); default a Parcial/No.
+
+Ejemplos resueltos: doc12 → **No** (Plan ABC = caso, no recomendación del estudio); doc08 → unidad C1 completa (no un sub-bullet de p.288); doc04 → Conclusiones 208–212 (no recuadros de capítulos); doc15/doc16 → **No** si el cierre no trae lista operativa.
+
+**Ejemplos geográficos / ecosistemas no son filas del tally (aclaración 2026-07-16, post-Ronda 9).** Si una recomendación nombra varios lugares o biomas como *alcance* de la misma acción (p. ej. “establecer acuerdos de planificación conjunta” sobre Amazonas, Plata, Gran Chaco…), eso es **un solo ítem** cuyo objeto es el instrumento/acción; los topónimos van **dentro** del texto del ítem, no como N filas CONCRETO. Desglosar “Cuenca del Amazonas”, “Golfo de Fonseca”, etc. como ítems separados infla el tally y confunde *dónde* con *qué hacer*. Ejemplo resuelto: doc06 — el ejecutor contó 11/11 lugares del Cap. XII; lo correcto es desglosar las propuestas de política del Cap. IX (cruces OAT–EIA–institucionalidad) y, si se cita Cap. XII, como un único ítem de acuerdos multinacionales con lista de ecosistemas en el alcance (no once filas). Ancla negativa: un ítem cuyo único contenido es un topónimo, sin instrumento/entregable, es **GENERICO** (o no es un ítem de desglose).
+
 **Ítems resueltos (anclas del test de concreción)** — tomados de doc11 y doc13 del piloto (deliberadamente no de doc09, que es el caso de prueba del protocolo de portabilidad; ver las fichas completas en los JSON de `pilot/`):
 
 | Ítem (abreviado) | Clasificación | Por qué |
@@ -82,6 +104,7 @@ proporción de la lista pasa el test, no si existe una lista.
 | "Fortalecer las capacidades técnicas y la coordinación entre los actores del financiamiento climático" (doc11, p.42) | GENERICO | Objeto abstracto ("capacidades", "coordinación") sin instrumento ni entregable (regla 2). |
 | "Garantizar un poder de representación equilibrado entre sectores y partes interesadas" (doc13, p.75) | GENERICO | Solo "los marcos legales podrían ayudar" — condicional sin mecanismo nombrado. |
 | "Integrar las acciones de adaptación al clima con medidas de política comercial" (doc13, p.77) | GENERICO | Lenguaje de "es imperativo que" / "podría beneficiarse", sin instrumento identificable. |
+| "Cuenca del río Amazonas" (como fila suelta del desglose; doc06 Cap. XII, error del ejecutor) | GENERICO / no-ítem | Topónimo sin instrumento propio; el alcance geográfico no sustituye al objeto de la acción (regla post-Ronda 9). |
 
 ### 1.5 Definición operativa del gran impulso ambiental — criterio (i) anclado a big_push.md (Ronda 3)
 

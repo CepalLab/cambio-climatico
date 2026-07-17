@@ -1,0 +1,171 @@
+{
+  "num_muestra": 12,
+  "handle": "https://hdl.handle.net/11362/48724",
+  "revisor": {
+    "modelo": "cursor-grok-4.5",
+    "harness": "cursor",
+    "fecha": "2026-07-16"
+  },
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "Test 1 (paquete coordinado a escala de modelo de desarrollo): ausente como propuesta del documento; es un estudio de inventario/casos para PLACA, no una hoja de ruta de inversiones simultáneas. Test 2 (sectores/instrumentos): describe instrumentos sectoriales concretos ya existentes (Plan ABC/ABC+ con TECABC, NAMA Café y Ganadería, crédito de bajo costo, tecnologías de recuperación de pasturas, siembra directa, ILPF). Test 3: co-beneficios de eficiencia productiva y mitigación aparecen en casos, sin desarrollar las tres eficiencias como paquete. Instrumentos sectoriales nombrados sin lógica Big Push del propio texto → Parcial (naturaleza diagnóstica del documento).",
+      "citas": [
+        {
+          "cita": "El documento describe el marco institucional general y sectorial de cada país miembro de PLACA en relación con la acción climática, y presenta las principales políticas y proyectos, incluidos instrumentos como las CDN, los NAP y las NAMA. Se identifican asimismo casos de éxito y se presentan lecciones aprendidas en dichos casos.",
+          "pagina": 10
+        },
+        {
+          "cita": "el Plan ABC resultó un instrumento efectivo para integrar las acciones de los gobiernos (federal, estatal y municipal), el sector productivo y la sociedad civil, para reducir las emisiones de gases de efecto invernadero (GEI) de las actividades agrícolas y agropecuarias. […] Los incentivos de crédito de bajo costo fueron clave.",
+          "pagina": 78
+        }
+      ]
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El propio objeto del estudio es la Plataforma de Acción Climática en Agricultura de Latinoamérica y el Caribe (PLACA): mecanismo regional nombrado, con ministerios de agricultura adheridos, secretaría FAO-CEPAL y organizaciones asociadas — articulación multiactor adoptada en el ámbito ALC. Además documenta mecanismos nacionales de coordinación con nombre propio (Gabinete Nacional de Cambio Climático y mesa de Agroindustria en Argentina; Mesas Técnicas Agroclimáticas en Colombia/Guatemala; gobernanza de la NAMA Ganadería con Comisión Nacional de Ganadería y Mesa Ganadera en Costa Rica; arreglos del Plan ABC en Brasil).",
+      "citas": [
+        {
+          "cita": "La Plataforma de Acción Climática en Agricultura de Latinoamérica y el Caribe (PLACA) es un mecanismo regional de colaboración voluntaria en agricultura y cambio climático. La iniciativa reúne representantes de los ministerios de agricultura. […] La Organización de las Naciones Unidas para la Alimentación y la Agricultura, (FAO) y la Comisión Económica para América Latina y el Caribe (CEPAL) llevan adelante la Secretaría de PLACA.",
+          "pagina": 9
+        },
+        {
+          "cita": "Las Mesas Técnicas Agroclimáticas (MTA) son una innovadora iniciativa participativa con un enfoque que busca integrar el conocimiento técnico de diversos actores del sector agropecuario y la experiencia de los agricultores a nivel local. […] hay más de 50 MTA en 11 países […] con la participación de más de 350 instituciones",
+          "pagina": 85
+        },
+        {
+          "cita": "En el arreglo institucional están representadas alrededor de 60 instituciones, organizaciones o empresas. […] i) Comisión Nacional de Ganadería (CNG) […] ii) Mesa Ganadera (MG) […] iii) El Programa de Investigación y Transferencia de Tecnología Agropecuaria (PITTA) Ganadería […] iv) Comisiones Regionales",
+          "pagina": 83
+        }
+      ]
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "Enumera actividades/tecnologías productivas bajas en carbono (recuperación de pasturas, ILPF, siembra directa, fijación biológica de nitrógeno, NAMA café/ganadería, ganadería climáticamente inteligente). Hay vínculo con productividad (mejoras de ingreso neto e índices productivos en Uruguay; boletines MTA para aumentar productividad) y una cifra de empleo en café de Costa Rica (hasta 150.000 personas en cosecha), más mención a desigualdad en la cadena cafetalera. El vínculo oportunidades sostenibles → empleo/reducción de desigualdad no se desarrolla con mecanismo de política o cifra propia más allá de menciones/casos; el eje es inventario de acción climática agropecuaria → Parcial.",
+      "citas": [
+        {
+          "cita": "La producción de café en Costa Rica […] proporciona empleo a hasta 150.000 personas (durante la cosecha). Sin embargo, también representa hasta un 1,56% de las emisiones nacionales de GEI de Costa Rica.",
+          "pagina": 80
+        },
+        {
+          "cita": "Haciendo una adecuada gestión espacio-temporal del forraje del campo natural, sin inversiones importante ni aumento de los gastos, fue posible mejorar rápidamente y de manera significativa los índices reproductivos y productivos y la eficiencia, a la vez que se redujeron las emisiones de GEI por kg de carne producida",
+          "pagina": 95
+        },
+        {
+          "cita": "La desigualdad es una barrera en la distribución de la riqueza de la cadena de valor del café; además, faltan alternativas de empleo para los jóvenes de regiones cafetaleras",
+          "pagina": 82
+        }
+      ]
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "No",
+      "evidencia": "No existe una sección de recomendaciones operativas del documento: tras los casos cierra en acrónimos/bibliografía. El 'cómo' disponible son listas de 'lecciones aprendidas' (Plan ABC, NAMA Costa Rica, MTA, proyecto Uruguay) más el cierre blando del Resumen sobre potenciar colaboración en PLACA. Desglose de esas listas: mayoría son hallazgos retrospectivos o principios ('es esencial la gobernanza', 'visión de largo plazo') sin entregable ejecutable; minoría nombra instrumentos (crédito ABC, inversión en investigación, extensión, plazos de financiamiento). 5 de 16 pasan el test → No.",
+      "citas": [
+        {
+          "cita": "Por lo anterior, PLACA tiene un campo fértil para potenciar la colaboración entre países para aumentar la acción climática, liderada por los ministerios de agricultura, en el caso del sector agropecuario.",
+          "pagina": 8
+        },
+        {
+          "cita": "Se han identificado las siguientes lecciones aprendidas: • Es esencial la gobernanza público-privada y respondiendo a las necesidades del sector privado.",
+          "pagina": 85
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Plan ABC como instrumento efectivo de integración multinivel gobiernos–sector productivo–sociedad civil (lección)",
+          "clasificacion": "GENERICO",
+          "pagina": 78
+        },
+        {
+          "item": "Consolidar alianzas público-privadas para potenciar y replicar el Plan ABC",
+          "clasificacion": "GENERICO",
+          "pagina": 78
+        },
+        {
+          "item": "Visión de largo plazo (~10 años) en políticas de cambio climático y tecnología",
+          "clasificacion": "GENERICO",
+          "pagina": 78
+        },
+        {
+          "item": "Incentivos de crédito de bajo costo del Plan ABC como factor clave de adopción",
+          "clasificacion": "CONCRETO",
+          "pagina": 78
+        },
+        {
+          "item": "Gobernanza público-privada esencial y alineada a necesidades del sector privado (NAMA)",
+          "clasificacion": "GENERICO",
+          "pagina": 85
+        },
+        {
+          "item": "Ajustar NAMA a condiciones del país e incorporar adaptación (no solo enfoques internacionales)",
+          "clasificacion": "GENERICO",
+          "pagina": 85
+        },
+        {
+          "item": "Abordar la cadena de valor completa; etiquetado ambiental/huella de carbono (café) y ganadería libre de deforestación",
+          "clasificacion": "CONCRETO",
+          "pagina": 85
+        },
+        {
+          "item": "Generar datos robustos para desestigmatizar producción sostenible de café y ganadería",
+          "clasificacion": "GENERICO",
+          "pagina": 85
+        },
+        {
+          "item": "NAMA con resultados concretos basados en ciencia para sostener política ante cambios de gobierno",
+          "clasificacion": "GENERICO",
+          "pagina": 85
+        },
+        {
+          "item": "Generar experiencias de éxito para consolidar procesos de largo plazo en cadenas de valor",
+          "clasificacion": "GENERICO",
+          "pagina": 85
+        },
+        {
+          "item": "Agenda de investigación más ambiciosa e inversión pública en investigación orientada a problemas de implementación",
+          "clasificacion": "CONCRETO",
+          "pagina": 85
+        },
+        {
+          "item": "Transformación multisectorial de las NAMA (procesamiento, transporte, energía, etc.)",
+          "clasificacion": "GENERICO",
+          "pagina": 85
+        },
+        {
+          "item": "Fortalecer aparatos de extensión y políticas públicas de incentivos para generalizar cambios (Uruguay GCI)",
+          "clasificacion": "CONCRETO",
+          "pagina": 96
+        },
+        {
+          "item": "Organismos de financiamiento internacional deberían considerar plazos de 6 a 8 años en proyectos ganaderos",
+          "clasificacion": "CONCRETO",
+          "pagina": 96
+        },
+        {
+          "item": "Enfoque de co-innovación y mirada integral del predio (lección de proceso)",
+          "clasificacion": "GENERICO",
+          "pagina": 95
+        },
+        {
+          "item": "PLACA debe potenciar la colaboración entre países para aumentar la acción climática agropecuaria (cierre Resumen)",
+          "clasificacion": "GENERICO",
+          "pagina": 8
+        }
+      ],
+      "tally": "5 de 16 ítems pasan el test de concreción"
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "justificacion_breve": "El estudio sistematiza la 'acción climática en la agricultura' de los países PLACA: CDN, NAP, NAMA, mitigación y adaptación agropecuaria. El hilo conductor de Cap. I y de los casos es la institucionalidad (PLACA, gabinetes, mesas técnicas, planes ABC) que hace posible esa acción: el objeto ambiental-climático se vehiculiza por capacidad de coordinación estatal y sectorial."
+  }
+}

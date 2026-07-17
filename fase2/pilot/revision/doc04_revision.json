@@ -1,0 +1,152 @@
+{
+  "num_muestra": 4,
+  "handle": "https://hdl.handle.net/11362/42355",
+  "revisor": {
+    "modelo": "cursor-grok-4.5",
+    "harness": "cursor",
+    "fecha": "2026-07-16"
+  },
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "Documento técnico de escenarios de impactos/costos del cambio climático en Honduras (ECC CA), no una hoja de ruta de inversión de modelo de desarrollo. Test 1 (paquete masivo coordinado): ausente — no hay salto de inversión con montos/instrumentos de despegue simultáneos para Honduras; en Mensajes clave se invoca el «gran impulso ambiental» como planteamiento aprobado por la CEPAL (2016), pero queda como marco aspiracional. Test 2 (sectores estratégicos): parcialmente — conclusiones y análisis aterrizan en agricultura, bosques/biodiversidad, agua, hidroelectricidad, normas vehiculares/eficiencia energética y ecoturismo, con medidas sectoriales. Test 3 (eficiencias): vincula pobreza/inclusión (keynesiana-distributiva) y sostenibilidad/bajas emisiones (ambiental); la schumpeteriana es débil. Lectura: instrumentos/sectores de adaptación-mitigación sin lógica de paquete de inversión coordinada → Parcial (§1.5).",
+      "citas": [
+        {
+          "cita": "Se requiere un «gran impulso ambiental» para la igualdad y la sostenibilidad, impulso apoyado en políticas públicas coordinadas que desvinculen el desarrollo económico de externalidades ambientales y mejoren la calidad de vida de la población con bienes y servicios públicos de calidad y mayor cobertura, planteamiento que los países miembros de CEPAL aprobaron en su trigésimo sexto período de sesiones (CEPAL, 2016).",
+          "pagina": 17
+        },
+        {
+          "cita": "Dentro de este orden de prioridades se propone fomentar la transición a economías ambientalmente sostenibles y bajas en emisiones de GEI y otros contaminantes.",
+          "pagina": 209
+        },
+        {
+          "cita": "El costo acumulado del impacto del cambio climático proyectado para 2100 en los sectores agrícolas, recursos hídricos, biodiversidad y eventos extremos de Honduras puede llegar al 45,79% del PIB en el escenario B2 y al 79,55% en A2 con una tasa de descuento del 0,5%.",
+          "pagina": 209
+        }
+      ]
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "Dentro del ámbito Honduras, el documento nombra mecanismos institucionales multiactor con nombre propio: el Comité Interinstitucional de Cambio Climático (CICC) como plataforma política de titulares del Gobierno Central, con participación prevista de empresa privada, sociedad civil, academia, pueblos indígenas, colegios profesionales y cooperantes; y el Comité Técnico Interinstitucional de Cambio Climático (CTICC) como órgano técnico co-ejecutor. Cumple §1.2 / Ronda 5 (planificación-coordinación multiactor adoptada en el ámbito de aplicación). No se acredita solo con llamados genéricos a «articular sectores».",
+      "citas": [
+        {
+          "cita": "El país ha creado un marco de coordinación interinstitucional mediante el Comité Interinstitucional de Cambio Climático (CICC) como instancia de asesoría y plataforma política integrada por los titulares de las instituciones de Gobierno Central. Se prevé la participación de representantes de la empresa privada, sociedad civil organizada, academia, comunidades indígenas, colegios profesionales y cooperantes.",
+          "pagina": 211
+        },
+        {
+          "cita": "Como apoyo al CICC se creó el Comité Técnico Interinstitucional de Cambio Climático (CTICC), el cual servirá de órgano técnico co-ejecutor de las directrices emitidas por el CICC.",
+          "pagina": 211
+        }
+      ]
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "Chequeo negativo explícito: (a) se buscó enumeración de sectores/actividades como oportunidades productivas sostenibles de una transición (empleo verde, nuevos mercados, industrias de baja huella como oportunidad de inversión) — no aparece; agricultura, café, hidro y bosques se tratan como sectores de impacto/adaptación o de emisiones, no como cartera de oportunidades productivas. El ecoturismo se menciona de paso como fomento asociado a protección de ecosistemas, sin desarrollo. (b) se buscó vínculo desarrollado entre esas oportunidades y empleo/productividad/desigualdad — «empleo» figura como canal de impacto negativo de la caída de rendimientos agrícolas sobre ingreso y migración; la pobreza (64,5% en 2013) se vincula a priorizar adaptación e inclusión, no a oportunidades productivas de la transición. Ninguno de los dos elementos del §1.3 está presente como oportunidad productiva sostenible.",
+      "citas": [
+        {
+          "cita": "Se espera una reducción importante en los rendimientos de los principales cultivos como los granos básicos, situación que tendrá impactos en el ingreso, empleo, migración y la seguridad alimentaria y nutricional de la población en condición de exclusión y pobreza de las zonas rurales y urbanas.",
+          "pagina": 208
+        },
+        {
+          "cita": "Las autoridades, el sector privado y las comunidades deben cooperar en la protección de los ecosistemas para fomentar el ecoturismo.",
+          "pagina": 209
+        }
+      ]
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "Unidad de desglose: sección «Conclusiones» (pp. 208-212) — no Mensajes clave ni recuadros de recomendaciones intercalados en capítulos analíticos. La mayoría de los ítems de acción identificables en Conclusiones pasan el test (prácticas agrícolas concretas, ANP/corredores, control de tala/incendios, normatividad energética/vehicular, hidro, seguro agrícola, redes de productores/innovación). Persisten ítems genéricos de priorización/transición/coordinación. Tally: 8 de 13.",
+      "citas": [
+        {
+          "cita": "Algunas acciones para asegurar el abasto de granos básicos son ampliar las redes de productores, aumentar los servicios de innovación y difundir opciones de adaptación sostenible. Será necesario cambiar prácticas de cultivo, certificar fertilizantes y controlar la humedad y retención del suelo, almacenar y hacer uso eficiente del agua, regular los tiempos de siembra y perfeccionar el manejo pos cosecha de productos […].",
+          "pagina": 208
+        },
+        {
+          "cita": "Para la conservación de la biodiversidad se recomienda ampliar las definiciones de Áreas Naturales Protegidas (ANP) y corredores biológicos a fin de proteger la mayor cantidad posible de recursos naturales.",
+          "pagina": 209
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Proteger ecosistemas naturales/biodiversidad y tomar medidas contra impactos en agricultura, agua, salud e hidroelectricidad",
+          "clasificacion": "GENERICO",
+          "pagina": 208
+        },
+        {
+          "item": "Usar información georreferenciada desagregada por departamentos/regiones geoclimáticas (años de corte y patrones intraanuales) para dimensionar medidas de adaptación",
+          "clasificacion": "CONCRETO",
+          "pagina": 208
+        },
+        {
+          "item": "Adoptar/fortalecer el aseguramiento agrícola ante eventos extremos",
+          "clasificacion": "CONCRETO",
+          "pagina": 208
+        },
+        {
+          "item": "Ampliar redes de productores, servicios de innovación y difusión de opciones de adaptación sostenible para granos básicos",
+          "clasificacion": "CONCRETO",
+          "pagina": 208
+        },
+        {
+          "item": "Cambiar prácticas de cultivo (certificar fertilizantes, humedad/retención del suelo, almacenamiento y uso eficiente del agua, tiempos de siembra, manejo poscosecha; reducir producción en zonas no aptas; rehabilitar tierras degradadas)",
+          "clasificacion": "CONCRETO",
+          "pagina": 208
+        },
+        {
+          "item": "Ampliar Áreas Naturales Protegidas (ANP) y corredores biológicos",
+          "clasificacion": "CONCRETO",
+          "pagina": 209
+        },
+        {
+          "item": "Fomentar agricultura y aprovechamiento forestal sostenibles y rescate de cultivos locales resistentes al cambio climático",
+          "clasificacion": "CONCRETO",
+          "pagina": 209
+        },
+        {
+          "item": "Participación de comunidades locales y recuperación/revalorización de conocimientos tradicionales de preservación",
+          "clasificacion": "GENERICO",
+          "pagina": 209
+        },
+        {
+          "item": "Mejorar gestión de bosques y controlar tala, deforestación e incendios forestales",
+          "clasificacion": "CONCRETO",
+          "pagina": 209
+        },
+        {
+          "item": "Normatividad en vehículos de transporte y en consumo doméstico e industrial; programas organizacionales urbanos para reducir emisiones energéticas",
+          "clasificacion": "CONCRETO",
+          "pagina": 209
+        },
+        {
+          "item": "Incrementar la producción de energía de fuentes hidroeléctricas",
+          "clasificacion": "CONCRETO",
+          "pagina": 209
+        },
+        {
+          "item": "Priorizar políticas de adaptación integradas a reducción de pobreza/vulnerabilidad y fomentar la transición a economías bajas en emisiones de GEI",
+          "clasificacion": "GENERICO",
+          "pagina": 209
+        },
+        {
+          "item": "Desarrollar políticas fiscales, comerciales, tecnológicas y educativas facilitadoras de bienes públicos (clima, agua, SAN, energía, transporte público)",
+          "clasificacion": "GENERICO",
+          "pagina": 210
+        }
+      ],
+      "tally": "8 de 13 ítems pasan el test de concreción"
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 2,
+      "nombre": "Reducción de la desigualdad",
+      "certeza": "Media"
+    },
+    "justificacion_breve": "El documento cuantifica escenarios climáticos e impactos económicos en agua, granos básicos, café, biodiversidad, salud y eventos extremos, y cierra priorizando adaptación baja en carbono para Honduras — el objeto es la respuesta al cambio climático. La secundaria es distributiva: ancla reiteradamente los impactos y las políticas a pobreza, exclusión rural/urbana, seguridad alimentaria y un «enfoque de rostro humano», sin ser un estudio de desigualdad en sí mismo."
+  }
+}
