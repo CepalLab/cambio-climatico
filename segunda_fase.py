@@ -23,12 +23,17 @@ from datos import (
 )
 
 
-def main() -> None:
-    st.title("Ficha técnica del corpus")
-    st.caption("Metodología de construcción de los 244 documentos definitivos para Fase 2.")
+def mostrar_ficha_tecnica(df_completo: pd.DataFrame, df_final: pd.DataFrame) -> None:
+    """Renderiza el contenido de la ficha técnica (reutilizable desde página o dialog)."""
 
-    df_completo = cargar_datos()
-    df_final = cargar_documentos_definitivos(_mtime=_mtime_archivo(ARCHIVO_DATOS))
+    st.markdown(
+        "Para la selección inicial se tomaron todos aquellos documentos sustantivos "
+        "producidos por CEPAL entre 2015 y 2025 que tenían en su lista de temas "
+        '"CAMBIO CLIMÁTICO" — 248 en total — luego se excluyeron algunos y se '
+        "agregaron 14 adicionales que el equipo consideró _core_ en la producción "
+        'editorial de la CEPAL pero que no tenían el tema "CAMBIO CLIMÁTICO" '
+        "(ver detalles abajo)."
+    )
 
     # ── Resumen ejecutivo ──────────────────────────────────────────────
     st.header("Resumen ejecutivo")
@@ -168,6 +173,16 @@ def main() -> None:
         mime="text/csv",
         use_container_width=True,
     )
+
+
+def main() -> None:
+    st.title("Ficha técnica del corpus")
+    st.caption("Metodología de construcción de los 244 documentos definitivos para Fase 2.")
+
+    df_completo = cargar_datos()
+    df_final = cargar_documentos_definitivos(_mtime=_mtime_archivo(ARCHIVO_DATOS))
+
+    mostrar_ficha_tecnica(df_completo, df_final)
 
 
 if __name__ == "__main__":

@@ -14,20 +14,18 @@ repo.
 
 ## Arquitectura
 
-Cuatro páginas conectadas por `st.navigation` en [app.py](app.py):
+Tres páginas conectadas por `st.navigation` en [app.py](app.py), más un dialog:
 
 - **Explorador** ([explorador.py](explorador.py)) — tabla paginada con filtros,
   pills coloreados por cluster, popup de detalle por registro, autosave del
-  checkbox `Incluir` y campo de nota.
+  checkbox `Incluir` y campo de nota. Incluye botón **📋 Ficha técnica** que
+  abre un dialog con la metodología de construcción del corpus definitivo
+  (contenido de [segunda_fase.py](segunda_fase.py) embebido).
 - **Estadísticas** ([visualizaciones.py](visualizaciones.py)) — visualizaciones
-  ECharts (barras por periodo, Sankey división↔temas, red de coocurrencias).
-  Los gráficos sankey/graph se renderizan vía CDN porque la versión empaquetada
-  con `streamlit-echarts` no implementa `emphasis.focus: "trajectory"`.
-- **Documentos para 2da fase** ([segunda_fase.py](segunda_fase.py)) — ficha
-  técnica con metodología de construcción del corpus definitivo (244 documentos).
-- **Revisión del piloto** ([revision_piloto.py](revision_piloto.py)) — fichas de
-  17 documentos piloto con encabezado de metadatos, pestañas de resumen,
-  secciones, interpelación, tipología y comentarios.
+  (barras por periodo, Sankey división↔temas, red de coocurrencias).
+- **Revisión publicaciones piloto** ([revision_piloto.py](revision_piloto.py)) —
+  fichas de 17 documentos piloto con encabezado de metadatos, pestañas de
+  resumen, secciones, interpelación, tipología y comentarios.
 
 Módulos de soporte:
 

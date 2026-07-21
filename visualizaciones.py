@@ -132,9 +132,9 @@ def render_echarts(
 def main() -> None:
     st.title("Estadísticas del corpus")
     st.caption(
-        "Visualizaciones sobre el conjunto filtrado. "
-        "Gráficos con [streamlit-echarts](https://github.com/andfanilo/streamlit-echarts) "
-        "y redes estilo [ECharts graph](https://echarts.apache.org/examples/en/editor.html?c=graph)."
+        "Distribución temporal de las publicaciones y estructura temática del corpus: "
+        "vínculos entre divisiones de CEPAL y los temas que abordan, "
+        "y mapa de coocurrencias entre tópicos (excluyendo CAMBIO CLIMÁTICO)."
     )
 
     if not ARCHIVO_DATOS.exists():
@@ -254,7 +254,8 @@ def main() -> None:
     opt_barras = opciones_barras_periodo(df)
     meta = opt_barras.pop("_meta", {})
     st.caption(
-        f"Bins fijos 2015-2018, 2019-2022, 2023-2026. "
+        "Volumen de publicaciones del corpus en cada periodo. "
+        "El filtro temático se basa en el campo de tópicos del repositorio CEPAL (`cepal.topicSpa`). "
         f"Sin año válido: **{meta.get('sin_anio', 0)}** · "
         f"Fuera de rango: **{meta.get('fuera_rango', 0)}**."
     )
@@ -270,9 +271,9 @@ def main() -> None:
         f" · periodo: **{', '.join(periodos_sel)}**" if periodo_activo and periodos_sel else ""
     )
     st.caption(
-        "Diagrama Sankey: **divisiones** → **CAMBIO CLIMÁTICO** (puente central) → **otros temas**. "
-        "Pasa el cursor sobre una división, sobre el nodo central o sobre un tema "
-        "para resaltar toda la ruta del flujo." + cap_periodo
+        "Flujo desde cada división de CEPAL hacia CAMBIO CLIMÁTICO como nodo pivote "
+        "y desde allí hacia los demás temas asociados en el repositorio (`cepal.topicSpa`). "
+        "Pase el cursor sobre una división para ver solo su ruta completa." + cap_periodo
     )
     opt_div = opciones_grafo_division_temas(
         df_periodo,
@@ -288,8 +289,10 @@ def main() -> None:
 
     st.subheader("Coocurrencias entre temas")
     st.caption(
-        "Temas que aparecen juntos en una publicación, "
-        "**excluyendo** CAMBIO CLIMÁTICO." + cap_periodo
+        "Temas del repositorio CEPAL (`cepal.topicSpa`) que aparecen juntos "
+        "en una misma publicación, **excluyendo** CAMBIO CLIMÁTICO. "
+        "Cada nodo es un tema, las aristas conectan temas que co-ocurren "
+        "y el tamaño refleja la fuerza de la coocurrencia." + cap_periodo
     )
     opt_cooc = opciones_grafo_coocurrencias(
         df_periodo, mapa, top_temas=top_temas_cooc, peso_min=peso_min_cooc

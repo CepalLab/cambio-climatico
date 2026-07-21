@@ -597,10 +597,13 @@ def _cargar_pilotos() -> list[dict]:
 
 
 def main() -> None:
-    st.title("Revisión del Piloto")
+    st.title("Revisión publicaciones piloto")
     st.caption(
-        "17 publicaciones del piloto de Fase 2 — "
-        "seleccione una y revise su ficha estructurada por pestañas."
+        "Estas 17 publicaciones son la muestra de calibración del proceso de extracción "
+        "estructurada e interpelación que luego se escalará a las 244 del corpus definitivo. "
+        "Use el selector para revisar una por una: cada ficha contiene el resumen, "
+        "secciones con dimensiones analíticas, interpelación institucional, tipología "
+        "y comentarios del equipo revisor."
     )
 
     pilotos = _cargar_pilotos()

@@ -24,6 +24,7 @@ from datos import (
     cargar_mapa_clusters,
     color_tema,
 )
+from segunda_fase import mostrar_ficha_tecnica
 from topic_spa import contiene_tema, normalizar_a_lista, temas_a_texto
 
 COLUMNA_URI = "dc.identifier.uri"
@@ -330,6 +331,15 @@ def dialogo_vista_rapida(fila: pd.Series, mapa: MapaClusters | None = None) -> N
         st.rerun()
 
 
+@st.dialog("Ficha técnica — selección del corpus definitivo", width="large")
+def dialogo_ficha_tecnica() -> None:
+    df_full = cargar_datos(_mtime=_mtime_archivo(ARCHIVO_DATOS))
+    df_final = cargar_documentos_definitivos(_mtime=_mtime_archivo(ARCHIVO_DATOS))
+    mostrar_ficha_tecnica(df_full, df_final)
+    if st.button("Cerrar", type="primary", use_container_width=True):
+        st.rerun()
+
+
 def mostrar_detalle_campo(nombre: str, valor) -> None:
     if pd.isna(valor) or str(valor).strip() == "":
         st.caption("_vacío_")
@@ -341,7 +351,16 @@ def mostrar_detalle_campo(nombre: str, valor) -> None:
 
 
 def main() -> None:
-    st.title("Explorador de publicaciones")
+    col_t, col_b = st.columns([4, 1])
+    with col_t:
+        st.title("Explorador de publicaciones")
+    with col_b:
+        if st.button(
+            "📋 Ficha técnica",
+            use_container_width=True,
+            help="Metodología de construcción del corpus definitivo (244 documentos)",
+        ):
+            dialogo_ficha_tecnica()
     st.caption("Corpus definitivo de publicaciones sobre cambio climático para Fase 2.")
 
     if not ARCHIVO_DATOS.exists():
