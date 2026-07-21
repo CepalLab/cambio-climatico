@@ -11,6 +11,16 @@ comentarios del equipo revisor).
 > Proyecto del [CEPAL Lab](https://www.cepal.org/es) — laboratorio de innovación
 > de la CEPAL/ILPES.
 
+## Changelog
+
+### 2026-07-21
+
+- Se rediseñó la página **Revisión del piloto** para mejorar legibilidad y consistencia visual:
+  encabezado con metadatos clave, orden y texto explicativo en pestañas, ajustes de secciones
+  (agrupación por niveles y etiquetas), y mejoras en comentarios de revisión.
+- Se actualizaron descripciones de arquitectura y estructura del proyecto para reflejar las
+  páginas activas actuales en navegación.
+
 ## Ejecutar localmente
 
 ```bash
