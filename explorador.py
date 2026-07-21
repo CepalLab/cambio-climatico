@@ -361,7 +361,7 @@ def main() -> None:
             help="Metodología de construcción del corpus definitivo (244 documentos)",
         ):
             dialogo_ficha_tecnica()
-    st.caption("Corpus definitivo de publicaciones sobre cambio climático para Fase 2.")
+    st.caption("Corpus definitivo de publicaciones sobre cambio climático para ser analizadas.")
 
     if not ARCHIVO_DATOS.exists():
         st.error(f"No se encontró el archivo de datos: {ARCHIVO_DATOS}")

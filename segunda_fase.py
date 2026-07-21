@@ -184,6 +184,9 @@ def main() -> None:
 
     mostrar_ficha_tecnica(df_completo, df_final)
 
+    st.divider()
+    st.caption("_Elaborado por CEPAL Lab_ · CEPAL/ILPES")
+
 
 if __name__ == "__main__":
     main()

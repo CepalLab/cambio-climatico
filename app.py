@@ -81,3 +81,6 @@ pg = st.navigation(
     position="top",
 )
 pg.run()
+
+st.divider()
+st.caption("_Elaborado por CEPAL Lab_ · CEPAL/ILPES")
