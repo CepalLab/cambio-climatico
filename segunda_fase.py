@@ -185,7 +185,11 @@ def main() -> None:
     mostrar_ficha_tecnica(df_completo, df_final)
 
     st.divider()
-    st.caption("_Elaborado por CEPAL Lab_ · CEPAL/ILPES")
+    st.markdown(
+        "<div style='text-align:center;font-size:0.8em;color:#888;'>"
+        "<em>Elaborado por CEPAL Lab · 2026</em></div>",
+        unsafe_allow_html=True,
+    )
 
 
 if __name__ == "__main__":
