@@ -1,9 +1,12 @@
 # Explorador de publicaciones · Cambio climático CEPAL
 
 App Streamlit para explorar y revisar el corpus de publicaciones CEPAL sobre
-cambio climático. Dos páginas: **Explorador** de metadatos (tabla con filtros,
-pills coloreados por cluster, popup de detalle) y **Estadísticas** (Sankey
-división↔temas, coocurrencias, barras por periodo).
+cambio climático. Cuatro páginas: **Explorador** de metadatos (tabla con
+filtros, pills coloreados por cluster, popup de detalle), **Estadísticas**
+(Sankey división↔temas, coocurrencias, barras por periodo), **Documentos para
+2da fase** (ficha técnica del corpus definitivo) y **Revisión del piloto**
+(fichas de los 17 casos con resumen, secciones, interpelación, tipología y
+comentarios del equipo revisor).
 
 > Proyecto del [CEPAL Lab](https://www.cepal.org/es) — laboratorio de innovación
 > de la CEPAL/ILPES.
@@ -28,6 +31,9 @@ Datos esperados en la misma carpeta que `app.py`:
 app.py                  # entrypoint Streamlit (st.navigation)
 explorador.py           # página: tabla + filtros + popup + autosave
 visualizaciones.py      # página: gráficos ECharts (barras, sankey, coocurrencias)
+segunda_fase.py         # página: ficha técnica del corpus definitivo (244 docs)
+revision_piloto.py      # página: fichas de revisión del piloto (17 casos)
+comentarios_piloto.py   # persistencia de comentarios de revisión (GitHub/local)
 datos.py                # carga cacheada + colores por cluster
 topic_spa.py            # parsing del campo cepal.topicSpa
 seleccion.py            # persistencia (GitHub o JSON local)

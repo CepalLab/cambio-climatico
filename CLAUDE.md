@@ -14,7 +14,7 @@ repo.
 
 ## Arquitectura
 
-Dos páginas conectadas por `st.navigation` en [app.py](app.py):
+Cuatro páginas conectadas por `st.navigation` en [app.py](app.py):
 
 - **Explorador** ([explorador.py](explorador.py)) — tabla paginada con filtros,
   pills coloreados por cluster, popup de detalle por registro, autosave del
@@ -23,6 +23,11 @@ Dos páginas conectadas por `st.navigation` en [app.py](app.py):
   ECharts (barras por periodo, Sankey división↔temas, red de coocurrencias).
   Los gráficos sankey/graph se renderizan vía CDN porque la versión empaquetada
   con `streamlit-echarts` no implementa `emphasis.focus: "trajectory"`.
+- **Documentos para 2da fase** ([segunda_fase.py](segunda_fase.py)) — ficha
+  técnica con metodología de construcción del corpus definitivo (244 documentos).
+- **Revisión del piloto** ([revision_piloto.py](revision_piloto.py)) — fichas de
+  17 documentos piloto con encabezado de metadatos, pestañas de resumen,
+  secciones, interpelación, tipología y comentarios.
 
 Módulos de soporte:
 
@@ -34,6 +39,8 @@ Módulos de soporte:
   **Dos backends autodetectados**: GitHub (si `st.secrets["github"]` está
   configurado) o JSON local de fallback. Cada `actualizar_marca` o
   `aplicar_cambios_lote` = 1 commit al repo.
+- [comentarios_piloto.py](comentarios_piloto.py) — persistencia de comentarios
+  del equipo revisor para la página de piloto (backend GitHub o JSON local).
 - [graficos_echarts.py](graficos_echarts.py) — construcción de opciones ECharts.
 
 ## Documentación de proceso
