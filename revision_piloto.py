@@ -13,6 +13,8 @@ import streamlit as st
 from comentarios_piloto import (
     comentario_de,
     guardar_comentario,
+    persistencia_disponible,
+    store_etiqueta,
 )
 
 DIR_PILOT = Path(__file__).resolve().parent / "fase2" / "pilot"
@@ -536,38 +538,51 @@ def tab_tipologia(doc: dict) -> None:
 def tab_comentarios(doc_id: str) -> None:
     c = comentario_de(doc_id)
     texto = c.comentario
+    persistencia_ok = persistencia_disponible()
 
     st.markdown("##### Comentarios del equipo revisor")
     st.caption(
-        "Este espacio es para validación metodológica y observaciones críticas del análisis. "
-        "Puedes usarlo para confirmar criterios aplicados, señalar desacuerdos con alguna "
-        "clasificación (dimensiones, interpelación o tipología), o dejar notas sobre evidencia "
-        "que creas que falta o debería interpretarse de otra manera."
+        "Este espacio es para validacion metodologica y observaciones criticas del analisis. "
+        "Puedes usarlo para confirmar criterios aplicados, senalar desacuerdos con alguna "
+        "clasificacion (dimensiones, interpelacion o tipologia), o dejar notas sobre evidencia "
+        "que creas que falta o deberia interpretarse de otra manera."
     )
     st.caption(
         "Los comentarios son libres: no requieren formato fijo y pueden combinar acuerdos, "
         "objeciones y sugerencias de mejora."
     )
+    st.caption(f"Backend activo: {store_etiqueta()}")
+    if not persistencia_ok:
+        st.error(
+            "La persistencia durable de comentarios no esta configurada. "
+            "Mientras falten los secrets de GitHub, esta seccion queda en modo solo lectura para evitar perdida de informacion."
+        )
     st.divider()
 
     st.text_area(
-        "Tus observaciones sobre esta publicación",
+        "Tus observaciones sobre esta publicacion",
         value=texto,
         height=150,
         key=f"com_{doc_id}",
-        placeholder="Escribe aquí tus notas, dudas o sugerencias para el equipo del curso...",
+        placeholder="Escribe aqui tus notas, dudas o sugerencias para el equipo del curso...",
+        disabled=not persistencia_ok,
     )
 
     gcol, icol = st.columns([1, 3])
     with gcol:
-        if st.button("Guardar comentario", type="primary", use_container_width=True, key=f"btn_{doc_id}"):
+        if st.button(
+            "Guardar comentario",
+            type="primary",
+            use_container_width=True,
+            key=f"btn_{doc_id}",
+            disabled=not persistencia_ok,
+        ):
             nuevo = st.session_state.get(f"com_{doc_id}", "")
             guardar_comentario(doc_id, nuevo.strip())
-            st.success("Comentario guardado", icon="✅")
+            st.success("Comentario guardado")
     with icol:
         if texto.strip() and c.ultima_modificacion:
-            st.caption(f"Última modificación: {c.ultima_modificacion}")
-
+            st.caption(f"Ultima modificacion: {c.ultima_modificacion}")
 
 # ── Carga ───────────────────────────────────────────────────────────────
 
