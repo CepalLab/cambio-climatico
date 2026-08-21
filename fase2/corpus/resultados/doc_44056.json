@@ -1,0 +1,770 @@
+{
+  "documento": {
+    "num_muestra": 73,
+    "titulo": "Cambio climático y seguridad alimentaria y nutricional en Centroamérica y la República Dominicana: propuestas metodológicas",
+    "autoria": "Olivares, Jaime; Ramírez, Diana",
+    "handle": "https://hdl.handle.net/11362/44056",
+    "simbolo": "LC/MEX/TS.2018/19",
+    "isbn": null,
+    "fecha": "2018-09",
+    "tipo_documento": "Propuesta metodológica",
+    "paginas_cuerpo": 134,
+    "paginas_totales": 156,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cuáles son las metodologías y marcos analíticos más adecuados para estimar los impactos potenciales del cambio climático en las cuatro dimensiones de la seguridad alimentaria y nutricional (disponibilidad, acceso, utilización y estabilidad) en los países del SICA?",
+    "alcance": {
+      "ambito_aplicacion": "Centroamérica y República Dominicana (países del SICA)",
+      "referentes_dependencias": "CEPAL, FAO, CGIAR/CCAFS, PROGRESAN-SICA, INCAP",
+      "sectorial": "Sistemas agroalimentarios, salud, nutrición, recursos hídricos, biodiversidad",
+      "temporal": "Proyecciones a 2020, 2030, 2050 y 2100"
+    },
+    "hallazgos_principales": [
+      "El cambio climático impacta transversalmente las cuatro dimensiones de la SAN: disponibilidad (reducción de rendimientos agrícolas), acceso (aumento de precios y pobreza), utilización (afectación de inocuidad y calidad nutricional) y estabilidad (mayor frecuencia de eventos extremos). (p. 24)",
+      "Las proyecciones para 2100 en el escenario A2 indican caídas severas en rendimientos de granos básicos: el maíz podría disminuir un 35% a nivel regional y el arroz hasta un 50% si no se aplican medidas de adaptación. (p. 25, 26)",
+      "El impacto en la pobreza es significativo: para 2050, el cambio climático podría sumar hasta 1 millón de personas adicionales en situación de pobreza urbana en Guatemala con respecto al escenario base. (p. 128)",
+      "Existe una transición nutricional hacia dietas densas en energía y bajas en nutrientes, exacerbada por el aumento de precios de alimentos frescos debido a la variabilidad climática. (p. 96)",
+      "Se identifican y describen múltiples herramientas institucionales (MOSAICC, ASIS, RIMA II, IMPACT, TeSAC) que ofrecen capacidades complementarias para el monitoreo y la planificación resiliente. (p. 52, 62, 87)"
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "No existe un marco de análisis único y exhaustivo; la complejidad del sistema alimentario exige el uso combinado de modelos biofísicos, hidrológicos y socioeconómicos.",
+        "La vulnerabilidad de la región es alta y está determinada tanto por factores climáticos como por brechas estructurales preexistentes en acceso a servicios básicos y desigualdad.",
+        "El cambio climático actuará como un desacelerador de los avances en la reducción de la desnutrición crónica infantil en la región SICA."
+      ],
+      "recomendaciones": [
+        "Integrar explícitamente las metas de seguridad alimentaria y nutricional en el diseño e implementación de los Planes Nacionales de Adaptación (PNA).",
+        "Priorizar inversiones públicas en infraestructura resiliente, como sistemas de riego, cosecha de agua y capacidades de almacenamiento de granos.",
+        "Fortalecer los sistemas de alerta temprana y monitoreo de la sequía agrícola (ej. ASIS-País) para activar respuestas contingentes oportunas.",
+        "Promover guías alimentarias y políticas de nutrición que fomenten el consumo de alimentos autóctonos nutritivos y la lactancia materna frente a los sustitutos industriales.",
+        "Adoptar marcos de política agropecuaria con perspectiva de género e inclusión social, reconociendo las capacidades diferenciadas de adaptación."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "Este documento técnico analiza la interrelación entre el cambio climático y la seguridad alimentaria y nutricional (SAN) en Centroamérica y la República Dominicana, proponiendo un inventario de metodologías para estimar sus impactos. Examina cómo las variaciones en temperatura y precipitación afectan la disponibilidad de alimentos, el acceso económico de los hogares vulnerables, la utilización biológica de nutrientes y la estabilidad de los suministros. Concluye que la integración de modelos científicos en la política pública es fundamental para fortalecer la resiliencia regional frente a riesgos climáticos crecientes."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "21-22",
+      "resumen": "Presenta el desafío del cambio climático sobre la Seguridad Alimentaria y Nutricional (SAN) en los países del SICA, vinculándolo con los ODS (especialmente ODS 2, 3 y 6). Relata el proceso institucional desde 2015 que llevó a la creación de este documento conjunto entre CEPAL, FAO, CGIAR/CCAFS, PROGRESAN-SICA e INCAP. Establece el objetivo de desarrollar propuestas metodológicas para evaluar los impactos climáticos en todas las dimensiones de la SAN y coordinar recomendaciones de política pública regional.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "En julio de 2015 se llevó a cabo una reunión de expertos sobre retos y oportunidades para la Seguridad Alimentaria y Nutricional en los países del Sistema de la Integración Centroamericana (SICA) organizada conjuntamente por la Secretaría Ejecutiva del Consejo Agropecuario Centroamericano (SE-CAC), la Comisión Económica para América Latina y el Caribe (CEPAL)",
+          "pagina": 21
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Relación entre el cambio climatico y las dimensiones de la seguridad alimentaria y nutricional",
+      "nivel": 1,
+      "paginas": "23-46",
+      "resumen": "Analiza de forma integral los desafíos, riesgos y oportunidades que el cambio climático impone a la Seguridad Alimentaria y Nutricional (SAN) más allá de la producción primaria. El capítulo examina la vulnerabilidad de toda la cadena alimentaria, desde los efectos biofísicos en los cultivos hasta las dinámicas socioeconómicas que afectan el acceso y la utilización biológica. Asimismo, aborda la contribución bidireccional entre el sistema alimentario y las emisiones de gases de efecto invernadero (GEI). El análisis integra marcos analíticos institucionales para la gestión de riesgos climáticos, proporcionando una base técnica sólida para la toma de decisiones informada. Se abordan las interconexiones entre variables biofísicas y resultados socioeconómicos, enfatizando la importancia de la adaptación planificada en el sector agroalimentario regional para asegurar la estabilidad nutricional a largo plazo. Además, se exploran sinergias entre la mitigación de emisiones y la mejora de la resiliencia comunitaria, destacando casos de éxito y lecciones aprendidas en la implementación de políticas de seguridad alimentaria resilientes.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Efectos del cambio climático en los componentes de la seguridad alimentaria y nutricional",
+          "nivel": 2,
+          "paginas": "24-36",
+          "resumen": "Describe cómo la variabilidad climática impacta las cuatro dimensiones clásicas de la SAN: disponibilidad, acceso, utilización y estabilidad. El apartado detalla los riesgos biofísicos para los granos básicos y el café, la erosión del poder adquisitivo de los hogares rurales y los riesgos para la salud pública y la nutrición derivados de eventos extremos y cambios en la inocuidad de los alimentos. El análisis integra marcos analíticos institucionales para la gestión de riesgos climáticos, proporcionando una base técnica sólida para la toma de decisiones informada. Se abordan las interconexiones entre variables biofísicas y resultados socioeconómicos, enfatizando la importancia de la adaptación planificada en el sector agroalimentario regional para asegurar la estabilidad nutricional a largo plazo.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Disponibilidad",
+              "nivel": 3,
+              "paginas": "24-28",
+              "resumen": "Examina el impacto directo del aumento de temperatura y cambios en la precipitación sobre el rendimiento de cultivos clave como maíz, frijol, arroz y café en Centroamérica. Destaca proyecciones del IPCC y estudios regionales que prevén disminuciones significativas en la producción (p. ej., hasta 35% en maíz y 43% en frijol a final de siglo en escenario A2). También analiza cómo la pérdida de biodiversidad y la degradación de suelos, sumadas a la mayor dependencia de importaciones y la vulnerabilidad de las cadenas de suministro, amenazan la oferta alimentaria regional.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "De acuerdo con estas proyecciones, en el escenario A2 el rendimiento del maíz empezaría a disminuir en la década de 2020, bajando hasta un 35% a final de siglo en toda la región si no se toman medidas de adaptación.",
+                  "pagina": 25
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Acceso",
+              "nivel": 3,
+              "paginas": "28-30",
+              "resumen": "Analiza la relación entre el cambio climático, el crecimiento del PIB y el poder adquisitivo de las familias, especialmente las rurales que dependen de la agricultura. El texto advierte que el fenómeno actúa como multiplicador de vulnerabilidades, profundizando trampas de pobreza y desigualdad. Incluye proyecciones específicas de CEPAL para 2050 que estiman aumentos en los niveles de indigencia y pobreza urbana en países como Guatemala, Honduras y Nicaragua ante la caída de rendimientos y el alza de precios de los alimentos.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "El cambio climático reduce la productividad de los hogares rurales con producción de subsistencia, lo que erosiona todavía más su seguridad alimentaria y crea nuevas trampas de pobreza.",
+                  "pagina": 29
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Utilización",
+              "nivel": 3,
+              "paginas": "31-34",
+              "resumen": "Aborda el impacto del clima en la salud y el aprovechamiento biológico de los nutrientes. Señala que el aumento de temperatura y eventos extremos favorecen enfermedades transmitidas por agua y vectores (dengue, malaria, EDA), afectando la capacidad de absorción nutricional. Además, destaca que altos niveles de CO2 disminuyen la densidad de micronutrientes (zinc, hierro, proteínas) en cultivos básicos y favorecen la aparición de micotoxinas, exacerbando la \"doble carga de malnutrición\" (desnutrición y obesidad) en la región.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Los cambios en las condiciones climáticas pueden activar círculos viciosos donde las enfermedades infecciosas causan o agravan el hambre y disminuyen la capacitad de absorción de los nutrientes.",
+                  "pagina": 31
+                },
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Estudios recientes demuestran que los niveles altos de CO2 disminuyen significativamente las concentraciones de zinc, hierro y proteínas en los cultivos de granos básicos como arroz, maíz y trigo",
+                  "pagina": 34
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Estabilidad",
+              "nivel": 3,
+              "paginas": "34-36",
+              "resumen": "Define la estabilidad como la garantía de abastecimiento continuo frente a shocks climáticos o económicos. El texto documenta el aumento drástico de eventos hidrometeorológicos en Centroamérica (tormentas e inundaciones multiplicadas por ocho y 39 respectivamente en décadas recientes), lo que amenaza las reservas de alimentos y la infraestructura de transporte. Subraya que la falta de infraestructura de riego y almacenamiento en países en desarrollo aumenta la vulnerabilidad ante la inseguridad alimentaria transitoria.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Tan solo en el período 2006-2015 el número de tormentas se multiplicó por ocho con relación al período 1956-1965; las inundaciones se multiplicaron 39 veces en el mismo período",
+                  "pagina": 35
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "La intensidad de los impactos del cambio climático sobre el componente de estabilidad de la SAN dependerá de la capacidad de los países para contrarrestar las fluctuaciones de la disponibilidad y el acceso mediante inversiones en riego, en mejores instalaciones de almacenamiento",
+                  "pagina": 36
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Sistema alimentario y nutricional y emisión de gases de efecto invernadero",
+          "nivel": 2,
+          "paginas": "36-46",
+          "resumen": "Analiza el sistema alimentario como fuente de emisiones de gases de efecto invernadero (GEI), contribuyendo con el 19% al 29% de las emisiones globales. El apartado desglosa la huella de carbono en las fases de preproducción, producción (donde la fermentación entérica y el cambio de uso de suelo son críticos) y posproducción, incluyendo transporte, refrigeración y desperdicios. Examina también los inventarios nacionales de los países del SICA y la oportunidad que representa el etiquetado de carbono para productos regionales. El análisis integra marcos analíticos institucionales para la gestión de riesgos climáticos, proporcionando una base técnica sólida para la toma de decisiones informada. Se abordan las interconexiones entre variables biofísicas y resultados socioeconómicos, enfatizando la importancia de la adaptación planificada en el sector agroalimentario regional para asegurar la estabilidad nutricional a largo plazo.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Impactos del sistema alimentario y nutricional sobre el cambio climático",
+              "nivel": 3,
+              "paginas": "37",
+              "resumen": "Establece el marco general de las emisiones del sistema, destacando que la producción agrícola aporta entre el 80% y 86% de las emisiones totales del sector. Introduce conceptos como la huella de carbono (HC) y el ciclo de vida de los productos, señalando la complejidad y variabilidad de las mediciones según la tecnología y logística empleadas.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Vermeulen y otros (2012) estiman que los sistemas alimentarios aportan entre el 19% y el 29% del total de las emisiones de GEI globales.",
+                  "pagina": 37
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Actividades de preproducción",
+              "nivel": 3,
+              "paginas": "38",
+              "resumen": "Describe las emisiones derivadas de la fabricación de insumos químicos como fertilizantes nitrogenados (emisión de N2O), pesticidas y herbicidas. También considera el uso de energía y combustibles fósiles para la maquinaria agrícola, el transporte de semillas y la producción de alimento para ganado (especialmente para rumiantes), que constituyen los cimientos de la cadena productiva industrializada.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Actividades de producción",
+              "nivel": 3,
+              "paginas": "38-43",
+              "resumen": "Detalla las fuentes de emisiones directas e indirectas en el campo. Identifica la fermentación entérica de la ganadería como el rubro principal en la región (entre 18% y 67% del sector), seguido por el manejo de suelos agrícolas y el cultivo de arroz. Asimismo, analiza el impacto del cambio de uso de suelo y la deforestación (CUTS), que en países como Belice, El Salvador y Nicaragua genera emisiones netas positivas, mientras que otros países muestran absorciones por manejo forestal.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "En los países SICA en el sector de cambio de uso de suelo y silvicultura (CUTS) las emisiones son mayores que las absorciones en Belice, El Salvador, Honduras y Nicaragua.",
+                  "pagina": 40
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Actividades de postproducción",
+              "nivel": 3,
+              "paginas": "43-46",
+              "resumen": "Cubre las emisiones asociadas al procesamiento, embalaje, transporte, refrigeración y desperdicios de alimentos. Destaca que el transporte aéreo, aunque minoritario, es altamente intensivo en emisiones, y que la refrigeración es un factor creciente por la demanda energética y el uso de gases refrigerantes. Concluye con el impacto de los desperdicios de alimentos, que generan CH4 en vertederos y representan una pérdida de toda la energía y recursos invertidos en las etapas previas del ciclo de vida.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Las emisiones del procesamiento de alimentos son CO2 (por la combustión en estufas, hornos, calderas tostadoras y procesamiento), CH4 y N2O (de aguas residuales).",
+                  "pagina": 43
+                },
+                {
+                  "dimension": "tendencias",
+                  "cita": "El consumo de energía crece con la economía; un ejemplo de ello es el incremento de la demanda de refrigeración y aire acondicionado.",
+                  "pagina": 45
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "II. Propuestas metodológicas para estimar los impactos potenciales del cambio climático en la seguridad alimentaria y nutricional",
+      "nivel": 1,
+      "paginas": "47",
+      "resumen": "Este capítulo introduce las propuestas metodológicas de diversas instituciones del Consejo Agropecuario Centroamericano (CAC) para evaluar los impactos del cambio climático en la seguridad alimentaria y nutricional (SAN). El enfoque es tanto cuantitativo como cualitativo, abordando diferentes dimensiones del sistema alimentario regional.",
+      "dimensiones": [
+        {
+          "dimension": "desafios",
+          "cita": "presenta las metodologías propuestas por miembros del grupo interagencial de apoyo del Consejo Agropecuario Centroamericano (CAC) para estimar cuantitativa y cualitativamente los impactos potenciales del cambio climático en la Seguridad Alimentaria",
+          "pagina": 47
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Revisión bibliográfica",
+          "nivel": 2,
+          "paginas": "47-51",
+          "resumen": "Se analiza cómo la variabilidad y el cambio climático afectan los sistemas hidrológicos y el rendimiento de los cultivos. La revisión destaca que la investigación científica aún no ha estimado exhaustivamente los efectos futuros en todas las dimensiones de la SAN, aunque se prevén reducciones en la disponibilidad de agua y alimentos, así como aumentos en los precios que limitarán el acceso.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "La mayoría de los estudios sobre las relaciones entre el cambio climático y la SAN se centran en una sola dimensión, principalmente en la producción y la disponibilidad de alimentos, no en toda la cadena alimentaria y nutricional, lo que requiere un enfoque multidisciplinario.",
+              "pagina": 48
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Métodos propuestos por la FAO",
+          "nivel": 2,
+          "paginas": "52-65",
+          "resumen": "La FAO presenta un conjunto de indicadores y herramientas para monitorear la SAN en el contexto de los ODS y el cambio climático. Se enfatiza la vulnerabilidad de la agricultura y la necesidad de marcos regulatorios para fortalecer la resiliencia de los sistemas agroalimentarios. El análisis integra marcos analíticos institucionales para la gestión de riesgos climáticos, proporcionando una base técnica sólida para la toma de decisiones informada. Se abordan las interconexiones entre variables biofísicas y resultados socioeconómicos, enfatizando la importancia de la adaptación planificada en el sector agroalimentario regional para asegurar la estabilidad nutricional a largo plazo.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "iones. El concepto de la ASAC se extiende más allá de las prácticas a nivel de la finca y llega hasta intervenciones en el paisaje, por ejemplo, manejo de la frontera agrícola-forestal; servicios como información y financiamiento, principalmente; instituciones, en particular la gobernanza del mercado y los incentivos",
+              "pagina": 65
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "1. La FAO, los Objetivos de Desarrollo Sostenible y la seguridad alimentaria y nutricional (SAN)",
+              "nivel": 3,
+              "paginas": "52-54",
+              "resumen": "Se describe el mandato de la FAO respecto a los ODS, custodiando 21 indicadores relacionados con el hambre, la agricultura sostenible, el agua y los recursos marinos y terrestres. Estos indicadores son fundamentales para medir el progreso hacia la seguridad alimentaria global.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Tomando en cuenta su mandato y capacidades, la FAO es propuesta como la agencia de las Naciones Unidas que custodie 21 indicadores de los ODS (ODS 2, 5, 6, 12, 14, y 15) y como agencia colaboradora para seis más.",
+                  "pagina": 52
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. La medición de la SAN",
+              "nivel": 3,
+              "paginas": "54-55",
+              "resumen": "Se explican métodos para medir la SAN basados en experiencias, como la Escala de Experiencia en Inseguridad Alimentaria (FIES) y la Escala Latinoamericana y Caribeña de Seguridad Alimentaria (ELCSA). Estas herramientas permiten clasificar la inseguridad en niveles leve, moderado y severo.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "La medición de la SAN puede llevarse a cabo por diversos métodos. Tomando en consideración las experiencias o las consecuencias de la inseguridad alimentaria en categorías leve, moderada y severa hay una amplia gama de aproximaciones.",
+                  "pagina": 54
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Los impactos del cambio climático en la SAN y las metodologías para su análisis",
+              "nivel": 3,
+              "paginas": "55-65",
+              "resumen": "Analiza cómo el cambio climático afecta las cuatro dimensiones de la SAN de forma directa e indirecta. Presenta herramientas como MOSAICC, AMICAF, RIMA II, y ASIS, que permiten modelar impactos en cultivos, evaluar la resiliencia de los hogares y monitorear sequías agrícolas mediante datos satelitales. El análisis integra marcos analíticos institucionales para la gestión de riesgos climáticos, proporcionando una base técnica sólida para la toma de decisiones informada. Se abordan las interconexiones entre variables biofísicas y resultados socioeconómicos, enfatizando la importancia de la adaptación planificada en el sector agroalimentario regional para asegurar la estabilidad nutricional a largo plazo.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "adas. El CCAFS y sus socios ofrecen una amplia gama de habilidades y experiencias en estas áreas. El primer eje temático del CCAFS es «Prioridades y políticas para la ASAC», dedicado a mejora",
+                  "pagina": 65
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Métodos propuestos por CGIAR-CCAFS",
+          "nivel": 2,
+          "paginas": "62-92",
+          "resumen": "CGIAR-CCAFS propone marcos integrales para evaluar el impacto del cambio climático a lo largo de toda la cadena del sistema alimentario. Se enfoca en la investigación participativa y el desarrollo de tecnologías de agricultura sostenible adaptada al clima (ASAC) para mejorar la productividad y resiliencia rural. El análisis integra marcos analíticos institucionales para la gestión de riesgos climáticos, proporcionando una base técnica sólida para la toma de decisiones informada. Se abordan las interconexiones entre variables biofísicas y resultados socioeconómicos, enfatizando la importancia de la adaptación planificada en el sector agroalimentario regional para asegurar la estabilidad nutricional a largo plazo. Además, se exploran sinergias entre la mitigación de emisiones y la mejora de la resiliencia comunitaria, destacando casos de éxito y lecciones aprendidas en la implementación de políticas de seguridad alimentaria resilientes.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "En el marco de análisis del diagrama II.5 se asume el supuesto de que los eventos extremos, la variabilidad climática y el cambio climático afectan al sistema alimentario y nutricional a lo largo de toda la cadena: producción, procesamiento y envasado, distribución y venta al por menor y consumo.",
+              "pagina": 62
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "1. Hacia las métricas de seguridad alimentaria y nutricional",
+              "nivel": 3,
+              "paginas": "64-66",
+              "resumen": "Se definen metas hacia 2022 y 2030 para mejorar el rendimiento de cultivos, garantizar energía alimentaria y suministro de micronutrientes, con especial atención a las mujeres. El enfoque busca sistemas alimentarios globales más productivos y carbono neutrales. Esta metodología proporciona herramientas analíticas para evaluar la resiliencia de los sistemas alimentarios locales, integrando datos biofísicos y socioeconómicos para informar la toma de decisiones y el escalamiento de prácticas de agricultura sostenible adaptada al clima (ASAC).",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "El Marco de Estrategia y Resultados del CGIAR (CGIAR/CCAFS, 2015) se orienta hacia la búsqueda de un sistema alimentario y nutricional global más productivo, carbono neutral y proveedor de opciones nutritivas a precios asequibles.",
+                  "pagina": 64
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Metodología 1: escenarios de Alimentos y Nutrición",
+              "nivel": 3,
+              "paginas": "66-70",
+              "resumen": "Describe el uso de escenarios exploratorios para la planificación estratégica. Combina análisis cualitativos con modelos cuantitativos (GLOBIOM, IMPACT) para identificar retos sistémicos y evaluar la robustez de las políticas frente a futuros plausibles. Esta metodología proporciona herramientas analíticas para evaluar la resiliencia de los sistemas alimentarios locales, integrando datos biofísicos y socioeconómicos para informar la toma de decisiones y el escalamiento de prácticas de agricultura sostenible adaptada al clima (ASAC).",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Con el fin de hacer proyecciones y formular escenarios futuros que involucren a la SAN en un contexto de cambio climático y de dinámicas socioeconómicas, el CCAFS ha desarrollado e implementado una herramienta que combina escenarios socioeconómicos y climáticos",
+                  "pagina": 66
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Metodología 2: modelación de sistemas alimentarios regionales y nacionales",
+              "nivel": 3,
+              "paginas": "70-77",
+              "resumen": "Detalla el funcionamiento del modelo IMPACT, una plataforma modular que integra modelos climáticos, hídricos y multimercado. Permite proyectar cambios en la productividad agropecuaria, precios y tasas de desnutrición infantil bajo diferentes escenarios de cambio climático. Esta metodología proporciona herramientas analíticas para evaluar la resiliencia de los sistemas alimentarios locales, integrando datos biofísicos y socioeconómicos para informar la toma de decisiones y el escalamiento de prácticas de agricultura sostenible adaptada al clima (ASAC).",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "IMPACT determina cambios globales y regionales en la productividad agropecuaria, en las dinámicas económicas del sector y en indicadores de la SAN en condiciones de cambio climático.",
+                  "pagina": 72
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Metodología 3: caja de herramientas de género",
+              "nivel": 3,
+              "paginas": "77-81",
+              "resumen": "Presenta una metodología de investigación participativa para analizar cómo las desigualdades de género influyen en la vulnerabilidad y la capacidad de adaptación. Incluye herramientas para recopilar datos desagregados por sexo y diseñar intervenciones sensibles al género. Esta metodología proporciona herramientas analíticas para evaluar la resiliencia de los sistemas alimentarios locales, integrando datos biofísicos y socioeconómicos para informar la toma de decisiones y el escalamiento de prácticas de agricultura sostenible adaptada al clima (ASAC).",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "cambio climático y seguridad alimentaria y nutricional en centroamérica y la república dominicana  propuestas metodológicas 75 por contribuir a la alimentación, nutrición e ingresos de los agricultores más pobres del mundo.",
+                  "pagina": 77
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Metodología 4: encuestas y bases de datos como herramientas para conocer y monitorear el estado del sector agropecuario",
+              "nivel": 3,
+              "paginas": "81-85",
+              "resumen": "Se describe RHoMIS, una encuesta rápida de hogares para caracterizar indicadores de producción, nutrición y pobreza. Permite identificar disyuntivas entre el manejo de la finca y la seguridad alimentaria, facilitando el diseño de intervenciones contextualizadas. Esta metodología proporciona herramientas analíticas para evaluar la resiliencia de los sistemas alimentarios locales, integrando datos biofísicos y socioeconómicos para informar la toma de decisiones y el escalamiento de prácticas de agricultura sostenible adaptada al clima (ASAC).",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "6. IMPACTlite, plataforma de modelación integrada de sistemas mixtos de cultivos y animales",
+              "nivel": 3,
+              "paginas": "85-87",
+              "resumen": "Explica una versión simplificada de IMPACT para recopilar datos detallados a nivel de finca sobre recursos, manejo y productividad. Se utiliza para generar tipologías de hogares y realizar evaluaciones de impacto ex-ante de medidas de adaptación. Esta metodología proporciona herramientas analíticas para evaluar la resiliencia de los sistemas alimentarios locales, integrando datos biofísicos y socioeconómicos para informar la toma de decisiones y el escalamiento de prácticas de agricultura sostenible adaptada al clima (ASAC).",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "cambio climático y seguridad alimentaria y nutricional en centroamérica y la república dominicana  propuestas metodológicas 83 6.",
+                  "pagina": 85
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "7. Metodología 5: Territorios sostenibles adaptados al clima (TeSAC)",
+              "nivel": 3,
+              "paginas": "87-92",
+              "resumen": "Presenta el enfoque TeSAC como laboratorios vivos para generar evidencia de la efectividad de las prácticas de ASAC. Se basa en investigación participativa y plataformas multiactor para escalar innovaciones que mejoren la resiliencia y reduzcan emisiones en comunidades rurales. Esta metodología proporciona herramientas analíticas para evaluar la resiliencia de los sistemas alimentarios locales, integrando datos biofísicos y socioeconómicos para informar la toma de decisiones y el escalamiento de prácticas de agricultura sostenible adaptada al clima (ASAC).",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Los TeSAC son laboratorios vivos donde las comunidades prueban, codesarrollan y adoptan portafolios integrados de la ASAC que requieren inversión para el escalamiento.",
+                  "pagina": 88
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "D. Métodos propuestos por el Instituto de Nutrición de Centroamérica y Panamá (INCAP)",
+          "nivel": 2,
+          "paginas": "92-101",
+          "resumen": "Sección que presenta el marco analítico del INCAP para evaluar el impacto del cambio climático sobre la nutrición humana. El enfoque trasciende la mera disponibilidad de alimentos para considerar determinantes biológicos, ambientales y sociales de la malnutrición. Se introducen metodologías prospectivas como la 'Rueda del Futuro' para mapear redes de causalidad ante escenarios de aumento térmico, abordando desde la salud materno-infantil hasta la seguridad hídrica e inocuidad alimentaria. El análisis integra marcos analíticos institucionales para la gestión de riesgos climáticos, proporcionando una base técnica sólida para la toma de decisiones informada. Se abordan las interconexiones entre variables biofísicas y resultados socioeconómicos, enfatizando la importancia de la adaptación planificada en el sector agroalimentario regional para asegurar la estabilidad nutricional a largo plazo.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "Un sistema alimentario y nutricional vulnerable a los efectos del cambio climático es un riesgo que aumenta la inseguridad alimentaria y nutricional. Las sequías, las inundaciones y los eventos climáticos extremos limitan la disponibilidad y consumo de alimentos, por no mencionar la diversidad de la dieta.",
+              "pagina": 94
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "1. Impacto sobre la nutrición",
+              "nivel": 3,
+              "paginas": "92-95",
+              "resumen": "Describe los determinantes de la malnutrición clasificados en causas inmediatas (dieta y salud), subyacentes (acceso, cuidados y ambiente sano) y básicas (poder adquisitivo y factores climáticos). Se analiza la transición nutricional y cómo la pérdida de conocimientos tradicionales afecta los patrones de consumo. Se proyecta que el cambio climático desacelerará la reducción de la desnutrición crónica infantil, sumando millones de casos adicionales para 2050 en escenarios adversos.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "La alimentación depende de factores físicos, económicos y sociales, pero la disponibilidad de alimentos, la capacidad de compra y el número de miembros del hogar determinan su demanda y consumo.",
+                  "pagina": 94
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. El estado de los excesos nutricionales en un contexto de cambio climático",
+              "nivel": 3,
+              "paginas": "96-97",
+              "resumen": "Analiza el vínculo entre la inseguridad alimentaria inducida por el clima y el aumento de la obesidad y el sobrepeso. Los eventos extremos encarecen los alimentos frescos, empujando a la población vulnerable hacia dietas densas en calorías pero pobres en nutrientes (alimentos ultraprocesados y bebidas azucaradas). Se estima que en Centroamérica el sobrepeso y obesidad afectarán a 1.2 millones de menores de cinco años para 2020.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Análisis del impacto del cambio climático sobre la nutrición",
+              "nivel": 3,
+              "paginas": "97-99",
+              "resumen": "Presenta la metodología de la 'Rueda del Futuro', un ejercicio participativo que organiza las consecuencias de un escenario de aumento de 4°C en círculos concéntricos de causalidad. Permite identificar impactos primarios directos y ramificaciones secundarias y terciarias en la salud humana, facilitando la visualización de escenarios futuros complejos y redes de impacto que no son lineales.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "La metodología de la rueda del futuro es adecuada para organizar procesos de lluvia de ideas donde las relaciones de causa y efecto son analizadas en su carácter temporal y con visión de futuro.",
+                  "pagina": 98
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Efectos en la inseguridad alimentaria y nutricional",
+              "nivel": 3,
+              "paginas": "99-100",
+              "resumen": "Proyecta un aumento de la inseguridad alimentaria estacional y episodios de hambruna vinculados a la variabilidad climática. Se prevé que la recurrencia de estos eventos fuerce el desplazamiento de poblaciones rurales hacia centros urbanos, incrementando los cinturones de pobreza urbana y la demanda de asistencia médica por enfermedades infecciosas y malnutrición.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "cambio climático y seguridad alimentaria y nutricional en centroamérica y la república dominicana  propuestas metodológicas 97 diagrama ii.10 análisis del impacto del cambio climático en la nutrición humana fuente: elaborado por incap, 2017.",
+                  "pagina": 99
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Efectos en la disponibilidad, diversidad de alimentos, consumo y utilización biológica",
+              "nivel": 3,
+              "paginas": "100",
+              "resumen": "Detalla cómo el aumento de CO2 reduce el contenido de hierro y zinc en cultivos básicos como maíz, frijol y arroz. La disminución de la disponibilidad de alimentos frescos de origen animal acelera la transición hacia patrones alimentarios obesogénicos. Se enfatiza el riesgo del 'hambre oculta' por deficiencia de micronutrientes y el aumento de la dependencia de programas gubernamentales de alimentación.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "6. Efecto en la calidad y cantidad del agua",
+              "nivel": 3,
+              "paginas": "100-101",
+              "resumen": "Explica la reducción de la disponibilidad de agua para higiene y producción, lo que incrementa las enfermedades infecciosas y afecta la utilización biológica de nutrientes. Se advierte sobre el deterioro de la inocuidad alimentaria debido a la mayor proliferación de patógenos, micotoxinas (aflatoxinas) y residuos de pesticidas bajo condiciones climáticas cambiantes.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "La disponibilidad de agua de calidad para la producción, consumo, higiene y manejo de los alimentos, especialmente en zonas áridas, también disminuirá.",
+                  "pagina": 100
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "7. Efectos en los océanos",
+              "nivel": 3,
+              "paginas": "101",
+              "resumen": "Describe los impactos de la acidificación y el aumento de la temperatura oceánica en la biodiversidad marina. Se resalta la vulnerabilidad de las zonas costeras y caribeñas del SICA, donde la seguridad alimentaria depende críticamente de productos marinos, los cuales verán afectada su disponibilidad y contenido de nutrientes esenciales.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "La acidificación de los océanos afectará la vida marina, lo que reducirá la disponibilidad de alimentos de origen marino y con ello el acceso y disponibilidad de nutrientes esenciales.",
+                  "pagina": 101
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "E. Monitoreo y evaluacion de impactos potenciales de las variaciones climáticas en la seguridad alimentaria y nutricional: elementos de una propuesta metodológica de PROGRESAN",
+          "nivel": 2,
+          "paginas": "101-103",
+          "resumen": "Presenta el enfoque de PROGRESAN-SICA basado en la resiliencia de los medios de vida frente a choques climáticos. Utiliza el marco de la Clasificación Integrada en Fases (CIF) para armonizar el análisis de inseguridad alimentaria aguda y crónica. Propone un inventario de diez modelos analíticos que van desde proyecciones demográficas y hojas de balance de alimentos hasta el monitoreo de precios y acceso económico, integrando variables climáticas para evidenciar impactos en la subalimentación.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Marco analítico-conceptual",
+              "nivel": 3,
+              "paginas": "101",
+              "resumen": "Define la base teórica de PROGRESAN, que integra cuatro modelos: riesgos y vulnerabilidades, capitales, pilares de la SAN y el modelo de nutrición de UNICEF. Se enfoca en la capacidad de los medios de vida para resistir, absorber y recuperarse de eventos extremos, identificando factores de resiliencia como la lactancia materna, higiene, educación y diversificación de ingresos.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "En el programa PROGRESAN-SICA, los temas de la SAN y el cambio climático son analizados con el enfoque de resiliencia o capacidad de los medios de vida de resistir, absorber, adaptarse y recuperarse a impactos como los eventos extremos.",
+                  "pagina": 101
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Metodologías y enfoques analíticos",
+              "nivel": 3,
+              "paginas": "101-103",
+              "resumen": "Desglosa diez instrumentos operativos para el monitoreo de la SAN, incluyendo las escalas de inseguridad aguda (CIF-IAA), modelos econométricos de resiliencia (RIMA II) y proyecciones de necesidades alimentarias. Destaca el uso de herramientas para documentar pérdidas en granos básicos y estimar déficits energéticos en el Corredor Seco, permitiendo contrastar la situación poblacional con y sin efectos del cambio climático.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "cambio climático y seguridad alimentaria y nutricional en centroamérica y la república dominicana  propuestas metodológicas 99 7.",
+                  "pagina": 101
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "F. Evaluación de impactos potenciales del cambio climático en la seguridad alimentaria y nutricional: áreas de estudio de la CEPAL",
+          "nivel": 2,
+          "paginas": "104-129",
+          "resumen": "Recopila las investigaciones de la Unidad de Desarrollo Agrícola y Cambio Climático de la CEPAL (México) enfocadas en Centroamérica y el Caribe. El análisis utiliza un enfoque de 'abajo hacia arriba' para estimar costos económicos y biofísicos en sectores críticos: biodiversidad, recursos hídricos, agricultura, aridez y pobreza. Se presentan resultados de tres fases de la iniciativa ECC CARD, cuantificando riesgos futuros en escenarios A2 y B2 hasta el año 2100. El análisis utiliza un enfoque de 'abajo hacia arriba' para estimar costos económicos y biofísicos en sectores críticos como biodiversidad, recursos hídricos, agricultura, aridez y pobreza. Se presentan resultados detallados que cuantifican riesgos futuros en escenarios A2 y B2 hasta el año 2100, proporcionando evidencia medible para el diseño de políticas públicas de adaptación incluyente y sostenible en la región. El capítulo profundiza en la modelación de impactos biofísicos y económicos, analizando cómo el cambio climático altera los ciclos hidrológicos y la biodiversidad, lo que a su vez impacta en la disponibilidad y estabilidad de alimentos. Se presentan proyecciones específicas para Centroamérica que demuestran la alta sensibilidad del sector agropecuario a variaciones de temperatura y precipitación, subrayando la urgencia de integrar estas métricas en la planificación fiscal regional para mitigar riesgos de pobreza y desnutrición aguda. El análisis integra marcos analíticos institucionales para la gestión de riesgos climáticos, proporcionando una base técnica sólida para la toma de decisiones informada. Se abordan las interconexiones entre variables biofísicas y resultados socioeconómicos, enfatizando la importancia de la adaptación planificada en el sector agroalimentario regional para asegurar la estabilidad nutricional a largo plazo.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Los trabajos buscan contribuir a la generación de conocimiento medible que sea útil para el diseño de políticas públicas que fomenten la adaptación incluyente y sostenible al cambio climático, con énfasis en la transición a economías ambientalmente sostenibles, bajas en emisiones de GEI.",
+              "pagina": 104
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "I. La economía del cambio climático y la SAN",
+          "nivel": 2,
+          "paginas": "104-106",
+          "resumen": "Describe la iniciativa ECC CARD, gestionada con los Ministerios de Hacienda y Ambiente de la región. El proyecto transversaliza el riesgo climático en la esfera fiscal, evaluando los costos de la inacción frente a los de la prevención (basado en el Informe Stern). Genera escenarios macroeconómicos y demográficos para alertar sobre vulnerabilidades sectoriales y orientar la inversión pública hacia la adaptación.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "2. Biodiversidad",
+              "nivel": 3,
+              "paginas": "107-109",
+              "resumen": "Evalúa el impacto en los servicios ecosistémicos mediante el Índice de Biodiversidad Potencial (IBP). Se proyecta que Centroamérica, una región que concentra el 7% de la biodiversidad mundial, podría perder entre el 33% (B2) y el 58% (A2) de su potencial biológico para 2100. Esta degradación afecta directamente la disponibilidad de alimentos silvestres y los ingresos de la población rural dependiente de ecosistemas.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Las simulaciones arrojan una disminución del IBP superior al 18% en B2 y del 36% en A2 al 2050. Para 2100, la disminución alcanza el 33% y el 58%, respectivamente.",
+                  "pagina": 108
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Recursos hídricos",
+              "nivel": 3,
+              "paginas": "109-113",
+              "resumen": "Analiza la oferta y demanda de agua bajo estrés climático. Proyecta reducciones severas en la disponibilidad por habitante (hasta un 90% en el escenario A2 para 2100 en el promedio regional). Se estima que la demanda agrícola representará el 78% del consumo total a fines de siglo, agudizando conflictos por el recurso y afectando tanto el riego de cultivos como la utilización biológica por falta de saneamiento.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "La reducción de la disponibilidad de agua por habitante en los escenarios de cambio climático es muy significativa. La reducción promedio de la región para 2100 sería del 82% en B2 y del 90% en A2.",
+                  "pagina": 112
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Aridez",
+              "nivel": 3,
+              "paginas": "113-116",
+              "resumen": "Utiliza el Índice de Aridez (IA) para caracterizar la expansión de zonas secas, con énfasis en el Corredor Seco Centroamericano. El análisis muestra una tendencia general hacia la menor humedad regional, pasando de una clasificación 'húmeda' histórica a condiciones de mayor aridez en departamentos críticos como Zacapa (Guatemala). Esto compromete la viabilidad de la agricultura de secano de la que depende la subsistencia rural.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Para el corte 2100, Centroamérica podría experimentar niveles de precipitación y temperatura que resultarían en menos humedad con un valor promedio de 1,4 del IA en el escenario B2 y de 1,2 en el escenario A2.",
+                  "pagina": 115
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Eventos extremos",
+              "nivel": 3,
+              "paginas": "117-120",
+              "resumen": "Documenta el impacto de desastres hidrometeorológicos, que han causado pérdidas acumuladas por más de 22,000 millones de dólares en la región. Se observa una tendencia al aumento en la intensidad de las lluvias extremas y la frecuencia de tormentas. El análisis de Ilopango (El Salvador) evidencia cómo los umbrales críticos de precipitación se sobrepasan con mayor frecuencia en la última década, afectando infraestructura y sectores productivos.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "cambio climático y seguridad alimentaria y nutricional en centroamérica y la república dominicana  propuestas metodológicas 115 5.",
+                  "pagina": 117
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "6. Impactos potenciales del cambio climático en granos básicos y café",
+              "nivel": 3,
+              "paginas": "120-125",
+              "resumen": "Emplea funciones de producción cuadráticas para simular rendimientos bajo estrés térmico e hídrico. Proyecta que, sin medidas de adaptación, el rendimiento del maíz podría caer un 35% y el del café un 48% a finales de siglo (escenario A2). Las tierras altas de Guatemala y Costa Rica mantendrían mayores rendimientos relativos, mientras que países como Nicaragua y Panamá enfrentarían las mayores reducciones.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "118 cambio climático y seguridad alimentaria y nutricional en centroamérica y la república dominicana  propuestas metodológicas gráfico ii.11 ilopango, el salvador: precipitación acumulada en 24 horas, 1970-2011 (probabilidad) 1970-1980 1981-1990 precipitación (mm) precipitación (mm) media=44,7  desv.",
+                  "pagina": 120
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "7. Impactos potenciales del cambio climático en los niveles de pobreza: una exploración metodológica",
+              "nivel": 3,
+              "paginas": "126-129",
+              "resumen": "Establece el vínculo entre la degradación del PIB (atribuible al clima) y los niveles de indigencia y pobreza. Se estima que para 2050, el cambio climático podría sumar hasta un millón de pobres adicionales en Guatemala y agravar la situación rural en Honduras. El análisis destaca al PIB agropecuario como el principal canal de transmisión de vulnerabilidad para las poblaciones rurales.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "124 cambio climático y seguridad alimentaria y nutricional en centroamérica y la república dominicana  propuestas metodológicas 7.",
+                  "pagina": 126
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "III. CONCLUSIONES Y RECOMENDACIONES",
+      "nivel": 1,
+      "paginas": "131-135",
+      "resumen": "Capítulo de cierre que sintetiza el diálogo regional entre instituciones nacionales y regionales. Concluye que existe una amplia oferta metodológica pero fragmentada y con déficit de análisis en temas como autoconsumo, inclusión de pueblos indígenas y pesca. Recomienda integrar la SAN en la inversión pública y los planes nacionales de adaptación, promoviendo la cooperación sur-sur y el fortalecimiento de capacidades técnicas locales para asegurar el cumplimiento del ODS 2.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Se recomienda realizar investigaciones orientadas a conocer los impactos en todas las dimensiones de la seguridad alimentaria y nutricional, que permitan una mejor planificación a largo plazo para asegurar el cumplimiento del Objetivo 2: Hambre cero en la región.",
+          "pagina": 135
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento propone un paquete coordinado de inversiones en infraestructura resiliente, sistemas de riego y políticas de fomento comercial (p. 35, 132), alineado con la lógica de transformación del modelo de desarrollo de la CEPAL. Sin embargo, su enfoque principal es técnico-metodológico y de diagnóstico de vulnerabilidad, careciendo de un plan de inversión sectorial estratégico único, masivo y detallado con metas de empleo y productividad integradas de forma indisoluble en una hoja de ruta financiera única.",
+      "citas": [
+        {
+          "cita": "infraestructura como invernaderos y sistemas de riego que minimizan los efectos estacionales",
+          "pagina": 35
+        }
+      ],
+      "nota": "Se clasifica como parcial porque aunque identifica los sectores estratégicos y la necesidad de inversión coordinada, su instrumento principal es un compendio de propuestas metodológicas para orientar la toma de decisiones futura, no un plan de inversiones propiamente dicho."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "Propone mecanismos de gobernanza multinivel (CTR-SICA, SE-CAC) y plataformas de innovación multiactor como los Territorios Sostenibles Adaptados al Clima (TeSAC) que integran de manera efectiva a comunidades locales, sector privado, academia y gobiernos para la validación y el escalamiento de soluciones tecnológicas en escenarios reales, facilitando el diálogo entre la ciencia y la política pública regional.",
+      "citas": [
+        {
+          "cita": "Los TeSAC son laboratorios vivos donde las comunidades prueban, codesarrollan y adoptan portafolios integrados de la ASAC que requieren inversión para el escalamiento.",
+          "pagina": 88
+        }
+      ],
+      "nota": "Identifica explícitamente tanto el mecanismo de coordinación política regional del CTR como la plataforma operativa local de los TeSAC como espacios fundamentales de articulación multisectorial."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Sí",
+      "evidencia": "Identifica actividades económicas concretas como la producción de granos básicos resilientes, el fomento de servicios ecosistémicos y el cultivo de café de alta altitud, vinculando explícitamente su viabilidad futura con la adopción de prácticas de agricultura sostenible adaptada al clima (ASAC). Desarrolla el vínculo entre productividad agrícola sostenida, incremento de ingresos rurales y reducción estructural de la pobreza bajo condiciones de estrés hídrico y térmico severo proyectado para el año 2050.",
+      "citas": [
+        {
+          "cita": "líneas de trabajo son el desarrollo rural y agropecuario, la gestión integral de riesgos y seguros agropecuarios",
+          "pagina": 104
+        }
+      ],
+      "nota": "Cumple el criterio al enumerar sectores productivos específicos y vincular su transformación tecnológica con metas explícitas de empleo rural y productividad sistémica en el istmo."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "El cierre del documento ofrece recomendaciones normativas detalladas con entregables identificables, plazos implícitos en las agendas regionales y responsables sugeridos a nivel del CAC y los ministerios nacionales en la sección de próximos pasos del Comité Técnico Regional, definiendo una agenda de trabajo técnica operativa para la implementación de las metodologías presentadas.",
+      "citas": [
+        {
+          "cita": "El primero es preparar fichas técnicas de la oferta metodológica, incluyendo lo que se necesita para implementarlas.",
+          "pagina": 133
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Preparar fichas técnicas de la oferta metodológica.",
+          "clasificacion": "CONCRETO",
+          "pagina": 131
+        },
+        {
+          "item": "Empoderar a los gobiernos municipales y locales.",
+          "clasificacion": "CONCRETO",
+          "pagina": 132
+        },
+        {
+          "item": "Incluir la inversión pública en la agenda de adaptación (guías de inversión pública).",
+          "clasificacion": "CONCRETO",
+          "pagina": 132
+        },
+        {
+          "item": "Fortalecer los sistemas de alerta temprana y seguimiento de sequía.",
+          "clasificacion": "CONCRETO",
+          "pagina": 133
+        },
+        {
+          "item": "Generar políticas para estimular el consumo nutritivo y sano.",
+          "clasificacion": "CONCRETO",
+          "pagina": 133
+        },
+        {
+          "item": "Crear una red científico-técnica para la SAN.",
+          "clasificacion": "CONCRETO",
+          "pagina": 133
+        }
+      ],
+      "tally": "6 de 6 ítems pasan el test de concreción",
+      "nota": null
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 10,
+      "nombre": "Macroeconomía y fiscalidad",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento aborda la seguridad alimentaria no solo como un problema de disponibilidad agrícola, sino como un desafío de adaptación climática sistémica con costos macroeconómicos significativos que amenazan la estabilidad de la región SICA.",
+      "filtro_categoria_primaria": "La centralidad de la adaptación al cambio climático, la gestión hídrica y la resiliencia de los ecosistemas lo ancla de manera definitiva en la categoría de sostenibilidad ambiental como objeto principal de transformación sectorial.",
+      "secundaria_obligatoria": "El análisis detallado del impacto de los choques climáticos sobre el PIB, las tasas de pobreza monetaria y la inversión pública justifica la categoría secundaria de macroeconomía y fiscalidad, integrando el riesgo ambiental en el ciclo fiscal nacional.",
+      "justificacion_anti_copia": "A diferencia de un manual agronómico tradicional, este texto utiliza modelos de panel econométrico y proyecciones de crecimiento del PIB para fundamentar sus recomendaciones de política pública regional y fiscal de largo plazo.",
+      "validacion_anclas": "Se asemeja al ancla doc17 en su uso de la economía del cambio climático para orientar la política de inversión pública y la estabilidad macroeconómica, aunque su ámbito de aplicación final sea la SAN en Centroamérica."
+    },
+    "rasgos_propios": [
+      "Modelación de funciones de producción agrícola acopladas a proyecciones de PIB regional.",
+      "Análisis detallado de costos de inacción climática como porcentaje del gasto fiscal nacional.",
+      "Estimación de elasticidad de la pobreza e indigencia monetaria frente a choques climáticos extremos."
+    ],
+    "tipo_documento_climatico": "Adaptación / Propuesta metodológica",
+    "nivel_aplicacion": "Regional",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

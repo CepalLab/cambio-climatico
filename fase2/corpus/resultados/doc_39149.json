@@ -1,0 +1,717 @@
+{
+  "documento": {
+    "num_muestra": 14,
+    "titulo": "Cambio climático en Centroamérica: Impactos potenciales y opciones de política pública",
+    "autoria": "Julie Lennox, Diana Ramírez y Jaime Olivares",
+    "handle": "https://hdl.handle.net/11362/39149",
+    "simbolo": "LC/MEX/L.1196",
+    "isbn": null,
+    "fecha": "2015-11",
+    "tipo_documento": "Informe técnico regional / estudio de políticas públicas",
+    "paginas_cuerpo": 161,
+    "paginas_totales": 177,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cuáles son los impactos potenciales del cambio climático en Centroamérica y qué opciones de política pública permiten reducir vulnerabilidades, sostener el desarrollo y aprovechar oportunidades de adaptación y transición productiva?",
+    "alcance": {
+      "ambito_aplicacion": "Centroamérica y, en algunos indicadores, República Dominicana; el análisis cubre agua, agricultura y seguridad alimentaria, biodiversidad, energía, salud, política fiscal y política comercial.",
+      "referentes_dependencias": "Escenarios climáticos B2 y A2, estudios de CEPAL y socios regionales, IPCC, SICA, CCAD, COSEFIN, CAC, COMISCA y SIECA.",
+      "sectorial": "Adaptación, mitigación, gestión de riesgos, transición energética, ecosistemas, producción agropecuaria, salud, finanzas públicas y comercio.",
+      "temporal": "Evidencia histórica principalmente 1950-2015, con escenarios y cortes a 2020, 2050 y 2100."
+    },
+    "hallazgos_principales": [
+      "La temperatura media regional aumentó aproximadamente 0,5 °C en los últimos 50 años y bajo A2 la precipitación regional podría disminuir 14% a 2050 y 28% hacia finales del siglo (pp. 34, 52).",
+      "La sequía 2014-2015 redujo hasta 60% del maíz y 80% del frijol para muchos pequeños productores y afectó a 2,5 millones de personas (p. 52).",
+      "Bajo A2, el Índice de Biodiversidad Potencial regional se reduciría 36% a 2050 y hasta 58% a 2100, combinando cambio de uso de tierra y cambio climático (p. 107).",
+      "La generación hidroeléctrica de Chixoy y Cerrón Grande presenta reducciones severas bajo escenarios de calentamiento, mientras la matriz tendencial desplaza renovables por combustibles fósiles (pp. 118, 126).",
+      "El costo acumulado estimado de los impactos climáticos bajo A2 alcanza 73 mil millones de dólares corrientes a 2100 con una tasa de descuento de 0,5% (p. 148)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "Centroamérica enfrenta una exposición alta y multisectorial: los impactos se superponen con pobreza, desigualdad, degradación ambiental y brechas de gestión del riesgo.",
+        "La inacción eleva costos fiscales, productivos y sociales; la adaptación y la transición hacia economías sostenibles deben tratarse como un problema económico transversal, no solo ambiental.",
+        "La evidencia sectorial muestra que la respuesta efectiva requiere combinar información, inversión, regulación, financiamiento y cooperación regional con medidas diferenciadas por territorio."
+      ],
+      "recomendaciones": [
+        "Fortalecer información climática, sanitaria, agropecuaria y financiera; ampliar alertas tempranas y capacidades de pronóstico.",
+        "Incorporar riesgo climático en normas de infraestructura, inversión pública, presupuestos, seguros y gestión integral de riesgos.",
+        "Reducir deforestación, recuperar ecosistemas, proteger corredores y cuencas, y promover agricultura sostenible, diversificación productiva y microseguros.",
+        "Acelerar energías renovables, eficiencia, transporte público y tecnologías bajas en emisiones, y usar instrumentos fiscales y comerciales compatibles con esa transición.",
+        "Consolidar la coordinación regional mediante SICA y sus consejos sectoriales, junto con alianzas entre gobiernos, academia, empresas y sociedad civil."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "El informe combina evidencia histórica, modelación climática y análisis sectorial para mostrar que Centroamérica ya enfrenta pérdidas por sequías, inundaciones y huracanes, y que los escenarios B2 y A2 amplifican riesgos sobre agua, cultivos, ecosistemas, energía y salud. La agricultura concentra una parte importante de la vulnerabilidad social: el documento relaciona rendimientos de maíz, frijol, arroz y café con pobreza, seguridad alimentaria, roya y acceso a seguros. En energía, biodiversidad y comercio, el análisis identifica tensiones entre dependencia fósil, degradación ambiental y competitividad, pero también oportunidades asociadas a renovables, transporte limpio, cadenas de valor sostenibles y productos diferenciados. El cierre propone una respuesta regional que integre información, normas, financiamiento, presupuestos, coordinación institucional y políticas sectoriales."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "19-21",
+      "resumen": "La introducción delimita la iniciativa ECC CA como un trabajo coordinado por CEPAL, SICA y sus consejos sectoriales, y explica que la publicación reúne la propuesta de adaptación, la evidencia de vulnerabilidad y las opciones de política. El diseño institucional incluye ministerios de ambiente, hacienda, agricultura y salud, con programas técnicos específicos para cambio climático y gestión de riesgos. Su función es conectar la producción de evidencia regional con decisiones públicas multisectoriales.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "La iniciativa ECC CA fue gestionada de forma conjunta por los Ministerios de Ambiente y Hacienda o Finanzas de Centroamérica, sus Consejos y Secretarías Ejecutivas correspondientes de la Comisión Centroamericana de Ambiente y Desarrollo (CCAD) y el Consejo de Ministros de Hacienda o Finanzas de Centroamérica y República Dominicana (COSEFIN)",
+          "pagina": 21
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "1. Adaptación sostenible e incluyente",
+      "nivel": 1,
+      "paginas": "21-27",
+      "resumen": "El capítulo plantea que los eventos extremos ya observados —incluidas la depresión tropical 12E de 2011 y las sequías de 2010 y 2014-2015— obligan a actuar antes de resolver toda la atribución climática. Propone usar la reconstrucción postdesastre para reducir riesgos mediante normas de infraestructura, gestión hídrica, protección de bosques y manglares, y mejor localización de asentamientos. Vincula adaptación con pobreza, desigualdad, seguridad alimentaria, energía y coordinación regional, y presenta la estructura sectorial de emisiones como base para revisar el patrón de desarrollo.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "los crecientes impactos de eventos extremos, como las lluvias intensas de la depresión tropical 12E de 2011 y las sequías de 2010 y 2014-2015 que afectaron varios países centroamericanos, evidencian la urgencia de tomar medidas",
+          "pagina": 23
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "La realidad exige que los esfuerzos de reconstrucción post desastres sea una oportunidad para que se contribuyan a la reducción de riesgo a través de mejoras en normas de infraestructura, mejor gestión del recurso hídrico, mayor protección de los bosques, las cuencas hidrológicas y las barreras costeras naturales, como los manglares",
+          "pagina": 23
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "El patrón general de desarrollo y las debilidades de gestión del riesgo han creado un círculo vicioso de empobrecimiento humano y degradación ambiental, lo que se complicará aún más con el avance del cambio climático.",
+          "pagina": 25
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "2. Evidencia de eventos extremos y escenarios con cambio climático",
+      "nivel": 1,
+      "paginas": "28-61",
+      "resumen": "El capítulo combina índices de riesgo, registros históricos, escenarios climáticos y estimaciones de pérdidas para caracterizar la exposición centroamericana. El ranking de German Watch ubica a varios países de la región entre los más afectados, mientras el Monitor de Vulnerabilidad Climática de DARA integra impactos económicos, ambientales y sanitarios para 2010 y 2030. El bloque muestra que sequías, inundaciones, huracanes y cambios en temperatura y precipitación ya producen daños diferenciados y que los escenarios A2 y B2 amplían la aridez y la presión sobre agua, agricultura y población vulnerable.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "2.1 Variabilidad climática y cambio climático en Centroamérica",
+          "nivel": 2,
+          "paginas": "32-40",
+          "resumen": "Esta subsección establece la señal climática observada y proyectada: la temperatura media regional aumentó aproximadamente 0,5 °C en 50 años y podría subir entre 1 y 2 °C a 2050 bajo una trayectoria creciente de emisiones. Examina cambios en precipitación, estacionalidad y canícula mediante climatologías históricas y escenarios B2/A2, con diferencias subregionales y modelos climáticos explícitos. La consecuencia analítica es que la disponibilidad de agua y los calendarios productivos quedan expuestos a cambios en el patrón intraanual.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "Las climatologías históricas indican que Centroamérica ya ha sufrido un incremento promedio de aproximadamente 0,5 °C durante los últimos 50 años.",
+              "pagina": 34
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "En las últimas décadas se han observado importantes cambios en precipitación y aumentos de temperatura.",
+              "pagina": 34
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "Se estima que la precipitación disminuiría después de la canícula, especialmente durante la segunda mitad del siglo, perdiendo la característica bimodal en algunos países.",
+              "pagina": 39
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "2.2 Tendencias en eventos extremos",
+          "nivel": 2,
+          "paginas": "41-61",
+          "resumen": "La subsección documenta la variabilidad espacial y temporal de lluvias, huracanes, inundaciones, deslizamientos y sequías, y la traduce en impactos sobre producción, agua e inseguridad alimentaria. Presenta mapas de exposición y casos recientes, incluido el Corredor Seco y la sequía 2014-2015: en 2015 el déficit de lluvia redujo hasta 60% del maíz y 80% del frijol para muchos pequeños productores, afectó a 2,5 millones de personas y acumuló períodos de hasta 45 días sin lluvia. También registra pérdidas económicas por 23.000 millones de dólares en 22 eventos mayores y señala que prevención, información, alerta y coordinación deben reemplazar la respuesta reactiva. El recorrido distingue entre la variabilidad histórica de la precipitación y los cambios proyectados, evitando tratar todos los eventos extremos como una sola tendencia homogénea. Huracanes, tormentas, inundaciones y sequías afectan territorios y sectores distintos, por lo que el riesgo depende de exposición, vulnerabilidad social, infraestructura y capacidad de respuesta. El análisis del déficit hídrico muestra que los daños agrícolas se concentran en pequeños productores y se transmiten a precios, ingresos y seguridad alimentaria. La sección cumple así una función de puente: convierte registros climáticos, mapas, escenarios y pérdidas observadas en la necesidad de anticipar riesgos mediante sistemas de alerta, mejor información, prevención y coordinación pública.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "La mayor característica de la lluvia en las últimas décadas es su variabilidad, incluyendo eventos extremos como huracanes y sequías y variaciones en su acumulado anual y por zonas geográficas",
+              "pagina": 43
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "El acumulado de lluvia representa entre el 30% y 50% del promedio histórico que ha provocado pérdidas de hasta el 60% del cultivo de maíz y hasta 80% del cultivo de frijol para muchos pequeños productores de la región.",
+              "pagina": 52
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "La aridez y la sequía pueden ocurrir en una misma zona geográfica, pero son fenómenos distintos.",
+              "pagina": 50
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "3. Impactos potenciales y opciones de políticas en sectores clave",
+      "nivel": 1,
+      "paginas": "62-157",
+      "resumen": "El capítulo evalúa agua, agricultura, biodiversidad, energía, salud y políticas fiscal y comercial mediante escenarios de temperatura y precipitación. Los resultados muestran impactos diferenciados sobre disponibilidad hídrica, rendimientos, ecosistemas, hidroelectricidad, enfermedades y competitividad, mientras los recuadros y el cierre proponen instrumentos de adaptación, mitigación, financiamiento, información y coordinación regional. El bloque convierte evidencia sectorial —como las pérdidas proyectadas del IBP, la generación hidroeléctrica y los cultivos— en una agenda de política pública.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "3.1 Disponibilidad y demanda del agua",
+          "nivel": 2,
+          "paginas": "62-68",
+          "resumen": "La subsección analiza la disponibilidad regional de agua, las cuencas internacionales y la reducción per cápita bajo escenarios base, B2 y A2. El enfoque conserva otras variables históricas para aislar el efecto de temperatura y precipitación, y muestra que el estrés hídrico se distribuirá de forma desigual entre países y departamentos. El recuadro asociado convierte el diagnóstico en opciones de adaptación para el uso incluyente y sostenible del recurso.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "En general, esta generación de análisis buscan ilustrar los impactos potenciales si no se generan políticas públicas y acciones de los actores para adaptarse, así alertan sobre la importancia estratégica de tomar medidas proactivas y precautorias.",
+              "pagina": 64
+            },
+            {
+              "dimension": "desafios",
+              "cita": "Las estimaciones, pues, deben ser interpretadas como escenarios posibles si no se toman medidas de adaptación.",
+              "pagina": 64
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "3.2 Agricultura y seguridad alimentaria y nutricional",
+          "nivel": 2,
+          "paginas": "69-104",
+          "resumen": "Esta subsección muestra la sensibilidad agropecuaria al clima y conecta pérdidas productivas, pobreza y seguridad alimentaria con proyecciones de maíz, frijol, arroz y café. El sector aporta 9% del PIB regional, emplea 30% de la población ocupada y alcanzó 5,8 millones de toneladas de granos básicos en 2013; bajo B2/A2, los rendimientos se reducen con fuerza hacia 2100. El análisis incorpora roya, degradación de suelos, coordinación intersectorial, seguros, microseguros y recomendaciones de adaptación para pequeños productores, incluidos créditos, información climática y diversificación de ingresos.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Ampliar créditos e incentivos que apoyen la producción sostenible y adaptativa frente al cambio climático, incluyendo medidas para mejorar la eficiencia del uso de agua y reducir el uso de insumos emisores de GEI y de otros efectos contaminantes.",
+              "pagina": 101
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Constituir un sistema regional de información climática, agropecuaria y financiera que sea público, confiable y oportuno sobre la base de los sistemas nacionales fortalecidos y en función de las prioridades y las políticas nacionales respectivas",
+              "pagina": 101
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "Producción y rendimientos de maíz frente al cambio climático",
+              "nivel": 3,
+              "paginas": "74-76",
+              "resumen": "El análisis estima impactos sobre rendimientos de maíz mediante funciones de producción históricas y variaciones de temperatura y lluvia en B2 y A2. El rendimiento regional podría caer 4% en 2020 bajo B2 y 17% hacia finales de siglo, con pérdidas superiores a 24% en Belice, Nicaragua, Panamá y Honduras. La evidencia identifica diferencias departamentales que condicionan la adaptación agrícola.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "Bajo el escenario B2 al corte de 2020, el rendimiento regional promedio de maíz podría disminuir 4%",
+                  "pagina": 76
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Producción y rendimientos de frijol frente al cambio climático",
+              "nivel": 3,
+              "paginas": "77-79",
+              "resumen": "La producción de frijol creció 3,5% anual en tres décadas, pero el rendimiento promedio se mantuvo en 0,7 t/ha frente a una mejora mundial. Bajo B2 el rendimiento regional disminuiría 3% en 2020 y las pérdidas aumentarían hasta 50% en Panamá hacia el final del siglo; A2 duplica o más las pérdidas en los cortes principales. La distribución territorial de rendimientos permite reconocer excepciones y zonas de posible aumento.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "Con el escenario B2 al corte 2020, el rendimiento regional promedio decrecería 3%",
+                  "pagina": 79
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Producción y rendimientos de arroz frente al cambio climático",
+              "nivel": 3,
+              "paginas": "80-84",
+              "resumen": "El apartado relaciona lluvia y temperatura históricas con rendimientos de arroz y proyecta una expansión de departamentos por debajo de 2 t/ha. Bajo B2 serían 30 departamentos en 2050 y 50 al final del siglo; bajo A2 serían 39 y 58, respectivamente, junto con menor precipitación y mayor temperatura media. El resultado muestra la sensibilidad del cultivo a la combinación de estrés hídrico y calentamiento.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "Con el escenario A2, las reducciones serían mayores: 39 departamentos experimentarían rendimientos menores a 2t/ha en el corte 2050 y, hacia final del siglo, serían 58 departamentos",
+                  "pagina": 84
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Producción y rendimientos de café frente al cambio climático",
+              "nivel": 3,
+              "paginas": "82-87",
+              "resumen": "El análisis ubica los departamentos productores y compara sus rendimientos con escenarios B2 y A2, mostrando una baja capacidad de convergencia con el promedio mundial. La subsección enlaza cambios de temperatura, precipitación y aptitud territorial con la continuidad de ingresos y empleo cafetalero. Sirve como base para valorar medidas de adaptación diferenciadas por departamento y cultivo.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Los rendimientos de café alcanzaron un promedio regional de 0,8 t/ha en 2009, pero con gran variación entre departamentos.",
+                  "pagina": 84
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Roya del café",
+              "nivel": 3,
+              "paginas": "86-91",
+              "resumen": "La roya se presenta como un canal de impacto climático que combina temperatura, lluvia, humedad, eventos extremos y condiciones económicas de las fincas. El brote 2012-2013 afectó producción e ingresos y llevó a declarar emergencias, mientras el análisis de Costa Rica muestra cómo menos lluvia y temperaturas favorables alteraron el ciclo de la enfermedad. La vulnerabilidad resulta de la interacción entre clima, variedades, mantenimiento y precios.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Lo acontecido demuestra lo sensible que puede ser la alteración de un factor climático no reconocido anteriormente, combinado con otros factores económicos y de condiciones y prácticas productivas",
+                  "pagina": 91
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Consideraciones finales para los granos básicos y el café",
+              "nivel": 3,
+              "paginas": "89-92",
+              "resumen": "El cierre sectorial señala que los impactos son mayores bajo A2 y que las ganancias puntuales en tierras altas no justifican expandir cultivos sin considerar degradación y erosión del suelo. Define al agro como sector vulnerable, emisor relevante y soporte de la población pobre, por lo que demanda coordinación con agua, bosques y biodiversidad. Destaca agroforestería, pagos por servicios ambientales y energías renovables como vías de cobeneficios.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "La respuesta agrícola al cambio climático requerirá una estrecha coordinación de políticas con otros sectores para reducir la deforestación y proteger la biodiversidad y el recurso agua.",
+                  "pagina": 92
+                },
+                {
+                  "dimension": "oportunidades",
+                  "cita": "como la agroforestería, la combinación de actividades agrícolas con las de protección de ecosistemas naturales y pago por servicios ambientales",
+                  "pagina": 92
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Seguridad alimentaria y nutricional",
+              "nivel": 3,
+              "paginas": "90-94",
+              "resumen": "El apartado define la seguridad alimentaria y nutricional como acceso físico, social y económico permanente a alimentos suficientes, y examina la relación entre producción regional, importaciones, precios y subnutrición. La volatilidad climática puede afectar oferta, precios y consumo de granos básicos, con impactos distributivos sobre hogares pobres. Los cuadros y gráficos conectan tendencias productivas y nutricionales con la necesidad de proteger abastecimiento y capacidades rurales.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "La gran mayoría de las personas malnutridas vive en países en desarrollo, alrededor de 850 millones, poco menos de 15% de la población mundial",
+                  "pagina": 92
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Aseguramiento del sector agropecuario",
+              "nivel": 3,
+              "paginas": "95-98",
+              "resumen": "La subsección identifica descapitalización rural, dependencia de mercados internacionales y exposición a escasez y fluctuación de precios como condiciones que agravan el riesgo climático. Propone reservas estratégicas, comercio intrarregional y microseguros, definidos como mecanismos de transferencia preventiva del riesgo con apoyo estatal. La política de aseguramiento busca proteger a pequeños y medianos productores y reducir el costo de reconstrucción posterior a desastres.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "la creciente demanda de alimentos, combinados con los estragos de la variabilidad climática y del cambio climático, podría aumentar los riesgos de escasez y altos precios o grandes fluctuaciones en los mismos.",
+                  "pagina": 97
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "los seguros y microseguros agropecuarios constituyen un mecanismo preventivo de mercado para la transferencia del riesgo desde las unidades productivas hacia compañías aseguradoras y reaseguradoras, contando con el apoyo del Estado.",
+                  "pagina": 97
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Recuadro 3. Recomendaciones para la agricultura y los granos básicos frente al cambio climático",
+              "nivel": 3,
+              "paginas": "97-100",
+              "resumen": "El recuadro convierte el diagnóstico agrícola en una agenda de acción: blindar la seguridad alimentaria, ampliar redes de productores, recuperar tierras degradadas, mejorar riego, alerta temprana, infraestructura y financiamiento. También propone investigación aplicada, energías renovables, mapas participativos de riesgo y esquemas asociativos. Son instrumentos concretos orientados a pequeños productores y a la resiliencia de los sistemas alimentarios.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Blindar la seguridad alimentaria y nutricional ante el cambio climático, particularmente los granos básicos y transitar hacia una agricultura más sostenible e incluyente son retos enormes e impostergables",
+                  "pagina": 99
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Promover nuevos mecanismos y medios de alerta temprana a la población sobre probables fenómenos adversos, mediante la utilización de telefonía móvil, mensajes radiofónicos, redes sociales, etcétera.",
+                  "pagina": 100
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "3.3 Biodiversidad y ecosistemas",
+          "nivel": 2,
+          "paginas": "105-116",
+          "resumen": "El apartado establece que los bosques centroamericanos son simultáneamente un activo productivo, cultural y de regulación climática, pero están sometidos a deforestación, fragmentación y eventos extremos. Reúne estudios georreferenciados, GLOBIO3, el Índice de Biodiversidad Potencial y la clasificación de zonas de vida de Holdridge para proyectar pérdidas: bajo A2, el IBP regional disminuiría 36% al 2050 y hasta 58% al 2100, mientras cambian fuertemente las zonas de vida y los servicios ecosistémicos. El cierre plantea reducir deforestación, proteger y recuperar ecosistemas, mejorar monitoreo y conectividad, y desarrollar medidas de adaptación basadas en ecosistemas.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "En 2005, éstos cubrían aproximadamente 45% del territorio de la región y contenían alrededor de 7% de la biodiversidad del planeta",
+              "pagina": 105
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "La mayoría de los impactos del cambio climático tienden a intensificar las tendencias degradantes ya existentes",
+              "pagina": 106
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "A nivel regional, la simulación estima una reducción del índice en más de 13% solamente con Cambio de Uso de Tierra (CUT), comparado con una pérdida de 18% (en CUT y B2) y 36% (en CUT y A2) al 2050.",
+              "pagina": 107
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "se recomienda aumentar y fortalecer el sistema de Áreas Naturales Protegidas (más de 550 en la región) y corredores biológicos para abarcar mayor escala biogeográfica",
+              "pagina": 115
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "3.4 Energía",
+          "nivel": 2,
+          "paginas": "117-136",
+          "resumen": "El capítulo examina la demanda y la matriz energética, las políticas de eficiencia y energías renovables, la vulnerabilidad de la hidroelectricidad y los costos urbanos del transporte. La Estrategia Energética Sustentable Centroamericana 2020 fija metas de cobertura, eficiencia, renovables y reducción de GEI, pero las proyecciones muestran riesgos físicos para plantas hidroeléctricas y una expansión tendencial del transporte motorizado. El apartado traduce estos resultados en instrumentos de planificación, precios, financiamiento, eficiencia, transporte público y adaptación de infraestructura.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "En 2100 la producción de energía eléctrica con fuentes renovables habrá sido desplazada por los combustibles fósiles, llegando éstos a 64% de la generación regional relativo al 37% en 2008",
+              "pagina": 118
+            },
+            {
+              "dimension": "avances_implementacion",
+              "cita": "El escenario base del subsector eléctrico se construyó con de acuerdo con las prospectivas energéticas nacionales y regionales para 2010-2023 del Consejo de Electrificación de América Central (CEAC).",
+              "pagina": 117
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Reducir en 20% la emisión de GEI con respecto al escenario tendencial en el 2020, maximizando la aplicación de los certificados de reducción de carbono",
+              "pagina": 121
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "En el escenario más pesimista (A2), reducciones de la generación de electricidad superiores al 20% en las dos plantas para el corte 2020",
+              "pagina": 125
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "Políticas y estrategias de energía",
+              "nivel": 3,
+              "paginas": "120-124",
+              "resumen": "Describe la estrategia regional y las políticas nacionales de Belice, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panamá y República Dominicana. El repertorio incluye planes de eficiencia, leyes de renovables, biocombustibles, incentivos fiscales, interconexión eléctrica y metas de reducción de emisiones; el recuadro de recomendaciones pide actualizar la matriz de acción, evaluar vulnerabilidad de infraestructura y alinear inversiones con ODS, NAMA e INDC.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "En 2013 se creó la Estrategia Regional de Iluminación Eficiente en Centroamérica realizada entre el PNUMA y la Dirección Ejecutiva del Proyecto de Integración y Desarrollo de Mesoamérica.",
+                  "pagina": 120
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Elaborar un análisis de vulnerabilidad de la infraestructura del sector energético al cambio climático y el impacto que puede llegar a tener esta infraestructura vulnerable sobre la población.",
+                  "pagina": 124
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Hidroelectricidad",
+              "nivel": 3,
+              "paginas": "124-130",
+              "resumen": "Relaciona temperatura, precipitación, aridez y patrones intraanuales con evapotranspiración, caudales y evaporación de embalses. Los estudios piloto de Chixoy en Guatemala y Cerrón Grande en El Salvador proyectan reducciones superiores al 20% en 2020, superiores al 40% en 2050 y de más de 80% y 70% respectivamente a finales de siglo bajo A2. Las recomendaciones exigen evaluar vulnerabilidad, diversificar generación y diseñar infraestructura y gestión de cuencas adaptadas.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "El efecto combinado del alza de la temperatura y los cambios de la precipitación afectan la evapotranspiración en las cuencas, y por ende, su caudal, así como la evaporación en los embalses hidroeléctricos.",
+                  "pagina": 124
+                },
+                {
+                  "dimension": "tendencias",
+                  "cita": "En el escenario menos pesimista (B2) se espera un incremento de entre 4% y 6% en ambas plantas para el corte 2020 respecto del período histórico. A partir de 2020, las estimaciones se vuelven negativas hasta llegar a una disminución del 26% en Chixoy y del 17% en Cerrón Grande a 2100.",
+                  "pagina": 126
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "se recomienda estudiarlo para calcular la pérdida de capacidad de generación, elaborar planes de sustitución de generación o de recuperación de los embalses, incluyendo recuperación de bosques en las cuencas y otras acciones de manejo integral de las mismas.",
+                  "pagina": 129
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Transporte público urbano",
+              "nivel": 3,
+              "paginas": "130-136",
+              "resumen": "El apartado vincula crecimiento económico, motorización, contaminación atmosférica y desigualdad en el acceso al transporte. Compara tasas de motorización, concentraciones de PM10 y PM2.5, gasto de los hogares y propiedad de automóviles por quintil, y muestra que los costos y beneficios del transporte se distribuyen de manera desigual. El recuadro final propone fortalecer transporte público, eficiencia vehicular, ordenamiento urbano y mecanismos de financiamiento compatibles con mitigación y adaptación.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Esto está relacionado con la concentración de la propiedad de automóviles privados en grupos de medianos y altos ingresos.",
+                  "pagina": 133
+                },
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Los quintiles más altos también destinan una mayor proporción de su gasto total en energía para transporte, como el quintil V que representa 9% en Nicaragua, 8% en México, 6% en Costa Rica y 4% en El Salvador.",
+                  "pagina": 133
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Los altos niveles de contaminación por arriba de los parámetros recomendados sugiere la relevancia de una estrategia de desarrollo urbano con la implementación de medidas de política pública que permitan reducir las emisiones",
+                  "pagina": 136
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "3.5 Salud",
+          "nivel": 2,
+          "paginas": "137-148",
+          "resumen": "El capítulo analiza enfermedades sensibles al clima y la vulnerabilidad sanitaria mediante casos de Guatemala, Panamá y Costa Rica. Examina efectos de temperatura, precipitación y variabilidad sobre infecciones respiratorias, dengue, enfermedades transmitidas por vectores, enfermedades diarreicas y riesgos asociados a contaminación atmosférica y seguridad alimentaria. Combina vigilancia epidemiológica, pronósticos de infestación y una matriz de vulnerabilidad, y concluye que la adaptación requiere integrar información climática y sanitaria, fortalecer alerta temprana, vigilancia, infraestructura y coordinación institucional entre investigación, salud y otros sectores.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "En los últimos años, ha surgido la preocupación por el aumento de la intensidad y la cantidad de estos eventos por el cambio climático.",
+              "pagina": 137
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "La variabilidad y cambio climático no son las causas exclusivas de la incidencia de las enfermedades, pero explican un porcentaje que puede ser potenciado por los efectos del calentamiento global.",
+              "pagina": 143
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Promover una iniciativa regional de apoyo a la investigación sobre cambio climático y salud, que coordine a los grupos de investigación consolidados en diversas disciplinas y establezca alianzas con diversos sectores.",
+              "pagina": 146
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "3.6 Política fiscal",
+          "nivel": 2,
+          "paginas": "148-151",
+          "resumen": "El apartado examina cómo la política fiscal puede apoyar la adaptación, la reducción de emisiones y la protección de hogares y sectores vulnerables. Discute la incorporación del cambio climático en presupuestos, incentivos y subsidios, junto con la necesidad de evaluar impactos distributivos y de movilizar financiamiento público y privado. La recomendación central es usar impuestos, gasto e inversión pública para alinear señales económicas con sostenibilidad ambiental y resiliencia.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "El estimado inicial del costo medido acumulado a 2100 con A2 a una tasa de descuento de 0,5%, es equivalente a 73 mil millones de dólares corrientes",
+              "pagina": 148
+            },
+            {
+              "dimension": "avances_implementacion",
+              "cita": "En dos estrategias regionales aprobadas en los últimos años, la Estrategia Regional de Cambio Climático (ERCC) y la Política Centroamericana de Gestión Integral del Riesgo (PCGIR), se establecieron mandatos a los Ministerios de Hacienda o Finanzas de CARD",
+              "pagina": 150
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "3.7 Política comercial",
+          "nivel": 2,
+          "paginas": "152-157",
+          "resumen": "El capítulo explica los canales por los que el comercio internacional incide en el cambio climático: escala, composición y tecnología, además de transporte y cadenas globales de valor. Revisa la inserción comercial centroamericana, la relación entre exportaciones, uso de recursos y emisiones, y la posibilidad de aprovechar estándares, certificación y cooperación regional. Sus recomendaciones buscan compatibilizar apertura comercial, competitividad, adaptación de productores y transición hacia bienes y procesos menos intensivos en carbono.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "la transformación hacia economías ambientalmente sostenibles conjuga una mezcla de políticas, regulaciones e instituciones que permiten evolucionar hacia actividades productivas y patrones de consumo más amigables con el ambiente",
+              "pagina": 155
+            },
+            {
+              "dimension": "oportunidades",
+              "cita": "los productos centroamericanos de características amigables con el ambiente y su sostenibilidad, son una oportunidad de mercado para la región",
+              "pagina": 155
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Ejecutar la Estrategia Centroamericana de Facilitación del Comercio y la Competitividad con énfasis en la GCF aprobada por el COMIECO",
+              "pagina": 156
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "4. Conclusiones",
+          "nivel": 2,
+          "paginas": "158-163",
+          "resumen": "Las conclusiones sintetizan que Centroamérica enfrenta impactos climáticos relevantes sobre agricultura, ecosistemas, energía, salud y comercio, con efectos diferenciados según territorio, sector y capacidad institucional. El documento identifica una doble necesidad: reducir vulnerabilidades y emisiones mediante políticas coordinadas, y aprovechar la adaptación y la transición productiva como oportunidades de desarrollo sostenible. El cierre insiste en información, financiamiento, cooperación regional, fortalecimiento institucional y articulación entre políticas sectoriales.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Centroamérica es una de las regiones más expuestas a fenómenos climáticos y sus sociedades y ecosistemas son particularmente vulnerables a los efectos adversos del cambio climático",
+              "pagina": 158
+            },
+            {
+              "dimension": "desafios",
+              "cita": "Reducir la deforestación y degradación de los bosques y recuperar paisajes rurales traerá beneficios en múltiples aspectos de la agenda de desarrollo per se",
+              "pagina": 160
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "La expansión de la generación hidroeléctrica, bien diseñada con un enfoque de sostenibilidad e inclusión, podría dar a la población en pobreza mayor acceso a la electricidad y contribuir al desarrollo productivo sostenible y social de las poblaciones aledañas a los proyectos.",
+              "pagina": 161
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento articula medidas sectoriales concretas —energía renovable, transporte público, agricultura sostenible, protección de ecosistemas, financiamiento y comercio— y las conecta con reducción de emisiones, adaptación y desarrollo productivo. Sin embargo, el cierre no presenta un paquete único de inversión masiva con gobernanza, recursos y secuencia común; ofrece líneas de acción sectoriales y regionales que juntas apuntan a una transición, pero no una arquitectura integrada de ejecución.",
+      "citas": [
+        {
+          "cita": "La región ha desarrollado una gran dependencia de fuentes energéticas importadas de origen fósil altamente contaminantes. El tránsito a una matriz energética de fuentes renovables locales mejoraría su seguridad energética, ahorraría divisas y reduciría los impactos negativos de los combustibles fósiles.",
+          "pagina": 161
+        },
+        {
+          "cita": "Algunas estrategias de política comercial en Centroamérica serían ejecutar la Estrategia Centroamericana de Facilitación del Comercio y la Competitividad con énfasis en la Gestión Coordinada de Fronteras (GCF), adaptar los mecanismos de salvaguardia de los TLC para modificar los aranceles de importación en caso de contingentes en el país importador asociados a seguridad alimentaria, y diversificar los modos de transporte de mercancías haciendo uso de rutas marítimas de corta distancia para el comercio intrarregional, que representa una oportunidad para mejorar el desempeño y reducir las emisiones.",
+          "pagina": 162
+        }
+      ],
+      "nota": "Parcial: hay instrumentos y sectores concretos, pero no se demuestra un paquete coordinado de inversión a escala de modelo de desarrollo."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "La acción climática se ancla en mecanismos regionales existentes que coordinan ministerios y sectores dentro del ámbito centroamericano. El documento describe mandatos regionales de la ERCC y la PCGIR para los ministerios de Hacienda o Finanzas, y sitúa esas políticas junto a SICA, CCAD, COSEFIN, CAC, COMISCA y SIECA; no se trata solo de una colaboración editorial, sino de arreglos de gobernanza para implementar la agenda.",
+      "citas": [
+        {
+          "cita": "En dos estrategias regionales aprobadas en los últimos años, la Estrategia Regional de Cambio Climático (ERCC) y la Política Centroamericana de Gestión Integral del Riesgo (PCGIR), se establecieron mandatos a los Ministerios de Hacienda o Finanzas de CARD",
+          "pagina": 150
+        },
+        {
+          "cita": "La respuesta agrícola al cambio climático requerirá una estrecha coordinación de políticas con otros sectores para reducir la deforestación y proteger la biodiversidad y el recurso agua.",
+          "pagina": 92
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Sí",
+      "evidencia": "El documento enumera actividades y mercados concretos —agroexportación, textiles, componentes electrónicos, turismo, productos ambientalmente amigables, cafés diferenciados, cadenas globales de valor y transporte de corta distancia— y desarrolla su vínculo con productividad, ingresos, pobreza, igualdad y competitividad. La conexión no queda en la palabra oportunidad: se relaciona con mejores precios, acceso de productores de bajos ingresos, desarrollo productivo sostenible y reducción de emisiones.",
+      "citas": [
+        {
+          "cita": "En el caso de Centroamérica las VCR tradicionalmente identificadas se concentra en productos de agro-exportación, la industria textil y de confección, el ensamblaje de componentes electrónicos, y el sector turismo.",
+          "pagina": 155
+        },
+        {
+          "cita": "Existe una importante oportunidad de desarrollar sistemas de infraestructura sostenible, como los sistemas de transporte urbano rápido que proporcione a la población un servicio seguro, rápido moderno, limpio y de alta calidad y con cobeneficios en mejoras en las condiciones de salud, productividad, igualdad y cohesión social.",
+          "pagina": 161
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "productos de agro-exportación",
+          "clasificacion": "CONCRETO",
+          "pagina": 155
+        },
+        {
+          "item": "industria textil y de confección",
+          "clasificacion": "CONCRETO",
+          "pagina": 155
+        },
+        {
+          "item": "ensamblaje de componentes electrónicos",
+          "clasificacion": "CONCRETO",
+          "pagina": 155
+        },
+        {
+          "item": "sector turismo",
+          "clasificacion": "CONCRETO",
+          "pagina": 155
+        },
+        {
+          "item": "sistemas de transporte urbano rápido",
+          "clasificacion": "CONCRETO",
+          "pagina": 161
+        }
+      ],
+      "tally": "5 de 5 oportunidades enumeradas pasan el test de concreción",
+      "nota": null
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "El cierre formal contiene acciones con verbos y objetos identificables: crear una matriz de acción energética, usar información epidemiológica para pronósticos, diseñar normas y lineamientos presupuestarios, acreditar mecanismos de financiamiento climático, ejecutar la estrategia de facilitación comercial, adaptar salvaguardias y diversificar el transporte de mercancías. La mayoría de los ítems del bloque normativo final supera el test de objeto específico.",
+      "citas": [
+        {
+          "cita": "Se necesita desarrollar y aplicar nuevas normas en los proyectos de inversión, establecer lineamientos y capacitación para la formulación de programas y presupuestos sectoriales, y desarrollar programas de aseguramiento y gestión integral de riesgo a nivel del presupuesto público y en sectores clave como el agropecuario.",
+          "pagina": 162
+        },
+        {
+          "cita": "Algunas estrategias de política comercial en Centroamérica serían ejecutar la Estrategia Centroamericana de Facilitación del Comercio y la Competitividad con énfasis en la Gestión Coordinada de Fronteras (GCF), adaptar los mecanismos de salvaguardia de los TLC para modificar los aranceles de importación en caso de contingentes en el país importador asociados a seguridad alimentaria, y diversificar los modos de transporte de mercancías haciendo uso de rutas marítimas de corta distancia para el comercio intrarregional, que representa una oportunidad para mejorar el desempeño y reducir las emisiones.",
+          "pagina": 162
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Crear una nueva matriz de acción energética con prioridades nacionales y regionales y metas de los ODS y la COP21.",
+          "clasificacion": "CONCRETO",
+          "pagina": 159
+        },
+        {
+          "item": "Fortalecer sistemas de información epidemiológica para generar instrumentos de pronóstico.",
+          "clasificacion": "CONCRETO",
+          "pagina": 161
+        },
+        {
+          "item": "Desarrollar y aplicar nuevas normas en proyectos de inversión.",
+          "clasificacion": "CONCRETO",
+          "pagina": 162
+        },
+        {
+          "item": "Establecer lineamientos y capacitación para programas y presupuestos sectoriales.",
+          "clasificacion": "CONCRETO",
+          "pagina": 162
+        },
+        {
+          "item": "Desarrollar programas de aseguramiento y gestión integral de riesgo en el presupuesto público y sectores clave.",
+          "clasificacion": "CONCRETO",
+          "pagina": 162
+        },
+        {
+          "item": "Diseñar y acreditar mecanismos nacionales para administrar financiamiento climático internacional.",
+          "clasificacion": "CONCRETO",
+          "pagina": 162
+        },
+        {
+          "item": "Ejecutar la Estrategia Centroamericana de Facilitación del Comercio con énfasis en la GCF.",
+          "clasificacion": "CONCRETO",
+          "pagina": 162
+        },
+        {
+          "item": "Adaptar salvaguardias de los TLC para contingentes asociados a seguridad alimentaria.",
+          "clasificacion": "CONCRETO",
+          "pagina": 162
+        },
+        {
+          "item": "Diversificar modos de transporte mediante rutas marítimas de corta distancia.",
+          "clasificacion": "CONCRETO",
+          "pagina": 162
+        },
+        {
+          "item": "Enfrentar el desafío climático en forma proactiva.",
+          "clasificacion": "GENERICO",
+          "pagina": 163
+        }
+      ],
+      "tally": "9 de 10 ítems pasan el test de concreción",
+      "nota": "La unidad de desglose es el bloque normativo del cierre formal; no se mezclaron las listas de recomendaciones intercaladas en capítulos."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la tensión entre una región altamente vulnerable y una estructura productiva, energética y fiscal que reproduce emisiones, degradación y desigualdad. Su método combina escenarios B2/A2, estudios sectoriales y un cierre normativo para convertir impactos físicos —por ejemplo, pérdidas agrícolas, biodiversidad e hidroelectricidad— en decisiones de adaptación, mitigación y coordinación pública.",
+      "filtro_categoria_primaria": "El objeto central es transformar la relación regional con el clima: reducir vulnerabilidades, proteger ecosistemas, adaptar sectores y avanzar hacia una matriz energética y productiva sostenible. La institucionalidad, el presupuesto, la información y la coordinación son instrumentos habilitadores; por eso #11 es secundaria y no primaria, aunque el cierre otorgue un peso importante a las capacidades estatales.",
+      "secundaria_obligatoria": "Las capacidades del Estado habilitan la respuesta: el documento exige incorporar riesgo climático en normas de inversión, presupuestos, sistemas de información, seguros, vigilancia sanitaria, planificación energética y mecanismos regionales de coordinación. Sin esas capacidades, las medidas sectoriales no pueden pasar de diagnósticos y proyectos aislados a políticas sostenidas.",
+      "justificacion_anti_copia": "La clasificación se apoya en rasgos propios: escenarios B2/A2 con cortes a 2020, 2050 y 2100; modelación de rendimientos de maíz, frijol, arroz y café; simulaciones de biodiversidad y de las plantas Chixoy y Cerrón Grande; y un cierre que articula ERCC, PCGIR, SICA, financiamiento climático, transporte y comercio. Esa combinación muestra que el propósito es la transición ambiental regional, con capacidades públicas como medio de implementación.",
+      "validacion_anclas": "Se alinea con el ancla #20 de impactos y adaptación nacional (#6/#11), porque el objeto son vulnerabilidades climáticas sectoriales y la institucionalidad es el medio. Se diferencia de las anclas #8 y #12 (#11/#6): aquí el método y el cierre no se concentran en inventariar arquitectura institucional, sino en modelar impactos ambientales y traducirlos en opciones de transformación para múltiples sectores."
+    },
+    "tipo_documento_climatico": "Informe técnico regional con diagnóstico modelado y opciones de política pública",
+    "nivel_aplicacion": "Regional: Centroamérica, con referencias a República Dominicana y desagregación por país, sector y territorio",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

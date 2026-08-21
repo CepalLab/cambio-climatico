@@ -136,8 +136,19 @@
           "seccion": "Introducción",
           "nivel": 2,
           "paginas": "147-150",
-          "resumen": "Presenta la segunda parte del informe: las consecuencias macroeconómicas del cambio climático (capítulo II, con el hallazgo central de una pérdida de PIB de entre 9% y 12% en 2050 para seis países analizados), los mecanismos de financiamiento posibles (capítulo III) y el papel de los bancos centrales y supervisores financieros (capítulo IV). Enmarca a la región como muy vulnerable por su exposición geográfica a sequías, olas de calor y variabilidad de precipitaciones, y por su dependencia de sectores económicos —agricultura, minería, turismo— sensibles al clima. Adelanta que las inversiones de adaptación en línea con las CDN limitarían pero no eliminarían las pérdidas económicas, y que el financiamiento no puede descansar solo en mayor endeudamiento público, sino que requiere movilizar recursos internos, privados e internacionales, además de mecanismos de alivio de deuda.",
-          "dimensiones": [],
+      "resumen": "Presenta la segunda parte del informe: las consecuencias macroeconómicas del cambio climático (capítulo II, con el hallazgo central de una pérdida de PIB de entre 9% y 12% en 2050 para seis países analizados), los mecanismos de financiamiento posibles (capítulo III) y el papel de los bancos centrales y supervisores financieros (capítulo IV). Enmarca a la región como muy vulnerable por su exposición geográfica a sequías, olas de calor y variabilidad de precipitaciones, y por su dependencia de sectores económicos —agricultura, minería, turismo— sensibles al clima. Adelanta que las inversiones de adaptación en línea con las CDN limitarían pero no eliminarían las pérdidas económicas, y que el financiamiento no puede descansar solo en mayor endeudamiento público, sino que requiere movilizar recursos internos, privados e internacionales, además de mecanismos de alivio de deuda.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "La región se caracteriza por su elevada vulnerabilidad frente al cambio climático",
+          "pagina": 149
+        },
+        {
+          "dimension": "desafios",
+          "cita": "Para compensar en su totalidad estas pérdidas económicas se requerirían inversiones excepcionalmente grandes, de entre un 5,3% y un 10,9% del PIB por año",
+          "pagina": 149
+        }
+      ],
           "subsecciones": []
         },
         {
@@ -289,8 +300,8 @@
                 },
                 {
                   "dimension": "brechas_implementacion",
-                  "cita": "la realización de estas inversiones podría traducirse en niveles de deuda pública en 2050 equivalentes al 100% del PIB o más en Barbados, El Salvador y Santa Lucía, y superiores al 70% del PIB en Honduras",
-                  "pagina": 153,
+                  "cita": "Se prevé que los niveles de deuda pública se mantengan elevados o experimenten un crecimiento acelerado en la mayoría de los países del grupo analizado en el escenario de inversión de CDN.",
+                  "pagina": 179,
                   "subtipo_brecha": "prospectiva"
                 }
               ],
@@ -304,8 +315,8 @@
               "dimensiones": [
                 {
                   "dimension": "propuestas_politica",
-                  "cita": "Si las inversiones previstas en las CDN se financiaran en condiciones favorables, definidas como la mitad de la tasa de interés efectiva de cada país del grupo, la dinámica de la deuda pública sería mucho más favorable",
-                  "pagina": 154
+                  "cita": "Reducir el costo del financiamiento para el clima podría flexibilizar las trayectorias de la deuda y permitir a los países aplicar las inversiones de CDN mientras adoptan medidas para aumentar la movilización de recursos internos.",
+                  "pagina": 181
                 }
               ],
               "subsecciones": []
@@ -314,8 +325,19 @@
               "seccion": "G. Conclusiones",
               "nivel": 3,
               "paginas": "183",
-              "resumen": "Sintetiza que el cambio climático socava el crecimiento potencial del grupo de seis países por su efecto en la productividad y en el acervo de capital, que la inversión necesaria (entre 5,3% y 10,9% del PIB) no tiene precedentes dado el bajo nivel de inversión histórica, que el elevado servicio de la deuda ya limita el margen fiscal disponible, y que reducir el costo de financiamiento climático y movilizar más recursos internos y privados es esencial para hacer viable la inversión a gran escala.",
-              "dimensiones": [],
+      "resumen": "Sintetiza que el cambio climático socava el crecimiento potencial del grupo de seis países por su efecto en la productividad y en el acervo de capital, que la inversión necesaria (entre 5,3% y 10,9% del PIB) no tiene precedentes dado el bajo nivel de inversión histórica, que el elevado servicio de la deuda ya limita el margen fiscal disponible, y que reducir el costo de financiamiento climático y movilizar más recursos internos y privados es esencial para hacer viable la inversión a gran escala.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "El daño macroeconómico progresivo causado por el cambio climático socavará los determinantes subyacentes del crecimiento económico, sobre todo a través de sus efectos nocivos sobre los niveles de productividad",
+          "pagina": 183
+        },
+        {
+          "dimension": "desafios",
+          "cita": "Para compensar por completo las pérdidas económicas causadas por el cambio climático podría ser necesario realizar inversiones anuales de entre el 5,3% del PIB y el 10,9% del PIB en los países del grupo",
+          "pagina": 183
+        }
+      ],
               "subsecciones": []
             }
           ]
@@ -441,8 +463,20 @@
               "seccion": "D. Conclusiones",
               "nivel": 3,
               "paginas": "219",
-              "resumen": "Concluye que la región no invierte lo suficiente para generar crecimiento y resiliencia climática, que el contexto de tasas altas complica un impulso de inversión sin precedentes, y que se requiere un marco de financiamiento integral que combine movilización de recursos internos, inversión privada, cooperación internacional y alivio de deuda climática.",
-              "dimensiones": [],
+      "resumen": "Concluye que la región no invierte lo suficiente para generar crecimiento y resiliencia climática, que el contexto de tasas altas complica un impulso de inversión sin precedentes, y que se requiere un marco de financiamiento integral que combine movilización de recursos internos, inversión privada, cooperación internacional y alivio de deuda climática.",
+      "dimensiones": [
+        {
+          "dimension": "brechas_implementacion",
+          "cita": "la región no invierte lo suficiente para generar crecimiento económico a largo plazo y un acervo de capital productivo",
+          "pagina": 219,
+          "subtipo_brecha": "retrospectiva"
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "será necesario contar con un marco de financiamiento global que alinee la política fiscal con los objetivos del cambio climático y que, al mismo tiempo, gestione la sostenibilidad fiscal y desbloquee el capital privado",
+          "pagina": 219
+        }
+      ],
               "subsecciones": []
             }
           ]
@@ -590,8 +624,14 @@
               "seccion": "C. Consideraciones finales",
               "nivel": 3,
               "paginas": "244",
-              "resumen": "Concluye que los recursos públicos nacionales son la primera línea de financiamiento climático, pero que atraer inversión privada exige que las autoridades financieras no se limiten a mitigar riesgos, sino que impulsen activamente mercados de finanzas sostenibles; reconoce avances desiguales en la región en divulgación y pruebas de estrés, con límites metodológicos persistentes, y recomienda un enfoque precautorio y una mayor coordinación entre política macroprudencial, monetaria y fiscal.",
-              "dimensiones": [],
+      "resumen": "Concluye que los recursos públicos nacionales son la primera línea de financiamiento climático, pero que atraer inversión privada exige que las autoridades financieras no se limiten a mitigar riesgos, sino que impulsen activamente mercados de finanzas sostenibles; reconoce avances desiguales en la región en divulgación y pruebas de estrés, con límites metodológicos persistentes, y recomienda un enfoque precautorio y una mayor coordinación entre política macroprudencial, monetaria y fiscal.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "la solución a nivel nacional reside, por una parte, en adoptar un enfoque precautorio que permita avanzar en la implementación de instrumentos de política macroprudencial y monetaria mientras se conciben técnicas más adecuadas para cuantificar los riesgos ambientales",
+          "pagina": 244
+        }
+      ],
               "subsecciones": []
             }
           ]
@@ -694,24 +734,24 @@
   },
   "tipologia": {
     "transformacion_primaria": {
-      "numero": 6,
-      "nombre": "Sostenibilidad ambiental",
-      "certeza": "Media"
-    },
-    "transformacion_secundaria": {
       "numero": 10,
       "nombre": "Macroeconomía y fiscalidad",
       "certeza": "Alta"
     },
+    "transformacion_secundaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
     "razonamiento_5_pasos": {
-      "tension_dialectica": "El documento, en su segunda parte —que concentra el aparato analítico climático propiamente dicho—, procesa la tensión entre la magnitud excepcional de la inversión que exige la adaptación y mitigación climáticas en la región (hasta el 10,9% del PIB anual para compensar íntegramente las pérdidas proyectadas a 2050 en el grupo de seis países analizado en el capítulo II) y el reducido espacio fiscal disponible, caracterizado por una inversión pública regional de solo el 2,8% del PIB en 2019 y tasas de interés efectivas de la deuda muy superiores a las de otras regiones en desarrollo (p.153, 196-197, 202).",
-      "filtro_categoria_primaria": "El objetivo de cambio que persigue la segunda parte del documento no es transformar por sí misma la estructura fiscal o financiera de la región, sino movilizar el financiamiento —interno, privado, internacional y de alivio de deuda— necesario para que los países puedan \"contar con economías resilientes\" e impulsar \"un crecimiento dinámico, sostenido y sostenible\" frente al cambio climático (Introducción, p.149). El diseño de instrumentos fiscales, de mercado de capitales y de política monetaria es, en la propia enunciación del documento, el medio; la resiliencia climática y la transición hacia la neutralidad en carbono son el fin declarado.",
-      "secundaria_obligatoria": "El vehículo analítico dominante a través del cual se persigue esa transformación climática es macroeconómico y fiscal: el capítulo II modela la dinámica de la deuda pública bajo distintos escenarios de inversión climática con el marco de sostenibilidad de deuda del FMI (p.179-182); el capítulo III se dedica íntegramente a instrumentos de recaudación tributaria, mercados de bonos temáticos y mecanismos de alivio de deuda (p.203-219); y el capítulo IV analiza el papel de los bancos centrales y la política macroprudencial y monetaria (p.226-244). De las aproximadamente 100 páginas de la segunda parte del documento, más de 90 están dedicadas a ese aparato fiscal-financiero-monetario, de donde surge la secundaria #10 Macroeconomía y fiscalidad, con certeza Alta dentro de la segunda parte.",
-      "justificacion_anti_copia": "El documento cuantifica la brecha de inversión pública (2,8% del PIB regional en 2019 frente al 11,7% del PIB en las economías emergentes de Asia, p.196), modela trayectorias de deuda pública a 2050 bajo tres escenarios distintos para seis países del Caribe y Centroamérica (p.179-182), y detalla instrumentos fiscales concretos como el impuesto sobre las emisiones de carbono de Colombia (de 15.000 a 20.500 pesos colombianos por tonelada de CO2 eq, recuadro III.1, p.207) y el volumen de bonos temáticos emitidos por la región (95.700 millones de dólares acumulados a 2022, concentrados en el Brasil, Chile y México, p.240), en vez de concentrarse en describir los impactos biofísicos del cambio climático, que ocupan un espacio comparativamente menor (secciones A y C del capítulo II, apenas 5 de las cerca de 100 páginas de la segunda parte).",
-      "validacion_anclas": "Ninguna de las tres anclas registradas en la tabla de TIPOLOGIA_v0.md §3 (primaria #6/secundaria #11 para un caso de resiliencia energética; primaria #6 tentativa/secundaria #9 para un caso de comercio e impuesto fronterizo al carbono; primaria #2/secundaria #6 para un caso de canal causal clima-pobreza) coincide con el patrón de este documento, en el que la segunda parte dedica casi la totalidad de su extensión a instrumentos fiscales, de deuda pública y de banca central. Este documento aportaría una nueva ancla de patrón macro-fiscal para la secundaria #10, análoga en su lógica de método-vs-objeto a la distinción ya registrada entre las anclas #9 (comercio como canal) y #6 (canal causal), pero con un aparato fiscal-financiero-monetario aún más dominante en términos de extensión relativa que en cualquiera de los tres casos ya registrados."
+      "tension_dialectica": "El documento procesa la tensión entre la magnitud excepcional de la inversión climática requerida y una arquitectura macroeconómica regional con bajo crecimiento, inversión pública reducida, alto costo del capital y espacio fiscal estrecho. Esa tensión atraviesa la unidad documental completa: la primera parte diagnostica la coyuntura macroeconómica regional y la segunda pregunta cómo financiar adaptación y mitigación sin volver insostenibles la deuda, las cuentas fiscales y la estabilidad financiera.",
+      "filtro_categoria_primaria": "La unidad de análisis es el informe completo, no solo la monografía climática de la segunda parte. Aproximadamente 110 páginas corresponden al panorama macroeconómico anual de la serie; en la parte climática, más de 90 páginas también trabajan mediante deuda pública, recaudación, mercados de capitales, cooperación financiera, banca central y regulación macroprudencial. La pregunta que el documento pretende resolver es cómo reorganizar recursos, riesgos e instrumentos macrofinancieros para hacer viable la inversión climática. Por predominio de método, objeto operativo y hallazgo de cierre, la primaria es #10 Macroeconomía y fiscalidad.",
+      "secundaria_obligatoria": "La segunda intención es #6 Sostenibilidad ambiental. El cambio climático determina la escala de inversión, los escenarios de pérdida del PIB, el destino de los instrumentos fiscales y financieros y la necesidad de economías resilientes y bajas en carbono. No es una etiqueta incidental: orienta toda la segunda parte y redefine el propósito de la política macroeconómica, pero no reemplaza como objeto principal a la movilización de financiamiento, la sostenibilidad de deuda y la gestión del riesgo financiero.",
+      "justificacion_anti_copia": "El informe combina una inversión pública regional de apenas 2,8% del PIB en 2019 frente al 11,7% en economías emergentes de Asia; trayectorias de deuda a 2050 bajo tres escenarios para Barbados, El Salvador, Guatemala, Honduras, República Dominicana y Santa Lucía; necesidades climáticas de hasta 10,9% del PIB anual; el impuesto colombiano al carbono de 15.000 a 20.500 pesos por tonelada de CO2 equivalente; 95.700 millones de dólares en bonos temáticos acumulados a 2022; y propuestas de canje de deuda, cláusulas de desastre y política macroprudencial. La evidencia muestra un documento macrofinanciero especializado por finalidad climática, no un estudio biofísico que use las finanzas como apéndice.",
+      "validacion_anclas": "Caso ancla #10 Macroeconomía y fiscalidad / #6 Sostenibilidad ambiental para informes económicos híbridos. Regla transferible: si el documento completo pertenece a una serie macroeconómica y tanto el diagnóstico general como la sección climática se estructuran mediante crecimiento, deuda, fiscalidad, financiamiento y banca central, #10 es primaria; #6 queda como finalidad sustantiva. Contrasta deliberadamente con doc18 (#6/#10), donde la transición climática es el objeto monotemático y las herramientas financieras son el medio."
     },
     "tipo_documento_climatico": "Informe insignia anual de la CEPAL (Estudio Económico de América Latina y el Caribe, 75ª edición), con una monografía especial de tres capítulos sobre financiamiento climático en su segunda parte; no es un documento monotemático sobre cambio climático, sino un híbrido entre el informe macroeconómico regional estándar de la serie (primera parte, sin contenido climático) y un análisis climático-fiscal especializado (segunda parte).",
     "nivel_aplicacion": "Regional (América Latina y el Caribe en su conjunto) en la primera parte y en los capítulos III y IV de la segunda parte; subregional (un grupo de seis países de Centroamérica y el Caribe: Barbados, El Salvador, Guatemala, Honduras, República Dominicana y Santa Lucía) en el modelo de crecimiento y deuda del capítulo II.",
-    "ambiguedad_pendiente_validacion": "Dado que la primera parte del documento (Capítulo I, aproximadamente 110 de las 232 páginas del cuerpo) es un panorama macroeconómico regional estándar sin ningún contenido climático, la certeza de la tipología asignada se limita en rigor a la segunda parte, que es la única con relevancia para el corpus climático. Dentro de esa segunda parte, es igualmente defendible leer #10 Macroeconomía y fiscalidad como primaria y #6 Sostenibilidad ambiental como secundaria, dado que el aparato fiscal-financiero-monetario (capítulos II a IV) ocupa una proporción de la extensión aún mayor que el patrón ya registrado como ambiguo en la tabla de anclas. Se prioriza #6 como primaria porque el objetivo de cambio declarado explícitamente en el título y en la introducción de la segunda parte es climático, y el aparato fiscal se presenta en todo momento como el medio para financiar ese objetivo, no como un fin en sí mismo."
+    "ambiguedad_pendiente_validacion": null
   }
 }

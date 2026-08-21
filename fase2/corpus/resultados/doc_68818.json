@@ -1,0 +1,424 @@
+{
+  "documento": {
+    "num_muestra": 188,
+    "titulo": "Caribbean Outlook: Considering a Caribbean emissions trading scheme. Policy Brief",
+    "autoria": null,
+    "handle": "https://hdl.handle.net/11362/68818",
+    "simbolo": "LC/CAR/2024/2",
+    "isbn": null,
+    "fecha": "2024-01-05",
+    "tipo_documento": "Policy Brief",
+    "paginas_cuerpo": 7,
+    "paginas_totales": 8,
+    "idioma": "en",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Podría un sistema regional de comercio de emisiones ser un mecanismo viable para que los Estados miembros de CARICOM reduzcan sus gases de efecto invernadero y financien la implementación de sus NDC?",
+    "alcance": {
+      "ambito_aplicacion": "Los Estados miembros de CARICOM y la subregión del Caribe, con énfasis en un ETS regional y su posible implementación en cada país participante.",
+      "referentes_dependencias": "La Unión Europea, Estados Unidos, Nueva Zelandia, Quebec, República de Corea, Brasil, Chile y México como experiencias comparadas de sistemas de comercio de emisiones; la UNFCCC, el Protocolo de Kyoto y el balance mundial como marcos internacionales.",
+      "sectorial": "Diseño y regulación de un sistema de comercio de emisiones para electricidad, transporte, producción industrial pesada y, potencialmente, agricultura y silvicultura; incluye gases, asignaciones, subastas, sanciones y MRV.",
+      "temporal": "Situación y diseño inicial del ETS, con metas y topes considerados para 2030 y 2050, actualización conforme a nuevas NDC y una posible fase piloto antes del despliegue regional."
+    },
+    "hallazgos_principales": [
+      "No existe actualmente un mecanismo de mercado de este tipo en la subregión, por lo que el ETS se presenta como una opción para facilitar la reducción de emisiones y generar ingresos para adaptación y resiliencia (p.2).",
+      "Un ETS obligatorio requiere definir sectores, gases y un tope anual, estudiar previamente las emisiones y la factibilidad de reducción de cada sector y entidad, y exigir que las entidades entreguen permisos por cada tonelada de CO2 equivalente emitida (p.2).",
+      "El diseño regional exige acuerdo entre los Estados miembros, reglas y procedimientos compartidos, topes nacionales y regionales calibrados, y revisión periódica de los topes para reflejar cambios en las NDC (p.4).",
+      "La propuesta recomienda iniciar las asignaciones gratuitamente y pasar desde el segundo año a una combinación de asignación gratuita y subastas, aumentando progresivamente la proporción subastada hasta eliminar la asignación gratuita (p.5).",
+      "La viabilidad operativa depende de un sistema de monitoreo, reporte y verificación: las entidades reportan, el regulador revisa y un auditor independiente verifica los datos antes de evaluar el cumplimiento (p.5).",
+      "Una encuesta sobre conocimiento, beneficios percibidos, barreras y preferencias de diseño, seguida de un piloto regional, permitiría evaluar la disposición del sector privado y ajustar el ETS antes de una iniciativa mayor (p.6)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El documento concluye que un ETS regional caribeño merece consideración como herramienta de mercado para apoyar las NDC, pero su viabilidad depende de resolver previamente el alcance sectorial y geográfico, los gases y topes, la asignación de permisos, el MRV, las sanciones y la regulación de precios.",
+        "La evidencia comparada y la propuesta de piloto sugieren que el instrumento debe aprender de la implementación gradual: una fase piloto puede revelar problemas prácticos, medir la preparación empresarial y fortalecer las capacidades institucionales antes de escalarlo a CARICOM."
+      ],
+      "recomendaciones": [
+        "Considerar la implementación de un ETS regional caribeño alineado con los sectores de las NDC, con topes revisables, reserva de permisos, sanciones proporcionales y un sistema independiente de monitoreo, reporte y verificación.",
+        "Realizar una encuesta al sector privado y probar una fase piloto antes de desplegar un ETS regional más amplio, usando sus resultados para ajustar el diseño y los apoyos a las empresas reguladas."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "El policy brief examina si CARICOM puede usar un sistema regional de comercio de emisiones para convertir sus NDC en reducciones verificables, pese a que la subregión aún no cuenta con un mecanismo de mercado de ese tipo. Propone un diseño gradual que defina sectores y gases, establezca topes para 2030 y 2050, combine asignaciones gratuitas y subastas desde el segundo año, y opere con reserva de permisos y MRV independiente. La recomendación más operativa es probar primero un piloto y encuestar a las empresas, especialmente pequeñas y medianas, para conocer barreras y preferencias de diseño. El instrumento también podría generar ingresos para proyectos de adaptación y mitigación, pero el documento no desarrolla un vínculo específico con empleo, productividad o desigualdad."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introduction",
+      "nivel": 1,
+      "paginas": "1-2",
+      "resumen": "La introducción plantea el problema de financiar y hacer más ambiciosas las NDC caribeñas ante el balance mundial y presenta un ETS regional como posible respuesta basada en el mercado. Señala que ningún mecanismo de este tipo existe todavía en la subregión y que el instrumento podría simultáneamente facilitar reducciones de GHG y generar ingresos para adaptación y resiliencia en los pequeños Estados insulares de CARICOM. Así, fija como pregunta práctica la viabilidad institucional y financiera de probar un ETS regional.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Accordingly, one market-based modality, which may be useful in this regard, would be the development of a regional emissions trading scheme (ETS). presently, no such market-based mechanism exists in the subregion, particularly since CARICOM countries, classified as Non-Annex I countries under the Kyoto Protocol, have no emission reduction commitments (Robinson and Carlson, 2021; Charles, 2022).",
+          "pagina": 2
+        },
+        {
+          "dimension": "oportunidades",
+          "cita": "However, it may be useful to test the merit of an ETS as a tool that could viably facilitate GHG emission reduction action in the CARICOM small island developing States, while simultaneously generating revenue for investment in crucial adaptation and resilience building initiatives.",
+          "pagina": 2
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Background",
+      "nivel": 1,
+      "paginas": "2-3",
+      "resumen": "El bloque sirve de marco para las tres subsecciones: explica que un ETS debe ajustarse a las necesidades, compromisos y características del país o conjunto de países; luego presenta el esquema obligatorio, el voluntario y ejemplos comparados. El contenido sustantivo se desarrolla en las hojas anidadas.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "Mandatory emissions trading scheme",
+          "nivel": 2,
+          "paginas": "2-3",
+          "resumen": "Describe el ETS obligatorio como un régimen para entidades emisoras de sectores específicos. Exige seleccionar sectores y gases, levantar un estudio previo de emisiones y factibilidad de reducción, cubrir cada tonelada emitida con asignaciones, operar con un tope que puede reducirse, y permitir compra, multa, asignación, subasta, comercio, reserva y MRV.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Emissions trading schemes can facilitate a reduction in GHG emissions. However, in order to work effectively such schemes must of necessity be structured carefully to fit inter alia the peculiar needs, reduction commitments, goals and characteristics of the country or countries involved.",
+              "pagina": 2
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "It is noteworthy that before the ETS is rolled out there should be a study on emissions for the various sectors, to ensure comprehensive information on which GHGs are being produced annually by each sector and company, and what quantity.",
+              "pagina": 2
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Voluntary emissions trading scheme",
+          "nivel": 2,
+          "paginas": "3",
+          "resumen": "Contrasta el modelo voluntario con el obligatorio: las entidades no están forzadas a participar y compran asignaciones por reputación o contribución a la reducción global. Al no existir obligación, tampoco hay tope de emisiones ni multa por excederlo.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Apart from the mandatory ETS, there are also voluntary ETSs, where the stakeholders are not mandated to participate in the exchange i.e., to purchase emission allowances to cover their GHG emissions.",
+              "pagina": 3
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Therefore, in this variation of the ETS, there exists neither a cap on GHG emissions nor a fine for excess GHG emissions (Wongpiyabovorn et al., 2023).",
+              "pagina": 3
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Examples of emissions trading schemes",
+          "nivel": 2,
+          "paginas": "3",
+          "resumen": "Revisa la trayectoria de la Unión Europea desde 2005 y sus cuatro fases, y resume experiencias de Estados Unidos, Nueva Zelandia, Quebec, Corea del Sur, Brasil, Chile y México. El patrón comparado es la implementación por fases, con revisión del programa y mejoras frente a deficiencias observadas.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "The first ETS to be developed was in the European Union in 2005 (Bayer and Aklin, 2020).",
+              "pagina": 3
+            },
+            {
+              "dimension": "avances_implementacion",
+              "cita": "The regulators of the different ETS tend to adopt a phased approach to implementing the ETS, where it reviews the program and improves upon observed deficiencies over time (Anger, 2008; Alexeeva and Anger, 2016; Black and Zhunussova, 2022; Jung and Song, 2023).",
+              "pagina": 3
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "Policy recommendations",
+      "nivel": 1,
+      "paginas": "3-6",
+      "resumen": "El capítulo puente presenta diez decisiones de diseño que CARICOM debería contemplar si considera un ETS: obligatoriedad, escala, tamaño y actualización del tope, sectores, gases, asignación, reserva, sanciones, MRV y precio. Las hojas anidadas recuperan cada recomendación numerada en el orden 1–10.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "1. Mandatory or voluntary",
+          "nivel": 2,
+          "paginas": "3",
+          "resumen": "Plantea la primera decisión de diseño: obligar a participar a los emisores de sectores particulares, exigiendo asignaciones por tonelada de CO2 equivalente, o mantener un sistema voluntario en que solo participen quienes quieran contribuir a la lucha climática.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Under a mandatory scheme, stakeholders producing GHG emissions in particular sectors would be obligated to participate. As such, they would be required to obtain emissions allocations to cover each ton of CO2eq of GHG that they produce.",
+              "pagina": 3
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "2. Regional or national",
+          "nivel": 2,
+          "paginas": "4",
+          "resumen": "Compara un ETS nacional por Estado con una iniciativa regional y sostiene que la segunda requeriría una reunión y acuerdo de los Jefes de Gobierno de CARICOM. Detalla reglas compartidas, metas nacionales y regionales, administración en cada país, revisión periódica y topes para 2030 y 2050 actualizables con las NDC.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "It is clear that any serious consideration of instituting a regional ETS would have to be initiated at the level of a meeting between the Heads of Governments of CARICOM member States and would require agreement among same to pursue such an initiative.",
+              "pagina": 4
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "The ETS regulator would need to be responsible for administering the regional ETS in each participating country. Collectively, the member States may work towards the achievement of the regional GHG emission reduction goal, with a built-in mechanism for regulation and monitoring.",
+              "pagina": 4
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "3. Size of the cap",
+          "nivel": 2,
+          "paginas": "4-5",
+          "resumen": "Examina cómo el bajo nivel de emisiones del Caribe puede afectar la disposición empresarial a participar y vincula el tope regional con la cuantificación de reducciones. La propuesta es permitir topes individuales, escalonar las metas y revisar los límites para reflejar compromisos NDC actualizados.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "Considering that CARICOM member States are low emitters of GHGs, some businesses may be reluctant to participate in any ETS. They may hold the view that climate change is a problem that has been caused by the high GHG emitting countries and that they should not be ‘forced’ to reduce their emissions.",
+              "pagina": 4
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "To ensure that the ETS remains relevant and effective in the long run, the member States would be required to work together to regularly review and update the emissions caps to reflect any changes in their NDCs.",
+              "pagina": 4
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "4. Sectors",
+          "nivel": 2,
+          "paginas": "4-5",
+          "resumen": "Recomienda comenzar con los sectores identificados en las NDC nacionales, considerando la cobertura variable entre países. Reconoce que la uniformidad europea sería difícil a corto plazo y propone cubrir horizontalmente el CO2 de la producción eléctrica como punto de partida.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Given that the Caribbean countries have already submitted their NDCs to the UNFCCC, the intuition would be to limit the sectors targeted by the potential regional ETS to sectors identified in countries’ NDCs in the first instance, bearing in mind that there is considerable variable geometry in sectoral coverage among individual Caribbean country NDC submissions.",
+              "pagina": 4
+            },
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Interestingly, the European Union ETS has fixed coverage and scope which does not vary from member State to member State.",
+              "pagina": 4
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "5. Greenhouse gases",
+          "nivel": 2,
+          "paginas": "5",
+          "resumen": "Propone que todos los Estados miembros apunten inicialmente al dióxido de carbono, por ser la emisión antropogénica de GHG más común, dejando abierta la incorporación de metano, óxido nitroso, HFC, PFC, SF6 y NF3 según decisión nacional o colectiva de CARICOM.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Since carbon dioxide is the most common anthropogenic GHG emission, it would be natural for all member States to target this gas. Other GHGs which are targeted in other ETS include methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, sulphur hexafluoride, and nitrogen trifluoride.",
+              "pagina": 5
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "6. Auction versus free allocation",
+          "nivel": 2,
+          "paginas": "5",
+          "resumen": "Compara asignación gratuita y subastas y recomienda comenzar con asignaciones gratuitas durante el primer año. Desde el segundo año propone un esquema híbrido, aumentando gradualmente la proporción subastada hasta retirar la asignación gratuita y financiar los costos operativos del regulador.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "This policy brief therefore recommends that from its second year of operation, a hybrid of free allocation as well as auctions be employed in the case of a Caribbean ETS. Subsequently, the percentage of emissions allowances distributed through auctions should be increased until the free allocation system is phased out.",
+              "pagina": 5
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "7. Emissions allocations and emissions allocations reserve",
+          "nivel": 2,
+          "paginas": "5",
+          "resumen": "Advierte que distribuir demasiadas asignaciones puede generar sobreoferta y presión a la baja sobre el precio. Recomienda que las asignaciones coincidan con el tope anual y que exista una reserva para controlar la oferta y mantener el precio en un nivel controlado.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "The experience of the European Union ETS highlights the need to safeguard against the distribution of too many emission allowances, since this can lead to an oversupply of emission allocations, putting downward pressure on the price.",
+              "pagina": 5
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Additionally, the ETS should also include an emission allocations reserve. This can help control the supply of emission allowances on the market and keep the price at a controlled level.",
+              "pagina": 5
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "8. Non-compliance penalties",
+          "nivel": 2,
+          "paginas": "5",
+          "resumen": "Recomienda una penalización por incumplir los topes para incentivar la reducción de GHG, pero con una multa no excesiva y vinculada a las emisiones por tonelada de CO2 equivalente. El objetivo declarado es estimular la acción, no castigar a los actores locales.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "In order to encourage stakeholders to reduce their GHG emissions, there should be a penalty for stakeholder non-compliance with assigned caps. The objective of the penalty should be to create sufficient incentive to stimulate GHG emission reduction action, rather than punish local stakeholders.",
+              "pagina": 5
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "9. Monitoring, reporting and verification system",
+          "nivel": 2,
+          "paginas": "5",
+          "resumen": "Define el MRV como condición de viabilidad del ETS. Las entidades reguladas reportan sus emisiones, el regulador revisa los informes y un auditor independiente verifica los datos; luego el regulador usa el informe de verificación para evaluar el cumplimiento.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Indeed, an ETS would not be feasible without a monitoring, reporting and verification system.",
+              "pagina": 5
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "The regulated entities would be responsible for submitting their emissions reports to the regulator, and the regulator would review these reports and use an independent auditor to verify the emissions.",
+              "pagina": 5
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "10. The emission allowances price",
+          "nivel": 2,
+          "paginas": "6",
+          "resumen": "Explica que el precio spot condiciona el incentivo a reducir emisiones y que, si es inferior a la multa, puede resultar racional pagar la sanción. Como CARICOM no tiene precios propios, propone usar el precio de la UE como proxy para construir y probar un modelo de pronóstico que oriente las decisiones de la reserva.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "If the spot price of the emission allowances is too low, then the regulated entities will have no incentive to reduce their emissions; they would simply purchase the emission allowance. In contrast, if the price of the emission allowance is higher than the non-compliance penalty fee, then it would be rational to pay the non-compliance fee rather than purchase the emission allowance.",
+              "pagina": 6
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "If the prediction suggests that prices would decline precipitously, then the ETS regulator may make preparations to remove some emission allowances into the emissions allocations reserve. If the forecast suggests that the emissions allocations prices may rise too high, then the regulator at the ETS may add some emissions allocations from the emissions allocations reserve.",
+              "pagina": 6
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "Conclusion",
+      "nivel": 1,
+      "paginas": "6-7",
+      "resumen": "La conclusión sostiene que CARICOM puede considerar un ETS regional para apoyar sus NDC, pero recomienda resolver su diseño mediante participación empresarial y aprendizaje experimental. Propone encuestar al sector privado sobre conocimiento, beneficios, barreras y preferencias, y realizar un piloto que permita evaluar impactos en empresas, desarrollar apoyos y fortalecer capacidades regulatorias y sistemas MRV antes del despliegue mayor. El cierre enumera los parámetros críticos del esquema y vincula los ingresos de las subastas con proyectos de adaptación y mitigación, aunque reconoce que se requieren análisis de escenarios y teoría de juegos para precisar el diseño óptimo.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "To determine the interest and commitment of the private sector in a regional ETS, administering a survey is an effective way to gather information. The survey should be designed to gather information on the following: awareness and knowledge of emissions trading schemes, perceived benefits of participation, barriers to participation and preferences for the ETS design.",
+          "pagina": 6
+        },
+        {
+          "dimension": "desafios",
+          "cita": "A pilot phase can provide valuable insights into the practicalities of implementing an ETS, highlight potential challenges, and inform the design of the final ETS.",
+          "pagina": 6
+        },
+        {
+          "dimension": "avances_implementacion",
+          "cita": "Following the pilot, a larger regional ETS could be rolled out. The overall objective of the mandatory ETS may be to meet the collective targets of all the member States.",
+          "pagina": 7
+        },
+        {
+          "dimension": "oportunidades",
+          "cita": "The revenue that the governments may generate from the auctions within the framework of the ETS can be used to finance other climate change adaptation and mitigation projects.",
+          "pagina": 7
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento desarrolla con bastante concreción un instrumento regional y un posible piloto, pero el núcleo de acción es un ETS único, no un paquete coordinado de inversiones y políticas a escala de transformación productiva. Sí aterriza sectores y gases y conecta el mecanismo con mitigación y adaptación, pero no reúne de forma suficiente la lógica de inversión masiva coordinada y dos eficiencias productivas exigida por el test.",
+      "citas": [
+        {
+          "cita": "testing a pilot phase of a regional ETS before considering it at the CARICOM level would be prudent",
+          "pagina": 6
+        },
+        {
+          "cita": "the ETS, as well as the implementation of other climate change adaptation and mitigation projects can assist countries in achieving their NDC targets",
+          "pagina": 7
+        }
+      ],
+      "nota": "El resultado es Parcial porque hay un instrumento climático regional detallado y una articulación con proyectos de adaptación y mitigación, pero no un paquete completo de inversión coordinada."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "La propuesta ubica la decisión en una coordinación formal entre los Estados CARICOM, exige acuerdo regional, distribuye responsabilidades entre el regulador y los países participantes e incorpora al sector privado mediante encuesta y piloto. El mecanismo de articulación pertenece al ámbito de aplicación: es el ETS regional caribeño y su gobernanza entre Estados, reguladores y entidades reguladas.",
+      "citas": [
+        {
+          "cita": "any serious consideration of instituting a regional ETS would have to be initiated at the level of a meeting between the Heads of Governments of CARICOM member States and would require agreement among same to pursue such an initiative",
+          "pagina": 4
+        },
+        {
+          "cita": "The regulated entities would be responsible for submitting their emissions reports to the regulator, and the regulator would review these reports and use an independent auditor to verify the emissions.",
+          "pagina": 5
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "Chequeo negativo explícito: el documento sí enumera sectores emisores —electricity generation, transportation, heavy industrial production, agriculture y forestry—, pero no desarrolla una oportunidad productiva sostenible conectada con empleo, productividad o desigualdad. Tampoco presenta un mecanismo de transición sectorial para esos resultados distributivos; el beneficio económico específico que sí menciona es la generación de ingresos para adaptación y resiliencia.",
+      "citas": [
+        {
+          "cita": "Electricity generation, transportation, and heavy industrial production are typically the highest GHG emitters in countries.",
+          "pagina": 2
+        },
+        {
+          "cita": "while simultaneously generating revenue for investment in crucial adaptation and resilience building initiatives",
+          "pagina": 2
+        }
+      ],
+      "nota": "La enumeración de sectores funciona como criterio de cobertura regulatoria del ETS, no como agenda de oportunidades productivas."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "Aplicando la unidad de análisis al bloque normativo del cierre formal, el documento formula cuatro acciones completas: encuestar al sector privado, probar un piloto regional, usarlo para fortalecer capacidades y sistemas MRV, y destinar los ingresos de subastas a proyectos climáticos. Las cuatro identifican un procedimiento, fase, sistema o destino de recursos ejecutable; por ello la mayoría de los ítems del cierre pasa el test.",
+      "citas": [
+        {
+          "cita": "To determine the interest and commitment of the private sector in a regional ETS, administering a survey is an effective way to gather information.",
+          "pagina": 6
+        },
+        {
+          "cita": "testing a pilot phase of a regional ETS before considering it at the CARICOM level would be prudent.",
+          "pagina": 6
+        }
+      ],
+      "desglose_items": [
+        {"item": "Administrar una encuesta para determinar el interés y compromiso del sector privado, incluyendo conocimiento, beneficios percibidos, barreras y preferencias de diseño.", "clasificacion": "CONCRETO", "pagina": 6},
+        {"item": "Probar una fase piloto de un ETS regional antes de considerarlo a nivel de CARICOM.", "clasificacion": "CONCRETO", "pagina": 6},
+        {"item": "Usar el piloto para evaluar la preparación del sector privado, desarrollar apoyos y fortalecer capacidades regulatorias y sistemas de monitoreo, reporte y verificación.", "clasificacion": "CONCRETO", "pagina": 7},
+        {"item": "Usar los ingresos gubernamentales de las subastas para financiar proyectos adicionales de adaptación y mitigación del cambio climático.", "clasificacion": "CONCRETO", "pagina": 7}
+      ],
+      "tally": "4 de 4 ítems pasan el test de concreción",
+      "nota": null
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {"numero": 9, "nombre": "Integración económica", "certeza": "Alta"},
+    "transformacion_secundaria": {"numero": 6, "nombre": "Sostenibilidad ambiental", "certeza": "Alta"},
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la tensión entre compromisos climáticos crecientes de los Estados CARICOM y la ausencia de un mecanismo regional de mercado capaz de financiar y verificar reducciones de emisiones. Su contradicción central no es solo ambiental: consiste en coordinar mercados, reglas y responsabilidades nacionales para que una subregión de bajas emisiones pueda actuar colectivamente sin imponer un diseño uniforme inviable.",
+      "filtro_categoria_primaria": "La transformación primaria es la integración económica porque el objeto del documento es diseñar un mercado regional común de permisos de emisión: define su escala regional o nacional, reglas compartidas, topes coordinados, asignación, subastas, reserva y formación de precios. La sostenibilidad ambiental es la finalidad y restricción climática del instrumento, pero no desplaza al mecanismo de integración que estructura la pregunta y las recomendaciones; por eso se descarta #6 como primaria.",
+      "secundaria_obligatoria": "La sostenibilidad ambiental es la secundaria porque da la finalidad sustantiva al mercado: reducir GHG, cumplir NDC y financiar adaptación y mitigación. También determina el alcance sectorial, los gases cubiertos, el tope de emisiones y el sistema MRV, aunque esas decisiones se instrumenten mediante coordinación regional.",
+      "justificacion_anti_copia": "La clasificación se apoya en tres rasgos propios: la decisión entre ETS regional o nacional debe surgir de una reunión de los Jefes de Gobierno de CARICOM; el diseño contempla topes regionales y nacionales para 2030 y 2050 que se actualizan con las NDC; y el mecanismo de mercado combina asignaciones gratuitas, subastas, reserva de permisos y un modelo de pronóstico de precios. La encuesta al sector privado y el piloto muestran además que la integración propuesta es institucional y experimental, no una mera mención de comercio.",
+      "validacion_anclas": "Se contrasta con el ancla #13, Comercio, cambio climático y el impuesto fronterizo al carbono, que también asigna #9 como primaria cuando una regulación o mecanismo comercial organiza la pregunta y la agenda climática. Este documento se parece en que el instrumento de mercado regional ordena el análisis y las recomendaciones, pero se diferencia porque construye un mercado intrarregional nuevo para CARICOM —con reglas, topes y regulador— en vez de responder a una regulación comercial externa; la sostenibilidad ambiental queda, como en el ancla, como finalidad secundaria."
+    },
+    "tipo_documento_climatico": "Policy Brief sobre diseño de política climática y mercado de emisiones",
+    "nivel_aplicacion": "Regional/subregional: Estados miembros de CARICOM",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

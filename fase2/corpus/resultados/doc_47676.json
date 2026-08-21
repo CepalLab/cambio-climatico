@@ -1,0 +1,251 @@
+{
+  "documento": {
+    "num_muestra": 139,
+    "titulo": "Soluciones basadas en la naturaleza: el potencial de la restauración y conservación de bosques para la adaptación al cambio climático en Centroamérica",
+    "autoria": "Joseluis Samaniego; José Eduardo Alatorre; Rafael Van Der Borght",
+    "handle": "https://hdl.handle.net/11362/47676",
+    "simbolo": "LC/TS.2021/136",
+    "isbn": null,
+    "fecha": "2021",
+    "tipo_documento": "Documento de proyecto o estudio técnico",
+    "paginas_cuerpo": 38,
+    "paginas_totales": 48,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿En qué medida la cobertura boscosa y vegetal reduce el impacto económico de las lluvias extremas en la actividad económica local de Centroamérica y qué beneficios tendría restaurarla y conservarla?",
+    "alcance": {
+      "ambito_aplicacion": "Centroamérica; seis países: Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua y Panamá",
+      "referentes_dependencias": "NOAA/NCEI, NOAA CDR/CMORPH, NASA/MODIS, Banco Mundial y literatura hidrológica y económica internacional",
+      "sectorial": "Adaptación al cambio climático, bosques y vegetación, lluvias extremas, inundaciones y actividad económica local",
+      "temporal": "2013-2019; proyecciones climáticas para la segunda mitad del siglo"
+    },
+    "hallazgos_principales": [
+      "Las lluvias extremas provocaron pérdidas regionales estimadas entre -1,9% y -2,4% del PIB por año en promedio durante 2013-2019 (p. 11).",
+      "El panel combina más de 71.000 observaciones de 854 píxeles durante 2013-2019 y encuentra efectos negativos y estadísticamente significativos de las lluvias extremas sobre la actividad económica local medida por luces nocturnas (p. 28).",
+      "Un mes de lluvias extremas severas reduce aproximadamente 4,1% las luces nocturnas; el efecto persiste un mes y no resulta significativo al segundo mes (p. 29).",
+      "La interacción entre el índice de lluvias extremas y el NDVI indica que el impacto marginal disminuye cuando aumenta la cobertura boscosa; con NDVI cercano a 0, una unidad adicional del índice reduce cerca de 10% los NTL, mientras el efecto deja de ser significativo por encima de NDVI 7,7 (pp. 34-35).",
+      "La simulación de rehabilitación de zonas deforestadas y reverdecimiento urbano eleva 4% el NDVI regional promedio y estima una reducción de 50% del impacto económico, un ahorro cercano a 1% del PIB anual o casi US$2.000 millones constantes de 2010 (p. 37)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La evidencia empírica sostiene que una mayor cobertura boscosa reduce significativamente el impacto económico de lluvias extremas en Centroamérica, aunque el análisis identifica correlaciones y no afirma causalidad del NDVI (pp. 34, 39).",
+        "La conservación y restauración de bosques funciona como estrategia de adaptación con beneficios económicos cuantificables y complementa la reducción de vulnerabilidad con captura de carbono y protección de biodiversidad (pp. 39-40)."
+      ],
+      "recomendaciones": [
+        "Priorizar políticas de conservación y restauración en las principales cuencas hidrográficas y acciones de reverdecimiento en ciudades (p. 40).",
+        "Incorporar soluciones basadas en la naturaleza al actualizar las NDC y establecer estrategias climáticas de largo plazo (p. 40).",
+        "Diseñar las políticas de forma participativa, considerando realidades socioeconómicas y características físicas y topográficas para identificar y priorizar zonas de conservación y reforestación (p. 40)."
+      ],
+      "nota": "Las recomendaciones son consideraciones de política pública del cierre; el estudio no prescribe una medida única para cada píxel y advierte que la simulación es regional (p. 36)."
+    },
+    "resumen_narrativo": "El estudio estima, mediante un panel de luces nocturnas, lluvias satelitales y NDVI, cuánto afectan las lluvias extremas a la actividad económica local de seis países centroamericanos. Entre 2013 y 2019, el impacto regional promedio se ubicó entre 1,9% y 2,4% del PIB anual, con pérdidas particularmente altas en Nicaragua y Honduras. La interacción econométrica muestra que los bosques amortiguan ese impacto y que una política simulada de restauración, conservación y reverdecimiento urbano que elevara 4% el NDVI regional habría reducido las pérdidas a la mitad. El cierre traduce ese resultado en una agenda de adaptación para cuencas y ciudades, articulada con NDC, estrategias de largo plazo y participación territorial."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "9-11",
+      "resumen": "La introducción define las soluciones basadas en la naturaleza como intervenciones respaldadas por ecosistemas que combinan beneficios ambientales, sociales y económicos, y presenta la restauración y conservación de bosques como mecanismo de adaptación. Sitúa la pregunta en seis países centroamericanos y en el período 2013-2019, con lluvias extremas, actividad económica local y cobertura vegetal como variables centrales. Vincula el problema con empleo, turismo sostenible, gestión forestal, recursos medicinales, urbanización expuesta, deforestación y brechas de pobreza; además anticipa que un NDVI regional 4% mayor habría reducido a la mitad el impacto económico (pp. 9-11).",
+      "dimensiones": [
+        {"dimension": "diagnostico_estructural", "cita": "Sin medidas para revertir estas tendencias, la combinación de estas brechas estructurales con las nuevas tendencias climáticas resultará en mayores y más frecuentes impactos económicos asociados a inundaciones.", "pagina": 10},
+        {"dimension": "propuestas_politica", "cita": "Ante esta realidad, la política pública puede instrumentar transformaciones estructurales fundamentales al actual estilo de desarrollo centroamericano que incluyen, además de una estrategia de precios (i.e. impuestos y subsidios, precios relativos etc.), impulsar nuevas regulaciones y promover soluciones basadas en la naturaleza e innovaciones tecnológicas verdes.", "pagina": 10},
+        {"dimension": "oportunidades", "cita": "Finalmente, una política pública de conservación y restauración de bosques articulada con una estrategia de desarrollo sostenible más amplia genera nuevos empleos y potencia sectores intensivos en mano de obra como, por ejemplo, el turismo sostenible, la gestión forestal sostenible o la valorización de los recursos medicinales y genéticos (ILO-WWF, 2020).", "pagina": 10}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Aspectos metodológicos y literatura existente",
+      "nivel": 1,
+      "paginas": "13-14",
+      "resumen": "Esta sección resuelve dos problemas de medición: la endogeneidad de los daños ex post y el sesgo de agregación de usar PIB nacional para fenómenos locales. Sustituye esos datos por un proxy espacial de actividad económica basado en luces nocturnas y por observaciones físicas de lluvia, y explica los mecanismos hidrológicos por los que las raíces, la infiltración y la materia orgánica reducen escorrentía, erosión e inundaciones. El argumento delimita que se estima un efecto sobre el flujo de producción, no daños directos a activos, y aporta como referencias que la replantación puede multiplicar por 67 la absorción de agua del suelo y que la reforestación puede reducir cerca de 50% los picos de inundación (pp. 13-14).",
+      "dimensiones": [
+        {"dimension": "diagnostico_estructural", "cita": "Sin embargo, este enfoque es problemático, ya que los datos sobre el impacto de los desastres son, por esencia, una variable endógena", "pagina": 13},
+        {"dimension": "propuestas_politica", "cita": "Para afrentar estos problemas, este estudio plantea una metodología alternativa: usar las imágenes satelitales de luces nocturnas como un proxy para la actividad económica local.", "pagina": 13},
+        {"dimension": "estado_de_situacion", "cita": "En su conjunto estos factores reducen la escorrentía, al menos hasta que el suelo se sature, limitan la erosión e, in fine, reducen la probabilidad de que las lluvias extremas se conviertan en inundaciones.", "pagina": 14}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "II. Observaciones de la Tierra para Centroamérica",
+      "nivel": 1,
+      "paginas": "15-25",
+      "resumen": "El capítulo presenta la arquitectura de datos del estudio: luces nocturnas VIIRS para actividad económica, lluvias CMORPH para extremos y NDVI de MODIS para cobertura vegetal. Las subsecciones describen la resolución espacial, los procedimientos de agregación y la construcción del índice de lluvias extremas, que usa Z-scores y un umbral de cuatro desviaciones mensuales para aproximar meses con mayor probabilidad de inundación. El padre organiza la evidencia que luego alimenta los modelos de impacto y de interacción con bosques.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Las luces nocturnas y la actividad económica",
+          "nivel": 2,
+      "paginas": "15-18",
+          "resumen": "La subsección justifica VIIRS como proxy de actividad económica local y calibra su relación con PIB mediante 189 observaciones país-año, un coeficiente β estimado en 189,4 y R² de 0,88. También contrasta la caída espacial e intensiva de las luces en San José durante las lluvias asociadas al huracán Nate y otros episodios de inundación, estableciendo la utilidad empírica del indicador para el resto del análisis.",
+          "dimensiones": [{"dimension": "estado_de_situacion", "cita": "Esta comparación confirma una clara disminución tanto en la extensión espacial como en la intensidad de los NTL.", "pagina": 18}],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Régimen de lluvia y lluvias extremas",
+          "nivel": 2,
+      "paginas": "19-23",
+          "resumen": "La subsección construye el indicador climático con CMORPH a una resolución de 0,25 grados y observaciones diarias para casi 900 píxeles durante 2013-2019. Distingue el corredor seco, el istmo panameño y la estacionalidad regional, y define la extrema mediante Z-score por píxel y mes: valores sobre 1 representan aproximadamente el 10% de días inusuales y cuatro desviaciones mensuales activan el índice. La medida se interpreta como intensidad y duración de lluvias que elevan la probabilidad de inundación, no como una estimación hidrológica directa.",
+          "dimensiones": [
+            {"dimension": "estado_de_situacion", "cita": "De las más de 1,1 millones de observaciones de días lluviosos que tenemos, más del 10% de ellas están por encima de 1 y solo el 5% por encima de 2 desviaciones estándares.", "pagina": 21},
+            {"dimension": "propuestas_politica", "cita": "Una vez normalizada nuestra serie de días lluviosos, agregamos las observaciones diarias a nivel mensual para construir el índice de lluvias extremas que usaremos en nuestro análisis econométrico.", "pagina": 23}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. La cobertura boscosa y vegetal",
+          "nivel": 2,
+      "paginas": "24-25",
+          "resumen": "La subsección usa NDVI mensual de MODIS/Terra para medir calidad y cantidad de cobertura vegetal, con un valor mayor asociado a mayor cubierta boscosa. Explica la resolución de 0,05 grados, el ajuste a 0,25 grados compatible con lluvias y luces, y la elección del promedio anual para separar la cobertura estructural de la estacionalidad. El cuadro estadístico fija los valores de referencia del análisis: NDVI anual promedio 7,40, índice de lluvias extremas 1,75 y luces nocturnas promedio 1.139,5 por píxel.",
+          "dimensiones": [
+            {"dimension": "estado_de_situacion", "cita": "Medimos aquí el cubierto vegetal usando los datos mensuales del NDVI de MODIS", "pagina": 24},
+            {"dimension": "tendencias", "cita": "Por otro lado, los valores del NDVI exhiben una fuerte tendencia cíclica directamente vinculada a la temporada de lluvia.", "pagina": 24}
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "III. El impacto de las lluvias extremas en la actividad económica",
+      "nivel": 1,
+      "paginas": "27-31",
+      "resumen": "El capítulo estima el efecto de lluvias extremas sobre la actividad local con modelos de panel de efectos fijos, usando 854 píxeles y más de 71.000 observaciones. El marco conceptual anticipa daños a capital e infraestructura y la sección empírica confirma efectos negativos significativos, una caída de 1,2 puntos porcentuales en crecimiento con lluvias medias y de 4,1 puntos con un mes severo. La conversión de NTL a PIB traduce esos efectos a pérdidas regionales de 1,9–2,4% del PIB anual y distingue impacto sobre producción de daños físicos.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Marco conceptual",
+          "nivel": 2,
+      "paginas": "27-28",
+          "resumen": "La subsección formula modelos dinámicos y en nivel con efectos fijos por píxel y mes, rezagos y errores robustos para controlar heterogeneidad no observada, shocks comunes y persistencia temporal. El mecanismo esperado es que las lluvias dañen capital productivo e infraestructura, interrumpan la actividad y reduzcan productividad y producción agregada. La especificación incorpora más de 71.000 observaciones de 854 píxeles en 2013-2019 y permite medir duración y magnitud del impacto.",
+          "dimensiones": [
+            {"dimension": "diagnostico_estructural", "cita": "las lluvias extremas generan daños al capital productivo y la infraestructura, interrumpen la actividad económica.", "pagina": 27},
+            {"dimension": "propuestas_politica", "cita": "El objetivo principal de este análisis es medir el potencial de la cobertura boscosa y vegetal para reducir el impacto de las lluvias extremas en la actividad económica local.", "pagina": 27}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Resultados empíricos",
+          "nivel": 2,
+      "paginas": "28-30",
+          "resumen": "La evidencia encuentra coeficientes negativos y significativos en todas las especificaciones, con pérdidas de crecimiento de 1,2 puntos porcentuales ante lluvias medias y 4,1 puntos ante un mes severo. El efecto persiste un mes, desaparece al segundo y no muestra rebote económico dentro del píxel; las pruebas de robustez mantienen magnitudes similares. La monetización estima una pérdida regional promedio de 1,9–2,4% del PIB anual, con 2017 como máximo y pérdidas relativas cercanas a 7% del PIB en Nicaragua y Honduras.",
+          "dimensiones": [
+            {"dimension": "estado_de_situacion", "cita": "En todos los modelos y con todas las especificaciones encontramos efectos negativos y estadísticamente significativos de las lluvias extremas en la actividad económica local.", "pagina": 28},
+            {"dimension": "tendencias", "cita": "Esto implica que, en promedio, el impacto económico de las lluvias extremas persiste un mes después del shock, pero a los dos meses ya no encontramos impacto significativo", "pagina": 29}
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Cobertura boscosa e impacto diferenciado de las lluvias extremas",
+      "nivel": 1,
+      "paginas": "33-38",
+      "resumen": "El capítulo introduce una interacción entre lluvias extremas y NDVI para probar si la cobertura boscosa modera el daño económico. Los resultados muestran que el coeficiente de interacción es positivo y significativo: el impacto es mayor con baja cobertura y deja de ser significativo cuando el NDVI supera 7,7. La simulación regional combina restauración de zonas deforestadas y reverdecimiento urbano, supone un NDVI 4% mayor y estima una caída de 50% de las pérdidas, pero advierte que la selección concreta de medidas debe ser participativa y territorial.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Resultados empíricos",
+          "nivel": 2,
+      "paginas": "33-35",
+          "resumen": "La subsección estima modelos de interacción con NDVI promedio anual y del período completo, controla efectos fijos y advierte que los resultados deben interpretarse como correlaciones. El término de interacción es positivo y significativo en todos los modelos, de modo que el daño marginal disminuye con mayor cobertura. Con NDVI cercano a 0, una unidad adicional del índice de lluvia reduce cerca de 10% los NTL; el efecto baja hasta dejar de ser significativo sobre NDVI 7,7.",
+          "dimensiones": [
+            {"dimension": "estado_de_situacion", "cita": "Para todos los modelos, el coeficiente asociado al termino de interacción es positivo, altamente significativo y de una magnitud comparable, indicando que el impacto marginal de las lluvias extremas se reduce al aumentar el NDVI.", "pagina": 34},
+            {"dimension": "diagnostico_estructural", "cita": "La magnitud de este impacto económico se va reduciendo conforme aumenta la cobertura boscosa", "pagina": 34}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Impacto potencial de una política de restauración y conservación de bosques",
+          "nivel": 2,
+      "paginas": "35-38",
+          "resumen": "La subsección simula dos líneas de acción: rehabilitar zonas rurales con cobertura muy baja y aumentar vegetación en centros urbanos mediante áreas naturales y soluciones innovadoras. Llevar los píxeles del primer cuartil sobre NDVI 6,9 elevaría 4% el promedio regional; con 5.000 simulaciones, el resultado medio es 50% menos impacto, ahorro de 1% del PIB anual y casi US$2.000 millones. El texto limita el alcance causal de la simulación y exige participación y análisis socioeconómico, físico y topográfico para la implementación.",
+          "dimensiones": [
+            {"dimension": "propuestas_politica", "cita": "Tomando en cuenta lo anterior, simulamos una política de restauración y conservación de bosques a escala centroamericana que se estructure en base a dos tipos de acciones.", "pagina": 36},
+            {"dimension": "oportunidades", "cita": "Esto equivale a unos ahorros regionales potenciales de casi US$2,000 millones al año (en US$ constantes del 2010).", "pagina": 37}
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "V. Conclusiones",
+      "nivel": 1,
+      "paginas": "39-40",
+      "resumen": "El cierre responde que una mayor cobertura boscosa reduce significativamente el impacto económico de lluvias extremas y que la restauración y conservación son una estrategia eficiente de adaptación. Reúne la evidencia del panel satelital, las pérdidas de 1,9–2,4% del PIB, la simulación de NDVI 4% mayor y la reducción a la mitad del impacto, y traduce esos resultados en acciones para cuencas y ciudades. También incorpora la actualización de NDC y estrategias climáticas de largo plazo, captura de carbono, participación y priorización territorial.",
+      "dimensiones": [
+        {"dimension": "estado_de_situacion", "cita": "Nuestros resultados muestran que las lluvias extremas impactaron negativamente la actividad económica de la región.", "pagina": 39},
+        {"dimension": "propuestas_politica", "cita": "En este sentido, las políticas de conservación y/o restauración del bosque en las principales cuencas hidrográficas de la región junto con las acciones de reverdecimiento de las ciudades son de suma importancia para asegurar la sostenibilidad del desarrollo centroamericano en las próximas décadas.", "pagina": 40},
+        {"dimension": "oportunidades", "cita": "la política pública de conservación y/o restauración de la cobertura boscosa se convierte en una acción integral por la cual, además de la valorizar el patrimonio natural y la biodiversidad del país, se promueve la adaptación al cambio climático mediante una reducción de la vulnerabilidad a lluvias extremas y, a la vez, se contribuye a la mitigación del cambio climático a través de una mayor captura del carbono en los suelos de las zonas reforestados y/o conservadas.", "pagina": 40}
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento sí propone una política regional con dos líneas coordinadas —rehabilitación de zonas deforestadas y reverdecimiento urbano— y nombra sectores/ámbitos concretos como cuencas, ciudades y bosques. Sin embargo, su contribución principal es un estudio técnico y una simulación, no un paquete masivo de inversión y políticas para transformar el modelo de desarrollo; tampoco desarrolla de manera suficiente las tres eficiencias del Big Push. Pasa el test sectorial, pero no el de escala de paquete coordinado.",
+      "citas": [
+        {"cita": "Tomando en cuenta lo anterior, simulamos una política de restauración y conservación de bosques a escala centroamericana que se estructure en base a dos tipos de acciones.", "pagina": 36},
+        {"cita": "Una primera dimensión se enfoca en rehabilitar zonas con cubierto boscoso muy bajo.", "pagina": 36},
+        {"cita": "La segunda dimensión de esta política estriba en aumentar la cobertura vegetal de las zonas con un NDVI promedio alrededor de 6 y con una alta luminosidad nocturna.", "pagina": 36}
+      ],
+      "nota": "Es un estudio técnico de impacto y simulación: el veredicto Parcial no equivale a una propuesta autónoma de transformación productiva a escala del modelo."
+    },
+    "articulacion_actores": {
+      "veredicto": "Parcial",
+      "evidencia": "El texto identifica sociedad civil, sector privado, academia y comunidades indígenas y exige elaboración participativa, pero no nombra una plataforma, consejo, plan o mecanismo institucional vigente de coordinación dentro del ámbito centroamericano. La articulación queda formulada como condición de diseño y coalición de actores, no como mecanismo concreto ya establecido o explícitamente propuesto con nombre propio.",
+      "citas": [
+        {"cita": "Lo anterior es clave para coordinar grupos de intereses diversos, incluyendo la sociedad civil, el sector privado, la academia y las comunidades indígenas, y así estructurar una amplia coalición de actores.", "pagina": 10},
+        {"cita": "Para ser exitosas y duraderas las políticas de reverdecimiento y/o reforestación tienen que ser elaboradas de manera participativa y basarse en el análisis de las realidades socioeconómicas y las características físicas y topográficas de los territorios de interés.", "pagina": 36}
+      ],
+      "nota": "Los actores y la participación son específicos, pero la evidencia no identifica un mecanismo con nombre propio."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento enumera actividades concretas —turismo sostenible, gestión forestal sostenible y valorización de recursos medicinales y genéticos— y desarrolla beneficios económicos cuantificados de la restauración mediante pérdidas evitadas y ahorros de casi US$2.000 millones anuales. No obstante, el vínculo productivo-laboral se desarrolla principalmente en la introducción y la cuantificación posterior se refiere a adaptación y actividad económica, sin una agenda sectorial desarrollada de empleo, productividad o desigualdad. La clasificación restrictiva es Parcial, no Sí.",
+      "citas": [
+        {"cita": "genera nuevos empleos y potencia sectores intensivos en mano de obra como, por ejemplo, el turismo sostenible, la gestión forestal sostenible o la valorización de los recursos medicinales y genéticos", "pagina": 10},
+        {"cita": "Esto equivale a unos ahorros regionales potenciales de casi US$2,000 millones al año (en US$ constantes del 2010).", "pagina": 37}
+      ],
+      "desglose_items": [
+        {"item": "turismo sostenible", "clasificacion": "CONCRETO", "pagina": 10},
+        {"item": "gestión forestal sostenible", "clasificacion": "CONCRETO", "pagina": 10},
+        {"item": "valorización de los recursos medicinales y genéticos", "clasificacion": "CONCRETO", "pagina": 10}
+      ],
+      "tally": "3 de 3 actividades concretas enumeradas; vínculo productivo-laboral desarrollado de forma limitada",
+      "nota": "La enumeración existe, pero el documento no desarrolla una agenda productiva completa con empleo, productividad o desigualdad como mecanismo central."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "La sección de conclusiones formula un cierre normativo con tres unidades de acción distinguibles. Dos son concretas porque nombran ámbitos e instrumentos de política —cuencas hidrográficas, reverdecimiento urbano, NDC y estrategias climáticas—; la tercera establece criterios participativos y territoriales, pero no identifica un entregable, responsable, plazo o métrica. La mayoría no es suficientemente operativa para Sí, aunque existe una agenda de acción propia y trazable.",
+      "citas": [
+        {"cita": "las políticas de conservación y/o restauración del bosque en las principales cuencas hidrográficas de la región junto con las acciones de reverdecimiento de las ciudades", "pagina": 40},
+        {"cita": "A la hora de actualizar la Contribución Nacionalmente Determinada (NDC por sus siglas en inglés) y establecer la Estrategia climática a largo plazo del país, este análisis también puede ser usado para estructurar soluciones basadas en la naturaleza.", "pagina": 40},
+        {"cita": "tienen que ser elaboradas de manera participativas y analizando las realidades socioeconómicas y las características físicas y topográficas de las zonas de interés.", "pagina": 40}
+      ],
+      "desglose_items": [
+        {"item": "Conservar y restaurar bosques en las principales cuencas hidrográficas junto con acciones de reverdecimiento de las ciudades.", "clasificacion": "CONCRETO", "pagina": 40},
+        {"item": "Usar el análisis para estructurar soluciones basadas en la naturaleza al actualizar la NDC y establecer la estrategia climática de largo plazo.", "clasificacion": "CONCRETO", "pagina": 40},
+        {"item": "Elaborar políticas de conservación y reforestación de manera participativa y con análisis socioeconómico, físico y topográfico.", "clasificacion": "GENERICO", "pagina": 40}
+      ],
+      "tally": "2 de 3 ítems pasan el test de concreción",
+      "nota": "Unidad seleccionada: cierre normativo de la sección V; no se contaron la simulación ni los métodos como recomendaciones."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {"numero": 6, "nombre": "Sostenibilidad ambiental", "certeza": "Alta"},
+    "transformacion_secundaria": {"numero": 11, "nombre": "Capacidades del Estado", "certeza": "Media"},
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la tensión entre un estilo de desarrollo que expone actividad económica, ciudades y cuencas a lluvias extremas y la necesidad de conservar/restaurar ecosistemas para sostener adaptación y producción. La econometría convierte esa contradicción en una relación medible entre NDVI, lluvias y luces nocturnas, y el cierre la traduce en decisiones públicas para bosques, ciudades y cuencas.",
+      "filtro_categoria_primaria": "La transformación principal es ambiental porque el objeto del estudio es cuantificar cómo la cobertura boscosa modera el impacto climático y evaluar una política de restauración y conservación. Se descarta #11 como primaria: los datos satelitales, el modelo de efectos fijos y la actualización de NDC son medios de análisis y ejecución, no el objeto institucional que el documento busca transformar.",
+      "secundaria_obligatoria": "#11 Capacidades del Estado cumple una función habilitadora: el documento requiere política pública, actualización de NDC, estrategias climáticas de largo plazo, priorización territorial y diseño participativo para convertir el beneficio ecológico medido en acción pública durable. La secundaria no sustituye al objeto ambiental, sino que explica la capacidad de planificación y coordinación necesaria para implementarlo.",
+      "justificacion_anti_copia": "La clasificación se apoya en rasgos propios: el uso combinado de VIIRS, CMORPH y MODIS/NDVI; el panel de más de 71.000 observaciones con efectos fijos por píxel y mes; y la simulación que lleva el NDVI regional 4% arriba para estimar una reducción de 50% del impacto y casi US$2.000 millones de ahorro anual. También es distintivo que el cierre vincule cuencas hidrográficas, reverdecimiento urbano, NDC y captura de carbono.",
+      "validacion_anclas": "La decisión se alinea con el ancla #20, Impactos económicos del cambio climático en Colombia. Síntesis, porque en ambos casos la vulnerabilidad/impacto climático y la adaptación sectorial son el objeto, mientras información y planificación estatal funcionan como medios. Se diferencia de las anclas #8 y #12 de gobernanza hídrica/climática, donde la arquitectura institucional es el objeto metodológico; aquí la prueba econométrica y el hallazgo de cierre se concentran en la función protectora de los bosques y en la adaptación."
+    },
+    "tipo_documento_climatico": "Documento de proyecto o estudio técnico de impacto climático y adaptación basada en ecosistemas",
+    "nivel_aplicacion": "Regional (Centroamérica) y subnacional/territorial (píxeles, ciudades y cuencas hidrográficas)",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

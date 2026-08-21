@@ -1,0 +1,2 @@
+# 39149 — extracción parcial 2
+Procesa solo `11362/39149`, páginas 101–179 de `corpus/intermedios/11362/39149/tramos_endpoint/`. No descargues ni uses ledger/resultados. Lee esquema, codebook y directriz. Crea `corpus/intermedios/11362/39149/parcial_101_179.json` con secciones, dimensiones y citas literales/página de este tramo; no definas tipología ni interpelación final. Valida citas contra el manifest.

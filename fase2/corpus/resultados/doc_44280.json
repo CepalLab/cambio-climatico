@@ -1,0 +1,274 @@
+{
+  "documento": {
+    "num_muestra": 82,
+    "titulo": "Estimación del impacto del cambio climático sobre los principales cultivos de 14 países del Caribe",
+    "autoria": "Alejandro López-Feldman, Juan Manuel Torres y George Kerrigan Richard",
+    "handle": "https://hdl.handle.net/11362/44280",
+    "simbolo": "LC/TS.2018/100",
+    "isbn": "978-92-5-130782-3",
+    "fecha": "2018-12",
+    "tipo_documento": "Estudio técnico",
+    "paginas_cuerpo": 44,
+    "paginas_totales": 81,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cuál es el impacto potencial de las variaciones en temperatura y precipitación proyectadas al año 2050 sobre los rendimientos de los principales grupos de cultivos en 14 países del Caribe?",
+    "alcance": {
+      "ambito_aplicacion": "14 países del Caribe (Antigua y Barbuda, Bahamas, Barbados, Belice, Dominica, Granada, Guyana, Haití, Jamaica, Saint Kitts y Nevis, Santa Lucía, San Vicente y las Granadinas, Suriname, y Trinidad y Tabago)",
+      "referentes_dependencias": "FAO, CIMMyT, CARICOM, CCCCC",
+      "sectorial": "Agrícola (granos y cereales, cultivos primarios, frutales, oleaginosas, legumbres, raíces y tubérculos, vegetales)",
+      "temporal": "Histórico (1961-2014) y prospectivo (al año 2050)"
+    },
+    "hallazgos_principales": [
+      "A nivel regional, se estima una disminución del 7% en la producción agrícola agregada para el año 2050 en comparación con el promedio histórico 1961-2014 (p. 43).",
+      "El grupo de frutales sería el más afectado con una caída proyectada del 24,3% a nivel regional (p. 43).",
+      "Dominica se identifica como el país más vulnerable, con pérdidas potenciales críticas en vegetales (-81%), raíces y tubérculos (-51%) y legumbres (-42%) (p. 49).",
+      "Algunos grupos de cultivos podrían experimentar efectos positivos: las oleaginosas (+15,2%) y los granos y cereales (+10,9%) muestran incrementos potenciales en la producción regional (p. 47).",
+      "La superficie agrícola cosechada en la región aumentó de 1,77 millones de ha (pre-2004) a 2,1 millones de ha (post-2004), impulsada principalmente por Haití y países continentales (p. 12)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El cambio climático representa una amenaza significativa para la seguridad alimentaria y la estabilidad económica del Caribe debido a la alta dependencia del sector agrícola (p. 49).",
+        "Los impactos son heterogéneos y dependen de la sensibilidad específica de cada cultivo y de las proyecciones climáticas locales (p. 49).",
+        "La exclusión de eventos climáticos extremos en el modelo implica que los resultados actuales subestiman el riesgo real de pérdidas para la región (p. 43)."
+      ],
+      "recomendaciones": [
+        "Es urgente instrumentar procesos de adaptación al cambio climático que minimicen los efectos negativos directos y colaterales (p. 43).",
+        "Promover una agenda de adaptación y mitigación transversal que se integre in los planes nacionales de desarrollo y gestión de riesgos (p. 49).",
+        "Incrementar la inversión en la generación y sistematización de información científica (económica, climática y de cultivos) para mejorar la precisión de las evaluaciones de impacto (p. 50)."
+      ],
+      "nota": "El estudio subraya que los resultados son una primera aproximación y deben considerarse como una línea base ante la inacción."
+    },
+    "resumen_narrativo": "Este estudio técnico evalúa la vulnerabilidad del sector agrícola en 14 países del Caribe frente a las variaciones climáticas proyectadas para 2050. Mediante modelos de función de producción econométricos basados en datos históricos (1961-2014), estima que la región enfrentará una caída agregada del 7% en la producción agrícola, con impactos severos en frutales (-24,3%) y en países específicos como Dominica. Aunque se identifican oportunidades potenciales en oleaginosas y granos, la alta incertidumbre y la frecuencia de eventos extremos exigen una respuesta de política pública centrada en la adaptación transversal y el fortalecimiento de la infraestructura de información científica para asegurar la resiliencia rural."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "9-10",
+      "resumen": "Establece que el clima es un determinante crítico de la productividad agrícola y que el cambio climático afectará negativamente al crecimiento económico y la seguridad alimentaria en el Caribe. Justifica la necesidad del estudio ante el vacío de información específica para esta región, buscando contribuir al diseño de políticas públicas basadas en evidencia científica y modelación econométrica para reducir la incertidumbre en la toma de decisiones estratégicas a largo plazo.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "persiste, para esta región, un fuerte vacío de información y análisis sobre los impactos potenciales del cambio climático en la agricultura. Este trabajo busca contribuir a cerrar dicha brecha de información.",
+          "pagina": 9
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Datos y cultivos seleccionados",
+      "nivel": 1,
+      "paginas": "11-22",
+      "resumen": "Describe las fuentes de datos (FAOSTAT y CIMMyT) y la metodología de agrupación de cultivos. Analiza las características climáticas regionales, subrayando la variabilidad de las precipitaciones y el aumento tendencial de las temperaturas. Documenta la evolución de la superficie cosechada, que creció un 18% regionalmente, impulsada por países de gran extensión territorial mientras las islas pequeñas muestran procesos de diversificación o abandono de tierras agrícolas. Este diagnóstico estructural permite entender las asimetrías productivas que condicionarán la respuesta al cambio climático en los próximos años.",
+      "dimensiones": [
+        {
+          "dimension": "tendencias",
+          "cita": "La superficie agrícola cosechada de la región ha aumentado considerablemente en los últimos años como se puede apreciar en el gráfico 1, junto con un paulatino aumento de los rendimientos por hectárea.",
+          "pagina": 12
+        },
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Haití, país que ha aumentado su superficie cosechada en 64,7% durante el período 1961-2014 y su participación en la región (superficie cosechada) ha pasado del 61% al 71%",
+          "pagina": 13
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Características climáticas de la región",
+          "nivel": 2,
+          "paginas": "12-12",
+          "resumen": "Presenta el perfil climatológico del Caribe, caracterizado por una marcada estacionalidad de lluvias y una alta exposición a eventos hidrometeorológicos extremos como huracanes y tormentas. Se observa que mientras las precipitaciones varían drásticamente entre países, las temperaturas muestran un comportamiento más homogéneo en su ascenso, afectando la humedad del suelo y los ciclos de crecimiento. Dominica destaca por su extrema pluviosidad y temperaturas significativamente menores que el promedio regional.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "las temperaturas promedio (máxima y mínima) son menos afectadas por eventos extremos y como se puede observar en el cuadro 2, presentan muy poca variación entre los 14 países analizados.",
+              "pagina": 12
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Análisis de los cultivos estudiados",
+          "nivel": 2,
+          "paginas": "12-22",
+          "resumen": "Examina la canasta de cultivos regionales, donde predominan el maíz, el arroz y el sorgo en granos, y la caña de azúcar y el café en primarios. Analiza la diversificación agrícola como un mecanismo endógeno de resiliencia frente a la incertidumbre climática. El estudio revela que los rendimientos por hectárea han mejorado paulatinamente gracias a la tecnificación parcial, aunque persisten brechas tecnológicas significativas entre países que limitan la competitividad del bloque frente a mercados globales y choques ambientales recurrentes que amenazan los medios de vida rurales. Se destaca que la especialización productiva varía drásticamente entre las naciones continentales y las insulares, lo que exige estrategias de adaptación diferenciadas y localizadas para cada contexto agroecológico. Asimismo, se documenta que la composición de los grupos de cultivos ha cambiado históricamente para ajustarse a las demandas de exportación y consumo interno.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "La diversificación de cultivos suele ser una estrategia para contrarrestar los efectos de un ambiente con mayor riesgo para la agricultura.",
+              "pagina": 18
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "II. Modelo para la estimación de los impactos de las variables climáticas sobre los rendimientos",
+      "nivel": 1,
+      "paginas": "23-34",
+      "resumen": "Detalla la arquitectura metodológica del estudio, justificando el uso de modelos de función de producción econométricos (MCO) debido a la escasez de datos detallados sobre el valor de la tierra requeridos por los modelos Ricardianos. Explica cómo se capturan las relaciones no lineales entre el clima y la productividad mediante términos cuadráticos en las ecuaciones de temperatura y precipitación, permitiendo simular escenarios prospectivos basados en proyecciones climáticas regionales específicas. Se enfatiza la importancia de contar con series históricas robustas para validar los coeficientes de elasticidad climática.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Lamentablemente la información disponible para los países del Caribe es aún limitada y por lo tanto en este estudio las estimaciones econométricas se limitan a usar especificaciones cercanas a los modelos de función producción.",
+          "pagina": 28
+        },
+        {
+          "dimension": "tendencias",
+          "cita": "Los elevados coeficientes de determinación se deben a la estrecha asociación entre rendimientos y superficial cosechada",
+          "pagina": 28
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Resultados de las estimaciones econométricas para cada uno de los grupos de cultivos",
+          "nivel": 2,
+          "paginas": "29-34",
+          "resumen": "Sintetiza los parámetros y coeficientes de regresión obtenidos para cada país y grupo de cultivo tras la modelación estadística. Los resultados muestran una heterogeneidad marcada: mientras algunos rubros muestran resiliencia, otros operan ya cerca de sus límites de tolerancia térmica crítica. Estos parámetros permiten predecir cómo cambiará la oferta alimentaria regional ante el incremento de 2.5 grados proyectado para 2050, proporcionando una base cuantitativa indispensable para priorizar las inversiones en adaptación tecnológica, cambio de variedades y gestión hídrica eficiente.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "A. Resultados de las estimaciones econométricas para cada uno de los grupos de cultivos",
+              "pagina": 29
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "III. Impactos de las proyecciones de las variables climáticas",
+      "nivel": 1,
+      "paginas": "35-46",
+      "resumen": "Expone los hallazgos centrales de las simulaciones al año 2050 para los 14 países del Caribe. Proyecta una reducción regional del 7% en la producción total, con los frutales sufriendo la mayor degradación productiva (-24,3%). En contraste, las oleaginosas y granos podrían experimentar incrementos, sugiriendo una necesaria reconfiguración de las cadenas de valor y de la especialización agrícola. El capítulo recalca que estas cifras son conservadoras ya que los modelos MCO no capturan la destrucción física de activos por huracanes, lo que implica que el riesgo financiero para el sector es sustancialmente mayor al estimado. Además, se identifica una marcada asimetría nacional, donde países como Dominica enfrentan riesgos de colapso productivo en categorías esenciales como vegetales y legumbres, amenazando directamente su estabilidad social y económica. Estos resultados subrayan la necesidad de integrar proyecciones climáticas en los planes de inversión agrícola.",
+      "dimensiones": [
+        {
+          "dimension": "oportunidades",
+          "cita": "Las oleaginosas y los granos y cereales, por su parte, muestran aumentos superiores al 10%.",
+          "pagina": 43
+        },
+        {
+          "dimension": "desafios",
+          "cita": "Estas estimaciones no incluyen los potenciales efectos de eventos climáticos extremos y por tanto estas estimaciones preliminares subestiman los potenciales efectos negativos del cambio climático.",
+          "pagina": 43
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "IV. Conclusiones y comentarios generales",
+      "nivel": 1,
+      "paginas": "47-50",
+      "resumen": "Concluye que el cambio climático es una amenaza existencial para la agricultura caribeña debido a su vulnerabilidad asimétrica y profunda. Dominica emerge como el caso más preocupante regionalmente. Enfatiza que la adaptación debe dejar de ser una medida sectorial aislada para convertirse en un eje transversal de la planificación del desarrollo y la reducción del riesgo de desastres. Se urge a mejorar la transparencia y disponibilidad de datos científicos para permitir monitoreos continuos y ajustes ágiles en las estrategias de resiliencia del sector agrícola ante la crisis climática global.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "A nivel regional hacia el 2050, los impactos esperados del cambio climático agregados para todos los cultivos representan una caída del 7% respecto a la producción promedio del período 1961-2014.",
+          "pagina": 49
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "es relevante el promover una agenda de adaptación y mitigación del cambio transversal que involucre no solamente al sector agrícola sino que forme parte de planes de desarrollo y de gestión de riesgo de desastres.",
+          "pagina": 49
+        },
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "En este sentido, los resultados son una primera aproximación, pero es importante resaltar que estudios más precisos requieren plataformas y modelos no disponibles para todos los países del Caribe",
+          "pagina": 50
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "No",
+      "evidencia": "El documento es un estudio técnico de diagnóstico e impacto econométrico. No propone un paquete coordinado de inversiones productivas masivas ni una transformación sistémica del modelo de desarrollo bajo los criterios del Gran Impulso Ambiental.",
+      "citas": [
+        {
+          "cita": "En este sentido, los resultados son una primera aproximación, pero es importante resaltar que estudios más precisos requieren plataformas y modelos no disponibles para todos los países del Caribe debido a limitaciones de datos económicos, climáticos y de cultivos",
+          "pagina": 50
+        }
+      ],
+      "nota": "El enfoque es exclusivamente analítico y de advertencia de riesgos."
+    },
+    "articulacion_actores": {
+      "veredicto": "Parcial",
+      "evidencia": "Menciona organismos regionales (CARICOM, CCCCC) y la Estrategia Caribeña para la Gestión Integral de Desastres 2014-2024, pero no desarrolla mecanismos de articulación específicos ni operativos dentro del ámbito de los resultados del estudio más allá de menciones institucionales regionales.",
+      "citas": [
+        {
+          "cita": "a nivel regional se están realizando grandes avances para la planificación del desarrollo compatible con el Clima (CCCCC 2014) y para la formulación de la Estrategia Caribeña para la Gestión Integral de Desastres 2014-2024",
+          "pagina": 49
+        }
+      ],
+      "nota": "La mención de actores es contextual, no instrumental para la propuesta del estudio."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "Identifica sectores con potencial beneficio productivo bajo nuevos escenarios climáticos (oleaginosas y granos), pero no vincula estos hallazgos con metas de empleo, productividad sistémica o reducción de la desigualdad de forma desarrollada ni propositiva.",
+      "citas": [
+        {
+          "cita": "encontrándose en algunos casos efectos positivos particularmente en el grupo de oleaginosas y granos y cereales.",
+          "pagina": 50
+        }
+      ],
+      "nota": "Las oportunidades son hallazgos de modelación climática, no propuestas integrales de desarrollo productivo sostenible."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "No",
+      "evidencia": "Las recomendaciones finales son genéricas (promover adaptación, mejorar planes de desarrollo, invertir en información) y carecen de instrumentos, plazos, responsables o métricas identificables para su implementación.",
+      "citas": [
+        {
+          "cita": "es relevante el promover una agenda de adaptación y mitigación del cambio transversal que involucre no solamente al sector agrícola sino que forme parte de planes de desarrollo y de gestión de riesgo de desastres.",
+          "pagina": 49
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Promover una agenda de adaptación y mitigación transversal",
+          "clasificacion": "GENERICO",
+          "pagina": 49
+        },
+        {
+          "item": "Integrar la agricultura en planes de gestión de riesgo de desastres",
+          "clasificacion": "GENERICO",
+          "pagina": 49
+        },
+        {
+          "item": "Invertir en la generación y sistematización de información científica",
+          "clasificacion": "GENERICO",
+          "pagina": 50
+        }
+      ],
+      "tally": "0 de 3 ítems pasan el test de concreción",
+      "nota": "La voz normativa es aspiracional y de nivel marco conceptual."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 1,
+      "nombre": "Desarrollo productivo",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento confronta la fragilidad de la base productiva agrícola caribeña con la inminencia de impactos climáticos adversos que amenazan la seguridad alimentaria y el crecimiento regional.",
+      "filtro_categoria_primaria": "El análisis se centra íntegramente en la sostenibilidad ambiental (modelación de temperatura y precipitación como factores críticos de vulnerabilidad climática).",
+      "secundaria_obligatoria": "El objeto de impacto y campo de aplicación es el desarrollo productivo (rendimientos agrícolas y producción sectorial de diversos grupos de cultivos).",
+      "justificacion_anti_copia": "Utiliza modelos de función de producción econométricos para 14 países del Caribe, identificando asimetrías extremas como el riesgo de colapso en la producción de vegetales en Dominica (-81%).",
+      "validacion_anclas": "Se alinea con el ancla de análisis de impacto sectorial climático, donde el factor ambiental es el motor primario y el sectorial es el receptor del impacto."
+    },
+    "tipo_documento_climatico": "Estudio técnico de impacto",
+    "nivel_aplicacion": "Regional (Caribe)",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

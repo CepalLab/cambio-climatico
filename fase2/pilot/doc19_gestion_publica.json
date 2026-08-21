@@ -978,12 +978,6 @@
               "resumen": "La subsección sostiene que la modalidad multiactor de la Alianza para el Gobierno Abierto puede acelerar la implementación del Acuerdo de París, pero que solo 42 de los 1.378 compromisos de política pública asumidos por los países de la región están orientados explícitamente a la acción climática (Objetivo de Desarrollo Sostenible 13), y presenta ejemplos concretos —la plataforma de datos abiertos sobre cambio climático de la Argentina, el impulso de Chile al Acuerdo de Escazú y el diseño participativo del Plan Nacional de Cambio Climático de Honduras— junto a nueve buenas prácticas replicables de la OGP en transparencia, participación y reforma institucional.",
               "dimensiones": [
                 {
-                  "dimension": "brechas_implementacion",
-                  "cita": "la crisis climática se aborda en 42 de los 1.378 compromisos de acción formulados en los países de América Latina y el Caribe miembros de la Alianza para el Gobierno Abierto",
-                  "pagina": 196,
-                  "subtipo_brecha": "retrospectiva"
-                },
-                {
                   "dimension": "oportunidades",
                   "cita": "el gobierno abierto tiene un enorme potencial para acelerar la acción climática mediante el incremento del acceso a los datos, la transparencia y la participación pública en el desarrollo y la implementación de políticas climáticas",
                   "pagina": 199
@@ -1230,6 +1224,6 @@
     },
     "tipo_documento_climatico": "Informe institucional periódico de diagnóstico de gestión pública (serie Panorama de la Gestión Pública en América Latina y el Caribe), con el cambio climático como lente transversal aplicada a la planificación, el presupuesto, la inversión pública, el monitoreo/evaluación y la modernización del Estado; no es una CDN, un plan climático sectorial ni un estudio de impacto ambiental",
     "nivel_aplicacion": "Regional (33 países de América Latina y el Caribe), con comparación sistemática país por país mediante cuadros de instrumentos, marcos legales e institucionalidad, y ejemplos puntuales de aplicación subnacional (gobiernos locales de la Alianza para el Gobierno Abierto, estado de Guanajuato en México)",
-    "ambiguedad_pendiente_validacion": "Dado que el título del documento declara explícitamente su propósito como \"un Estado preparado para la acción climática\", es defendible leer #6 Sostenibilidad ambiental como primaria (el objetivo final declarado) y #11 Capacidades del Estado como el medio instrumental secundario —el mismo patrón ancla que doc09—. Se prioriza #11 como primaria porque el contenido analítico dominante de las más de 150 páginas de cuerpo del documento describe y mide arquitectura institucional (entes rectores, marcos legales, sistemas de información, índices de servicio civil, marcos de compras públicas) antes que sustancia climática propiamente dicha, y porque el objetivo declarado de \"Estado preparado\" es en sí mismo un objetivo de capacidad institucional. Esta asignación queda pendiente de validación cuando se calibre contra documentos adicionales de la muestra con estructura similar (informes institucionales periódicos con lente climática transversal)."
+    "ambiguedad_pendiente_validacion": null
   }
 }

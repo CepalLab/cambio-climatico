@@ -1,0 +1,1018 @@
+{
+  "documento": {
+    "num_muestra": 78,
+    "titulo": "Café y cambio climático en la República Dominicana: Impactos potenciales y opciones de respuesta",
+    "autoria": "Ramón Bueno, Diana Ramírez y José Fermín Núñez",
+    "handle": "https://hdl.handle.net/11362/44163",
+    "simbolo": "LC/MEX/TS.2018/21",
+    "isbn": null,
+    "fecha": "2018-10",
+    "tipo_documento": "Documento de proyecto o estudio técnico",
+    "paginas_cuerpo": 180,
+    "paginas_totales": 208,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cuáles son los impactos potenciales del cambio climático sobre los rendimientos del café en la República Dominicana bajo diferentes escenarios de emisiones y qué opciones de política y mercado existen para fortalecer la resiliencia y competitividad del sector cafetalero dominicano?",
+    "alcance": {
+      "ambito_aplicacion": "República Dominicana (análisis provincial) y Centroamérica (SICA) como contexto regional.",
+      "referentes_dependencias": "Centroamérica (SICA), Colombia, Costa Rica (mencionados como referentes de buenas prácticas y maquinaria); CEPAL, CAC, INDRHI, ONAMET.",
+      "sectorial": "Agrícola (subsector cafetalero), Ambiental (cambio climático, servicios ecosistémicos), Económico (cadenas de valor, comercio exterior).",
+      "temporal": "Histórico (1980-2016) y prospectivo (escenarios a 2050 y 2070)."
+    },
+    "hallazgos_principales": [
+      "La producción de café en la República Dominicana ha decrecido a una tasa aproximada del 5% anual en las últimas tres décadas (p.15).",
+      "En el RCP 8.5 la temperatura media mensual se incrementaría hasta 1,8 °C in 2070 (p.99).",
+      "Hacia 2070, todas las provincias tendrían decrementos, y el rendimiento promedio bajaría un 36% con variaciones de 2% en Santiago hasta el 90% en Samaná (p.133).",
+      "En el escenario RCP 8,5, este índice bajaría hasta 1,2 hacia al corte de 2070 con una marcada prevalencia de condiciones de aridez similares a las de las zonas más áridas del país (p.15).",
+      "De esta actividad dependen alrededor de 28.224 familias, cerca de 50.000 empleos directos permanentes y más de 70.000 empleos temporales (p.13).",
+      "En 2015 el grado de dependencia de las importaciones para cubrir el consumo nacional fue de 69% (p.32)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El cambio climático es una amenaza existencial para la caficultura dominicana tradicional, especialmente en zonas de baja altitud y costeras.",
+        "La adaptación al cambio climático debe ser inclusiva y sostenible, integrando a los pequeños productores en cadenas de valor de alta calidad.",
+        "La agroforestería cafetalera es una infraestructura verde esencial para la seguridad hídrica y la mitigación de GEI en el país."
+      ],
+      "recomendaciones": [
+        "Implementar la NAMA de Café Bajo en Carbono para reducir emisiones y mejorar la captura de carbono.",
+        "Promover la certificación de origen y sellos de calidad (ej. Café de Valdesia) para capturar sobreprecios internacionales.",
+        "Fomentar la diversificación productiva (ej. transición a cacao) en áreas donde el café dejará de ser apto.",
+        "Fortalecer los sistemas de Pago por Servicios Ambientales (PSA) para compensar a los productores por la conservación de bosques y agua.",
+        "Institucionalizar la red de alerta temprana climática para la gestión de plagas como la roya."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "Este estudio técnico analiza la vulnerabilidad del sector cafetalero en la República Dominicana frente al cambio climático mediante modelado econométrico y análisis institucional. Advierte que, sin medidas de adaptación, los rendimientos nacionales podrían colapsar en más de un tercio hacia 2070, con pérdidas extremas en provincias costeras como Samaná. Propone una estrategia integral basada en la NAMA Café, el fortalecimiento de cooperativas, la diferenciación del producto en mercados especializados y el uso de instrumentos financieros como el PSA para valorizar los servicios ecosistémicos de la agroforestería cafetalera."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "23-24",
+      "resumen": "El sector cafetalero de la República Dominicana atraviesa un periodo de recuperación tras un prolongado estancamiento que ha mermado la rentabilidad y fomentado la migración rural. La variabilidad climática, manifestada en alzas térmicas y alteraciones en la precipitación, genera impactos directos en el cultivo y degrada servicios ecosistémicos vitales como el control de plagas y la regulación hídrica. El estudio busca estimar los efectos del cambio climático en los rendimientos bajo escenarios RCP 4.5 y 8.5, identificando zonas de aptitud futura y proponiendo sinergias entre adaptación y mitigación para proteger el sustento de las familias caficultoras y la biodiversidad nacional.",
+      "dimensiones": [
+        {
+          "dimension": "desafios",
+          "cita": "producción de café en la República Dominicana atraviesa un período de recuperación después de un largo retroceso y estancamiento.",
+          "pagina": 23
+        },
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "Dentro de la Agenda 2030, aprobada por la Asamblea General de las Naciones Unidas en septiembre de 2015, se plantea como décimo tercer Objetivo de Desarrollo Sostenible (ODS) adoptar medidas urgentes para combatir el cambio climático",
+          "pagina": 23
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Contexto económico, producción y rendimientos históricos, comercio y precios",
+      "nivel": 1,
+      "paginas": "25-43",
+      "resumen": "La economía dominicana ha mostrado dinamismo liderado por los servicios, mientras el sector agropecuario ha visto reducida su participación al 6% del PIB. En la caficultura, la superficie sembrada y la producción han caído sostenidamente, transformando al país de exportador histórico a importador neto con un grado de dependencia del 69% en 2015. El comercio mundial se caracteriza por el ascenso de la variedad robusta y una alta volatilidad de precios internacionales. Los pequeños productores dominicanos enfrentan una desigual distribución del ingreso en la cadena de valor, reteniendo menos del 10% del precio final, lo que desincentiva la inversión técnica en las fincas.",
+      "dimensiones": [
+        {
+          "dimension": "tendencias",
+          "cita": "economía dominicana ha crecido significativamente en las últimas décadas. Su mayor crecimiento fue en la década de 1990, con una tasa anual de 6%.",
+          "pagina": 25
+        },
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "en 2015 la producción solamente aportó 34% del consumo aparente, es decir existe una dependencia de 69% del exterior.",
+          "pagina": 39
+        },
+        {
+          "dimension": "desafios",
+          "cita": "volatilidad de los precios tiene consecuencias significativas para los pequeños productores, dificultando que puedan predecir sus ingresos",
+          "pagina": 42
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Producción y rendimiento históricos",
+          "nivel": 2,
+          "paginas": "28-30",
+          "resumen": "La producción cafetalera nacional representa solo el 0,3% del total mundial y ha seguido una tendencia decreciente con un patrón de altibajos. Los rendimientos dominicanos han caído significativamente, situándose en 0,23 t/ha en 2014, muy por debajo de los promedios de Centroamérica (0,78 t/ha) y del mundo (0,84 t/ha). Esta pérdida de productividad se asocia al ciclo vegetativo bienal, pero también a daños por fenómenos climáticos extremos y a la falta de renovación de cafetales envejecidos.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Los rendimientos de la República Dominicana bajaron de 0,36 t/ha en 1980 a 0,16 en 2010, con una recuperación a 0,23 registrado en 2014.",
+              "pagina": 29
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Producción y comercio mundial de café",
+          "nivel": 2,
+          "paginas": "31-39",
+          "resumen": "La producción global es liderada por Brasil y Vietnam, con un crecimiento notable de la variedad robusta. República Dominicana ha perdido competitividad en el mercado estadounidense, donde su participación bajó del 2,1% en los noventa al 0,036% en 2016. El país se ha reorientado hacia el consumo interno, incrementando las importaciones de café verde desde Vietnam, Brasil y Perú. A pesar de tratados como el DR-CAFTA, la exportación nacional enfrenta retos de calidad inconsistente y barreras como la progresividad arancelaria en los países importadores.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "En la década de 1990, el café dominicano representaba el 2,1%, pero en 2016 representó únicamente el 0,036%",
+              "pagina": 37
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Precios",
+          "nivel": 2,
+          "paginas": "40-43",
+          "resumen": "El comercio internacional se basa mayoritariamente en café verde arábica, cuyo precio se fija en la bolsa de Nueva York. La volatilidad de los precios impacta severamente a los pequeños productores, impidiéndoles cubrir costos de producción y reinvertir en el mantenimiento de fincas. En la cadena de valor global, los tostadores y países consumidores retienen el 78% del ingreso total, mientras la proporción ganada por los productores ha caído al 13%. En el ámbito nacional, la alta demanda interna permite precios comparativamente mejores para algunas variedades, pero la dependencia de las cotizaciones internacionales persiste.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "Cuando los precios son bajos, los agricultores no tienen incentivos ni recursos para invertir en el mantenimiento de sus fincas",
+              "pagina": 42
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "II. La producción de café en la República Dominicana",
+      "nivel": 1,
+      "paginas": "44-78",
+      "resumen": "Este capítulo analiza la base técnica, social e institucional de la caficultura dominicana. Predomina la variedad arábica cultivada en sistemas agroforestales que proveen servicios ecosistémicos críticos como la regulación hídrica. El sector enfrenta graves desafíos fitosanitarios, destacando la roya que afectó al 80% de las plantaciones en 2012. La estructura social se caracteriza por el minifundio y la dependencia de mano de obra inmigrante, con altos niveles de pobreza rural. Se describe el marco de políticas regionales y nacionales que buscan modernizar el sector y fortalecer la resiliencia climática mediante la investigación y la asociatividad.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Alrededor del 28% de la extensión cultivada está ubicada en zonas con altitud superior a los 900 msnm, donde se puede producir café de calidad.",
+          "pagina": 53
+        },
+        {
+          "dimension": "desafios",
+          "cita": "En la República Dominicana se calculó que la roya afectó 105.000 hectáreas con una pérdida de 142.600 bultos de 60 kilogramos.",
+          "pagina": 50
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Fenología y variedades",
+          "nivel": 2,
+          "paginas": "44-47",
+          "resumen": "La caficultura dominicana se sustenta en la variedad arábica (typica y caturra), adaptada a altitudes entre 600 y 1,900 msnm. El crecimiento del cafeto es altamente sensible al microclima, requiriendo temperaturas óptimas entre 16 °C y 23 °C y un patrón de lluvias bimodal bien definido. La fase reproductiva abarca unas 32 semanas desde la floración hasta la maduración completa del grano. El alza de temperaturas por encima de los 23 °C acelera la maduración pero reduce la calidad del grano, mientras que el déficit hídrico perjudica el desarrollo vegetativo y la floración.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "En total existen tres variedades de café de explotación comercial a nivel mundial: arábica, robusta y libérica.",
+              "pagina": 44
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "Por encima de 23 °C, el desarrollo y la maduración de los frutos se aceleran, lo que disminuye la calidad.",
+              "pagina": 45
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Enfermedades",
+          "nivel": 2,
+          "paginas": "47-52",
+          "resumen": "Diversos patógenos fungosos amenazan los cafetales, exacerbados por el exceso de humedad y sombra inadecuada. La roya del café (Hemileia vastatrix) es la enfermedad más devastadora, germinando óptimamente entre 20 °C y 25 °C. La epidemia de 2012 causó la pérdida de 105,500 empleos y desplazó a familias hacia actividades más rentables. El cambio climático altera los ciclos de infección al elevar las temperaturas nocturnas, lo que exige estrategias de renovación con híbridos resistentes y el fortalecimiento de sistemas de alerta temprana para mitigar el impacto socioeconómico.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "La roya reapareció en la República Dominicana en 2011, alcanzando niveles de incidencia de hasta 26,20% y severidad de 11,06% en 2013.",
+              "pagina": 50
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "cambio en el patrón del clima durante 2012 pudo causar cambios en la duración de su ciclo de infección en Centroamérica",
+              "pagina": 50
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Sistemas de produccion de café",
+          "nivel": 2,
+          "paginas": "52-55",
+          "resumen": "En el país coexisten sistemas tradicionales de policultivo bajo sombra y sistemas tecnificados de pleno sol. La agroforestería cafetalera es esencial para conservar la humedad, proteger el suelo de la erosión y moderar extremos térmicos. Un gradiente de sombra entre el 35% y 50% maximiza los rendimientos y mejora el sabor del grano en zonas de baja altitud. Aunque los sistemas tecnificados ofrecen mayores rendimientos iniciales, las plantas tienen una vida productiva más corta y requieren mayores insumos químicos, en contraste con la estabilidad ecológica de los policultivos.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "densidad de la sombra debe calcularse en relación con la intensidad de los rayos del sol.",
+              "pagina": 54
+            },
+            {
+              "dimension": "oportunidades",
+              "cita": "rango entre 35% y 50% de sombra da mayores rendimientos y que el rendimiento no es solamente producto del grado de sombra.",
+              "pagina": 54
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. El sector industrial",
+          "nivel": 2,
+          "paginas": "55-59",
+          "resumen": "La estructura agroindustrial se caracteriza por la fragmentación de la producción en minifundios y una marcada concentración en la torrefacción y comercialización final. Históricamente, una sola empresa ha dominado más del 90% del mercado nacional, fijando precios que a menudo no cubren los costos de los pequeños productores. El beneficio del café en fincas es limitado por la falta de infraestructura y acceso a agua. Sin embargo, recientemente se observa un auge de marcas locales y certificaciones de origen que buscan mejorar la participación del productor en la generación de valor agregado.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "78% de los productores poseen fincas menores a tres hectáreas.",
+              "pagina": 56
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "cadena de café en la República Dominicana se caracteriza por una gran concentración en algunos eslabones",
+              "pagina": 56
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "proporción del ingreso total ganado por los productores cayó al 13% y la proporción retenida en los países consumidores aumentó a 78%",
+              "pagina": 55
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Zonas de cultivo de café en la República Dominicana",
+          "nivel": 2,
+          "paginas": "59-60",
+          "resumen": "El cultivo se concentra en las cordilleras Central y Septentrional, y las sierras de Neyba y Bahoruco. La región Central-Sur es la más extensa con 51,635 hectáreas, representando el 44% de la superficie total. Las provincias de Jarabacoa, Ocoa y Barahona destacan por su aptitud para producir café de calidad superior en zonas altas. El mapa cafetalero nacional muestra que las regiones noroeste, nordeste y este tienen un peso menor en la producción y presentan condiciones menos aptas para el cultivo comercial de arábica.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Las regiones productoras más importantes se ubican en las principales zonas montañosas de las cordilleras Septentrional, Central, la Sierra de Neyba y la Sierra de Bahoruco",
+              "pagina": 59
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "F. Contexto social de la producción de café en la República Dominicana",
+          "nivel": 2,
+          "paginas": "60-63",
+          "resumen": "La caficultura involucra a unas 28,224 familias y genera 120,000 empleos directos e indirectos. El 74% de los hogares con menos de tres hectáreas viven en la pobreza, enfrentando barreras como el analfabetismo y la falta de capital de inversión. La mano de obra haitiana es predominante en las labores de recolección en todas las regiones. La baja rentabilidad fomenta el abandono de cafetales y la migración urbana, amenazando la sostenibilidad social de las comunidades de montaña. La diversificación de ingresos es una estrategia común para reducir la vulnerabilidad económica de estas familias.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "74% de los hogares que poseen menos de tres hectáreas son pobres, mientras que el 81% de los hogares que poseen más de 12 hectáreas no lo son.",
+              "pagina": 60
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "la mayor parte de la recolección de café es realizada por mano de obra haitiana que se mueve entre zonas cafetaleras.",
+              "pagina": 60
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "G. Aporte de servicios ecosistémicos de la produccion de café en la República Dominicana",
+          "nivel": 2,
+          "paginas": "63-65",
+          "resumen": "Los sistemas agroforestales de café funcionan como infraestructura verde que protege la biodiversidad y previene la erosión en las cuencas hidrográficas. El policultivo tradicional es el sistema que mayor carbono almacena (42,5 Mg/ha) gracias a la densidad de árboles forestales. La polinización natural en estos sistemas puede incrementar los ingresos netos hasta en un 14% por hectárea. Sin embargo, la tendencia a reducir la sombra para aumentar la productividad de corto plazo conlleva riesgos de deforestación y pérdida de servicios vitales como la regulación del ciclo hídrico y la polinización.",
+          "dimensiones": [
+            {
+              "dimension": "oportunidades",
+              "cita": "policultivos tradicionales tienen las mayores reservas de carbono debido a que su área de siembra contiene la mayor densidad de árboles forestales.",
+              "pagina": 64
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "tendencia a reducir la cobertura de sombra para aumentar la producción conlleva la deforestación y degradación",
+              "pagina": 65
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "H. Contribución de la producción de café al cambio climático",
+          "nivel": 2,
+          "paginas": "65-67",
+          "resumen": "La huella de carbono de la caficultura dominicana se concentra principalmente en la fermentación y gestión de aguas residuales (57%) y en el uso de fertilizantes nitrogenados (35%). Los sistemas de policultivo presentan una huella menor (6,2-7,3 kg CO2e) que los monocultivos sombreados (10,8 kg CO2e). La adopción de beneficios ecológicos y el manejo eficiente de la biomasa orgánica en finca son oportunidades para reducir emisiones. Las empresas globales están comenzando a exigir transparencia climática, lo que abre nichos de mercado para el café dominicano amigable con el clima y con bajas emisiones por kilo producido.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "mayor huella de carbono en todos los sistemas proviene de la fermentación del producto y la generación de aguas residuales (57%)",
+              "pagina": 67
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "huella de carbono de las plantaciones de café en policultivo es más baja que la del monocultivo",
+              "pagina": 66
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "I. Políticas regionales y nacionales",
+          "nivel": 2,
+          "paginas": "68-78",
+          "resumen": "El marco institucional integra estrategias regionales del SICA y la labor de PROMECAFE con normativas nacionales centradas en el INDOCAFE. Se promueve la Agricultura Sostenible Adaptada al Clima (ASAC) para fortalecer la resiliencia del sector. A nivel nacional, la Ley 246-17 centraliza la política cafetalera, priorizando la renovación de cafetales y el combate a la roya mediante el SATCAFE. La República Dominicana busca vincular sus objetivos ambientales con el mercado a través de certificaciones de origen y pagos por servicios ambientales (PSA) para compensar a los productores por la conservación de cuencas.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Este marco puede irse fortaleciendo con instrumentos particulares como mecanismos de incentivos, pagos por servicios ambientales, fomento de la organización",
+              "pagina": 78
+            },
+            {
+              "dimension": "avances_implementacion",
+              "cita": "bajo la Ley N° 246-17, el Poder Ejecutivo creó en 2017 el Instituto Dominicano del Café (el INDOCAFÉ), como entidad autónoma del Estado especializada en el diseño y planificación de la política cafetera.",
+              "pagina": 74
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "1. Políticas regionales",
+              "nivel": 3,
+              "paginas": "68-73",
+              "resumen": "La Política Agrícola Centroamericana (PACA) y la Estrategia de Agricultura Sostenible Adaptada al Clima (EASAC) del SICA son los ejes rectores regionales. PROMECAFE coordina la investigación tecnológica y la respuesta a la roya mediante planes de acción regional. Se impulsa la Agricultura Climáticamente Inteligente (CSA) para armonizar la seguridad alimentaria con la mitigación de GEI. Estas iniciativas facilitan el intercambio de material genético resistente y el fortalecimiento de capacidades técnicas entre los países miembros para enfrentar choques climáticos comunes en la región mesoamericana y caribeña.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Consejo Agropecuario Centroamericano (CAC) del Sistema de Integración Centroamericana (SICA) diseñó la «Política Agrícola Centroamericana» (PACA) 2008-2017",
+                  "pagina": 68
+                },
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "En junio de 2017, los Ministros aprobaron la Estrategia Agricultura Sostenible Adaptada al Clima para la región del SICA: 2018-2030 (EASAC)",
+                  "pagina": 70
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Políticas nacionales",
+              "nivel": 3,
+              "paginas": "73-74",
+              "resumen": "La legislación nacional ha transitado desde los incentivos de exportación de inicios de siglo hasta la consolidación del INDOCAFE como ente rector autónomo en 2017. El marco normativo incluye fondos de compensación para crisis de precios y reglamentaciones para el beneficiado y clasificación del grano. El Plan Estratégico Sectorial 2010-2020 reconoce la importancia de los cafés especializados y propone ejes de competitividad e infraestructura rural. Organizaciones como ADOCAFES y FEDECARES complementan la acción pública facilitando el acceso a certificaciones internacionales de calidad y comercio justo.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Bajo la Ley N° 246-17, el Poder Ejecutivo creó en 2017 el Instituto Dominicano del Café (el INDOCAFÉ)",
+                  "pagina": 74
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Políticas nacionales de combate a enfermedades y plagas",
+              "nivel": 3,
+              "paginas": "74-75",
+              "resumen": "El Estado implementa programas de aspersión y renovación de cafetales con variedades tolerantes a la roya. El Sistema de Alerta Temprana para la Roya del Café (SATCAFE) es una herramienta innovadora que utiliza aplicaciones móviles y parcelas centinela para el monitoreo fito y zoosanitario en tiempo real. Estas acciones buscan dotar a los técnicos y productores de información oportuna para prevenir epidemias catastróficas. El IDIAF lidera la investigación agropecuaria con una estrategia de ocho años enfocada en mejorar la capacidad productiva nacional frente a patógenos fungosos.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "es una herramienta compuesta por una página Web",
+                  "pagina": 75
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Políticas comerciales",
+              "nivel": 3,
+              "paginas": "75-76",
+              "resumen": "La República Dominicana aprovecha acuerdos como el OMC, DR-CAFTA y el AAE con la Unión Europea para facilitar el acceso de su café a mercados globales sin aranceles. Sin embargo, la progresividad arancelaria en los países importadores sigue penalizando el café procesado con mayor valor agregado. El DR-CAFTA impone reglas de origen estrictas que solo protegen el café producido en los países miembros. El país busca contrarrestar estas barreras mediante el fomento de cafés diferenciados y el fortalecimiento de la imagen del café dominicano de alta calidad en nichos especializados internacionales.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "La progresividad arancelaria actúa para disuadir a los países exportadores de procesar su propio café y puede ser un desincentivo para la diversificación",
+                  "pagina": 75
+                },
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "El Tratado de Libre Comercio Centroamérica-Estados Unidos-República Dominicana",
+                  "pagina": 76
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "La progresividad arancelaria actúa para disuadir a los países exportadores de procesar su propio café y puede ser un desincentivo para la diversificación",
+                  "pagina": 75
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Políticas de cambio climático",
+              "nivel": 3,
+              "paginas": "76-78",
+              "resumen": "La gestión climática es un eje transversal coordinado por el CNCCMDL. Instrumentos como el Plan DECCC y el Plan Nacional de Adaptación (PANCC-RD) priorizan la agricultura y la seguridad alimentaria. Se promueve el uso de tecnologías climáticamente inteligentes, seguros agropecuarios para pequeños productores y el mapeo de vulnerabilidad nacional. El país ha registrado una NAMA de Café ante la CMNUCC, enfocada en reducir la intensidad de emisiones y aumentar la resiliencia en finca. Estas políticas buscan armonizar el desarrollo económico con los compromisos internacionales del Acuerdo de París y la END 2030.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "República Dominicana es signataria de la Convención Marco de las Naciones Unidas sobre el Cambio Climático (CMNUCC), y como país de alta vulnerabilidad, ha desarrollado una serie de políticas",
+                  "pagina": 76
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "La República Dominicana es firmante del Acuerdo de París y en 2015 presentó su Contribución Nacional Prevista y Determinada",
+                  "pagina": 78
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "III. Datos climáticos de la República Dominicana",
+      "nivel": 1,
+      "paginas": "79-110",
+      "resumen": "República Dominicana posee un clima tropical influenciado por vientos alisios y una compleja orografía que genera diversos microclimas, desde seco estepario hasta templado húmedo. La precipitación presenta una distribución bimodal anual con picos en mayo y agosto-octubre, interrumpida por una sequía de medio verano (MSD). El análisis histórico (1980-2016) muestra un incremento en las temperaturas medias de hasta 2.5 °C y una variabilidad extrema en la precipitación anual, con mayor incidencia de fenómenos hidrometeorológicos desde la década de 1980.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "los sistemas de presión atmosférica de la región y la variabilidad climática interanual originan gran variedad de microclimas",
+          "pagina": 79
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Eventos climáticos extremos",
+          "nivel": 2,
+          "paginas": "80-83",
+          "resumen": "El país es altamente vulnerable a huracanes, tormentas, inundaciones y sequías, situándose entre los más afectados globalmente según el índice de riesgo climático de Germanwatch. Entre 1930 y 2016 se registraron 59 eventos extremos, con un aumento significativo de tormentas e inundaciones desde 1980. La vulnerabilidad está determinada por factores socioeconómicos de exposición que agravan el impacto de estos fenómenos.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "riesgo está determinado por la concurrencia de factores de exposición y vulnerabilidad, todos de índole socioeconómico",
+              "pagina": 81
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "en la República Dominicana el número de eventos ha aumentado significativamente desde la década de 1980",
+              "pagina": 82
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Base de datos climáticos",
+          "nivel": 2,
+          "paginas": "83-93",
+          "resumen": "Se utilizaron arreglos regulares (mallas) del programa Grid Extractor Dominicana, integrando datos de ONAMET e INDRHI (1979-2016). La metodología de Cressman y el reanálisis MERRA permitieron completar series históricas de precipitación y temperatura. Los datos confirman una tendencia al calentamiento, con incrementos de temperatura promedio en todas las provincias, destacando aumentos de hasta 4 °C en regiones como Independencia y Barahona respecto a la década de 1980. El proceso de interpolación espacial aseguró que incluso las zonas con baja cobertura de estaciones meteorológicas tradicionales tuvieran datos representativos para el modelado econométrico posterior, garantizando la robustez de los hallazgos a nivel nacional. La base de datos resultante constituye el repositorio climático más completo y actualizado para el estudio de impactos sectoriales en la República Dominicana, permitiendo una resolución espacial sin precedentes para el análisis provincial.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Comparando los valores de los períodos 1982-1984 y 2010-2016 hay un incremento de hasta 2,5 °C",
+              "pagina": 89
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Escenarios climáticos a 2050 y 2070",
+          "nivel": 2,
+          "paginas": "94-110",
+          "resumen": "Bajo los escenarios RCP 4.5 y 8.5, se proyecta un aumento de la temperatura de hasta 1.8 °C para 2070 y una disminución de la precipitación acumulada anual. Se prevé que el patrón de lluvias pierda su bimodalidad histórica para tornarse unimodal hacia finales de siglo, con reducciones críticas entre junio y agosto (hasta 30% en 2050). Esto provocará un aumento de la evapotranspiración y de los niveles de aridez en gran parte del territorio nacional. La pérdida de la 'canícula' o sequía de medio verano y la intensificación de los periodos secos plantean desafíos sin precedentes para la agricultura de secano, especialmente en las provincias del suroeste y la línea noroeste del país, donde el balance hídrico se volverá crónicamente deficitario. Estas alteraciones climáticas no solo afectarán la disponibilidad de agua para el riego y el consumo humano, sino que también modificarán profundamente los ciclos biogeoquímicos de los suelos dominicanos, incrementando el riesgo de desertificación en las zonas ya vulnerables.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "El incremento de temperatura previsto provocaría un aumento de la evapotranspiración",
+              "pagina": 108
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "temperatura superior a los 27 °C con niveles de aridez que afectarían la producción agropecuaria, incluyendo el café",
+              "pagina": 108
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Café y cambio climático",
+      "nivel": 1,
+      "paginas": "111-146",
+      "resumen": "La productividad del café es altamente sensible a las variaciones de temperatura y precipitación. Este capítulo estima funciones de producción para identificar impactos potenciales bajo escenarios de cambio climático. Los resultados indican una tendencia a la baja en los rendimientos nacionales si no se aplican medidas de adaptación, afectando de manera diferenciada a las provincias según su altitud y ubicación geográfica.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "la producción agropecuaria, incluyendo la cafetalera, está experimentando los efectos de los cambios en la temperatura y en la variabilidad",
+          "pagina": 111
+        },
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "los resultados deben ser interpretados como escenarios posibles en caso de que no se tomen medidas de adaptación",
+          "pagina": 112
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Metodología",
+          "nivel": 2,
+          "paginas": "111-114",
+          "resumen": "Se emplea el enfoque de funciones de producción para establecer la relación entre rendimientos y factores climáticos, geográficos y socioeconómicos. Debido a la baja variabilidad histórica de los rendimientos solo en República Dominicana, se integró una base de datos regional (SICA + RD) para captar la respuesta del cafeto bajo diversas condiciones climáticas mediante modelos de datos de panel con efectos aleatorios.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "El enfoque de funciones de producción se basa en establecer una relación entre el nivel de producción o rendimiento y los factores que lo determinan",
+              "pagina": 111
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Base de datos",
+          "nivel": 2,
+          "paginas": "114-121",
+          "resumen": "La base de datos incluye 127 provincias de Centroamérica y República Dominicana. Para RD, se utilizaron datos de rendimiento de INDOCAFE (década de 2000), variables geográficas (suelos, altitud) y sociales (alfabetismo). Se destaca que el 92% de la siembra se concentra en la Cordillera Central y las Sierras de Neyba y Bahoruco, predominando los sistemas agroforestales bajo sombra. El análisis integra factores de capital humano, reconociendo que la educación y la asistencia técnica son variables críticas que pueden mitigar parcialmente los efectos negativos del clima al mejorar la capacidad de gestión de las fincas por parte de los productores. La heterogeneidad de los datos permitió capturar las diversas realidades socio-productivas del sector cafetalero, desde los pequeños productores de subsistencia en laderas empinadas hasta las fincas comerciales más tecnificadas en los valles intermontanos.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "predominan los cafetales bajo sombra y los de sistemas agroforestales combinados con café",
+              "pagina": 115
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "un año adicional de estudio se traduce en un aumento del 2,5% de la productividad agrícola",
+              "pagina": 118
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Producción y rendimiento histórico por provincia",
+          "nivel": 2,
+          "paginas": "121-125",
+          "resumen": "La producción dominicana es significativamente menor que la de los grandes productores centroamericanos. Entre 2001-2009, las provincias líderes en RD fueron Santiago, Peravia y Azua. Los rendimientos nacionales son bajos (0.14 - 0.45 t/ha) en comparación con el promedio mundial de 0.8 t/ha, siendo La Vega y Monseñor Nouel las que presentan los mejores niveles relativos dentro del país.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "En la República Dominicana los rendimientos oscilan entre 0,45 t/ha y 0,14 t/ha",
+              "pagina": 124
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Estimación de la función de producción histórica",
+          "nivel": 2,
+          "paginas": "126-129",
+          "resumen": "Los coeficientes estimados muestran que la temperatura de marzo, junio y diciembre tiene efectos marginales negativos sobre los rendimientos en RD. Se identificó una relación cuadrática que sitúa la temperatura óptima de marzo (floración) entre 20 °C y 24 °C. Los suelos tipo II, localizados en márgenes de ríos, son los únicos que muestran una asociación positiva significativa con la productividad.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "En las variables temperatura y precipitación se incluyeron los términos cuadráticos para capturar los efectos no lineales del clima sobre los rendimientos",
+              "pagina": 126
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Escenarios climáticos",
+          "nivel": 2,
+          "paginas": "129-132",
+          "resumen": "Las proyecciones indican una transición hacia un patrón de precipitación unimodal, con una reducción drástica de la lluvia entre junio y noviembre hacia finales de siglo. El aumento de temperatura será generalizado en todos los meses, superando los 1.7 °C en el escenario RCP 8.5 para 2070. Estos cambios impactarán directamente en las fases fenológicas críticas del cafeto, como la floración y el llenado del fruto.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Hacia fines de siglo, el patrón de precipitación se tornaría unimodal",
+              "pagina": 131
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "F. Impactos potenciales sobre los rendimientos de café",
+          "nivel": 2,
+          "paginas": "132-146",
+          "resumen": "Bajo el escenario RCP 4.5, el rendimiento promedio nacional caería un 9% en 2050 y un 17% en 2070. En el escenario RCP 8.5, las caídas serían de 18% y 36% respectivamente. Las provincias costeras y de baja altitud (Samaná, Independencia) sufrirían los mayores decrementos, mientras que la Cordillera Central (La Vega, Monseñor Nouel, Santiago) mantendría mejores condiciones, aunque también con riesgos de reducción de productividad. El modelado sugiere un desplazamiento de las zonas óptimas hacia mayores elevaciones, lo que genera una presión potencial sobre los bosques de montaña y exige políticas de ordenamiento territorial que armonicen la producción cafetalera con la conservación de las cuencas altas y la biodiversidad. Es imperativo que las estrategias de adaptación reconozcan esta zonificación del riesgo para priorizar inversiones en infraestructura resiliente y programas de reconversión productiva en aquellas áreas donde la caficultura tradicional deje de ser viable económicamente debido al estrés térmico extremo.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "la baja de rendimientos sería general en las provincias costeras",
+              "pagina": 134
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "las provincias de la Cordillera Central tendrían mejores condiciones climáticas para el café en ambos escenarios",
+              "pagina": 144
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "V. Conclusiones y elementos para considerar en una propuesta al sector cafetalero dominicano",
+      "nivel": 1,
+      "paginas": "147-171",
+      "resumen": "El café es un cultivo estratégico en la República Dominicana, no solo por su valor económico sino por sus aportes ambientales y sociales. A pesar de contar con 100,000 hectáreas sembradas y sustentar a más de 28,000 familias, el sector enfrenta desafíos estructurales como baja productividad, falta de acceso a servicios productivos y vulnerabilidad extrema ante el cambio climático. Se proyecta que para 2050 los rendimientos nacionales podrían caer un 18% bajo escenarios de altas emisiones (RCP 8.5), afectando desproporcionadamente a los pequeños productores. Para enfrentar estos retos, se propone una estrategia de adaptación sostenible e incluyente que combine el fortalecimiento de la cadena de valor, la diversificación productiva, el acceso a mercados de cafés especializados, el fomento del cooperativismo y la implementación de pagos por servicios ambientales (PSA).",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Conclusiones",
+          "nivel": 2,
+          "paginas": "147-151",
+          "resumen": "La producción cafetalera dominicana se caracteriza por una baja productividad (0,3 t/ha) debido a limitados recursos económicos y debilidad institucional en servicios de extensión. El cambio climático ya se manifiesta en el alza de temperaturas y cambios en patrones de lluvia, favoreciendo epidemias de roya que afectaron al 80% de las áreas en 2013. Los escenarios a 2050 y 2070 muestran reducciones significativas en los rendimientos, excepto en zonas altas de la Cordillera Central. Se destaca la importancia de los sistemas agroforestales para la mitigación y adaptación, así como la necesidad de apoyar financieramente a los agricultores para implementar medidas de resiliencia.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Su cultivo fue introducido hace más de doscientos años y ha sido uno de los productos tradicionales de exportación del país.",
+              "pagina": 147
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Lo anterior se puede explicar por limitados recursos económicos de los pequeños productores y su débil acceso a servicios productivos y de organización. Esto ha contribuido a un insuficiente mantenimiento y renovación de los cafetales",
+              "pagina": 147
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "En los últimos años la volatilidad y períodos de precios por debajo de los costos de producción han contribuido a esta limitada inversión productiva y la disminución de superficie y producción de café.",
+              "pagina": 147
+            },
+            {
+              "dimension": "desafios",
+              "cita": "El cambio climático es un desafío que requiere llevar a cabo acciones de adaptación, entre las que se encuentran reforzar de forma sustentable las prácticas de gestión y manejo, diversificación genética, productiva y de fuentes de ingreso",
+              "pagina": 150
+            },
+            {
+              "dimension": "avances_implementacion",
+              "cita": "ha sido reconocido como “denominación de origen protegida” por la Unión Europea y ha recibido un sobreprecio en el mercado internacional.",
+              "pagina": 148
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Elementos para considerar en una propuesta",
+          "nivel": 2,
+          "paginas": "151-171",
+          "resumen": "Se detallan siete ejes estratégicos para revitalizar el sector: 1) Adaptación sostenible e incluyente alineada con los ODS y el Acuerdo de París; 2) Fortalecimiento de la cadena de valor mediante la metodología participativa de la CEPAL; 3) Diversificación de ingresos y producción (adaptación transformacional en altitudes bajas); 4) Fomento de cafés especializados y marcas país (Dominican Coffee, Valdesia); 5) Fortalecimiento de la organización de productores y equidad de género; 6) Ampliación de programas de PSA para valorizar servicios ecosistémicos; y 7) Cooperación regional en el marco del SICA y redes técnicas cafetaleras.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Adaptación sostenible e incluyente",
+              "nivel": 3,
+              "paginas": "151-156",
+              "resumen": "Propone priorizar la adaptación y reducción de vulnerabilidad en las políticas públicas, asegurando que sean parte integral de los planes de desarrollo y lucha contra la pobreza. El enfoque busca maximizar cobeneficios ambientales y sociales, promoviendo un 'gran impulso ambiental' para desvincular el desarrollo económico de las externalidades negativas.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "se confirma la necesidad de realizar la transición a economías y sociedades ambientalmente sostenibles y bajas en emisiones de GEI. Dichas respuestas deben ser parte integral de los planes de desarrollo nacional",
+                  "pagina": 152
+                },
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "han cristalizado en los Objetivos de Desarrollo Sostenible (ODS), cuyo propósito es orientar las acciones de desarrollo de los países en los próximos 15 años.",
+                  "pagina": 153
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Fortalecimiento de la cadena de valor del café",
+              "nivel": 3,
+              "paginas": "156-159",
+              "resumen": "Describe la metodología de la CEPAL para identificar cuellos de botella en cada eslabón (producción, transformación, comercialización). Se enfatiza el uso de mesas de diálogo público-privadas para validar diagnósticos y ejecutar estrategias que permitan a los pequeños productores retener una mayor parte del valor agregado.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "La metodología de cadenas de valor desarrollada por la CEPAL con diversos socios de la región está enfocada al diseño de estrategias participativas con los actores que integran una cadena. Este es un proceso para el análisis sistemático de restricciones o cuellos de botellas",
+                  "pagina": 157
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Producción sostenible y diversificada para contar con otras fuentes de ingresos",
+              "nivel": 3,
+              "paginas": "159-162",
+              "resumen": "Analiza la necesidad de diversificar la producción según la altitud: en zonas bajas se recomienda sustituir café por cacao o frutales, mientras que en zonas altas se busca mejorar la sombra y la irrigación. La diversificación no solo reduce riesgos climáticos, sino que mejora la seguridad alimentaria de los hogares.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "en las elevaciones bajas (500 msnm-800 msnm) el café desaparece y se recomienda una adaptación transformacional con el reemplazo del café arábica por café robusta o cacao.",
+                  "pagina": 160
+                },
+                {
+                  "dimension": "oportunidades",
+                  "cita": "La diversificación de la agricultura en favor de productos más competitivos y de mayor valor es una estrategia importante para superar los desafíos que el cambio climático plantea.",
+                  "pagina": 161
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Producción de café especializado o certificado",
+              "nivel": 3,
+              "paginas": "163-164",
+              "resumen": "Explora el potencial de los nichos de mercado (orgánico, comercio justo, amigable con aves) para obtener sobreprecios y mitigar la volatilidad. Se destaca que la marca país y las certificaciones ambientales mejoran la competitividad internacional del café dominicano producido bajo sombra.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Mediante la marca país «Dominican Coffee» se debería poder mostrar los puntos fuertes en la producción de café, ampliar la percepción de producción sostenible que el país ofrece y ayudar a ascender en la cadena de valor.",
+                  "pagina": 164
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Fomento de la organización y el cooperativismo",
+              "nivel": 3,
+              "paginas": "164-166",
+              "resumen": "La asociatividad permite a los pequeños productores alcanzar economías de escala, acceder a crédito y mejorar su capacidad de negociación frente a intermediarios. Se aboga por la inclusión de género para superar la marginación histórica de las mujeres en la toma de decisiones y propiedad de recursos.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "La asociatividad aporta la posibilidad de la compra conjunta de maquinaria y equipo, la comercialización y el mercadeo conjunto de productos y servicios",
+                  "pagina": 165
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "En muchos casos las mujeres prácticamente no tienen oportunidad de participar en la toma de decisiones",
+                  "pagina": 165
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "6. Pagos por servicios ambientales",
+              "nivel": 3,
+              "paginas": "166-168",
+              "resumen": "Propone los PSA como un mecanismo para internalizar el valor de la protección hídrica y la biodiversidad en las zonas montañosas. Se sugiere abordar la tenencia informal de la tierra para que más pequeños propietarios puedan acceder a estos beneficios económicos.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Los PSA son una herramienta para internalizar en el sistema económico de forma adecuada el valor y el bienestar que brindan los servicios ambientales y especialmente para reconocer a los servicios ambientales como fuente de actividades económicas",
+                  "pagina": 166
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "se recomienda que un esquema de PSA incluya procesos para solucionar el problema de la tenencia informal.",
+                  "pagina": 167
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "7. Cooperación regional",
+              "nivel": 3,
+              "paginas": "168-171",
+              "resumen": "Enfatiza el rol de PROMECAFE y PROCAGICA en el fortalecimiento de la resiliencia regional. Se proponen 14 líneas de acción consensuadas que incluyen el intercambio de conocimientos, la mejora de datos agroclimáticos y el blindaje de la infraestructura rural frente al cambio climático.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Implementar los planes de emergencia frente a la roya con atención a otras enfermedades y medidas requeridas a mediano plazo.",
+                  "pagina": 169
+                },
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Costa Rica, otro miembro del SICA, ya tiene establecido un programa de NAMA café y otros países están considerando iniciar programas de respuesta al cambio climático",
+                  "pagina": 169
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "VI. Propuesta",
+      "nivel": 1,
+      "paginas": "172-190",
+      "resumen": "La propuesta central busca la renovación del sector cafetalero dominicano bajo un paradigma de adaptación sostenible e incluyente. Articula las metas de desarrollo social (reducción de pobreza) con las climáticas (resiliencia y mitigación), proponiendo una serie de objetivos específicos para mejorar la calidad de vida de las familias productoras, proteger los servicios ecosistémicos de la agroforestería y fortalecer la competitividad de la cadena de valor. La propuesta se fundamenta en el marco de políticas nacionales existentes (PECC, PANCC-RD, INDC) y en la iniciativa de la NAMA de Café Bajo en Carbono, buscando integrar a diversos actores públicos, privados y de la sociedad civil en una alianza estratégica por el sector.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Objetivo",
+          "nivel": 2,
+          "paginas": "172-173",
+          "resumen": "El objetivo es lograr la renovación del sector con adaptación sostenible e incluyente, buscando proteger ingresos, fomentar mecanismos de reconocimiento económico por servicios ecosistémicos y promover el comercio justo y el consumo sostenible de café a nivel nacional e internacional.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Objetivo propuesto: lograr la renovación del sector y la cadena de valor de café en la República Dominicana con una adaptación sostenible e incluyente al cambio climático",
+              "pagina": 172
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Marco de políticas nacionales",
+          "nivel": 2,
+          "paginas": "173-174",
+          "resumen": "Resalta la alineación de la propuesta con el Plan Estratégico para el Cambio Climático 2011-2030 y la INDC-RD, que priorizan la adaptación en agricultura como una 'prioridad constitucional'. Destaca que el 67% de los hogares cafetaleros viven en pobreza, lo que justifica la vinculación de la acción climática con el desarrollo social.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "El Plan Estratégico para el Cambio Climático (PECC) 2011-2030 de la República Dominicana plantea reducir la vulnerabilidad y mejorar las capacidades de adaptación al cambio climático",
+              "pagina": 173
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "el 67% de los hogares cafetaleros de la República Dominicana viven en condiciones de pobreza",
+              "pagina": 173
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Adaptarse al cambio climático de forma sostenible e incluyente en el sector cafetalero",
+          "nivel": 2,
+          "paginas": "174-179",
+          "resumen": "Detalla acciones operativas como el uso de variedades mejoradas, tecnologías de riego, seguros agropecuarios y sistemas de alerta temprana. Presenta las líneas de acción de la NAMA de Café Bajo en Carbono: optimización de fertilizantes, tratamiento de aguas mieles, gestión de biomasa y captura de carbono, resaltando la importancia del monitoreo, reporte y verificación (MRV).",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Se recomienda entonces evaluar cuáles medidas de adaptación podrán ser parte de esta NAMA, por ejemplo, por ser vitales para asegurar el efecto mitigante del subsector",
+              "pagina": 178
+            },
+            {
+              "dimension": "desafios",
+              "cita": "Aproximadamente 90% de los productores utilizan maquinas despulpadoras tradicionales que son ineficientes en el uso de agua. Una parte importante botan las aguas mieles a los ríos o suelo.",
+              "pagina": 179
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Fortalecer la cadena de valor",
+          "nivel": 2,
+          "paginas": "181-184",
+          "resumen": "Analiza la concentración del mercado en intermediarios e industriales y propone estrategias para que los productores asuman más pasos del proceso (beneficiado, tostado). Se aboga por la estandarización de calidades y el aprovechamiento de microlotes para acceder a sobreprecios en mercados internacionales.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Se propone integrar un proceso de fortalecimiento de la cadena de valor enfocado en mejorar las condiciones productivas y sociales de los pequeños productores de café con un proceso de adaptación sostenible e incluyente al cambio climático.",
+              "pagina": 184
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "sobre todo en los procesos de industrialización y comercialización que son llevados a cabo por intermediarios",
+              "pagina": 182
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Promover la diversificación agrícola sostenible",
+          "nivel": 2,
+          "paginas": "184-185",
+          "resumen": "Fomenta la incorporación de maderables y frutales en fincas cafetaleras para diversificar ingresos sin perder la cobertura forestal. Se requiere apoyo comercial y planes de negocios viables para asegurar que la transición a otros cultivos no perjudique la economía familiar.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Se recomienda acompañar las estrategias de diversificación de fuentes de ingreso agrícola y no agrícola con análisis y propuestas para desarrollar la oferta de mercados de crédito, seguros agrícolas y de una red de seguridad social eficaz",
+              "pagina": 184
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "F. Acceder a mercados de café certificado o diferenciado",
+          "nivel": 2,
+          "paginas": "185-186",
+          "resumen": "Promueve certificaciones ambientales y sociales para mejorar el posicionamiento del café dominicano. Propone el ecoetiquetado de carbono y la consolidación de la marca país 'Dominican Coffee' para captar la demanda creciente de consumidores responsables en Asia, Europa y Norteamérica.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Se propone intensificar la formación de asociaciones de cafés de calidad o certificados para promover el café en los mercados internacionales y firmar convenios con organizaciones internacionales",
+              "pagina": 186
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "G. Promover la organización de productores y cooperativas",
+          "nivel": 2,
+          "paginas": "186-188",
+          "resumen": "Subraya que la organización es indispensable para el comercio justo y para reducir costos de certificación. Cita ejemplos exitosos de cooperativas que han logrado exportar directamente, como la organización de Monte Bonito y su marca de certificación.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "A través de la organización de productores se incrementó la calidad del café, se disminuyó la dependencia en los canales de intermediación y se logró el acceso a los mercados de exportación. Fue mediante esta organización que se desarrolló la marca «Café Monte Bonito»",
+              "pagina": 188
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "H. Ampliar los programas de psa entre pequeños productores de café en sistemas de agroforestería",
+          "nivel": 2,
+          "paginas": "188-190",
+          "resumen": "Propone formalizar la compensación por servicios ambientales, especialmente hídricos, para los caficultores de montaña. Sugiere que los PSA incluyan apoyo técnico y procesos de legalización de tierras, actuando como una red de seguridad económica y una herramienta de conservación.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Un esquema de PSA también podría ser estructurado para incluir procesos de legalización de la tenencia de tierras informal, disminuir la pobreza y repercutir en la igualdad de género",
+              "pagina": 189
+            },
+            {
+              "dimension": "avances_implementacion",
+              "cita": "En 2017 el proyecto de Pagos por Servicios Ambientales Hídricos Cuencas Yaque del Norte suscribió 17 nuevos contratos con beneficiarios para la preservación de los bosques y café con sombra",
+              "pagina": 189
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "El documento propone una estrategia de 'NAMA Café' y 'PSA' que constituye un paquete de inversión coordinada para desacoplar el crecimiento sectorial de las emisiones y la degradación del suelo. Se enfoca en sectores verdes dinámicos (agroforestería) y promueve la eficiencia en el uso de recursos (agua, energía en procesamiento).",
+      "citas": [
+        {
+          "cita": "Esta NAMA de Café Bajo en Carbono incluye cuatro líneas de acción",
+          "pagina": 176
+        }
+      ],
+      "nota": null
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "Identifica claramente a INDOCAFE, CNCCMDL, INDRHI y ONAMET como actores públicos clave, además de cooperativas y asociaciones de productores (ej. Valdesia, Monte Bonito) para la implementación de las políticas de adaptación y mitigación.",
+      "citas": [
+        {
+          "cita": "convoque a una mesa a los actores en la cadena",
+          "pagina": 184
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Sí",
+      "evidencia": "Enumera oportunidades en café especializado (orgánico, denominación de origen), cacao, créditos de carbono y pagos por servicios ambientales. Vincula estas actividades con la productividad, el empleo (500k personas) and la reducción de pobreza rural.",
+      "citas": [
+        {
+          "cita": "promover el café especial de alta calidad de la República Dominicana",
+          "pagina": 185
+        }
+      ],
+      "nota": null
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "La sección VI propone medidas específicas como el uso de beneficios húmedos ecológicos (UCBE), pozos sépticos para aguas mieles, energía solar para secado y sistemas MRV para emisiones. Incluye metas técnicas y líneas de acción diferenciadas.",
+      "citas": [
+        {
+          "cita": "generalizar el uso del beneficio húmedo ecológico (UCBE)",
+          "pagina": 179
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "NAMA Café: reducción de fertilizantes nitrogenados and emisiones N2O",
+          "clasificacion": "CONCRETO",
+          "pagina": 178
+        },
+        {
+          "item": "Tratamiento de aguas mieles and reducción de metano (UCBE)",
+          "clasificacion": "CONCRETO",
+          "pagina": 181
+        },
+        {
+          "item": "Uso de biomasa and energías renovables (solar/eólica) in fincas",
+          "clasificacion": "CONCRETO",
+          "pagina": 181
+        },
+        {
+          "item": "Captura de carbono en sistemas agroforestales (REDD+, MDL)",
+          "clasificacion": "CONCRETO",
+          "pagina": 182
+        },
+        {
+          "item": "Fortalecimiento de seguros agropecuarios para eventos extremos",
+          "clasificacion": "CONCRETO",
+          "pagina": 176
+        },
+        {
+          "item": "Expansión del Programa Nacional de Compensación and Pago por Servicios Ambientales (PSA)",
+          "clasificacion": "CONCRETO",
+          "pagina": 190
+        }
+      ],
+      "tally": "6 de 6 ítems pasan el test de concreción",
+      "nota": null
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 1,
+      "nombre": "Desarrollo productivo",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento aborda la crisis de productividad del café desde la óptica del riesgo climático and la necesidad de una transición ecológica, más que de una simple reforma de mercado.",
+      "filtro_categoria_primaria": "La centralidad de los impactos climáticos (proyecciones a 2070) and las propuestas de mitigación (NAMA) and conservación (PSA) lo anclan firmemente en Sostenibilidad Ambiental.",
+      "secundaria_obligatoria": "La propuesta de fortalecer la cadena de valor, mejorar rendimientos and acceder a mercados especializados requiere una dimensión de Desarrollo Productivo.",
+      "justificacion_anti_copia": "No es solo un análisis de mercado; la base del argumento es el colapso biofísico proyectado por el calentamiento global.",
+      "validacion_anclas": "Se compara con doc12_agricultura_clima, compartiendo el rigor del modelado econométrico pero superándolo en la especificidad de las propuestas normativas (NAMA, PSA)."
+    },
+    "tipo_documento_climatico": "Estudio de impactos y opciones de response",
+    "nivel_aplicacion": "Sectorial / Subnacional (provincial)",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

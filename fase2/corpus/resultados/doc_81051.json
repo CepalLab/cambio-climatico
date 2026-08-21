@@ -1,0 +1,717 @@
+{
+  "documento": {
+    "num_muestra": 206,
+    "titulo": "Climate change financing in the Caribbean: an analysis from a gender perspective",
+    "autoria": "Mariama Williams y Ayesha Constable",
+    "handle": "https://hdl.handle.net/11362/81051",
+    "simbolo": "LC/TS.2024/104",
+    "isbn": null,
+    "fecha": "2024",
+    "tipo_documento": "Estudio técnico",
+    "paginas_cuerpo": 50,
+    "paginas_totales": 68,
+    "idioma": "en",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cómo se distribuye y puede mejorarse el financiamiento climático con perspectiva de género en el Caribe, de modo que llegue a las mujeres y organizaciones de base y fortalezca su autonomía y resiliencia?",
+    "alcance": {
+      "ambito_aplicacion": "El Caribe, con atención a los pequeños Estados insulares en desarrollo y a países CARICOM; incluye casos de Antigua y Barbuda, Barbados, Belice, Dominica, Granada, Guyana, Haití, Jamaica, Santa Lucía, San Vicente y las Granadinas, Trinidad y Tobago y Las Bahamas.",
+      "referentes_dependencias": "UNFCCC, GCF, Adaptation Fund, Climate Investment Funds, IDB, CDB, ECLAC, UN Women, OECD, IPCC y experiencias internacionales de bonos y finanzas con perspectiva de género.",
+      "sectorial": "Financiamiento climático público y privado, adaptación, mitigación, infraestructura resiliente, agricultura, turismo, agua, energía, pesca, salud, MSME/SME y economía del cuidado.",
+      "temporal": "Evidencia y políticas observadas principalmente entre 2003 y 2023, con proyecciones de necesidades y pérdidas hacia 2030 y 2050."
+    },
+    "hallazgos_principales": [
+      "La región enfrenta necesidades de financiamiento climático de aproximadamente USD 3,3–4,576 mil millones para 2030, mientras la deuda, los déficits y el costo de los desastres restringen el espacio fiscal (p. 10).",
+      "Los grandes fondos incorporan políticas, evaluaciones y planes de acción de género, pero la calidad de su aplicación, sus indicadores y el seguimiento de beneficios para mujeres y organizaciones de base son desiguales (pp. 20–22).",
+      "El acceso directo de organizaciones de mujeres y grupos comunitarios es muy reducido: solo 10% de los flujos climáticos llega al nivel de base y apenas USD 43 millones de la ayuda climática con igualdad de género llegó a organizaciones feministas, lideradas por mujeres o de derechos de las mujeres (p. 42).",
+      "El análisis de políticas nacionales muestra referencias crecientes a género en instrumentos climáticos, pero persisten vínculos débiles con el financiamiento, datos desagregados insuficientes y sistemas de monitoreo todavía incompletos (pp. 40–41).",
+      "El Caribbean Resilience Fund y el debt-for-climate initiative podrían liberar espacio fiscal y financiar adaptación, inversión verde, diversificación y sectores como turismo ecológico, agricultura nutracéutica, electrónica, aeroespacial y farmacia, pero sus efectos sobre las mujeres dependen de un diseño explícitamente transformador (pp. 35–37)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El problema central no es solo el volumen agregado de financiamiento climático, sino su accesibilidad, distribución territorial y capacidad para producir resultados verificables de igualdad y autonomía de las mujeres.",
+        "Los fondos y mecanismos regionales han avanzado en incorporar lenguaje y requisitos de género, pero la inclusión suele quedarse en evaluaciones, conteo de beneficiarias o planes formales, sin asegurar participación sustantiva ni llegada directa a organizaciones de mujeres.",
+        "La combinación de deuda insostenible, vulnerabilidad climática y brechas de información exige mecanismos financieros más flexibles, datos granulares y una integración efectiva entre política climática, presupuestos con perspectiva de género y acción comunitaria."
+      ],
+      "recomendaciones": [
+        "Mejorar la recolección, monitoreo y análisis cualitativo y cuantitativo de datos climáticos y de género.",
+        "Aplicar una transversalización de género sustantiva en políticas, planes y proyectos climáticos, con evaluaciones de factibilidad y presupuestos adecuados.",
+        "Fortalecer instituciones financieras regionales y mecanismos nacionales de género.",
+        "Crear pequeños fondos, productos financieros focalizados, ventanas de género y procesos de acceso directo para organizaciones comunitarias, mujeres y MSME.",
+        "Mandatar consultas participativas y la inclusión de mujeres y grupos de género en diseño, implementación y monitoreo.",
+        "Vincular los presupuestos sensibles al género con los Climate Policy Expenditure and Institutional Reviews (CPEIR).",
+        "Incorporar análisis sectoriales, financiamiento de la economía del cuidado, capacitación y métricas de género en la transición climática."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "El estudio examina cómo los fondos y mecanismos de financiamiento climático llegan —o no llegan— a las mujeres y organizaciones de base del Caribe. Compara el Green Climate Fund, los Climate Investment Funds y el Adaptation Fund, y analiza iniciativas como los bonos de género y la combinación de deuda por clima con el Caribbean Resilience Fund. El documento muestra que la existencia de políticas de género no garantiza indicadores útiles, participación sustantiva ni acceso directo, en un contexto de alta deuda, desastres y necesidades de inversión. Su cierre propone datos desagregados, pequeñas donaciones, ventanas financieras para mujeres, consultas participativas, articulación entre GRB y CPEIR, financiamiento de cuidados y procesos de acceso menos gravosos."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introduction",
+      "nivel": 1,
+      "paginas": "11-16",
+      "resumen": "Define el financiamiento climático como recursos para mitigación y adaptación y ubica el problema en la diplomacia climática y las necesidades de los países en desarrollo. Presenta el aumento global de los flujos, sus problemas de definición y medición, y la exposición del Caribe: huracanes, dependencia del turismo, deuda, déficits y costos futuros de adaptación. Conecta equidad, justicia y eficiencia con la perspectiva de género, documenta brechas de inclusión financiera y explica que la pobreza, el trabajo de cuidados, la informalidad y los choques climáticos limitan la autonomía económica de las mujeres. La sección concluye que el acceso a finanzas verdes sensibles al género puede mejorar la resiliencia y la eficacia de la acción climática.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "“Climate finance” refers to the flows of funds primarily targeting climate change, since these funds have objectives explicitly related to addressing climate change (Atteridge et al., 2017).",
+          "pagina": 11
+        },
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "The Caribbean Region’s Small Island Developing States (SIDS) face considerable threats from climate change and extreme weather events",
+          "pagina": 12
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "This mix of factors often results in sizable current account deficits and, in some cases, high, usually unsustainable, debt levels",
+          "pagina": 12
+        },
+        {
+          "dimension": "tendencias",
+          "cita": "public and private climate finance almost doubled between 2011 and 2020",
+          "pagina": 11
+        },
+        {
+          "dimension": "desafios",
+          "cita": "Women across Latin America and the Caribbean are clearly affected by changing climate conditions and play vital roles in climate action",
+          "pagina": 16
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Issues in defining and measuring climate finance",
+          "nivel": 2,
+          "paginas": "11-12",
+      "resumen": "Aclara las definiciones de financiamiento climático usadas por UNFCCC y la diplomacia internacional, distinguiendo recursos para emisiones, sumideros, adaptación y resiliencia. Reporta un promedio global de USD 803 mil millones y casi una duplicación del financiamiento público y privado entre 2011 y 2020, pero advierte que los datos no son consistentes ni completos por falta de taxonomías, disponibilidad y consenso metodológico. La adaptación sigue recibiendo una fracción pequeña y desigualmente distribuida.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "The 2018 Biennial Assessment and Overview of Climate Finance Flows of the UNFCCC’s Standing Committee on Finance (SCF) recognizes this definition",
+          "pagina": 11
+        },
+        {
+          "dimension": "tendencias",
+          "cita": "annual tracked total financial flows for climate mitigation and adaptation increased by up to 60% between 2013/14 and 2019/20, average growth has slowed since 2018",
+          "pagina": 12
+        }
+      ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Climate change and climate finance requirements in the Caribbean",
+          "nivel": 2,
+          "paginas": "12-13",
+      "resumen": "Cuantifica la exposición de los SIDS caribeños a huracanes, shocks económicos y dependencia del turismo, y vincula esos riesgos con la necesidad de recursos para preparación, resiliencia y sostenibilidad. Estima pérdidas históricas de 2,5% del PIB anual por huracanes, necesidades regionales de USD 3,3–4,576 mil millones para 2030 y costos de inacción superiores a USD 22 mil millones anuales hacia 2050. El argumento es que la vulnerabilidad y las restricciones fiscales vuelven indispensable ampliar el financiamiento climático.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "the more than two hundred hurricanes that occurred in the Caribbean between 1950 and 2014 cost the islands an average of 2.5% of GDP each year",
+          "pagina": 12
+        },
+        {
+          "dimension": "desafios",
+          "cita": "These fiscal constraints imply a larger role for climate financing",
+          "pagina": 12
+        }
+      ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Context and factors involved in assessing climate finance requirements",
+          "nivel": 2,
+          "paginas": "12-13",
+      "resumen": "Explica que la evaluación de necesidades ocurre sobre economías pequeñas con bajo crecimiento, falta de competitividad, personal calificado insuficiente, deuda alta y bajos ingresos públicos. Vincula infraestructura de agua, saneamiento, energía, transporte y telecomunicaciones con resiliencia, y estima que el costo de impactos sin adaptación podría superar 10% de la economía caribeña actual para 2050. La sección muestra que el cálculo financiero debe considerar simultáneamente inversión, deuda, infraestructura y pérdidas climáticas.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Most Caribbean small states face many of the same economic challenges. These include long-standing low economic growth rates, lack of competitiveness in many sectors, structural imbalances, and limited qualified personnel for multiple tasks",
+          "pagina": 12
+        },
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Without adaptation measures, the costs in the Caribbean alone are expected to surpass US$ 22 billion per year by 2050",
+          "pagina": 13
+        }
+      ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Addressing contested concerns: equity, justice and efficiency",
+          "nivel": 2,
+          "paginas": "13-14",
+      "resumen": "Presenta la perspectiva de género como una dimensión de equidad, justicia y eficiencia del financiamiento climático. Enumera vías para integrar análisis de género, marcos sensibles, instrumentos de financiamiento y apoyo oportuno a grupos de mujeres, y sostiene que estos aspectos deben medirse en los reportes. El recuadro sobre inclusión financiera documenta brechas de crédito, informalidad, discriminación, pobreza, trabajo no remunerado y menor autonomía económica en América Latina y el Caribe.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Gender inequality permeates various aspects of life including social, political, and economic spheres",
+          "pagina": 14
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Providing adequate and timely flow of climate funds to women’s groups on the ground for climate resilience, adaptation and mitigation outcomes",
+          "pagina": 13
+        }
+      ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Women’s financial inclusion: persistent and emerging issues",
+          "nivel": 2,
+          "paginas": "15-16",
+      "resumen": "Describe las brechas de pobreza, empleo, violencia, tierra, crédito y servicios digitales que afectan a mujeres indígenas, afrodescendientes, rurales y urbanas. Muestra cómo las inundaciones, sequías, erosión, salinización, olas de calor y crisis de agua agravan esas desigualdades y afectan medios de vida basados en recursos naturales. Examina el potencial y los límites de fintech y concluye que las mujeres deben participar como decisoras en mecanismos de financiamiento climático y acceder a recursos de adaptación y mitigación con distribución equitativa.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "as of 2022, the employment rate for women was 52% compared with 74.5% for men, a difference of 22.5 percentage points",
+          "pagina": 15
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "These women’s lives and livelihoods rely heavily on local natural resources.",
+          "pagina": 15
+        },
+        {
+          "dimension": "oportunidades",
+          "cita": "Greater access to sustainable and gender-equitable green finance will help women be front-runners in global efforts to address climate change effectively",
+          "pagina": 16
+        }
+      ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "I. Methodology",
+      "nivel": 1,
+      "paginas": "17-18",
+      "resumen": "Expone una revisión documental de literatura académica, operativa e institucional, propuestas gubernamentales y documentos de fondos climáticos, complementada con ocho entrevistas semiestructuradas a expertos y organizaciones de la sociedad civil. Examina cómo GCF, Adaptation Fund, CIF, IDB, CDB y CCCCC integran género en propuestas, planes de acción, implementación y resultados, junto con bonos sociales, verdes y de género y la iniciativa de deuda de ECLAC. Reconoce como limitaciones la ausencia de datos financieros desagregados por género y el tratamiento solo superficial de NAP, NDC, LEDS y ODS.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "This analytical paper primarily presents a desk review of the following: (i) academic, practice and operational literature of climate funding entities",
+          "pagina": 17
+        },
+        {
+          "dimension": "desafios",
+          "cita": "Primary and secondary data on climate finance flows/distribution is not always disaggregated by gender",
+          "pagina": 18
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Desk review",
+          "nivel": 2,
+          "paginas": "17-18",
+          "resumen": "Detalla la revisión de marcos internacionales, regionales y nacionales de igualdad de género, fondos climáticos y entidades implementadoras del Caribe. Incluye GCF, Adaptation Fund, IDB, CDB, CCCCC, CIF, fondos bilaterales, inversión privada, bonos sociales, verdes y de género, además de la deuda de ECLAC. El propósito es evaluar qué proponen estos mecanismos, si apoyan a las mujeres y qué sinergias tienen con las iniciativas existentes de igualdad, inclusión y diversidad.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "also a semi-detailed review of the major UNFCCC climate funds and their gender dimensionalities.",
+              "pagina": 17
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Limitations",
+          "nivel": 2,
+          "paginas": 18,
+          "resumen": "Delimita el alcance empírico del estudio: no analiza en profundidad NAP, NDC, LEDS ni ODS, y la información sobre flujos y distribución de financiamiento climático rara vez está actualizada y desagregada por género. La carencia de datos granulares restringe la posibilidad de medir destinatarias, resultados y efectos distributivos con precisión.",
+          "dimensiones": [
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "Overall, the availability of granular gender disaggregated, and up-to-date climate finance information is limited",
+              "pagina": 18,
+              "subtipo_brecha": "retrospectiva"
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "II. Volume and distribution of public climate finance in the Caribbean",
+      "nivel": 1,
+      "paginas": "19-30",
+      "resumen": "Examina el volumen, distribución y arquitectura de los principales fondos públicos de adaptación y mitigación que operan en el Caribe. Contrasta reglas de género, acceso, indicadores y resultados del GCF, CIF y Adaptation Fund, y luego revisa un caso regional del CCCCC. El bloque encuentra avances institucionales —políticas, planes de acción, entidades de acceso directo y apoyo preparatorio— junto con barreras de escala, acreditación, calidad de evaluaciones y limitada llegada a organizaciones de mujeres.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Climate finance in the Caribbean",
+          "nivel": 2,
+          "paginas": "20-21",
+          "resumen": "Introduce los flujos públicos de adaptación y mitigación y centra el análisis en GCF, CIF y Adaptation Fund. Explica que estos fondos son los principales canales multilaterales para apoyar proyectos, capacidades y resiliencia en el Caribe, preparando la comparación de sus políticas de género y mecanismos de acceso.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Climate change adaptation attracts finance from a range of sources. The most visible investments are financed through such public finance instruments as grants and concessional loans",
+              "pagina": 21
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Gender in sources and uses of climate finance flows to the Caribbean",
+          "nivel": 2,
+          "paginas": "21-27",
+          "resumen": "Compara la integración de género en GCF, CIF y Adaptation Fund y sus operaciones caribeñas. El GCF exige evaluaciones, planes, indicadores, metas, responsabilidades y presupuestos, pero los proyectos suelen mencionar género sin convertirlo en objetivo principal y reportan pocos indicadores sustantivos. El PPCR del CIF integra resiliencia en planificación sectorial, aunque solo dos de seis países incorporaron género como objetivo principal; el Adaptation Fund tiene una política más exigente y acceso directo, pero sus evaluaciones regionales todavía se concentran en contar participantes por sexo.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "all projects and programs under implementation in the Caribbean that were endorsed by the GCF’s Board since the adoption of the updated Gender Policy at the end of 2019 have conducted gender assessments and developed gender action plans",
+              "pagina": 24
+            },
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "It is almost impossible, for example, for local women’s groups and grassroots organizations undertaking mitigation and adaptation projects to gain accreditation to the Green Climate Fund",
+              "pagina": 24,
+              "subtipo_brecha": "retrospectiva"
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "1. The Green Climate Fund (GCF)",
+              "nivel": 3,
+              "paginas": "21-24",
+              "resumen": "Describe el GCF como el mayor fondo climático multilateral y cuantifica para América Latina y el Caribe USD 3,3 mil millones de su primera reposición, con USD 7,3 mil millones de cofinanciamiento y 64 proyectos. Detalla su política de género, planes de acción, evaluaciones, indicadores y requisitos para entidades acreditadas, y documenta la operación regional mediante CCCCC, entidades nacionales y apoyo preparatorio. Aunque el marco exige integración de género, las evaluaciones son desiguales y las organizaciones locales enfrentan barreras de acreditación y escala.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "As of October 2023, the GCF, under its first replenishment period, GCF-1 (2020-2023), support to Latin America and the Caribbean amounts to a total of $3.3billion",
+                  "pagina": 22
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "there tends to be very few and basic inclusion of gender responsive indicators in the projects’ monitoring and evaluation framework",
+                  "pagina": 24,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. The Climate Investment Funds",
+              "nivel": 3,
+              "paginas": "25-26",
+              "resumen": "Presenta los CIF y sus fondos CTF y SCF como instrumentos para reducir riesgos, probar tecnologías, escalar soluciones sostenibles y movilizar capital privado. Revisa su política de género, planes de acción y programas CTF, PPCR, FIP y SREP, y se detiene en el PPCR caribeño de Jamaica, Haití, Dominica, Santa Lucía, San Vicente y las Granadinas y Granada. El programa articula agricultura, recursos naturales, agua, pesca, recursos marinos y salud, pero su evaluación identifica consultas incompletas, objetivos de género débiles y poco apoyo a activos financieros y liderazgo de mujeres.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "CIFs’ programmes fall under two individual trust funds: The Clean Technology Fund (CTF) and the Strategic Climate Fund (SCF)",
+                  "pagina": 25
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "Only two out of the six countries have included gender as a part of the key objectives of their climate resilience programs or strategies",
+                  "pagina": 26,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. The Adaptation Fund",
+              "nivel": 3,
+              "paginas": "26-27",
+              "resumen": "Explica el mandato del Adaptation Fund, su financiamiento y su mecanismo de acceso directo mediante entidades nacionales y regionales acreditadas. Revisa su política y plan de acción de género, el enfoque de derechos, igualdad, autonomía e interseccionalidad, y proyectos en Jamaica y Antigua y Barbuda. Los casos muestran objetivos de medios de vida, agricultura, agua, protección costera y capacidad institucional, pero indicadores de género todavía limitados y sin medición sustantiva de resultados.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "The Adaptation Fund adopted a gender policy and action plan in 2016",
+                  "pagina": 27
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "One unique feature of the Adaptation Fund is its direct access mechanism, which enables accredited national implementing entities (NIEs) and regional implementing agencies (RIEs) in developing countries to directly access climate adaptation financing",
+                  "pagina": 26
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Analysis and summary",
+          "nivel": 2,
+          "paginas": "27-30",
+          "resumen": "Sintetiza los patrones de distribución y género de los fondos y los ilustra con el estudio de caso regional del CCCCC. La revisión identifica proyectos con referencias extensas a género, pero objetivos, indicadores, autonomía y beneficios directos poco desarrollados; también muestra que el financiamiento suele llegar a gobiernos y entidades acreditadas, con un supuesto de goteo hacia organizaciones de mujeres. El caso de CCCCC confirma la brecha entre requisitos formales, calidad de implementación y acceso efectivo de grupos pequeños.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "All major climate funds have established a footprint in the Caribbean region. The review shows that they have all developed gender policies and action plans",
+              "pagina": 27
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "1. Regional case study: gender and the distribution of climate finance in the Caribbean Community Climate Change Centre (CCCCC)",
+              "nivel": 3,
+              "paginas": "27-30",
+              "resumen": "Analiza el papel del CCCCC como entidad subregional y sus proyectos y subvenciones de preparación en países CARICOM. El caso muestra que los proyectos pueden incluir beneficiarios desagregados por sexo y planes de género, pero no permiten rastrear adecuadamente cuánto dinero llega a organizaciones de mujeres ni qué efectos produce sobre su autonomía. La principal lección es que los mecanismos de alto nivel, sin acceso directo, indicadores de resultados y participación comunitaria, no garantizan financiamiento sensible al género.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "The Caribbean Community Climate Change Centre is an intergovernmental Caribbean Community (CARICOM) institution that is mandated by the CARICOM Heads of Government to coordinate the region’s response to climate change",
+                  "pagina": 28
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "limited institutional and human resource capacity to formulate and implement appropriate adaptation and mitigation actions",
+                  "pagina": 29,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "III. Innovative financing initiatives from a gender perspective",
+      "nivel": 1,
+      "paginas": "33-39",
+      "resumen": "Examina instrumentos privados y regionales que pueden conectar igualdad de género, resiliencia y transformación económica. Revisa bonos de género y de impacto social en América Latina y el Caribe, señalando su potencial para financiar MSME dirigidas por mujeres, agricultura resiliente y energía renovable, pero también la falta de rutas claras hacia adaptación y mitigación. Analiza luego la iniciativa de deuda por clima y el Caribbean Resilience Fund, que vinculan reducción de deuda, espacio fiscal, inversión verde y diversificación productiva, con riesgos distributivos si no incorporan formación, financiamiento y protección para las mujeres.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Private sector gender-driven financial products and gender equality and climate finance",
+          "nivel": 2,
+          "paginas": "33-36",
+          "resumen": "Describe bonos de género y productos de inversión con lente de género, incluyendo emisiones en Panamá, Perú, México, Chile, Colombia, Ecuador y Brasil. Explica que estos instrumentos pueden ampliar crédito, capacitación y capital para empresas lideradas por mujeres, apoyar agricultura climáticamente resiliente y energía renovable fuera de red, y vincular objetivos sociales y climáticos. La evidencia sigue siendo incipiente: no hay autoridades gubernamentales emisoras en la región y los efectos sobre adaptación, mitigación y autonomía no están demostrados.",
+          "dimensiones": [
+            {
+              "dimension": "oportunidades",
+              "cita": "gender and social bonds may help to even the odds as it could help to support women–led SMEs to ask for more credit and to take part in training programs",
+              "pagina": 36
+            },
+            {
+              "dimension": "desafios",
+              "cita": "It also remains unclear how much gender bonds and related instruments can contribute to the specific targets of SDG 5",
+              "pagina": 36
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Gender analysis of ECLAC’s debt for climate initiative and the Caribbean Resilience Fund",
+          "nivel": 2,
+          "paginas": "37-39",
+          "resumen": "Relaciona deuda pública, shocks climáticos y falta de espacio fiscal con una propuesta de debt swap y un Caribbean Resilience Fund. El CRF se concibe como vehículo regional y mecanismo de coordinación para captar GCF, donantes, garantías y capital privado, financiar adaptación, infraestructura, resiliencia, inversión verde y diversificación. Sus pilares de upgrading y nuevos sectores abarcan turismo ecológico y patrimonial, agricultura nutracéutica, electrónica, aeroespacial y farmacia; el texto advierte que la transición tecnológica puede excluir a mujeres si no asegura formación, educación, acceso a finanzas y enfoque de género desde el diseño.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "The DSI is a mechanism to reduce the debt/debt service burden and CRF is the special purpose vehicle to leverage",
+              "pagina": 38
+            },
+            {
+              "dimension": "oportunidades",
+              "cita": "Under the ‘upgrade’ pillar, expected activities include both the upgrading of products and services as well as of the process of production of products and services",
+              "pagina": 38
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "unless careful attention is paid to training and education and ensure their access to finance, women may be adversely impacted",
+              "pagina": 38
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "IV. National policies and gender-responsive climate finance in the Caribbean",
+      "nivel": 1,
+      "paginas": "41-44",
+      "resumen": "Evalúa mecanismos regionales, políticas nacionales y NDC del Caribe para determinar si crean condiciones habilitantes para financiamiento climático sensible al género. Identifica al CCCCC, CCRIF, marcos de gestión de desastres y redes de sequía como mecanismos regionales, pero encuentra integración de género incompleta y bases de datos con pocas referencias explícitas. Las tablas nacionales muestran avances heterogéneos y el análisis de flujos confirma que gobiernos y entidades acreditadas reciben la mayor parte, mientras organizaciones feministas y comunitarias enfrentan costos, capacidades y procesos de solicitud que restringen su acceso.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Gender and climate in national policies and plans",
+          "nivel": 2,
+          "paginas": "41-43",
+          "resumen": "Presenta al CCCCC como institución regional encargada de coordinar la respuesta climática y enumera CCRIF, el Comprehensive Disaster Management Strategic Framework, la Jagdeo Initiative y CDPMN. Contrasta estos mecanismos con políticas y NDC nacionales de 11 países, donde género aparece con intensidad desigual: Dominica incluye una hoja de ruta con resultados, línea base y gestión conjunta de metas, mientras otros documentos apenas mencionan mujeres. El hallazgo es que las referencias normativas aumentan, pero faltan vínculos claros con financiamiento, datos desagregados y sistemas de monitoreo de resultados.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "The premier institution is the 5Cs: The Caribbean Community Climate Change Centre, which has been in operation since 2004, and is mandated to coordinate the regional response to climate change",
+              "pagina": 41
+            },
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "Only a few however have made clear linkages between gender and climate finance in these documents",
+              "pagina": 42,
+              "subtipo_brecha": "retrospectiva"
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Summary analysis of climate finance and gender in the Caribbean",
+          "nivel": 2,
+          "paginas": "43-44",
+          "resumen": "Compara la distribución de fondos climáticos en SIDS y señala que Guyana, Jamaica y Haití figuran entre los principales receptores globales. Muestra que el dinero se filtra muy poco a nivel comunitario: solo USD 43 millones llegaron a organizaciones feministas, de mujeres o de derechos de las mujeres, y apenas 10% de los flujos alcanza la base. Las entrevistas explican las barreras de formalización, gestión financiera, escritura de propuestas, información y complejidad de los procesos.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "only USD 43 million went to “feminist, women-led and women’s rights organizations and movements and institutions”",
+              "pagina": 44
+            },
+            {
+              "dimension": "desafios",
+              "cita": "Civil society organizations (CSOs) lack access to climate finance due to capacity constraints including financial management",
+              "pagina": 44
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Engagement of women and girls in project design, implementation and M&E",
+          "nivel": 2,
+          "paginas": "44",
+          "resumen": "Revisa las vías de participación de mujeres y otros grupos de género en diseño, talleres, empleo técnico, indicadores e implementación. Encuentra que las políticas de los fondos no siempre se traducen en participación temprana, que las mujeres pueden quedar relegadas a roles de expertas de género y que los indicadores se limitan con frecuencia al número de beneficiarias. La inclusión sustantiva es desigual entre organizaciones y proyectos.",
+          "dimensiones": [
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "It was not immediately evident that all projects engage women and other gender groups in project design",
+              "pagina": 44,
+              "subtipo_brecha": "retrospectiva"
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "V. Challenges, opportunities and recommendations",
+      "nivel": 1,
+      "paginas": "45-50",
+      "resumen": "Enumera publicaciones de la Gender Affairs Series y funciona como material editorial de cierre de la publicación. No desarrolla el argumento analítico, no formula hallazgos propios y se excluye de la codificación temática.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Challenges",
+          "nivel": 2,
+          "paginas": "45-47",
+          "resumen": "Identifica la falta de desglose subregional y nacional de flujos, la escasez de información de género, las economías de escala y la desalineación entre proyectos predeterminados por entidades acreditadas y necesidades locales. Señala problemas metodológicos de transparencia, doble conteo, costos totales frente a incrementales y ausencia de sistemas coherentes de seguimiento doméstico. También documenta que solo ocho países costearon mitigación, cinco adaptación y uno ambas en sus NDC, por un total de USD 51,3 mil millones, con género y autonomía ausentes como categorías sistemáticas.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "Challenges remain in aggregating and analyzing information from diverse sources with varying degrees of transparency",
+              "pagina": 45
+            },
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "At this time, CPEIR methodology is not engendered",
+              "pagina": 46,
+              "subtipo_brecha": "retrospectiva"
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Opportunities",
+          "nivel": 2,
+          "paginas": "47-48",
+          "resumen": "Propone aprovechar nuevos mecanismos y entidades para mapear organizaciones de mujeres, conectar puntos focales con comunidades y crear bases de datos de socios con experiencia de género. Desarrolla ventanas especiales, pequeños fondos, subsidios, seguros, bonos soberanos verdes y azules, presupuesto sensible al género, capacitación técnica, protección de tierras, métricas y participación en decisiones. Las oportunidades se vinculan con empleo, MSME, agricultura, energía, infraestructura, mercados de carbono y transformación productiva, aunque requieren condiciones de justicia y acceso.",
+          "dimensiones": [
+            {
+              "dimension": "oportunidades",
+              "cita": "There are opportunities for newly developed finance mechanisms and implementing entities to actively engage with its stakeholders to get a better understanding of their needs and capacity to apply",
+              "pagina": 47
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Such actions could include initiating the provision of financing to women’s groups, women-owned entities and projects through special windows",
+              "pagina": 47
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Recommendations",
+          "nivel": 2,
+          "paginas": "48-50",
+          "resumen": "Formula once recomendaciones normativas para cerrar la brecha de datos, transversalizar género, ampliar el acceso, fortalecer instituciones y asegurar participación. Incluye mejorar recolección y monitoreo; integrar género en instrumentos nacionales; fortalecer instituciones financieras y maquinarias de mujeres; crear pequeños fondos y productos para MSME; hacer consultas participativas; comunicar en lenguaje accesible; conectar GRB con CPEIR; financiar análisis sectoriales y cuidados; simplificar criterios y condicionalidades; y mejorar la participación equilibrada en decisiones. El conjunto combina instrumentos identificables con orientaciones institucionales más generales.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Improve data collection: Programs, policies and action plans to enhance data collection and monitoring that promotes use of quantitative and qualitative methodologies",
+              "pagina": 48
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "offering small grant mechanisms, specifically designed to cater to the needs of small organizations (including those managed by women and youths)",
+              "pagina": 49
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Link Gender-Responsive Budgeting (GRB) with Climate Policy Expenditure and Institutional Reviews (CPIER)",
+              "pagina": 49
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Data collection on how climate impacts women’s and men’s work and time-use is essential.",
+              "pagina": 50
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "La iniciativa DSI-CRF se presenta como un mecanismo regional coordinado para reducir deuda, captar financiamiento, financiar adaptación, infraestructura, resiliencia, inversión verde y diversificación productiva; además nombra sectores concretos como turismo ecológico, agricultura nutracéutica, electrónica, aeroespacial y farmacia y conecta deuda, empleo, productividad, desigualdad y ambiente. Sin embargo, el documento analiza una iniciativa todavía proyectada y no formula un paquete propio plenamente especificado de inversión pública y políticas simultáneas a escala del modelo de desarrollo. Test 1: Parcial; test 2: Sí; test 3: Sí. Bajo el umbral metodológico, la propuesta sectorial/coordinada pero dependiente de un mecanismo en evolución no alcanza Sí.",
+      "citas": [
+        {
+          "cita": "The DSI is a mechanism to reduce the debt/debt service burden and CRF is the special purpose vehicle to leverage long-term low-cost development finance institutions and donors as well as to attract large scale funding from the GCF for adaptation and mitigation projects",
+          "pagina": 38
+        },
+        {
+          "cita": "Under the ‘upgrade’ pillar, expected activities include both the upgrading of products and services as well as of the process of production of products and services",
+          "pagina": 38
+        }
+      ],
+      "nota": "Parcial por paquete y sectores identificables sin especificación ejecutiva completa de un gran impulso autónomo."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El documento nombra mecanismos concretos dentro del Caribe: el CCCCC/5Cs coordina la respuesta regional, CCRIF opera como esquema regional de seguros paramétricos y el CDPMN articula monitoreo de sequía y precipitación. También describe al CRF como mecanismo de coordinación y consolidación de flujos, con gobiernos, sector privado, GCF, donantes, IDB, CDB y entidades de acceso directo.",
+      "citas": [
+        {
+          "cita": "The premier institution is the 5Cs: The Caribbean Community Climate Change Centre, which has been in operation since 2004, and is mandated to coordinate the regional response to climate change",
+          "pagina": 41
+        },
+        {
+          "cita": "It would also act as a coordination and consolidation mechanism for inflow of climate finance",
+          "pagina": 38
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Sí",
+      "evidencia": "Enumera actividades concretas —turismo eco, patrimonial y marino; agricultura nutracéutica; electrónica, aeroespacial y farmacia; MSME de mujeres; agricultura resiliente y energía renovable— y desarrolla cómo la actualización productiva, la diversificación, la capacitación y el acceso a financiamiento pueden afectar empleo, productividad, exportaciones, autonomía y desigualdad. El vínculo no es una frase aislada: ocupa el análisis de los pilares de upgrading y nuevos sectores y su efecto diferencial sobre mujeres.",
+      "citas": [
+        {
+          "cita": "Hence, this will impact tourism products (highlighted are more eco, heritage and marine archeological based dive tourism), and expansion into niche-based agriculture such as nutraceuticals",
+          "pagina": 38
+        },
+        {
+          "cita": "If the move is towards more technical-intensive activities, as suggested by ECLAC scenarios (McLean 2022), this will mean a focus on sectors such as electronics, aerospace and pharmacy",
+          "pagina": 38
+        }
+      ],
+      "nota": null
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "La unidad correcta es la lista completa de C. Recommendations, pp. 48–50. Ocho de sus once bullets contienen instrumentos, mecanismos, entregables, procesos o poblaciones identificables; tres permanecen en el nivel de fortalecimiento, comunicación o participación general sin instrumento suficientemente definido.",
+      "citas": [
+        {
+          "cita": "Improve data collection: Programs, policies and action plans to enhance data collection and monitoring that promotes use of quantitative and qualitative methodologies",
+          "pagina": 48
+        },
+        {
+          "cita": "Governments and private entities, including banks, can implement several specific financial and political actions to enhance access to services and financial assistance",
+          "pagina": 49
+        },
+        {
+          "cita": "Finally, it is important to work with CSOs to refine and design effective climate finance mechanisms",
+          "pagina": 49
+        },
+        {
+          "cita": "which will have to be financed. Hence, climate finance must endeavor to include coverage of the care economy.",
+          "pagina": 50
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Improve data collection mediante programas, políticas y planes de acción con metodologías cuantitativas y cualitativas",
+          "clasificacion": "CONCRETO",
+          "pagina": 48
+        },
+        {
+          "item": "Implement meaningful gender mainstreaming in policy and planning",
+          "clasificacion": "GENERICO",
+          "pagina": 48
+        },
+        {
+          "item": "Strengthen the role of regional financial institutions and national women’s machineries",
+          "clasificacion": "GENERICO",
+          "pagina": 49
+        },
+        {
+          "item": "Increase accessibility to financing mediante pequeños fondos, productos para MSME de mujeres y distribución transparente",
+          "clasificacion": "CONCRETO",
+          "pagina": 49
+        },
+        {
+          "item": "Encourage engagement on multiple levels mediante consultas participativas, acceso directo, procesos simples y subvenciones pequeñas y medianas",
+          "clasificacion": "CONCRETO",
+          "pagina": 49
+        },
+        {
+          "item": "Enhance communication around climate action, finance and initiatives mediante mensajes y canales adecuados a las audiencias",
+          "clasificacion": "CONCRETO",
+          "pagina": 49
+        },
+        {
+          "item": "Link Gender-Responsive Budgeting (GRB) with Climate Policy Expenditure and Institutional Reviews (CPIER)",
+          "clasificacion": "CONCRETO",
+          "pagina": 49
+        },
+        {
+          "item": "Sectoral funding mediante análisis de género y planes de acción sectoriales",
+          "clasificacion": "CONCRETO",
+          "pagina": 50
+        },
+        {
+          "item": "Funding the Care Economy mediante fondos, encuestas de uso del tiempo y datos de adaptación",
+          "clasificacion": "CONCRETO",
+          "pagina": 50
+        },
+        {
+          "item": "Ease burdensome criteria and conditionalities mediante procesos simplificados, expeditos y de bajo costo",
+          "clasificacion": "CONCRETO",
+          "pagina": 50
+        },
+        {
+          "item": "Enhance effective and balanced participation of women in decision-making about climate finance",
+          "clasificacion": "GENERICO",
+          "pagina": 50
+        }
+      ],
+      "tally": "8 de 11 ítems pasan el test de concreción",
+      "nota": null
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 5,
+      "nombre": "Igualdad de género",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la tensión entre la urgencia de movilizar grandes flujos para adaptación, mitigación y resiliencia y el riesgo de que la arquitectura financiera reproduzca exclusión, dependencia y desigualdad de género. El clima define el campo de acción, pero la pregunta sustantiva es quién accede, decide y se beneficia del financiamiento.",
+      "filtro_categoria_primaria": "La transformación principal buscada es que mujeres, organizaciones de mujeres y comunidades tengan autonomía económica, participación y acceso efectivo a instrumentos financieros y decisiones climáticas. El objeto no es crear una arquitectura fiscal por sí misma: deuda, fondos, bonos y CRF son los canales para corregir la desigualdad de género.",
+      "secundaria_obligatoria": "La sostenibilidad ambiental es la finalidad sectorial y material que organiza adaptación, mitigación, resiliencia, inversión verde, energía, agricultura, infraestructura y finanzas climáticas; funciona como la dimensión ambiental dentro de la cual se exige igualdad de género.",
+      "justificacion_anti_copia": "La clasificación se apoya en la insistencia del estudio en gender assessments, gender action plans, autonomía de las mujeres, acceso directo, pequeños fondos, MSME dirigidas por mujeres, economía del cuidado y participación en diseño y monitoreo. La comparación con el ancla #3, The rise of green bonds..., muestra la diferencia: allí el mercado y el instrumento financiero son el objeto; aquí bonos, fondos y debt swap son medios para transformar el acceso y poder económico de las mujeres en la acción climática.",
+      "validacion_anclas": "Se contrasta con el ancla #3, The rise of green bonds..., del canon de TIPOLOGIA_v0.md: ese caso prioriza #10 porque estudia el mercado financiero, mientras este documento prioriza #5 porque evalúa la distribución, participación y autonomía de las mujeres. #6 queda como secundaria porque define el ámbito de aplicación y los resultados climáticos perseguidos, no porque desplace el objeto distributivo."
+    },
+    "tipo_documento_climatico": "Estudio técnico de financiamiento climático con análisis de género y revisión de políticas, fondos e iniciativas regionales",
+    "nivel_aplicacion": "Regional caribeño, con análisis subregional CARICOM y casos nacionales",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

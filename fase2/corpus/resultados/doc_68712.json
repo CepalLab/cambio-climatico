@@ -1,0 +1,575 @@
+{
+  "documento": {
+    "num_muestra": 182,
+    "titulo": "The economics of climate change in Latin America and the Caribbean, 2023: financing needs and policy tools for the transition to low-carbon and climate-resilient economies",
+    "autoria": "Carlos de Miguel, Santiago Lorenzo, José Javier Gómez, José Eduardo Alatorre, Jimy Ferrer, Lucía Rezza e Ignacio Fernández",
+    "handle": "https://hdl.handle.net/11362/68712",
+    "simbolo": "LC/TS.2023/154",
+    "isbn": null,
+    "fecha": "2023",
+    "tipo_documento": "Documento técnico institucional de la CEPAL",
+    "paginas_cuerpo": 57,
+    "paginas_totales": 60,
+    "idioma": "en",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Qué escala de inversión necesita América Latina y el Caribe para cumplir sus contribuciones determinadas a nivel nacional y transitar hacia economías bajas en carbono y resilientes al clima, y qué herramientas de política pueden movilizarla?",
+    "alcance": {
+      "ambito_aplicacion": "América Latina y el Caribe, con análisis regional y desagregación por países, sectores y subregiones.",
+      "referentes_dependencias": "IPCC, NGFS, IEA, WMO, el Acuerdo de París, el Acuerdo de Escazú, países y regiones usados como referencias comparativas y modelos internacionales de costo social del carbono.",
+      "sectorial": "Energía, transporte público, deforestación y uso de la tierra, infraestructura, biodiversidad, sistemas de alerta temprana, pobreza, financiamiento climático, taxonomías, precios del carbono, evaluación ambiental y democracia ambiental.",
+      "temporal": "Evidencia histórica principalmente 1970–2022; proyecciones y necesidades de inversión 2023–2030, con horizontes climáticos hasta 2050 y 2100."
+    },
+    "hallazgos_principales": [
+      "El documento fija para la región una meta de reducción de emisiones de 24%–29% a 2030 frente al escenario tendencial y señala que la descarbonización debe avanzar cuatro o cinco veces más rápido que históricamente (p.7).",
+      "Un aumento adicional de 1°C se asocia con una pérdida de un punto porcentual del crecimiento per cápita en América Latina y el Caribe (p.14).",
+      "La inversión energética adicional requerida frente a 2020 se estima entre 0,2% y 1,0% del PIB regional anual durante 2021–2030, equivalente a US$13–56 mil millones por año (p.33).",
+      "La electrificación de la flota pública de autobuses en los países analizados tiene un costo de capital de hasta 0,55% del PIB regional y puede reducir 8,6 MtCO2eq de emisiones (pp.35–36).",
+      "En 2020 los fondos climáticos, bancos de desarrollo, recursos locales y bonos verdes sumaron US$22.910 millones, según la tabla regional de financiamiento (p.44).",
+      "La región queda aproximadamente 6% por debajo de la meta de proteger 30% de sus áreas terrestres, aguas interiores, marinas y costeras (p.39)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La transición climática regional es simultáneamente una necesidad de inversión y una oportunidad de cambio estructural: las metas de mitigación, adaptación y resiliencia no pueden alcanzarse con acciones sectoriales aisladas, sino con una combinación de financiamiento, políticas y reasignación de prioridades.",
+        "La brecha no es solo cuantitativa. La fragmentación de taxonomías, la información asimétrica, los riesgos físicos y de transición y la insuficiente preparación de proyectos dificultan que el capital llegue a actividades compatibles con el Acuerdo de París.",
+        "La acción climática debe incorporar una dimensión distributiva y participativa: la reducción de pobreza, la transparencia, la participación pública y la justicia ambiental condicionan la legitimidad y durabilidad de la transición."
+      ],
+      "recomendaciones": [
+        "Alinear políticas y sistema financiero mediante taxonomías comparables e interoperables, análisis de riesgos climáticos y estrategias de transición.",
+        "Priorizar inversión en energías renovables, movilidad eléctrica, economía circular, bioeconomía, agua, turismo sostenible y seguridad alimentaria, junto con infraestructura de adaptación y conservación.",
+        "Aplicar instrumentos de precio del carbono y precio social del carbono, e integrar el cambio climático en las evaluaciones de impacto ambiental de proyectos.",
+        "Implementar el Acuerdo de Escazú y sistemas de información, participación, justicia ambiental y alerta temprana para sostener una transición inclusiva."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "El informe conecta la urgencia climática con el estancamiento económico regional y cuantifica necesidades de inversión en energía, transporte, deforestación, biodiversidad, infraestructura y adaptación. Su diagnóstico muestra que un aumento de 1°C reduce en un punto porcentual el crecimiento per cápita regional y que la electrificación de buses puede evitar 8,6 MtCO2eq. El capítulo de recomendaciones desplaza el foco desde la mera disponibilidad de fondos hacia taxonomías interoperables, análisis de riesgos, precios del carbono y proyectos evaluados con criterios climáticos. El cierre incorpora el Acuerdo de Escazú, la información pública y los sistemas de alerta temprana como condiciones institucionales de una transición justa."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introduction",
+      "nivel": 1,
+      "paginas": "9",
+      "resumen": "Introduces climate change as a growing threat to people, societies, economies and ecosystems in Latin America and the Caribbean, where droughts, forest fires and extreme storms are increasing. It frames climate action as an opportunity during a decade of stagnation and cascading crises, because the required investments, plans and policies can also boost growth, innovation, employment and regional integration. The section announces the document’s three analytical tasks: describe climate and economic impacts, estimate sectoral investment needs, and present transformative sectors and policy tools.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Climate change is increasingly evident worldwide and its effects are harming people, societies, economies and ecosystems.",
+          "pagina": 9
+        },
+        {
+          "dimension": "oportunidades",
+          "cita": "However, it is in this period of “cascading crises” that climate action offers an opportunity to boost growth and innovation, create jobs and to better integrate countries of the region into the global economy.",
+          "pagina": 9
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Chapter I Climate change: urgent action is required",
+      "nivel": 1,
+      "paginas": "11-30",
+      "resumen": "This chapter establishes the physical, economic and policy case for urgent climate action. Its subsections move from regional climate trends and productivity losses to the global carbon budget, emissions, nationally determined contributions and the structural-change dilemma. The chapter links the evidence to a development problem: achieving poverty reduction and external balance while accelerating decarbonization requires changes in investment, production, technology and redistribution. The chapter map is: A. Climate trends and economic impacts. This subsection documents rising heat exposure, climate risks and projected losses of per capita GDP. It presents country-level regional evidence, including additional hot days and the expected intensification of food, water, health, coastal and ecosystem risks, then compares estimates for 2030, 2050 and 2100 under different climate-economy studies. Its function is to establish that climate impacts are already economic and that inaction produces escalating losses. The evidence turns physical changes into a regional economic diagnosis: the same warming that increases hazards also damages output, livelihoods and the productive base, which is why subsequent sections must address both mitigation and adaptation investment. B. Effects of temperature on productivity. The subsection explains how heat stress affects physical production, cognition, learning and labour productivity, combining evidence from the United States, India and other countries with regional projections. It reports that an additional degree in Latin America and the Caribbean translates into a one-percentage-point loss in per capita growth, and shows that days above 35°C will rise sharply in South America under current-policy and high-emissions scenarios. The implication is that climate change directly reduces long-term economic performance. C. Carbon budget and nationally determined contributions. This subsection defines the carbon budget and places regional action within global temperature targets. It contrasts the remaining budget for 1.5°C and 2°C with modelled emissions pathways and policy assessments for 2030, showing why existing policies and contributions are insufficient to close the global mitigation gap. The section supplies the international climate constraint used by the later regional analysis. D. Overview of emissions in Latin America. The subsection locates Latin America and the Caribbean in global emissions and disaggregates the regional profile by sector and country. It shows the importance of agriculture, forestry and other land-use change, especially deforestation, alongside energy, transport, industry and waste. Figures for 2019 and the historical series provide the baseline against which the region’s mitigation commitments and required pace of decarbonization are assessed. E. Nationally determined contributions in Latin America and the Caribbean. This subsection inventories updated nationally determined contributions, their unconditional and conditional targets, and priority adaptation and mitigation sectors across the region. It records that 29 of 33 countries had submitted new climate-action commitments by June 2023, while the conditional target requires a much faster decarbonization pace than the historical rate. The tables show that energy, transport, land use, forests, agriculture, water, infrastructure, cities and social sectors all enter the policy challenge. F. Climate action and structural change. The closing subsection frames climate action as a structural-change problem rather than a single-sector adjustment. It compares the growth required to reduce poverty with the limits imposed by external balance and the Paris Agreement, and identifies technical progress, redistribution, structural change and decarbonization as linked elements of the solution. Renewable electricity, green hydrogen, electric mobility, improved agriculture, circular economy and nature-based solutions are presented as ways to combine emissions reductions with economic growth.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Climate trends and economic impacts",
+          "nivel": 2,
+          "paginas": "14-16",
+          "resumen": "This subsection documents rising heat exposure, climate risks and projected losses of per capita GDP. It presents country-level regional evidence, including additional hot days and the expected intensification of food, water, health, coastal and ecosystem risks, then compares estimates for 2030, 2050 and 2100 under different climate-economy studies. Its function is to establish that climate impacts are already economic and that inaction produces escalating losses. The evidence turns physical changes into a regional economic diagnosis: the same warming that increases hazards also damages output, livelihoods and the productive base, which is why subsequent sections must address both mitigation and adaptation investment.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Given the evidence, climate change is affecting long-term economic performance and will have an even bigger impact if emission reduction targets are not met.",
+              "pagina": 16
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "Risk of food insecurity owing to more frequent or extreme droughts.",
+              "pagina": 14
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Effects of temperature on productivity",
+          "nivel": 2,
+          "paginas": "16",
+          "resumen": "The subsection explains how heat stress affects physical production, cognition, learning and labour productivity, combining evidence from the United States, India and other countries with regional projections. It reports that an additional degree in Latin America and the Caribbean translates into a one-percentage-point loss in per capita growth, and shows that days above 35°C will rise sharply in South America under current-policy and high-emissions scenarios. The implication is that climate change directly reduces long-term economic performance.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "These impacts on productivity over time, and independently of other climate change impacts on the economy —such as soil losses and losses related to acute extreme events— directly affect economic growth rates and may weigh on them permanently (Cachon, Gallino and Olivares, 2012; Heal and Park, 2016).",
+              "pagina": 16
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "For Latin America and the Caribbean, an additional 1°C translates into a loss of 1 percentage point in per capita growth (Van der Borght and others, 2023).",
+              "pagina": 16
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Carbon budget and nationally determined contributions",
+          "nivel": 2,
+          "paginas": "18",
+          "resumen": "This subsection defines the carbon budget and places regional action within global temperature targets. It contrasts the remaining budget for 1.5°C and 2°C with modelled emissions pathways and policy assessments for 2030, showing why existing policies and contributions are insufficient to close the global mitigation gap. The section supplies the international climate constraint used by the later regional analysis.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Overview of emissions in Latin America",
+          "nivel": 2,
+          "paginas": "24-27",
+          "resumen": "The subsection locates Latin America and the Caribbean in global emissions and disaggregates the regional profile by sector and country. It shows the importance of agriculture, forestry and other land-use change, especially deforestation, alongside energy, transport, industry and waste. Figures for 2019 and the historical series provide the baseline against which the region’s mitigation commitments and required pace of decarbonization are assessed.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "The level of emissions in a business-as-usual scenario would grow at a rate of 0.6% assuming low regional growth, such as that recorded between 2010 and 2019 (see table 5 and figure 12).",
+              "pagina": 27
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Nationally determined contributions in Latin America and the Caribbean",
+          "nivel": 2,
+          "paginas": "24",
+          "resumen": "This subsection inventories updated nationally determined contributions, their unconditional and conditional targets, and priority adaptation and mitigation sectors across the region. It records that 29 of 33 countries had submitted new climate-action commitments by June 2023, while the conditional target requires a much faster decarbonization pace than the historical rate. The tables show that energy, transport, land use, forests, agriculture, water, infrastructure, cities and social sectors all enter the policy challenge.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "Argentina, Belize, Chile, Colombia, Costa Rica, Guatemala, Mexico and Uruguay have published their long-term low greenhouse gas emission development strategies up to 2050, as mandated in the Paris Agreement.",
+              "pagina": 24
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "F. Climate action and structural change",
+          "nivel": 2,
+          "paginas": "30",
+          "resumen": "The closing subsection frames climate action as a structural-change problem rather than a single-sector adjustment. It compares the growth required to reduce poverty with the limits imposed by external balance and the Paris Agreement, and identifies technical progress, redistribution, structural change and decarbonization as linked elements of the solution. Renewable electricity, green hydrogen, electric mobility, improved agriculture, circular economy and nature-based solutions are presented as ways to combine emissions reductions with economic growth.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Alternatively, if the region grows by more than 4% per year to alleviate poverty, decarbonization of the economy should increase to at least 3.9% per year.",
+              "pagina": 30
+            },
+            {
+              "dimension": "desafios",
+              "cita": "Alternatively, if the region grows by more than 4% per year to alleviate poverty, decarbonization of the economy should increase to at least 3.9% per year.",
+              "pagina": 30
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "Chapter II Investing in climate action",
+      "nivel": 1,
+      "paginas": "33-46",
+      "resumen": "This chapter estimates the investment requirements associated with mitigation, adaptation and resilience in Latin America and the Caribbean. It covers energy, public transport, deforestation, infrastructure, biodiversity, early warning systems and the poverty costs of climate inaction, then compares those needs with current climate-finance flows. The chapter’s argument is that the scale of required resources is substantial but can be addressed through coordinated investment and financial-policy alignment. The chapter map is: A. Estimates of transition costs in Latin America and the Caribbean. This block maps the aggregate transition-cost exercise and its seven detailed components. It combines mitigation investment in the energy system, electric buses and forest protection with adaptation investment in water, sanitation, flood protection, biodiversity, early warnings and poverty prevention. The estimates are explicitly sectoral and aggregate, so they indicate the order of magnitude of the challenge rather than a complete inventory of every country’s needs. The chapter therefore works as a bridge between the climate diagnosis and the financing agenda: each sector is associated with a physical intervention, a cost assumption and a policy rationale, allowing the reader to see how the aggregate investment requirement is assembled and where adaptation and mitigation overlap. 1. Investment in mitigation in the Latin American and Caribbean energy sector. This item estimates additional investment in energy supply, replacement equipment and end-use efficiency in buildings, transport and industry. Compared with 2020, the region would need annual additional investment of 0.2%–1.0% of GDP during 2021–2030, or US$13–56 billion per year, with a mean of 0.71% across the integrated assessment models. The figures translate NDC alignment into a concrete financing requirement for the energy transition. 2. Investment required for electrification of the public transport fleet. This item treats public-bus electrification as a mitigation investment with a regional economic and emissions payoff. The map and capital-cost estimates cover 11 Latin American countries, while the emissions calculation shows the avoided CO2-equivalent associated with replacing the fleet. By pairing a named sector, a measurable capital requirement and an emissions outcome, the section makes transport a concrete component of the transition portfolio. 3. Investment required for mitigation by preventing deforestation. This item quantifies the mitigation relevance of land-use change and forest cover. It presents historical greenhouse-gas emissions generated by land-use change and a projection of forest-cover decline, linking the investment requirement to prevention of deforestation. The section therefore treats forests as both a mitigation sector and a productive-natural asset whose protection changes the region’s emissions trajectory. 4. Investments in mitigation and adaptation infrastructure. This item brings transport, water and sanitation, flood protection and irrigation into the infrastructure-cost calculation. It distinguishes new infrastructure from maintenance and uses risk and cost assumptions to estimate protection against coastal and riverine flooding. The result is an adaptation agenda with identifiable infrastructure objects and a direct connection between climate hazards, public investment and protection of local populations. 5. The cost of biodiversity conservation. This item estimates the investment needed to expand and maintain protected areas toward the 2030 target of conserving 30% of terrestrial, inland-water, marine and coastal areas. It reports the region’s current coverage, the remaining gap and the cost-per-square-kilometre assumptions, while explaining that protected areas can support sustainable use by local communities and Indigenous Peoples. Biodiversity is thus presented as an adaptation, mitigation and sustainable-use investment. 6. Extreme events in Latin America and the Caribbean: early warning systems. This item quantifies disaster exposure and the cost of comprehensive early warning systems. Floods accounted for 77% of deaths and 59% of economic losses in South America between 1970 and 2019, while cyclones and floods dominated regional damages. The section identifies observation, forecasting, dissemination, preparedness and multi-hazard information as investment objects, estimating a regional share of US$2.8 billion for 2023–2027. 7. The cost of inaction on poverty is an adaptation cost. This item connects the chronic economic effects of climate change with poverty and adaptation costs. Using the relationship between temperature and economic production, it projects regional per capita GDP losses and estimates that between 2 and 16.7 million additional people could fall below the poverty threshold by 2030, with 1.1–9.6 million entering extreme poverty. The finding makes poverty reduction a central criterion for evaluating climate investment and inaction. B. Current climate financing and NDC investment needs in Latin America and the Caribbean. This block compares current regional climate-finance flows with the investment scale implied by NDCs. The table separates climate funds, multilateral and national development banks, local resources and green bonds, while the figures show the evolution of flows from 2013 to 2020. Its function is to identify the financing gap and the need to align the financial system with productive activities that support a low-carbon and resilient transition.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Estimates of transition costs in Latin America and the Caribbean",
+          "nivel": 2,
+          "paginas": "35",
+          "resumen": "This block maps the aggregate transition-cost exercise and its seven detailed components. It combines mitigation investment in the energy system, electric buses and forest protection with adaptation investment in water, sanitation, flood protection, biodiversity, early warnings and poverty prevention. The estimates are explicitly sectoral and aggregate, so they indicate the order of magnitude of the challenge rather than a complete inventory of every country’s needs. The chapter therefore works as a bridge between the climate diagnosis and the financing agenda: each sector is associated with a physical intervention, a cost assumption and a policy rationale, allowing the reader to see how the aggregate investment requirement is assembled and where adaptation and mitigation overlap.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Adaptation estimates also factor in the necessary requirements for the designation of 30% of terrestrial and marine areas as protected areas, the funding required to forestall poverty increases as temperatures rise, and the cost of implementing efficient early warning systems, in particular for flooding and droughts.",
+              "pagina": 35
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "1. Investment in mitigation in the Latin American and Caribbean energy sector",
+          "nivel": 2,
+          "paginas": "35",
+          "resumen": "This item estimates additional investment in energy supply, replacement equipment and end-use efficiency in buildings, transport and industry. Compared with 2020, the region would need annual additional investment of 0.2%–1.0% of GDP during 2021–2030, or US$13–56 billion per year, with a mean of 0.71% across the integrated assessment models. The figures translate NDC alignment into a concrete financing requirement for the energy transition.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "According to the findings of NGFS, compared with 2020 levels, annual investment over the period 2021–2030 will have to increase by between 0.2% and 1.0% of regional GDP",
+              "pagina": 35
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "2. Investment required for electrification of the public transport fleet",
+          "nivel": 2,
+          "paginas": "37",
+          "resumen": "This item treats public-bus electrification as a mitigation investment with a regional economic and emissions payoff. The map and capital-cost estimates cover 11 Latin American countries, while the emissions calculation shows the avoided CO2-equivalent associated with replacing the fleet. By pairing a named sector, a measurable capital requirement and an emissions outcome, the section makes transport a concrete component of the transition portfolio.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "3. Investment required for mitigation by preventing deforestation",
+          "nivel": 2,
+          "paginas": "38-41",
+          "resumen": "This item quantifies the mitigation relevance of land-use change and forest cover. It presents historical greenhouse-gas emissions generated by land-use change and a projection of forest-cover decline, linking the investment requirement to prevention of deforestation. The section therefore treats forests as both a mitigation sector and a productive-natural asset whose protection changes the region’s emissions trajectory.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "One of the main outcomes of the fifteenth meeting of the Conference of the Parties to the Convention on Biological Diversity, held in 2022, and the Kunming-Montreal Global Biodiversity Framework (building on the Aichi Targets of the Strategic Plan for Biodiversity 2011–2020), was the target to ensure that, by 2030, at least 30% of terrestrial and inland water areas, and marine and coastal areas are effectively conserved and managed through systems of protected areas and other effective area-based conservation measures.",
+              "pagina": 41
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Protected areas in Latin America and the Caribbean facilitate the sustainable use of natural resources (biodiversity) by local communities and Indigenous Peoples; they are not meant to prohibit use but rather to increase the sustainability of such use.",
+              "pagina": 41
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "4. Investments in mitigation and adaptation infrastructure",
+          "nivel": 2,
+          "paginas": "41",
+          "resumen": "This item brings transport, water and sanitation, flood protection and irrigation into the infrastructure-cost calculation. It distinguishes new infrastructure from maintenance and uses risk and cost assumptions to estimate protection against coastal and riverine flooding. The result is an adaptation agenda with identifiable infrastructure objects and a direct connection between climate hazards, public investment and protection of local populations.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "On average, between 2015 and 2030, these investments could account for 0.28% of the GDP of the countries of Latin America and the Caribbean, of which 0.2% for new infrastructure and 0.08% for the maintenance of existing infrastructure.",
+              "pagina": 41
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "5. The cost of biodiversity conservation",
+          "nivel": 2,
+          "paginas": "41",
+          "resumen": "This item estimates the investment needed to expand and maintain protected areas toward the 2030 target of conserving 30% of terrestrial, inland-water, marine and coastal areas. It reports the region’s current coverage, the remaining gap and the cost-per-square-kilometre assumptions, while explaining that protected areas can support sustainable use by local communities and Indigenous Peoples. Biodiversity is thus presented as an adaptation, mitigation and sustainable-use investment.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "This leaves the region approximately 6% shy of the 30% target for both terrestrial and marine protected areas.",
+              "pagina": 41
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "The conservation of biodiversity plays a key role in climate change adaptation and mitigation alike.",
+              "pagina": 41
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "6. Extreme events in Latin America and the Caribbean: early warning systems",
+          "nivel": 2,
+          "paginas": "43",
+          "resumen": "This item quantifies disaster exposure and the cost of comprehensive early warning systems. Floods accounted for 77% of deaths and 59% of economic losses in South America between 1970 and 2019, while cyclones and floods dominated regional damages. The section identifies observation, forecasting, dissemination, preparedness and multi-hazard information as investment objects, estimating a regional share of US$2.8 billion for 2023–2027.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Between 1970 and 2019, floods were the most frequent cause of disaster, accounting for 77% of deaths and 59% of economic losses in South America.",
+              "pagina": 43
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Implementing effective, comprehensive early warning systems that specifically address floods, droughts and water-related hazards for at least 100 developing countries over the period covered by the Plan would cost US$ 2.1 billion, or an average of US$ 525 million annually (see diagram 2).",
+              "pagina": 43
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "7. The cost of inaction on poverty is an adaptation cost",
+          "nivel": 2,
+          "paginas": "44",
+          "resumen": "This item connects the chronic economic effects of climate change with poverty and adaptation costs. Using the relationship between temperature and economic production, it projects regional per capita GDP losses and estimates that between 2 and 16.7 million additional people could fall below the poverty threshold by 2030, with 1.1–9.6 million entering extreme poverty. The finding makes poverty reduction a central criterion for evaluating climate investment and inaction.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Lower growth rates due to the chronic effects of climate change would hamper the region’s ability to create jobs and reduce poverty.",
+              "pagina": 44
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Climate change is expected to cause between 2 and 16.7 million additional people to fall below the poverty threshold and between 1.1 and 9.6 million to sink into extreme poverty (see figure 23).",
+              "pagina": 44
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Current climate financing and NDC investment needs in Latin America and the Caribbean",
+          "nivel": 2,
+          "paginas": "46",
+          "resumen": "This block compares current regional climate-finance flows with the investment scale implied by NDCs. The table separates climate funds, multilateral and national development banks, local resources and green bonds, while the figures show the evolution of flows from 2013 to 2020. Its function is to identify the financing gap and the need to align the financial system with productive activities that support a low-carbon and resilient transition.",
+          "dimensiones": [],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "Chapter III Policy recommendations",
+      "nivel": 1,
+      "paginas": "47-57",
+      "resumen": "This chapter converts the diagnostic and investment estimates into a policy agenda. It identifies transformative sectors, climate-related financial-risk analysis and taxonomies, public policy instruments such as carbon pricing and climate-sensitive environmental assessments, and environmental democracy through the Escazú Agreement. The common thread is to make climate finance investable, comparable, accountable and socially legitimate. The chapter map is: A. Transformative sectors. This section identifies renewable energy, e-mobility, circular economy, bioeconomy, water resources, sustainable tourism and food security as transformative sectors, and displays a portfolio of regional projects by sector, subregion, stage and investment amount. It also highlights energy transition, e-mobility, strategic minerals and Caribbean resilience. The portfolio evidence gives concrete sectoral content to the report’s structural-change argument. B. Importance of climate-related financial risk analysis and taxonomies for climate financing, the transformation of the financial system and productive development. This section explains how taxonomies and climate-risk analysis can redirect finance while reducing greenwashing and market fragmentation. It distinguishes physical and transition risks and presents governance, strategy, risk management, metrics and targets as analytical areas. Comparable and interoperable definitions can help identify investment opportunities, mobilize capital and connect financial-system transformation with productive development and the Paris Agreement. C. Public policy instruments for climate action. This section presents carbon taxes, the social price of carbon and climate-sensitive environmental impact assessment as policy instruments. It compares national and subnational tax designs, summarizes social-carbon-price methodologies and values, and describes four stages for integrating climate change into project assessment. The section’s contribution is operational: it names fiscal, valuation and regulatory tools through which public investment and private finance can incorporate climate risks and emissions. 1. Carbon pricing instruments. This item surveys carbon-pricing instruments in five Latin American countries and subnational taxes in Mexican states. The tables identify legal bases, rates, national coverage, greenhouse gases covered, flexibility mechanisms and uses of revenue. The comparison shows that carbon pricing is an existing but heterogeneous policy instrument whose design can connect emissions reduction with environmental, infrastructure and economic objectives. 2. The social price of carbon. This item compares integrated assessment models and their treatment of emissions, climate representation, adaptation and time horizons, then reports estimated social carbon prices for Chile, Costa Rica, the Dominican Republic, Nicaragua and Peru. The regional initiative is linked to national public-investment systems and capacity-building for technical teams. The instrument supplies a valuation benchmark for incorporating climate damages into public project appraisal. 3. Including climate change in environmental impact assessments of projects. This item sets out four stages for integrating climate change into environmental impact assessment: project description, the socioenvironmental baseline, assessment, and the environmental management plan. It assigns each stage a concrete task, from testing design and location options and greenhouse-gas contributions to addressing uncertainty and incorporating adaptive mitigation measures. The recommendation turns climate assessment into a project-cycle requirement rather than a generic policy aspiration. D. Environmental democracy: a catalyst for informed and inclusive climate action. This section presents the Escazú Agreement and Article 6 of the UNFCCC as institutional foundations for informed, inclusive and just climate action. It covers transparency, access to climate information, environmental information systems, early warning, public participation in climate policies and NDC monitoring, environmental justice and protection of human-rights defenders. The argument is that democratic and rights-based procedures make mitigation and adaptation durable across society.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Transformative sectors",
+          "nivel": 2,
+          "paginas": "49",
+          "resumen": "This section identifies renewable energy, e-mobility, circular economy, bioeconomy, water resources, sustainable tourism and food security as transformative sectors, and displays a portfolio of regional projects by sector, subregion, stage and investment amount. It also highlights energy transition, e-mobility, strategic minerals and Caribbean resilience. The portfolio evidence gives concrete sectoral content to the report’s structural-change argument.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Importance of climate-related financial risk analysis and taxonomies for climate financing, the transformation of the financial system and productive development",
+          "nivel": 2,
+          "paginas": "51",
+          "resumen": "This section explains how taxonomies and climate-risk analysis can redirect finance while reducing greenwashing and market fragmentation. It distinguishes physical and transition risks and presents governance, strategy, risk management, metrics and targets as analytical areas. Comparable and interoperable definitions can help identify investment opportunities, mobilize capital and connect financial-system transformation with productive development and the Paris Agreement.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "A set of comparable and interoperable definitions, parameters and thresholds across jurisdictions, however, would lend credibility, integrity and transparency to the market.",
+              "pagina": 51
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Asymmetrical information and scattered approaches are among the main barriers to increasing market acceptance of sustainable finance.",
+              "pagina": 51
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Public policy instruments for climate action",
+          "nivel": 2,
+          "paginas": "52-56",
+          "resumen": "This section presents carbon taxes, the social price of carbon and climate-sensitive environmental impact assessment as policy instruments. It compares national and subnational tax designs, summarizes social-carbon-price methodologies and values, and describes four stages for integrating climate change into project assessment. The section’s contribution is operational: it names fiscal, valuation and regulatory tools through which public investment and private finance can incorporate climate risks and emissions.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Since the 2010s, there have been growing efforts to adapt environmental impact assessment (EIA) processes to include the impacts of climate change on investment projects and vice versa, although they remain fledgling.",
+              "pagina": 56
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "1. Carbon pricing instruments",
+          "nivel": 2,
+          "paginas": "52",
+          "resumen": "This item surveys carbon-pricing instruments in five Latin American countries and subnational taxes in Mexican states. The tables identify legal bases, rates, national coverage, greenhouse gases covered, flexibility mechanisms and uses of revenue. The comparison shows that carbon pricing is an existing but heterogeneous policy instrument whose design can connect emissions reduction with environmental, infrastructure and economic objectives.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "2. The social price of carbon",
+          "nivel": 2,
+          "paginas": "56",
+          "resumen": "This item compares integrated assessment models and their treatment of emissions, climate representation, adaptation and time horizons, then reports estimated social carbon prices for Chile, Costa Rica, the Dominican Republic, Nicaragua and Peru. The regional initiative is linked to national public-investment systems and capacity-building for technical teams. The instrument supplies a valuation benchmark for incorporating climate damages into public project appraisal.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "These estimates are the result of coordinated work with the national public investment systems of the respective countries and are currently in the phase of capacity-building for the technical teams for implementation.",
+              "pagina": 56
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "3. Including climate change in environmental impact assessments of projects",
+          "nivel": 2,
+          "paginas": "56",
+          "resumen": "This item sets out four stages for integrating climate change into environmental impact assessment: project description, the socioenvironmental baseline, assessment, and the environmental management plan. It assigns each stage a concrete task, from testing design and location options and greenhouse-gas contributions to addressing uncertainty and incorporating adaptive mitigation measures. The recommendation turns climate assessment into a project-cycle requirement rather than a generic policy aspiration.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "Preliminary feasibility studies are prepared, considering different design and location options for the investment project, as well as the project’s contribution to greenhouse gas emissions.",
+              "pagina": 56
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Environmental democracy: a catalyst for informed and inclusive climate action",
+          "nivel": 2,
+          "paginas": "57",
+          "resumen": "This section presents the Escazú Agreement and Article 6 of the UNFCCC as institutional foundations for informed, inclusive and just climate action. It covers transparency, access to climate information, environmental information systems, early warning, public participation in climate policies and NDC monitoring, environmental justice and protection of human-rights defenders. The argument is that democratic and rights-based procedures make mitigation and adaptation durable across society.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "The Agreement also fosters proactive production and dissemination of climate information, from sources such as those related to carbon dioxide emissions, and development of updated environmental information systems that may include a list of contaminated areas, scientific reports and studies, and information from sources related to climate change.",
+              "pagina": 57
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "The Agreement also boosts public participation in climate issues from a rights-based perspective, seeking to make it open and inclusive. This includes climate change and carbon-neutral policies, plans and strategies, and even the processes for preparing, updating and monitoring nationally determined contributions.",
+              "pagina": 57
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "Pasa el test de paquete coordinado porque articula inversión, financiamiento, sectores transformadores e instrumentos fiscales y regulatorios a lo largo de la transición; además nombra sectores estratégicos y conecta productividad, empleo, reducción de emisiones y resiliencia. No es solo una declaración aspiracional: cuantifica inversiones, propone precios del carbono, taxonomías y evaluación ambiental.",
+      "citas": [
+        {
+          "cita": "Progress towards this goal will require the development of comprehensive strategies that include not only the energy sector, but also the transport and agrifood sectors.",
+          "pagina": 7
+        },
+        {
+          "cita": "The financing needs that have been identified presuppose the availability of substantial, but not unattainable, amounts; and the time to act is now.",
+          "pagina": 7
+        }
+      ],
+      "nota": null
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El documento nombra mecanismos institucionales y acuerdos dentro del ámbito regional que articulan Estados, comunidades, personas, sectores y sistemas públicos: el Acuerdo de Escazú, la CEPAL y REDLASEIA para la evaluación ambiental, y los sistemas nacionales de inversión pública para el precio social del carbono. La evidencia acredita mecanismos concretos, no solo una lista genérica de actores.",
+      "citas": [
+        {
+          "cita": "The 2015 Paris Agreement, national climate action commitments and climate finance mechanisms have served as a basis for States to include the link between climate change and EIAs in legislation (for example in Canada, Germany, Spain, the United States, the United Kingdom and the countries of the European Union).",
+          "pagina": 56
+        },
+        {
+          "cita": "The Escazú Agreement expressly sets out the obligation of each Party to guarantee the right of every person to live in a healthy environment and to sustainable development.",
+          "pagina": 57
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Sí",
+      "evidencia": "Enumera sectores y actividades concretas —energías renovables, movilidad eléctrica, economía circular, bioeconomía, agua, turismo sostenible y seguridad alimentaria— y desarrolla su vínculo con crecimiento, innovación, empleo, productividad, desigualdad y resiliencia. La relación productiva no queda en una frase aislada: se conecta a la cartera de proyectos, la inversión y el cambio estructural.",
+      "citas": [
+        {
+          "cita": "However, it is in this period of “cascading crises” that climate action offers an opportunity to boost growth and innovation, create jobs and to better integrate countries of the region into the global economy.",
+          "pagina": 9
+        },
+        {
+          "cita": "The investments, plans and policies required to tackle the climate crisis may also help to achieve economic and social goals.",
+          "pagina": 9
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Renewable energies",
+          "clasificacion": "CONCRETO",
+          "pagina": 49
+        },
+        {
+          "item": "E-mobility",
+          "clasificacion": "CONCRETO",
+          "pagina": 49
+        },
+        {
+          "item": "The circular economy",
+          "clasificacion": "CONCRETO",
+          "pagina": 49
+        },
+        {
+          "item": "The bioeconomy",
+          "clasificacion": "CONCRETO",
+          "pagina": 49
+        },
+        {
+          "item": "Water resources",
+          "clasificacion": "CONCRETO",
+          "pagina": 49
+        },
+        {
+          "item": "Sustainable tourism",
+          "clasificacion": "CONCRETO",
+          "pagina": 49
+        },
+        {
+          "item": "Food security",
+          "clasificacion": "CONCRETO",
+          "pagina": 49
+        }
+      ],
+      "tally": "7 de 7 ítems pasan el test de concreción",
+      "nota": null
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "La voz normativa del cierre contiene instrumentos identificables y tareas verificables: taxonomías interoperables, análisis de riesgos, precios del carbono, evaluación ambiental por etapas y obligaciones de información, participación y alerta. La lista no se acredita por los casos descriptivos de terceros, sino por las acciones e instrumentos que el documento propone o operacionaliza para su ámbito.",
+      "citas": [
+        {
+          "cita": "A set of comparable and interoperable definitions, parameters and thresholds across jurisdictions, however, would lend credibility, integrity and transparency to the market.",
+          "pagina": 51
+        },
+        {
+          "cita": "Project description: the main aim is to reduce risks and make projects more resilient. To this end, preliminary feasibility studies are prepared, considering different design and location options for the investment project, as well as the project’s contribution to greenhouse gas emissions.",
+          "pagina": 56
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Adopt comparable and interoperable definitions, parameters and thresholds for taxonomies",
+          "clasificacion": "CONCRETO",
+          "pagina": 51
+        },
+        {
+          "item": "Use climate-related financial risk analysis across governance, strategy, risk management, metrics and targets",
+          "clasificacion": "CONCRETO",
+          "pagina": 51
+        },
+        {
+          "item": "Apply carbon-pricing instruments and the social price of carbon",
+          "clasificacion": "CONCRETO",
+          "pagina": 52
+        },
+        {
+          "item": "Integrate climate change into project environmental impact assessment through four stages",
+          "clasificacion": "CONCRETO",
+          "pagina": 56
+        },
+        {
+          "item": "Produce and disseminate climate information and operate early-warning systems",
+          "clasificacion": "CONCRETO",
+          "pagina": 57
+        },
+        {
+          "item": "Guarantee open and inclusive public participation under the Escazú Agreement",
+          "clasificacion": "CONCRETO",
+          "pagina": 57
+        }
+      ],
+      "tally": "6 de 6 ítems pasan el test de concreción",
+      "nota": null
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 10,
+      "nombre": "Macroeconomía y fiscalidad",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la contradicción entre una región con bajo crecimiento, baja inversión y desigualdad, y la necesidad de descarbonizar y adaptarse con rapidez. La resuelve tratando la acción climática como un programa de inversión, cambio estructural y política financiera, no como un costo ambiental separado de la economía.",
+      "filtro_categoria_primaria": "El objeto central es la transición hacia economías bajas en carbono y resilientes: impactos, emisiones, adaptación, sectores transformadores y herramientas climáticas organizan el argumento. La macroeconomía y la fiscalidad son instrumentos de financiamiento y valoración —precios del carbono, inversión, taxonomías y riesgos—, por lo que #10 queda como secundaria y no desplaza a #6.",
+      "secundaria_obligatoria": "Macroeconomía y fiscalidad cumple la función habilitadora de medir costos, fijar señales de precio, orientar inversión pública y privada y alinear el sistema financiero con la transición. La dimensión fiscal-financiera es indispensable para convertir las metas climáticas en flujos de capital y proyectos evaluables.",
+      "justificacion_anti_copia": "La clasificación se ancla en la cuantificación de inversión energética adicional de 0,2%–1,0% del PIB, la electrificación de autobuses y la meta de proteger 30% de áreas; también en los impuestos y el precio social del carbono para proyectos públicos, y en la integración del clima en cuatro etapas de evaluación ambiental. Esos elementos muestran que la transformación ambiental es el sujeto y que las herramientas macrofinancieras son los medios.",
+      "validacion_anclas": "Se contrasta con el ancla #18 de la metodología, donde el financiamiento es medio de una transición baja en carbono y resiliente: este documento comparte ese objeto ambiental y también cuantifica necesidades financieras, aunque pone más énfasis operativo en taxonomías, precios del carbono y evaluación de proyectos. Se diferencia del ancla #3 porque no estudia un mercado financiero verde como objeto autónomo, sino que lo moviliza para la acción climática."
+    },
+    "tipo_documento_climatico": "Documento técnico institucional de diagnóstico cuantitativo, estimación de necesidades de inversión y recomendaciones de política climática.",
+    "nivel_aplicacion": "Regional: América Latina y el Caribe, con desagregación nacional, sectorial y subregional.",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

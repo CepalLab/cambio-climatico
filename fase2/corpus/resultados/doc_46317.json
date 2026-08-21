@@ -1,0 +1,374 @@
+{
+  "documento": {
+    "num_muestra": 120,
+    "titulo": "Cambio climático y adaptación basada en la naturaleza: el potencial de la cobertura boscosa para reducir el impacto económico de las inundaciones en la República Dominicana",
+    "autoria": "Rafael Van der Borght, Alexis Cruz-Rodríguez y José Eduardo Alatorre",
+    "handle": "https://hdl.handle.net/11362/46317",
+    "simbolo": "LC/TS.2020/111",
+    "isbn": null,
+    "fecha": "2020",
+    "tipo_documento": "Documentos de Proyectos",
+    "paginas_cuerpo": 28,
+    "paginas_totales": 39,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿En qué medida y con qué significancia económica la cobertura boscosa actúa como mecanismo de protección natural y adaptación basada en la naturaleza para mitigar las pérdidas en la actividad económica local causadas por eventos de lluvias extremas e inundaciones en la República Dominicana?",
+    "alcance": {
+      "ambito_aplicacion": "República Dominicana (análisis espacial a nivel de píxel en todo el territorio nacional)",
+      "referentes_dependencias": "División de Desarrollo Sostenible y Asentamientos Humanos de la CEPAL (Unidad de Economía del Cambio Climático), Ministerio de Economía, Planificación y Desarrollo de la República Dominicana (MEPyD), Oficina Nacional de Meteorología (ONAMET), Ministerio para Europa y de Asuntos Exteriores de Francia (Expertise France), y Ministerio Federal de Cooperación Económica y Desarrollo de Alemania (BMZ / GIZ)",
+      "sectorial": "Adaptación basada en la naturaleza, cobertura boscosa y recursos forestales, gestión del riesgo de desastres y pérdidas económicas por inundaciones, monitoreo satelital de la actividad económica (luces nocturnas) y planificación fiscal y climática (NDC)",
+      "temporal": "Junio de 2016 a diciembre de 2017 (578 días de datos diarios satelitales) con series climáticas de contexto histórico 1984-2013 y proyecciones de modelos de clima global al 2050"
+    },
+    "hallazgos_principales": [
+      "Las lluvias extremas e inundaciones ocurridas en la República Dominicana entre 2016 y 2017 generaron pérdidas económicas directas estimadas en más de 1.000 millones de dólares, equivalentes al 1,5% del PIB de 2016 y a casi el 8% del gasto público nacional (p. 9).",
+      "Los registros climáticos históricos (1984-2013) evidencian un aumento del 20% al 30% en la ocurrencia de eventos de lluvias extremas entre mayo y octubre, mientras que las proyecciones climáticas al 2050 prevén incrementos superiores al 100% en lluvias acumuladas al inicio de temporada (p. 9).",
+      "Existe una correlación positiva y altamente significativa entre las luces nocturnas satelitales (VIIRS) y el PIB trimestral nacional (beta = 1,48, R2 > 0,84), lo que valida el uso de imágenes satelitales de luminosidad como variable proxy robusta de la actividad económica desagregada espacialmente (p. 15-16).",
+      "A nivel nacional, el impacto acumulado de los 788 eventos de lluvias extremas detectados entre junio de 2016 y diciembre de 2017 redujo la intensidad de las luces nocturnas en un 65%, equivalente a una contracción media del 3,4% mensual en la actividad económica local (p. 20).",
+      "La cobertura boscosa condiciona de forma heterogénea y no lineal el impacto de las precipitaciones: en zonas con cobertura boscosa baja (EVI bajo la mediana), las lluvias extremas redujeron las luces nocturnas en un -2,3% mensual en promedio (coeficiente de vulnerabilidad de -0,05), mientras que en zonas con alta cobertura boscosa (EVI sobre la mediana) el impacto económico tiende a desaparecer y carece de significancia estadística (p. 22-23).",
+      "Un nivel intermedio de vegetación no resulta suficiente para neutralizar las pérdidas económicas, lo que indica que al menos dos tercios de las áreas expuestas requieren recuperar y consolidar una cobertura forestal densa para mitigar el riesgo (p. 22).",
+      "La simulación contrafactual econométrica determina que haber contado con un nivel de cobertura boscosa alto (EVI > 4.950) en todo el territorio nacional habría reducido en un 70% las pérdidas económicas causadas por las lluvias extremas de 2016-2017, generando ahorros potenciales estimados en 92 millones de dólares (2.502 millones de pesos dominicanos constantes) (p. 25)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La cobertura boscosa constituye una solución de adaptación basada en la naturaleza efectiva y cuantificable para proteger el flujo de la producción económica local frente a perturbaciones climáticas extremas en la República Dominicana (p. 10, 22, 27).",
+        "El impacto económico adverso de las precipitaciones torrenciales no se distribuye homogéneamente en el espacio, sino que está estrechamente condicionado por el estado de degradación o conservación del suelo y la masa forestal de las cuencas (p. 22, 27).",
+        "Los pequeños eventos climáticos extremos recurrentes generan un impacto económico agregado de gran magnitud sobre el desarrollo local, cuya mitigación mediante cobertura boscosa aporta simultáneamente cobeneficios de captura de carbono edáfico, preservación de biodiversidad y resiliencia fiscal (p. 10, 20, 28)."
+      ],
+      "recomendaciones": [
+        "Diseñar e implementar políticas públicas integrales de conservación y restauración de la cobertura boscosa en las principales cuencas hidrográficas del país para blindar la actividad económica local ante inundaciones (p. 27).",
+        "Estructurar e integrar soluciones basadas en la naturaleza dentro de los compromisos de actualización de la Contribución Nacionalmente Determinada (NDC) y la Estrategia climática de largo plazo de la República Dominicana (p. 28).",
+        "Formular los programas de reforestación y manejo de cuencas de manera participativa, incorporando análisis socioeconómicos territoriales y especificidades topográficas locales para priorizar las inversiones públicas (p. 28)."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "Este estudio econométrico y espacial evalúa el potencial de la cobertura boscosa como solución de adaptación basada en la naturaleza para reducir el impacto económico de las lluvias extremas e inundaciones en la República Dominicana. A partir de observaciones de la Tierra que combinan datos diarios de precipitaciones (CMORPH de la NOAA), luminosidad nocturna satelital (VIIRS) como proxy del PIB local y el Índice Mejorado de Vegetación (EVI de MODIS), los autores estiman un modelo de datos de panel con efectos fijos a nivel de píxel durante el periodo 2016-2017. Los resultados revelan que, mientras en las zonas degradadas o con baja cobertura boscosa las lluvias extremas redujeron la actividad económica local en un promedio de 2,3% al mes, en las zonas con alta densidad forestal el impacto económico negativo desaparece por completo. La simulación contrafactual concluye que un nivel alto de cobertura boscosa a escala nacional habría mitigado en un 70% las pérdidas económicas de los eventos 2016-2017, equivalentes a un ahorro de 92 millones de dólares. Sobre esta base, el documento fundamenta la urgencia de priorizar la restauración de cuencas hidrográficas e incorporar soluciones basadas en la naturaleza dentro de la NDC y la estrategia climática de largo plazo del país."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción y contexto",
+      "nivel": 1,
+      "paginas": "9-10",
+      "resumen": "Presenta los antecedentes de las inundaciones ocurridas en la República Dominicana entre 2016 y 2017 (asociadas a los huracanes Matthew, Irma y María, y vaguadas), las cuales ocasionaron pérdidas superiores a 1.000 millones de dólares. Describe la tendencia histórica de aumento de lluvias extremas en un 20%-30% y las proyecciones al 2050 de incrementos superiores al 100%. Plantea la propuesta metodológica de usar observaciones de la Tierra para cuantificar el rol protector de la cobertura boscosa como medida de adaptación y mitigación del cambio climático.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Producto de estas repetidas lluvias extremas y de las condiciones de vulnerabilidad que se presentan en el territorio, las inundaciones generaron pérdidas directas estimadas en más de US$ 1,000 millones, equivalente al 1.5% del PIB del 2016 y casi el 8% del gasto público (MEPyD, 2018).",
+          "pagina": 9
+        },
+        {
+          "dimension": "tendencias",
+          "cita": "Los resultados indican que, en las últimas dos décadas, entre los meses de mayo a octubre, se presentó una mayor ocurrencia de eventos de lluvias extremas de entre 20% y 30%.",
+          "pagina": 9
+        },
+        {
+          "dimension": "desafios",
+          "cita": "El cambio climático ya está alterando los regímenes de lluvias y la evidencia científica nos indica que estos efectos seguirán agudizándose en los próximos años.",
+          "pagina": 9
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Sin embargo, al combinarse con factores como la deforestación, la insuficiente planificación urbana o la vulnerabilidad social, estas nuevas tendencias de lluvias extremas exacerban las pérdidas potenciales por inundaciones.",
+          "pagina": 10
+        },
+        {
+          "dimension": "oportunidades",
+          "cita": "Cuantificar el papel de la cobertura boscosa en la reducción de impacto de las inundaciones también ilustra las oportunidades económicas asociadas a una política pública de conservación y/o restauración de la cobertura boscosa: además de proteger el capital natural y la biodiversidad, este tipo de acciones facilita la adaptación al cambio climático mediante una reducción de la vulnerabilidad a inundaciones y, a la vez, la mitigación del cambio climático a través de una mayor secuestración del carbono en los suelos.",
+          "pagina": 10
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Metodología del análisis y revisión de la literatura existente",
+      "nivel": 1,
+      "paginas": "11-12",
+      "resumen": "Revisa los desafíos metodológicos en la literatura sobre impacto económico de desastres, en particular la endogeneidad de los daños ex-post y el sesgo de agregación espacial de indicadores macroeconómicos. Propone el uso de características físicas exógenas de las precipitaciones y de luces nocturnas satelitales (NTL) como proxy de actividad económica local. Sintetiza la evidencia hidrológica sobre la capacidad del suelo con cobertura boscosa para aumentar la absorción hídrica, reducir la escorrentía superficial y atenuar picos de inundación.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "La literatura sobre el impacto económico de los desastres tradicionalmente ha recurrido a una ecuación que utiliza datos ex-post sobre los daños económicos y/o humanos provocados por los desastres como principal variable independiente y alguna medida del desarrollo económico como variable dependiente. Sin embargo, este enfoque es problemático, ya que los datos sobre el impacto de los desastres son, por esencia, una variable endógena: los daños humanos y económicos asociados a fenómenos naturales son funciones de los niveles de vulnerabilidad de la zona afectada que, a su vez, dependen del nivel de desarrollo económico de esas mismas zonas (De Oliveira, 2019; Hallegatte at al, 2007).",
+          "pagina": 11
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Para enfrentar estos problemas, este estudio plantea una metodología alternativa: usar las imágenes satelitales de luces nocturnas como un proxy para la actividad económica local.",
+          "pagina": 11
+        },
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "Adicionalmente, existe una amplia literatura científica proveniente del campo de la hidrología que demuestra cómo los suelos con alta cobertura boscosa se asocian con mejores propiedades hidráulicas, una menor escorrentía superficial y, por lo tanto, un riesgo de inundaciones reducido (Chandler et al., 2018; Emma et al., 2019; Iacob et al., 2017; Lunka and Patil, 2016).",
+          "pagina": 12
+        },
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "Por ello, los resultados de este análisis no tienen que ser comparados a la evaluación llevada a cabo en MEPyD, 2018, sino que representan un esfuerzo complementario destinado a ampliar el entendimiento del impacto de las inundaciones.",
+          "pagina": 12
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "II. Descripción y fuente de datos",
+      "nivel": 1,
+      "paginas": "13-17",
+      "resumen": "Describe las fuentes de datos satelitales de Observaciones de la Tierra utilizadas para construir el panel econométrico a escala de píxel (0,25º x 0,25º). Detalla los registros de precipitaciones del sensor CMORPH de la NOAA, las series mensuales de luces nocturnas VIIRS y la calibración del Índice Mejorado de Vegetación (EVI) de MODIS como indicador de cobertura boscosa.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "Aprovechando estos avances, este análisis recurre a Observaciones de la Tierra captadas mediante satélites operados por la Administración Nacional Oceánica y Atmosférica de Estados Unidos (NOAA – National Oceanic and Atmosphere Administration).",
+          "pagina": 13
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Las lluvias y las lluvias extremas",
+          "nivel": 2,
+          "paginas": "13-14",
+          "resumen": "Explica la construcción del índice de lluvias extremas a partir del producto CMORPH de la NOAA con resolución diaria por píxel durante 578 días (junio 2016-diciembre 2017). Define el umbral de lluvia extrema como aquellas precipitaciones diarias superiores a dos desviaciones estándar de la media histórica de cada píxel, acumuladas mensualmente para reflejar la saturación de los suelos.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Los datos de lluvias provienen del producto CMORPH (i.e. CPC MORPHing technique) de la NOAA.",
+              "pagina": 13
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Para cada píxel se calcula la desviación estándar de las lluvias diarias (σ Rain) y se seleccionan aquellas observaciones con un valor de lluvia diaria superior a dos veces esta desviación estándar. Luego, se suman estas lluvias extremas diarias por mes para obtener un índice de lluvias extremas mensuales para cada píxel.",
+              "pagina": 14
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Las luces nocturnas y la actividad económica local",
+          "nivel": 2,
+          "paginas": "15-16",
+          "resumen": "Presenta el compuesto mensual de luces nocturnas del satélite VIIRS (NOAA/NCEI) y calibra la relación econométrica entre luminosidad y PIB trimestral de la República Dominicana. Encuentra una elasticidad altamente significativa (beta = 1,48, R2 > 0,84) que valida el uso de la luminosidad nocturna como factor de conversión confiable hacia el producto agregado local.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Para medir la actividad económica local usamos datos de luces nocturna provenientes del satélite Visible Infrared Imaging Radiometer Suite (VIIRS) proporcionados por la NOAA/NCEI.",
+              "pagina": 15
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "El coeficiente β es estimado en 1.48 con un error estándar de 0.09, sugiriendo una relación positiva y altamente significativa entre las dos variables.",
+              "pagina": 15
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. La cobertura boscosa y el Índice Mejorado de Vegetación (EVI)",
+          "nivel": 2,
+          "paginas": "17",
+          "resumen": "Describe el uso del sensor MODIS a bordo del satélite Terra para calcular el Índice Mejorado de Vegetación (EVI). Resalta que el EVI evalúa la calidad y cantidad de la cubierta vegetal y cita estudios previos en República Dominicana que confirman su robustez para monitorear la tasa de deforestación bajo el marco de la Estrategia Nacional de Desarrollo 2030.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Para esos fines usamos el índice de vegetación mejorado (EVI por sus siglas en inglés) proporcionado por el satélite MODIS.",
+              "pagina": 17
+            },
+            {
+              "dimension": "avances_implementacion",
+              "cita": "Su conclusión es que es un “índice robusto para estimar la tasa de deforestación en el país, uno de los principales indicadores para evaluar el desempeño del cuarto eje de la END 2030”.",
+              "pagina": 17
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "III. El impacto de las lluvias extremas en la actividad económica",
+      "nivel": 1,
+      "paginas": "19-25",
+      "resumen": "Estima el impacto econométrico de las lluvias extremas sobre las luces nocturnas mediante un modelo de panel con efectos fijos espaciales y temporales. Muestra que cada alza del 1% en el índice de lluvias extremas reduce las luces en 0,036%, alcanzando un impacto acumulado del -65% (o -3,4% mensual promedio). Analiza la heterogeneidad de este impacto según la cobertura boscosa y efectúa una simulación contrafactual monetaria.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Cabe resaltar que, si el impacto marginal de cada evento de lluvias extremas es relativamente bajo, el impacto acumulado del conjunto de lluvias extremas registrado durante junio 2016 y diciembre 2017 es alto.",
+          "pagina": 20
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Sumando el producto de nuestro coeficiente β1 por cada evento de lluvias extremas en nuestra base dato, encontramos que el impacto acumulado de las lluvias extremas disminuye la intensidad de las luces nocturnas mensuales en un 65%, lo cual equivale a un promedio de 3.4% cada mes durante nuestro periodo de análisis.",
+          "pagina": 20
+        },
+        {
+          "dimension": "tendencias",
+          "cita": "En la columna 2 exploramos la presencia de un impacto económico duradero de las lluvias extremas, incluyendo nuestro índice de lluvias extremas rezagado. Conforme a lo que se observó en el terreno y en otros estudios de la literatura, no encontramos evidencia de un impacto económico local duradero de las lluvias extremas.",
+          "pagina": 20
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. La cobertura boscosa reduce el impacto económico de las lluvias extremas",
+          "nivel": 2,
+          "paginas": "21-25",
+          "resumen": "Modela la heterogeneidad del shock climático incorporando términos de interacción con el EVI clasificado por mediana y por terciles. Demuestra que en áreas no protegidas las lluvias reducen las luces nocturnas en -0,11% por evento promedio (-2,3% mensual agregado), mientras que en zonas con alta cobertura boscosa el coeficiente de impacto no es estadísticamente diferente de cero.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Los resultados indican que, en zonas no protegidas, el impacto de las lluvias extremas reduce las luces nocturnas: el coeficiente de -0.05 es significativo y sugiere que cuando un píxel “no protegido” experimenta una lluvia extrema promedio (i.e. índice de lluvias extremas = 2,28), las luces nocturnas disminuyen en aproximadamente un -0,11%.",
+              "pagina": 22
+            },
+            {
+              "dimension": "oportunidades",
+              "cita": "En valor nominal promedio, el coeficiente de vulnerabilidad se reduce en más de un 70% al pasar de una zona no protegida a una zona protegida.",
+              "pagina": 22
+            },
+            {
+              "dimension": "desafios",
+              "cita": "Sin embargo, este modelo también ilustra otro punto importante: el nivel del EVI intermedio (esto es entre un EVI entre 4,536 y 5,322) no es suficiente para reducir el impacto de las lluvias extremas en la actividad económica. Lo anterior sugiere que para mitigar por completo el impacto económico de las lluvias los 2/3 de las zonas afectadas tienen que mejorar su cobertura boscosa.",
+              "pagina": 22
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "1. Simulación contrafactual",
+              "nivel": 3,
+              "paginas": "24-25",
+              "resumen": "Realiza un ejercicio contrafactual con 5.000 simulaciones Monte Carlo que contrasta el escenario donde todo el país carece de cobertura boscosa adecuada versus un escenario donde todo el territorio cuenta con cobertura boscosa alta. Concluye que la cobertura forestal óptima reduce en un 70% las pérdidas económicas de las inundaciones, equivalente a un ahorro potencial de 92 millones de dólares.",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Primero, simulamos el nivel de pérdidas monetarias si todo el país hubiese tenido un nivel de vulnerabilidad similar al de las zonas no protegidas. Contrastamos luego este impacto con el nivel de pérdidas que hubiese resultado de un nivel de protección alto en todo el país (i.e. un EVI por encima de la mediana).",
+                  "pagina": 24
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Conclusión y consideraciones para las políticas públicas",
+      "nivel": 1,
+      "paginas": "27-28",
+      "resumen": "Sintetiza las conclusiones del estudio, destacando el rol protector de los bosques frente a lluvias extremas crecientes. Recomienda formular políticas públicas de conservación y restauración de cuencas con enfoque integral, incorporar soluciones basadas en la naturaleza dentro de la NDC y la Estrategia climática de largo plazo de la República Dominicana, y diseñar procesos participativos con base territorial.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "En este sentido, las políticas de conservación y/o restauración del bosque en las principales cuencas hidrográficas del país son de suma importancia para asegurar la sostenibilidad del desarrollo del país en las próximas décadas e ilustran la necesidad de pensar las políticas públicas de forma integral, analizando simultáneamente sus dimensiones económicas, sociales y ambientales.",
+          "pagina": 27
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Bajo este escenario, la política pública de conservación y/o restauración de la cobertura boscosa se convierte en una acción integral por la cual, además de la valorizar el patrimonio natural y la biodiversidad del país, se promueve la adaptación al cambio climático mediante una reducción de la vulnerabilidad a inundaciones y, a la vez, se contribuye a la mitigación del cambio climático a través de una mayor captura del carbono en los suelos de las zonas reforestados y/o conservadas.",
+          "pagina": 28
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Finalmente, concluimos señalando que para ser exitosas y duraderas las políticas de conservación y/o reforestación tienen que ser elaboradas de manera participativas y analizando las realidades socioeconómicas y las características físicas y topográficas de las zonas de interés.",
+          "pagina": 28
+        },
+        {
+          "dimension": "brechas_implementacion",
+          "cita": "Por la naturaleza de nuestro análisis, estos factores no están tratados aquí. Sin embargo, son prioritarios para poder identificar y priorizar las zonas de conservación/ reforestación en el país.",
+          "pagina": 28,
+          "subtipo_brecha": "prospectiva"
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "No",
+      "evidencia": "El documento no formula ni diseña un paquete coordinado de inversiones públicas/privadas ni un programa de políticas articuladas entre sectores estratégicos para impulsar un Big Push ambiental. Su aporte se concentra en la modelación econométrica empírica ex-post de cómo la cobertura boscosa reduce las pérdidas de producción causadas por lluvias extremas, proponiendo consideraciones generales de conservación y restauración de cuencas sin metas de inversión ni carteras sectoriales coordinadas. Chequeo negativo: se constata que en la sección conclusiva de políticas públicas (pp. 27-28) no se definen montos de inversión requeridos, paquetes de financiamiento coordinado, sectores industriales estratégicos ni matrices de políticas intersectoriales.",
+      "citas": [
+        {
+          "cita": "En este sentido, las políticas de conservación y/o restauración del bosque en las principales cuencas hidrográficas del país son de suma importancia para asegurar la sostenibilidad del desarrollo del país en las próximas décadas e ilustran la necesidad de pensar las políticas públicas de forma integral, analizando simultáneamente sus dimensiones económicas, sociales y ambientales.",
+          "pagina": 27
+        }
+      ],
+      "nota": null
+    },
+    "articulacion_actores": {
+      "veredicto": "No",
+      "evidencia": "El texto no establece mecanismos operativos nombrados ni instancias formales de coordinación público-privada o comunitaria dentro del ámbito de aplicación territorial. Aunque menciona antecedentes de trabajo conjunto entre el Ministerio de Economía, Planificación y Desarrollo (MEPyD) y el Banco Mundial en gestión de riesgos fiscales, y alude genéricamente a la necesidad de diseñar políticas de reforestación de manera participativa, no delimita roles institucionales, comités de cuenca o plataformas de gobernanza multiactor estructuradas.",
+      "citas": [
+        {
+          "cita": "Finalmente, concluimos señalando que para ser exitosas y duraderas las políticas de conservación y/o reforestación tienen que ser elaboradas de manera participativas y analizando las realidades socioeconómicas y las características físicas y topográficas de las zonas de interés. Por la naturaleza de nuestro análisis, estos factores no están tratados aquí.",
+          "pagina": 28
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "El estudio se enfoca en cuantificar la preservación del flujo agregado de actividad económica local (aproximado por luces nocturnas) y la mitigación de daños por inundaciones, sin enumerar ni desarrollar actividades productivas o sectores sostenibles específicos (como agroforestería, forestería comunitaria o ecoturismo) con sus respectivos impactos en generación de empleo, productividad laboral o reducción de la desigualdad.",
+      "citas": [
+        {
+          "cita": "Cuantificar el papel de la cobertura boscosa en la reducción de impacto de las inundaciones también ilustra las oportunidades económicas asociadas a una política pública de conservación y/o restauración de la cobertura boscosa: además de proteger el capital natural y la biodiversidad, este tipo de acciones facilita la adaptación al cambio climático mediante una reducción de la vulnerabilidad a inundaciones y, a la vez, la mitigación del cambio climático a través de una mayor secuestración del carbono en los suelos.",
+          "pagina": 10
+        }
+      ],
+      "nota": null
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "No",
+      "evidencia": "La totalidad de las orientaciones normativas formuladas en el capítulo de cierre (sección IV, pp. 27-28) presentan un carácter genérico de lineamiento estratégico. No definen instrumentos regulatorios específicos, fuentes presupuestarias asignadas, cronogramas de implementación, responsables operativos institucionales ni metas físicas cuantificadas para la intervención de cuencas o la actualización de instrumentos climáticos.",
+      "citas": [
+        {
+          "cita": "En este sentido, las políticas de conservación y/o restauración del bosque en las principales cuencas hidrográficas del país son de suma importancia para asegurar la sostenibilidad del desarrollo del país en las próximas décadas e ilustran la necesidad de pensar las políticas públicas de forma integral, analizando simultáneamente sus dimensiones económicas, sociales y ambientales.",
+          "pagina": 27
+        },
+        {
+          "cita": "Bajo este escenario, la política pública de conservación y/o restauración de la cobertura boscosa se convierte en una acción integral por la cual, además de la valorizar el patrimonio natural y la biodiversidad del país, se promueve la adaptación al cambio climático mediante una reducción de la vulnerabilidad a inundaciones y, a la vez, se contribuye a la mitigación del cambio climático a través de una mayor captura del carbono en los suelos de las zonas reforestados y/o conservadas.",
+          "pagina": 28
+        },
+        {
+          "cita": "Finalmente, concluimos señalando que para ser exitosas y duraderas las políticas de conservación y/o reforestación tienen que ser elaboradas de manera participativas y analizando las realidades socioeconómicas y las características físicas y topográficas de las zonas de interés. Por la naturaleza de nuestro análisis, estos factores no están tratados aquí.",
+          "pagina": 28
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Diseñar e implementar políticas públicas integrales de conservación y restauración de la cobertura boscosa en las principales cuencas hidrográficas del país para proteger la actividad económica ante eventos de inundación (p. 27).",
+          "clasificacion": "GENERICO",
+          "pagina": 27
+        },
+        {
+          "item": "Estructurar e integrar soluciones basadas en la naturaleza dentro de los compromisos de actualización de la Contribución Nacionalmente Determinada (NDC) y la Estrategia climática de largo plazo de la República Dominicana (p. 28).",
+          "clasificacion": "GENERICO",
+          "pagina": 28
+        },
+        {
+          "item": "Elaborar las políticas de conservación y reforestación de forma participativa, considerando las realidades socioeconómicas y características topográficas locales para priorizar zonas de intervención (p. 28).",
+          "clasificacion": "GENERICO",
+          "pagina": 28
+        }
+      ],
+      "tally": "0 de 3 ítems pasan el test de concreción",
+      "nota": null
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento aborda la vulnerabilidad crítica de la República Dominicana frente a eventos recurrentes de lluvias extremas e inundaciones exacerbados por el cambio climático, frente a la falta de cuantificación empírica sobre la rentabilidad y eficacia protectora de las soluciones basadas en la naturaleza (conservación y restauración de la masa forestal de cuencas) para salvaguardar la producción económica local.",
+      "filtro_categoria_primaria": "La transformación primaria es #6 Sostenibilidad ambiental porque el objetivo medular del estudio es fundamentar la adaptación al cambio climático y la reducción del riesgo de desastres hídricos mediante la conservación del capital natural y la cobertura boscosa en cuencas hidrográficas, demostrando cómo los ecosistemas amortiguan los shocks hidrometeorológicos.",
+      "secundaria_obligatoria": "La transformación secundaria es #11 Capacidades del Estado debido a que la investigación desarrolla una metodología técnica e innovadora de teledetección satelital (Observaciones de la Tierra) y modelación econométrica espacial para dotar a las entidades gubernamentales (como el Ministerio de Economía, Planificación y Desarrollo) de herramientas avanzadas de evaluación de riesgos fiscales, planificación territorial y estructuración técnica de las NDC y estrategias climáticas nacionales.",
+      "justificacion_anti_copia": "Aplica datos diarios de precipitación CMORPH, luminosidad nocturna satelital VIIRS y el índice MODIS EVI para demostrar que una alta cobertura boscosa en cuencas dominicanas neutraliza las pérdidas económicas locales por lluvias torrenciales (evitando un 70% de pérdidas equivalentes a 92 millones de dólares), proveyendo evidencia empírica directa para el diseño de la NDC dominicana.",
+      "validacion_anclas": "Se alinea con el patrón de Ancla #20 (doc20_colombia: 'Impactos económicos del cambio climático en Colombia. Síntesis', clasificado #6 Primaria / #11 Capacidades del Estado como Secundaria), donde la evaluación de impactos, vulnerabilidad y adaptación climática constituye el objeto sustantivo, mientras que la modelación analítica y la planificación de políticas públicas actúan como instrumento estatal habilitador. Contrasta con Ancla #8 y Ancla #12 (#11 Primaria / #6 Secundaria), en las que el foco central reside en la estructura de leyes, gabinetes o gobernanza institucional."
+    },
+    "tipo_documento_climatico": "Documento de proyectos / Estudio técnico econométrico espacial",
+    "nivel_aplicacion": "Nacional / Subnacional (República Dominicana, con desagregación a nivel de píxel espacial)",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

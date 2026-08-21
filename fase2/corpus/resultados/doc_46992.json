@@ -1,0 +1,478 @@
+{
+  "documento": {
+    "num_muestra": 9,
+    "titulo": "Technologies for adapting to climate change: A case study of Korean cities and implications for Latin American cities",
+    "autoria": "Hyejung Kim",
+    "handle": "https://hdl.handle.net/11362/46992",
+    "simbolo": null,
+    "isbn": null,
+    "fecha": "2021",
+    "tipo_documento": "Projects Documents / estudio técnico",
+    "paginas_cuerpo": 71,
+    "paginas_totales": 92,
+    "idioma": "en",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Qué tecnologías de adaptación y qué condiciones institucionales, financieras y de transferencia pueden extraerse de las prácticas de ciudades coreanas para responder a las necesidades de las ciudades latinoamericanas?",
+    "alcance": {
+      "ambito_aplicacion": "Subnacional: ciudades de la República de Corea (Seúl, Busan, Incheon, Daegu y Sejong), con evaluación aplicada a Seúl, Busan y Daegu, y transferencia de implicaciones a ciudades de América Latina y el Caribe.",
+      "referentes_dependencias": "UNFCCC Technology Framework, Technology Mechanism y CTCN; GCF; marcos nacionales y locales coreanos de adaptación; TNA y cooperación internacional.",
+      "sectorial": "Agua, inundaciones, olas de calor, salud, agricultura, infraestructura y edificios, zonas costeras, pesca, información climática, alerta temprana y economía circular.",
+      "temporal": "Evidencia y políticas principalmente de 2013–2020; análisis de solicitudes de asistencia técnica 2014–2019/2020 y proyección de uso en ciudades de ALC."
+    },
+    "hallazgos_principales": [
+      "La adaptación tecnológica se entiende como un proceso que combina información, conocimiento, equipos, instituciones, financiamiento y participación de múltiples actores, no como la simple transferencia de artefactos (p.10).",
+      "El marco coreano articula planes nacionales y planes locales quinquenales, pero los gobiernos locales siguen necesitando fortalecer su base institucional, capacidades y recursos financieros para alinearse con las políticas nacionales (p.30).",
+      "Las prácticas estudiadas muestran soluciones urbanas de costo relativamente bajo —incluidos sistemas de alerta temprana, techos fríos, reverdecimiento urbano, gestión del agua y agricultura inteligente— junto con una dependencia importante de datos, ICT y coordinación interinstitucional (pp.67–68).",
+      "Las ciudades de ALC enfrentan vulnerabilidades diferenciadas por geografía, urbanización informal, desigualdad socioeconómica, dependencia de la naturaleza y exposición a inundaciones, sequías, olas de calor, ciclones y aumento del nivel del mar (pp.61–63).",
+      "Las solicitudes de asistencia técnica de ALC se concentran en evaluación de necesidades tecnológicas y economía circular; agricultura, bosques y ecosistemas, infraestructura y planificación urbana, agua y zonas costeras aparecen entre los sectores prioritarios (p.63)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "Las ciudades son espacios decisivos para experimentar y aplicar tecnologías de adaptación, y algunas soluciones coreanas pueden ser pertinentes para ALC si se ajustan a las condiciones locales y a las capacidades financieras municipales (p.65).",
+        "La transferencia efectiva requiere reformar el entorno institucional, integrar mitigación y adaptación, crear capacidades locales, coordinar sectores y niveles de gobierno, y facilitar redes de conocimiento entre ciudades (pp.65–67).",
+        "La agenda latinoamericana puede beneficiarse de tecnologías accesibles y de cooperación técnica y financiera internacional, pero el documento no propone una arquitectura regional única de inversión coordinada."
+      ],
+      "recomendaciones": [
+        "Reformar el entorno institucional de las ciudades para alinearlo con acuerdos climáticos internacionales y programas nacionales, integrando mitigación y adaptación en los planes climáticos quinquenales (p.65).",
+        "Crear unidades municipales responsables de los asuntos climáticos y, cuando convenga, institutos regionales o provinciales que apoyen a varias ciudades (p.65).",
+        "Integrar regulaciones sectoriales, digitalizar la recopilación y comunicación de datos, atraer inversión privada mediante un entorno favorable y usar CTCN, GCF, EDCF y KOICA para asistencia y financiamiento (pp.66–67).",
+        "Fortalecer la sensibilización pública y las redes de ciudades para cerrar brechas de aceptabilidad, compartir conocimiento y desarrollar tecnologías de adaptación (p.67)."
+      ],
+      "nota": "Las recomendaciones son implicaciones normativas del cierre del estudio, diferenciadas de las prácticas coreanas descritas como casos."
+    },
+    "resumen_narrativo": "El estudio examina tecnologías de adaptación aplicadas en ciudades coreanas y deriva implicaciones para ciudades de América Latina y el Caribe. Compara cinco ciudades con perfiles geográficos distintos y aplica un marco basado en innovación, implementación, entorno habilitante, colaboración y apoyo. Encuentra que las soluciones urbanas pueden ser relativamente accesibles, pero dependen de instituciones, datos, financiamiento, coordinación y participación. Para ALC propone adaptar esas lecciones a vulnerabilidades locales y reforzar capacidades municipales, redes de ciudades y acceso a cooperación técnica y financiera."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introduction",
+      "nivel": 1,
+      "paginas": "9-10",
+      "resumen": "Presenta la tecnología como elemento habilitante de la respuesta y sitúa la vulnerabilidad de ALC frente a desastres territorial, urbanización y desigualdad. La hoja ordena evidencia, prácticas y condiciones de implementación, y conecta sus elementos con el argumento general del estudio.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Some Latin American and the Caribbean (LAC) countries are recognized as among the most vulnerable to climate change.",
+          "pagina": 10
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "In particular, technology has been recognized as one of the essential enabling elements for adapting to climate change: finance, technology, and knowledge of management practices (UNEP, 2014; IPCC, 2015).",
+          "pagina": 9
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Technologies for adapting to climate change",
+      "nivel": 1,
+      "paginas": "11-16",
+      "resumen": "Define tecnología, respuesta y transferencia tecnológica, y distingue soluciones de mitigación, respuesta y combinadas. La hoja ordena evidencia, prácticas y condiciones de implementación, y conecta sus elementos con el argumento general del estudio. También precisa que la transferencia involucra conocimiento, experiencia, equipos, instituciones financieras, empresas, organizaciones no gubernamentales y entidades de investigación.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "IPCC defined ‘technology transfer’ as “a broad set of processes covering the flows of know-how, experience, and equipment for mitigating and adapting to climate change amongst different stakeholders such as governments, private sector entities, financial institutions, NGOs and research/education institutions (IPCC, 2000, p. 3).”",
+          "pagina": 12
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "The linkages between the technology mechanism and financial mechanism (Diagram 2) have become stronger, and the practices of the collaboration between these two mechanisms were shared during COP 24.",
+          "pagina": 16
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "II. Mechanisms for developing and transferring technologies for adaptation",
+      "nivel": 1,
+      "paginas": "15-28",
+      "resumen": "Mapea mecanismos globales y coreanos para desarrollar, financiar, coordinar y transferir tecnologías de adaptación.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "There have been increased efforts to develop climate technologies and enhance networks for technology transfer over the past two decades. In 1996, an initial report on the inventory and assessment of technologies was published by the UNFCCC, and this report mainly focused on mitigation. After this report, in 2006, UNFCCC published a technical report on adaptation technologies in response to the global change in perception and emphasis on adaptation issues (UNFCCC, 2006).",
+          "pagina": 15
+        },
+        {
+          "dimension": "avances_implementacion",
+          "cita": "In 2013, the Green Technology Center was established as a significant implementor of climate technologies under the Ministry of Science and ICT",
+          "pagina": 23
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "In Latin America and the Caribbean, GTC held Knowledge Sharing Joint Workshops in Santo Domingo in 2014 and Seoul in 2015, in collaboration with the Dominican Republic governments and IDB.",
+          "pagina": 27
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. UNFCCC technology mechanism",
+          "nivel": 2,
+          "paginas": "13-16",
+          "resumen": "Explica la evolución del Technology Mechanism, el CTCN, el mecanismo financiero y sus vínculos de apoyo.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "B. National mechanisms related to adaptation technologies in Korea",
+              "nivel": 3,
+              "paginas": "17-26",
+              "resumen": "Describe instituciones, planes, inversión en I+D, patentes y cooperación coreana, incluido el Green Technology Center. La hoja ordena evidencia, prácticas y condiciones de implementación, y conecta sus elementos con el argumento general del estudio. La hoja ordena evidencia, prácticas y condiciones de implementación, y conecta sus elementos con el argumento general del estudio. La hoja ordena evidencia, prácticas y condiciones de implementación, y conecta sus elementos con el argumento general del estudio. La hoja ordena evidencia, prácticas y condiciones de implementación, y conecta sus elementos con el argumento general del estudio.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "III. Case study Korean cities practices on adaptation technologies",
+      "nivel": 1,
+      "paginas": "29-54",
+      "resumen": "Presenta el diseño comparado de casos urbanos y documenta desafíos y tecnologías aplicadas en ciudades con condiciones geográficas distintas.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "In addition, since 2015, th e green growth framework stipulates that local governments develop climate adaptation action plans every five years.",
+          "pagina": 29
+        },
+        {
+          "dimension": "desafios",
+          "cita": "30 Local governments’ needs for enhancing institutional basis and financial resources have increased to align with national policies with the adjusted targets under the new international climate regime.",
+          "pagina": 32
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Selection of cities for case study",
+          "nivel": 2,
+          "paginas": "31-32",
+          "resumen": "Selecciona ciudades representativas de contextos interior, costero, de cuenca montañosa y de planificación administrativa.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "B. Case 1: Seoul, an inland megacity",
+              "nivel": 3,
+              "paginas": "33-39",
+              "resumen": "Examina riesgos térmicos, eventos hidrológicos, información de vulnerabilidad, agricultura urbana, reverdecimiento y edificios verdes en Seúl. La hoja ordena evidencia, prácticas y condiciones de implementación, y conecta sus elementos con el argumento general del estudio. La hoja ordena evidencia, prácticas y condiciones de implementación, y conecta sus elementos con el argumento general del estudio.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1. Adaptation challenges",
+              "nivel": 3,
+              "paginas": "33-35",
+              "resumen": "Describe riesgos térmicos, lluvias intensas, vulnerabilidad urbana y la necesidad de información localizada. La hoja ordena evidencia, prácticas y condiciones de implementación, y conecta sus elementos con el argumento general del estudio.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Adaptation technologies in practice",
+              "nivel": 3,
+              "paginas": "36-39",
+              "resumen": "Analiza portales de información, metro farms, infraestructura verde y medidas de enfriamiento y gestión hídrica. La hoja ordena evidencia, prácticas y condiciones de implementación, y conecta sus elementos con el argumento general del estudio.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "C. Case 2: Busan and Incheon, coastal cities (port cities)",
+              "nivel": 3,
+              "paginas": "40-45",
+              "resumen": "Compara riesgos costeros y respuestas tecnológicas vinculadas con erosión, eventos hidrológicos, bosques costeros y gestión del agua. La hoja ordena evidencia, prácticas y condiciones de implementación, y conecta sus elementos con el argumento general del estudio. La hoja ordena evidencia, prácticas y condiciones de implementación, y conecta sus elementos con el argumento general del estudio.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1. Adaptation challenges",
+              "nivel": 3,
+              "paginas": "40-41",
+              "resumen": "Caracteriza exposición costera, aumento del nivel del mar y riesgos diferenciados de Incheon y Busan. La hoja ordena evidencia, prácticas y condiciones de implementación, y conecta sus elementos con el argumento general del estudio.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Adaptation technologies in practice",
+              "nivel": 3,
+              "paginas": "42-45",
+              "resumen": "Documenta bosque de prevención de desastres costeros, soluciones urbanas y sistemas de información y alerta. La hoja ordena evidencia, prácticas y condiciones de implementación, y conecta sus elementos con el argumento general del estudio.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "D. Case 3: Daegu, city in a mountain basin",
+              "nivel": 3,
+              "paginas": "46-49",
+              "resumen": "Examina riesgos térmicos, calidad del aire, reverdecimiento, caminos fríos y herramientas de monitoreo en Daegu. La hoja ordena evidencia, prácticas y condiciones de implementación, y conecta sus elementos con el argumento general del estudio.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1. Adaptation challenges",
+              "nivel": 3,
+              "paginas": "46-46",
+              "resumen": "Identifica calor urbano, contaminación y condiciones topográficas como desafíos de respuesta. La hoja ordena evidencia, prácticas y condiciones de implementación, y conecta sus elementos con el argumento general del estudio.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Adaptation technologies in practice",
+              "nivel": 3,
+              "paginas": "47-49",
+              "resumen": "Describe caminos fríos y limpios, reverdecimiento, alerta temprana y coordinación de políticas. La hoja ordena evidencia, prácticas y condiciones de implementación, y conecta sus elementos con el argumento general del estudio.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "E. Case 4: Sejong, a planned administrative city",
+              "nivel": 3,
+              "paginas": "50-52",
+              "resumen": "Analiza una ciudad planificada, sus riesgos térmicos y la integración de soluciones en el desarrollo urbano. La hoja ordena evidencia, prácticas y condiciones de implementación, y conecta sus elementos con el argumento general del estudio.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1. Adaptation challenges",
+              "nivel": 3,
+              "paginas": "50-50",
+              "resumen": "Expone riesgos térmicos y de planificación derivados de la localización y configuración urbana. La hoja ordena evidencia, prácticas y condiciones de implementación, y conecta sus elementos con el argumento general del estudio.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Adaptation technologies in practice",
+              "nivel": 3,
+              "paginas": "51-52",
+              "resumen": "Revisa soluciones de edificios, zona inteligente, datos y planificación de respuesta en Sejong. La hoja ordena evidencia, prácticas y condiciones de implementación, y conecta sus elementos con el argumento general del estudio.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Analytical framework: assessing local practices on adaptation technologies",
+      "nivel": 1,
+      "paginas": "55-62",
+      "resumen": "Construye y aplica un marco de evaluación con cinco temas: innovación, implementación, entorno habilitante y capacidades, colaboración y apoyo.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "The adapted five themes from the Technology Framework are innovation, implementation, enabling environment and capacity -building, collaboration and stakeholder engagement , and support.",
+          "pagina": 55
+        },
+        {
+          "dimension": "desafios",
+          "cita": "The government’s intervention and transnational trade and assistance can transform the ‘enabling environment ’ of technology developme nt and transfer.",
+          "pagina": 55
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. A framework for analyzing practices on adaptation technologies",
+          "nivel": 2,
+          "paginas": "53-56",
+          "resumen": "Define los temas, subelementos e indicadores para comparar prácticas nacionales y municipales.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "B. Application of analytical framework",
+              "nivel": 3,
+              "paginas": "57-60",
+              "resumen": "Aplica el marco al conjunto de casos, nivel nacional, Seúl, Busan y Daegu, identificando fortalezas y brechas. La hoja ordena evidencia, prácticas y condiciones de implementación, y conecta sus elementos con el argumento general del estudio.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "V. Latin American cities’ needs for adaptation technologies",
+      "nivel": 1,
+      "paginas": "63-66",
+      "resumen": "Relaciona vulnerabilidades urbanas de ALC con necesidades de tecnología, asistencia técnica y sectores de intervención.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "The LAC region has faced a variety of adaptation-related challenges, such as water security, drought, flooding, and threats to ecological diversity.",
+          "pagina": 63
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "The LAC region not only takes a significant role as a global carbon sink in a mitigation aspect, but also their adaptation issues are noticeable, particularly related to informal housing due to rapid urbanization, socioeconomic disparity, high economic dependency on nature, and increased environmental and socioeconomic loss attributing to natural hazards.",
+          "pagina": 63
+        },
+        {
+          "dimension": "oportunidades",
+          "cita": "As of September 2020, around 20% of the assistance requests from developing countries to CTCN have come from the LAC region",
+          "pagina": 65
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Climate adaptation challenges in LAC cities",
+          "nivel": 2,
+          "paginas": "61-62",
+          "resumen": "Distingue riesgos de ciudades costeras, de altura, caribeñas y asentamientos informales, con especial peso de inundaciones y olas de calor.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "B. Climate adaptation technology needs in the LAC region",
+              "nivel": 3,
+              "paginas": "63-64",
+              "resumen": "Resume TNA, CTCN, economía circular y la distribución sectorial de solicitudes de asistencia técnica. La hoja ordena evidencia, prácticas y condiciones de implementación, y conecta sus elementos con el argumento general del estudio.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "VI. Conclusion: Implications for developing and transferring adaptation technologies in LAC cities",
+      "nivel": 1,
+      "paginas": "67-71",
+      "resumen": "Cierra con implicaciones normativas para adaptar soluciones coreanas a ALC: reforma institucional, integración sectorial, digitalización, inversión, cooperación, sensibilización y redes de ciudades. La hoja ordena evidencia, prácticas y condiciones de implementación, y conecta sus elementos con el argumento general del estudio.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "As the Korean cases  showed, it is essential that the city government reforms the institutional environment in line with international climate agreements and national programs, which include giving an emphasis on climatic technologies.",
+          "pagina": 67
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Sharing knowledge and raising awareness of climate adaptation technolog ies is one of the significant drivers of transferring climate technolog ies. The Seoul case showed a low level of citizens’ perception on climate adaptation actions, which could lead to the inclination to mitigation actions and constrain the implementation of adaptation action plans.",
+          "pagina": 69
+        },
+        {
+          "dimension": "desafios",
+          "cita": "The Korean national climate technology cooperation strategy lacks the participation of city governments.",
+          "pagina": 69
+        },
+        {
+          "dimension": "oportunidades",
+          "cita": "cities can request to CTCN for technical assistance and to GCF for a bigger project through their national NDEs of CTCN, NDAs and focal points of GCF.",
+          "pagina": 68
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento propone tecnologías y reformas institucionales, cooperación y financiamiento, pero no configura un paquete coordinado de inversión y políticas a escala de transformación productiva que combine sectores estratégicos y eficiencias del Big Push. El chequeo negativo es explícito: no hay cartera regional propia con inversión coordinada, responsables, financiamiento conjunto y metas de transformación; las medidas son principalmente urbanas, institucionales y de transferencia tecnológica.",
+      "citas": [
+        {
+          "cita": "There are several ways for Latin American cities to raise funds through international cooperation to implement climate technology projects.",
+          "pagina": 68
+        }
+      ],
+      "nota": "Parcial por medidas concretas de adaptación y financiamiento, sin paquete coordinado del modelo de desarrollo."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El documento nombra mecanismos y redes dentro del ámbito aplicado: unidades municipales, institutos regionales para ciudades adyacentes, CTCN/GCF mediante puntos nacionales y redes de ciudades para compartir conocimiento.",
+      "citas": [
+        {
+          "cita": "Since there is a stronger community -based culture in the LAC region, LAC cities could use those existing community/city networks to identify common adaptation issues and share knowledge for further developing and transferring adaptation technologies.",
+          "pagina": 69
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "Enumera actividades y sectores —agricultura inteligente, economía circular, agua, infraestructura, edificios, salud, pesca y zonas costeras— y menciona inversión privada, pero no desarrolla de forma suficiente el vínculo conjunto con empleo, productividad o reducción de desigualdad.",
+      "citas": [
+        {
+          "cita": "IFC (2016) stated that agriculture sector in LAC is a huge potential area for further climate investment, particularly climate-smart agriculture that wou ld attract private sector.",
+          "pagina": 65
+        }
+      ],
+      "nota": "La agricultura inteligente es una oportunidad concreta de inversión, pero el criterio exige un desarrollo productivo-laboral/distributivo más completo."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "El cierre propio contiene ítems con objeto o instrumento identificable: unidad climática municipal, instituto regional, integración de regulaciones, digitalización de datos, entorno favorable a la inversión, regulación para nuevas tecnologías, solicitudes a CTCN/GCF y mecanismos EDCF/KOICA, y redes de ciudades.",
+      "citas": [
+        {
+          "cita": "Cities need to form a unit that effectively work on local climate issues.",
+          "pagina": 67
+        },
+        {
+          "cita": "There are several ways for Latin American cities to raise funds through international cooperation to implement climate technology projects.",
+          "pagina": 68
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Reformar el entorno institucional y alinear planes climáticos",
+          "clasificacion": "CONCRETO",
+          "pagina": 67
+        },
+        {
+          "item": "Crear una unidad municipal para asuntos climáticos",
+          "clasificacion": "CONCRETO",
+          "pagina": 67
+        },
+        {
+          "item": "Crear un instituto regional/provincial para ciudades adyacentes",
+          "clasificacion": "CONCRETO",
+          "pagina": 67
+        },
+        {
+          "item": "Integrar regulaciones sectoriales y digitalizar datos",
+          "clasificacion": "CONCRETO",
+          "pagina": 68
+        },
+        {
+          "item": "Atraer inversión privada mediante un entorno favorable",
+          "clasificacion": "CONCRETO",
+          "pagina": 68
+        },
+        {
+          "item": "Usar CTCN, GCF, EDCF y KOICA para cooperación y financiamiento",
+          "clasificacion": "CONCRETO",
+          "pagina": 68
+        },
+        {
+          "item": "Cerrar la brecha de aceptabilidad y elevar conciencia pública",
+          "clasificacion": "CONCRETO",
+          "pagina": 69
+        },
+        {
+          "item": "Facilitar redes de ciudades y transferencia de conocimiento",
+          "clasificacion": "CONCRETO",
+          "pagina": 69
+        }
+      ],
+      "tally": "8 de 8 ítems pasan el test de concreción",
+      "nota": "Se evaluó la lista completa de implicaciones normativas del cierre; no se acreditaron medidas descritas solo como casos coreanos."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "La tensión central es cómo convertir tecnologías de adaptación probadas en ciudades coreanas en respuestas urbanas transferibles para ALC, bajo restricciones de información, financiamiento, capacidades y coordinación.",
+      "filtro_categoria_primaria": "El sujeto del estudio es la adaptación climática y el desarrollo/transferencia de tecnologías para reducir vulnerabilidad y pérdidas; las instituciones son el medio de esa transformación. Por eso corresponde #6 Sostenibilidad ambiental.",
+      "secundaria_obligatoria": "La transferencia depende de planes quinquenales, unidades municipales, indicadores, datos, cooperación, financiamiento y coordinación entre niveles y actores; #11 Capacidades del Estado captura esa condición habilitante.",
+      "justificacion_anti_copia": "La evidencia específica combina VESTAP, planes locales quinquenales, portales urbanos, sistemas de alerta temprana, techos fríos, metro farms y la propuesta de unidades climáticas municipales e institutos compartidos; el aparato institucional organiza la adopción, pero no desplaza el objeto climático.",
+      "validacion_anclas": "Se aproxima al patrón #6/#11 del ancla Doc20 de impacto/adaptación nacional: aquí el objeto también es la resiliencia y la adaptación tecnológica, mientras la capacidad institucional es el instrumento. Se descarta #11/#6 porque el documento no estudia principalmente arquitectura estatal, y #1 porque agricultura y productividad aparecen como sectores de aplicación, no como objeto transformador."
+    },
+    "tipo_documento_climatico": "Estudio técnico / Projects Documents sobre adaptación urbana y transferencia tecnológica",
+    "nivel_aplicacion": "Subnacional, con comparación nacional e implicaciones regionales para ALC",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

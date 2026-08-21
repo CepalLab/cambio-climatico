@@ -1,0 +1,511 @@
+{
+  "documento": {
+    "num_muestra": 34,
+    "titulo": "Evaluaciones del desempeño ambiental: Chile 2016",
+    "autoria": "OCDE y CEPAL",
+    "handle": "https://hdl.handle.net/11362/40308",
+    "simbolo": "LC/L.4195",
+    "isbn": "978-92-1-057541-6",
+    "fecha": "2016",
+    "tipo_documento": "Informe de evaluación del desempeño ambiental",
+    "paginas_cuerpo": 267,
+    "paginas_totales": 270,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": true,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cómo se han traducido el crecimiento económico y las reformas ambientales de Chile en resultados efectivos, y qué cambios institucionales, sectoriales y financieros permitirían avanzar hacia una trayectoria baja en carbono y conservar la biodiversidad?",
+    "alcance": {
+      "ambito_aplicacion": "Chile, con atención a regiones, cuencas, ciudades y sectores productivos específicos.",
+      "referentes_dependencias": "OCDE, CEPAL, países miembros de la OCDE, Unión Europea, organismos multilaterales y convenios ambientales internacionales.",
+      "sectorial": "Desempeño ambiental; gobernanza; energía, transporte, minería, agricultura, silvicultura y pesca; agua, residuos, contaminación, crecimiento verde, cambio climático y biodiversidad.",
+      "temporal": "Evolución principalmente desde 2000 y evaluación de reformas posteriores a 2005, con compromisos y proyecciones hacia 2020, 2030 y la segunda mitad del siglo."
+    },
+    "hallazgos_principales": [
+      "El crecimiento apoyado en cobre, agricultura, silvicultura y acuicultura elevó el bienestar, pero intensificó contaminación, pérdida de bosques, erosión y contaminación del agua (p. 63).",
+      "Entre 2000 y 2014 el uso total de energía creció 54%, mientras la minería y otras industrias concentraron 38% del consumo energético (p. 70).",
+      "El transporte es la segunda fuente de emisiones de CO2 y sus emisiones de GEI podrían aumentar 95% hasta 2030 (p. 45).",
+      "Las áreas protegidas abarcan alrededor del 19,5% del territorio continental, pero persisten vacíos de clasificación, gestión y financiamiento (p. 83).",
+      "El sector de bienes y servicios ambientales empleaba 28.600 trabajadores en unas 2.000 empresas privadas en 2010, con perspectivas en residuos, agua, agricultura sostenible, ecoturismo y energías renovables (p. 170)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "Chile consolidó instituciones, normas, instrumentos económicos y planes ambientales, pero la implementación y los resultados todavía no guardan proporción con las presiones sobre energía, agua, contaminación, clima y biodiversidad.",
+        "La economía continúa expuesta a un patrón intensivo en recursos y emisiones: la transición exige intervenir simultáneamente en infraestructura, energía, transporte, agricultura, uso del suelo y gestión de ecosistemas.",
+        "La adaptación y la mitigación requieren capacidades de coordinación, información, monitoreo, financiamiento y rendición de cuentas que conecten compromisos nacionales con decisiones sectoriales y territoriales."
+      ],
+      "recomendaciones": [
+        "Fortalecer la coordinación ambiental, la evaluación de impacto, la participación ciudadana y la aplicación efectiva de las normas.",
+        "Alinear impuestos, subsidios, gasto e infraestructura con la reducción de emisiones y la resiliencia climática.",
+        "Implementar un marco de monitoreo y evaluación climática con inventarios, indicadores, evaluación nacional de riesgos y responsabilidades claras.",
+        "Integrar adaptación y mitigación en energía, transporte, agricultura, silvicultura, inversión pública y ordenamiento territorial.",
+        "Crear el Servicio de Biodiversidad y Áreas Protegidas, mejorar sus planes de gestión y movilizar a gobiernos locales, comunidades indígenas y actores privados."
+      ],
+      "nota": "La evaluación formula 54 recomendaciones; se sintetizan las líneas de acción con relevancia ambiental y climática."
+    },
+    "resumen_narrativo": "El informe encuentra una brecha entre la modernización institucional de Chile y sus resultados ambientales: el crecimiento basado en recursos naturales sigue presionando energía, agua, emisiones, contaminación y biodiversidad. El diagnóstico climático muestra que el transporte y la infraestructura pueden consolidar trayectorias intensivas en carbono, mientras la adaptación carece todavía de un sistema de monitoreo suficientemente integrado. También identifica activos para una transición, como la expansión solar y eólica, los empleos ambientales y una amplia superficie protegida. El cierre propone conectar esos activos con impuestos, inversión, coordinación estatal, información y políticas sectoriales ejecutables."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Capítulo 1. Desempeño ambiental: tendencias y acontecimientos recientes",
+      "nivel": 1,
+      "paginas": "63-110",
+      "resumen": "Este capítulo establece la línea de base ambiental posterior a 2000. Relaciona el crecimiento y la reducción de la pobreza con la dependencia de la agricultura, la extracción de cobre, la silvicultura y la acuicultura, y muestra que el consumo y la infraestructura aumentaron las presiones sobre aire, agua, suelos, bosques y ecosistemas. Su recorrido pasa por energía, emisiones, contaminación atmosférica, residuos, sustancias químicas, biodiversidad y agua; el argumento es que los avances parciales no han desacoplado todavía la actividad económica del deterioro ambiental.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "1.1. Hitos económicos, sociales y conciencia ambiental",
+          "nivel": 2,
+          "paginas": "63-67",
+          "resumen": "La apertura describe un crecimiento prolongado que redujo pobreza y elevó el bienestar, pero conserva una profunda inequidad. La estructura productiva depende de agricultura, cobre, silvicultura y acuicultura, por lo que el uso intensivo de recursos aparece desde el inicio como condición del desempeño ambiental. El apartado también registra cambios en servicios públicos, calidad de vida y percepción ciudadana, preparando el contraste entre logros sociales y presiones ambientales persistentes.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "los recursos naturales representaron un motor vital de este crecimiento, y una porción significativa de los ingresos nacionales y las exportaciones provino de la agricultura, la extracción de cobre, la silvicultura y la acuicultura.",
+              "pagina": 63
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "1.2. Energía, emisiones y calidad del aire",
+          "nivel": 2,
+          "paginas": "68-75",
+          "resumen": "El apartado sigue la matriz energética, la intensidad y el consumo de energía, las emisiones de gases de efecto invernadero y los contaminantes atmosféricos. Muestra el peso de combustibles fósiles, minería, industria, transporte y combustión residencial, y dedica atención especial a la contaminación de la Región Metropolitana de Santiago. La función del bloque es evidenciar tendencias de presión y sus efectos sobre salud, ciudades y cumplimiento de objetivos ambientales.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "de 2000 a 2014, la energía total utilizada por la economía —en función de la oferta total de energía primaria— creció un 54%, pero a un ritmo más lento que el pib (véase el gráfico 1.",
+              "pagina": 70
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "el tráfico es la principal fuente de ruido en las zonas urbanas: más de la mitad de la población está expuesta a niveles de ruido superiores a los límites máximos recomendados por la ocde y la unión europea, lo que potencialmente tiene graves consecuencias para la salud (mma, 2012)5.",
+              "pagina": 68
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "1.3. Recursos, residuos, biodiversidad y agua",
+          "nivel": 2,
+          "paginas": "77-83",
+          "resumen": "La segunda mitad del capítulo examina consumo de materiales, residuos, sustancias químicas, ozono, ecosistemas, especies y recursos hídricos. El texto vincula la generación de desechos y la contaminación con el crecimiento del consumo, y contrapone la expansión de áreas protegidas con vacíos de información, conservación y manejo. El agua aparece como presión transversal para minería, agricultura, ciudades y ecosistemas; el resultado es un diagnóstico de avances formales junto con brechas de implementación y coordinación.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "las áreas protegidas oficiales abarcan alrededor del 19,5% del territorio continental de chile (incluidas las aguas interiores).",
+              "pagina": 83
+            },
+            {
+              "dimension": "desafios",
+              "cita": "sin embargo, aún persisten considerables vacíos en lo concerniente al modo de conservar las especies, dado que solo ha sido objeto de clasificaciones el 3,5% de todas las especies chilenas conocidas (véase el capítulo 5).",
+              "pagina": 83
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "Capítulo 2. Gobernanza y gestión ambientales",
+      "nivel": 1,
+      "paginas": "113-135",
+      "resumen": "El capítulo analiza la arquitectura institucional, las normas, la evaluación de impacto, la fiscalización y la democracia ambiental. Reconoce la creación de instituciones ambientales y el fortalecimiento regulatorio, pero examina problemas de coordinación horizontal y vertical, capacidades de inspección, aplicación de sanciones y participación ciudadana. Su argumento es que la calidad de las reglas no basta: la legitimidad y eficacia dependen de información, control, responsabilidades y participación temprana.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "2.1. Marco institucional y coordinación",
+          "nivel": 2,
+          "paginas": "113-115",
+          "resumen": "Este bloque describe el Ministerio del Medio Ambiente, los organismos de evaluación y cumplimiento, y la distribución de competencias entre el gobierno central, regiones y municipios. La reforma posterior a 2005 elevó el perfil institucional, pero la comparación con la OCDE deja una agenda de capacidades y coordinación todavía abierta. El apartado funciona como explicación de las condiciones estatales que sostienen la regulación ambiental y climática.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "tras la evaluación del desempeño ambiental (eda) de 2005 (ocde/cepal, 2005), chile creó el ministerio del medio ambiente y organismos específicos encargados de llevar adelante las evaluaciones del impacto ambiental y de garantizar el cumplimiento de las normas, lo que constituyó uno de los grandes logros de la política ambiental de los últimos diez años.",
+              "pagina": 113
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "2.2. Requisitos reglamentarios, evaluación y fiscalización",
+          "nivel": 2,
+          "paginas": "116-128",
+          "resumen": "El capítulo revisa estándares de calidad, análisis regulatorio, evaluación de impacto ambiental, permisos, ordenamiento territorial, inspecciones y herramientas de ejecución. Destaca el papel del SEIA y la necesidad de integrar mitigación, infraestructura, agua y residuos en las decisiones territoriales. También examina el cumplimiento empresarial y la responsabilidad por daño ambiental, mostrando que la implementación depende de datos, fiscalización sectorial y capacidad de sanción. El análisis distingue regulación preventiva, permisos, inspección y reparación, y ubica la evaluación ambiental como punto de conexión entre decisiones públicas y proyectos privados. Además, examina la promoción del cumplimiento, las compras públicas sustentables y las capacidades de funcionarios y organismos sectoriales, de modo que el capítulo no reduce la gestión a la existencia formal de normas.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+            "cita": "la ley sobre bases generales del medio ambiente (19.300/1994), sancionada en 1994, exige que el mma lleve a cabo ex ante un análisis general de impacto económico y social (agies) de los proyectos de normas ambientales.",
+              "pagina": 118
+            },
+            {
+              "dimension": "avances_implementacion",
+              "cita": "en la actualidad hay planes de capacitar en la aplicación de esta política a más de 10.",
+              "pagina": 128
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "2.3. Democracia ambiental",
+          "nivel": 2,
+          "paginas": "129-135",
+          "resumen": "El cierre del capítulo estudia participación ciudadana, acceso a información, justicia, conciencia y educación ambientales. Identifica canales formales para intervenir en normas, evaluaciones, planes de descontaminación y conservación, pero observa que la oportunidad y calidad de la participación siguen siendo desiguales. El bloque conecta derechos de acceso con confianza pública, prevención de conflictos y capacidad de ejecutar políticas ambientales legítimas.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "el mma utiliza diferentes mecanismos para encauzar la participación ciudadana en el diseño de los instrumentos de política (por ejemplo, las normas sobre emisiones y calidad del medio ambiente), las eia (véase la sección 3.",
+              "pagina": 130
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "Capítulo 3. Hacia el crecimiento verde",
+      "nivel": 1,
+      "paginas": "137-187",
+      "resumen": "Este capítulo pregunta cómo alinear crecimiento, fiscalidad, inversión, innovación, comercio y cooperación con el desempeño ambiental. Revisa la estrategia de crecimiento verde, impuestos y subsidios, gasto e infraestructura, investigación y desarrollo, tecnologías ambientales, bienes y servicios verdes y empleos ecológicos. La tesis es que Chile posee mercados, capacidades empresariales y oportunidades de inversión, pero necesita señales económicas coherentes, estadísticas, innovación y criterios ambientales sistemáticos en las decisiones públicas y privadas.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "3.1. Marco de crecimiento verde y sistema tributario",
+          "nivel": 2,
+          "paginas": "137-144",
+          "resumen": "El apartado presenta la estrategia nacional de crecimiento verde y examina la estructura tributaria, los impuestos vinculados a energía y transporte y las posibilidades de internalizar costos ambientales. También trata consumo y producción sustentables, peajes urbanos y programas de eficiencia. Su función es identificar instrumentos económicos capaces de cambiar incentivos, junto con límites derivados de cobertura, diseño distributivo y coherencia entre políticas.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+            "cita": "la ocde (2016) calculó que, si el marco del sistema de contabilidad del crecimiento tomara en cuenta las emisiones de gases de efecto invernadero (gei), el crecimiento del pib chileno entre 2000 y 2012 habría sido casi un 0,03% menor.",
+              "pagina": 138
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "3.2. Inversión pública, gasto ambiental e infraestructura",
+          "nivel": 2,
+          "paginas": "154-161",
+          "resumen": "El bloque examina gasto ambiental, alianzas público-privadas, agua y saneamiento, transporte, residuos y el Programa Nacional de Consumo y Producción Sustentables. Reconoce inversiones relevantes, pero advierte que los componentes ambientales y climáticos no se incorporan sistemáticamente a los planes de inversión. El argumento operativo es que la infraestructura puede apoyar el crecimiento verde solo si presupuesto, evaluación y criterios de sostenibilidad se integran desde el diseño.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "en 2006, chile introdujo el impuesto específico a la minería, en sintonía con la recomendación de la eda de 2005 (ocde/cepal, 2005), con miras a aumentar el aporte financiero del sector minero al gasto social y a aplicar el principio de responsabilidad económica del contaminador.",
+              "pagina": 154
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "3.3. Ecoinnovación, mercados y empleos ecológicos",
+          "nivel": 2,
+          "paginas": "164-170",
+          "resumen": "El capítulo estudia investigación y desarrollo, patentes, tecnología ambiental, bienes y servicios ambientales y empleo verde. Muestra que la inversión ambiental en I+D aumentó y que existen nichos en residuos, agua, agricultura sostenible, ecoturismo, renovables, ingeniería y consultoría. La función de este apartado es traducir la transición ambiental en capacidades productivas y laborales, aunque advierte límites de escala, habilidades y estadísticas para orientar políticas.",
+          "dimensiones": [
+            {
+              "dimension": "oportunidades",
+              "cita": "la gestión de desechos, la agricultura sostenible y el ecoturismo son sectores con buenas perspectivas de empleo, al igual que los sectores con un mayor nivel de calificación profesional, como las energías renovables, la ingeniería ambiental y los servicios de consultoría (martínez-fernández y otros, 2013).",
+              "pagina": 170
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "3.4. Medio ambiente, comercio y cooperación",
+          "nivel": 2,
+          "paginas": "171-175",
+          "resumen": "El cierre conecta la estructura exportadora basada en recursos naturales con impactos ambientales de la liberalización, y examina a Chile como receptor y proveedor de cooperación para el desarrollo. La expansión del comercio puede facilitar tecnología y mercados, pero también escala minería, silvicultura, agricultura y turismo con presiones sobre ecosistemas. El apartado concluye que la cooperación y la política comercial deben acompañarse de salvaguardas, innovación y mejores capacidades ambientales.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "los estudios revelan una agudización de las presiones ambientales debida a la liberalización del comercio, a raíz del crecimiento de la producción y de las exportaciones, y de las escalas de las operaciones de sectores como la minería, la silvicultura y algunas actividades agrícolas, y el turismo (borregaard, 2004; o’ryan y otros, 2010).",
+              "pagina": 172
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "Capítulo 4. Cambio climático",
+      "nivel": 1,
+      "paginas": "191-226",
+      "resumen": "Este capítulo concentra la evaluación climática: tendencias de emisiones, impactos actuales y previstos, instituciones, compromisos, planes, medición, financiamiento y políticas sectoriales. Describe vulnerabilidades territoriales y productivas, la contribución nacional, MAPS, adaptación, energía, transporte, agricultura y silvicultura. Su conclusión es que la respuesta necesita pasar de planes y proyectos parciales a una combinación coherente de metas, inversión, monitoreo, rendición de cuentas y decisiones sectoriales bajas en carbono y resilientes.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "4.1. Estado y tendencias de emisiones e impactos",
+          "nivel": 2,
+          "paginas": "191-197",
+          "resumen": "El bloque mide emisiones por sector y presenta efectos climáticos actuales y previstos sobre temperaturas, precipitaciones, agua, agricultura, biodiversidad y eventos extremos. La geografía chilena produce impactos diferenciados entre costa, Valle Central, Andes, norte y sur. El apartado convierte las proyecciones en una agenda de vulnerabilidad: sin decisiones de reducción y adaptación, infraestructura, producción y ecosistemas quedarán expuestos a riesgos crecientes.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "dada la diversidad geográfica y topográfica de chile, los efectos del cambio climático no se manifiestan de la misma manera en todo el territorio.",
+              "pagina": 194
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "las temperaturas a lo largo de la costa chilena descendieron aproximadamente 1 °c desde la década de 1960 como resultado de una mayor intensidad de los vientos alisios.",
+              "pagina": 194
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "4.2. Marco institucional, compromisos y programas",
+          "nivel": 2,
+          "paginas": "198-205",
+          "resumen": "Esta sección revisa objetivos internacionales, la contribución prevista de Chile, el Plan de Acción Nacional, planes sectoriales y la organización de la Oficina de Cambio Climático. También distingue mitigación y adaptación, y examina inventarios, cooperación, asistencia oficial y financiamiento. El argumento es que la arquitectura existe, pero necesita metas más claras, mejor integración y recursos sostenidos para pasar de compromisos a implementación verificable.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "el plan se concentraba en mejorar la base empírica, incluidas las tendencias, las vulnerabilidades futuras y el análisis de las posibles opciones de mitigación.",
+              "pagina": 202
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "4.3. Instrumentos, adaptación y financiamiento climático",
+          "nivel": 2,
+          "paginas": "206-216",
+          "resumen": "El capítulo examina impuestos, estándares, proyectos, subsidios, mecanismos voluntarios y medidas de eficiencia energética, además de instrumentos para adaptación y gestión de riesgos. Reconoce los primeros pasos del principio de que contamina quien paga y la expansión de renovables, pero contrasta esos avances con la dependencia de financiamiento internacional, la falta de seguimiento y la necesidad de señales más fuertes para inversión baja en carbono. El bloque traduce el diagnóstico en herramientas de política. También contrasta los instrumentos de mitigación con la gestión de riesgos, la adaptación de infraestructura y las fuentes de financiamiento, y señala que las señales económicas deben ser previsibles para orientar inversión privada y decisiones sectoriales de largo plazo.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+            "cita": "sin embargo, comenzó a dar los primeros pasos para adoptar el principio “el contaminador paga” al aprobar la aplicación de tributos sobre los vehículos nuevos y las emisiones de carbono.",
+              "pagina": 206
+            },
+            {
+              "dimension": "desafios",
+              "cita": "si bien las perspectivas de inversiones y crecimiento del sector son impresionantes, la producción de energías renovables no siguió el ritmo del aumento de la demanda energética total (véase el gráfico 4.",
+              "pagina": 215
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "4.4. Integración sectorial: transporte, agricultura y silvicultura",
+          "nivel": 2,
+          "paginas": "217-224",
+          "resumen": "La sección aterriza la política climática en transporte, infraestructura urbana, agricultura y silvicultura. El transporte concentra emisiones crecientes y requiere movilidad pública, eficiencia y planificación; la agricultura aporta emisiones y empleo, mientras la silvicultura funciona simultáneamente como sumidero y fuente de riesgos. El apartado muestra que la política climática solo se vuelve efectiva cuando entra en inversión, ordenamiento, infraestructura, productividad y gestión del territorio.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "la agricultura y la silvicultura constituyen para chile una fuente significativa de ingresos por exportación y de empleo (véase el capítulo 1).",
+              "pagina": 221
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "el ministerio de transporte y telecomunicaciones ayudará a desarrollar la estrategia de adaptación requerida por la infraestructura; también deberá tener una participación formal en la estrategia sanitaria.",
+              "pagina": 221
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "Capítulo 5. Conservación y uso sostenible de la diversidad biológica",
+      "nivel": 1,
+      "paginas": "229-274",
+      "resumen": "El último capítulo evalúa estado, presiones, gobernanza, instrumentos, áreas protegidas, iniciativas privadas, financiamiento e integración sectorial de la biodiversidad. Examina ecosistemas terrestres, marinos y acuáticos, especies, agricultura, silvicultura, pesca, turismo y minería, y cierra con la relación entre cambio climático y adaptación ecológica. La tesis es que la protección formal es importante pero insuficiente sin información, financiamiento, participación local, coordinación institucional y gestión activa.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "5.1. Estado y presiones sobre ecosistemas y especies",
+          "nivel": 2,
+          "paginas": "229-235",
+          "resumen": "El apartado presenta la diversidad endémica de Chile y las presiones de infraestructura, ciudades, agricultura, silvicultura, pesca y minería. Detalla contaminación de aguas interiores, degradación de suelos, ecosistemas marinos, especies amenazadas e invasoras. El argumento es que la riqueza biológica convive con vacíos de información y con impactos acumulativos que la política sectorial todavía no incorpora de manera suficiente.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "las principales fuentes de contaminación del agua son las aguas servidas urbanas e industriales, la piscicultura y el procesamiento de pescado, y la agricultura y la industria agroalimentaria, si bien se observan variaciones entre las regiones (véase el gráfico 5.",
+              "pagina": 234
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "5.2. Marco institucional y legislativo",
+          "nivel": 2,
+          "paginas": "238-244",
+          "resumen": "Esta sección revisa instituciones vigentes, la propuesta de Servicio de Biodiversidad y Áreas Protegidas, estrategias nacionales y compromisos internacionales. Señala centralización, fragmentación y consulta insuficiente, y sostiene que gobiernos locales y comunidades indígenas deben participar antes y durante la implementación. La función del bloque es mostrar que la conservación requiere una gobernanza más abierta, con responsabilidades y recursos capaces de sostener planes de acción.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "el modelo de gobernanza centralizada de la diversidad biológica se beneficiaría de una mayor participación de los gobiernos locales y las comunidades indígenas en etapas anteriores del proceso de formulación de políticas y en su implementación.",
+              "pagina": 241
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "5.3. Instrumentos, áreas protegidas y financiamiento",
+          "nivel": 2,
+          "paginas": "245-251",
+          "resumen": "El bloque analiza combinación de políticas, regulación, compensaciones, certificaciones, valoración económica, áreas protegidas, iniciativas privadas y gasto público. Expone que los subsidios dañinos y la falta de recursos limitan la conservación, aunque existen oportunidades para movilizar propietarios, ONG, empresas y financiamiento internacional. El capítulo propone orientar mejor la investigación, reformar incentivos y fortalecer planes de gestión para que la superficie protegida se traduzca en resultados.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "dados los limitados recursos financieros y humanos destinados por chile a la conservación de la diversidad biológica, el país podría beneficiarse si se adopta un enfoque más selectivo del financiamiento de las investigaciones sobre la biodiversidad.",
+              "pagina": 245
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "chile debería aprovechar el proyecto biofin para redoblar los esfuerzos orientados a eliminar o reformar los subsidios otorgados a actividades que perjudican la diversidad biológica.",
+              "pagina": 248
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "5.4. Integración en agricultura, silvicultura, pesca, turismo y minería",
+          "nivel": 2,
+          "paginas": "257-263",
+          "resumen": "La sección estudia cómo incorporar biodiversidad en políticas sectoriales y en actividades productivas. Recorre agricultura orgánica y riego, manejo forestal, pesca y acuicultura, turismo y minería, incluyendo certificaciones, impactos, empleo y conflictos por recursos. El mensaje central es que las metas ambientales no producen resultados tangibles si los responsables sectoriales desconocen los servicios ecosistémicos o si los incentivos productivos siguen premiando la degradación.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "si bien en varias otras áreas de política se están incorporando metas relativas a la diversidad biológica, todavía no logran verse resultados tangibles a partir de estos esfuerzos —más allá de unos pocos ejemplos locales—.",
+              "pagina": 257
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "5.5. Diversidad biológica y cambio climático",
+          "nivel": 2,
+          "paginas": "267-274",
+          "resumen": "El cierre conecta disponibilidad de agua, cambio climático, adaptación de especies, nivel del mar, humedales y monitoreo. Proyecta impactos sobre la costa, ecosistemas marinos, comunidades animales y vegetales y zonas vulnerables entre Coquimbo y Los Lagos. También registra el inicio de una red chilena de monitoreo de biodiversidad en el contexto climático. El apartado integra conservación y adaptación como una agenda común de conocimiento, seguimiento y gestión.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "además del efecto en la disponibilidad de agua, el cambio climático puede dañar la diversidad biológica, pues el ritmo de cambio excede la capacidad de adaptación de las especies (véase el capítulo 4).",
+              "pagina": 267
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El informe señala que el Plan Nacional de Infraestructura 2014 incluye inversiones relacionadas con el medio ambiente, pero que la mayoría de esos planes no incorpora de manera sistemática los componentes ambientales y climáticos. Esto acredita instrumentos concretos, pero también una integración incompleta, por lo que el veredicto es Parcial.",
+      "citas": [
+        {
+          "cita": "las grandes medidas relativas a inversiones, como el plan nacional de infraestructura 2014, incluyen inversiones en infraestructura relacionada con el medio ambiente, pero la mayoría de estos planes no toman en cuenta de manera sistemática los componentes ambientales y climáticos.",
+          "pagina": 20
+        }
+      ],
+      "nota": "Parcial: hay instrumentos concretos y sectores estratégicos, pero no un paquete coordinado completo."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El documento acredita un mecanismo institucional concreto de coordinación horizontal dentro de Chile: el Consejo de Ministros para la Sustentabilidad asesora al Presidente sobre políticas sectoriales, incluidos proyectos de leyes y reglamentos relativos al medio ambiente.",
+      "citas": [
+        {
+          "cita": "El Consejo de Ministros para la Sustentabilidad, creado en 2010, constituye el principal mecanismo de coordinación horizontal. Asesora al Presidente acerca de políticas sectoriales, incluidos proyectos de leyes y reglamentos relativos al medio ambiente.",
+          "pagina": 115
+        }
+      ],
+      "nota": "Sí: se identifican procesos y arreglos de coordinación propios del ámbito nacional analizado."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Sí",
+      "evidencia": "El informe identifica oportunidades productivas sostenibles vinculadas al empleo: gestión de residuos, agua, agricultura sostenible, ecoturismo, energías renovables, ingeniería ambiental y consultoría. La industria chilena de bienes y servicios ambientales empleó a 28.600 trabajadores en aproximadamente 2.000 empresas privadas en 2010.",
+      "citas": [
+        {
+          "cita": "A medida que el mercado de los bienes y servicios ambientales se expande y avanzan las políticas ambientales, aparecerán nuevos perfiles profesionales. USAID y APEC (2011) plantean que la industria chilena de los bienes y servicios ambientales empleó a 28.600 trabajadores en aproximadamente 2.000 empresas privadas en 2010 (véase el cuadro 3.1). Al igual que en otros países, la mayoría de los empleos verdes se relacionan con la gestión de residuos sólidos y el agua, sectores que suelen hacer un uso intensivo de la mano de obra. La gestión de desechos, la agricultura sostenible y el ecoturismo son sectores con buenas perspectivas de empleo, al igual que los sectores con un mayor nivel de calificación profesional, como las energías renovables, la ingeniería ambiental y los servicios de consultoría (Martínez-Fernández y otros, 2013).",
+          "pagina": 170
+        }
+      ],
+      "nota": "Sí: la enumeración sectorial y el vínculo productivo-laboral están desarrollados, no son una mención aislada."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "La voz normativa del cierre contiene acciones con objetos o instrumentos identificables: planes de descontaminación, red de monitoreo, responsabilidad extendida del productor, política de emisiones, evaluación de impacto, impuestos al carbono, monitoreo climático, inventarios, evaluación de riesgos y Servicio de Biodiversidad. Se excluyen diagnósticos y ejemplos de terceros.",
+      "citas": [
+        {
+          "cita": "formular planes de prevención y descontaminación del aire para todas las áreas en las que no se cumplan las disposiciones de las normas sobre calidad del aire, y evaluar y actualizar los planes vigentes; conseguir que las autoridades locales participen activamente en la formulación, implementación y evaluación de las medidas específicas de política contempladas en los planes.",
+          "pagina": 28
+        },
+        {
+          "cita": "implementar un marco de monitoreo y evaluación de las políticas de adaptación al cambio climático y mitigación del fenómeno, en el que se prevean mecanismos de rendición de cuentas claramente definidos; reforzar la capacidad de elaboración oportuna de inventarios de emisiones; considerar la posibilidad de establecer hitos intermedios de las metas a largo plazo sobre emisiones; realizar una evaluación nacional de riesgos y vulnerabilidad al cambio climático; evaluar la resiliencia climática de los proyectos de gran envergadura, y desarrollar indicadores para monitorear los avances en el cumplimiento de los objetivos de adaptación.",
+          "pagina": 46
+        },
+        {
+          "cita": "aprobar la ley marco sobre gestión de desechos lo antes posible e implementar esquemas de responsabilidad extendida del productor por los tipos de productos más dañinos para el medio ambiente.",
+          "pagina": 28
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Formular y actualizar planes de prevención y descontaminación del aire",
+          "clasificacion": "CONCRETO",
+          "pagina": 28
+        },
+        {
+          "item": "Perfeccionar la red de monitoreo y asegurar acceso público a la información",
+          "clasificacion": "CONCRETO",
+          "pagina": 28
+        },
+        {
+          "item": "Aprobar la ley marco de residuos e implementar responsabilidad extendida del productor",
+          "clasificacion": "CONCRETO",
+          "pagina": 28
+        },
+        {
+          "item": "Desarrollar política coherente de regulación de emisiones con valores límite",
+          "clasificacion": "CONCRETO",
+          "pagina": 32
+        },
+        {
+          "item": "Implementar monitoreo, inventarios, hitos, evaluación de riesgos e indicadores climáticos",
+          "clasificacion": "CONCRETO",
+          "pagina": 46
+        },
+        {
+          "item": "Integrar adaptación en evaluación del sector público y evaluar resiliencia de proyectos",
+          "clasificacion": "CONCRETO",
+          "pagina": 46
+        },
+        {
+          "item": "Seguir avanzando hacia una economía más verde",
+          "clasificacion": "GENERICO",
+          "pagina": 39
+        }
+      ],
+      "tally": "6 de 7 ítems pasan el test de concreción",
+      "nota": "El tally se limita a la lista normativa del cierre; no cuenta medidas descritas en capítulos ni lugares mencionados como alcance."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la tensión entre un crecimiento apoyado en recursos naturales y la acumulación de contaminación, emisiones, presión hídrica y pérdida de biodiversidad. La respuesta propuesta combina instrumentos económicos, infraestructura, tecnología, conservación y coordinación institucional.",
+      "filtro_categoria_primaria": "La transformación primaria es #6 porque el objeto sustantivo y el cierre abarcan desempeño ambiental, crecimiento verde, cambio climático y biodiversidad. La institucionalidad, los inventarios, la fiscalización y la participación son medios para producir resultados ambientales, no el objeto final del informe.",
+      "secundaria_obligatoria": "#11 cumple la función habilitadora: las brechas de coordinación, monitoreo, financiamiento, aplicación normativa y participación explican por qué planes, impuestos, evaluaciones y áreas protegidas no siempre se traducen en resultados.",
+      "justificacion_anti_copia": "La clasificación se apoya en rasgos específicos: el uso energético total creció 54% entre 2000 y 2014; el transporte concentra una trayectoria proyectada de emisiones crecientes; y casi un quinto del territorio está protegido mientras persisten vacíos de clasificación y gestión. El método integra cinco capítulos sectoriales y 54 recomendaciones, lo que confirma que la capacidad estatal es instrumento de una agenda ambiental amplia.",
+      "validacion_anclas": "Se aproxima al ancla #20, Impactos económicos del cambio climático en Colombia. Síntesis, porque vulnerabilidad, mitigación, adaptación y sectores productivos son el objeto, mientras información, planificación y regulación son medios. Se diferencia de las anclas #8, #12, #16 y #19, donde la arquitectura institucional o la gobernanza constituye el objeto principal del documento completo."
+    },
+    "tipo_documento_climatico": "Informe nacional de evaluación del desempeño ambiental, con comparación internacional, diagnóstico sectorial y recomendaciones de política.",
+    "nivel_aplicacion": "Nacional, con focos regionales, urbanos, ecosistémicos y sectoriales.",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

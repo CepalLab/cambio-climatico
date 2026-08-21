@@ -1,0 +1,2 @@
+# 39149 — consolidación
+En sesión limpia, consolida `parcial_001_100.json` y `parcial_101_179.json` de `11362/39149`. No releas PDF/OCR ni descargues. Completa metadatos, resumen enriquecido, interpelación y tipología según la directriz; elimina duplicados. Guarda `borrador_preprueba.json`, valida esquema, citas con `tramos_endpoint/manifest.json --strict-quality` y densidad. No uses ledger/resultados.

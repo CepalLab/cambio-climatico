@@ -1,7 +1,7 @@
 # Fase 2 — Análisis estructurado del corpus climático
 
 **Fecha de inicio**: 2026-07-06
-**Estado**: Propuesta v0, pendiente de validación con el equipo del curso (Valeria, Santiago Lorenzo/VTL)
+**Estado**: Fase 2 completada el 2026-08-21: 244/244 publicaciones enriquecidas, certificadas y promovidas.
 **Contexto**: insumo de apoyo al curso "Innovar para la complejidad: Estrategias del sector público para abordar el cambio climático en América Latina" (Montevideo, 1–4 sept. 2026). Ver [nota_conceptual.docx](nota_conceptual.docx) para el documento original del equipo del curso.
 
 Esta carpeta reúne el trabajo de la Fase 2: pasar del corpus de 244 documentos (construido en Fase 1, ver [../SEGUNDA_FASE.md](../SEGUNDA_FASE.md) y [../DOCUMENTOS_EXCLUIDOS_DEFINITIVO.md](../DOCUMENTOS_EXCLUIDOS_DEFINITIVO.md)) a un análisis estructurado a nivel de fragmento, guiado por las preguntas de investigación de la nota conceptual.
@@ -70,7 +70,16 @@ División de responsabilidades explícita: **Lab** = pipeline técnico de extrac
 4. Reunión de calibración: comparar resultados, afinar definiciones, reglas de decisión y palabras clave por pregunta de investigación.
 5. Escalar el pipeline calibrado a los 244 documentos del corpus definitivo.
 
+## Operación por lotes
+
+El escalamiento usa un ledger SQLite recuperable que mantiene separados el control operativo y los JSON analíticos. La arquitectura, estados y comandos están documentados en [OPERACION_BATCH.md](OPERACION_BATCH.md); la implementación vive en [pipeline/ledger.py](pipeline/ledger.py).
+
 ## Historial
+
+- **2026-08-21** — cierre de producción: los 244 documentos del corpus están enriquecidos y promovidos con
+  sus certificados gemelos. El relevo para limpieza, revisión transversal y normalización de derivados para
+  análisis agregados está en [RELEVO_FASE3.md](RELEVO_FASE3.md). Los JSON de
+  `corpus/resultados/` son el congelamiento canónico de entrada a Fase 3.
 
 - **2026-07-06** — creación de esta carpeta, codebook v0 y muestra de calibración; housekeeping dearchivos sueltos en la raíz del repo (ver commit `945ebda` y siguientes).
 - **2026-07-06** — plan de análisis profundo (enriquecimiento documental, resumen por sección, interpelación institucional, tipología) con piloto ejecutado sobre 2 documentos de la muestra; ver [PLAN_ANALISIS_PROFUNDO.md](PLAN_ANALISIS_PROFUNDO.md) y [pilot/](pilot/). Corrección: la nota conceptual tiene 9 preguntas de investigación, no 8.

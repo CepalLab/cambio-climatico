@@ -1,0 +1,450 @@
+{
+  "documento": {
+    "num_muestra": 137,
+    "titulo": "Conceptualizing a circular economy in the Caribbean: perspectives and possibilities. Policy Brief",
+    "autoria": null,
+    "handle": "https://hdl.handle.net/11362/47604",
+    "simbolo": "LC/CAR/2021/7",
+    "isbn": null,
+    "fecha": "2021-12-09",
+    "tipo_documento": "Policy Brief",
+    "paginas_cuerpo": 9,
+    "paginas_totales": 10,
+    "idioma": "en",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cómo puede aplicarse una economía circular a las economías caribeñas pequeñas, abiertas y dependientes de servicios, y qué posibilidades de política permiten reducir externalidades ambientales mientras sostienen el desarrollo económico y social?",
+    "alcance": {
+      "ambito_aplicacion": "Estados insulares pequeños del Caribe y la subregión caribeña, con referencias específicas a CARICOM, Barbados, Guyana, Trinidad y Tobago, Suriname, Jamaica, Antigua y Barbuda, las Bahamas, Dominica, Saint Lucia, Saint Kitts and Nevis y otros países caribeños.",
+      "referentes_dependencias": "IRENA, IDB, CARICOM, el Acuerdo de París, los ODS y la literatura de economía circular de Korhonen, Honkasalo y Seppälä; se usan como fuentes de marcos, metas o evidencia, no como ámbitos de aplicación.",
+      "sectorial": "Energía renovable; residuos, reciclaje y compostaje; agua y aguas residuales; eventos culturales; transporte terrestre; impuestos ambientales; bonos verdes y azules; turismo; servicios comunitarios y contratación pública.",
+      "temporal": "Diagnóstico y posibilidades de política contemporáneas, con datos y metas referidos principalmente a 2015-2027 y una orientación de decisiones de mediano y largo plazo."
+    },
+    "hallazgos_principales": [
+      "La circularidad se define como un flujo cíclico de materiales y energía que prioriza reutilización y remanufactura, reduce disposición de residuos y minimiza impactos ambientales.",
+      "La dependencia caribeña del turismo y de combustibles fósiles importados limita la transferencia directa del modelo industrial, pero abre opciones de circularidad en servicios, energía, residuos, agua y movilidad.",
+      "CARICOM fijó una meta regional de 47% de energías renovables en la generación eléctrica para 2027 y se proyectan 4 gigavatios adicionales para cumplir metas climáticas.",
+      "El brief identifica ocho líneas de acción: renovables; residuos; agua; bonos de desempeño; transporte; impuestos pigouvianos; bonos verdes y azules; y capacidad de carga natural.",
+      "La transición puede generar empleo y decisión comunitaria, pero requiere instituciones robustas, datos, contratación pública y educación de largo plazo para evitar incentivos perversos y distribuir costos y beneficios."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La economía circular ofrece un marco más amplio que el reciclaje para reducir externalidades y reorientar el desarrollo económico y social caribeño.",
+        "La subregión ya muestra estrategias parciales, pero la dependencia de servicios, combustibles importados y activos naturales exige una aplicación formalizada y deliberada.",
+        "La transición modifica costos y derechos de uso de bienes ambientales, por lo que necesita mecanismos institucionales, información y participación comunitaria."
+      ],
+      "recomendaciones": [
+        "Promover las ocho líneas de política desarrolladas en la sección 2.1: renovables, residuos, agua, bonos de desempeño, transporte eficiente, impuestos verdes, bonos verdes y azules y límites de capacidad de carga.",
+        "Incorporar elementos de economía compartida mediante grupos cooperativos y comunitarios, servicios compartidos y contratación pública de servicios ambientales.",
+        "Formalizar la estrategia con datos, analítica, educación de largo plazo y marcos institucionales que hagan transparentes los costos y beneficios."
+      ],
+      "nota": "El recuadro de “Key recommendations” aparece en la portada editorial; las recomendaciones se sintetizan aquí, pero el cierre formal del documento es una conclusión narrativa y no una lista normativa con responsables, plazos o métricas."
+    },
+    "resumen_narrativo": "El brief parte de una economía circular entendida como ciclos de materiales y energía que conservan valor y reducen residuos, y pregunta cómo trasladar ese marco a pequeños Estados insulares caribeños dominados por servicios. Su diagnóstico combina turismo dependiente de activos naturales, importaciones de combustibles fósiles y vulnerabilidad a desastres, pero también identifica avances renovables y una meta de CARICOM de 47% de renovables en la electricidad para 2027. La respuesta no se limita al reciclaje: desarrolla ocho posibilidades concretas que van desde energía, residuos y agua hasta transporte, impuestos, bonos verdes y azules y capacidad de carga. El cierre añade una dimensión distributiva e institucional, vinculando economía compartida, empleo, decisión comunitaria, datos, contratación pública y educación de largo plazo."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introduction",
+      "nivel": 1,
+      "paginas": "1-2",
+      "resumen": "La introducción presenta el brief y formula su problema aplicado: trasladar el concepto de economía circular, normalmente asociado a materiales y energía, a las economías insulares pequeñas y abiertas del Caribe, muy dependientes de los servicios. El recuadro editorial de recomendaciones enumera energía renovable, minimización de residuos, precios y regulación del agua, bonos de desempeño, transporte terrestre eficiente, impuestos verdes, bonos verdes y azules, límites de capacidad de carga y elementos de economía compartida. El desarrollo conceptual define la economía circular como un flujo cíclico de materiales y energía que reduce la extracción, el descarte y los impactos ambientales, y advierte que el reciclaje por sí solo no agota el enfoque.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "circular economy has come to represent an array of paradigms",
+          "pagina": 2
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Given the high dependency of Caribbean economies on trade in services, this policy brief makes a cursory analysis of the application of the circular economy approach to the economies of Caribbean small island developing States (SIDS).",
+          "pagina": 2
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "1. Theoretical perspectives on circular economy in the Caribbean",
+      "nivel": 1,
+      "paginas": "2-4",
+      "resumen": "Esta sección construye el marco ecológico y económico del brief. Explica que la circularidad prioriza reutilización y remanufactura antes que reciclaje, porque conserva durante más tiempo el valor de materiales y energía y evita que el reciclaje intensivo vuelva a introducir materiales primarios y consumo energético. Luego traduce las externalidades negativas a costos sociales: al internalizarlas mediante precios de disposición y otros instrumentos, disminuyen los residuos y aparecen oportunidades para energía renovable, reducción de materiales y energía, mitigación de gases de efecto invernadero y minimización de residuos. Cierra con tres objetivos ambientales, económicos y sociales, incluida una economía compartida con decisión conjunta y uso cooperativo del capital.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "In the classical linear economy, production and consumption are undertaken through the efficient use of production factors, typically categorized as land, labour and capital, in the production and consumption of goods and services.",
+          "pagina": 3
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "The key economic premise here relates to how ‘internalized’ negative externalities may change the cost structure of firms and households, and how such changes can ultimately affect a firm’s production, investment, savings, and household consumption.",
+          "pagina": 3
+        },
+        {
+          "dimension": "oportunidades",
+          "cita": "Economic: reduction of raw materials and energy costs, wastes and other emission costs, risks, and the fostering of innovative new product designs and business opportunities.",
+          "pagina": 4
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "2. Circular economy in the Caribbean: some possibilities?",
+      "nivel": 1,
+      "paginas": "4-8",
+      "resumen": "El capítulo aplica el marco a las economías caribeñas, cuya dependencia del turismo y de combustibles fósiles importados convive con activos naturales, vulnerabilidad a desastres y experiencias iniciales de inversión renovable. Sostiene que, aunque las economías de servicios no ofrecen las mismas opciones de reutilización industrial que las manufactureras, sí permiten reorientar incentivos y reducir externalidades mediante un conjunto de políticas. El texto desarrolla ocho posibilidades concretas y las conecta con energía, residuos, agua, movilidad, financiamiento y límites de uso de la base natural.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Caribbean countries are highly dependent on tourism services to drive their economies.",
+          "pagina": 4
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Only Trinidad and Tobago, Suriname and recently Guyana, possess significant domestic energy resources, with the remaining countries being net energy importers.",
+          "pagina": 4
+        },
+        {
+          "dimension": "oportunidades",
+          "cita": "Several peculiarities of this subregion provide ample options for CE development.",
+          "pagina": 4
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "2.1 Possibilities",
+          "nivel": 2,
+          "paginas": "5-8",
+          "resumen": "La subsección convierte la tesis general en una cartera de instrumentos y sectores. Presenta medidas de energía renovable, gestión y valorización de residuos, precios y regulación del agua, bonos de desempeño para eventos, transporte sostenible, impuestos pigouvianos, bonos verdes y azules y límites de capacidad de carga. En conjunto, la lista configura un paquete de políticas ambientales y económicas que puede adaptarse a las restricciones de escala de los pequeños Estados insulares.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "A cursory examination suggests that there are many avenues for Caribbean economies’ transition, in a manner that positions them closer to a circular model.",
+              "pagina": 5
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "a. Renewable energy development",
+              "nivel": 3,
+              "paginas": "5-6",
+              "resumen": "El apartado identifica viento, sol, océano, biomasa y geotermia como recursos renovables disponibles, frente a una dependencia de energía fósil importada que llega hasta 81% de las necesidades nacionales. Registra avances en instalaciones solares, proyectos eólicos y geotermia, junto con la meta regional de CARICOM de 47% de renovables en la generación eléctrica para 2027 y una proyección de 4 gigavatios adicionales para cumplir las contribuciones determinadas a nivel nacional. La recomendación es ampliar esos primeros pasos para reorientar las economías hacia la circularidad.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "many countries depending on imported fossil energy to meet up to 81 per cent of their national energy needs",
+                  "pagina": 5
+                },
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "The Caribbean is nevertheless very energy insecure, with many countries depending on imported fossil energy to meet up to 81 per cent of their national energy needs",
+                  "pagina": 5
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "these developments represent good first moves towards the shaping of a circular economy in the Caribbean.",
+                  "pagina": 6
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "b. Waste minimization (recycling, composting, efficient waste disposal pricing)",
+              "nivel": 3,
+              "paginas": "6-7",
+              "resumen": "El apartado amplía el reciclaje hacia una estrategia de minimización de residuos que combine precios eficientes de disposición y compostaje. Señala que la gestión municipal está subfinanciada e ineficiente, que los residuos orgánicos representan entre 45% y 50% de los residuos municipales y que el compostaje comunitario podría aprovechar economías de escala. Añade esquemas de depósito y reembolso para envases, especialmente relevantes ante la alta generación per cápita de residuos plásticos.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "municipal waste management is often underfunded and inefficient.",
+                  "pagina": 6
+                },
+                {
+                  "dimension": "oportunidades",
+                  "cita": "organics constitute the largest share of municipal wastes in the Caribbean, as evidenced by the high “wet content” of between 45–50 per cent for municipal wastes",
+                  "pagina": 6
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Significant waste minimization could also be achieved through the robust implementation of deposit refund schemes",
+                  "pagina": 6
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "c. Efficient water pricing and regulation",
+              "nivel": 3,
+              "paginas": "6-7",
+              "resumen": "El apartado propone precios del agua que reflejen el costo real de uso y sus externalidades, junto con mejor regulación intersectorial. El argumento es que el suministro municipal es ineficiente y poco fiable, la inversión en reciclaje de aguas residuales es mínima y una tarificación más realista permitiría inversión de largo plazo. La regulación debe coordinar usos municipales, agrícolas, turísticos e industriales y generar incentivos para conservación, captación de lluvia y tratamiento de aguas residuales.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "inefficient and unreliable municipal water supply, along with minimal investment in wastewater recycling suggests the need for a more realistic water pricing strategy.",
+                  "pagina": 6
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Better regulation would also forge the necessary fiscal regime to support the provision of water as a public good",
+                  "pagina": 6
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "d. Performance bonds for cultural events",
+              "nivel": 3,
+              "paginas": "6-7",
+              "resumen": "El apartado vincula la dependencia turística con los impactos ambientales de carnavales, deportes, festivales, eventos gastronómicos y reuniones que ocupan espacios públicos. Identifica residuos sólidos y aguas residuales, daño a suelos, vegetación y patrimonio, y perturbación de hábitats. Propone que los promotores constituyan bonos de desempeño para financiar salvaguardas y hacer que los costos de remediación recaigan en los usuarios del evento, observando que el instrumento aún no se usa de forma amplia en el Caribe.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Such bonds would also ensure that remediation costs, where these arise, do not fall to the public purse, but are borne by the “consumers” of these events.",
+                  "pagina": 7
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "To date there is little evidence that this tool is routinely and widely employed in the Caribbean.",
+                  "pagina": 7,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "e. Efficient land-based transportation",
+              "nivel": 3,
+              "paginas": "7-8",
+              "resumen": "El apartado trata el transporte terrestre como el segundo mayor consumidor de energía fósil del Caribe y documenta una motorización de 201 vehículos por cada 1.000 habitantes en 2015, con tasas muy superiores en Barbados y Trinidad y Tobago. El parque vehicular también produce residuos de aceites, neumáticos y vehículos y presiona los vertederos y cursos de agua. La transición circular exigiría reorganizar el transporte público, reducir concentraciones vehiculares, promover modos sostenibles y articular planificación urbana y rural con cambios de estilo de vida.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "land-based transportation accounts for the second largest share of fossil-energy consumption in the Caribbean.",
+                  "pagina": 7
+                },
+                {
+                  "dimension": "tendencias",
+                  "cita": "These figures have increased by 4.7 per cent over the past decade",
+                  "pagina": 7
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "High vehicle concentrations also result in other challenges such as the disposal of used oil, tires, and even expired vehicles, with significant economic implications for the pollution of natural and coastal waterways and the increased use of scarce land for landfilling.",
+                  "pagina": 7
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "f. Application of Pigouvian taxes",
+              "nivel": 3,
+              "paginas": "7-8",
+              "resumen": "El apartado define los impuestos pigouvianos o verdes como tributos directos para cubrir los costos de externalidades negativas. Constata que pocos países caribeños los han implementado, aunque existen gravámenes sectoriales y de consumo, y explica que los recursos podrían financiar bienes públicos ambientales como reforestación de cuencas, limpieza costera, tratamiento de residuos tóxicos, conservación del agua y protección de fauna. La propuesta es ampliar su aplicación para sostener esos bienes y servicios.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "Pigouvian or green taxes are direct taxes applied to meet the negative externality costs of market transactions.",
+                  "pagina": 7,
+                  "subtipo_brecha": "retrospectiva"
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Caribbean governments would be obliged to consider the broader application of green taxes as a means of financing these goods and services in a circular economy.",
+                  "pagina": 7
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "g. Green and blue investment bonds",
+              "nivel": 3,
+              "paginas": "7-8",
+              "resumen": "El apartado distingue bonos verdes para desarrollos terrestres bajos en carbono de bonos azules para el uso sostenible del océano. Identifica expresiones de interés de Barbados y Guyana y presenta los bonos azules como un instrumento innovador para movilizar capital hacia los desafíos de los ODS y del Acuerdo de París. Concluye que ambos instrumentos deberían ocupar un lugar central en el desarrollo de una economía circular caribeña.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Green bonds help to finance these developments on land, while blue bonds support the sustainable use of the ocean space.",
+                  "pagina": 8
+                },
+                {
+                  "dimension": "oportunidades",
+                  "cita": "blue bonds as an innovative financing instrument for mobilizing capital to solve the challenges as outlined in the SDG’s and Paris Agreement.",
+                  "pagina": 8
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "h. Optimal carrying capacity limits for the natural resource base",
+              "nivel": 3,
+              "paginas": "8-9",
+              "resumen": "El apartado propone decidir la capacidad de carga óptima de la base natural, especialmente respecto del número de visitantes y del crecimiento urbano. La decisión debe incorporar el costo social de largo plazo y las externalidades, por lo que una capacidad sostenible puede ser menor que la inicialmente prevista. El análisis debe considerar cambios tecnológicos y preferencias sociales para orientar las decisiones económicas y sociales de mediano y largo plazo.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "a circular economy approach would require an exploration of these issues, as the basis for guiding economic and social choice over the medium to long term.",
+                  "pagina": 8
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "a sustainable carrying capacity could be lower than anticipated.",
+                  "pagina": 8
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "3. Social and institutional implications for circular economy in the Caribbean",
+      "nivel": 1,
+      "paginas": "8-9",
+      "resumen": "La sección examina la distribución social e institucional de la transición. Advierte que cambiar costos y externalidades crea ganadores y perdedores y que una economía compartida puede aumentar empleo, decisión democrática y uso eficiente de capacidades materiales mediante grupos cooperativos y comunitarios. Propone ejemplos como transporte público, compostaje comunitario, impuestos verdes, servicios compartidos y lavanderías o viveros conjuntos entre empresas turísticas. También identifica la necesidad de datos, analítica, marcos de contratación pública y educación de largo plazo para sostener cambios de valores y evitar incentivos perversos.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "mitigating negative externalities will of necessity change economic cost structures, which will in turn result in new regimes of gainers and losers.",
+          "pagina": 8
+        },
+        {
+          "dimension": "oportunidades",
+          "cita": "increased employment, participative democratic decision-making, and more efficient use of the existing physical material capacity",
+          "pagina": 8
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "data, information and analytics services, as well as frameworks for public procurement of private services for production of public goods would be important.",
+          "pagina": 9
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Conclusion",
+      "nivel": 1,
+      "paginas": "9",
+      "resumen": "La conclusión sostiene que la economía circular tiene un alcance mucho mayor que el reciclaje y que las restricciones de escala del Caribe hacen insuficiente una estrategia basada únicamente en reciclaje rentable. El enfoque amplio de reducción de externalidades abre opciones para el desarrollo económico y social, y el brief observa que la subregión ya ha adoptado estrategias parciales en esa dirección. El cierre reclama una aplicación más formalizada y deliberada de la economía circular ante los imperativos del cambio climático, pero no contiene una lista normativa propia con instrumentos, responsables, plazos o métricas.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "there is evidence that the subregion has already adopted strategies for moving regional economies in that direction.",
+          "pagina": 9
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "The imperatives of global climate change suggest the need for a more formalized and deliberate approach to the application of a circular economy strategy in the Caribbean.",
+          "pagina": 9
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "El brief propone un paquete coordinado de ocho líneas de política dentro de una estrategia explícita de reorientación circular, con sectores estratégicos nombrados —energía renovable, residuos, agua, transporte y finanzas verdes— y vínculos ambientales, económicos y sociales. Supera el test de paquete y al menos uno de sector/eficiencias, aunque no cuantifica una escala de inversión agregada.",
+      "citas": [
+        {
+          "cita": "A cursory examination suggests that there are many avenues for Caribbean economies’ transition, in a manner that positions them closer to a circular model.",
+          "pagina": 5
+        }
+      ],
+      "desglose_items": [],
+      "tally": "8 de 8 líneas sectoriales coordinadas",
+      "nota": "Test 1: Sí, cartera coordinada; test 2: Sí, sectores estratégicos concretos; test 3: Sí, combina eficiencia ambiental con eficiencia económica y social. No se confunde la cartera con una única medida aislada."
+    },
+    "articulacion_actores": {
+      "veredicto": "No",
+      "evidencia": "El texto menciona gobiernos, empresas, comunidades, grupos cooperativos y actores públicos y privados, pero no nombra un mecanismo institucional de coordinación dentro del Caribe con autoridad, funciones y ámbito de aplicación identificables. La economía compartida y los grupos comunitarios son arreglos generales, no una plataforma o consejo específico.",
+      "citas": [
+        {
+          "cita": "This is expected to be done through cooperative and community user groups who draw on the value, service and function of the material resource, instead of the individual consumption of physical products that is typical of the consumer culture.",
+          "pagina": 8
+        }
+      ],
+      "desglose_items": [],
+      "tally": "0 de 0 mecanismos nombrados",
+      "nota": "Chequeo negativo explícito: la presencia de actores y de un marco institucional robusto no acredita por sí sola el criterio; falta un mecanismo concreto propio del ámbito caribeño."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Sí",
+      "evidencia": "El brief enumera actividades concretas —renovables, residuos y compostaje, agua, transporte, bonos verdes y azules, servicios compartidos y turismo— y desarrolla sus vínculos con reducción de costos y externalidades, innovación, empleo, decisión participativa y uso productivo de recursos. No se trata de una frase aislada: la sección 2.1 desarrolla ocho posibilidades y la sección 3 explicita el vínculo laboral y distributivo.",
+      "citas": [
+        {
+          "cita": "increased employment, participative democratic decision-making, and more efficient use of the existing physical material capacity",
+          "pagina": 8
+        },
+        {
+          "cita": "Economic: reduction of raw materials and energy costs, wastes and other emission costs, risks, and the fostering of innovative new product designs and business opportunities.",
+          "pagina": 4
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Energía renovable",
+          "clasificacion": "CONCRETO",
+          "pagina": 5
+        },
+        {
+          "item": "Minimización de residuos, reciclaje y compostaje",
+          "clasificacion": "CONCRETO",
+          "pagina": 6
+        },
+        {
+          "item": "Agua y tratamiento de aguas residuales",
+          "clasificacion": "CONCRETO",
+          "pagina": 6
+        },
+        {
+          "item": "Transporte terrestre eficiente",
+          "clasificacion": "CONCRETO",
+          "pagina": 7
+        },
+        {
+          "item": "Bonos verdes y azules",
+          "clasificacion": "CONCRETO",
+          "pagina": 8
+        }
+      ],
+      "tally": "5 de 5 oportunidades enumeradas desarrolladas",
+      "nota": "El vínculo con empleo se acredita directamente mediante la economía compartida; productividad y reducción de externalidades se desarrollan en la sección teórica y en cada línea sectorial."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "La sección 2.1 contiene ocho ítems propios con objetos identificables y el recuadro inicial los enumera, pero el cierre formal no los repite como una agenda operativa con responsables, plazos o métricas. Por eso la cartera es concreta como diagnóstico-propuesta sectorial, aunque no completa el estándar de implementación del cierre.",
+      "citas": [
+        {
+          "cita": "The imperatives of global climate change suggest the need for a more formalized and deliberate approach to the application of a circular economy strategy in the Caribbean.",
+          "pagina": 9
+        }
+      ],
+      "desglose_items": [],
+      "tally": "0 de 0 ítems normativos propios del cierre",
+      "nota": "El recuadro editorial de portada no se usa para el tally. El cierre formula una dirección estratégica general, pero no enumera una agenda propia con responsables, plazos o métricas."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 1,
+      "nombre": "Desarrollo productivo",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "La tensión central es entre economías caribeñas dependientes de servicios, turismo y combustibles fósiles importados, y la necesidad de conservar materiales, energía y base natural reduciendo externalidades. El objeto del brief es la reorientación circular ambiental; el desarrollo productivo funciona como dimensión de transición y no desplaza ese objeto.",
+      "filtro_categoria_primaria": "La categoría #6 es primaria porque la pregunta, el marco teórico y las ocho posibilidades se organizan alrededor de reducción de impactos ambientales, energía renovable, residuos, agua, emisiones, transporte y uso sostenible de recursos naturales.",
+      "secundaria_obligatoria": "La categoría #1 es secundaria porque el documento no trata la sostenibilidad como conservación aislada: identifica sectores y actividades, costos, innovación, oportunidades de negocio, empleo y reorganización de servicios que pueden cambiar la estructura productiva de economías dependientes del turismo.",
+      "justificacion_anti_copia": "No es #11 porque las instituciones, los datos y la contratación pública son instrumentos habilitantes dentro de una agenda ambiental-productiva, no el objeto principal. Tampoco es #10 porque los bonos e impuestos son medios de financiamiento e internalización de externalidades, no un análisis macrofiscal.",
+      "validacion_anclas": "Contraste con el ID 11362/42230, “The rise of green bonds: Financing for development in Latin America and the Caribbean”: allí el mercado financiero es el objeto y la sostenibilidad ambiental es secundaria (#10/#6); en 11362/47604 los bonos son uno de ocho instrumentos dentro de una estrategia circular cuyo objeto ambiental es dominante, por lo que corresponde #6/#1. El caso también se separa del ID 11362/44214, “Trampas de desarrollo...”, donde la transformación productiva domina como objeto (#1)."
+    },
+    "tipo_documento_climatico": "Policy brief de análisis conceptual y opciones de política ambiental para economías caribeñas.",
+    "nivel_aplicacion": "Subregional (Caribe), con referencias a Estados insulares pequeños y CARICOM.",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

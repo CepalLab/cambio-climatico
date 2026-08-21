@@ -1,0 +1,286 @@
+{
+  "documento": {
+    "num_muestra": 203,
+    "titulo": "Metodología y estimación de los impactos y necesidades de inversión en la red eléctrica de San José para la implementación de la electromovilidad",
+    "autoria": "Ignacio Ñancupil; Marina Gil; Rafael Poveda",
+    "handle": "https://hdl.handle.net/11362/80955",
+    "simbolo": "LC/TS.2024/86",
+    "isbn": null,
+    "fecha": "2024",
+    "tipo_documento": "Documento de Proyecto / estudio técnico",
+    "paginas_cuerpo": 51,
+    "paginas_totales": 56,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Qué demanda adicional, congestiones e inversiones de generación y transmisión requiere la provincia de San José para implementar distintos escenarios de electromovilidad en 2030 y 2050, y cómo puede aplicarse la metodología para estimarlas?",
+    "alcance": {
+      "ambito_aplicacion": "Provincia de San José, Costa Rica, específicamente 13 cantones y su red eléctrica intraurbana; el estudio se inserta en el contexto regional de América Latina y el Caribe.",
+      "referentes_dependencias": "Plan Nacional de Descarbonización de Costa Rica; ICE, CNFL, ARESEP, MOPT, MINAE, INEC, CTP y estudios del proyecto Dando el salto a la movilidad eléctrica; SIEPAC y PNUMA.",
+      "sectorial": "Electromovilidad pública y privada, transporte urbano, estaciones de recarga, generación y transmisión eléctrica.",
+      "temporal": "Datos observados principalmente hasta 2023 y proyecciones/escenarios para 2030 y 2050; el Plan de Expansión de Transmisión considerado cubre 2021-2031."
+    },
+    "hallazgos_principales": [
+      "La metodología integra tres etapas sucesivas: cálculo de demanda de vehículos particulares y buses, simulación de la operación eléctrica y cálculo de inversiones de expansión de generación y transmisión (p.9).",
+      "El escenario del Plan de Descarbonización supone 30% de vehículos particulares y buses eléctricos en 2030 y 95%/85%, respectivamente, en 2050; los escenarios pesimista y positivo funcionan como sensibilidades (p.14).",
+      "La provincia de San José concentra 1.601.167 habitantes y el área de estudio se desagrega en 13 cantones; la estimación de automóviles alcanza 282.170 en 2030 y 330.279 en 2050 (pp.17, 18, 27).",
+      "La adopción masiva de buses eléctricos puede elevar la demanda a niveles superiores al 50% de la demanda máxima del país observada en 2023, por lo que incluso escenarios de menor penetración requieren planificación de red (p.39).",
+      "Para el escenario del Plan de Descarbonización se estiman 27,2 millones de dólares de expansión de transmisión y, considerando generación, transmisión y buses, 1.568 millones de dólares en 2030; el aumento adicional de transmisión frente al plan del ICE es 12,66% (pp.40-42).",
+      "La herramienta propuesta combina datos en Excel, modelos de simulación y optimización en Python, y entrega expansiones, flujos, congestiones e inversiones para su análisis posterior (p.52)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La electrificación del transporte reduce emisiones, pero desplaza una parte importante de la presión hacia la red eléctrica: en San José los escenarios de electromovilidad generan congestiones y necesidades adicionales de generación y transmisión que no están cubiertas por las obras ya planificadas.",
+        "El costo depende fuertemente del grado y calendario de adopción: para 2030 la inversión anual promedio equivale a 0,21% del PIB en el escenario pesimista, 0,45% en el del Plan de Descarbonización y 0,70% en el optimista (p.42).",
+        "La planificación conjunta de demanda, ubicación de recarga y expansión de red es decisiva, porque las congestiones se concentran en zonas específicas como Lindora-La Caja, Sabanilla y Colima (p.41)."
+      ],
+      "recomendaciones": [
+        "Planificar el sistema eléctrico para atender progresivamente la nueva demanda de electromovilidad.",
+        "Incorporar subsidios o esquemas tarifarios para electrificar los buses en forma paulatina.",
+        "Evaluar la localización óptima de estaciones de recarga de buses cerca de capacidad de transmisión y generación y de los recorridos.",
+        "Considerar una planificación eléctrica que ubique estratégicamente recursos para disminuir inversiones en generación.",
+        "Ubicar óptimamente terminales de recarga de buses y vehículos eléctricos.",
+        "Crear incentivos para desplazar la demanda hacia horarios de menor costo.",
+        "Implementar sistemas inteligentes de recarga y servicios de red."
+      ],
+      "nota": "Las recomendaciones se reconstruyen del cierre analítico de la sección III.B; la sección IV desarrolla la aplicación metodológica y no se trata como una lista adicional de recomendaciones de política."
+    },
+    "resumen_narrativo": "El documento aplica a la provincia de San José una metodología que combina escenarios de adopción de vehículos eléctricos, simulación espacial y temporal de la demanda, optimización de la operación de la red y cálculo de inversiones. La referencia del Plan de Descarbonización —30% de vehículos particulares y buses eléctricos en 2030— exige expansiones adicionales en subestaciones como Sabanilla, Lindora y La Caja, además de generación y compra de buses. En 2030, el escenario del plan requiere 1.568 millones de dólares y una inversión anual equivalente a 0,45% del PIB, mientras que la expansión de transmisión agrega 12,66% frente al plan del ICE. La herramienta final permite reproducir el análisis mediante archivos Excel, modelos Python y datos de demanda, red, transporte y estaciones de recarga."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "11",
+      "resumen": "La introducción sitúa a las ciudades como espacios centrales de emisiones y transición energética: 81% de la población de ALC vive en áreas urbanas y las ciudades originan 60% de las emisiones de GEI. Presenta cinco pilares regionales —acceso renovable, electrificación productiva, eficiencia, interconexión y resiliencia— y vincula el programa CISI con instrumentos para transformar producción, consumo y demanda de movilidad; así justifica estudiar la infraestructura eléctrica que hará posible la electromovilidad.",
+      "dimensiones": [
+        {"dimension":"estado_de_situacion","cita":"América Latina y el Caribe es una de las regiones más urbanizadas del planeta, 81% de sus habitantes viven en entornos urbanos.","pagina":11},
+        {"dimension":"diagnostico_estructural","cita":"Las ciudades son el motor de las economías nacionales: buena parte del PIB total se genera allí. Y también en consecuencia, originan el 60% de las emisiones de GEI.","pagina":11},
+        {"dimension":"propuestas_politica","cita":"Es por ello que la CEPAL está impulsando con fuerza la transición energética como un vector transformador del modelo de desarrollo para la región.","pagina":11}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Metodología para la estimación de los impactos y necesidades de inversión en la red eléctrica",
+      "nivel": 1,
+      "paginas": "13-14",
+      "resumen": "Este capítulo organiza el método en una cadena que va desde escenarios y patrones de movilidad hasta demanda, congestiones y expansión de generación y transmisión; el padre funciona como mapa del procedimiento y la subsección aterriza los escenarios temporales.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Escenarios de simulación de la electromovilidad al 2030 y al 2050",
+          "nivel": 2,
+          "paginas": "14",
+          "resumen": "Define el supuesto que gobierna toda la modelación: el porcentaje del parque automotor eléctrico determina la demanda y, mediante la simulación y expansión óptima, las inversiones requeridas. Compara Plan de Descarbonización, escenario pesimista y escenario positivo; para 2030 fija 30%, 10% y 50% de vehículos particulares eléctricos, respectivamente, y para 2050 fija 95%, 50% y 100%.",
+          "dimensiones": [
+            {"dimension":"propuestas_politica","cita":"Cada escenario define un nivel de demanda, el cual, mediante el proceso de simulación de la operación del sistema y expansión óptima, determina las expansiones necesarias y, por lo tanto, las inversiones requeridas en cada caso.","pagina":14},
+            {"dimension":"desafios","cita":"Cabe señalar que en ciertos casos se ha adoptado un valor aproximado como, por ejemplo, en el caso del escenario del Plan de Descarbonización 1 que señala un porcentaje de vehículos particulares eléctricos para el año 2035, en lugar del 2030.","pagina":14}
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "II. Fuentes de datos y variables del modelo",
+      "nivel": 1,
+      "paginas": "15-35",
+      "resumen": "El capítulo reúne los datos territoriales, demográficos, de transporte y del sistema eléctrico que alimentan el modelo; el mapa del capítulo se despliega en cuatro subsecciones sobre población y recarga, buses, vehículos particulares y red eléctrica.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Distribución de la población de San José y determinación de la infraestructura de carga para la electromovilidad",
+          "nivel": 2,
+          "paginas": "17-19",
+          "resumen": "Caracteriza el área de estudio y sus insumos territoriales: la provincia de San José tiene 1.601.167 habitantes y 322 habitantes por km², mientras que la infraestructura candidata se obtiene de OpenStreetMap y se distribuye en grillas de 1 km². El análisis combina población, puntos de interés y cantones para localizar potenciales estaciones de recarga y dimensionar la demanda espacial.",
+          "dimensiones": [
+            {"dimension":"estado_de_situacion","cita":"Dentro de la provincia de San José, la población total es de 1.601.167 personas donde 773.612 corresponden a hombres y 827.555 mujeres con una densidad de población de 322 habitantes por kilómetro cuadrado.","pagina":17},
+            {"dimension":"propuestas_politica","cita":"La infraestructura candidata para instalar posibles estaciones de recarga fue obtenida desde OpenStreetMap.","pagina":19}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Transporte público: rutas y cantidad de buses",
+          "nivel": 2,
+          "paginas": "20-24",
+          "resumen": "Construye la demanda de buses a partir de rutas, operadores, terminales, flota y rendimiento energético, y aprovecha antecedentes de PNUMA sobre barreras, rutas, especificaciones técnicas, capacidades y financiamiento. En la GAM se registraban 252 rutas, 41 empresas y 1.842 buses en 2017; el modelo asigna terminales a subestaciones y usa batería, cargador, recorrido y carga de pasajeros para calcular consumo.",
+          "dimensiones": [
+            {"dimension":"estado_de_situacion","cita":"De acuerdo con los análisis del Plan Integral de Movilidad Urbana Sostenible (PIMUS) en 2017 existían en el Gran Área Metropolitana (GAM) 252 rutas de buses, centralizadas en su mayoría en el sentido centro-periferia, servidas por 41 empresas y 1.842 buses.","pagina":20},
+            {"dimension":"propuestas_politica","cita":"Promover la descarbonización del sector transporte público a través de la electrificación y adopción de tecnologías cero emisiones: mantener pilotos de buses eléctricos en al menos 2 rutas, diseñar un esquema tarifario adecuado al uso de nueva tecnología en transporte público, de manera que asegure la asequibilidad de las tarifas, diseñar alternativas de financiamiento e incentivos para pruebas de concepto a nivel de empresas de transporte, identificar y evaluar las mejores opciones para electrificar la flota de taxis, entre otros.","pagina":23}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Transporte particular: proyecciones de crecimiento de vehículos al 2030 y 2050 para San José",
+          "nivel": 2,
+          "paginas": "25-27",
+          "resumen": "Proyecta el parque particular y sus efectos ambientales a partir de la dependencia de hidrocarburos, la distribución de vehículos por cantón y las metas del Plan de Descarbonización. El transporte particular consume 50% de la energía del sector transporte y registra impactos de calidad del aire; el cuadro proyecta 282.170 automóviles en 2030 y 330.279 en 2050, sobre los que se aplican los porcentajes de electrificación.",
+          "dimensiones": [
+            {"dimension":"diagnostico_estructural","cita":"El crecimiento del parque vehicular en Costa Rica, así como en muchos países de la región, ha resultado en una fuerte dependencia de hidrocarburos importados.","pagina":25},
+            {"dimension":"estado_de_situacion","cita":"La flota de transporte particular consume el 50% del total de energía utilizada en el sector transporte, a pesar de que el transporte colectivo, que transporta a más personas, solo representa el 10,13%.","pagina":25},
+            {"dimension":"propuestas_politica","cita":"Hacia 2025 se estabilizará el crecimiento de flota de motocicletas y se adoptarán estándares para migrar a una flota cero emisiones.","pagina":26}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Sistema eléctrico: demanda proyectada y modelamiento de la generación y transmisión para San José",
+          "nivel": 2,
+          "paginas": "28-35",
+          "resumen": "Describe con detalle la matriz y la red que reciben la demanda adicional de electromovilidad. Costa Rica cuenta con casi 90% de generación renovable y 3.482 MW de capacidad instalada; el modelo usa proyecciones de energía y potencia, un sistema de 390 nodos, 108 generadores y 226 líneas, e incorpora el PET 2021-2031 y el PEG 2022-2040 antes de calcular refuerzos adicionales. La sección muestra que la planificación existente se incorpora como base y que los refuerzos derivados de la electrificación son adicionales.",
+          "dimensiones": [
+            {"dimension":"estado_de_situacion","cita":"Costa Rica es un país que destaca por su matriz energética proveniente de fuentes renovables.","pagina":28},
+            {"dimension":"tendencias","cita":"La demanda mensual varía entre los 915 GWh y los 1.500 GWh para los meses del año 2022 hasta septiembre 2023, teniendo un crecimiento acumulado de un 3,12%.","pagina":28},
+            {"dimension":"propuestas_politica","cita":"El dimensionamiento y planificación de la red a cargo del ICE, se realiza de forma centralizada a fin de maximizar el beneficio social y considerando las necesidades de los clientes.","pagina":31},
+            {"dimension":"avances_implementacion","cita":"El Plan de Expansión de Transmisión (PET) para el periodo 2021-2031, publicado en mayo de 2021, cuenta con un cronograma actualizado de la entrada en operación de las obras de transmisión en el periodo comprendido entre junio 2019 a mayo de 2021.","pagina":31}
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "III. Resultados: necesidades de inversión en la red eléctrica",
+      "nivel": 1,
+      "paginas": "37-43",
+      "resumen": "El capítulo convierte la demanda simulada en congestiones, obras y costos para tres escenarios; el padre presenta el resultado global y las hojas separan la curva de demanda de vehículos y buses de los impactos técnico-económicos y las inversiones.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Proyección de demanda de electromovilidad",
+          "nivel": 2,
+          "paginas": "37-39",
+          "resumen": "Muestra la demanda espacial y temporal de vehículos privados y buses para los escenarios PD, PO y PE. La demanda de buses usa una batería de 250 kWh, rendimiento de 1,8 kWh/km, cargadores de 75 kW y carga preferentemente nocturna; aun así, la adopción masiva puede superar 50% de la demanda máxima nacional de 2023, justificando planificación de red.",
+          "dimensiones": [
+            {"dimension":"tendencias","cita":"El análisis temporal de la demanda sugiere que esta demanda es de mayor intensidad en ciertas horas del día donde se produce la demanda coincidente de los lugares de trabajo o de centros comerciales, lo cual suele ocurrir luego del mediodía.","pagina":38},
+            {"dimension":"desafios","cita":"Los resultados anteriores muestran que la adopción masiva de buses eléctricos para transporte público produce un aumento de la demanda eléctrica a niveles incluso por sobre el 50% de la demanda máxima del país (para 2023).", "pagina":39},
+            {"dimension":"propuestas_politica","cita":"Por tal motivo, incluso en los escenarios de menor penetración de buses eléctricos, es necesario contar con una planificación de la red que considere los distintos escenarios y que estudie los posibles efectos de la recarga de buses eléctricos en distintos puntos de la red.","pagina":39}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Impactos técnico-económicos e inversiones requeridas",
+          "nivel": 2,
+          "paginas": "39-43",
+          "resumen": "Cuantifica las obras de refuerzo, congestiones y costos de generación, transmisión y buses eléctricos. Para el Plan de Descarbonización, las ampliaciones se concentran en Sabanilla, Lindora y La Caja; frente a 222 millones de dólares del PET, la transmisión añade 12,66% y el paquete total 2030 alcanza 1.568 millones, equivalente a 0,45% del PIB anual.",
+          "dimensiones": [
+            {"dimension":"estado_de_situacion","cita":"Las principales congestiones se presentan en la zona de Lindora-La Caja, Sabanilla y Colima (menor proporción).", "pagina":41},
+            {"dimension":"diagnostico_estructural","cita":"En particular, la capacidad de las subestaciones para permitir el transporte de energía limita la capacidad del sistema de abastecer la demanda de electromovilidad.","pagina":41},
+            {"dimension":"propuestas_politica","cita":"Esto quiere decir que ambas componentes de costos deben ser atendidas en forma progresiva y planificada, por ejemplo, a través de la planificación del sistema eléctrico en el caso de la generación para atender la nueva demanda de electromovilidad.","pagina":43},
+            {"dimension":"oportunidades","cita":"Las estrategias pueden considerar ubicación óptima de terminales de recarga de buses y vehículos eléctricos, incentivos para el desplazamiento de la demanda en horarios de menor costo, sistemas inteligentes de recarga y servicios de red, entre otros.","pagina":43}
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Guía para la aplicación metodológica",
+      "nivel": 1,
+      "paginas": "45-53",
+      "resumen": "El capítulo traduce el estudio en una guía de aplicación: especifica entradas, ecuaciones, algoritmos, restricciones y salidas para demanda pública y privada, simulación de la expansión eléctrica y cálculo de inversiones; las tres hojas siguen ese flujo operativo.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Estimación de demanda de electromovilidad",
+          "nivel": 2,
+          "paginas": "45-50",
+          "resumen": "Formaliza el cálculo de consumo y estado de carga de buses y vehículos particulares. Para buses usa terminales, recorridos, baterías y estrategias de carga; para particulares combina datos de viajes, grillas, Monte Carlo y un proceso de Markov, y luego asigna estaciones a subestaciones mediante k-means y un ranking de puntos de interés, ingreso y viajes.",
+          "dimensiones": [
+            {"dimension":"propuestas_politica","cita":"Además, la carga de los buses puede incluir ciertas estrategias de carga para minimizar los impactos en la red y para maximizar el uso de los buses.","pagina":46},
+            {"dimension":"propuestas_politica","cita":"El procedimiento del diagrama anterior se debe realizar para cada grilla.","pagina":49},
+            {"dimension":"diagnostico_estructural","cita":"La demanda eléctrica de los vehículos particulares se estima en base a estadísticas de viajes proyectadas hacia los años de estudio.","pagina":47}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Simulación de la operación eléctrica",
+          "nivel": 2,
+          "paginas": "51-52",
+          "resumen": "Define el modelo de expansión como un problema de optimización que minimiza inversión y operación sujeto a balances nodales, límites de generación y transmisión y restricciones operativas. Integra topología, planes de obra, disponibilidad renovable, demanda convencional y demanda de EVs y buses para producir expansiones, flujos, costos y congestiones.",
+          "dimensiones": [
+            {"dimension":"propuestas_politica","cita":"El modelo matemático consiste en minimizar los costos de inversión y operación del sistema eléctrico sujeto a las restricciones del sistema eléctrico tales como la satisfacción de la demanda en cada nodo del sistema, límites de generación (capacidad mínima y máxima de cada unidad existente) y de transmisión (capacidades mínimas y máximas de transferencias), operacionales (como suficiencia de reservas, unidades forzadas, indisponibilidades, etc.) y otras que pueden variar según el sistema eléctrico en particular.","pagina":52},
+            {"dimension":"desafios","cita":"Estos perfiles de disponibilidad pueden estar disponibles en cada país de acuerdo con la metodología seguida por cada entidad operadora del sistema eléctrico.","pagina":51}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Cálculo de inversiones",
+          "nivel": 2,
+          "paginas": "52-53",
+          "resumen": "Explica cómo convertir flujos y congestiones en refuerzos e inversiones de generación y transmisión, y presenta la herramienta de código abierto que procesa datos Excel, ejecuta el modelo en Python y entrega salidas intermedias y finales. El diagrama final conecta datos de transporte, red, costos y estrategias de carga con inversiones requeridas.",
+          "dimensiones": [
+            {"dimension":"propuestas_politica","cita":"Se desarrolló una herramienta para la aplicación de la metodología. Este desarrollo es de código abierto y combina herramientas de cálculo, visualización geográfica y procesamiento de datos.","pagina":52},
+            {"dimension":"propuestas_politica","cita":"La forma de uso de consiste en completar el archivo Excel con la información y el formato requerido, y luego ejecutar el modelo en Python completando los parámetros requeridos tales como rutas de entradas y salidas, resolución del modelo, zona de estudio, entre otros.","pagina":52}
+          ],
+          "subsecciones": []
+        }
+      ]
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento articula inversión en generación, transmisión y buses eléctricos alrededor de escenarios de electromovilidad y nombra sectores estratégicos de transición energética y movilidad. Sin embargo, su propuesta es un estudio técnico focalizado en la red de la provincia de San José, no un paquete coordinado de políticas e inversiones a escala del modelo de desarrollo; además, no desarrolla dos eficiencias entre tecnología/productividad, empleo/desigualdad y desacople ambiental.",
+      "citas": [
+        {"cita":"Los resultados del proceso de simulación de la operación eléctrica son analizados para obtener las zonas del sistema que presentan congestiones y que determinan una necesidad de expansión del sistema de transmisión y generación.","pagina":13},
+        {"cita":"Esto quiere decir que ambas componentes de costos deben ser atendidas en forma progresiva y planificada, por ejemplo, a través de la planificación del sistema eléctrico en el caso de la generación para atender la nueva demanda de electromovilidad.","pagina":43}
+      ],
+      "nota":"Se aplica el criterio restrictivo: hay paquete técnico coordinado e instrumentos sectoriales identificables, pero falta una agenda propia de transformación productiva a escala regional o nacional y el vínculo con empleo/productividad es insuficiente para Sí."
+    },
+    "articulacion_actores": {
+      "veredicto": "No",
+      "evidencia": "El texto identifica ministerios, reguladores, empresas eléctricas y organismos de transporte, pero no propone ni acredita un mecanismo nombrado de articulación dentro de San José. El Programa CISI es el marco de cooperación del estudio y el ICE opera la planificación de red; ninguno es presentado como mecanismo específico de coordinación multiactor para ejecutar la electromovilidad.",
+      "citas": [
+        {"cita":"Estos objetivos requieren la coordinación de distintos actores para lograr una adecuación tanto de la infraestructura de transporte como de la infraestructura eléctrica para la incorporación de vehículos y buses eléctricos.","pagina":16},
+        {"cita":"En este sentido, las principales entidades involucradas se describen a continuación.","pagina":16}
+      ],
+      "nota":"Chequeo negativo explícito: nombrar MINAE, MOPT, MIVAH, ARESEP, CTP, INEC e ICE como entidades no acredita por sí solo un mecanismo, plataforma o institución de coordinación con nombre propio dentro del ámbito de aplicación."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "El documento enumera transporte público, transporte particular, generación, transmisión, estaciones y buses como objetos de modelación e inversión, pero no los desarrolla como oportunidades productivas con vínculo explícito y sostenido a empleo, productividad o reducción de desigualdad. Las cifras son de demanda y costos de infraestructura, no de beneficios laborales o distributivos.",
+      "citas": [
+        {"cita":"Los resultados muestran que las inversiones necesarias en la red eléctrica (generación y transmisión) requerirían un aumento adicional de 12,66% de las inversiones estimadas por el ICE para alcanzar la meta planteada por el Plan de descarbonización a 2030.","pagina":10}
+      ],
+      "desglose_items": [
+        {"item":"Transporte público y buses eléctricos","clasificacion":"GENERICO","pagina":20},
+        {"item":"Transporte particular y vehículos eléctricos","clasificacion":"GENERICO","pagina":25},
+        {"item":"Generación y transmisión eléctrica","clasificacion":"GENERICO","pagina":40},
+        {"item":"Estaciones de recarga","clasificacion":"GENERICO","pagina":48}
+      ],
+      "tally":"0 de 4 ítems combinan enumeración productiva concreta con vínculo desarrollado a empleo, productividad o desigualdad",
+      "nota":"Chequeo negativo explícito: la presencia de sectores e inversiones no basta; el documento calcula necesidades técnicas y financieras, no oportunidades productivas con resultado laboral, productivo o distributivo desarrollado."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "El cierre propio de la sección de resultados propone un conjunto completo de medidas operativas: planificación eléctrica, subsidios o esquemas tarifarios, localización de estaciones y terminales, incentivos de desplazamiento de demanda y sistemas inteligentes de recarga. Cada ítem tiene un objeto identificable, aunque algunos se expresen como posibilidad y no como obligación.",
+      "citas": [
+        {"cita":"En el caso de los buses eléctricos, se podrían incorporar desde los gobiernos, programas como subsidios o esquemas tarifarios para electrificar los buses en forma paulatina.","pagina":43},
+        {"cita":"Las estrategias pueden considerar ubicación óptima de terminales de recarga de buses y vehículos eléctricos, incentivos para el desplazamiento de la demanda en horarios de menor costo, sistemas inteligentes de recarga y servicios de red, entre otros.","pagina":43}
+      ],
+      "desglose_items": [
+        {"item":"Planificar el sistema eléctrico para atender progresivamente la nueva demanda de electromovilidad","clasificacion":"CONCRETO","pagina":43},
+        {"item":"Incorporar programas de subsidios o esquemas tarifarios para electrificar buses paulatinamente","clasificacion":"CONCRETO","pagina":43},
+        {"item":"Ubicar estaciones de recarga de buses cerca de capacidad de transmisión y generación y de sus recorridos","clasificacion":"CONCRETO","pagina":43},
+        {"item":"Planificar la localización estratégica de recursos para disminuir inversiones en generación","clasificacion":"CONCRETO","pagina":43},
+        {"item":"Ubicar óptimamente terminales de recarga de buses y vehículos eléctricos","clasificacion":"CONCRETO","pagina":43},
+        {"item":"Crear incentivos para desplazar la demanda a horarios de menor costo","clasificacion":"CONCRETO","pagina":43},
+        {"item":"Implementar sistemas inteligentes de recarga y servicios de red","clasificacion":"CONCRETO","pagina":43}
+      ],
+      "tally":"7 de 7 ítems pasan el test de concreción",
+      "nota":"La unidad evaluada es el bloque completo de medidas normativas del cierre de III.B; no se fragmentan sub-bullets de terceros ni se usan los pasos metodológicos de la sección IV como recomendaciones adicionales."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {"numero":6,"nombre":"Sostenibilidad ambiental","certeza":"Alta"},
+    "transformacion_secundaria": {"numero":11,"nombre":"Capacidades del Estado","certeza":"Alta"},
+    "razonamiento_5_pasos": {
+      "tension_dialectica":"El documento procesa la tensión entre descarbonizar el transporte mediante vehículos eléctricos y evitar que la nueva demanda provoque congestiones, insuficiencia de transmisión o costos inviables en la red. La resuelve convirtiendo escenarios de adopción en simulaciones de demanda, expansiones de generación/transmisión y requerimientos de inversión, de modo que la transición ambiental quede condicionada por planificación e información técnica.",
+      "filtro_categoria_primaria":"El objeto principal es habilitar la transición hacia una movilidad de cero emisiones y estimar sus impactos sobre la red, por lo que corresponde #6 Sostenibilidad ambiental. #11 Capacidades del Estado es un medio habilitador: el método, la herramienta y la planificación pública permiten ejecutar la transición, pero no son el cambio sustantivo que organiza el título, los escenarios y los resultados.",
+      "secundaria_obligatoria":"#11 Capacidades del Estado cumple la función de dotar a la política pública de una herramienta reproducible de decisión: integra datos de MINAE, MOPT, ICE, CNFL y ARESEP, modela restricciones nodales y traduce congestiones en obras, costos y parámetros de implementación. La capacidad institucional aparece como condición para coordinar infraestructura de transporte, red eléctrica, financiamiento y regulación.",
+      "justificacion_anti_copia":"El documento se distingue por aplicar tres escenarios cuantificados de integración eléctrica a 2030/2050; por combinar demanda pública de buses y demanda privada basada en Monte Carlo, Markov y grillas; y por localizar resultados concretos en Sabanilla, Lindora y La Caja. Además, reporta 1.568 millones de dólares para el escenario del Plan de Descarbonización en 2030 y entrega una herramienta de código abierto que se ejecuta con archivos Excel y Python.",
+      "validacion_anclas":"Se contrasta con el ancla Doc09, *Building a climate resilient power sector...* (#6 Sostenibilidad ambiental / #11 Capacidades del Estado): ambos ponen una infraestructura energética resiliente al servicio de una transformación climática y requieren capacidades institucionales. Este documento es más específico en la electrificación del transporte y cuantifica inversiones de red para San José, mientras el ancla se centra en resiliencia del sector eléctrico; la semejanza confirma #6 primaria y la diferencia justifica la secundaria #11 por la herramienta y planificación estatal."
+    },
+    "tipo_documento_climatico":"Documento de Proyecto / estudio técnico aplicado de modelación y planificación de infraestructura para electromovilidad.",
+    "nivel_aplicacion":"Subnacional: provincia de San José y 13 cantones, dentro del marco nacional de descarbonización de Costa Rica.",
+    "ambiguedad_pendiente_validacion":null
+  }
+}

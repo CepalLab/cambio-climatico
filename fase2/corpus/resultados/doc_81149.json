@@ -1,0 +1,670 @@
+{
+  "documento": {
+    "num_muestra": 209,
+    "titulo": "El gasto público vinculado con el cambio climático en América Latina",
+    "autoria": "Andrea Podestá",
+    "handle": "https://hdl.handle.net/11362/81149",
+    "simbolo": "LC/TS.2024/113",
+    "isbn": null,
+    "fecha": "2024",
+    "tipo_documento": "Documento de proyecto o estudio técnico",
+    "paginas_cuerpo": 56,
+    "paginas_totales": 117,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cómo se puede identificar, clasificar, medir y analizar el gasto y la inversión pública destinados a la adaptación y mitigación del cambio climático en seis países latinoamericanos, y qué lineamientos permiten mejorar su comparabilidad y uso fiscal?",
+    "alcance": {
+      "ambito_aplicacion": "Argentina, Colombia, Honduras, México, Nicaragua y Perú; con una comparación regional de 16 países para el gasto ambiental.",
+      "referentes_dependencias": "Marcadores de Río de la OCDE, Unión Europea, bancos multilaterales de desarrollo, CMNUCC, CPEIR/PNUD, BID, FMI, SCAE/CAPA y guía CEPAL/INEGI.",
+      "sectorial": "Gasto público transversal en energía, agricultura, transporte, vivienda, agua y saneamiento, medio ambiente, salud, educación, protección social, residuos, bosques y gestión de riesgos.",
+      "temporal": "Metodologías nacionales iniciadas entre 2013 y 2023; gasto analizado alrededor de 2022/2023; serie regional de protección ambiental 2010-2022."
+    },
+    "hallazgos_principales": [
+      "La vulnerabilidad regional combina exposición geográfica, dependencia de agricultura y turismo, población costera y biodiversidad, y los impactos reducen productividad, producción agrícola y capital (p.9).",
+      "La inversión pública puede financiar alerta temprana, infraestructura resiliente, energías renovables y eficiencia energética, además de empleos en sectores de energía limpia y gestión sostenible (p.10).",
+      "Las seis metodologías nacionales comparten el criterio de impacto previsto y el etiquetado a nivel mínimo de actividad, pero difieren en cobertura, ponderadores, categorías climáticas, momento contable y publicación (p.23-27).",
+      "El gasto ambiental promedio de 16 países permaneció entre 0,12% y 0,15% del PIB y por debajo de 1% del gasto total entre 2010 y 2022, por lo que la función ambiental no captura todo el gasto climático (p.33-35).",
+      "Alrededor de 2022/2023 el gasto climático fue menor a 1% del PIB en cinco países y 9,59% en Honduras; la diferencia está condicionada por metodología y cobertura (p.37-38).",
+      "Argentina y México concentraron 65% del gasto climático en capital, mientras Honduras y Perú superaron 90% de gasto corriente; las acciones de mitigación dominaron en Colombia, Honduras y Perú (p.44-49).",
+      "El cierre identifica como problemas la falta de comparabilidad, la cobertura incompleta, la ausencia de impactos adversos y la necesidad de indicadores, auditoría, datos abiertos y evaluación de resultados (p.54-58)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El etiquetado y la medición transversal son necesarios para conocer la prioridad fiscal de la acción climática, pero no producen comparabilidad internacional automática porque cada país define cobertura, ponderación, clasificación y momento contable de forma distinta.",
+        "La función de protección ambiental es una aproximación insuficiente: el gasto climático también aparece en asuntos económicos, vivienda, salud, educación, protección social y gestión de riesgos.",
+        "Las cifras disponibles muestran una gran heterogeneidad entre países y deben leerse como mediciones condicionadas por el diseño institucional y la calidad de la información, no como una clasificación directa del esfuerzo climático relativo.",
+        "El etiquetado es un primer paso; para saber si el gasto logra adaptación, mitigación y resiliencia se requiere seguimiento de ejecución, indicadores y evaluación programática."
+      ],
+      "recomendaciones": [
+        "Institucionalizar el etiquetado con liderazgo de finanzas o planificación y participación del ministerio de ambiente y de las unidades sectoriales.",
+        "Capacitar a los equipos y publicar lineamientos claros, actualizados y comunes para identificar actividades climáticas.",
+        "Etiquetar al nivel mínimo de actividad, obra o partida y vincular el gasto con indicadores climáticos, objetivos nacionales y ODS.",
+        "Ampliar cobertura a todos los sectores, niveles de gobierno y empresas públicas, incluyendo impactos positivos y adversos, gastos tributarios e ingresos fiscales relevantes.",
+        "Automatizar el etiquetado en los sistemas financieros e integrarlo a formulación, aprobación, ejecución, seguimiento, evaluación y rendición de cuentas.",
+        "Publicar informes periódicos, datos abiertos consolidados, metadatos, metodología, resultados e historial de actualizaciones.",
+        "Coordinar criterios regionales sobre definición, cobertura, estimación y presentación y usar la información para movilizar financiamiento y bonos verdes."
+      ],
+      "nota": "Las recomendaciones se extraen de los lineamientos normativos del cierre, PDF 53–58; no se incorporan programas de terceros descritos en los anexos."
+    },
+    "resumen_narrativo": "El estudio convierte el gasto climático en un problema de medición fiscal transversal: compara seis metodologías nacionales y las contrasta con Marcadores de Río, CPEIR, SCAE/CAPA, BID y presupuesto verde. La evidencia muestra que el gasto ambiental promedio de 16 países fue de solo 0,12%–0,15% del PIB entre 2010 y 2022, mientras que el gasto climático transversal de 2022/2023 llegó a 9,59% del PIB en Honduras y quedó por debajo de 1% en los otros cinco casos. La autora explica que esa brecha no es directamente comparable porque cambian cobertura, ponderadores, categorías y momento contable, y porque Colombia solo contabiliza inversión mientras México aún no publica el desglose por acción climática. El cierre propone institucionalizar el etiquetado, llevarlo al nivel de actividad, incorporar indicadores y fiscalización, publicar datos abiertos y usar la trazabilidad presupuestaria para movilizar financiamiento y bonos verdes."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "9-10",
+      "resumen": "La introducción establece la vulnerabilidad climática regional a partir de la diversidad geográfica, la dependencia de agricultura y turismo, la concentración costera y la exposición de biodiversidad y ecosistemas. Vincula temperaturas, sequías, inundaciones y cambios de precipitación con productividad laboral, producción agrícola, seguridad alimentaria y depreciación del capital; luego plantea que la inversión pública puede financiar alerta temprana, infraestructura resiliente, energías renovables y eficiencia energética. Finalmente delimita el objetivo empírico: identificar, clasificar, medir y analizar gasto e inversión para adaptación y mitigación en Argentina, Colombia, Honduras, México, Nicaragua y Perú, con revisión internacional, comparación nacional, propuesta clasificatoria, análisis ambiental regional y lineamientos finales.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Los países de América Latina y el Caribe enfrentan una vulnerabilidad significativa a los efectos del cambio climático debido a una combinación de factores geográficos, socioeconómicos y ambientales.",
+          "pagina": 9
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "El aumento de las temperaturas y los cambios en las condiciones hidrometeorológicas, con una mayor incidencia de sequías, inundaciones y olas de calor, una mayor variabilidad en los niveles y patrones de precipitación, representan una amenaza para el crecimiento económico, reduciendo la productividad laboral, la producción agrícola y contribuyendo a una rápida depreciación del stock de capital.",
+          "pagina": 9
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "La inversión pública puede facilitar la transición hacia fuentes de energía más limpias, promoviendo la generación de energía renovable y la eficiencia energética, reduciendo así la dependencia de combustibles fósiles y sus impactos negativos.",
+          "pagina": 10
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. R evisión de los principales enfoques internacionales para definir los marcadores o etiquetado del gasto público asociado al cambio climático",
+      "nivel": 1,
+      "paginas": "11-21",
+      "resumen": "Esta sección funciona como mapa de enfoques internacionales para medir gasto y financiamiento climático. Recorre los Marcadores de Río, la metodología de la Unión Europea, los bancos multilaterales, la CMNUCC, el CPEIR, el MEFP/CFG, el SCAE/CAPA, la propuesta CEPAL/INEGI, la metodología del BID, el CBT del PNUD y el presupuesto verde; el hilo común es traducir la mitigación y la adaptación transversales a clasificadores y herramientas presupuestarias comparables.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Marcadore s del Río para el Clima, OECD Development Assistance Committee (DAC)",
+          "nivel": 2,
+          "paginas": "11-12",
+          "resumen": "Presenta los Marcadores de Río de la OCDE como antecedente para identificar actividades de mitigación y adaptación en la cooperación para el desarrollo. Distingue entre objetivos principal, significativo y cero mediante puntuaciones 2, 1 y 0, y explica que el método sirvió luego de base para etiquetados nacionales del gasto climático.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Los Marcadores de Río son una metodología desarrollada por el Comité de Asistencia para el Desarrollo (CAD) de la OCDE.",
+              "pagina": 11
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Metodología de la Unión Europea",
+          "nivel": 2,
+          "paginas": "12-13",
+          "resumen": "Explica el rastreo climático del presupuesto de la Unión Europea para los marcos financieros 2014-2020 y 2021-2027. El cambio de una meta de al menos 20% a 30% y la ponderación de 100%, 40% y 0% muestran cómo se convierten programas de gasto en una medida agregada de contribución climática, separando adaptación y mitigación.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "En el marco financiero plurianual (MFP) 2014-2020, la Comisión Europea introdujo una metodología de rastreo con el fin de medir las contribuciones de los diferentes programas de gasto público de la UE para abordar el desafío climático.",
+              "pagina": 12
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "Luego, en el MFP 2021-2027 esta meta se subió al 30% y se modificó la metodología de rastreo para tener en cuenta no solo la intención de las acciones, sino también sus efectos esperados.",
+              "pagina": 13
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Metodología Conjunta de Bancos Multilaterales de Desarrollo (BMD)",
+          "nivel": 2,
+          "paginas": "13-14",
+          "resumen": "Describe la metodología conjunta de los bancos multilaterales para rastrear financiamiento climático desde los componentes de proyectos. Para adaptación exige contexto de vulnerabilidad, intención explícita y vínculo entre actividad y objetivo; para mitigación utiliza listas sectoriales detalladas y previene la doble contabilización en proyectos con beneficios mixtos.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Los BMD estiman la financiación climática basándose en el tipo de actividad que se ejecuta, centrándose en los componentes o subcomponentes de proyectos con actividades que contribuyen directamente a la adaptación y/o mitigación del cambio climático o la promueven.",
+              "pagina": 13
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Presentación de informes de la Convención Marco de las Naciones Unidas sobre el Cambio Climático (CMNUCC)",
+          "nivel": 2,
+          "paginas": "14",
+          "resumen": "Aclara que los informes de la CMNUCC siguen flujos internacionales y no constituyen una medición homogénea del gasto público nacional. La dependencia de coeficientes distintos para actividades significativas deja una limitación de comparabilidad que condiciona el uso regional de estos datos.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "El sistema de presentación de informes de la CMNUCC se enfoca en los flujos internacionales de financiamiento climático, en lugar de proporcionar información sobre los gastos públicos nacionales relacionados con el clima de cada gobierno.",
+              "pagina": 14
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Metodología de Análisis del Gasto Público e Institucionalidad para el Cambio Climático (CPEIR)",
+          "nivel": 2,
+          "paginas": "14-15",
+          "resumen": "Expone el CPEIR como una herramienta que combina análisis de políticas, institucionalidad y gasto público climático. Señala su amplia adopción latinoamericana, enumera seis países que la aplicaron y recoge la recomendación de institucionalizar el seguimiento presupuestario para sostener la identificación del gasto relevante.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "En América Latina y el Caribe seis países han aplicado esta herramienta: Chile (2016), Colombia (2018), Ecuador (2017 y 2019), El Salvador (2018), Honduras (2016) y Nicaragua (2015)9.",
+              "pagina": 14
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Según el Banco Mundial (2021a), muchos de los CPEIR recomendaron que las autoridades nacionales lleven a cabo un seguimiento mediante iniciativas de etiquetado presupuestario relacionadas con el cambio climático y que institucionalicen este proceso para identificar los gastos públicos pertinentes al clima, facilitando así el seguimiento a lo largo del proceso presupuestario.",
+              "pagina": 14
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "F. Marco de Estadísticas de las Finanzas Públicas (MEFP) del FMI: Clasificador de funciones del gobierno ( CFG)",
+          "nivel": 2,
+          "paginas": "15",
+          "resumen": "Presenta el clasificador funcional del FMI como una respuesta a la pregunta de para qué se gasta y describe la función de protección ambiental. También identifica su límite analítico: como asigna partidas por propósito principal, no captura por sí solo el carácter transversal del gasto climático en energía, agricultura, transporte u otras funciones.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Sin embargo, dado que la clasificación de las distintas partidas del gasto se basa en su propósito principal o causa final, este enfoque no es suficiente para identificar y cuantificar todo el gasto público relacionado con el clima, ya que las cuestiones climáticas abarcan transversalmente a las diversas áreas y funciones de gobierno.",
+              "pagina": 15
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "G. Sistema de Contabilidad Ambiental y Económica (SCAE) y Clasificador de las Actividades de Protección Ambiental (CAPA)",
+          "nivel": 2,
+          "paginas": "15-16",
+          "resumen": "Introduce el SCAE y el CAPA como marcos estadísticos para vincular economía, ambiente, emisiones y activos naturales. El apartado precisa nueve clases de protección ambiental y subraya que el criterio de propósito principal excluye actividades ambientalmente favorables cuyo objetivo declarado sea otro.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "El Sistema de Contabilidad Ambiental y Económica (SCAE) es un estándar estadístico internacional que proporciona un marco contable diseñado para integrar información económica y ambiental con el objetivo de comprender las interacciones entre la economía y el ambiente, como así también describir el stock de activos ambientales y sus variaciones.",
+              "pagina": 15
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Las acciones y actividades que tienen efectos favorables sobre el medio ambiente pero cuyo objetivo es otro no se consideran actividades de protección del medio ambiente.",
+              "pagina": 16
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "H. Propuestas de la",
+          "nivel": 2,
+          "paginas": "16-18",
+          "resumen": "Recoge la guía CEPAL/INEGI para medir el gasto de protección ambiental y propone cruzar la función de gobierno con las actividades CAPA, además de distinguir gasto corriente y de capital. Su aporte operativo es una ruta de tres etapas —preparación, análisis y estimación— adaptable a las necesidades de cada país.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "La guía incluye una ruta metodológica para el cálculo del gasto en protección ambiental a través de ejemplos, como así también, conceptos, definiciones, clasificaciones y lineamientos.",
+              "pagina": 16
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "También presenta una propuesta metodológica para el cálculo del gasto en protección ambiental del gobierno general que considera tres etapas: preparación, análisis de información y estimación del gasto en protección ambiental, al tiempo que ofrece recomendaciones y lineamientos básicos para que cada país pueda adaptar esa propuesta a su realidad y necesidades específicas.",
+              "pagina": 18
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "I. Metodología del Banco Interamericano de Desarrollo",
+          "nivel": 2,
+          "paginas": "18-19",
+          "resumen": "Describe la definición del gasto público climático adoptada en un estudio del BID, que incluye la mitigación, la adaptación, los impactos significativos sobre la gestión climática y la respuesta a desastres asociados a eventos extremos. La metodología propone anclar la clasificación en la estructura de funciones de gobierno del MEFP mediante una matriz funcional de doble entrada que distingue el propósito principal y secundario, y organiza el gasto por mitigación, adaptación, mixto, incidencia climática y respuesta de emergencia.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "En específico, la metodología propone anclar la clasificación de gastos climáticos en la estructura actual del sistema de clasificación de funciones de gobierno (CFG) del MEFP del FMI a través de una matriz de clasificación funcional de doble entrada, considerando propósito principal y secundario del gasto asociado con el clima, y con un enfoque analítico de cuenta satélite.",
+              "pagina": 18
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "J. Etiquetado del Cambio Climático (CBT), PNUD",
+          "nivel": 2,
+          "paginas": "19-20",
+          "resumen": "Explica el etiquetado climático del PNUD como una herramienta transversal inspirada en experiencias de género, niñez y pobreza. Organiza el diseño en diez pasos y tres etapas: propósito y contexto, diseño técnico y diseño de implementación, incluyendo clasificación, ponderación, reportes, responsabilidades y validación.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "El etiquetado del Cambio Climático (CBT, por sus siglas en inglés) del Programa de las Naciones Unidas para el Desarrollo (PNUD) se inspira en la experiencia previa de otros etiquetados (como género, niñez y reducción de la pobreza) y la guía metodológica elaborada por este organismo se sustenta en el aprendizaje derivado de siete países estudiados en el desarrollo y aplicación del CBT: Bangladesh, Ghana, Indonesia, Kenia, Nepal, Pakistán y Filipinas.",
+              "pagina": 19
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "La metodología de etiquetado propuesta por el PNUD se organiza en 10 pasos agrupados en tres etapas fundamentales.",
+              "pagina": 19
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "K. El presupuesto verde",
+          "nivel": 2,
+          "paginas": "20-21",
+          "resumen": "Define el presupuesto verde como una práctica que alinea herramientas presupuestarias con objetivos climáticos y ambientales. El cierre del apartado vincula planes nacionales, herramientas como precio al carbono y etiquetado, informes públicos, responsabilidades, cronogramas y capacidades, y advierte que la ponderación parcial y la subjetividad del etiquetado exigen reglas de revisión. El apartado también exige atender sectores prioritarios y separar, cuando corresponda, riesgo de desastres y mitigación.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Entre estas herramientas se encuentran: el etiquetado presupuestario verde, las evaluaciones de impacto ambiental, la fijación de precios al carbono, la incorporación de la perspectiva verde en la revisión del gasto y en los objetivos de desempeño.",
+              "pagina": 21
+            },
+            {
+              "dimension": "desafios",
+              "cita": "El etiquetado puede beneficiarse de un sistema de ponderación que considere que algunas medidas presupuestarias contribuyen de manera parcial a estos objetivos.",
+              "pagina": 21
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "II. Síntesis y comparación de las metodologías nacionales para la medición del gasto público transversal vinculado con el cambio climático en seis países latinoamericanos",
+      "nivel": 1,
+      "paginas": "23-27",
+      "resumen": "Compara las metodologías oficiales de Argentina, Colombia, Honduras, México, Nicaragua y Perú según año de inicio, definición, cobertura, taxonomías, ponderadores, clasificación, integración presupuestaria y publicación. Encuentra una base común en el impacto previsto y en el uso del nivel mínimo de la estructura programática, pero también diferencias decisivas: Colombia solo publica inversión, Honduras y México usan ponderadores, México no publica aún la categoría adaptación/mitigación y la disponibilidad subnacional es desigual. El apartado termina con la advertencia de que comparaciones internacionales requieren cautela metodológica.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "La manera en que los países analizados definen los gastos y actividades relevantes para el clima coincide en que todos ellos distinguen las actividades relevantes para el clima sobre la base del impacto previsto de la actividad.",
+          "pagina": 23
+        },
+        {
+          "dimension": "tendencias",
+          "cita": "En relación con el año en que se comenzó a realizar el etiquetado para medir el gasto público climático en América Latina, se observa que los países pioneros en la región fueron México y Perú.",
+          "pagina": 23
+        },
+        {
+          "dimension": "desafios",
+          "cita": "En Colombia la información para los niveles subnacionales de gobierno solo se encuentra disponible hasta 2020, por lo que en el presente estudio únicamente se ha considerado información del Presupuesto General de la Nación y del Sistema General de Regalías.",
+          "pagina": 26
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "III. Propuesta de clasificac ión del gasto público transversal vinculado con el cambio climático",
+      "nivel": 1,
+      "paginas": "29-32",
+      "resumen": "El capítulo propone un lenguaje común para presentar el esfuerzo climático de los gobiernos. Ordena primero las funciones de gobierno, después la naturaleza económica corriente o de capital y finalmente el objetivo climático de adaptación, mitigación, mixto o riesgo; los cruces permiten observar qué se financia, con qué tipo de recurso y con qué contribución climática.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Clasificación funcional del gasto",
+          "nivel": 2,
+          "paginas": "29-30",
+          "resumen": "Propone presentar y comparar el gasto climático mediante la clasificación funcional del FMI. La tabla de diez funciones permite ubicar políticas de asuntos económicos, protección ambiental, vivienda, salud, educación y protección social, pero el texto insiste en que el clima atraviesa todas ellas y no solo la función ambiental.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Con el fin de presentar los datos de gasto público climático y analizar el esfuerzo de los gobiernos en la implementación de políticas de adaptación y mitigación al cambio climático, a continuación se proponen distintas formas de clasificar y agrupar esta información de manera tal de facilitar la comparabilidad entre países.",
+              "pagina": 29
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Clasificación económica del gasto",
+          "nivel": 2,
+          "paginas": "30-31",
+          "resumen": "Explica la clasificación económica distinguiendo gasto corriente y gasto de capital según el proceso económico involucrado. El cuadro traduce esa distinción en sueldos, compras, intereses, subsidios y transferencias frente a adquisición de activos y transferencias de capital, ofreciendo una base para analizar el tipo de inversión climática.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "En la medida que la información disponible lo permita, el análisis se realiza considerando la separación entre el gasto corriente y el gasto en capital para la adaptación y mitigación al cambio climático.",
+              "pagina": 30
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Clasificación por categoría o tipo de gasto climático",
+          "nivel": 2,
+          "paginas": "31-32",
+          "resumen": "Ordena el gasto por su contribución a adaptación, mitigación, acciones mixtas y, cuando existe detalle, gestión de riesgos de desastres. La propuesta se apoya en los Marcadores de Río y permite cruzar objetivo climático con clasificación económica para observar si las acciones se financian con gasto corriente o de capital.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Resulta interesante agrupar la información del gasto público climático de acuerdo con su contribución a los objetivos de la política climática, es decir, por categoría o tipo de gasto climático.",
+              "pagina": 31
+            },
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "A continuación, se exponen las definiciones de los Marcadores de Río correspondientes a las actividades que contribuyen a los objetivos de la Convención Marco de las Naciones Unidas sobre el Cambio Climático, desarrolladas por el Comité de Asistencia para el Desarrollo (CAD) de la OCDE.",
+              "pagina": 31
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "IV. El gasto del gobierno en protección del medio ambiente",
+      "nivel": 1,
+      "paginas": "33-35",
+      "resumen": "Aísla el gasto de protección del medio ambiente para dieciséis países y documenta una magnitud baja y estable: entre 0,12% y 0,15% del PIB y menos de 1% del gasto total del gobierno central en 2010-2022. La composición se desplaza desde aguas residuales hacia reducción de contaminación y biodiversidad, con diferencias entre países; el capítulo usa ese contraste para justificar que la función ambiental no alcanza a medir el gasto climático transversal.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "El gasto público promedio de dieciséis países latinoamericanos en protección del medio ambiente, a nivel del gobierno central, ha sido muy poco significativo en el periodo 2010-2022, tanto en relación con el gasto total como en proporción al PIB.",
+          "pagina": 33
+        },
+        {
+          "dimension": "tendencias",
+          "cita": "Si bien los recursos destinados a la protección del medio ambiente se han mantenido relativamente estables en la última década, su composición ha ido cambiando según lo observado en diez países con información desagregada disponible.",
+          "pagina": 33
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "En ese sentido, el análisis del gasto de la función de “protección del medio ambiente” resulta insuficiente para abarcar la totalidad del gasto público asociado al cambio climático.",
+          "pagina": 35
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "V. Cuantificación del gasto público transversal vinculado con el cambio climático en seis países latinoamericanos",
+      "nivel": 1,
+      "paginas": "37-51",
+      "resumen": "El capítulo aplica las clasificaciones propuestas a cifras oficiales de seis países alrededor de 2022/2023. La sección A desagrega funciones y programas, mostrando el peso de asuntos económicos, protección ambiental, vivienda, salud y educación; la sección B cruza gasto corriente/capital con adaptación, mitigación, riesgos y mixto, y explica por qué las diferencias de cobertura, ponderación, ejecución y clasificación impiden leer las cifras como una liga homogénea.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Análisis del gasto climático transversal por funciones de gobierno",
+          "nivel": 2,
+          "paginas": "37-43",
+          "resumen": "Analiza el gasto climático transversal por funciones de gobierno en seis países y muestra una dispersión muy amplia: el gasto equivale a menos de 1% del PIB en cinco casos y supera 9% en Honduras. La lectura de los programas permite identificar energía solar y eficiencia, agricultura y seguridad alimentaria, transporte, agua, biodiversidad, salud y educación, pero también muestra que las magnitudes dependen de cobertura, momento contable y reglas de marcaje.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Alrededor de 2022/202321, el gasto público vinculado a la adaptación y mitigación del cambio climático fue inferior al 1% del PIB en Argentina, Colombia, México, Nicaragua y Perú, mientras que en Honduras fue superior al 9% del PIB.",
+              "pagina": 37
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Estas diferencias abarcan tanto el nivel de gasto como su composición y la relevancia de los distintos programas y actividades asociados a esta temática. Esta divergencia, en gran medida, se atribuye a las diferencias metodológicas previamente mencionadas, lo que dificulta y limita la comparación entre los países.",
+              "pagina": 37
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. El gasto climático según la clasificación económica y la acción climática",
+          "nivel": 2,
+          "paginas": "43-51",
+          "resumen": "Contrasta gasto corriente y de capital y luego separa adaptación, mitigación, riesgos y categorías mixtas. Argentina y México destinan 65% a capital, mientras Honduras y Perú superan 90% de gasto corriente; en las acciones climáticas predominan adaptación en Argentina y Nicaragua, y mitigación en Colombia, Honduras y Perú, con México sin desagregación publicada. El cruce final para Nicaragua y Perú muestra cómo las categorías se distribuyen de manera distinta entre operación e inversión, lo que permite leer la composición sin borrar sus límites metodológicos.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "En lo referente a los gastos corrientes sobresalen Honduras y Perú, donde más del 90% del total del gasto público en cambio climático es de ese tipo.",
+              "pagina": 46
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "La importancia relativa entre las acciones que inciden en la adaptación, mitigación o una combinación de ellas difiere entre países.",
+              "pagina": 47
+            },
+            {
+              "dimension": "desafios",
+              "cita": "En consecuencia, no ha sido factible incorporar un análisis que diferencie estas acciones en el contexto mexicano.",
+              "pagina": 47
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "VI. Conclusiones y reflexiones finales",
+      "nivel": 1,
+      "paginas": "53-58",
+      "resumen": "El cierre retoma la vulnerabilidad regional y convierte los resultados metodológicos en lineamientos para sostener estadísticas de gasto climático. Concluye que el etiquetado debe ser transversal, institucionalizado y trazable al nivel mínimo de actividad, pero que las metodologías nacionales todavía no son estrictamente comparables. La agenda normativa propone coordinar ministerios de finanzas, planificación y ambiente, capacitar equipos, publicar guías y datos abiertos, incorporar indicadores, fiscalizar resultados, cubrir efectos positivos y adversos, automatizar el ciclo presupuestario y armonizar criterios regionales; también vincula la información con movilización de recursos, bonos verdes y evaluación programática.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Por lo anterior, resulta esencial subrayar que las metodologías y resultados no son estrictamente comparables entre países.",
+          "pagina": 54
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "La institucionalización del etiquetado del gasto público climático se revela como una medida esencial para garantizar su efectividad, precisión y continuidad en todos los países.",
+          "pagina": 55
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Es importante que el etiquetado de los recursos destinados al cambio climático se realice a nivel de actividad, obra o en la categoría programática de mínimo nivel, de forma que se facilite la detección de las partidas presupuestarias destinadas a la adaptación y mitigación de los efectos del cambio climático.",
+          "pagina": 55
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "En este contexto, la incorporación de indicadores en materia de cambio climático en las matrices de los marcos lógicos de los programas resulta una herramienta muy útil, dado que estos indicadores permitirían medir la contribución de los programas en relación con el cambio climático, y la efectividad del ejercicio del gasto público para alcanzar los objetivos climáticos.",
+          "pagina": 56
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Es esencial etiquetar tanto las medidas que tienen una incidencia positiva sobre el cambio climático como aquellas que tienen impactos climáticos adversos, es decir, que contribuyen a un aumento neto de las emisiones de gases de efecto invernadero o respaldan actividades no alineadas con los objetivos de la política climática.",
+          "pagina": 56
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Por ello es importante que el etiquetado sea sometido a ejercicios de fiscalización, tanto por organismos internos como externos, así como incluir los indicadores de resultados con el fin de conocer cómo el gasto público climático está generando los impactos esperados.",
+          "pagina": 57
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Para lograr una integración efectiva del etiquetado climático en todo el ciclo presupuestario, es esencial automatizar el proceso mediante la incorporación de etiquetas climáticas en los sistemas de información de gestión financiera.",
+          "pagina": 57
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Adicionalmente, es esencial incorporar metadatos que faciliten la comprensión de la estructura de las bases de datos y orienten a los usuarios al interactuar con la información disponible.",
+          "pagina": 58
+        },
+        {
+          "dimension": "oportunidades",
+          "cita": "El etiquetado no solo puede servir como base para identificar programas y proyectos relevantes frente a los desafíos climáticos, sino que también puede respaldar la emisión de bonos verdes soberanos.",
+          "pagina": 58
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento ofrece instrumentos concretos —etiquetado, clasificación, ponderación, seguimiento, fiscalización, datos abiertos y bonos verdes— y nombra sectores como agricultura, energía, transporte y medio ambiente. Sin embargo, el test 1 del Big Push no se acredita: el cierre no propone un paquete masivo y coordinado de inversiones o políticas simultáneas para transformar el modelo de desarrollo, sino una arquitectura de medición y gestión fiscal. Por eso el resultado es Parcial; las medidas sectoriales y de información no equivalen por sí solas a un gran impulso ambiental.",
+      "citas": [
+        {
+          "cita": "La institucionalización del etiquetado del gasto público climático se revela como una medida esencial para garantizar su efectividad, precisión y continuidad en todos los países.",
+          "pagina": 55
+        },
+        {
+          "cita": "La implementación puede ser gradual, comenzando por sectores prioritarios como agricultura, energía, transporte y medio ambiente y ampliando la cobertura con el tiempo.",
+          "pagina": 56
+        },
+        {
+          "cita": "El etiquetado no solo puede servir como base para identificar programas y proyectos relevantes frente a los desafíos climáticos, sino que también puede respaldar la emisión de bonos verdes soberanos.",
+          "pagina": 58
+        }
+      ],
+      "nota": "El documento es un estudio metodológico y de cuantificación del gasto, no una cartera propia de inversión coordinada; el veredicto aplica los tres tests de big_push.md y no confunde etiquetado fiscal con paquete transformador."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El documento identifica un mecanismo institucional nombrado dentro del ámbito de aplicación: la Comisión Nacional sobre el Cambio Climático (CNCC) del Perú. No se limita a enumerar ministerios; describe que sus funciones articulan y coordinan a sociedad civil y entidades públicas y privadas para seguir políticas climáticas, compromisos internacionales y propuestas de decisión. Es una instancia de gobernanza de la acción climática en uno de los países analizados, no un mecanismo de autoría del estudio.",
+      "citas": [
+        {
+          "cita": "En 1993, se establece la Comisión Nacional sobre el Cambio Climático (CNCC), liderada por el Ministerio del Ambiente (MINAM) creado en 2008.",
+          "pagina": 98
+        },
+        {
+          "cita": "En el Decreto Supremo N° 006- 2009-MINAM se definen sus funciones, las que fueron redefinidas en el año 2018 con la Ley N° 30.754, Ley Marco sobre Cambio Climático (LMCC). Estas conllevan a la articulación y coordinación de la sociedad civil y las entidades públicas y privadas, para el seguimiento del cumplimiento de las políticas públicas en materia de cambio climático y también de los compromisos asumidos ante la CMNUCC, de manera de elaborar propuestas que contribuyan en la toma de decisiones.",
+          "pagina": 99
+        }
+      ],
+      "nota": "El mecanismo citado pertenece al ámbito nacional analizado; no se usan como evidencia los organismos que colaboraron en la elaboración del informe."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Sí",
+      "evidencia": "El documento enumera sectores y actividades concretas —energía limpia y eficiencia energética, agricultura, pesca, transporte, agua, residuos, bosques y saneamiento— y desarrolla su vínculo productivo. La introducción conecta energía limpia, eficiencia y gestión sostenible con empleo; el análisis nacional muestra programas de producción agroindustrial sostenible, asistencia a pequeños productores, transferencia tecnológica e innovación agrícola y actividades productivas de piscicultura. La conexión se apoya en programas y mecanismos nombrados, no en una frase aislada de co-beneficios.",
+      "citas": [
+        {
+          "cita": "Por otra parte, puede contribuir al desarrollo económico sostenible, creando empleos en sectores relacionados con la energía limpia, la eficiencia energética y la gestión sostenible de los recursos.",
+          "pagina": 10
+        },
+        {
+          "cita": "Asimismo, en esta función, son importantes los recursos asignados al sector agropecuario con actividades enfocadas al desarrollo rural, tales como la implementación de unidades productivas de autoconsumo para la población pobre y vulnerable, la aplicación de huertas caseras en distintas localidades, el fortalecimiento de la seguridad alimentaria, iniciativas para la sostenibilidad productiva o la transferencia de tecnología e innovación agrícola a distintos cultivos, el fortalecimiento técnico, productivo y comercial de la piscicultura, entre otras.",
+          "pagina": 40
+        },
+        {
+          "cita": "Esta asistencia se destina a la adquisición de fertilizantes y semillas con el objetivo de potenciar la producción y productividad y con el compromiso de conservar la biodiversidad y mejorar la calidad de los recursos naturales.",
+          "pagina": 41
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Energía limpia, eficiencia energética y gestión sostenible de recursos como sectores de empleo asociado a la inversión pública.",
+          "clasificacion": "CONCRETO",
+          "pagina": 10
+        },
+        {
+          "item": "Unidades productivas de autoconsumo, huertas caseras, seguridad alimentaria, sostenibilidad productiva, transferencia tecnológica agrícola y piscicultura productiva y comercial.",
+          "clasificacion": "CONCRETO",
+          "pagina": 40
+        }
+      ],
+      "tally": "2 de 2 oportunidades enumeradas pasan el test de enumeración y vínculo productivo-laboral.",
+      "nota": "El desglose es auxiliar; el criterio se decide por la enumeración y el vínculo desarrollado en el documento completo."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "La unidad correcta es el bloque completo de lineamientos normativos de las páginas 53–58. Se revisaron párrafos completos, sin usar recuadros, planes de terceros ni sub-bullets. Trece de quince unidades tienen objeto, responsable, entregable, instrumento, sistema, cobertura o procedimiento identificable; dos permanecen genéricas porque formulan armonización regional o evaluación programática sin precisar un instrumento, responsable, plazo o métrica propios.",
+      "citas": [
+        {
+          "cita": "Es importante que el etiquetado de los recursos destinados al cambio climático se realice a nivel de actividad, obra o en la categoría programática de mínimo nivel, de forma que se facilite la detección de las partidas presupuestarias destinadas a la adaptación y mitigación de los efectos del cambio climático.",
+          "pagina": 55
+        },
+        {
+          "cita": "Por ello es importante que el etiquetado sea sometido a ejercicios de fiscalización, tanto por organismos internos como externos, así como incluir los indicadores de resultados con el fin de conocer cómo el gasto público climático está generando los impactos esperados.",
+          "pagina": 57
+        },
+        {
+          "cita": "Adicionalmente, es esencial incorporar metadatos que faciliten la comprensión de la estructura de las bases de datos y orienten a los usuarios al interactuar con la información disponible.",
+          "pagina": 58
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Institucionalizar el etiquetado y asignar un papel activo a finanzas, planificación y medio ambiente durante diseño e implementación.",
+          "clasificacion": "CONCRETO",
+          "pagina": 55
+        },
+        {
+          "item": "Integrar la coordinación de ministerios competentes en las normas presupuestarias existentes y definir roles y responsabilidades.",
+          "clasificacion": "CONCRETO",
+          "pagina": 55
+        },
+        {
+          "item": "Capacitar al personal y publicar y actualizar lineamientos claros para las dependencias y entidades.",
+          "clasificacion": "CONCRETO",
+          "pagina": 55
+        },
+        {
+          "item": "Etiquetar en actividad, obra o categoría programática de mínimo nivel para identificar partidas de adaptación y mitigación.",
+          "clasificacion": "CONCRETO",
+          "pagina": 55
+        },
+        {
+          "item": "Alinear definiciones, revisar periódicamente programas presupuestarios e incorporar indicadores climáticos en matrices de marco lógico.",
+          "clasificacion": "CONCRETO",
+          "pagina": 56
+        },
+        {
+          "item": "Cubrir todos los sectores y organismos, incluyendo actividades con impacto climático positivo y negativo.",
+          "clasificacion": "CONCRETO",
+          "pagina": 56
+        },
+        {
+          "item": "Aplicar gradualmente el etiquetado a agricultura, energía, transporte y medio ambiente y ampliarlo a gobiernos subnacionales y empresas públicas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 56
+        },
+        {
+          "item": "Incorporar gastos tributarios e ingresos fiscales, incluidos impuestos al carbono, combustibles y vehículos, y regalías de recursos naturales.",
+          "clasificacion": "CONCRETO",
+          "pagina": 56
+        },
+        {
+          "item": "Someter el etiquetado a fiscalización interna y externa e incluir indicadores de resultados.",
+          "clasificacion": "CONCRETO",
+          "pagina": 57
+        },
+        {
+          "item": "Automatizar el etiquetado en los sistemas de información de gestión financiera a lo largo del ciclo presupuestario.",
+          "clasificacion": "CONCRETO",
+          "pagina": 57
+        },
+        {
+          "item": "Publicar seguimiento trimestral y anual de ejecución, desviaciones y cobertura institucional conforme a un cronograma comunicado.",
+          "clasificacion": "CONCRETO",
+          "pagina": 57
+        },
+        {
+          "item": "Ofrecer en portales de transparencia archivos abiertos consolidados, metadatos, metodología, objetivos, resultados, fechas de actualización e historial de cambios.",
+          "clasificacion": "CONCRETO",
+          "pagina": 58
+        },
+        {
+          "item": "Coordinar esfuerzos regionales para criterios, definiciones, cobertura, estimación y presentación comunes del gasto climático.",
+          "clasificacion": "GENERICO",
+          "pagina": 58
+        },
+        {
+          "item": "Usar la información etiquetada para identificar proyectos, acercarse a financiadores y respaldar la emisión de bonos verdes soberanos.",
+          "clasificacion": "CONCRETO",
+          "pagina": 58
+        },
+        {
+          "item": "Avanzar hacia análisis programático y evaluación de resultados para medir la eficacia de las políticas climáticas más allá del etiquetado.",
+          "clasificacion": "GENERICO",
+          "pagina": 58
+        }
+      ],
+      "tally": "13 de 15 ítems pasan el test de concreción.",
+      "nota": "Unidad completa: párrafos normativos del cierre VI, PDF 53–58; no se fragmentaron recomendaciones ni se contaron programas descritos en anexos."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la contradicción entre una política climática transversal —que atraviesa energía, agricultura, transporte, agua, salud, educación y protección social— y unos sistemas presupuestarios que suelen ordenar el gasto por ministerio, función o propósito principal. También enfrenta la tensión entre la necesidad de movilizar recursos para adaptación y mitigación y la imposibilidad de comparar cifras nacionales cuando cambian cobertura, ponderadores, momento contable y categorías. Su respuesta es construir una medición fiscal trazable que permita saber qué se gasta, dónde, con qué objetivo y con qué calidad de información.",
+      "filtro_categoria_primaria": "La primaria es #11 Capacidades del Estado porque el objeto del documento es diseñar, comparar e institucionalizar sistemas de etiquetado, clasificación, reporte, verificación y evaluación del gasto. #6 Sostenibilidad ambiental es el ámbito y la finalidad climática de esos instrumentos, no el objeto metodológico principal: el texto no diseña una política de descarbonización o adaptación sectorial, sino la infraestructura fiscal para medirla. El cierre confirma esa prioridad al pedir liderazgo de finanzas y planificación, nivel de actividad, sistemas de información, indicadores, auditoría y transparencia.",
+      "secundaria_obligatoria": "#6 Sostenibilidad ambiental cumple la función de orientar el contenido de la capacidad estatal: las categorías de adaptación, mitigación, riesgo, biodiversidad, emisiones, resiliencia y gasto ambiental determinan qué debe etiquetarse y evaluarse. La secundaria no es un tema decorativo; proporciona el propósito climático que permite distinguir una capacidad presupuestaria general de una capacidad específicamente preparada para la acción climática.",
+      "justificacion_anti_copia": "La clasificación se apoya en rasgos propios del documento: compara seis metodologías nacionales con años de inicio y coberturas distintas; propone cruces entre funciones de gobierno, clasificación económica y acción climática; y termina con lineamientos sobre institucionalización, etiquetado a nivel de actividad, indicadores en marcos lógicos, auditoría, automatización, datos abiertos y bonos verdes. El resultado empírico —0,12%–0,15% del PIB en protección ambiental regional frente a 9,59% de gasto climático en Honduras— se usa para mostrar por qué la capacidad de medición condiciona la interpretación de la acción ambiental.",
+      "validacion_anclas": "La decisión se alinea con el ancla #12, Acción climática en la agricultura (PLACA), y con el ancla #19, Panorama de la Gestión Pública 2023: un Estado preparado para la acción climática: en los tres casos, leyes, clasificadores, sistemas de información, MRV y coordinación son el objeto habilitador, mientras la acción climática define el campo de aplicación. Se diferencia de un documento #6 primario porque aquí los programas ambientales de seis países son evidencia para construir y comparar la herramienta fiscal, no el objeto de transformación sectorial."
+    },
+    "tipo_documento_climatico": "Documento de proyecto o estudio técnico de medición y comparación del gasto público climático.",
+    "nivel_aplicacion": "Regional comparado, con análisis nacional de Argentina, Colombia, Honduras, México, Nicaragua y Perú y una serie ambiental de 16 países.",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

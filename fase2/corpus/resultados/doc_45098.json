@@ -1,0 +1,786 @@
+{
+  "documento": {
+    "num_muestra": 95,
+    "titulo": "The enhancement of resilience to disasters and climate change in the Caribbean through the modernization of the energy sector",
+    "autoria": "Adrián Flores, Leda Peralta",
+    "handle": "https://hdl.handle.net/11362/45098",
+    "simbolo": "LC/TS.2019/118",
+    "isbn": null,
+    "fecha": "2020-01",
+    "tipo_documento": "Estudios y Perspectivas - Sede Subregional de la CEPAL para el Caribe",
+    "paginas_cuerpo": 66,
+    "paginas_totales": 76,
+    "idioma": "en",
+    "tiene_resumen_ejecutivo": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cómo puede la modernización integral del sector energético caribeño —a través de la eficiencia energética, el despliegue de fuentes renovables, las redes inteligentes y la generación distribuida/microrredes— integrarse estratégicamente con la gestión del riesgo de desastres y la adaptación al cambio climático para superar la fragmentación sectorial, reducir los altos costos de la electricidad y aumentar la resiliencia estructural de los Pequeños Estados Insulares en Desarrollo (SIDS)?",
+    "alcance": {
+      "ambito_aplicacion": "Subregión del Caribe (Pequeños Estados Insulares en Desarrollo - SIDS de CARICOM y Estados miembros de la CEPAL, con estudios de caso a profundidad en Trinidad y Tabago y Granada)",
+      "referentes_dependencias": "Costa Rica, Islandia, Nueva Zelanda, Noruega, Islas Cook, Niue, Tuvalu, Fiji, Vanuatu, Islas Salomón, Unión Europea, Estados Unidos (NREL), CARICOM, CDEMA, CARILEC, CCCCC, CDB, GEF, FVC/GCF, Carbon War Room, OFID, OEA, MIDEPLAN de Costa Rica",
+      "sectorial": "Sector energético (generación eléctrica, transmisión, distribución, microrredes, redes inteligentes, fuentes renovables solar FV, eólica, geotérmica e hidroeléctrica in-conduit), eficiencia energética (edificaciones, transporte, alumbrado público), gestión del riesgo de desastres (DRM/GRD, infraestructura crítica, evaluación multiamenaza de inversión pública), gobernanza regulatoria y finanzas climáticas",
+      "temporal": "2014–2030 (con datos de base 2015–2017, metas NDC y C-SERMS a 2020 y 2030, y proyecciones de empleo a 2030)"
+    },
+    "hallazgos_principales": [
+      "Las pérdidas anuales esperadas por desastres en los SIDS del Caribe equivalen a casi el 20% de su gasto social total, en comparación con solo el 1,19% en América del Norte y menos del 1% en Europa y Asia Central (p. 16).",
+      "El Caribe enfrenta los costos de electricidad más altos del mundo debido a su dependencia estructural de combustibles fósiles importados y a altas pérdidas técnicas y no técnicas en redes de transmisión y distribución (p. 13, 16).",
+      "La transición energética hacia fuentes renovables y eficiencia energética tiene el potencial de crear un millón de nuevos empleos netos en América Latina y el Caribe hacia 2030, ofreciendo oportunidades de especialización para economías insulares (p. 65).",
+      "En Trinidad y Tabago, el sector eléctrico depende abrumadoramente de combustibles fósiles y, aunque se cuenta con 2.080 MW de capacidad en productores independientes (IPPs), la legislación nacional no autoriza esquemas de medición o facturación neta (net metering/billing) para integrar renovables de terceros a la red (p. 52, 55).",
+      "En Granada, la capacidad instalada de 52,4 MW satisface la demanda actual con un pico de 31,8 MW dominado por generación diésel (GRENLEC), pero se proyecta que la demanda máxima se duplicará para 2028 mientras la generación renovable permanece en solo 2,2 MW (p. 58).",
+      "A pesar de que los países han elaborado numerosos diagnósticos y estudios de recursos renovables, la gran mayoría no se socializan más allá de la agencia responsable ni se integran en una base de datos centralizada de acceso público (p. 34, 67)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La gestión del riesgo de desastres (DRM), la adaptación al cambio climático (CCA) y la modernización energética son agendas complementarias e interdependientes, pero continúan gestionándose en silos institucionales aislados con presupuestos separados y responsabilidades fragmentadas que debilitan la efectividad de las intervenciones.",
+        "La descentralización y dispersión geográfica de la generación mediante energías renovables y microrredes reduce drásticamente el riesgo de pérdida total del suministro eléctrico ante eventos hidrometeorológicos extremos al acercar la generación a los puntos de consumo y evitar la dependencia de extensas líneas de transmisión vulnerables.",
+        "La modernización energética no puede descansar exclusivamente en la adición de capacidad renovable intermitente; exige modernizar las redes de transmisión y distribución (smart grids, almacenamiento, control de voltaje) y aplicar medidas agresivas de eficiencia energética en edificaciones y transporte que alivien la carga sobre la infraestructura y reduzcan el uso de agua para enfriamiento.",
+        "Los principales obstáculos para la resiliencia energética en el Caribe radican en debilidades de las capacidades estatales: marcos normativos obsoletos que impiden la interconexión de IPPs, alta rotación del personal técnico en el servicio civil, falta de datos estandarizados (LCOE+, perfiles de carga) y ausencia de una evaluación del riesgo multiamenaza en el ciclo de inversión pública."
+      ],
+      "recomendaciones": [
+        "Designar en cada país un órgano rector interinstitucional (steering body) que coordine la modernización del sector energético con las agencias de gestión de desastres y cambio climático, estableciendo planes de trabajo conjuntos y asignaciones claras de responsabilidades.",
+        "Reformar los procedimientos del sistema nacional de inversión pública para que todo nuevo proyecto incorpore obligatoriamente análisis de reducción del riesgo de desastres bajo un enfoque multiamenaza desde su etapa de perfil o prefactibilidad hasta su ejecución, en estrecha coordinación con el Ministerio de Finanzas.",
+        "Actualizar los marcos regulatorios y legislativos nacionales (como la Ley de Suministro Eléctrico y los códigos de cableado eléctrico) para permitir y regular la interconexión de productores independientes de energía (IPP), esquemas de medición neta (net metering) y facturación neta (net billing).",
+        "Adoptar y fiscalizar el cumplimiento de códigos de construcción energéticamente eficientes y estándares obligatorios de etiquetado de equipos, respaldados por incentivos fiscales (exenciones arancelarias y reembolsos) para auditorías energéticas y adquisición de tecnologías eficientes.",
+        "Establecer repositorios centralizados y abiertos de datos energéticos que recopilen evaluaciones de potencial renovable a alta resolución espacial, modelaciones de costo nivelado de la energía con externalidades (LCOE+) y perfiles de carga de la red.",
+        "Fortalecer los esquemas de servicio civil y retención de talento especializado en las instituciones públicas y agencias de emergencia (como ODPM y NaDMA) para asegurar la memoria técnica y la continuidad en la gestión de proyectos resilientes."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "Este estudio de la serie Estudios y Perspectivas examina cómo la modernización integral del sector energético caribeño constituye un vector estratégico para fortalecer la resiliencia frente a desastres hidrometeorológicos y el cambio climático en los Pequeños Estados Insulares en Desarrollo (SIDS). A partir de un diagnóstico de las barreras regulatorias, técnicas y de datos en la subregión y del análisis empírico de dos casos contrastantes —Trinidad y Tabago (exportador de hidrocarburos) y Granada (importador dependiente del diésel)—, el documento demuestra que la descentralización de la matriz energética mediante energías renovables, redes inteligentes, microrredes y eficiencia energética reduce la vulnerabilidad de la infraestructura crítica ante eventos extremos. Finalmente, propone una guía operativa estructurada en cuatro componentes (evaluación del riesgo, remoción de barreras, modernización de redes y monitoreo/verificación), instando a superar los silos institucionales e incorporar la evaluación multiamenaza en todos los ciclos de inversión pública."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introduction",
+      "nivel": 1,
+      "paginas": "13-20",
+      "resumen": "La introducción establece el marco analítico del estudio sobre el nexo entre sostenibilidad energética, gestión del riesgo de desastres (DRM) y adaptación al cambio climático en el Caribe. Presenta los antecedentes regionales de alta vulnerabilidad física y dependencia de combustibles fósiles, describe el rol de los sistemas energéticos resilientes y detalla el alcance, objetivos y enfoque metodológico de la investigación basada en consultas a actores y estudios de caso.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Background: Caribbean energy sector and disaster risk management",
+          "nivel": 2,
+          "paginas": "16-17",
+          "resumen": "Esta sección analiza los antecedentes de vulnerabilidad del sector energético en los SIDS del Caribe. (a) Evidencia que la exposición geográfica y las brechas socioeconómicas amplifican los impactos de los desastres, generando pérdidas anuales equivalentes al 20% del gasto social. (b) Explica cómo las averías en plantas y redes interrumpen servicios críticos y revierten avances de desarrollo en ausencia de protección financiera. (c) Argumenta la urgencia de superar el enfoque de silos e integrar la gestión del riesgo en toda la cadena de suministro energético.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "The expected annual losses in SIDS are equivalent to almost 20 per cent of their total social expenditure, compared to only 1.19 per cent in North America and less than one per cent in Europe and Central Asia (GAR 2015).",
+              "pagina": 16
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "In addition to natural conditions, risks are aggravated by unresolved physical, social, economic and environmental vulnerabilities, and exacerbate the effects and impacts of disasters and climate change, increasing development constraints.",
+              "pagina": 16
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. The role of energy systems in enhancing resilience to disasters and climate change",
+          "nivel": 2,
+          "paginas": "17-19",
+          "resumen": "Aborda el papel dual de los sistemas energéticos al proporcionar servicios esenciales permanentes y actuar como motor de respuesta y recuperación ante crisis climáticas. Estructura los componentes requeridos para forjar un sector energético resiliente a nivel de infraestructura, gobernanza y capacidades técnicas.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Components of a resilient energy sector",
+              "nivel": 3,
+              "paginas": "18-19",
+              "resumen": "Detalla los requerimientos constitutivos para edificar resiliencia en los sistemas energéticos. (a) Identifica la necesidad de cuantiosas inversiones públicas y privadas en infraestructura moderna y gestión de la demanda. (b) Destaca la oportunidad de reducir el consumo de agua para enfriamiento mediante medidas de eficiencia energética. (c) Introduce el marco de cuatro componentes adoptado por la guía del estudio: evaluación del riesgo, remoción de barreras, modernización del sector y monitoreo/verificación.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "The provision of energy services in face of these potential benefits and challenges draws attention to some important requirements: major public and private investments in the energy supply chain (e.g., modern infrastructure, demand-side efficiency), integral governance frameworks (e.g., energy, DRM, climate change), adequate capacities, and reliable data and information.",
+                  "pagina": 18
+                },
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Improved demand-side management and EE can lead to greater responsiveness to changes in both demand and supply and reduced water demand.",
+                  "pagina": 18
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Scope, objectives and methodological approach",
+          "nivel": 2,
+          "paginas": "19-20",
+          "resumen": "Define los objetivos, alcance y fases metodológicas de la investigación. (a) Establece como objetivo central identificar elementos clave para articular las agendas de adaptación climática, sostenibilidad energética y gestión del riesgo. (b) Diagnostica que las políticas aisladas y fragmentadas desaprovechan complementariedades naturales y generan un uso ineficiente de recursos escasos. (c) Describe la metodología combinada de revisión documental, consultas a organismos regionales y trabajo de campo en Granada y Trinidad y Tabago.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "The objective of this study is to identify key elements that would allow the integration of climate change adaptation, energy sustainability and disaster risk management strategies.",
+              "pagina": 19
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "The main premise is that stand-alone policies do not take full advantage of natural complementarities between these three fundamental development issues, and silo approaches reduce the potential impact of interventions and make suboptimal use of scarce modernization resources.",
+              "pagina": 19
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "I. Risk assessment",
+      "nivel": 1,
+      "paginas": "21-23",
+      "resumen": "Examina la fase de evaluación del riesgo como primer pilar del marco de resiliencia. (a) Propone focalizar esfuerzos en las fases ex-ante de identificación, reducción del riesgo y preparación para desactivar vulnerabilidades subyacentes antes del impacto de desastres. (b) Recomienda el uso de geoinformática, mapeo multiamenaza y líneas de base sectoriales para anticipar daños en infraestructura crítica. (c) Destaca que la dispersión geográfica de la generación eléctrica renovable y la cercanía al consumidor reducen sustancialmente la probabilidad de pérdida total del suministro frente a eventos extremos.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "This study focuses in ex-ante phases, namely risk identification, risk reduction and preparedness, as they provide great opportunities to address the underlying vulnerabilities that lead to the occurrence of disasters and avoid damage and losses.",
+          "pagina": 21
+        },
+        {
+          "dimension": "oportunidades",
+          "cita": "The geographic dispersal of power-generation assets would substantially reduce the risk of total loss of power generation capability in future disasters.",
+          "pagina": 23
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "II. Removal of barriers",
+      "nivel": 1,
+      "paginas": "25-38",
+      "resumen": "Analiza las principales barreras institucionales, regulatorias, informativas y de capacidades humanas que obstaculizan la transición energética y la resiliencia en el Caribe. Se divide en tres subsecciones dedicadas al ajuste del marco normativo y de gobernanza, la mejora en la recolección y difusión de datos técnicos, y el fortalecimiento de capacidades locales y esquemas de servicio civil.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Adjustment of policy and governance framework",
+          "nivel": 2,
+          "paginas": "25-33",
+          "resumen": "Examina los requerimientos para reconfigurar la gobernanza energética y de gestión de desastres en la subregión. Describe la convergencia entre adaptación climática y DRM, evalúa los marcos regionales existentes en energía y gestión del riesgo, y formula directrices de gobernanza.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. The compounding effects of disaster risk management and climate change adaptation",
+              "nivel": 3,
+              "paginas": "27-29",
+              "resumen": "Analiza la intersección entre adaptación al cambio climático y gestión del riesgo en la infraestructura. (a) Diagnostica que la mayoría de los marcos de política aún no reflejan los vínculos sistémicos entre clima, desastres y energía. (b) Prescribe que toda inversión pública y privada debe concebirse con criterios de resiliencia independientemente del sector ejecutor. (c) Cita como referencia metodológica la directriz de Costa Rica que exige evaluar amenazas naturales en el diseño y perfil de proyectos públicos.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Although there are already positive efforts in this regard, most policy frameworks still do not reflect the linkages between DRM, climate change impacts and energy.",
+                  "pagina": 27
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Public and private investments must be resilient to disasters and climate change, regardless of the sector responsible for the infrastructure being developed (health, food production, storage, supply and safety, education, housing, transportation and productive activities, among others).",
+                  "pagina": 28
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Regional energy governance frameworks in the Caribbean",
+              "nivel": 3,
+              "paginas": "29-31",
+              "resumen": "Revisa la evolución de las políticas e iniciativas regionales de energía sostenible en el marco de CARICOM. (a) Resalta el avance de la Estrategia y Hoja de Ruta de Energía Sostenible del Caribe (C-SERMS) al fijar metas regionales de renovables y eficiencia. (b) Identifica brechas retrospectivas de implementación debidas a limitaciones institucionales y financieras, reconociendo a la vez su aporte en posicionar el tema y generar diagnósticos de potencial.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Subsequently, the Caribbean Sustainable Energy Roadmap and Strategy (C-SERMS) was elaborated to “build on existing regional efforts and to provide CARICOM member states with a coherent strategy for transitioning to sustainable energy” (CARICOM, 2013).",
+                  "pagina": 29
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "subtipo_brecha": "retrospectiva",
+                  "cita": "New and existing initiatives for energy efficiency and development of renewable energy sources have not fully explored strategies and policies towards integration and regional linkages.",
+                  "pagina": 29
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Disaster risk management governance in the Caribbean",
+              "nivel": 3,
+              "paginas": "31-32",
+              "resumen": "Evalúa los marcos de gobernanza del riesgo liderados por CDEMA y mecanismos financieros como CCRIF SPC. (a) Registra el avance de nuevos productos de microseguros para transferir riesgos a nivel meso y micro. (b) Señala como avance la articulación renovada entre ACS, CDEMA y CEPAL para un enfoque armonizado de gestión del riesgo y transferencia de experiencias.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Regarding CCRIF SPC, in addition to providing catastrophic risk insurance, it has recently launched micro-insurance products for organizations and collections of individuals in order to provide ex-ante support at the micro and meso levels.",
+                  "pagina": 32
+                },
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Renewed engagement between the ACS, CDEMA and ECLAC has contributed to a harmonized approach to DRM, and has promoted exchange of knowledge and experiences amongst these agencies.",
+                  "pagina": 31
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Next steps",
+              "nivel": 3,
+              "paginas": "32-33",
+              "resumen": "Formula pasos normativos para superar la desarticulación institucional. (a) Propone designar un órgano rector (steering body) que coordine a las agencias involucradas y defina un plan de trabajo conjunto. (b) Recomienda clarificar roles y responsabilidades públicas para mejorar la rendición de cuentas y la eficiencia institucional frente a la rotación del servicio civil.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "A steering body to guide the modernization of the energy sector and supporting agencies should be designated.",
+                  "pagina": 32
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Enhancing data and information collection",
+          "nivel": 2,
+          "paginas": "33-36",
+          "resumen": "Analiza las brechas de información y datos empíricos necesarios para la toma de decisiones en energía y resiliencia. (a) Identifica brechas prospectivas por falta de estudios de recursos a alta resolución y evaluaciones de factibilidad técnica para proyectos específicos. (b) Propone compilar todos los diagnósticos en un repositorio central de acceso público. (c) Recomienda desplegar modelaciones de costo nivelado de energía incorporando externalidades (LCOE+) y perfiles de carga.",
+          "dimensiones": [
+            {
+              "dimension": "brechas_implementacion",
+              "subtipo_brecha": "prospectiva",
+              "cita": "Although many Caribbean countries have conducted initial assessments of resource potential for several technologies, detailed resource studies are required for specific project implementation.",
+              "pagina": 33
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Compiling all completed assessments in a central location, open to all energy stakeholders, would facilitate knowledge sharing and avoid duplication of efforts.",
+              "pagina": 34
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Capacity building",
+          "nivel": 2,
+          "paginas": "36-38",
+          "resumen": "Examina la necesidad de fortalecer el capital humano e institucional en el sector energético caribeño. (a) Diagnostica que la alta movilidad laboral y la rotación en el servicio civil erosionan la memoria institucional y la continuidad de proyectos. (b) Propone establecer centros tecnológicos nacionales de energías renovables y eficiencia energética. (c) Recomienda reformar los esquemas de servicio civil para fomentar la especialización técnica y la retención del talento.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "In general, the region is affected by high mobility, which impacts staff and institutional specialization, replication and sharing of technical knowledge, institutional memory, and project continuation.",
+              "pagina": 38
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Establish national RE and EE technology centers, based on available resources potential and technological experience.",
+              "pagina": 38
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "III. Modernization of the energy sector",
+      "nivel": 1,
+      "paginas": "39-48",
+      "resumen": "Desarrolla el núcleo técnico y propositivo de la modernización del sector energético caribeño. Se organiza en tres ejes complementarios: la mejora de la eficiencia energética del lado de la demanda (edificaciones y transporte), la incorporación progresiva de energías renovables variables y la modernización de redes eléctricas mediante tecnologías inteligentes, generación distribuida y microrredes.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Enhancing demand-side energy efficiency",
+          "nivel": 2,
+          "paginas": "39-42",
+          "resumen": "Analiza las medidas de gestión de la demanda y eficiencia energética como la vía más costo-efectiva para mitigar impactos socioambientales. Examina intervenciones sectoriales en edificaciones y transporte y define recomendaciones normativas para su adopción.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Building sector",
+              "nivel": 3,
+              "paginas": "40-40",
+              "resumen": "Examina el consumo energético en el sector de edificaciones en el Caribe. (a) Diagnostica que la climatización y enfriamiento representan una de las principales fuentes de emisiones y consumo eléctrico en edificios comerciales y residenciales. (b) Identifica oportunidades de ahorro focalizándose inicialmente en estándares de eficiencia para tecnologías de bajo costo y fácil despliegue.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "In residential, commercial and public service buildings, heating and cooling are major contributors to the emission of GHG.",
+                  "pagina": 40
+                },
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Improvements on this sector should initially focus on efficiency standards for technologies that are low-cost and easy to deploy (e.g., cooling methods, natural ventilation systems, and lighting).",
+                  "pagina": 40
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Transportation sector",
+              "nivel": 3,
+              "paginas": "40-41",
+              "resumen": "Analiza el uso de energía y las emisiones en el transporte. (a) Diagnostica que el transporte es un blanco prioritario de mitigación al ser responsable del 14% de las emisiones directas globales de GEI. (b) Destaca la oportunidad de modernizar flotas públicas y privadas mediante la incorporación de vehículos eléctricos e híbridos enchufables.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "The transportation sector is a core target for GHG emission reductions since it is accountable for around 14 per cent of total global emissions (IPCC, 2014).",
+                  "pagina": 40
+                },
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Improvements in government fleets’ management and the incorporation of electric/hybrid/plug-in hybrid vehicles (EV/HEV/PHEV) into public and private fleets appear to be two of the most feasible alternatives for the region.",
+                  "pagina": 41
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Next steps",
+              "nivel": 3,
+              "paginas": "41-42",
+              "resumen": "Sintetiza las políticas e instrumentos recomendados para impulsar la eficiencia energética. (a) Propone desarrollar y fiscalizar códigos de construcción nacionales orientados a la eficiencia. (b) Recomienda normas obligatorias de etiquetado de electrodomésticos e incentivos fiscales (reembolsos y exenciones) para auditorías y compra de productos eficientes. (c) Insta a articular las metas de eficiencia con el despliegue de energías renovables.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Develop and enforce national building codes that promote EE; − Mandate appliance labelling and efficiency standards; − Offer fiscal incentives (e.g., rebates, tax exemptions) for energy audits and purchasing of energy-efficient products.",
+                  "pagina": 41
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Incorporation of renewable energies",
+          "nivel": 2,
+          "paginas": "42-45",
+          "resumen": "Analiza las oportunidades y requerimientos técnicos para acelerar la penetración de fuentes de energía renovable variable (solar y eólica) en la matriz energética insular, contrastando sus costos con los subsidios a combustibles fósiles y detallando medidas normativas de política.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Next steps",
+              "nivel": 3,
+              "paginas": "44-45",
+              "resumen": "Establece instrumentos de política para viabilizar la inserción de renovables en la red. (a) Destaca la competitividad económica de las renovables y tecnologías de integración frente a los altos costos de generación convencional. (b) Recomienda fijar estándares de cartera renovable (RPS) que obliguen a las empresas de suministro a adquirir una cuota de energía limpia. (c) Propone legislar tarifas de alimentación (feed-in tariffs), créditos fiscales y esquemas de medición neta.",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "due to the current high costs for power generation, VRE and grid integration technologies are economically attractive.",
+                  "pagina": 44
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Create Renewable Portfolio Standards (RPS) to promote RE resources by mandating electricity supply companies to source a share of supplied energy from renewable energies",
+                  "pagina": 45
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Grid modernization",
+          "nivel": 2,
+          "paginas": "45-48",
+          "resumen": "Examina la modernización de la infraestructura de transmisión y distribución para asimilar fuentes renovables y soportar perturbaciones climáticas. Analiza el despliegue de redes inteligentes, generación distribuida y microrredes, y compila los desafíos técnicos y regulatorios prioritarios.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Smart grids",
+              "nivel": 3,
+              "paginas": "45-46",
+              "resumen": "Analiza las tecnologías de redes inteligentes aplicadas a la transmisión, distribución y consumo eléctrico. (a) Destaca el potencial de las redes inteligentes para mitigar y adaptarse al cambio climático mediante monitoreo digital y control dinámico. (b) Describe su rol integrador para combinar medidas de eficiencia del lado de la demanda con almacenamiento y generación limpia.",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Smart grids applications can be used in different stages of the electricity provision process (i.e., transmission, distribution and demand-side), allowing the integration of RE-related measures with EE measures (see Annex 1)",
+                  "pagina": 45
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Distributed generation and microgrids",
+              "nivel": 3,
+              "paginas": "46-46",
+              "resumen": "Examina el cambio de paradigma desde la generación centralizada hacia la generación distribuida y microrredes insulares. (a) Diagnostica que la urgencia de adaptación climática y resiliencia ante desastres exige transformar la arquitectura eléctrica convencional. (b) Resalta que las microrredes permiten aislar subsistemas durante emergencias y mantener servicios esenciales sin depender del colapso de la red general.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Although the centralized generation paradigm still permeates RE, the urgency to mitigate against and adapt to climate change impact, enhance energy access and security, and build resilience to disasters could boost the deployment of distributed generation throughout macro power systems.",
+                  "pagina": 46
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Next steps",
+              "nivel": 3,
+              "paginas": "46-48",
+              "resumen": "Compila directrices técnicas y regulatorias para la modernización de redes. (a) Prescribe la introducción de tecnologías de control de frecuencia, voltaje y balance de potencia en presencia de alta variabilidad renovable. (b) Recomienda incorporar capacidad de almacenamiento para desacoplar oferta y demanda. (c) Propone desarrollar salvaguardas para proteger a consumidores vulnerables frente a las tarifas de transición.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Introduce technologies and procedures to ensure proper grid operation, stability and control (e.g., frequency, voltage, power balance) in the presence of a significant share of variable renewable energies",
+                  "pagina": 47
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Develop safeguards for vulnerable customers who are less able to benefit from grid modernization projects",
+                  "pagina": 47
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Monitoring and verification",
+      "nivel": 1,
+      "paginas": "49-50",
+      "resumen": "Describe el sistema de monitoreo y verificación necesario para evaluar el impacto real de las intervenciones de resiliencia energética. (a) Establece que cada fase de intervención requiere indicadores específicos comparables contra escenarios de línea de base. (b) Propone integrar la gestión del riesgo de desastres en el ciclo de formulación y evaluación de proyectos de inversión pública. (c) Recomienda protocolizar directrices técnicas, acceso a información pública y estándares de recuperación posdesastre integrados al desarrollo sostenible.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Each phase of intervention requires a set of indicators that allow evaluators to measure performance in relation to a baseline scenario.",
+          "pagina": 49
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Integration of DRM in the project preparation and evaluation cycle.",
+          "pagina": 50
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "V. Case studies",
+      "nivel": 1,
+      "paginas": "51-64",
+      "resumen": "Examina dos estudios de caso contrastantes para contextualizar los desafíos y oportunidades de la modernización energética y la resiliencia a nivel nacional. Analiza en detalle el perfil sectorial, la matriz energética, los marcos de gestión de desastres y las agendas prospectivas de Trinidad y Tabago (economía basada en gas natural) y Granada (economía insular dependiente de combustibles importados).",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Trinidad and Tobago",
+          "nivel": 2,
+          "paginas": "51-57",
+          "resumen": "Analiza la situación del sector energético y la gestión del riesgo en Trinidad y Tabago. Revisa su perfil demográfico y económico, diagnostica la matriz basada casi exclusivamente en gas natural, examina la resiliencia del sistema ante amenazas climáticas e identifica barreras regulatorias para avanzar.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Country profile",
+              "nivel": 3,
+              "paginas": "51-51",
+              "resumen": "Presenta los datos fundamentales del país. (a) Registra una superficie de 5.128 km2 y una población aproximada de 1.360.000 habitantes con tasa de crecimiento de 0,17%. (b) Señala la alta dependencia de los hidrocarburos, que aportan cerca del 40% del PIB y el 80% de las exportaciones.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Trinidad and Tobago covers an area of 5,128 km2 and has a population of around 1,360,000 inhabitants growing at an annual rate of 0.17 per cent.",
+                  "pagina": 51
+                },
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Trinidad and Tobago relies heavily on its energy sector for much of its economic activity. In fact, oil and gas typically account for about 40 per cent of GDP and 80 per cent of exports.",
+                  "pagina": 51
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Overview of the energy and disaster risk management sectors",
+              "nivel": 3,
+              "paginas": "51-53",
+              "resumen": "Caracteriza la matriz eléctrica y la arquitectura institucional de gestión del riesgo. (a) Describe una matriz eléctrica dependiente de combustibles fósiles donde las tarifas altamente subsidiadas dificultan el cambio de paradigma. (b) Resalta la misión de la ODPM para articular capacidades de gestión del riesgo y adaptación climática con otros socios y proteger la economía.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "The Trinidad and Tobago electricity sector is characterized by an overwhelming reliance on fossil fuels.",
+                  "pagina": 52
+                },
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "The ODPM has the objective to build national DRM and climate change adaptation capabilities with other partners and coordinate response and recovery operations to protect the people, environment and economy and ensure resilience to disasters.",
+                  "pagina": 52
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Energy sector and resilience to disasters",
+              "nivel": 3,
+              "paginas": "53-55",
+              "resumen": "Evalúa las iniciativas de resiliencia y las brechas de coordinación en el sector energético. (a) Documenta la colaboración entre TTBS y el Ministerio de Energía para actualizar el Código Eléctrico Nacional e integrar sistemas renovables a la red. (b) Señala como desafío crítico que las empresas de servicios públicos (utilities) y generadores fósiles no participan activamente en las estrategias de gestión del riesgo de desastres.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "The TTBS has collaborated with the MEEI to revise the National Electrical Wiring Code with the intention to address compatibility issues involving RE power generation systems",
+                  "pagina": 53
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "Additionally, as expressed by consulted stakeholders, there is also no involvement from the utilities to develop strategies to enhance the resilience to disasters.",
+                  "pagina": 54
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Moving forward",
+              "nivel": 3,
+              "paginas": "55-57",
+              "resumen": "Plantea las prioridades de reforma para destrabar la transición renovable. (a) Identifica una brecha prospectiva en la legislación nacional al carecer de cuotas renovables y prohibir el ingreso de productores independientes (IPP) distintos a TTEC. (b) Recomienda abrir el mercado a los IPP para diversificar y dispersar la generación eléctrica aumentando la resiliencia del sistema.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "subtipo_brecha": "prospectiva",
+                  "cita": "No IPPs are currently allowed and no RE portfolio/quota defined in the national legislation, this situation restraints considerably the deployment of RE from actors other than TTEC.",
+                  "pagina": 55
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "In this sense, RE roll out should consider a broad participation of IPPs to ensure increased generation and dispersion, and hence enhanced resilience.",
+                  "pagina": 56
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Grenada",
+          "nivel": 2,
+          "paginas": "57-64",
+          "resumen": "Analiza la experiencia de Granada en la transición energética y resiliencia ante huracanes. Examina su perfil nacional, la estructura monopólica del servicio eléctrico, proyectos innovadores de microhidroeléctrica y energía solar, y las directrices para fortalecer su marco legislativo e institucional.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Country profile",
+              "nivel": 3,
+              "paginas": "57-57",
+              "resumen": "Describe las características geográficas y demográficas de Granada. (a) Registra una superficie de 344 km2 y una población cercana a 103.000 habitantes creciendo a 0,54% anual. (b) Destaca la alta exposición territorial a eventos meteorológicos extremos y huracanes que impactan severamente el capital físico insular.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "The country covers an area of 344 km2 and has a population of around 103,000 inhabitants that is growing about 0.54 per cent yearly.",
+                  "pagina": 57
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Overview of the energy and disaster risk management sectors",
+              "nivel": 3,
+              "paginas": "57-60",
+              "resumen": "Examina la estructura del sector eléctrico y las políticas de energía y desastres. (a) Registra una capacidad instalada de 52,41 MW en 2016 que cubre la demanda interna pero con una demanda máxima proyectada a duplicarse hacia 2028 y generación renovable limitada a 2,2 MW. (b) Documenta el establecimiento de una tarifa de alimentación (feed-in tariff) de 45 centavos de dólar del Caribe Oriental equivalente al costo de diésel evitado.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Current installed capacity (52.41 MW) is enough to meet domestic energy needs; nevertheless, current maximum demand (31.8 MW) is expected to double by 2028 (Table 6), and renewable power generation remains limited (2.2 MW) with equally distributed shares of generation among customers and the utility.",
+                  "pagina": 58
+                },
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "The GNEP established a feed-in tariff of EC$ 45 cents for the deployment of RE, which represents the equivalent cost of the avoided diesel.",
+                  "pagina": 57
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Energy sector and resilience to disasters",
+              "nivel": 3,
+              "paginas": "60-63",
+              "resumen": "Analiza proyectos piloto y desafíos institucionales en la integración de energía y desastres. (a) Registra el avance del proyecto piloto G-Hydro entre NAWASA y GIZ para generar electricidad mediante pequeñas turbinas hidráulicas instaladas en la red de agua potable. (b) Señala la falta de propuestas concretas y roles definidos en tecnologías no maduras como energía marina y valorización energética de residuos.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "To do so, the National Water and Sewerage Authority (NAWASA) is working together with the GIZ office in Grenada in the project “G- Hydro: Innovative electricity production in Grenada through In-Conduit Hydropower.”",
+                  "pagina": 60
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "In the case of marine power and waste-to-energy, although the discussion is already present, no concrete ideas have been proposed and the roles and responsibilities of the stakeholders still have not been defined.",
+                  "pagina": 61
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Moving forward",
+              "nivel": 3,
+              "paginas": "63-64",
+              "resumen": "Plantea las prioridades de acción para consolidar la transición energética en Granada. (a) Recomienda incentivar el despliegue de calentadores solares de agua domésticos y comerciales mediante un marco normativo habilitador. (b) Destaca la voluntad gubernamental de articular cooperación técnica internacional pero insta a promulgar leyes vinculantes que asignen responsabilidades claras.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Encourage the uptake of solar water heaters for domestic and commercial water heating through an enabling policy framework.",
+                  "pagina": 63
+                },
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Grenada has shown great willingness to explore possibilities to transition to a sustainable energy sector.",
+                  "pagina": 63
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "VI. Final considerations",
+      "nivel": 1,
+      "paginas": "65-68",
+      "resumen": "Sintetiza las consideraciones finales y lecciones estratégicas del estudio para la región. (a) Reitera que la transición hacia energías sostenibles puede generar un millón de nuevos empleos en ALC y dinamizar la innovación en economías insulares. (b) Propone reformar los procedimientos de inversión pública para exigir análisis de riesgo multiamenaza desde la fase de prefactibilidad en coordinación con los Ministerios de Finanzas. (c) Mapea fuentes internacionales de financiamiento climático (GEF, FVC/GCF, Carbon War Room, OFID, CDB) para apalancar proyectos de modernización energética y resiliencia.",
+      "dimensiones": [
+        {
+          "dimension": "oportunidades",
+          "cita": "According to ECLAC and ILO (2018), the transition to sustainable energy is expected to create one million new jobs in Latin America and the Caribbean though 2030, opening opportunities for specialization and creation of innovations and business models that build on the Caribbean experience and respond to the particular characteristics of SIDS.",
+          "pagina": 65
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "It is recommended to adapt public investment procedures, so that any new public development incorporates disaster risk reduction from its feasibility or pre-design studies to its completion.",
+          "pagina": 66
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "El documento articula un paquete coordinado de políticas e inversiones públicas y privadas que cumple rigurosamente con los tres tests del Big Push Ambiental. En primer lugar, propone un paquete simultáneo y estructurado en cuatro componentes (evaluación del riesgo, remoción de barreras normativas/financieras, modernización integral de la red y monitoreo/verificación) para romper la trampa de vulnerabilidad y dependencia fósil en el Caribe. En segundo lugar, focaliza intervenciones en sectores estratégicos clave: transición energética hacia renovables variables (solar FV, eólica, geotérmica, microhidro in-conduit), redes eléctricas inteligentes con almacenamiento, microrredes descentralizadas, eficiencia energética en edificaciones y electromovilidad en transporte. En tercer lugar, articula las tres eficiencias de la CEPAL: eficiencia productiva/schumpeteriana (desarrollo de capacidades tecnológicas locales, sustitución de importaciones de combustibles costosos y desarrollo de mercados de IPPs), eficiencia keynesiana/de demanda (creación estimada de un millón de empleos verdes al 2030 según CEPAL-OIT, dinamización de pymes y reducción del costo de la electricidad) y eficiencia ambiental (descarbonización de matrices, preservación de ecosistemas costeros y reducción de pérdidas por desastres que absorben el 20% del gasto social). Finalmente, mapea mecanismos concretos de financiamiento multilateral (GEF-6, FVC/GCF, Carbon War Room, OFID, CDB-BNTF) para apalancar la inversión requerida.",
+      "citas": [
+        {
+          "cita": "The provision of energy services in face of these potential benefits and challenges draws attention to some important requirements: major public and private investments in the energy supply chain (e.g., modern infrastructure, demand-side efficiency), integral governance frameworks (e.g., energy, DRM, climate change), adequate capacities, and reliable data and information.",
+          "pagina": 18
+        },
+        {
+          "cita": "According to ECLAC and ILO (2018), the transition to sustainable energy is expected to create one million new jobs in Latin America and the Caribbean though 2030, opening opportunities for specialization and creation of innovations and business models that build on the Caribbean experience and respond to the particular characteristics of SIDS.",
+          "pagina": 65
+        },
+        {
+          "cita": "It is recommended to adapt public investment procedures, so that any new public development incorporates disaster risk reduction from its feasibility or pre-design studies to its completion.",
+          "pagina": 66
+        }
+      ],
+      "nota": null
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El estudio define mecanismos explícitos de articulación y coordinación institucional dentro del ámbito caribeño. Propone la creación y designación formal de un órgano rector nacional (steering body) con mandato intersectorial para alinear las prioridades del Ministerio de Energía, el Ministerio de Ambiente/Cambio Climático y las agencias nacionales de gestión del riesgo (como ODPM en Trinidad y Tabago y NaDMA en Granada), superando la gestión fragmentada en silos. Asimismo, establece un mecanismo vinculante en el sistema nacional de inversión pública coordinado por el Ministerio de Finanzas para someter todo proyecto de infraestructura a cribado multiamenaza. En el plano de mercado, plantea esquemas de integración entre empresas de servicios públicos (utilities como T&TEC y GRENLEC) y productores independientes de energía (IPPs) mediante regulación de tarifas de alimentación y códigos de conexión. A nivel regional y multilateral, articula la cooperación entre CARICOM, CDEMA, CARILEC, CCCCC y bancos de desarrollo (CDB, GEF, FVC).",
+      "citas": [
+        {
+          "cita": "A steering body to guide the modernization of the energy sector and supporting agencies should be designated.",
+          "pagina": 32
+        },
+        {
+          "cita": "The analysis of projects should use a multi-hazard approach to address all identified risks.",
+          "pagina": 66
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Sí",
+      "evidencia": "El documento detalla un vínculo exhaustivo y cuantitativo entre la transición sostenible y las oportunidades productivas, de empleo y de productividad en los SIDS. Identifica actividades productivas específicas que incluyen la instalación de paneles solares fotovoltaicos en cubiertas y cocheras, el despliegue de turbinas hidroeléctricas en redes de agua potable (proyecto G-Hydro), la adopción masiva de calentadores solares de agua en sectores comercial y residencial, la reconversión de flotas hacia la electromovilidad y la modernización de redes con medidores inteligentes (AMI) y almacenamiento. Cita la estimación conjunta CEPAL-OIT de creación de un millón de nuevos puestos de trabajo en ALC hacia 2030 vinculados a energías sostenibles y subraya que la reducción de costos y volatilidad en las tarifas de electricidad mejorará drásticamente la competitividad de las pequeñas empresas caribeñas, disminuyendo el drenaje de divisas por importación de diésel.",
+      "citas": [
+        {
+          "cita": "Improvements in government fleets’ management and the incorporation of electric/hybrid/plug-in hybrid vehicles (EV/HEV/PHEV) into public and private fleets appear to be two of the most feasible alternatives for the region.",
+          "pagina": 41
+        },
+        {
+          "cita": "Encourage the uptake of solar water heaters for domestic and commercial water heating through an enabling policy framework.",
+          "pagina": 63
+        },
+        {
+          "cita": "According to ECLAC and ILO (2018), the transition to sustainable energy is expected to create one million new jobs in Latin America and the Caribbean though 2030, opening opportunities for specialization and creation of innovations and business models that build on the Caribbean experience and respond to the particular characteristics of SIDS.",
+          "pagina": 65
+        }
+      ],
+      "nota": null
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "La sección propositiva y de consideraciones finales evalúa la voz normativa propia del documento mediante un conjunto estructurado de recomendaciones específicas para la modernización energética y la resiliencia en el Caribe. De los 8 ítems normativos evaluados exhaustivamente en el cierre y las secciones técnicas, 6 cumplen plenamente con el estándar de concreción operativa al definir instrumentos tangibles (reforma del sistema de inversión pública con cribado multiamenaza, creación de órgano rector interinstitucional, establecimiento de Renewable Portfolio Standards, códigos de cableado y construcción energéticamente eficientes, repositorio central de LCOE+ y modelos de carga, y tarifas de alimentación/net metering), entidades responsables (Ministerio de Finanzas, entes reguladores, agencias de DRM) o mecanismos de financiamiento identificables (GEF-6, FVC, CDB-BNTF). El tally resultante de 6 de 8 ítems concretos acredita el veredicto positivo.",
+      "citas": [
+        {
+          "cita": "A steering body to guide the modernization of the energy sector and supporting agencies should be designated.",
+          "pagina": 32
+        },
+        {
+          "cita": "Develop and enforce national building codes that promote EE; − Mandate appliance labelling and efficiency standards; − Offer fiscal incentives (e.g., rebates, tax exemptions) for energy audits and purchasing of energy-efficient products.",
+          "pagina": 41
+        },
+        {
+          "cita": "Create Renewable Portfolio Standards (RPS) to promote RE resources by mandating electricity supply companies to source a share of supplied energy from renewable energies",
+          "pagina": 45
+        },
+        {
+          "cita": "It is recommended to adapt public investment procedures, so that any new public development incorporates disaster risk reduction from its feasibility or pre-design studies to its completion.",
+          "pagina": 66
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Adaptar los procedimientos del sistema nacional de inversión pública para que todo nuevo proyecto público incorpore análisis de reducción del riesgo de desastres bajo un enfoque multiamenaza desde su fase de prefactibilidad/perfil hasta su finalización, ejecutado por el órgano de inversión pública en coordinación con el Ministerio de Finanzas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 66
+        },
+        {
+          "item": "Designar formalmente un órgano rector interinstitucional (steering body) que coordine a las agencias de energía, cambio climático y DRM y elabore un plan de trabajo conjunto con asignación explícita de roles y tareas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 32
+        },
+        {
+          "item": "Desarrollar y hacer cumplir códigos nacionales de construcción energéticamente eficientes, establecer normativas obligatorias de etiquetado de electrodomésticos y ofrecer incentivos fiscales (reembolsos y exenciones impositivas) para auditorías energéticas y compras eficientes.",
+          "clasificacion": "CONCRETO",
+          "pagina": 41
+        },
+        {
+          "item": "Establecer estándares de cartera renovable (Renewable Portfolio Standards - RPS) que obliguen legalmente a las empresas de suministro eléctrico a obtener una cuota determinada de su energía de fuentes renovables, junto con legislación modelo de tarifas feed-in y medición neta.",
+          "clasificacion": "CONCRETO",
+          "pagina": 45
+        },
+        {
+          "item": "Compilar todas las evaluaciones de recursos renovables a alta resolución, bases de datos de registro vehicular e inventarios sectoriales de GEI en una base de datos centralizada de acceso público y gratuito, desplegando modelaciones de LCOE+ con externalidades.",
+          "clasificacion": "CONCRETO",
+          "pagina": 34
+        },
+        {
+          "item": "Incentivar la adopción masiva de calentadores solares de agua para uso doméstico y comercial mediante un marco de políticas habilitador y financiamiento dedicado.",
+          "clasificacion": "CONCRETO",
+          "pagina": 63
+        },
+        {
+          "item": "Fomentar un cambio cultural y de planeación para superar el enfoque de silos institucionales y promover proyectos multipropósito resilientes entre ministerios.",
+          "clasificacion": "GENERICO",
+          "pagina": 66
+        },
+        {
+          "item": "Fortalecer los lazos de cooperación activa de los gobiernos con organismos regionales e internacionales (ECLAC, CDEMA, ACS, CARICOM) para aumentar la concientización y capacidades técnicas de formulación.",
+          "clasificacion": "GENERICO",
+          "pagina": 66
+        }
+      ],
+      "tally": "6 de 8 ítems pasan el test de concreción",
+      "nota": null
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento aborda la contradicción estructural entre la extrema vulnerabilidad física de los Pequeños Estados Insulares en Desarrollo (SIDS) del Caribe frente a eventos hidrometeorológicos y desastres climáticos, y un modelo energético convencional altamente centralizado, ineficiente y dependiente de combustibles fósiles importados que absorbe divisas y colapsa reiteradamente tras el paso de huracanes. Procesa esta tensión proponiendo la modernización de los sistemas eléctricos (fuentes renovables descentralizadas, eficiencia en la demanda, microrredes y redes inteligentes) como la estrategia fundamental para reducir las emisiones, desvincular el crecimiento económico del consumo de hidrocarburos y salvaguardar la resiliencia socioecológica.",
+      "filtro_categoria_primaria": "El objetivo primordial de transformación es la sostenibilidad ambiental y la resiliencia climática del sector energético caribeño (#6). Siguiendo la regla 'objeto vs. instrumento', la transformación sustantiva que el texto persigue es la descarbonización, la descentralización física de la generación renovable (solar FV, eólica, hidroeléctrica in-conduit), la reducción de pérdidas energéticas y la mitigación/adaptación frente a desastres hidrometeorológicos en el territorio insular. La gobernanza, la regulación y la reforma administrativa funcionan como los instrumentos habilitantes indispensables para alcanzar dicha transformación ambiental y energética.",
+      "secundaria_obligatoria": "La transformación secundaria obligatoria es Capacidades del Estado (#11). El hilo conductor del análisis empírico y propositivo demuestra que el principal cuello de botella para materializar la resiliencia energética no es técnico ni de disponibilidad de recursos naturales, sino la debilidad institucional del sector público: la fragmentación en silos entre ministerios de energía, ambiente y agencias de emergencia; la carencia de órganos rectores de coordinación intersectorial; marcos regulatorios obsoletos que bloquean la interconexión de productores independientes (IPP); la falta de repositorios centralizados de datos y LCOE+; y la alta rotación en el servicio civil que destruye la memoria técnica y la capacidad de gestión de proyectos.",
+      "justificacion_anti_copia": "La justificación se basa en conceptos técnicos y empíricos estrictamente singulares del estudio: la integración de C-SERMS con los planes de gestión integral de desastres de CDEMA, el despliegue de turbinas 'G-Hydro' en acueductos potables de NAWASA en Granada, la reforma del Código Eléctrico Nacional por la TTBS en Trinidad y Tabago, el diseño de microrredes solares en Petit Martinique, y la institucionalización de una directriz de evaluación multiamenaza en los sistemas nacionales de inversión pública bajo supervisión de los Ministerios de Finanzas.",
+      "validacion_anclas": "El resultado se valida de forma consistente contra el ancla doc09 ('Building a climate resilient power sector in the Caribbean', ancla #6/#11), que clasifica la resiliencia del sector eléctrico caribeño como Sostenibilidad ambiental primaria y las reformas de gobernanza y datos como Capacidades del Estado secundaria. Contrasta claramente con el ancla doc08 (Gestión del agua, #11/#6) y doc12 (PLACA, #11/#6), donde el objeto central era el diseño de la arquitectura institucional o el inventario legislativo en sí mismos; en el presente documento, el objeto es la modernización física y tecnológica de la infraestructura energética para la resiliencia territorial."
+    },
+    "tipo_documento_climatico": "Documento de proyecto o estudio técnico",
+    "nivel_aplicacion": "Regional",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

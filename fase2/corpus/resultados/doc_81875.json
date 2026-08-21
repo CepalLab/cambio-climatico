@@ -1,0 +1,995 @@
+{
+  "documento": {
+    "num_muestra": 14,
+    "titulo": "Diagnóstico y propuestas para una Meta Regional de Mitigación y Adaptación al Cambio Climático en el Sector Energético de los Países del SICA",
+    "autoria": "José Manuel Arroyo; Santa Paola Centeno; Debora Ley; Indira Romero; Eugenio Torijano",
+    "handle": "https://hdl.handle.net/11362/81875",
+    "simbolo": "LC/MEX/TS.2025/8",
+    "isbn": null,
+    "fecha": "2025",
+    "tipo_documento": "Documento de proyecto o estudio técnico",
+    "paginas_cuerpo": 69,
+    "paginas_totales": 96,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cómo pueden los países del SICA formular e implementar una Meta Regional de mitigación y adaptación en el sector energético que combine acceso universal, energías renovables, eficiencia, resiliencia y financiamiento?",
+    "alcance": {
+      "ambito_aplicacion": "Países del SICA: Belice, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panamá y República Dominicana",
+      "referentes_dependencias": "Acuerdo de París, CMNUCC, Agenda 2030, ODS 7, ONU-Energía, HiVOS, OCDE y experiencias nacionales citadas",
+      "sectorial": "Sector energético: acceso, combustibles limpios, renovables, eficiencia, mitigación, adaptación, pérdidas y daños, MRV y financiamiento",
+      "temporal": "Datos principalmente 2015-2024 y metas regionales al 2030; publicación 2025"
+    },
+    "hallazgos_principales": [
+      "En 2023 el consumo final de energía del SICA alcanzó 1.750.000 terajoules; hidrocarburos 54,3%, biomasa 29,5% y electricidad 15,9% (p.27).",
+      "La brecha de combustibles limpios se concentra especialmente en Guatemala, Honduras y Nicaragua; Guatemala registró 21,4 millones de toneladas de leña residencial en 2023 (pp.31-32).",
+      "La Estrategia Energética Sustentable 2030 fija 65% de fuentes renovables en la generación eléctrica del SICA y 75% en los países centroamericanos (p.24).",
+      "La propuesta articula cinco pactos energéticos regionales con adaptación, pérdidas y daños, financiamiento y MRV (pp.46-52)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La Meta Regional es viable como marco integrado porque conecta pactos regionales con mitigación, adaptación, pérdidas y daños, financiamiento y MRV.",
+        "Su implementación enfrenta restricciones fiscales, prioridades nacionales divergentes y la necesidad de una transición justa para poblaciones vulnerables."
+      ],
+      "recomendaciones": [
+        "Fortalecer la coordinación multisectorial y la Unidad de Coordinación Energética del SICA.",
+        "Implementar comunicación, educación y estrategias diferenciadas para poblaciones vulnerables.",
+        "Vincular la Meta Regional con planes nacionales, auditorías empresariales e inversión verde."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "El documento diagnostica el avance del ODS 7 en los ocho países del SICA y propone una Meta Regional de mitigación y adaptación para el sector energético. El diagnóstico destaca que en 2023 los hidrocarburos representaron 54,3% del consumo final regional y que Guatemala, Honduras y Nicaragua concentran rezagos de cocción limpia. La propuesta se organiza mediante cinco pactos energéticos regionales, complementados con resiliencia, financiamiento y medición, reporte y verificación. El cierre añade coordinación multisectorial, educación, comunicación, planificación de largo plazo y participación empresarial para una transición justa e inclusiva."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "I. Contexto internacional y de los países del SICA frente al cambio climático, la transición energética y el desarrollo sostenible",
+      "nivel": 1,
+      "paginas": "15-26",
+      "resumen": "El bloque «I. Contexto internacional y de los países del SICA frente al cambio climático, la transición energética y el desarrollo sostenible» funciona como puente y sus subsecciones desarrollan de manera ordenada la evidencia, los instrumentos y las implicaciones de la Meta Regional.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Incremento de la vulnerabilidad frente a fenómenos meteorológicos extremos",
+          "nivel": 2,
+          "paginas": "15-19",
+          "resumen": "La sección «Incremento de la vulnerabilidad frente a fenómenos meteorológicos extremos» cumple una función argumental específica: organiza evidencia, instrumentos y actores del diagnóstico regional y muestra sus implicaciones para la Meta Regional. La discusión se vincula con decisiones de acceso, eficiencia, mitigación, adaptación, resiliencia, financiamiento o coordinación, según corresponda, y se ancla en la página PDF 17.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Se espera que el nivel total de GEI resultante de implementar los elementos incondicionales de las CDN actualizadas sería un 5,9% más alto en 2030 que en 2019.",
+              "pagina": 17
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. El Acuerdo de París y las contribuciones determinadas a nivel nacional (CDN)",
+          "nivel": 2,
+          "paginas": "16-21",
+          "resumen": "La hoja «B. El Acuerdo de París y las contribuciones determinadas a nivel nacional (CDN)» examina evidencia específica de su ámbito y la vincula con la acción climática y energética regional. La evidencia verificable es: «De acuerdo con el índice de riesgo climático2 (Adil et al., 2025), en el período de 1993 a 2022, Honduras y Belice ocuparon el 2° y el 19° lugar, respectivamente, entre los países más afectados por los fenómenos meteorológicos extremos.» Este pasaje delimita el diagnóstico, la brecha o la medida relevante para los países del SICA.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "Las contribuciones determinadas a nivel nacional (CDN) se refieren a los compromisos de los países para cumplir con los objetivos del Acuerdo de París.",
+              "pagina": 16
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Las CDN presentadas no permitirían cumplir con el Acuerdo de París (véase el gráfico 2).",
+              "pagina": 17
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Agenda 2030 para el Desarrollo Sostenible",
+          "nivel": 2,
+          "paginas": "19-21",
+          "resumen": "La hoja «C. Agenda 2030 para el Desarrollo Sostenible» examina evidencia específica de su ámbito y la vincula con la acción climática y energética regional. La evidencia verificable es: «18 Comisión Económica para América Latina y el Caribe (CEPAL) Cuadro 2 ODS 7: metas e indicadores 7.1 De aquí a 2030, garantizar el acceso universal a servicios energéticos asequibles, fiables y modernos 7.2 De aquí a 2030, aumentar considerablemente la proporción de energía renovable en el conjunto de fuentes energéticas 7.3 De aquí a 2030, duplicar la tasa mundial de mejora de la eficiencia energética 7.a De aquí a 2030, aumentar la cooperación internacional para facilitar el acceso a la investigación y la tecnología relativas a la energía limpia, incluidas las fuentes renovables, la eficiencia energética y las tecnologías avanzadas y menos contaminantes de combustibles fósiles, y promover la inversión en infraestructura energética y tecnologías limpias 7.b De aquí a 2030, ampliar la infraestructura y mejorar la tecnología para prestar servicios energéticos modernos y sostenibles para todos en los países en desarrollo, en particular los países menos adelantados, los pequeños Estados insulares en desarrollo y los países en desarrollo sin litoral, en consonancia con sus respectivos programas de apoyo 7.1.1 Proporción de la población que tiene acceso a la electricidad 7.1.2 Proporción de la población cuya fuente primaria de energía son los combustibles y tecnologías limpios 7.2.1 Proporción de energía renovable en el consumo final total de energía 7.3.1 Intensidad energética medida en función de la energía primaria y el producto interno bruto (PIB) 7.a.1 Corrientes financieras internacionales hacia los países en desarrollo para apoyar la investigación y el desarrollo de energías limpias y la producción de energía renovable, incluidos los sistemas híbridos 7.b.1 Inversiones en eficiencia energética en proporción al PIB y a la cuantía de la inversión extranjera directa en transferencias financieras destinadas a infraestructura y tecnología para servicios de desarrollo sostenible» Este pasaje delimita el diagnóstico, la brecha o la medida relevante para los países del SICA.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "18 Comisión Económica para América Latina y el Caribe (CEPAL) Cuadro 2 ODS 7: metas e indicadores 7.1 De aquí a 2030, garantizar el acceso universal a servicios energéticos asequibles, fiables y modernos 7.2 De aquí a 2030, aumentar considerablemente la proporción de energía renovable en el conjunto de fuentes energéticas 7.3 De aquí a 2030, duplicar la tasa mundial de mejora de la eficiencia energética 7.a De aquí a 2030, aumentar la cooperación internacional para facilitar el acceso a la investigación y la tecnología relativas a la energía limpia, incluidas las fuentes renovables, la eficiencia energética y las tecnologías avanzadas y menos contaminantes de combustibles fósiles, y promover la inversión en infraestructura energética y tecnologías limpias 7.b De aquí a 2030, ampliar la infraestructura y mejorar la tecnología para prestar servicios energéticos modernos y sostenibles para todos en los países en desarrollo, en particular los países menos adelantados, los pequeños Estados insulares en desarrollo y los países en desarrollo sin litoral, en consonancia con sus respectivos programas de apoyo 7.1.1 Proporción de la población que tiene acceso a la electricidad 7.1.2 Proporción de la población cuya fuente primaria de energía son los combustibles y tecnologías limpios 7.2.1 Proporción de energía renovable en el consumo final total de energía 7.3.1 Intensidad energética medida en función de la energía primaria y el producto interno bruto (PIB) 7.a.1 Corrientes financieras internacionales hacia los países en desarrollo para apoyar la investigación y el desarrollo de energías limpias y la producción de energía renovable, incluidos los sistemas híbridos 7.b.1 Inversiones en eficiencia energética en proporción al PIB y a la cuantía de la inversión extranjera directa en transferencias financieras destinadas a infraestructura y tecnología para servicios de desarrollo sostenible",
+              "pagina": 20
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "7.1 De aquí a 2030, garantizar el acceso universal a servicios energéticos asequibles, fiables y modernos",
+              "pagina": 20
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Vinculación de las CDN con el ODS 7 en los países del SICA",
+          "nivel": 2,
+          "paginas": "20-22",
+          "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica.",
+          "dimensiones": [
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "Algunos países carecen de medidas específicas para aumentar la generación eléctrica a partir de fuentes renovables.",
+              "pagina": 21
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Estrategias regionales de los países del SICA para combatir el cambio climático, preservar el medio ambiente y promover una energía sustentable",
+          "nivel": 2,
+          "paginas": "22-26",
+          "resumen": "La sección «Estrategias regionales de los países del SICA para combatir el cambio climático, preservar el medio ambiente y promover una energía sustentable» cumple una función argumental específica: organiza evidencia, instrumentos y actores del diagnóstico regional y muestra sus implicaciones para la Meta Regional. La discusión se vincula con decisiones de acceso, eficiencia, mitigación, adaptación, resiliencia, financiamiento o coordinación, según corresponda, y se ancla en la página PDF 22.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "La Estrategia Regional de Cambio Climático refleja la voluntad política de los países del SICA en cuanto al cambio climático y sus impactos sobre la población, medios de vida, ecosistemas y producción de la región.",
+              "pagina": 22
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "1. Estrategia Regional de Cambio Climático",
+              "nivel": 3,
+              "paginas": "22-24",
+              "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Estrategias regionales de los países del SICA para combatir el cambio climático, preservar el medio ambiente y promover una energía sustentable 1.",
+                  "pagina": 22
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Estrategia Regional Ambiental Marco 2021-2025",
+              "nivel": 3,
+              "paginas": "22-25",
+              "resumen": "La hoja «2. Estrategia Regional Ambiental Marco 2021-2025» examina evidencia específica de su ámbito y la vincula con la acción climática y energética regional. La evidencia verificable es: «Estrategias regionales de los países del SICA para combatir el cambio climático, preservar el medio ambiente y promover una energía sustentable 1.» Este pasaje delimita el diagnóstico, la brecha o la medida relevante para los países del SICA.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Mares y biodiversidad Contribuir al desarrollo sostenible de la región por medio de la conservación y el uso sostenible de la biodiversidad y los bienes y servicios ecosistémicos terrestres, marinos y de aguas continentales, mediante la gestión del conocimiento, la distribución justa y equitativa de sus beneficios, y el involucramiento de diferentes actores de la sociedad incluyendo el sector privado.",
+                  "pagina": 23
+                },
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "La Estrategia Regional Ambiental Marco 2021-2025 es el instrumento que orienta el trabajo de la CCAD, definiendo las prioridades ambientales regionales y complementando las prioridades nacionales que implementan los países.",
+                  "pagina": 22
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Estrategia Energética Sustentable 2030",
+              "nivel": 3,
+              "paginas": "23-26",
+              "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Estrategia Energética Sustentable 2030 La Estrategia Energética Sustentable 2030 fue aprobada en 2020 por el Consejo de Ministros de Energía del SICA.",
+                  "pagina": 23
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "II. Análisis del avance en el cumplimiento de las metas del ODS 7 en los países del SICA",
+      "nivel": 1,
+      "paginas": "27-44",
+      "resumen": "El bloque «II. Análisis del avance en el cumplimiento de las metas del ODS 7 en los países del SICA» funciona como puente y sus subsecciones desarrollan de manera ordenada la evidencia, los instrumentos y las implicaciones de la Meta Regional.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Meta 1 del ODS 7: Acceso universal a servicios energéticos asequibles, confiables y modernos. Acceso a electricidad",
+          "nivel": 2,
+          "paginas": "28-33",
+          "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica. Esta síntesis distingue el propósito de la sección, la evidencia que aporta y el efecto esperado sobre la implementación regional; evita confundir antecedentes, diagnóstico, instrumentos y cierre normativo.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Meta 1 del ODS 7: Acceso universal a servicios energéticos asequibles, confiables y modernos.",
+              "pagina": 31
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Meta 1 del ODS 7: Acceso universal a servicios energéticos asequibles, confiables y modernos. Acceso a tecnologías y combustibles limpios para cocción de alimentos",
+          "nivel": 2,
+          "paginas": "31-33",
+          "resumen": "La sección «Meta 1 del ODS 7: Acceso universal a servicios energéticos asequibles, confiables y modernos. Acceso a tecnologías y combustibles limpios para cocción de alimentos» cumple una función argumental específica: organiza evidencia, instrumentos y actores del diagnóstico regional y muestra sus implicaciones para la Meta Regional. La discusión se vincula con decisiones de acceso, eficiencia, mitigación, adaptación, resiliencia, financiamiento o coordinación, según corresponda, y se ancla en la página PDF 31.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "En algunos países del SICA el uso de las tecnologías y combustibles limpios para cocinar es relativamente alto.",
+              "pagina": 31
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Meta 2 del ODS 7: Aumento de la participación de las energías renovables en la matriz energética",
+          "nivel": 2,
+          "paginas": "34-37",
+          "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Meta 2 del ODS 7: Aumento de la participación de las energías renovables en la matriz energética En 2023, la producción de electricidad en los países del SICA fue de 81.402,1 GWh (sin incluir a Nicaragua).",
+              "pagina": 34
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Meta 3 del ODS 7: Incrementar la eficiencia energética",
+          "nivel": 2,
+          "paginas": "38-39",
+          "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "En 2022, Panamá presentó una intensidad energética de 1,3, Costa Rica de 1,7, la República Dominicana de 1,8 y El Salvador de 2,9 megajoules por unidad del PIB.",
+              "pagina": 38
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Resumen del avance en el cumplimiento de las metas del ODS 7 en los países del SICA",
+          "nivel": 2,
+          "paginas": "40-41",
+          "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Meta 1 del ODS 7: Proporción de la población con acceso a la electricidad",
+              "nivel": 3,
+              "paginas": "40-41",
+              "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Meta 1 del ODS 714: Proporción de la población con acceso a la electricidad En 2015, seis de los ocho países del SICA (Costa Rica, la República Dominicana, El Salvador, Panamá, Guatemala y Belice) contaban con un acceso a la electricidad superior al 90% de su población (véase el cuadro 14).",
+                  "pagina": 40
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Meta 1 del ODS 7: Proporción de la población que depende principalmente de combustibles y tecnologías limpias",
+              "nivel": 3,
+              "paginas": "41-42",
+              "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "En el caso de Belice y Panamá se observaron aumentos de la energía renovable como proporción del consumo final de energía total entre 2015 y 2022.",
+                  "pagina": 42
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Meta 2 del ODS 7: Participación de la energía renovable en el consumo final de energía total",
+              "nivel": 3,
+              "paginas": 42,
+              "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Meta 2 del ODS 7: Participación de la energía renovable en el consumo final de energía total Entre 2015 y 2022, la participación de la energía renovable en el consumo final de energía total disminuyó en cinco de los ocho países del SICA (Guatemala, Honduras, Costa Rica, El Salvador y la República Dominicana) como se observa en el cuadro 16.",
+                  "pagina": 42
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Meta 3 del ODS 7: Intensidad energética medida en términos de la energía primaria y el PIB",
+              "nivel": 3,
+              "paginas": 42,
+              "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Meta 3 del ODS 7: Intensidad energética medida en términos de la energía primaria y el PIB El avance hacia el cumplimiento de la meta 3 del ODS 7 se mide a través del cambio porcentual anual de la intensidad energética, por lo que una reducción en la intensidad energética (un cambio porcentual negativo) es una mejora en el indicador.",
+                  "pagina": 42
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "F. Priorización de áreas de acción con base en el análisis del avance en el cumplimiento de las metas del ODS 7 en los países del SICA",
+          "nivel": 2,
+          "paginas": "43-44",
+          "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Meta 1 del ODS 7: Acceso universal a servicios energéticos asequibles, confiables y modernos",
+              "nivel": 3,
+              "paginas": 43,
+              "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "a) Área de acción prioritaria núm. 1 b) Área de acción prioritaria núm. 2",
+                  "pagina": 43
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Meta 2 del ODS 7: Aumento de la participación de las energías renovables en la matriz energética",
+              "nivel": 3,
+              "paginas": 43,
+              "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "b) Área de acción prioritaria núm. 2 a) Área de acción prioritaria núm. 1 Tasa de variación anual necesaria hasta 2030b",
+                  "pagina": 43
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Meta 3 del ODS 7: Incrementar la eficiencia energética",
+              "nivel": 3,
+              "paginas": 44,
+              "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Meta 3 del ODS 7: Incrementar la eficiencia energética a) Área de acción prioritaria núm.",
+                  "pagina": 44
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "III. Propuesta de Meta Regional de Mitigación y Adaptación al Cambio Climático en el Sector Energético de los Países del SICA",
+      "nivel": 1,
+      "paginas": "45-54",
+      "resumen": "El bloque «III. Propuesta de Meta Regional de Mitigación y Adaptación al Cambio Climático en el Sector Energético de los Países del SICA» funciona como puente y sus subsecciones desarrollan de manera ordenada la evidencia, los instrumentos y las implicaciones de la Meta Regional.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Los pactos energéticos regionales de los países del SICA como base de la Meta Regional",
+          "nivel": 2,
+          "paginas": "45-47",
+          "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Los pactos energéticos regionales de los países del SICA como base de la Meta Regional Los pactos energéticos son una iniciativa de las Naciones Unidas que surgió en 2021, en el marco del Diálogo de Alto Nivel sobre Energía, con el objetivo de apoyar el llamado a la acción del Secretario General para acelerar los cambios necesarios en los sistemas energéticos globales que permitan cumplir con las metas del ODS 7 y de cero emisiones netas.",
+              "pagina": 45
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Beneficios potenciales de los pactos energéticos regionales para poblaciones vulnerables de los países del SICA",
+          "nivel": 2,
+          "paginas": "46-49",
+          "resumen": "La sección «Beneficios potenciales de los pactos energéticos regionales para poblaciones vulnerables de los países del SICA» cumple una función argumental específica: organiza evidencia, instrumentos y actores del diagnóstico regional y muestra sus implicaciones para la Meta Regional. La discusión se vincula con decisiones de acceso, eficiencia, mitigación, adaptación, resiliencia, financiamiento o coordinación, según corresponda, y se ancla en la página PDF 47.",
+          "dimensiones": [
+            {
+              "dimension": "oportunidades",
+              "cita": "La implementación de energías renovables puede generar empleo local y oportunidades económicas a través de los usos productivos de la energía, contribuyendo al desarrollo sostenible de estas comunidades.",
+              "pagina": 47
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "1. Acceso universal a la electricidad",
+              "nivel": 3,
+              "paginas": 46,
+              "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Objetivo: Universalizar el acceso a los servicios de electricidad con extensiones de red, sistemas aislados, sistemas de generación distribuida y microrredes en comunidades alejadas o en comunidades con restricciones ambientales para conexión a las redes de transmisión de electricidad.",
+                  "pagina": 46
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Reducción del uso de leña",
+              "nivel": 3,
+              "paginas": "46-47",
+              "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Reducción del uso de leña La reducción del uso de leña es crucial para mejorar la salud y el bienestar de las poblaciones vulnerables y contribuye a las metas de los ODS 1, 2, 3, 5 y 10.",
+                  "pagina": 46
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Impulso a las energías renovables para la generación de electricidad y apoyo y fortalecimiento de las energías renovables no convencionales",
+              "nivel": 3,
+              "paginas": "47-49",
+              "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Impulso a las energías renovables para la generación de electricidad y apoyo y fortalecimiento de las energías renovables no convencionales El impulso a las energías renovables es esencial para garantizar una generación de electricidad sostenible y asequible y para contribuir a las metas de los ODS 1, 11, 12 y 13.",
+                  "pagina": 47
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Mejora de la eficiencia energética a través de los reglamentos técnicos centroamericanos",
+              "nivel": 3,
+              "paginas": "47-49",
+              "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Mejora de la eficiencia energética a través de los reglamentos técnicos centroamericanos Los reglamentos técnicos centroamericanos establecen normas y estándares que promueven el uso racional y eficiente de la energía en los sectores de consumo y tienen el potencial de contribuir a las metas de los ODS 12 y 13.",
+                  "pagina": 47
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Principio de “No dejar a nadie atrás”",
+              "nivel": 3,
+              "paginas": "47-49",
+              "resumen": "La hoja «5. Principio de “No dejar a nadie atrás”» examina evidencia específica de su ámbito y la vincula con la acción climática y energética regional. La evidencia verificable es: «Principio de “No dejar a nadie atrás” Los pactos energéticos aprobados por los países del SICA están alineados con el principio de las Naciones Unidas de no dejar a nadie atrás.» Este pasaje delimita el diagnóstico, la brecha o la medida relevante para los países del SICA.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Principio de “No dejar a nadie atrás” Los pactos energéticos aprobados por los países del SICA están alineados con el principio de las Naciones Unidas de no dejar a nadie atrás.",
+                  "pagina": 47
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Al electrificar áreas remotas y de baja densidad poblacional, se garantiza que todas las personas tengan acceso a la electricidad, mejorando su calidad de vida y oportunidades de desarrollo.",
+                  "pagina": 47
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Acciones de los pactos energéticos regionales como medidas de mitigación del cambio climático en el sector energético para la Meta Regional",
+          "nivel": 2,
+          "paginas": "47-51",
+          "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica. Esta síntesis distingue el propósito de la sección, la evidencia que aporta y el efecto esperado sobre la implementación regional; evita confundir antecedentes, diagnóstico, instrumentos y cierre normativo.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Acciones de los pactos energéticos regionales como medidas de mitigación del cambio climático en el sector energético para la Meta Regional En 2023, el 31,41% de las emisiones globales de GEI (Comisión Europea, 2024) fueron resultado de las industrias de la energía, principalmente por la quema de combustibles fósiles (véase el cuadro 18).",
+              "pagina": 47
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Acciones de adaptación al cambio climático y pérdidas y daños en el sector energético para la Meta Regional",
+          "nivel": 2,
+          "paginas": "48-54",
+          "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica. Esta síntesis distingue el propósito de la sección, la evidencia que aporta y el efecto esperado sobre la implementación regional; evita confundir antecedentes, diagnóstico, instrumentos y cierre normativo.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Así, para la propuesta de la Meta Regional se contemplan acciones de adaptación al cambio climático y acciones cuyo objetivo es contribuir a la disminución de pérdidas y daños asociados a los fenómenos meteorológicos extremos y de evolución lenta (véase el cuadro 19.) Cuadro 19 Países del SICA: propuesta de acciones de la Meta Regional de Mitigación y Adaptación al Cambio Climático en el sector energético Área de acción: acceso universal a la electricidad Acciones de mitigación • Actualización del Estudio de Energía Verde e Inclusiva financiado por HiVOSa para los países del SICA.",
+              "pagina": 49
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Financiamiento para implementar las acciones de la Meta Regional",
+          "nivel": 2,
+          "paginas": "51-54",
+          "resumen": "La sección «Financiamiento para implementar las acciones de la Meta Regional» cumple una función argumental específica: organiza evidencia, instrumentos y actores del diagnóstico regional y muestra sus implicaciones para la Meta Regional. La discusión se vincula con decisiones de acceso, eficiencia, mitigación, adaptación, resiliencia, financiamiento o coordinación, según corresponda, y se ancla en la página PDF 52.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Debido al reducido margen fiscal del sector público, los incentivos fiscales para que el sector privado invierta en tecnología, infraestructura y medidas que contribuyan a la mitigación y adaptación al cambio climático también se ven reducidos",
+              "pagina": 52
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "F. Conclusión de la propuesta de acciones de la Meta Regional de Mitigación y Adaptación al Cambio Climático en el Sector Energético de los Países del SICA",
+          "nivel": 2,
+          "paginas": "52-54",
+          "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Conclusión de la propuesta de acciones de la Meta Regional de Mitigación y Adaptación al Cambio Climático en el Sector Energético de los Países del SICA La propuesta de la Meta Regional combina las acciones que forman parte de los pactos energéticos regionales y que contribuyen a la mitigación del cambio climático, junto con medidas de adaptación y acciones que contribuyen a reducir las pérdidas y daños resultado de fenómenos meteorológicos extremos y de evolución lenta.",
+              "pagina": 52
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Medición, reporte y verificación y marco de transparencia reforzado",
+      "nivel": 1,
+      "paginas": "53-57",
+      "resumen": "El bloque «IV. Medición, reporte y verificación y marco de transparencia reforzado» funciona como puente y sus subsecciones desarrollan de manera ordenada la evidencia, los instrumentos y las implicaciones de la Meta Regional.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Medición, reporte y verificación",
+          "nivel": 2,
+          "paginas": 53,
+          "resumen": "La hoja «A. Medición, reporte y verificación» examina evidencia específica de su ámbito y la vincula con la acción climática y energética regional. La evidencia verificable es: «Medición, reporte y verificación y marco de transparencia reforzado En esta sección se presentan los mecanismos fundamentales para monitorear y dar seguimiento a las acciones climáticas establecidas bajo la CMNUCC y el Acuerdo de París.» Este pasaje delimita el diagnóstico, la brecha o la medida relevante para los países del SICA.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Medición, reporte y verificación y marco de transparencia reforzado En esta sección se presentan los mecanismos fundamentales para monitorear y dar seguimiento a las acciones climáticas establecidas bajo la CMNUCC y el Acuerdo de París.",
+              "pagina": 53
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "En la COP 13 de 2007, a través del Plan de Acción de Bali, se introdujo el principio de medición, reporte y verificación para los países desarrollados y en desarrollo con la finalidad de mejorar las acciones de mitigación del cambio climático a nivel nacional e internacional.",
+              "pagina": 53
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Marco de transparencia reforzado",
+          "nivel": 2,
+          "paginas": 54,
+          "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "• Verificación: Las comunicaciones nacionales no son sujetas de verificación, pero los informes bienales de actualización se someten al proceso de verificación de consulta y análisis internacional para aumentar la transparencia de las acciones de mitigación y sus efectos y del apoyo necesario y recibido.",
+              "pagina": 54
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Recomendaciones de la CMNUCC para la medición, reporte y verificación de las contribuciones determinadas a nivel nacional",
+          "nivel": 2,
+          "paginas": "54-56",
+          "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Recomendaciones de la CMNUCC para la medición, reporte y verificación de las contribuciones determinadas a nivel nacional En el denominado paquete de medidas de Katowice sobre el clima (CMNUCC, s.f.-c) se establecen las modalidades, procedimientos y directrices que permitirán implementar el Acuerdo de París y dar seguimiento al progreso de las CDN.",
+              "pagina": 54
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Medición, reporte y verificación en los países del SICA",
+          "nivel": 2,
+          "paginas": "55-57",
+          "resumen": "La sección «D. Medición, reporte y verificación en los países del SICA» cumple una función argumental específica: organiza evidencia, instrumentos y actores del diagnóstico regional y muestra sus implicaciones para la Meta Regional. La discusión se vincula con decisiones de acceso, eficiencia, mitigación, adaptación, resiliencia, financiamiento o coordinación, según corresponda, y se ancla en la página PDF 55.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "La transparencia y la rendición de cuentas son fundamentales para la credibilidad y éxito de la Meta Regional de Mitigación y Adaptación al Cambio Climático en el Sector Energético de los Países del SICA.",
+              "pagina": 55
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "V. El reto del financiamiento y otros desafíos para implementar la Meta Regional de Mitigación y Adaptación al Cambio Climático en el Sector Energético de los Países del SICA",
+      "nivel": 1,
+      "paginas": "57-63",
+      "resumen": "El bloque «V. El reto del financiamiento y otros desafíos para implementar la Meta Regional de Mitigación y Adaptación al Cambio Climático en el Sector Energético de los Países del SICA» funciona como puente y sus subsecciones desarrollan de manera ordenada la evidencia, los instrumentos y las implicaciones de la Meta Regional.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. El reto del financiamiento",
+          "nivel": 2,
+          "paginas": "57-62",
+          "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica. También explica las restricciones de deuda, recaudación, incentivos y arquitectura financiera que condicionan la ejecución.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "El reto del financiamiento y otros desafíos para implementar la Meta Regional de Mitigación y Adaptación al Cambio Climático en el Sector Energético de los Países del SICA Una transición hacia un sistema energético sostenible en los países del SICA, alineada con las metas del ODS 7 y de otros ODS y con los compromisos del Acuerdo de París, implica garantizar el acceso universal a servicios energéticos modernos, aumentar la participación de las energías renovables en la matriz energética, mejorar la eficiencia energética y fortalecer la resiliencia frente al cambio climático.",
+              "pagina": 57
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Precios relativamente bajos del gas natural proveniente de los Estados Unidos",
+          "nivel": 2,
+          "paginas": "59-60",
+          "resumen": "La hoja «B. Precios relativamente bajos del gas natural proveniente de los Estados Unidos» examina evidencia específica de su ámbito y la vincula con la acción climática y energética regional. La evidencia verificable es: «A este complejo panorama debe sumarse la salida del Gobierno de los Estados Unidos del Acuerdo de París en 202520, lo que reduciría la cantidad de fondos disponibles para el combate y la adaptación al cambio climático, considerando que los Estados Unidos son uno de los países que más contribuyen al FVC.» Este pasaje delimita el diagnóstico, la brecha o la medida relevante para los países del SICA.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "A este complejo panorama debe sumarse la salida del Gobierno de los Estados Unidos del Acuerdo de París en 202520, lo que reduciría la cantidad de fondos disponibles para el combate y la adaptación al cambio climático, considerando que los Estados Unidos son uno de los países que más contribuyen al FVC.",
+              "pagina": 59
+            },
+            {
+              "dimension": "desafios",
+              "cita": "Ahora bien, el gas natural es un combustible bastante más limpio que otros combustibles fósiles, pero no deja de presentar emisiones contaminantes, por lo que los bajos precios del gas natural de los Estados Unidos podrían actuar en detrimento de la utilización de energías renovables en los países del SICA.",
+              "pagina": 59
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Prioridades nacionales divergentes",
+          "nivel": 2,
+          "paginas": 61,
+          "resumen": "La hoja «C. Prioridades nacionales divergentes» examina evidencia específica de su ámbito y la vincula con la acción climática y energética regional. La evidencia verificable es: «Prioridades nacionales divergentes La diversidad de contextos nacionales en el SICA se refleja en las prioridades energéticas de cada país.» Este pasaje delimita el diagnóstico, la brecha o la medida relevante para los países del SICA.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "Prioridades nacionales divergentes La diversidad de contextos nacionales en el SICA se refleja en las prioridades energéticas de cada país.",
+              "pagina": 61
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Si bien existen áreas de convergencia, como el aumento de la participación de las energías renovables no convencionales, la gestión de la intermitencia de las energías renovables no convencionales y la implementación de reglamentos técnicos centroamericanos para contribuir a una mayor eficiencia energética, otras áreas como el aumento del acceso a la electricidad y a combustibles y tecnologías limpias para cocción de alimentos probablemente no resultarían de interés para aquellos países del SICA cuya cobertura es cercana al 100%.",
+              "pagina": 61
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Equilibrio entre acceso a la energía y acciones de mitigación y adaptación",
+          "nivel": 2,
+          "paginas": "61-62",
+          "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Equilibrio entre acceso a la energía y acciones de mitigación y adaptación El acceso a la energía es un catalizador para el desarrollo económico y social, y su universalización es fundamental para reducir la pobreza, mejorar la salud, la educación y la calidad de vida.",
+              "pagina": 61
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. La integración de múltiples actores para promover un enfoque holístico",
+          "nivel": 2,
+          "paginas": "61-62",
+          "resumen": "La hoja «E. La integración de múltiples actores para promover un enfoque holístico» examina evidencia específica de su ámbito y la vincula con la acción climática y energética regional. La evidencia verificable es: «Factores como el nivel de desarrollo económico, la dotación de recursos energéticos, la estructura de la matriz energética, la vulnerabilidad al cambio climático y las capacidades institucionales influyen en la definición de las agendas nacionales.» Este pasaje delimita el diagnóstico, la brecha o la medida relevante para los países del SICA.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Factores como el nivel de desarrollo económico, la dotación de recursos energéticos, la estructura de la matriz energética, la vulnerabilidad al cambio climático y las capacidades institucionales influyen en la definición de las agendas nacionales.",
+              "pagina": 61
+            },
+            {
+              "dimension": "desafios",
+              "cita": "Sin embargo, la coordinación entre diferentes actores es complicada, pues los objetivos de la Meta Regional pueden no coincidir con las prioridades de algunos actores e incluso resultar conflictivos.",
+              "pagina": 61
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "F. Transición energética justa",
+          "nivel": 2,
+          "paginas": "61-63",
+          "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Transición energética justa La transición energética promovida a través de las acciones de la Meta Regional debe ser justa e inclusiva, asegurando que los beneficios se distribuyan equitativamente y que nadie se quede atrás.",
+              "pagina": 61
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "VI. Recomendaciones y conclusiones",
+      "nivel": 1,
+      "paginas": "63-71",
+      "resumen": "El bloque «VI. Recomendaciones y conclusiones» funciona como puente y sus subsecciones desarrollan de manera ordenada la evidencia, los instrumentos y las implicaciones de la Meta Regional.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Recomendaciones",
+          "nivel": 2,
+          "paginas": "63-71",
+          "resumen": "La sección «Recomendaciones» cumple una función argumental específica: organiza evidencia, instrumentos y actores del diagnóstico regional y muestra sus implicaciones para la Meta Regional. La discusión se vincula con decisiones de acceso, eficiencia, mitigación, adaptación, resiliencia, financiamiento o coordinación, según corresponda, y se ancla en la página PDF 63. El cierre reúne la agenda normativa completa: coordinación institucional, comunicación, educación, atención diferenciada a poblaciones vulnerables, planificación de largo plazo y participación del sector privado. Por eso funciona como síntesis operativa del capítulo VI y no como una mera lista de temas.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "La transición energética exige la participación coordinada de diversos actores: ministerios (energía, ambiente, economía, otros), entes reguladores, empresas (públicas y privadas), gobiernos locales, academia y sociedad civil, entre otros.",
+              "pagina": 63
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "1. Fortalecimiento institucional y coordinación multisectorial",
+              "nivel": 3,
+              "paginas": "63-64",
+              "resumen": "La hoja «1. Fortalecimiento institucional y coordinación multisectorial» examina evidencia específica de su ámbito y la vincula con la acción climática y energética regional. La evidencia verificable es: «Recomendaciones y conclusiones Con la Meta Regional de Mitigación y Adaptación al Cambio Climático en el Sector Energético de los Países del SICA no solo se deberá buscar el cumplimiento de objetivos meramente cuantitativos sobre acceso a la energía, impulso de las energías renovables y eficiencia energética, sino también contribuir al fortalecimiento institucional de los países.» Este pasaje delimita el diagnóstico, la brecha o la medida relevante para los países del SICA.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Recomendaciones y conclusiones Con la Meta Regional de Mitigación y Adaptación al Cambio Climático en el Sector Energético de los Países del SICA no solo se deberá buscar el cumplimiento de objetivos meramente cuantitativos sobre acceso a la energía, impulso de las energías renovables y eficiencia energética, sino también contribuir al fortalecimiento institucional de los países.",
+                  "pagina": 63
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Establecer planes de trabajo, monitoreo, evaluación y revisión.",
+                  "pagina": 64
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Campañas de comunicación",
+              "nivel": 3,
+              "paginas": "64-65",
+              "resumen": "La hoja «2. Campañas de comunicación» examina evidencia específica de su ámbito y la vincula con la acción climática y energética regional. La evidencia verificable es: «− Incorporación de la educación ambiental en los diferentes niveles educativos, como se establece en la Ley 94-20 sobre Educación y Comunicación Ambiental (2020) de la República Dominicana, para formar una ciudadanía responsable y consciente del medio ambiente.» Este pasaje delimita el diagnóstico, la brecha o la medida relevante para los países del SICA.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "− Incorporación de la educación ambiental en los diferentes niveles educativos, como se establece en la Ley 94-20 sobre Educación y Comunicación Ambiental (2020) de la República Dominicana, para formar una ciudadanía responsable y consciente del medio ambiente.",
+                  "pagina": 64
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "La comunicación efectiva es crucial para generar conciencia sobre la importancia de la transición energética, promover la participación ciudadana y construir un consenso social en torno a la Meta Regional.",
+                  "pagina": 64
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Programas educativos",
+              "nivel": 3,
+              "paginas": "65-66",
+              "resumen": "La hoja «3. Programas educativos» examina evidencia específica de su ámbito y la vincula con la acción climática y energética regional. La evidencia verificable es: «Programas educativos La educación es fundamental para construir una cultura de sostenibilidad energética, formar ciudadanías responsables y empoderar a las comunidades para participar en la transición energética.» Este pasaje delimita el diagnóstico, la brecha o la medida relevante para los países del SICA.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Programas educativos La educación es fundamental para construir una cultura de sostenibilidad energética, formar ciudadanías responsables y empoderar a las comunidades para participar en la transición energética.",
+                  "pagina": 65
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Desarrollar materiales educativos adaptados a la realidad local, utilizando ejemplos concretos y un lenguaje accesible.",
+                  "pagina": 65
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Estrategias de comunicación y programas educativos para la atención de poblaciones rurales y vulnerables",
+              "nivel": 3,
+              "paginas": "66-70",
+              "resumen": "La sección «Estrategias de comunicación y programas educativos para la atención de poblaciones rurales y vulnerables» cumple una función argumental específica: organiza evidencia, instrumentos y actores del diagnóstico regional y muestra sus implicaciones para la Meta Regional. La discusión se vincula con decisiones de acceso, eficiencia, mitigación, adaptación, resiliencia, financiamiento o coordinación, según corresponda, y se ancla en la página PDF 68.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Aprovechar el ETF del Acuerdo de París para monitorear el progreso de la acción climática en los países del SICA.",
+                  "pagina": 68
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Planes a largo plazo para una transición energética sustentable en el SICA",
+              "nivel": 3,
+              "paginas": "68-70",
+              "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Planes a largo plazo para una transición energética sustentable en el SICA En el documento de la OCDE et al.",
+                  "pagina": 68
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "6. El papel del sector privado en la transición energética",
+              "nivel": 3,
+              "paginas": "68-71",
+              "resumen": "La hoja desarrolla un componente específico del documento y ordena sus datos, actores, instrumentos y consecuencias dentro del argumento general. Su función es delimitar evidencia y decisiones, con atención a los países, sectores y plazos que el texto identifica.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "• Incentivar la participación del sector privado en las plataformas de diálogo y toma de decisiones sobre la transición energética para asegurar la coherencia entre las políticas públicas y las prácticas empresariales.",
+                  "pagina": 68
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Conclusiones",
+          "nivel": 2,
+          "paginas": "69-70",
+          "resumen": "La hoja «B. Conclusiones» examina evidencia específica de su ámbito y la vincula con la acción climática y energética regional. La evidencia verificable es: «Conclusiones Las prioridades enfatizadas en las acciones de la Meta Regional de Mitigación y Adaptación al Cambio Climático en el Sector Energético de los Países del SICA reflejan los retos identificados en el análisis del cumplimiento de las metas del ODS 7.» Este pasaje delimita el diagnóstico, la brecha o la medida relevante para los países del SICA.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Conclusiones Las prioridades enfatizadas en las acciones de la Meta Regional de Mitigación y Adaptación al Cambio Climático en el Sector Energético de los Países del SICA reflejan los retos identificados en el análisis del cumplimiento de las metas del ODS 7.",
+              "pagina": 69
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "El limitado margen fiscal de los países del SICA y el insuficiente financiamiento climático internacional imponen restricciones para el financiamiento de la Meta Regional y de la transición energética en general.",
+              "pagina": 69
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "Propone un paquete coordinado de pactos, mitigación, adaptación, pérdidas y daños, financiamiento y MRV, aterrizado en acceso, leña, renovables y eficiencia; supera los tests de coordinación y sector estratégico.",
+      "citas": [
+        {
+          "cita": "Debido al reducido margen fiscal del sector público, los incentivos fiscales para que el sector privado invierta en tecnología, infraestructura y medidas que contribuyan a la mitigación y adaptación al cambio climático también se ven reducidos",
+          "pagina": 52
+        },
+        {
+          "cita": "Aumentar la participación de fuentes renovables en la producción de electricidad al 65% en el SICA y al 75% en los países centroamericanos.",
+          "pagina": 24
+        }
+      ],
+      "nota": null
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "Los cinco pactos energéticos regionales del SICA son mecanismos nombrados y vigentes dentro del ámbito; el cierre además especifica coordinación entre ministerios, reguladores, empresas, gobiernos locales, academia y sociedad civil.",
+      "citas": [
+        {
+          "cita": "Pacto 1. Acceso universal a la electricidad. Objetivo: Universalizar el acceso a los servicios de electricidad con extensiones de red, sistemas aislados, sistemas de generación distribuida y microrredes en comunidades alejadas o en comunidades con restricciones ambientales para conexión a las redes de transmisión de electricidad.",
+          "pagina": 46
+        },
+        {
+          "cita": "La transición energética exige la participación coordinada de diversos actores: ministerios (energía, ambiente, economía, otros), entes reguladores, empresas (públicas y privadas), gobiernos locales, academia y sociedad civil, entre otros.",
+          "pagina": 63
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Sí",
+      "evidencia": "Enumera electrificación productiva, generación distribuida, renovables, estufas mejoradas y eficiencia, y desarrolla el vínculo con empleo local, productividad y oportunidades económicas.",
+      "citas": [
+        {
+          "cita": "La implementación de energías renovables puede generar empleo local y oportunidades económicas a través de los usos productivos de la energía, contribuyendo al desarrollo sostenible de estas comunidades.",
+          "pagina": 47
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Electrificación rural para bombeo, irrigación, talleres y procesamiento de alimentos",
+          "clasificacion": "CONCRETO",
+          "pagina": 29
+        },
+        {
+          "item": "Implementación de energías renovables con usos productivos",
+          "clasificacion": "CONCRETO",
+          "pagina": 47
+        },
+        {
+          "item": "Empresas para construir, instalar y mantener estufas mejoradas",
+          "clasificacion": "CONCRETO",
+          "pagina": 49
+        }
+      ],
+      "tally": "3 de 3 ítems pasan el test de concreción",
+      "nota": null
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "La sección VI.A formula acciones propias de cierre con objetos identificables: coordinación, capacitación, presupuesto y personal, campañas, programas educativos, planes nacionales, auditorías e inversión verde.",
+      "citas": [
+        {
+          "cita": "Establecer espacios de encuentro periódicos con agendas definidas y mecanismos de seguimiento a los acuerdos.",
+          "pagina": 63
+        },
+        {
+          "cita": "Asignar un presupuesto adecuado a la Unidad de Coordinación Energética del SICA para el desarrollo de sus funciones.",
+          "pagina": 64
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Crear y fortalecer foros de diálogo con agendas y seguimiento",
+          "clasificacion": "CONCRETO",
+          "pagina": 63
+        },
+        {
+          "item": "Establecer programas de formación continua",
+          "clasificacion": "CONCRETO",
+          "pagina": 64
+        },
+        {
+          "item": "Dotar de recursos a la Unidad de Coordinación Energética del SICA",
+          "clasificacion": "CONCRETO",
+          "pagina": 64
+        },
+        {
+          "item": "Utilizar medios multicanal y adaptar mensajes",
+          "clasificacion": "CONCRETO",
+          "pagina": 64
+        },
+        {
+          "item": "Desarrollar programas educativos contextualizados, prácticos e inclusivos",
+          "clasificacion": "CONCRETO",
+          "pagina": 65
+        },
+        {
+          "item": "Adaptar comunicación, capacitación y crédito para poblaciones vulnerables",
+          "clasificacion": "CONCRETO",
+          "pagina": 66
+        },
+        {
+          "item": "Vincular la Meta Regional con planes nacionales e indicadores",
+          "clasificacion": "CONCRETO",
+          "pagina": 68
+        },
+        {
+          "item": "Fortalecer la participación empresarial",
+          "clasificacion": "GENERICO",
+          "pagina": 68
+        }
+      ],
+      "tally": "7 de 8 ítems pasan el test de concreción",
+      "nota": null
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la contradicción entre ampliar acceso y productividad energética y, a la vez, reducir emisiones y vulnerabilidad. La propuesta la aborda mediante pactos regionales que integran mitigación, adaptación, financiamiento y seguimiento, sin abandonar a hogares y territorios rezagados.",
+      "filtro_categoria_primaria": "El objeto es transformar el sistema energético mediante acceso universal, renovables, eficiencia y resiliencia; MRV, financiamiento e instituciones son instrumentos. Por ello prima #6 sobre #11.",
+      "secundaria_obligatoria": "#11 habilita la ejecución mediante coordinación multisectorial, Unidad de Coordinación Energética fortalecida, capacidades TOPP, MRV, planes, información y financiamiento.",
+      "justificacion_anti_copia": "La clasificación se ancla en cinco pactos aprobados por el Consejo de Ministros de Energía del SICA, en las metas de 65% y 75% de renovables y en acciones para sistemas aislados, estufas mejoradas, reglamentos, resiliencia y fondos climáticos.",
+      "validacion_anclas": "Se contrasta con Doc20, «Impactos económicos del cambio climático en Colombia. Síntesis»: ambos tienen el cambio climático como objeto y las capacidades estatales como medio; este documento se distingue por su alcance SICA, sus pactos energéticos y su estructura ODS 7."
+    },
+    "tipo_documento_climatico": "Documento técnico regional de diagnóstico y propuesta de política energética climática",
+    "nivel_aplicacion": "Regional: países del SICA, con efectos nacionales y subnacionales en comunidades rurales y sistemas energéticos",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

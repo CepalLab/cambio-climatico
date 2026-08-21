@@ -1,0 +1,622 @@
+{
+  "documento": {
+    "num_muestra": 142,
+    "titulo": "Aumento de la ambición en la adaptación al cambio climático en América Latina y el Caribe: necesidad de métricas comunes",
+    "autoria": "Patricio Bofill",
+    "handle": "https://hdl.handle.net/11362/47729",
+    "simbolo": null,
+    "isbn": null,
+    "fecha": "2021-01",
+    "tipo_documento": "Documento de proyecto o estudio técnico",
+    "paginas_cuerpo": 89,
+    "paginas_totales": 99,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cómo puede América Latina y el Caribe aumentar la ambición de la adaptación al cambio climático mediante métricas comunes que sean comparables regionalmente, pertinentes para cada contexto y útiles para orientar políticas, financiamiento y reducción de vulnerabilidad?",
+    "alcance": {
+      "ambito_aplicacion": "América Latina y el Caribe, con análisis regional y referencias a países, sectores y grupos subregionales.",
+      "referentes_dependencias": "Acuerdo de París, CMNUCC, IPCC, IPBES, COP25, NDC, ND-GAIN, World Risk Index, Global Climate Risk Index, DARA, Marco de Sendai y ODS.",
+      "sectorial": "Adaptación climática; recursos hídricos; agricultura; biodiversidad; salud; energía; transporte; infraestructura; costas; gestión del riesgo; monitoreo y evaluación.",
+      "temporal": "Evidencia histórica y proyecciones climáticas, compromisos hasta 2030 y diseño de una agenda regional de mediano plazo."
+    },
+    "hallazgos_principales": [
+      "Los riesgos climáticos seguirán aumentando aun con una mitigación ambiciosa, por lo que la adaptación requiere mayor esfuerzo y capacidad de seguimiento.",
+      "Los impactos y vulnerabilidades regionales son heterogéneos y afectan agua, costas, biodiversidad, salud, agricultura, energía e infraestructura.",
+      "Las NDC y las métricas existentes presentan diferencias de conceptos, escalas, indicadores, líneas base y disponibilidad de información.",
+      "Una métrica común debe combinar comparabilidad regional con especificidad geográfica, política, cultural, social y sectorial.",
+      "El plan propuesto avanza desde conceptos y objetivos comunes hacia sectores priorizados, indicadores nacionales y una priorización regional, con gobernanza multiactor."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La adaptación no puede medirse con una unidad única equivalente a la usada para mitigación; requiere indicadores vinculados a contexto, vulnerabilidad, resiliencia y efectividad.",
+        "La región cuenta con experiencias e índices útiles, pero no con una metodología común suficientemente acordada para comparar avances sin perder pertinencia.",
+        "La construcción de métricas comunes debe ser gradual, participativa y articulada con NDC, financiamiento, transparencia y planificación sectorial."
+      ],
+      "recomendaciones": [
+        "Acordar conceptos generales, sectores y requisitos mínimos para indicadores y métricas en una instancia regional.",
+        "Definir objetivos comunes y realizar en cada país la identificación de sectores, subsectores, información disponible e indicadores propuestos.",
+        "Priorizar regionalmente un subconjunto de métricas y establecer una gobernanza con impulsor, comité director, comité de adaptación, academia, reuniones periódicas y seguimiento."
+      ],
+      "nota": "Las recomendaciones se consolidan desde la sección IV, especialmente el cuadro de etapas y la sección de implementación; no se usan materiales editoriales ni bibliografía como recomendaciones propias."
+    },
+    "resumen_narrativo": "El documento parte de una paradoja: los compromisos actuales no bastan para evitar impactos climáticos crecientes, pero la adaptación es mucho más difícil de comparar que la mitigación porque depende del contexto y de la vulnerabilidad. Revisa impactos regionales, NDC, compromisos y diversos índices para mostrar que existen datos y experiencias, aunque con conceptos, escalas y capacidades estadísticas heterogéneas. Su propuesta es construir métricas comunes mediante etapas que comienzan con definiciones y objetivos compartidos, pasan por la priorización sectorial nacional y terminan en una selección regional. El cierre añade una gobernanza concreta, con comités, academia, reuniones periódicas, tareas nacionales y seguimiento."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "11-14",
+      "resumen": "La introducción sitúa el problema en la aceleración del calentamiento global, la degradación de los ecosistemas y la insuficiencia de los compromisos nacionales para cumplir el Acuerdo de París. Explica que, incluso con una mitigación ambiciosa, los riesgos para salud, medios de vida, seguridad alimentaria, agua y crecimiento seguirán aumentando, por lo que la adaptación debe ganar escala y ambición. El documento propone entender esa ambición en varios niveles de gobierno, junto con el sector privado y la sociedad civil, y plantea que la adaptación requiere políticas fuertes y métricas capaces de hacer visible el avance.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Este nivel de emisiones no limitaría el calentamiento global a 1.5°C antes del final del siglo, llevándonos más bien en una trayectoria a un aumento de 3°C.",
+          "pagina": 11
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Mecanismo de ambición del Acuerdo de Paris",
+          "nivel": 2,
+          "paginas": "12-13",
+          "resumen": "El apartado describe el objetivo térmico del Acuerdo de París, el papel de las NDC y el ciclo quinquenal de actualización que debe elevar progresivamente la ambición. También vincula las nuevas NDC con estrategias de largo plazo de desarrollo bajo en emisiones y con objetivos de carbono neutralidad, subrayando que el cambio exige transformaciones tecnológicas, sociales y financieras en toda la economía.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "El Acuerdo de París estableció un ciclo de cinco años para la comunicación de las NDC, con un aumento del nivel de ambición en cada una de sus siguientes versiones",
+              "pagina": 12
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "B. Marco de transparencia mejorado en el Acuerdo de París y adaptación",
+              "nivel": 3,
+              "paginas": "13",
+              "resumen": "El marco reforzado de transparencia exige reportar avances, impactos, resiliencia, efectividad, resultados y sistemas de monitoreo y evaluación. El texto enumera principios de transparencia, exactitud, integridad, consistencia y comparabilidad, pero observa que la CMNUCC no ha definido una metodología única para responder a las exigencias de adaptación. Esa ausencia fundamenta la búsqueda de métricas comunes sin borrar las diferencias nacionales.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "Si bien las exigencias son grandes, no existe una metodología única propuesta por la CMNUCC sobre el como responder a los puntos mencionados.",
+                  "pagina": 13,
+                  "subtipo_brecha": "prospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "C. COP 25 y el aumento de ambición climática",
+              "nivel": 3,
+              "paginas": "14",
+              "resumen": "El apartado presenta la COP25 bajo presidencia chilena como una oportunidad política para elevar la ambición regional. Contrasta la métrica común de mitigación, expresada en toneladas de CO2 equivalente, con la dificultad de comparar adaptación, que depende de contextos geográficos, políticos, culturales y sociales. La conclusión es que una métrica común debe ser útil sin convertir la adaptación en una medida descontextualizada.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "en materia de adaptación al cambio climático determinar el nivel de adaptación es bastante complejo, en gran medida porque no existe una métrica única y directa",
+                  "pagina": 14
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "I. Identificación de impactos",
+      "nivel": 1,
+      "paginas": "15-40",
+      "resumen": "Esta parte revisa los escenarios climáticos futuros y los principales impactos observados y proyectados en América Latina y el Caribe. Ordena la evidencia por zonas climáticas, temperatura, precipitaciones, nivel del mar, costas, recursos hídricos, biodiversidad, energía, salud, agricultura, pesca y asentamientos. El argumento transversal es que la exposición y la vulnerabilidad son heterogéneas, de modo que la adaptación necesita información espacial y sectorial comparable, pero no puede reducirse a una lectura uniforme de la región.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Escenarios climáticos futuros de América Latina y el Caribe",
+          "nivel": 2,
+          "paginas": "15-20",
+          "resumen": "El apartado explica la clasificación climática histórica y los cambios proyectados para la región. Presenta desplazamientos de zonas climáticas, aumentos de temperatura y modificaciones de precipitación bajo distintos escenarios, con efectos diferenciados entre Sudamérica, México y el Caribe. La sección funciona como base física para interpretar los riesgos y para identificar qué sectores y territorios requieren medición de adaptación.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "En las siguientes páginas se abordará en profundidad como el cambio climático está afectando a la región de Latinoamérica y el Caribe",
+              "pagina": 15
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "1. Descripción de zonas climáticas históricas",
+              "nivel": 3,
+              "paginas": "15-17",
+              "resumen": "La descripción histórica establece una línea de base espacial para comparar las zonas climáticas de América Latina y el Caribe. La clasificación permite reconocer la diversidad de climas, la distribución de ecosistemas y la exposición diferenciada de los territorios antes de evaluar cambios futuros. Su función analítica es evitar que una métrica regional oculte variaciones locales que condicionan la vulnerabilidad y la adaptación.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Descripción de zonas climáticas históricas",
+                  "pagina": 15
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Cambios climáticos en América Latina",
+              "nivel": 3,
+              "paginas": "17-20",
+              "resumen": "El texto examina cambios proyectados en temperatura, precipitación y distribución de zonas climáticas. Los escenarios muestran que la transformación no será homogénea y que sus efectos se acumulan con condiciones ambientales y sociales preexistentes. Por ello, la identificación de impactos debe conservar referencias territoriales y temporales suficientemente precisas para orientar respuestas sectoriales.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "Se han evidenciado una serie de cambios y fenómenos físicos, provocados por el cambio climático que son observables en la actualidad dentro de la región",
+                  "pagina": 17
+                },
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Tal como se observa en el diagrama 1 existe una tendencia general en América Latina de aumento de temperaturas y de variaciones en los patrones de precipitación para las distintas regiones del territorio.",
+                  "pagina": 18
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "B. Impactos del cambio climático en América Latina y el Caribe",
+              "nivel": 3,
+              "paginas": "21-43",
+              "resumen": "La sección reúne evidencia de impactos sobre agua, costas, infraestructura portuaria, biodiversidad, salud, agricultura, ganadería, pesca y energía. Describe tanto daños ya observados como riesgos proyectados, incluyendo ascenso del nivel del mar, cambios en oleaje y erosión, retroceso de glaciares, alteración de rendimientos agrícolas y expansión de enfermedades. El conjunto muestra que la adaptación debe medir resultados en múltiples sectores y escalas, y que la vulnerabilidad combina exposición física, población afectada y capacidades disponibles. Además, el apartado conecta la evidencia física con la vulnerabilidad social y económica: las mismas amenazas producen consecuencias distintas según población expuesta, capacidad de respuesta, infraestructura y disponibilidad de información. La revisión de agua, costas, biodiversidad, salud, agricultura, energía y asentamientos muestra por qué una agenda regional necesita indicadores comparables, pero también módulos sectoriales y territoriales que permitan interpretar los resultados sin perder el contexto. La sección además explica que una falta de priorización se asocia directamente con la falta de una métrica común y que las acciones de los distintos sectores no son comparables; por eso la métrica debe servir para decidir dónde concentrar esfuerzos y cómo interpretar resultados. El recorrido abarca impactos hidrológicos, costeros, ecológicos, sanitarios, productivos y energéticos, incluyendo cambios de caudales, ascenso del mar, erosión, pérdida de hielo, alteraciones de cultivos, amenazas a la salud y daños a infraestructura. La diversidad de efectos impide que un único indicador físico represente por sí mismo la adaptación. Se requiere vincular exposición y vulnerabilidad con capacidades, medidas ejecutadas, resultados observables y distribución territorial, de modo que la comparación regional apoye decisiones nacionales y sectoriales. La evidencia también muestra que las medidas pueden ser apropiadas en un lugar y menos pertinentes en otro, por lo que la métrica común debe documentar supuestos y márgenes de incertidumbre. En recursos hídricos se observan cambios en caudales y disponibilidad; en costas, ascenso del nivel del mar, erosión y modificaciones del oleaje; en biodiversidad y ecosistemas, desplazamientos y pérdida de condiciones favorables; en salud, cambios en riesgos y enfermedades; en agricultura, variación de rendimientos y aptitud; y en energía e infraestructura, amenazas a la continuidad de servicios. La revisión no presenta estos sectores como una lista indiferenciada: cada uno requiere líneas base, escalas de observación y medidas de resultado propias. Esta especificidad explica la necesidad de un marco común que ordene definiciones y formatos, pero permita que los indicadores nacionales reflejen exposición, sensibilidad, capacidad adaptativa y prioridades locales. La información debe servir tanto para identificar impactos actuales como para anticipar cambios proyectados y evaluar si las medidas reducen efectivamente la vulnerabilidad.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "A continuación, se describen los principales impactos del cambio climático observados para las áreas de recursos hídricos, biodiversidad de sistemas acuáticos y terrestres, energías renovables, salud humana, sistemas costeros y producción y seguridad alimentaria.",
+                  "pagina": 22
+                },
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "La revisión bibliográfica de las medidas evidencia una constante a lo largo del informe, el cual es una falta de priorización respecto a que medidas son las más relevantes",
+                  "pagina": 43
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1. Marco conceptual y discusión alrededor de métricas generales",
+              "nivel": 3,
+              "paginas": "21-22",
+              "resumen": "El marco conceptual explica que riesgo, vulnerabilidad, exposición y peligrosidad son conceptos relacionados pero no equivalentes. Revisa definiciones sucesivas del IPCC y muestra que la selección de variables cambia según la comunidad científica y el uso cuantitativo del concepto. Esta diversidad conceptual dificulta comparar índices y justifica acordar definiciones antes de construir métricas regionales.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Actualmente se manejan múltiples y distintos conceptos de riesgo, vulnerabilidad, exposición y peligrosidad relacionados a los impactos de cambio climático, que son las variables asociadas a la caracterización de los impactos del cambio climático",
+                  "pagina": 21
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Principales impactos del cambio climático",
+              "nivel": 3,
+              "paginas": "22-43",
+              "resumen": "La sección describe impactos observados y proyectados en recursos hídricos, biodiversidad, energías renovables, salud, sistemas costeros, producción y seguridad alimentaria. Detalla cambios en caudales, nivel del mar, oleaje, erosión, glaciares, rendimientos agrícolas, enfermedades y daños a infraestructura. La evidencia muestra que las medidas de adaptación pueden variar por sector y territorio, y que sin métricas comunes resulta difícil priorizar acciones, comparar sus resultados o concentrar esfuerzos donde son más relevantes. El análisis detalla impactos observados y proyectados en recursos hídricos, biodiversidad, energía, salud, costas, producción y seguridad alimentaria. Considera cambios en caudales y precipitaciones, ascenso del nivel del mar, erosión y oleaje, retroceso de glaciares, efectos sobre rendimientos agrícolas y riesgos sanitarios, además de daños a infraestructura y asentamientos. La evidencia se presenta con diferencias territoriales y sectoriales porque la exposición no es igual en toda la región y porque las capacidades de respuesta también varían. Por eso, la identificación de impactos debe combinar indicadores físicos con información sobre población, medios de vida, servicios, sensibilidad y capacidad adaptativa. Esta base permite priorizar medidas, comparar resultados y diseñar métricas que no confundan una acción realizada con una reducción efectiva de vulnerabilidad. También muestra que las medidas deben evaluarse contra líneas base y horizontes temporales explícitos, considerando incertidumbres y efectos distributivos.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Tal como se observa en el diagrama 2, el riesgo de los impactos relacionados al clima proviene de la acción conjunta entre los peligros conexos al clima, la vulnerabilidad de los sistemas humanos y naturales y la exposición de dichos sistemas a los impactos del cambio climático.",
+                  "pagina": 22
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "II. Adaptación al cambio climático, compromisos y medidas",
+      "nivel": 1,
+      "paginas": "41-68",
+      "resumen": "Esta parte conecta los impactos identificados con los compromisos de adaptación de los países. Revisa contenidos de las NDC, metas, sectores priorizados, medidas de adaptación y avances en la actualización de compromisos. El análisis muestra una expansión de referencias a adaptación, pero también diferencias de cobertura, precisión y comparabilidad entre países; esas brechas dificultan seguir el progreso colectivo y justifican un lenguaje común de indicadores y métricas.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. NDCs y adaptación al cambio climático",
+          "nivel": 2,
+          "paginas": "44-68",
+          "resumen": "El apartado compara cómo los países de América Latina y el Caribe incorporan adaptación en sus NDC. Identifica objetivos, sectores, medidas, horizontes temporales, indicadores y vínculos con planes nacionales, y registra que la información no tiene el mismo nivel de detalle ni la misma estructura. La comparación sirve para reconocer compromisos existentes y para señalar qué elementos deberían armonizarse antes de construir una métrica común.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Las NDC representan el compromiso y la contribución de cada país al cumplimiento de las metas del Acuerdo de París.",
+              "pagina": 44
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "1. Análisis general",
+              "nivel": 3,
+              "paginas": "44-56",
+              "resumen": "El análisis general revisa la presencia de adaptación en las NDC y las diferencias entre compromisos nacionales. Considera sectores como agricultura, agua, biodiversidad, salud, infraestructura y gestión de riesgos, y observa que los documentos combinan diagnósticos, objetivos y medidas con distintos grados de especificidad. La heterogeneidad limita la comparación directa y exige criterios compartidos para describir avances y necesidades. La revisión cuantifica la presencia de adaptación en las NDC, identifica la proporción de metas cualitativas y muestra que pocos compromisos incluyen costos o metas de mediano y largo plazo. También enumera sectores frecuentes y países examinados, ofreciendo una base concreta para armonizar información.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Las NDC representan el compromiso y la contribución de cada país al cumplimiento de las metas del Acuerdo de París.",
+                  "pagina": 44
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Compromisos y metas",
+              "nivel": 3,
+              "paginas": "57-65",
+              "resumen": "El apartado examina metas cuantitativas y cualitativas, sus horizontes y su relación con sectores y poblaciones vulnerables. Señala que algunas metas permiten seguir productos o cobertura, mientras otras expresan aspiraciones sin línea base, indicador o plazo comparable. La medición común debe distinguir esos niveles para no confundir la existencia de un compromiso con su implementación efectiva. El texto observa que los compromisos suelen expresarse mediante planes sectoriales y metas cualitativas, aunque algunos países emplean métricas y datos existentes para formular metas más concretas. Esta diferencia es relevante para decidir qué puede agregarse regionalmente y qué debe mantenerse como información contextual.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "El análisis muestra que la mayor parte de los países ha reflejado sus compromisos en materia de adaptación a través del establecimiento de planes de adaptación sectoriales según los sectores prioritarios identificados en cada país y metas altamente cualitativas.",
+                  "pagina": 59
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Actualización de las NDC",
+              "nivel": 3,
+              "paginas": "65-68",
+              "resumen": "La actualización de las NDC aparece como una oportunidad para mejorar la calidad de los compromisos y acercarlos a las exigencias del Acuerdo de París. El texto plantea incorporar información más clara sobre impactos, medidas, seguimiento y resultados, y reforzar el vínculo entre NDC, políticas nacionales y planificación sectorial. La actualización también puede abrir un espacio de coordinación regional alrededor de conceptos y formatos comunes.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "La CMNUCC llamó a los países miembros de la convención a presentar la actualización de sus NDC aumentando la ambición climática de los compromisos",
+                  "pagina": 66
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Al 2026 se habrá fortalecido el sistema de evaluación y monitoreo vigente, a través de indicadores de progreso e impacto para todos los instrumentos de adaptación al cambio climático",
+                  "pagina": 66
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "III. Métricas comunes para la adaptación al cambio climático",
+      "nivel": 1,
+      "paginas": "69-80",
+      "resumen": "El capítulo central define el problema de medir adaptación y revisa enfoques existentes. Distingue adaptación de mitigación, explica dificultades de atribución, temporalidad, línea base y contexto, y compara métricas, índices de fuente abierta, marcos universales y sistemas de monitoreo y evaluación. La conclusión metodológica es que una métrica común debe combinar comparabilidad regional con especificidad territorial, sectorial y social, y debe apoyar decisiones, financiamiento y aprendizaje, no solo producir rankings.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Adaptación versus mitigación",
+          "nivel": 2,
+          "paginas": "71-72",
+          "resumen": "El apartado diferencia la mitigación, que puede expresarse con una unidad física relativamente común, de la adaptación, cuyos resultados dependen del riesgo, el contexto y la vulnerabilidad. Esa diferencia explica por qué no basta trasladar a adaptación la lógica de toneladas de CO2 equivalente. La comparación orienta el diseño de métricas que midan reducción de impactos, resiliencia y efectividad de medidas.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Estos dos principios de aplicabilidad universal y efecto uniforme permiten que los resultados de mitigación puedan ser agregados y comparados a nivel global.",
+              "pagina": 71
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "B. Dificultades para medir la adaptación",
+              "nivel": 3,
+              "paginas": "72-73",
+              "resumen": "La medición enfrenta problemas de definición, escalas, líneas base, atribución y disponibilidad de información. También debe distinguir entre acciones realizadas, resultados intermedios y reducción efectiva de vulnerabilidad, además de reconocer que una misma medida puede producir beneficios y efectos no deseados. El texto advierte que la comparabilidad no debe eliminar la especificidad de cada país, sector o población.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Los impactos climáticos se desarrollan de manera diferente de un lugar a otro y de un momento a otro",
+                  "pagina": 72
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "C. Métricas de adaptación",
+              "nivel": 3,
+              "paginas": "73-74",
+              "resumen": "Aquí se presentan métricas e indicadores como instrumentos para seguir acciones, resultados y cambios en vulnerabilidad. Se enfatiza que deben ser pertinentes para la decisión, verificables, cuantificables cuando corresponda y capaces de combinar información biofísica, social, institucional y financiera. La selección debe responder a objetivos explícitos y a la información disponible en cada país.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Las métricas de adaptación en el marco de la CMNUCC han evolucionado considerablemente en los últimos veinte años, desde la medición del grado de vulnerabilidad de los países, al monitoreo y evaluación de la adaptación a nivel de proyecto, sectorial y nacional",
+                  "pagina": 73
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "D. Índices de fuente abierta",
+              "nivel": 3,
+              "paginas": "74-76",
+              "resumen": "El apartado revisa índices internacionales de riesgo y adaptación, incluidos CRI, World Risk Index, ND-GAIN, estimaciones del Centro Global de Desarrollo y Climate Vulnerability Monitor de DARA. Estos instrumentos facilitan comparaciones y ofrecen datos accesibles, pero usan conceptos, variables y ponderaciones distintas. Por tanto, pueden servir como insumos, no como sustitutos automáticos de una métrica regional acordada.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "A continuación, se analizan brevemente cinco índices de fuente abierta, que han tratado de medir las distintas componentes asociadas al riesgo climático con una perspectiva global.",
+                  "pagina": 74
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1. Global Climate Risk Index (CRI)",
+              "nivel": 3,
+              "paginas": "74",
+              "resumen": "El CRI se presenta como una herramienta comparativa basada en impactos y pérdidas asociados a eventos climáticos. Su utilidad está en ordenar información histórica y llamar la atención sobre países afectados, pero su lectura depende del período, las variables y la calidad de los registros. No mide por sí solo la efectividad de políticas de adaptación ni la vulnerabilidad futura.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Este índice busca analizar el nivel de afectación de los países debido a impactos relacionados con eventos climáticos.",
+                  "pagina": 74
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. World Risk Index",
+              "nivel": 3,
+              "paginas": "74-75",
+              "resumen": "El World Risk Index combina exposición, susceptibilidad y capacidades de afrontamiento para representar el riesgo. El documento lo usa como ejemplo de índice compuesto que permite una mirada regional, aunque sus componentes agregados pueden ocultar diferencias subnacionales y sectoriales. Su incorporación a una métrica común requeriría revisar conceptos, escalas y fuentes.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "El índice busca identificar la posibilidad con la que un país pueda ser afectado por un desastre o eventos extremos.",
+                  "pagina": 74
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. The Global Adaptation Index (ND-GAIN)",
+              "nivel": 3,
+              "paginas": "75",
+              "resumen": "ND-GAIN se describe como un índice que relaciona vulnerabilidad y preparación. Su ventaja es acercarse a la capacidad de adaptación además de la exposición, mientras que su límite es que la agregación de numerosos indicadores no necesariamente identifica qué acción concreta reduce un riesgo particular. El índice es una referencia metodológica, no una respuesta completa al desafío regional.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "El indicador permite establecer un ranking de los países en base a los componentes de vulnerabilidad y predisposición utilizando 50 indicadores.",
+                  "pagina": 75
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Cuantificación de Vulnerabilidad según el centro global de desarrollo",
+              "nivel": 3,
+              "paginas": "75",
+              "resumen": "Este enfoque cuantifica vulnerabilidad mediante dimensiones e indicadores comparables entre países. La revisión permite discutir cómo sintetizar información sobre impactos, sensibilidad y capacidad, pero mantiene la cautela sobre la disponibilidad y la pertinencia de datos para todos los territorios. El aporte principal es mostrar alternativas de operacionalización de vulnerabilidad.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "indicador de vulnerabilidad al cambio climático",
+                  "pagina": 75
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Climate Vulnerability Monitor of DARA",
+              "nivel": 3,
+              "paginas": "75-76",
+              "resumen": "El monitor de DARA se incorpora como otra fuente para visualizar impactos y vulnerabilidad climática. Su comparación con los demás índices muestra que no existe una única manera de seleccionar variables, ponderar dimensiones o traducir evidencia en una puntuación. La construcción regional debe explicitar esos criterios y validar su utilidad con los países.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Se utilizan 4 sub índices para medir los efectos del clima o de la economía del carbono",
+                  "pagina": 75
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "E. Métricas universales",
+              "nivel": 3,
+              "paginas": "76-77",
+              "resumen": "El apartado discute la posibilidad de métricas universales y sus ventajas y desventajas. Una medida compartida puede facilitar comunicación, acceso a financiamiento, transparencia y seguimiento del objetivo mundial de adaptación, pero puede perder relevancia si no incorpora contexto. El criterio recomendado es combinar un núcleo común con módulos adaptables a sectores, territorios y capacidades estadísticas.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "sin una métrica común para medir la adaptación al cambio climático es muy difícil promover los distintos vehículos de financiamiento existentes",
+                  "pagina": 76
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "F. Otros marcos de referencia",
+              "nivel": 3,
+              "paginas": "77-78",
+              "resumen": "Se revisan marcos como los objetivos de desarrollo sostenible, el Marco de Sendai y otros sistemas de indicadores. Estos aportan conceptos, metas y experiencias para medir riesgo, resiliencia y reducción de impactos, pero responden a finalidades institucionales diferentes. El documento los considera piezas que pueden alinearse en una arquitectura regional de medición.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "En este contexto es interesante mirar los indicadores establecidos en el marco de los Objetivos de Desarrollo Sostenible (ODS) y del Marco de Sendai.",
+                  "pagina": 77
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "G. Monitoreo y evaluación - América Latina y el Caribe",
+              "nivel": 3,
+              "paginas": "79-80",
+              "resumen": "El cierre del capítulo conecta métricas con monitoreo y evaluación en la región. Propone que los sistemas sigan planificación, ejecución, resultados y aprendizaje, y que la información sea útil para políticas nacionales y coordinación regional. La evaluación debe considerar cambios en resiliencia, impactos evitados, efectividad y suficiencia de las medidas, con transparencia sobre límites y supuestos.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "La mayor parte de los países de la región tienen sus sistemas de monitoreo y evaluación bastante avanzado a nivel de gobernanza",
+                  "pagina": 79
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Conclusiones preliminares y elementos para considerar en una mesa de trabajo",
+      "nivel": 1,
+      "paginas": "81-89",
+      "resumen": "El capítulo final sintetiza los hallazgos y traduce la revisión en un plan de trabajo regional. Reconoce la diversidad de métricas, la importancia del contexto y la necesidad de reducir vulnerabilidad, y propone avanzar por etapas: conceptos comunes, objetivos, sectores priorizados, análisis sectorial y priorización regional. También define una posible gobernanza con país u organismo impulsor, comité director, comité de adaptación, academia e instancias de participación, junto con reuniones y tareas concretas.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "estos servirán de antecedentes en la formulación de los elementos a considerar al abordar el desafío de trabajar en torno al desarrollo de una métrica común de adaptación para la región",
+          "pagina": 81
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Hallazgos del estudio",
+          "nivel": 2,
+          "paginas": "81-83",
+          "resumen": "Los hallazgos establecen que existe una gran diversidad de métricas e indicadores y que una métrica común debe ser general sin perder la relevancia del contexto. También señalan que la adaptación se entiende de manera distinta entre países, que la información disponible es desigual y que el objetivo transversal es reducir vulnerabilidad. El apartado funciona como puente entre la evidencia revisada y la agenda de diseño regional.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Existe una diversidad muy grande de métricas e indicadores para la adaptación al cambio climático, dentro del mundo y la región.",
+              "pagina": 81
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "B. Elementos para considerar en el desarrollo de un plan de trabajo regional",
+              "nivel": 3,
+              "paginas": "83-87",
+              "resumen": "Esta sección propone un itinerario operativo. Primero plantea acordar conceptos, alcance sectorial y requisitos de indicadores; luego definir objetivos ligados a financiamiento, transparencia, ambición climática y reducción de vulnerabilidad; después identificar sectores y subsectores prioritarios por país, levantar información disponible, formular indicadores y finalmente priorizar un subconjunto útil para toda la región. La propuesta incorpora salud como posible elemento transversal y exige equilibrar acuerdos regionales con decisiones nacionales.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "A partir de este trabajo cada país deberá establecer una propuesta de indicadores y/o métricas a utilizar para cada uno de los sectores identificados.",
+                  "pagina": 86
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "C. Implementación de las etapas",
+              "nivel": 3,
+              "paginas": "87-89",
+              "resumen": "El apartado define condiciones de puesta en marcha: validar la propuesta con gobiernos e interesados, identificar un impulsor y establecer una gobernanza representativa. Propone un comité director de cuatro o cinco países, un comité ampliado de adaptación, participación activa de la academia y aprovechamiento de COP, sesiones intermedias y comunidades de práctica. También precisa reuniones mensuales o trimestrales, agendas anticipadas, tareas nacionales, seguimiento y apoyo neutral, por lo que constituye la sección normativa central del documento.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Formar un “comité director” representado por 4-5 países representativos de la región",
+                  "pagina": 88
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento propone un paquete coordinado de métricas, financiamiento, transparencia, planificación sectorial y gobernanza para aumentar la adaptación, pero no desarrolla un programa de inversión masiva con sectores estratégicos de transición ni articula las tres eficiencias del Gran Impulso Ambiental.",
+      "citas": [
+        {
+          "cita": "El mensaje que se extrae del informe del IPCC es, por lo tanto, que para limitar los peores impactos del clima de cambio en los ecosistemas y en los seres humanos, se necesita una acción mucho más ambiciosa a todos los niveles del gobierno, el sector privado y la sociedad civil",
+          "pagina": 12
+        }
+      ],
+      "nota": "Parcial por paquete de coordinación y política climática sin paquete de inversión transformadora que satisfaga los tres tests."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "La sección final nombra una gobernanza dentro del ámbito regional: impulsor, comité director, comité de adaptación, academia y grupos de negociación, con funciones, composición, frecuencia de reuniones, tareas y apoyo neutral.",
+      "citas": [
+        {
+          "cita": "Formar un “comité director” representado por 4-5 países representativos de la región",
+          "pagina": 88
+        },
+        {
+          "cita": "El grupo de trabajo ampliado debiese juntarse cada 3 meses por dos días completos",
+          "pagina": 89
+        }
+      ],
+      "nota": "El mecanismo está propuesto para América Latina y el Caribe, no solo descrito como referente externo."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "El documento enumera sectores afectados y priorizados, pero no los desarrolla como oportunidades productivas sostenibles vinculadas de manera suficiente con empleo, productividad o desigualdad. El vínculo central es adaptación, medición y reducción de vulnerabilidad.",
+      "citas": [
+        {
+          "cita": "se deberán identificar los subsectores más vulnerables o de mayor impacto",
+          "pagina": 86
+        }
+      ],
+      "nota": "Los sectores son objeto de priorización adaptativa, no una cartera productiva con vínculo distributivo desarrollado."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "La voz normativa del cierre presenta una secuencia completa de etapas y una gobernanza operativa con objetos, responsables, composición y frecuencias identificables.",
+      "citas": [
+        {
+          "cita": "A partir de este trabajo cada país deberá establecer una propuesta de indicadores y/o métricas a utilizar para cada uno de los sectores identificados.",
+          "pagina": 86
+        },
+        {
+          "cita": "Formar un “comité director” representado por 4-5 países representativos de la región",
+          "pagina": 88
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Definir conceptos, sectores y requisitos comunes a nivel regional",
+          "clasificacion": "CONCRETO",
+          "pagina": 85
+        },
+        {
+          "item": "Determinar objetivos de las métricas comunes",
+          "clasificacion": "CONCRETO",
+          "pagina": 85
+        },
+        {
+          "item": "Identificar sectores priorizados por país",
+          "clasificacion": "CONCRETO",
+          "pagina": 86
+        },
+        {
+          "item": "Analizar subsectores e información y formular indicadores nacionales",
+          "clasificacion": "CONCRETO",
+          "pagina": 86
+        },
+        {
+          "item": "Priorizar métricas regionales y poner en marcha gobernanza con comités y reuniones",
+          "clasificacion": "CONCRETO",
+          "pagina": 87
+        }
+      ],
+      "tally": "5 de 5",
+      "nota": "El tally cubre los cinco bloques de acción de la sección final y no fragmenta sub-bullets editoriales."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "La tensión central es entre la intensificación de riesgos climáticos y la dificultad institucional y metodológica para saber si la adaptación reduce vulnerabilidad. El objeto primario es aumentar la ambición adaptativa; las métricas y la gobernanza son medios para hacerla medible y coordinada.",
+      "filtro_categoria_primaria": "La sostenibilidad ambiental es primaria porque impactos, adaptación, resiliencia y reducción de vulnerabilidad organizan todo el documento y su propuesta de cierre.",
+      "secundaria_obligatoria": "Las capacidades del Estado son secundarias porque el texto requiere NDC consistentes, sistemas de monitoreo, información comparable, coordinación entre ministerios y una gobernanza regional operativa.",
+      "justificacion_anti_copia": "No es #11 primaria: comités, indicadores y transparencia aparecen como arquitectura habilitante de una agenda de adaptación, no como objeto autónomo de reforma estatal. Tampoco es #10: el financiamiento es un objetivo de las métricas, no el tema rector.",
+      "validacion_anclas": "Contraste con el ID 11362/47676, “Soluciones basadas en la naturaleza...”: en ambos la sostenibilidad ambiental es el objeto climático, pero aquí la medición y gobernanza son instrumentos explícitos. Se separa de la ancla institucional #11/#6 de “Panorama de la Gestión Pública 2023” porque este documento centra su pregunta en adaptación y métricas, no en capacidades estatales generales."
+    },
+    "tipo_documento_climatico": "Documento técnico de diagnóstico regional y propuesta metodológica para métricas de adaptación.",
+    "nivel_aplicacion": "Regional (América Latina y el Caribe), con implementación nacional y coordinación subregional.",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

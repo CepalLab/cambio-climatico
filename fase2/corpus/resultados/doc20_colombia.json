@@ -1,0 +1,752 @@
+{
+  "documento": {
+    "num_muestra": 20,
+    "titulo": "Impactos económicos del cambio climático en Colombia. Síntesis",
+    "autoria": null,
+    "handle": "https://hdl.handle.net/11362/37879",
+    "simbolo": "LC/L.3851",
+    "isbn": "9789588340784",
+    "fecha": "2015",
+    "tipo_documento": "Monografía / Síntesis de estudio de impactos económicos",
+    "paginas_cuerpo": 158,
+    "paginas_totales": 162,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "Cuáles son los impactos económicos del cambio climático en Colombia, en qué sectores y regiones son más severos, y qué medidas de adaptación pueden reducir sus costos?",
+    "alcance": {
+      "ambito_aplicacion": "Colombia, con análisis a nivel nacional, sectorial y regional (cuencas del río Guavio, río Fraile y laguna de Fúquene)",
+      "referentes_dependencias": "BID (coautor y financiador), CEPAL (coautora técnica), IPCC (escenarios de emisiones), IDEAM (datos climáticos), WorldClim y MCG (modelos climáticos), FAO (datos pesqueros y forestales)",
+      "sectorial": "Multisectorial: ganadería, agricultura, sector forestal, pesca, transporte, recurso hídrico, especies nativas de biocomercio",
+      "temporal": "Prospectivo, con proyecciones de 2011 a 2100 bajo tres escenarios climáticos (A1B, A2, B1/B2) y análisis histórico de 1980-2010 para eventos extremos"
+    },
+    "hallazgos_principales": [
+      "El impacto agregado del cambio climático en la economía colombiana sería negativo: pérdidas anuales del PIB del 0,49% en promedio entre 2011 y 2100, equivalentes a perder entre 3,6 y 3,7 veces el valor del PIB de 2010 (p.151-152).",
+      "Los sectores más afectados serían agricultura (reducción del 7,4% en rendimientos anuales), ganadería (pérdida del 1,6% en producción de carne y leche) y transporte carretero (vías cerradas el 5,9% del tiempo por deslizamientos) (pp.152-154).",
+      "Los hogares más pobres verían reducida su capacidad de consumo en mayor magnitud, dado que sectores impactados como agricultura y pesca generan aumentos en los precios de los alimentos donde los hogares pobres gastan proporcionalmente más (p.152).",
+      "Aumentos del 20% en la tasa de muertos, heridos y afectados por desastres de origen climático se asocian a caídas del PIB de largo plazo del 1,5%; una reducción del 20% de la población en riesgo generaría una reducción del 4,5% en esa tasa (p.154-155).",
+      "La inversión pública en gestión de riesgo de desastres es costo-efectiva: si se aumentara al 1% del gasto público actual, se esperaría una reducción del 60% en la tasa de desastres (p.155)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El cambio climático impone retos y oportunidades en el desarrollo económico de Colombia: los cambios graduales en las condiciones climáticas afectarían negativamente la economía vía impactos directos en la productividad de sectores clave e impactos indirectos sobre otros sectores relacionados, con una distribución heterogénea en el nivel territorial y entre poblaciones de distintos ingresos.",
+        "Las entidades líderes de la planeación del desarrollo deben adoptar una visión prospectiva diferenciada por regiones y poblaciones, buscando reducir la vulnerabilidad actual y futura de la economía, la población y los ecosistemas en procesos sinérgicos entre desarrollo sectorial y territorial y gestión ambiental.",
+        "Hacerlo reduciría costos económicos por impactos futuros, aumentaría la productividad del país, aceleraría la lucha contra la pobreza y encaminaría a Colombia en un crecimiento sostenible."
+      ],
+      "recomendaciones": [
+        "Mejorar el conocimiento sobre las relaciones entre clima y productividad de los sectores, fortaleciendo la capacidad de las entidades públicas para capturar, procesar y disponer información climática, ambiental y sectorial que permita la construcción de sistemas de información apropiados para gestionar riesgos asociados al clima.",
+        "Promover la investigación y la generación de conocimiento por parte de los distintos sectores y territorios para tomar decisiones informadas sobre los mecanismos más costo-eficientes para lograr la adaptación.",
+        "Promover el desarrollo económico de los sectores para fortalecer su capacidad de adaptación y reducir los posibles impactos de fenómenos climáticos, evitando procesos de mala adaptación que aumenten la exposición y la sensibilidad.",
+        "Tener presente que el desarrollo económico debe ir de la mano de la gestión ambiental para asegurar la sostenibilidad, conservando estructuras ecológicas principales que permitan a los ecosistemas proveer servicios que reduzcan la vulnerabilidad.",
+        "Generar procesos de ordenamiento territorial fundamentales a la luz del cambio y la variabilidad climática, identificando zonas de riesgo por desastres de origen climático como insumo para políticas de ordenamiento territorial.",
+        "Realizar análisis de riesgo y vulnerabilidad asociados al clima en el sector transporte, partiendo de inventarios detallados de condiciones topográficas y de altimetría de vías y puertos.",
+        "Adecuar la infraestructura para hacerla resiliente, construyendo o adecuando barreras de protección y contando con programas de mantenimiento preventivo.",
+        "Promover la redundancia y robustez del sistema de transporte mediante la construcción de nuevas vías y modos complementarios en zonas de riesgo bajo o con estándares más altos.",
+        "Incluir escenarios de cambio climático en la planeación del desarrollo vial para nueva infraestructura.",
+        "Fortalecer la gobernanza del sector pesquero promoviendo prácticas sostenibles y reduciendo la sobrepesca, con mayor asignación presupuestal a las entidades reguladoras.",
+        "Ampliar el sistema de áreas protegidas marinas y continentales para incluir conectividad entre ecosistemas acuáticos y generar zonas de monitoreo de largo plazo.",
+        "Implementar sistemas de información para la optimización de las operaciones de transporte y fortalecer los sistemas de ayuda a la navegación en aeropuertos.",
+        "Promover la adaptación basada en comunidades en el sector pesquero, incluyendo la creación o fortalecimiento de asociaciones de pescadores y acuerdos comunitarios de pesca.",
+        "Generar alternativas económicas para pescadores artesanales mediante el fortalecimiento de capacidades para ingresos adicionales en actividades de alto potencial en su zona de influencia.",
+        "Incorporar lineamientos de potencial forestal en el ordenamiento territorial, avanzando en la clasificación agroecológica del territorio a la luz del cambio climático.",
+        "Promover el uso eficiente del recurso y aprovechamiento de servicios ecosistémicos en el sector forestal mediante sistemas agroforestales, silvopastoriles y herramientas de manejo del paisaje."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "Este documento de síntesis del Estudio de Impactos Económicos del Cambio Climático (EIECC), liderado por el Departamento Nacional de Planeación de Colombia con financiación del BID y apoyo técnico de la CEPAL, evalúa los potenciales efectos económicos del cambio climático en el país bajo tres escenarios climáticos hasta 2100. Su aporte central es la cuantificación de pérdidas agregadas del PIB (0,49% anual en promedio) y la distribución sectorial y regional de esos impactos, revelando que agricultura, ganadería, pesca y transporte serían los más afectados mientras la silvicultura podría beneficiarse. El documento también demuestra que la inversión en gestión de riesgo de desastres es costo-efectiva —un aumento del gasto público al 1% podría reducir la tasa de desastres en un 60%— y presenta un conjunto extenso de recomendaciones de adaptación por sector (transporte, pesca, forestal) y transversales (información, ordenamiento territorial). El documento no aborda en profundidad la dimensión distributiva de los impactos más allá de señalar que los hogares más pobres serían desproporcionadamente afectados."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Capítulo 1. Introducción",
+      "nivel": 1,
+      "paginas": "7-9",
+      "resumen": "Introduce el problema del cambio climático en Colombia, contextualizando la necesidad del EIECC como proyecto de largo alcance iniciado en 2009 por el DNP en colaboración con el BID y la CEPAL. Presenta los objetivos del estudio: hacer frente al reto de asumir los impactos económicos del cambio climático en el país y avanzar en el conocimiento sobre los posibles efectos en los ámbitos nacional, sectorial y regional.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "El Estudio de Impactos Económicos del Cambio Climático (EIECC) busca mejorar la comprensión sobre las consecuencias en el nivel económico y territorial que el cambio climático puede conllevar.",
+          "pagina": 9
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Capítulo 2. El cambio climático en Colombia",
+      "nivel": 1,
+      "paginas": "13-22",
+      "resumen": "Presenta los resultados de los escenarios de cambio climático para Colombia, con proyecciones de temperatura y precipitación bajo los modelos del IDEAM. Describe los cambios esperados: tendencia creciente y sostenida de la temperatura media en el siglo XXI, disminución de la precipitación en la región Andina, el Caribe y el sur del Pacífico, y aumento en la región amazónica y el Magdalena Medio.",
+      "dimensiones": [
+        {
+          "dimension": "tendencias",
+          "cita": "Por otro lado, las proyecciones indican que el clima seguirá cambiando.",
+          "pagina": 19
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "2.1 Resultados de los escenarios de cambio climático para Colombia",
+          "nivel": 2,
+          "paginas": "16-22",
+      "resumen": "Establece la línea climática del estudio con los escenarios A1B, A2 y B2 del IDEAM respecto de 1971-2000. Registra aumentos observados de 0,5 °C a 1,5 °C en la región Andina y la Sierra Nevada de Santa Marta durante 2001-2010 y proyecta un calentamiento sostenido: 0,5-1,5 °C en la región Andina y la Orinoquía hacia 2011-2040, 2,5-4,5 °C en gran parte del territorio hacia 2041-2070 y hasta 4,5-5,5 °C en valles interandinos al final del siglo. Para la precipitación anticipa reducciones progresivas en la región Andina, el Caribe y el sur del Pacífico —hasta 70% en la Cordillera Oriental y La Guajira—, frente a aumentos de 10-40% en partes de la Amazonía, el litoral Pacífico y el Magdalena Medio. Advierte que la heterogeneidad territorial impide ordenar los escenarios como simplemente optimistas o pesimistas, por lo que el estudio reporta resultados por escenario y promedios multiescenario.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "Las proyecciones indican que el clima seguiría cambiando en el territorio nacional.",
+              "pagina": 16
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "Capítulo 3. Metodología General del Estudio de Impactos Económicos del Cambio Climático",
+      "nivel": 1,
+      "paginas": "23-35",
+      "resumen": "Describe la metodología general del EIECC, incluyendo el modelo MEG4C para la agregación de impactos económicos del cambio climático, la metodología para analizar el impacto económico de eventos extremos, y los alcances y supuestos del análisis.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "3.1 Metodología para analizar el impacto económico del cambio climático",
+          "nivel": 2,
+          "paginas": "25-32",
+          "resumen": "Describe la metodología cuantitativa para evaluar impactos económicos del cambio climático, incluyendo el modelo MEG4C de agregación y los supuestos de modelización.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "a. Metodología para analizar los impactos económicos del cambio climático",
+              "nivel": 3,
+              "paginas": "25-26",
+              "resumen": "Define el procedimiento sectorial que conecta clima y economía. Para ganadería, agricultura, pesca, sector forestal y transporte emplea información climática histórica del IDEAM y sectores representados en Cuentas Nacionales; para recurso hídrico y especies nativas utiliza WorldClim y modelos espaciales. Primero calibra modelos conceptuales o funciones de daño que relacionan oferta climática y productividad; luego incorpora los escenarios A2, A1B y B2 —B1 en algunos sectores ecosistémicos— para estimar impactos futuros en 2040, 2070 y 2100. Finalmente expresa los cambios como variaciones de productividad sectorial y agrega los cinco sectores económicos mediante el MEG4C. El enfoque trata al clima como insumo productivo y mantiene constantes tecnología, área sembrada e infraestructura para aislar su efecto.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "El EIECC estudia la relación actual del clima y la productividad de los sectores, para luego estimar cambios en productividad debido al cambio climático.",
+                  "pagina": 25
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "b. Agregación de impactos económicos del cambio climático – MEG4C",
+              "nivel": 3,
+              "paginas": "27-31",
+          "resumen": "Explica cómo el MEG4C transforma choques de productividad sectorial en efectos macroeconómicos directos e indirectos. El modelo de equilibrio general usa una Matriz de Contabilidad Social de 2010, distingue 16 sectores, un hogar representativo, dos tipos de trabajo, gobierno y resto del mundo, y representa sustituciones entre capital, energía, trabajo, bienes domésticos e importados. Construye primero una trayectoria base 2011-2100 sin cambio climático usando crecimiento observado, el Marco Fiscal de Mediano Plazo y un modelo de contabilidad del crecimiento. Sobre esa referencia introduce simultáneamente los impactos de agricultura, ganadería, pesca, forestal y transporte para estimar producción, PIB, precios y bienestar. Las microsimulaciones combinan esos precios con la Encuesta de Calidad de Vida del DANE para captar diferencias entre hogares.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "El cambio climático tiene impactos directos sobre la productividad de ciertos sectores, sin embargo, dada la relación de estos con otros sectores de la economía los impactos agregados pueden llegar a ser mayores.",
+                  "pagina": 27
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "c. Alcances y supuestos del análisis",
+              "nivel": 3,
+              "paginas": "32",
+          "resumen": "Delimita el alcance para evitar interpretar las estimaciones como una valoración exhaustiva. El ejercicio modela cambios graduales en temperatura y precipitación, no variabilidad climática ni extremos, y aísla su efecto sobre productividad manteniendo constantes tecnología, infraestructura, riego, áreas sembradas y productividad de otros factores. Excluye impactos como acidificación oceánica, aumento del nivel del mar, ciclones, erosión costera, retroceso glaciar, incendios y degradación de suelos. La agregación comprende cinco sectores que juntos representan apenas 4,3% del PIB y omite actividades vulnerables como turismo, industria, comercio y minería. Por esas restricciones, el documento interpreta los resultados sectoriales y agregados como una probable subestimación del costo económico total del cambio climático.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "subtipo_brecha": "datos_e_informacion",
+                  "cita": "los impactos agregados presentados en el nivel sectorial y macroeconómico sólo estiman el efecto de los cambios graduales en la media de la temperatura y la precipitación y no en sus extremos",
+                  "pagina": 32
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "3.2 Metodología para analizar el impacto económico de eventos extremos",
+          "nivel": 2,
+          "paginas": "33",
+      "resumen": "Separa el análisis de desastres del modelado de cambios climáticos graduales. En lugar de construir escenarios meteorológicos futuros, estima históricamente cómo los desastres de origen climático afectan el crecimiento y qué factores socioeconómicos explican su frecuencia y severidad. Utiliza regresiones departamentales y municipales con información de DesInventar, DANE e IDEAM para obtener parámetros sobre crecimiento, población expuesta, calidad institucional y lluvias extremas. Esos parámetros calibran el MEGDES, una adaptación del modelo de equilibrio general que divide el capital entre riesgoso y no riesgoso. Con él simula tres intervenciones: aumento permanente de la tasa de desastres, reducción de viviendas y maquinaria en zonas de riesgo y aumento del gasto público en gestión del riesgo, observando sus efectos sobre PIB, capital y consumo.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "El Estudio buscó estimar los costos económicos de eventos extremos asociados al clima",
+              "pagina": 33
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "3.3 Fortalezas y limitaciones de la Metodología General",
+          "nivel": 2,
+          "paginas": "34-35",
+      "resumen": "Evalúa como fortaleza la integración reproducible de modelos climáticos, sectoriales y económicos para identificar mecanismos mediante los cuales el clima afecta la economía. A la vez, muestra que cada eslabón acumula incertidumbre: escenarios de emisiones y circulación global, reducción de escala para Colombia, parámetros de funciones de daño, información sectorial incompleta y supuestos estructurales del MEG4C sobre población, productividad y comportamiento de hogares y empresas. Los resultados representan efectos aislados del clima sobre productividad, no una predicción completa de la economía futura. La sección concluye que las cifras deben leerse como rangos condicionados y que reducir la incertidumbre exige fortalecer datos, capacidad de procesamiento y conocimiento sobre las relaciones entre clima, ecosistemas, población y actividad económica.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "el ejercicio de modelación para estimar impactos económicos conjuga las incertidumbres de la modelación climática, la modelación sectorial y la modelación económica",
+              "pagina": 34
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "Capítulo 4. Impactos Económicos del Cambio Climático",
+      "nivel": 1,
+      "paginas": "37-112",
+      "resumen": "Presenta los resultados principales del estudio: impactos económicos del cambio climático en sectores con representación en cuentas nacionales (ganadería, agricultura, forestal, pesca, transporte) y en otros sectores (recurso hídrico, especies nativas de biocomercio). Incluye impactos agregados y análisis regional.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "4.1 Impactos económicos en sectores con representación en cuentas nacionales",
+          "nivel": 2,
+          "paginas": "38-91",
+          "resumen": "Analiza los impactos económicos en los cinco sectores con datos en cuentas nacionales: ganadería (pérdidas de 1,6% en producción de carne y leche), agricultura (reducción del 7,4% en rendimientos), sector forestal (ganancias potenciales del 6,2%), pesca (disminución del 5,3% en carga desembarcada) y transporte (vías cerradas el 5,9% del tiempo).",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "Sector Ganadero",
+              "nivel": 3,
+              "paginas": "39-51",
+          "resumen": "Modela la respuesta de carne y leche a temperatura y precipitación mediante funciones de productividad diferenciadas territorialmente. Estima pérdidas biofísicas promedio cercanas a 1,6% en peso vivo y litros de leche, concentradas en los altiplanos de Nariño y Cundinamarca y en la Orinoquía, aunque algunos territorios presentan resultados distintos según escenario. Al trasladar el choque al MEG4C, la producción ganadera cae entre 0,8% y 0,9% anual durante 2010-2100. Por sus encadenamientos y su intensidad laboral, el efecto se propaga a alimentos procesados, agricultura, comercio, manufactura y servicios, de modo que la pérdida no queda contenida dentro del sector pecuario. El patrón territorial depende especialmente de los cambios proyectados en precipitación.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "La ganadería una de las actividades agropecuarias más importantes en el país, contribuye al 20% del PIB agropecuario (DANE, 2012b) aunque su participación histórica en el PIB nacional ha venido reduciéndose",
+                  "pagina": 39
+                },
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Cambios de temperatura y precipitación podrían determinar la producción total de diferentes pasturas y forrajes, en influir en la calidad y producción de carne y leche",
+                  "pagina": 39
+                },
+                {
+                  "dimension": "tendencias",
+                  "cita": "El sector ganadero del país se vería afectado negativamente por el cambio climático, debido principalmente a la disminución de la precipitación en altiplanos",
+                  "pagina": 40
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Sector Agrícola",
+              "nivel": 3,
+              "paginas": "52-60",
+          "resumen": "Evalúa maíz tecnificado, arroz irrigado y papa mediante relaciones entre rendimientos, temperatura y precipitación, proyectadas con los escenarios climáticos del IDEAM. El resultado sectorial agregado apunta a una reducción aproximada de 7,4% en rendimientos anuales, con el maíz tecnificado como cultivo más afectado y variaciones territoriales importantes. En el MEG4C, la producción agrícola disminuye entre 1,9% y 2,8% anual respecto del escenario sin cambio climático. Como el sector es intensivo en trabajo y abastece a alimentos procesados, la pérdida reduce ingresos laborales y consumo de los hogares y se transmite hacia ganadería, pesca y comercio, aun cuando existan sustituciones entre productos finales.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "La agricultura en Colombia representó en 2011 alrededor del 62,5% del PIB agropecuario y 3,9% del PIB nacional",
+                  "pagina": 52
+                },
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "La agricultura es particularmente sensible a las modificaciones del clima, por lo cual el cambio climático puede llegar a constituirse en una seria amenaza para el sector",
+                  "pagina": 53
+                },
+                {
+                  "dimension": "tendencias",
+                  "cita": "Los rendimientos agrícolas se disminuirían para papa y maíz y aumentaría para arroz irrigado",
+                  "pagina": 53
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Sector Forestal",
+              "nivel": 3,
+              "paginas": "61-68",
+          "resumen": "Estima la producción potencial de plantaciones comerciales a partir de modelos que relacionan crecimiento forestal con temperatura, precipitación y características territoriales. A diferencia de la mayoría de los sectores estudiados, la silvicultura presenta un posible beneficio climático: la producción potencial forestal aumentaría alrededor de 6,2% anual en promedio, aunque el signo y la magnitud varían espacialmente y dependen de mantener constantes manejo, tecnología y superficie plantada. Al incorporar el choque al MEG4C, el aumento de producción sectorial se reduce a 0,6-0,7% anual. Sus efectos indirectos son acotados porque el sector utiliza pocos insumos intermedios y su principal transmisión positiva ocurre hacia la manufactura.",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "De acuerdo con los resultados de la simulación de la producción forestal potencial para las cinco especies consideradas el sector forestal del país se vería beneficiado por el cambio climático, aunque el efecto puede llegar a ser diferenciado por especies y regiones.",
+                  "pagina": 64
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Sector Pesca",
+              "nivel": 3,
+              "paginas": "69-75",
+          "resumen": "Relaciona temperatura superficial y otras condiciones climáticas con la carga pesquera desembarcada en aguas marítimas y continentales. Proyecta una disminución media aproximada de 5,3% anual entre 2010 y 2100, con mayor afectación en los litorales y diferencias entre escenarios y regiones. Cuando el impacto de productividad se incorpora al MEG4C, la producción pesquera cae entre 2,5% y 3,3% anual. La contracción afecta directamente comercio y alimentos procesados; este último es un sector clave que difunde pérdidas hacia otras actividades. Parte del efecto sobre la demanda final se compensa mediante sustitución por productos agrícolas y ganaderos, pero no elimina la pérdida agregada del sector.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "El sector pesquero y acuícola representó 3,7% del PIB agropecuario y el 0,14% del PIB nacional en 2011 (DANE, 2014)",
+                  "pagina": 69
+                },
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "El cambio climático afectará de manera importante los ecosistemas, en especial, se espera que el cambio climático tenga una serie de impactos directos e indirectos en las pesquerías marinas y continentales que reducirán el suministro de alimentos para las poblaciones costeras",
+                  "pagina": 70
+                },
+                {
+                  "dimension": "tendencias",
+                  "cita": "Los resultados de las proyecciones del efecto del cambio climático para el sector pesquero muestran que los desembarcos de la mayoría de las especies en los litorales y cuencas analizadas se reducirían",
+                  "pagina": 71
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Sector Transporte",
+              "nivel": 3,
+              "paginas": "76-85",
+          "resumen": "Cuantifica el efecto de la precipitación sobre cierres de la red vial por deslizamientos y traduce la pérdida de disponibilidad en productividad del transporte carretero. Bajo los escenarios analizados, las vías permanecerían cerradas alrededor de 5,9% del tiempo entre 2011 y 2100, con diferencias regionales ligadas a topografía, intensidad de lluvia y exposición de la infraestructura. El MEG4C convierte ese choque en una reducción de 2,5-2,7% anual de la producción del sector. Los encadenamientos transmiten el impacto hacia minería y energía, minerales, manufacturas y maquinaria, además de elevar costos para el resto de la economía. El análisis no incorpora daños físicos completos a la infraestructura, por lo que la estimación se considera conservadora.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Los servicios de transporte tuvieron una producción cercana a los $28 billones de pesos en 2012. Esto equivale a una participación del 4,2% en el PIB nacional",
+                  "pagina": 76
+                },
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "El cambio climático y sus posibles alteraciones en los patrones de precipitación pueden tener efectos negativos sobre los activos y la operación del sector transporte",
+                  "pagina": 77
+                },
+                {
+                  "dimension": "tendencias",
+                  "cita": "El resultado final es la fracción del tiempo que la red vial, para cada zona de amenaza, estará cerrada debido a cierres por deslizamientos causados por los patrones de precipitación en los escenarios de cambio climático previstos por el IDEAM",
+                  "pagina": 81
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Impactos económicos agregados del cambio climático",
+              "nivel": 3,
+              "paginas": "86-91",
+              "resumen": "Agrega en el MEG4C los choques de productividad de transporte, ganadería, agricultura, sector forestal y pesca para estimar sus efectos directos e indirectos sobre toda la economía. La simulación conjunta arroja reducciones promedio anuales de producción de 2,2% en agricultura, 3,0% en pesca, 2,6% en transporte y 0,9% en ganadería, mientras el sector forestal aumenta 0,6%. Los encadenamientos trasladan las pérdidas hacia alimentos, manufactura, comercio y otros sectores no impactados inicialmente. Los choques simultáneos producen efectos mayores que su evaluación aislada y reducen el consumo de todos los hogares; los de menores ingresos resultan proporcionalmente más afectados por el peso de alimentos y transporte en su gasto. La sección concluye que el efecto neto del cambio climático sobre la producción y el bienestar es negativo aun cuando existan ganancias forestales puntuales.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "Con base en los escenarios de cambio climático del IDEAM y en las modelaciones del MEG4C se podría concluir que la mayoría de sectores económicos se verían impactados negativamente como consecuencia del cambio en la productividad bajo los escenarios de cambio climático, no solamente aquellos directamente impactados.",
+                  "pagina": 88
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "4.2 Impactos económicos en otros sectores",
+          "nivel": 2,
+          "paginas": "92-112",
+          "resumen": "Analiza impactos en sectores sin representación completa en cuentas nacionales: recurso hídrico (tres cuencas modeladas), especies nativas de biocomercio y otros usos.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "Recurso Hídrico",
+              "nivel": 3,
+              "paginas": "93-104",
+          "resumen": "Analiza tres cuencas donde el agua sostiene actividades económicas distintas. En el Guavio, que abastece una central responsable de 13% de la generación hidroeléctrica nacional, combina un ensamble de 19 modelos climáticos con SWAT y encuentra aumentos medios de precipitación y caudal, pero caídas estacionales que pueden reducir generación bajo el escenario A2. En el río Fraile, asociado con 10% del área nacional de caña de azúcar, el aumento de precipitación reduce requerimientos de riego modelados con Cropwat. En Fúquene, representativa de 5% del área de papa y 5% de la producción lechera, Aquacrop y APSIM muestran efectos mixtos sobre papa, pasturas y leche. La sección evidencia que un mismo cambio hídrico se transmite de manera distinta a energía, agricultura y ganadería, y advierte que los resultados no son sumables con los sectores de Cuentas Nacionales por usar escenarios y métodos diferentes.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "El estudio de impactos del cambio climático en el recurso hídrico se concentró en analizar el impacto en tres cuencas estratégicas para la generación hidroeléctrica y para agricultura de riego y secano.",
+                  "pagina": 94
+                },
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "No obstante, el aumento de la precipitación podría incrementar la probabilidad de inundaciones en la zona.",
+                  "pagina": 100
+                },
+                {
+                  "dimension": "oportunidades",
+                  "cita": "En general, en el escenario más optimista-B1-habría un posible aumento promedio anual de 60.143 MWh de 2012 a 2050.",
+                  "pagina": 98
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Especies nativas de Biocomercio y otros usos",
+              "nivel": 3,
+              "paginas": "105-112",
+              "resumen": "Modela los cambios en aptitud climática de especies nativas de uso directo, biocomercio y funciones ecosistémicas a partir de escenarios de temperatura y precipitación. Los resultados proyectan beneficios para varias especies de biocomercio y uso indirecto, aunque la respuesta cambia según especie, zona y escenario. Entre las de uso directo con mayor potencial aparecen Totumo, Jagua, Seje, Prontoalivio y Gualanday; también se anticipan ganancias de aptitud para manglares y una especie polinizadora. La sección trata estos resultados como oportunidades biofísicas condicionadas, no como beneficios económicos automáticos, pues su aprovechamiento requiere conservación, información y manejo sostenible.",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "En conclusión, con base en los datos de WorldClim y del modelo ensamble de MCG por efectos del cambio climático se verían beneficiadas especies de uso para biocomercio y uso indirecto analizadas en el país, con incrementos promedio en su valor económico del 44,5% y 55,8%, respectivamente para los escenarios y el periodo modelado",
+                  "pagina": 111
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "Capítulo 5. Costos Económicos de los Eventos Extremos Asociados al Clima",
+      "nivel": 1,
+      "paginas": "113-126",
+      "resumen": "Analiza los costos económicos de los desastres de origen climático en Colombia, con datos de 1980 a 2010. Demuestra que aumentos del 20% en la tasa de muertos, heridos y afectados por desastres climáticos se asocian a caídas del PIB de largo plazo del 1,5%, y que la inversión en gestión de riesgo de desastres es costo-efectiva.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "5.1 Efectos y determinantes de los desastres de origen climático en Colombia",
+          "nivel": 2,
+          "paginas": "114-118",
+      "resumen": "Combina exposición territorial, registros históricos y econometría para explicar por qué los desastres climáticos afectan el crecimiento. Estima que 15,4% de la población vive en áreas con riesgo de inundación y 23% en zonas susceptibles a deslizamientos, con mayor exposición rural a remoción en masa. Un panel departamental 1980-2010 muestra que la magnitud de muertos, heridos y afectados explica mejor el crecimiento que el simple número de eventos: un aumento de 10% en esa tasa reduce 0,255% el crecimiento quinquenal y un incremento permanente de 20% implica una caída de largo plazo cercana a 1,5% del PIB per cápita. Las regresiones municipales identifican como determinantes el ingreso, las viviendas expuestas y las lluvias extremas; reducir 20% la población en zonas inundables disminuiría 3% las viviendas afectadas y 4,5% la tasa de personas muertas, heridas o afectadas. El capítulo concluye que gestión del suelo, reducción de exposición y capacidad institucional son variables económicas de prevención, no únicamente respuestas posteriores al desastre.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "El 85% del total desastres son de origen climático",
+              "pagina": 116
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Los anteriores ejercicios econométricos muestran que los desastres naturales climáticos en Colombia tienen un efecto negativo sobre el crecimiento de corto, mediano y largo plazo de la economía.",
+              "pagina": 117
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "5.2 Desarrollo de modelos de equilibrio general para proyectar impactos económicos de escenarios futuros de eventos extremos",
+          "nivel": 2,
+          "paginas": "119-126",
+      "resumen": "Construye dos modelos de equilibrio general —MGR y MEGDES— que distinguen capital expuesto y no expuesto y calibran pérdidas con datos oficiales: los desastres representan 1,1% del PIB, 43,7% de las pérdidas climatológicas corresponde a vivienda y alrededor de 14,5% de las viviendas y 15,4% de las personas se ubican en zonas de riesgo. Simula tres políticas o choques. Un aumento permanente de 20% en la tasa de desastres reduce el PIB entre 0,25% y 1,5%, el producto interno neto entre 0,42% y 1,5%, el capital entre 1% y 3% y el consumo entre 0,36% y 1,4%. También evalúa trasladar viviendas y maquinaria fuera de zonas riesgosas y elevar el gasto en gestión del riesgo. Los resultados muestran que la prevención protege capital y actividad, pero sus efectos dependen del mecanismo de ahorro de cada modelo y de supuestos sobre la distribución territorial de activos.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Disminución del PIB de forma permanente del 0,25% al 1,50% en relación con escenario sin aumento en la tasa de desastres.",
+              "pagina": 123
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "Reducción del capital del 1% al 3%.",
+              "pagina": 123
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "Capítulo 6. Recomendaciones de Adaptación",
+      "nivel": 1,
+      "paginas": "127-141",
+      "resumen": "Presenta recomendaciones generales y sectoriales de adaptación derivadas de los resultados del estudio. Organiza acciones para transporte, pesca, sector forestal, ganadería, agricultura, recurso hídrico, especies nativas y gestión del riesgo de desastres, junto con orientaciones transversales sobre información, ordenamiento territorial y conservación de ecosistemas.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "Sector Transporte",
+          "nivel": 2,
+          "paginas": "128-129",
+          "resumen": "Recomendaciones específicas para el sector transporte: análisis de riesgo y vulnerabilidad climática, adecuación de infraestructura resiliente, promoción de redundancia y robustez del sistema, inclusión de escenarios climáticos en la planeación vial, reducción de tiempos de respuesta ante cierres, e implementación de sistemas de información.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Realizar análisis de riesgos y vulnerabilidad asociados al clima.",
+              "pagina": 128
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Sector Pesquero",
+          "nivel": 2,
+          "paginas": "130-131",
+          "resumen": "Recomendaciones para el sector pesquero: fortalecer la gobernanza, ampliar áreas protegidas, fortalecer sistemas de información, promover medidas adaptativas ante variabilidad climática, promover adaptación basada en comunidades, y generar alternativas económicas para pescadores artesanales.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Fortalecer la gobernanza del sector. Esta medida tiene como objetivo promover las prácticas pesqueras sostenibles buscando reducir la sobrepesca y recuperar los inventarios de peces ala luz del cambio climático.",
+              "pagina": 130
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Sector Forestal",
+          "nivel": 2,
+          "paginas": "131-133",
+          "resumen": "Recomendaciones para el sector forestal: mejorar información y conocimiento, promover inversión, incorporar lineamientos de potencial forestal en ordenamiento territorial, y promover uso eficiente del recurso y aprovechamiento de servicios ecosistémicos.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Incorporar lineamientos de potencial forestal en el ordenamiento territorial. Es necesario avanzar en la clasificación agroecológica del territorio con el fin de identificar áreas potenciales para el sector a la luz de escenarios de variabilidad y cambio climático.",
+              "pagina": 132
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Sector Ganadero",
+          "nivel": 2,
+          "paginas": "133-135",
+          "resumen": "Propone adaptar la ganadería mediante ordenamiento productivo, conservación de estructuras ecológicas y uso sostenible del suelo y el agua. Recomienda delimitar áreas ya intervenidas para intensificación con sistemas silvopastoriles, proteger ecosistemas estratégicos, mejorar la información climática y productiva y orientar la investigación hacia razas, pasturas y prácticas resistentes a variaciones de temperatura y precipitación.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Definir áreas ya intervenidas para la intensificación de la producción mediante sistemas sostenibles como los silvopastoriles.",
+              "pagina": 134
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Sector Agricultura",
+          "nivel": 2,
+          "paginas": "136-137",
+          "resumen": "Recomienda fortalecer la adaptación agrícola con información agroclimática, investigación aplicada, manejo eficiente del agua y prácticas productivas ajustadas a condiciones locales. Destaca los Sistemas de Alertas Agroclimáticas Tempranas, construidos entre comunidades e instituciones, para anticipar déficits o excesos hídricos, plagas y enfermedades y apoyar decisiones de siembra y manejo antes de cada semestre agrícola.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Desarrollar e implementar Sistemas de Alertas Agroclimáticas Tempranas (SAAT).",
+              "pagina": 136
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Recurso Hídrico",
+          "nivel": 2,
+          "paginas": "137-139",
+          "resumen": "Formula medidas diferenciadas para las cuencas del Guavio, Fraile y Fúquene, articulando gestión ambiental, conservación, producción agropecuaria y generación eléctrica. Propone fortalecer planes de manejo, proteger áreas abastecedoras, mejorar monitoreo y coordinación institucional, emplear incentivos como pagos por servicios ambientales y ajustar el uso del suelo y del agua a los escenarios climáticos y a los riesgos de inundación o escasez.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Fortalecer la gestión ambiental en la zona implica la coordinación y el fortalecimiento del plan de manejo ambiental del Parque nacional natural Chingaza a través de acciones de compra de predios, pagos por servicios ambientales y fortalecimiento de las brigadas contra incendios.",
+              "pagina": 137
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Especies nativas de Biocomercio y otros usos",
+          "nivel": 2,
+          "paginas": "139-140",
+          "resumen": "Plantea mejorar el conocimiento, conservación y aprovechamiento sostenible de especies nativas con potencial de biocomercio y uso indirecto. Recomienda actualizar protocolos de manejo conforme cambie la oferta ambiental, fortalecer cadenas de valor y trazabilidad, proteger hábitats y monitorear la distribución futura de especies para evitar que una oportunidad climática proyectada derive en sobreexplotación o pérdida de biodiversidad.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Elaborar protocolos de uso y manejo sostenible de las especies.",
+              "pagina": 139
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Gestión de riesgo de desastres de origen climático",
+          "nivel": 2,
+          "paginas": "140-141",
+          "resumen": "Vincula la reducción de desastres con ordenamiento territorial, protección de hogares vulnerables y crecimiento económico. Recomienda evitar nueva ocupación de zonas expuestas, reubicar familias e infraestructura cuando corresponda, mejorar la información sobre población en riesgo y priorizar gasto preventivo. El cambio desde la reacción posterior hacia la prevención busca reducir pérdidas humanas y materiales y sostener el PIB.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Fortalecer la gestión de riesgo preventiva frente a la reactiva.",
+              "pagina": 140
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "Capítulo 7. Avances en Materia de Adaptación",
+      "nivel": 1,
+      "paginas": "143-145",
+      "resumen": "Reconstruye el paso desde proyectos aislados financiados por cooperación internacional hacia la incorporación sistemática de adaptación en la planificación del desarrollo después de La Niña 2010-2011. El Plan Nacional de Adaptación al Cambio Climático, coordinado por DNP, MADS, IDEAM y UNGRD, se organiza en fases conceptual, de acompañamiento, implementación y monitoreo-reporte-verificación. Registra productos ya elaborados —bases conceptuales, hoja de ruta, lineamientos de ordenamiento territorial y árbol de decisiones— y planes sectoriales en agro, salud, vivienda, transporte y energía. En el territorio contabiliza 12 planes o proyectos que cubren áreas habitadas por 49,45% de la población, incluidos PRICC Cundinamarca, Huila 2050 y Montería Ciudad Verde. La sección distingue avances de formulación de una implementación todavía incompleta y define el PNACC como proceso continuo que debe actualizarse con nueva información climática, vulnerabilidad, impactos económicos y aprendizaje institucional.",
+      "dimensiones": [
+        {
+          "dimension": "avances_implementacion",
+          "cita": "El PNACC busca reducir la vulnerabilidad del país e incrementar su capacidad de respuesta frente a las amenazas e impactos del cambio climático, mediante la integración de la adaptación en los instrumentos de planeación del desarrollo.",
+          "pagina": 143
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Capítulo 8. Recomendaciones sobre Información",
+      "nivel": 1,
+      "paginas": "147-150",
+      "resumen": "Convierte las limitaciones encontradas durante el estudio en una agenda de información para adaptación. Exige validar y completar series climáticas y agropecuarias, estandarizar registros pesqueros y recuperar datos históricos aún archivados en papel; acompañar nuevas tecnologías con inversión en personal y procedimientos institucionales de calidad; y ampliar el acceso público a bases producidas por entidades estatales. Propone georreferenciar y reducir la escala espacial y temporal de datos climáticos, económicos y sectoriales para reflejar la diversidad local y regional, además de mantener coherencia con escenarios del IPCC. El cuadro sectorial concreta necesidades: cierres y riesgo en vías, niveles de ríos y puertos, estadísticas municipales de producción y riego, capturas por especie, distribución de especies de biocomercio, mapas de ecosistemas y series del Sistema Nacional de Información para la Gestión del Riesgo. La función del capítulo es mostrar que información completa, comparable, detallada y accesible constituye por sí misma una medida de adaptación y una condición para evaluar inversiones y políticas con menor incertidumbre.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "La información es un tema clave para generar conocimiento y prepararse para los desafíos del cambio climático.",
+          "pagina": 147
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Capítulo 9. Conclusiones",
+      "nivel": 1,
+      "paginas": "151-156",
+      "resumen": "Sintetiza que el cambio climático impone retos y oportunidades en el desarrollo económico de Colombia. Los impactos no se distribuyen homogéneamente en el nivel territorial ni en la población: regiones como la Orinoquía o los altiplanos andinos podrían estar particularmente afectados, y los hogares de más bajos ingresos verían reducido su consumo en mayor magnitud. Las entidades líderes de la planeación deben adoptar una visión prospectiva diferenciada por regiones y poblaciones, en procesos sinérgicos entre desarrollo sectorial y territorial y gestión ambiental.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Los impactos económicos del cambio y la variabilidad climática adquieren mayor relevancia si se toma en cuenta que hay evidencia de que en el país el clima está cambiando",
+          "pagina": 151
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Las entidades líderes de la planeación del desarrollo deben adoptar una visión prospectiva a la luz del cambio climático diferenciada por regiones y poblaciones.",
+          "pagina": 155
+        },
+        {
+          "dimension": "desafios",
+          "cita": "Los impactos no se distribuyen homogéneamente en el nivel territorial ni en la población.",
+          "pagina": 155
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "Evaluado contra los 3 tests operativos del §1.5 de INTERPELACION_v0.md (anclados a big_push.md). Test 1 —inversión masiva y coordinada, no reformas fragmentadas—: NO pasa; el documento presenta recomendaciones sectoriales dispersas (transporte, pesca, forestal, información) sin un paquete coordinado de inversiones y políticas simultáneas a escala del modelo de desarrollo. Test 2 —sectores estratégicos nombrados con instrumento identificable—: SÍ pasa; aterriza en la transición hacia desarrollo sostenible y gestión ambiental con instrumentos concretos como el Plan Nacional de Adaptación (Ley 1450 de 2010), ordenamiento territorial y sistemas de información climática. Test 3 —al menos dos de las tres eficiencias—: PARCIAL; la eficiencia ambiental está presente (conservación de ecosistemas, gestión del recurso hídrico, reducción de vulnerabilidad) y la keynesiana aparece de forma indirecta (inversión en gestión de riesgo de desastres como reducción de costos económicos futuros, 1% del gasto público), pero la schumpeteriana es débil (I+D en tecnologías de cultivo y mejoramiento genético sin estrategia explícita de incorporación de conocimiento en procesos productivos locales). Resultado: sin test 1 no puede haber 'Sí'; con test 2 aprobado y test 3 parcial, el caso corresponde a 'Parcial'.",
+      "citas": [
+        {
+          "cita": "de aumentarse la inversión pública en la materia al 1% del gasto público actual se esperaría que la tasa de desastres se redujera en un 60%",
+          "pagina": 155
+        },
+        {
+          "cita": "Las entidades líderes de la planeación del desarrollo deben adoptar una visión prospectiva a la luz del cambio climático diferenciada por regiones y poblaciones.",
+          "pagina": 155
+        }
+      ],
+      "nota": "Re-evaluado contra los 3 tests del §1.5: el veredicto 'Parcial' se mantiene, anclado a la regla operativa (test 1 ausente + test 2 aprobado)."
+    },
+    "articulacion_actores": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento nombra actores específicos (DNP, BID, CEPAL, IDEAM, CIAT, CORPOICA, CONIF, ministerios sectoriales) y menciona la existencia del Plan Nacional de Adaptación (Ley 1450 de 2010) como marco de coordinación. Sin embargo, no nombra un mecanismo con nombre propio de coordinación multiactor entre estos actores para la implementación de las recomendaciones. El Plan Nacional de Adaptación es un instrumento normativo, no una plataforma de articulación operativa con actores nombrados.",
+      "citas": [
+        {
+          "cita": "Los resultados del Estudio permiten generar una serie de recomendaciones para ser tenidas en cuenta en los procesos de planificación del desarrollo sectorial y regional y en la formulación del Plan Nacional de Adaptación, de acuerdo con la Ley 1450 de 2010.",
+          "pagina": 127
+        }
+      ],
+      "nota": "El documento identifica actores específicos (DNP, BID, CEPAL, IDEAM) y un marco normativo (Ley 1450 de 2010, Plan Nacional de Adaptación), pero no nombra un mecanismo con nombre propio de coordinación multiactor. El Plan Nacional de Adaptación es un instrumento normativo que establece el marco, pero no describe la plataforma operativa de articulación. Aplica la regla del §1.2: mecanismo normativo existente pero sin nombre propio de plataforma de coordinación → 'Parcial'."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "Chequeo negativo explícito (regla del §1.3 de INTERPELACION_v0.md): se revisó el documento completo buscando (a) una enumeración de sectores, industrias, mercados o actividades productivas concretas presentadas como oportunidad económica derivada de la adaptación/climate action, y (b) un vínculo explícito de esa enumeración con empleo, productividad o desigualdad. No aparece ninguno de los dos elementos de forma conectada: el documento presenta recomendaciones de adaptación y gestión de riesgos, no oportunidades productivas; las menciones a empleo y productividad son indirectas (la reducción de pérdidas del PIB como efecto de la adaptación) sin enumerar sectores como oportunidad económica ni desarrollar el vínculo con empleo/desigualdad.",
+      "citas": [],
+      "nota": null
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "El documento presenta una lista explícita de recomendaciones sectoriales y transversales (pp.127-128 y Capítulos 6-8), sometidas una a una al test de concreción del §1.4 (verbo de acción + objeto específico, opcionalmente actor, plazo o métrica): la mayoría de los ítems pasan el test al identificar acciones ejecutables con objetos concretos (sistemas de información, análisis de riesgo, barreras de protección, ordenamiento territorial, planes de manejo). Los ítems más genéricos son los de carácter transversal ('promover el desarrollo económico', 'tener presente que el desarrollo debe ir de la mano de la gestión ambiental') que funcionan como principios rectores más que como acciones ejecutables específicas.",
+      "citas": [
+        {
+          "cita": "Realizar análisis de riesgos y vulnerabilidad asociados al clima. Para realizar el análisis es necesario partir de un inventario detallado de las condiciones topográficas y de altimetría de las vías terrestres y férreas y de los puertos marítimos y aéreos.",
+          "pagina": 128
+        },
+        {
+          "cita": "de aumentarse la inversión pública en la materia al 1% del gasto público actual se esperaría que la tasa de desastres se redujera en un 60%",
+          "pagina": 155
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Mejorar el conocimiento sobre las relaciones entre clima y productividad de los sectores, fortaleciendo la capacidad de las entidades públicas para capturar, procesar y disponer información climática, ambiental y sectorial",
+          "clasificacion": "CONCRETO",
+          "pagina": 127
+        },
+        {
+          "item": "Promover el desarrollo económico de los sectores para fortalecer su capacidad de adaptación",
+          "clasificacion": "GENERICO",
+          "pagina": 127
+        },
+        {
+          "item": "Tener presente que el desarrollo económico debe ir de la mano de la gestión ambiental para asegurar la sostenibilidad",
+          "clasificacion": "GENERICO",
+          "pagina": 128
+        },
+        {
+          "item": "Generar procesos de ordenamiento territorial a la luz del cambio y la variabilidad climática",
+          "clasificacion": "CONCRETO",
+          "pagina": 128
+        },
+        {
+          "item": "Realizar análisis de riesgos y vulnerabilidad asociados al clima en el sector transporte",
+          "clasificacion": "CONCRETO",
+          "pagina": 128
+        },
+        {
+          "item": "Adecuar la infraestructura para hacerla resiliente, construyendo o adecuando barreras de protección",
+          "clasificacion": "CONCRETO",
+          "pagina": 129
+        },
+        {
+          "item": "Promover la redundancia y robustez del sistema de transporte mediante la construcción de nuevas vías y modos complementarios",
+          "clasificacion": "CONCRETO",
+          "pagina": 129
+        },
+        {
+          "item": "Incluir escenarios de cambio climático en la planeación del desarrollo vial para nueva infraestructura",
+          "clasificacion": "CONCRETO",
+          "pagina": 129
+        },
+        {
+          "item": "Fortalecer la gobernanza del sector pesquero promoviendo prácticas sostenibles y reduciendo la sobrepesca",
+          "clasificacion": "CONCRETO",
+          "pagina": 130
+        },
+        {
+          "item": "Ampliar el sistema de áreas protegidas marinas y continentales para incluir conectividad entre ecosistemas acuáticos",
+          "clasificacion": "CONCRETO",
+          "pagina": 130
+        },
+        {
+          "item": "Implementar sistemas de información para la optimización de las operaciones de transporte",
+          "clasificacion": "CONCRETO",
+          "pagina": 129
+        },
+        {
+          "item": "Promover la adaptación basada en comunidades en el sector pesquero",
+          "clasificacion": "CONCRETO",
+          "pagina": 131
+        },
+        {
+          "item": "Generar alternativas económicas para pescadores artesanales",
+          "clasificacion": "CONCRETO",
+          "pagina": 131
+        },
+        {
+          "item": "Incorporar lineamientos de potencial forestal en el ordenamiento territorial",
+          "clasificacion": "CONCRETO",
+          "pagina": 132
+        },
+        {
+          "item": "Promover el uso eficiente del recurso y aprovechamiento de servicios ecosistémicos en el sector forestal",
+          "clasificacion": "CONCRETO",
+          "pagina": 132
+        }
+      ],
+      "tally": "13 de 15 ítems pasan el test de concreción",
+      "nota": null
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la contradicción entre el desarrollo económico de Colombia (impulsado por sectores productivos como agricultura, ganadería, pesca, transporte y forestal) y la amenaza creciente del cambio climático sobre la productividad de esos mismos sectores y la vulnerabilidad de la población. La tensión no es entre desarrollo y medio ambiente en abstracto, sino entre un modelo de desarrollo sectorial específico y los riesgos climáticos que lo afectan directamente.",
+      "filtro_categoria_primaria": "Lo que el documento pretende transformar es la manera en que Colombia planifica su desarrollo económico frente al cambio climático, identificando vulnerabilidades sectoriales y territoriales y proponiendo adaptación. El sujeto es la economía colombiana bajo amenaza climática, y la transformación apunta a la sostenibilidad ambiental de ese desarrollo. Eso ancla la primaria en la transformación 6 (Sostenibilidad ambiental).",
+      "secundaria_obligatoria": "La segunda intención transformadora es institucional: el grueso de las recomendaciones apunta a fortalecer capacidades del Estado (entidades públicas, entidades reguladoras, sistemas de información, ordenamiento territorial, planificación del desarrollo) para gestionar la adaptación al cambio climático. Por eso la secundaria es la transformación 11 (Capacidades del Estado).",
+      "justificacion_anti_copia": "Conceptos específicos y literales del documento que sostienen la clasificación: el EIECC como proyecto del DNP con BID y CEPAL; las pérdidas del 0,49% anual del PIB bajo tres escenarios; la relación del 20% de población en riesgo con el 4,5% de reducción en tasa de desastres; la propuesta de aumentar la inversión en gestión de riesgo al 1% del gasto público para reducir desastres en un 60%; los sectores específicos analizados (ganadería, agricultura, forestal, pesca, transporte, recurso hídrico, biocomercio); las tres cuencas modeladas (Guavio, Fraile, Fúquene). Ninguno de estos elementos es transferible a otro documento del corpus sin reescribirse.",
+      "validacion_anclas": "Contrastado con la tabla de anclas de TIPOLOGIA_v0.md §3: este documento es un estudio de impactos económicos multisectorial sobre Colombia, distinto de los policy briefs y documentos de resiliencia del corpus climático. La clasificación primaria #6 / secundaria #11 es coherente con el patrón de documentos que analizan la intersección entre cambio climático y capacidad institucional para la adaptación, similar a doc08 (gestión del agua) y doc12 (agricultura)."
+    },
+    "tipo_documento_climatico": "Estudio de impactos económicos / Monografía de síntesis",
+    "nivel_aplicacion": "Nacional (Colombia)",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

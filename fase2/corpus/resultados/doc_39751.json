@@ -1,0 +1,197 @@
+{
+  "documento": {
+    "num_muestra": 19,
+    "titulo": "El cambio climático y la energía en América Latina",
+    "autoria": "David R. Heres Del Valle",
+    "handle": "https://hdl.handle.net/11362/39751",
+    "simbolo": "LC/W.688",
+    "isbn": null,
+    "fecha": "2015-12",
+    "tipo_documento": "Documento de proyecto o estudio técnico",
+    "paginas_cuerpo": 44,
+    "paginas_totales": 55,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": true,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Qué muestran la literatura y los modelos disponibles sobre los determinantes, trayectorias y políticas de la oferta y la demanda de energía en América Latina y el Caribe frente al cambio climático, y qué instrumentos permiten reducir emisiones sin bloquear el crecimiento?",
+    "alcance": {
+      "ambito_aplicacion": "América Latina y el Caribe, con estudios nacionales y comparados sobre Argentina, Bolivia, Brasil, Chile, Colombia, Ecuador, El Salvador, Honduras, México, Nicaragua, Panamá, Perú, Uruguay, Venezuela y otros países de la región.",
+      "referentes_dependencias": "Literatura académica y bases de WRI, Banco Mundial, IEA, IIASA/GEA, IPCC, OCDE y Global Renewable Fuels Alliance; se usan la OCDE y el mundo como referencias comparativas.",
+      "sectorial": "Mercado energético: oferta, demanda, transporte, industria, hogares, electricidad, combustibles fósiles, biocombustibles, energías renovables y eficiencia energética; efectos en salud, educación, agua, ingreso y comunidades.",
+      "temporal": "Revisión de estudios publicados principalmente entre 1990 y 2015, con series históricas desde 1970 y proyecciones que llegan a 2100 según el método y el escenario."
+    },
+    "hallazgos_principales": [
+      "En 2010 América Latina y el Caribe emitió 3.257 MtCO₂e, equivalentes al 8% de las emisiones mundiales; Argentina, Brasil, México y Venezuela concentraron 75% de las emisiones regionales (p.10).",
+      "La demanda energética regional mantiene una fuerte asociación con el crecimiento económico y las proyecciones bajo MESSAGE prevén una participación significativa de petróleo, gas y biomasa; el escenario supone un aumento medio de temperatura global de 3,7 °C hacia 2100 (p.14-15).",
+      "Los estudios revisados encuentran que medidas combinadas de oferta —menor contenido de carbono— y demanda —eficiencia energética— prometen mayores reducciones de GEI a menores costos (p.26), aunque la región enfrenta dificultades para desplazarse hacia una matriz dominada por renovables (p.44-45).",
+      "La literatura identifica instrumentos diferenciados: impuestos y subsidios, estándares de eficiencia, mandatos de biocombustibles, feed-in tariffs, financiamiento, etiquetado y campañas de información; las medidas de eficiencia en hogares e industria destacan por su potencial de reducción sin costos e incluso con beneficios económicos (p.41)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La evidencia está concentrada en Brasil, Chile y México y es más escasa para la oferta energética y los países menos desarrollados; por eso predominan modelos de simulación que comparan escenarios BAU con alternativas de eficiencia y renovables.",
+        "La transición energética regional es técnicamente posible, pero políticamente difícil: el crecimiento económico y la demanda de energía siguen vinculados a las emisiones, mientras la expansión de renovables enfrenta costos, incertidumbre, restricciones institucionales y dependencia fósil.",
+        "La región utiliza más regulación directa —en especial mandatos de biocombustibles— que instrumentos económicos, aunque la evidencia favorece combinar eficiencia, tecnologías limpias, información, financiamiento y coordinación de políticas."
+      ],
+      "recomendaciones": [
+        "Diseñar políticas diferenciadas según las características nacionales y evaluar su desempeño, porque no puede aplicarse el mismo paquete de medidas a todos los países (p.34).",
+        "Priorizar eficiencia energética en hogares, industria y transporte, junto con estándares, etiquetado, campañas de información, tecnologías renovables y mecanismos de financiamiento (p.41).",
+        "Asegurar que la transferencia tecnológica genere demanda interna y acceso a mercados regionales, y evaluar los impactos de uso del suelo y agua de los biocombustibles (p.39-40)."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "El documento revisa y clasifica la literatura sobre energía y cambio climático en América Latina y el Caribe, combinando estudios econométricos, modelos de simulación, proyecciones climáticas y análisis de instrumentos de política. Su recorrido conecta la demanda y la oferta de energía con crecimiento, emisiones, eficiencia, combustibles fósiles y renovables, y examina impactos en transporte, salud, educación, agua e ingreso. La evidencia muestra que las medidas de eficiencia y las estrategias que combinan cambios de oferta y demanda pueden reducir emisiones a menor costo, pero la región todavía depende de fósiles y enfrenta información incompleta, incertidumbre de modelos y barreras institucionales. El cierre propone leer la transición como un problema de política energética integrada: mandatos, estándares, información, financiamiento, transferencia tecnológica y evaluación ambiental deben operar de manera coherente."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "10-17",
+      "resumen": "Enmarca el problema como una externalidad global y cuantifica la posición regional: en 2010 América Latina y el Caribe aportó 3.257 MtCO₂e, 8% del total mundial, y cuatro países concentraron 75% de las emisiones. Con gráficos sobre emisiones per cápita, intensidad del PIB, gases, sectores y fuentes, muestra que la energía fósil sigue siendo importante y que el transporte y la industria concentran demanda creciente. Las proyecciones hasta 2100 vinculan desarrollo, consumo energético y emisiones, por lo que la función de la sección es plantear la tensión entre crecimiento y descarbonización que guiará la revisión.",
+      "dimensiones": [
+        {"dimension": "estado_de_situacion", "cita": "Dentro de la región, Argentina, Brasil, México y Venezuela generan el 75% de las emisiones de GEI, concentran el 66% de la población y el 75% del producto", "pagina": 10},
+        {"dimension": "diagnostico_estructural", "cita": "Resulta entonces fundamental para atender el desafío del cambio climático la construcción de políticas públicas que permitan la reducción de las emisiones de GEI destacando aquellas que provienen del sector energético sin afectar negativamente el crecimiento económico.", "pagina": 15}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Principales determinantes de la oferta y la demanda de energía en América Latina",
+      "nivel": 1,
+      "paginas": "18-25",
+      "resumen": "Organiza la literatura sobre los determinantes de la demanda y la oferta y explica qué métodos se usan cuando la información es desigual. El bloque de modelos econométricos compara elasticidades de ingreso y precio, causalidad entre energía, PIB y emisiones, y diferencias entre hogares, industria y transporte; el bloque de simulación proyecta matrices, costos y electrificación rural mediante escenarios. En conjunto, la sección establece que el crecimiento suele elevar el consumo, que los precios por sí solos tienen eficacia limitada y que eficiencia y renovables pueden cambiar la trayectoria, aunque los resultados dependen fuertemente de supuestos y datos.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Modelos econométricos para la demanda de energía",
+          "nivel": 2,
+          "paginas": "18-22",
+          "resumen": "Revisa estimaciones de demanda para México, Brasil, Chile, Centroamérica y paneles de países, comparando elasticidades respecto de ingreso y precio y relaciones de causalidad. Encuentra que el consumo suele responder más al ingreso que al precio, pero documenta excepciones en gasolinas brasileñas y en hogares chilenos; también muestra barreras residenciales para políticas tarifarias. La sequía brasileña de 2001 funciona como caso de que una tarifa adicional, información sobre consumo y señales de ahorro pueden reducir la demanda, con implicaciones para diseñar políticas que combinen precio e información.",
+          "dimensiones": [
+            {"dimension": "tendencias", "cita": "El consumo de energía es por lo general más sensible ante cambios en el ingreso que ante cambios en los precios.", "pagina": 22},
+            {"dimension": "brechas_implementacion", "cita": "Sin embargo éstas políticas pueden resultar exitosas si son acompañadas de estrategias que provean información sobre potenciales ahorros económicos y en daños a la salud y ambientales derivados de reducciones en el consumo de energía.", "pagina": 22, "subtipo_brecha": "retrospectiva"}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Modelos de simulación",
+          "nivel": 2,
+          "paginas": "22-25",
+          "resumen": "Presenta simulaciones para Brasil, Perú, Nicaragua, México y Colombia que comparan escenarios de crecimiento, eficiencia, renovables y combustibles. Los resultados incluyen una reducción de 13% del consumo brasileño bajo eficiencia y renovables, reducciones de costos de 22%-30% en electrificación híbrida rural peruana y potencial para cubrir 50% de la demanda eléctrica de San Andrés con energía termal oceánica. La sección sostiene que existen oportunidades técnicas de transición, pero advierte que la escasez de información vuelve sensibles los resultados a cambios en variables y supuestos.",
+          "dimensiones": [
+            {"dimension": "oportunidades", "cita": "Los autores reportan que sí existen oportunidades reales de reducir los costos de la provisión de servicios energéticos y transitar a un sistema de electricidad bajo en emisiones.", "pagina": 24},
+            {"dimension": "avances_implementacion", "cita": "Sus resultados para dos regiones distintas muestran reducciones en los costos de generación de entre 22% y 30% al combinar las dos tecnologías y la elección óptima de los puntos de generación en las localidades.", "pagina": 23}
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "II. Trayectorias posibles de la oferta y la demanda de energía con referencia al cambio climático",
+      "nivel": 1,
+      "paginas": "27-34",
+      "resumen": "Traslada el análisis desde los determinantes energéticos hacia trayectorias explícitamente climáticas. El bloque recorre proyecciones econométricas de PIB, energía y CO₂, escenarios IPCC/IIASA y efectos sobre transporte, agua, salud, educación y desigualdad; compara medidas de eficiencia, biocombustibles, renovables y cambios de matriz. La función argumental es mostrar que la mitigación debe considerar causalidades económicas y vulnerabilidades sectoriales, no solo el volumen agregado de emisiones.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Proyecciones econométricas para la relación entre crecimiento económico y emisiones GEI",
+          "nivel": 2,
+          "paginas": "27-29",
+          "resumen": "Examina relaciones de largo plazo y causalidad entre PIB, consumo energético y emisiones para Chile, México, Brasil y otros países latinoamericanos. Los estudios muestran vínculos bidireccionales en algunos casos, desacoplamiento parcial en Brasil desde 2004 por etanol y renovables, y una curva de Kuznets ambiental con umbrales de ingreso heterogéneos. El resultado de política es que la mitigación debe incorporar posibles efectos sobre actividad económica y combinar eficiencia con sustitución de combustibles.",
+          "dimensiones": [
+            {"dimension": "tendencias", "cita": "El crecimiento económico genera aumentos en las emisiones de CO2 pero este impacto se reduce a medida que los países alcanzan niveles más altos de desarrollo económico.", "pagina": 28},
+            {"dimension": "desafios", "cita": "Ello implica que las estrategias de mitigación en Chile, ya de por sí restringidas como reporta Mundaca (2013) deben ser evaluadas en consideración de los posibles efectos negativos que pudieran tener sobre la actividad económica.", "pagina": 27}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Proyecciones energéticas y cambio climático usando otros métodos",
+          "nivel": 2,
+          "paginas": "29-31",
+          "resumen": "Compara escenarios y modelos de costos para biodiésel, hidroenergía, renovables, transporte y matrices nacionales. Reporta que Brasil podría reducir 30% de su demanda energética con potencial hidroeléctrico, eólico, de biomasa y solar más eficiencia, mientras en Bolivia la menor precipitación podría reducir la producción energética entre 10% y 20%. También advierte que el etanol puede trasladar impactos al suelo y al agua, por lo que las alternativas deben evaluarse con criterios ambientales y sociales completos.",
+          "dimensiones": [
+            {"dimension": "propuestas_politica", "cita": "Para reducir las emisiones en cumplimiento de la política nacional de cambio climático se requiere aumentar la proporción de biodiesel del actual 5% al 12% en 2020 y reducir para el mismo año el consumo de diésel entre el 3% y 5%.", "pagina": 29},
+            {"dimension": "desafios", "cita": "La producción caería entre el 10% y 20% debido a la disminución de precipitaciones derivado del cambio climático.", "pagina": 30}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Impactos del cambio climático y la energía en otros sectores económicos y sociales",
+          "nivel": 2,
+          "paginas": "32-34",
+          "resumen": "Amplía el foco hacia bienestar, salud, educación, agua, ingreso y comunidades, mostrando que la política energética tiene efectos distributivos, culturales y territoriales. Los casos incluyen agua e hidroeléctricas peruanas, energía y pueblos indígenas en Ecuador, desigualdad energética en cinco países, salud en Buenos Aires, escuelas argentinas y glaciares bolivianos. La sección concluye que las políticas deben internalizar efectos intersectoriales y respetar diferencias culturales, preparando el paso hacia instrumentos públicos.",
+          "dimensiones": [
+            {"dimension": "diagnostico_estructural", "cita": "Es decir aquellos países donde hay mayor acceso de los hogares y equitativo a la electricidad, por ejemplo, son los mismos países donde el ingreso está distribuido más equitativamente.", "pagina": 33},
+            {"dimension": "desafios", "cita": "Así la recomendación del autor apunta a tomar medidas inmediatas para incentivar el uso ineficiente del agua y mejorar la cultura de la población hacia el ahorro de agua y energía.", "pagina": 33}
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "III. Políticas públicas energéticas y sus impactos en el cambio climático",
+      "nivel": 1,
+      "paginas": "34-43",
+      "resumen": "Clasifica instrumentos aplicados o propuestos en la región y los relaciona con eficiencia, renovables y mitigación. Los cuadros documentan impuestos, subsidios, estándares, mandatos, feed-in tariffs, programas de transporte, financiamiento y transferencia tecnológica, mientras el análisis contrasta medidas para hogares, productores y oferta energética. Brasil, México, Chile, Colombia y Nicaragua aportan casos concretos, incluido el mandato brasileño de hasta 30% de etanol y 5% de biodiésel; la sección concluye que eficiencia, información, tecnologías limpias y coordinación deben combinarse y evaluarse por costos e impactos territoriales.",
+      "dimensiones": [
+        {"dimension": "propuestas_politica", "cita": "En cuanto a la literatura económica, ésta realiza diferentes recomendaciones de políticas tanto institucionales como instrumentales, que en ambos casos requerirían de compromisos serios de los gobiernos y las entidades de cooperación internacional entre otros agentes decisivos para su exitosa implementación.", "pagina": 34},
+        {"dimension": "avances_implementacion", "cita": "Actualmente, este país impone un mandato de hasta el 30% para etanol y del 5% para el bio-diésel.", "pagina": 40},
+        {"dimension": "brechas_implementacion", "cita": "A pesar de los esfuerzos, los datos mostrados en el gráfico 6 revelan que la región ha aumentado su dependencia de energías fósiles y que la participación del uso de energías alternativas y renovables alcanza solamente una tercera parte del consumo total de energía.", "pagina": 34, "subtipo_brecha": "retrospectiva"}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "IV. Conclusión",
+      "nivel": 1,
+      "paginas": "44-45",
+      "resumen": "Cierra la revisión retomando sus límites de información, la concentración de estudios en Brasil, Chile y México y la escasez de evidencia sobre oferta energética. Concluye que los modelos comparan BAU con escenarios de eficiencia y renovables, pero que la región enfrenta una disyuntiva política entre crecimiento y energía intensiva en emisiones. El cierre identifica una preferencia regional por eficiencia del consumidor y regulación directa, especialmente mandatos de biocombustibles, frente a incentivos económicos para tecnologías limpias de productores; su implicación es la necesidad de una combinación de instrumentos y capacidades de implementación.",
+      "dimensiones": [
+        {"dimension": "brechas_implementacion", "cita": "Del lado de la oferta energética, la información es aún más limitada en la región, lo que hace que existan muy pocos estudios econométricos a este respecto.", "pagina": 44, "subtipo_brecha": "retrospectiva"},
+        {"dimension": "desafios", "cita": "En general, los resultados encontrados en la literatura muestran bastante dificultad en la región para moverse hacia una senda donde predominen las energías renovables, principalmente por la voluntad política que debe enfrentar la disyuntiva debatible de mayor crecimiento económico o menor consumo de energías intensas en emisiones de GEI.", "pagina": 44}
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento identifica instrumentos y sectores concretos —eficiencia industrial, transporte, renovables, biocombustibles y vivienda—, pero es una revisión de literatura y no propone un paquete propio de inversión masiva y coordinada a escala del modelo de desarrollo.",
+      "citas": [{"cita": "También se distinguen políticas destinadas a cambiar el comportamiento del productor usando instrumentos de política ambiental.", "pagina": 42}],
+      "nota": "El resultado refleja la naturaleza de revisión y clasificación del documento; no es una omisión accidental de una agenda propia de gran impulso."
+    },
+    "articulacion_actores": {
+      "veredicto": "Parcial",
+      "evidencia": "Nombra gobiernos, cooperación internacional, productores, consumidores y proveedores extranjeros, y describe mecanismos como feed-in tariffs y transferencia tecnológica; sin embargo, no presenta una arquitectura regional propia de coordinación con una institución o plataforma multiactor como objeto del estudio.",
+      "citas": [{"cita": "Para que la transferencia tecnológica funcione en una economía pequeña como Chile, una demanda interna debe ser garantizada y debe haber acceso a mercados regionales para atraer proveedores extranjeros de conocimiento.", "pagina": 40}],
+      "nota": "La articulación aparece como condición de implementación y transferencia, no como mecanismo regional diseñado por el documento."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "Enumera oportunidades sectoriales —energía eólica, solar, geotérmica, biocombustibles, eficiencia y electrificación rural— y vincula algunas con costos, inversión y productividad, pero no desarrolla de manera sostenida su relación con empleo o reducción de desigualdad.",
+      "citas": [{"cita": "Las políticas dirigidas hacía la disminución de costos energéticos por medio de incrementos en la eficiencia energética y adopción de tecnologías más limpias como las geotermales o biocombustibles, le permitirían a la región consumir la energía proyectada para su crecimiento y disminuir las emisiones de GEI comparado con un escenario base.", "pagina": 32}],
+      "nota": "La revisión evidencia oportunidades productivas y de costos, pero no satisface plenamente el vínculo empleo-desigualdad exigido por el test."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "No",
+      "evidencia": "El cierre sintetiza hallazgos y orientaciones de política, pero no contiene una lista propia de recomendaciones operativas con ítems individualmente evaluables; las enumeraciones de instrumentos aparecen en el análisis de literatura y en cuadros de terceros.",
+      "citas": [{"cita": "En general, los resultados encontrados en la literatura muestran bastante dificultad en la región para moverse hacia una senda donde predominen las energías renovables, principalmente por la voluntad política que debe enfrentar la disyuntiva debatible de mayor crecimiento económico o menor consumo de energías intensas en emisiones de GEI.", "pagina": 44}],
+      "desglose_items": [],
+      "tally": "0 de 0 ítems pasan el test de concreción",
+      "nota": "El No es por diseño del documento: la conclusión es una síntesis de literatura, no una sección normativa propia con lista de acciones."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {"numero": 6, "nombre": "Sostenibilidad ambiental", "certeza": "Alta"},
+    "transformacion_secundaria": {"numero": 11, "nombre": "Capacidades del Estado", "certeza": "Media"},
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la contradicción entre crecimiento económico y una demanda energética que mantiene o eleva las emisiones de GEI. También enfrenta la tensión entre el potencial técnico de renovables y eficiencia, por una parte, y la dependencia fósil, la información escasa, los costos y la voluntad política, por otra; la revisión compara escenarios y políticas para hacer visible esa tensión.",
+      "filtro_categoria_primaria": "El objeto principal es transformar la relación entre energía, emisiones y desarrollo mediante eficiencia, renovables, biocombustibles y mitigación, por lo que corresponde #6 Sostenibilidad ambiental. Se descarta #11 como primaria porque los instrumentos institucionales, la cooperación y la información son condiciones habilitadoras del cambio energético, no el objeto que organiza la revisión ni el hallazgo de cierre.",
+      "secundaria_obligatoria": "#11 Capacidades del Estado es secundaria porque la implementación depende de gobiernos capaces de diferenciar instrumentos, evaluar costos, sostener estándares y mandatos, coordinar cooperación y asegurar transferencia tecnológica. La sección de políticas enfatiza compromisos de gobiernos y cooperación, mientras el cierre atribuye la dificultad de avanzar a la voluntad política.",
+      "justificacion_anti_copia": "La clasificación se ancla en rasgos propios: revisión de elasticidades y causalidades entre PIB, consumo y emisiones; escenarios MESSAGE/GEA e IPCC con proyecciones hasta 2100; comparación de instrumentos como mandatos brasileños de 30% de etanol y 5% de biodiésel, feed-in tariffs y estándares; y análisis de impactos en agua, salud, transporte y vivienda. Estos elementos muestran una agenda ambiental-climática cuyo cuello de botella es la capacidad de diseñar y ejecutar política energética.",
+      "validacion_anclas": "Se aproxima al ancla 9, que clasifica resiliencia energética como #6/#11, porque la tecnología y la reducción de emisiones son el sujeto y las capacidades son el medio. Se diferencia del ancla 19 (#11/#6) porque este documento no mide capacidades públicas ni arquitectura institucional: revisa trayectorias energéticas, costos, emisiones e instrumentos sectoriales, por lo que la inversión de objeto e instrumento no corresponde."
+    },
+    "tipo_documento_climatico": "Revisión de literatura y documento de proyecto técnico sobre energía y cambio climático",
+    "nivel_aplicacion": "Regional, con estudios comparados y casos nacionales",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

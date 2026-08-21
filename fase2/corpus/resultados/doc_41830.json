@@ -1,0 +1,372 @@
+{
+  "documento": {
+    "num_muestra": 49,
+    "titulo": "Valoración económica de los cobeneficios del aprovechamiento energético de los residuos agrícolas en el Ecuador",
+    "autoria": "Marco Calderón Loor, Fernando Andrade, Lorena Lizarzaburu, Mauricio Masache",
+    "handle": "https://hdl.handle.net/11362/41830",
+    "simbolo": "LC/TS.2017/52",
+    "isbn": null,
+    "fecha": "2017-06",
+    "tipo_documento": "Documentos de Proyectos",
+    "paginas_cuerpo": 40,
+    "paginas_totales": 42,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cuáles son la factibilidad y la valoración económica de los cobeneficios asociados al aprovechamiento de los residuos agrícolas para la generación de energía eléctrica en el Ecuador, según diferentes cultivos y escalas de productores?",
+    "alcance": {
+      "ambito_aplicacion": "Ecuador (provincias de Guayas y Los Ríos)",
+      "referentes_dependencias": null,
+      "sectorial": "Sector agrícola y sector energético (bioenergía)",
+      "temporal": "2016-2017 (con datos y tarifas estilizadas a 2014-2016, vida útil de planta de 25 años)"
+    },
+    "hallazgos_principales": [
+      "El sector agrícola ecuatoriano emite cerca de 160 millones de tCO2e al año, representando casi el 28% de las emisiones totales de GEI en el Ecuador (p. 14).",
+      "Los cuatro cultivos más apropiados para maximizar el aprovechamiento de biomasa son palma africana (6.87 millones t/año de residuos), banano (4.93 millones t/año), arroz (2.11 millones t/año) y caña de azúcar (0.79 millones t/año) (p. 15).",
+      "La generación de energía con turbinas de vapor (ciclo termodinámico de Rankine) es la tecnología más robusta y confiable para su aprovechamiento en todos los escenarios analizados (p. 23).",
+      "Bajo las condiciones iniciales de modelación (costo de residuo cero, inversión inicial de $1,859/W, sin incentivo por CO2), todos los 18 escenarios analizados presentan un VAN positivo, demostrando que son económicamente factibles (p. 34).",
+      "En condiciones iniciales, la TIR de ningún proyecto supera el límite establecido de rentabilidad del 20%, siendo el cultivo de arroz el que presenta mejores condiciones con una TIR más cercana a este umbral en ambas provincias (p. 38).",
+      "Para alcanzar una TIR del 20%, se requiere un incentivo de reducción de emisiones que varía de 8.95 USD/tCO2 en el caso del arroz para pequeños productores en Guayas, hasta 61.32 USD/tCO2 para caña de azúcar de grandes productores en Guayas (p. 38).",
+      "La reducción anual de emisiones de CO2 oscila desde cerca de 45.75 tCO2/año en el escenario de arroz a pequeña escala en Guayas, hasta más de 2,106.65 tCO2/año en el escenario de caña de azúcar a gran escala en Los Ríos (p. 35)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El aprovechamiento energético de los residuos de los cultivos seleccionados (palma africana, banano, arroz y caña de azúcar) en las provincias de Guayas y Los Ríos es técnicamente viable y produce importantes cobeneficios económicos, sociales y ambientales (p. 37).",
+        "Aunque todos los escenarios modelados presentan factibilidad comercial en términos de VAN positivo bajo condiciones iniciales, ninguno de ellos es capaz de atraer por sí mismo la inversión privada ya que sus tasas de interés de retorno (TIR) no superan el umbral mínimo establecido del 20% (p. 38).",
+        "Para que este tipo de proyectos resulten atractivos para la inversión privada, es indispensable contar con incentivos gubernamentales por toneladas de CO2 evitadas y garantizar un costo de residuo mínimo o nulo (p. 38).",
+        "Existen barreras estructurales (técnicas, de articulación de actores y de mercado) que frenan la expansión del reaprovechamiento de biomasa, tales como la presencia de subsidios a combustibles fósiles, la especulación de precios y la baja articulación público-privada (p. 38)."
+      ],
+      "recomendaciones": [
+        "Utilizar este estudio como un primer acercamiento a la factibilidad de implementación y realizar análisis más detallados que establezcan una comparativa entre tecnologías (calderos, motores térmicos, etc.) para determinar la más favorable (p. 39).",
+        "Desarrollar estudios específicos que tomen en cuenta factores que pueden afectar la producción agrícola y la consecuente generación de residuos para diseñar medidas adaptativas que aseguren metas de producción (p. 39).",
+        "Generar escenarios de producción que consideren criterios de manejo agrícola realistas y fincas conformadas por mosaicos de cultivos para ajustar las estimaciones anuales de biomasa residual (p. 39)."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "Este estudio evalúa la viabilidad económica y los cobeneficios del aprovechamiento energético de residuos agrícolas en Ecuador mediante tecnologías de turbinas de vapor. Se analizan dieciocho escenarios que combinan cuatro cultivos clave (palma africana, banano, arroz y caña de azúcar) en las provincias de Guayas y Los Ríos, según la escala de pequeños, medianos y grandes productores. Los resultados financieros indican que aunque todos los proyectos son factibles por mostrar un value actual neto positivo bajo condiciones iniciales, ninguno alcanza por sí mismo la tasa interna de retorno mínima requerida del veinte por ciento. En consecuencia, el documento concluye que es indispensable diseñar marcos de políticas públicas estables, crear incentivos financieros específicos por emisiones evitadas, y articular formalmente a los actores de la cadena para asegurar el suministro de biomasa a costo mínimo o nulo."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "12-13",
+      "resumen": "Presenta la justificación y relevancia de la agricultura en Ecuador como un sector clave para el PIB y el empleo, que a su vez es altamente vulnerable al cambio climático pero genera cerca del 28% de las emisiones nacionales de GEI. Explica que la quema y descomposición de residuos agrícolas es una fuente importante de estas emisiones y propone que su aprovechamiento bioenergético representa una oportunidad dual de mitigación y generación de energía limpia. Finalmente, define el concepto de cobeneficio como aquellos aprovechamientos secundarios del desarrollo sostenible que van más allá del beneficio directo de reducción de emisiones.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "En Ecuador, la agricultura es uno de los sectores que más aporta al PIB de la economía nacional (aproximadamente al 8,5% de los últimos 11 años) (El Agro, 2014), acogiendo al 28% de la fuerza laboral (CIA, 2015) y representando alrededor del 28% de las exportaciones del país (BCE, 2015).",
+          "pagina": 12
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Por otro lado, a nivel nacional, la agricultura es uno de los sectores que más emisiones de GEI aporta a la atmósfera (MAE, 2011).",
+          "pagina": 12
+        },
+        {
+          "dimension": "oportunidades",
+          "cita": "Frente a este escenario se presentan oportunidades para el aprovechamiento energético de residuos agrícolas. Primero, la reducción de las emisiones de GEI causadas por la quema o descomposición de residuos agrícolas y segundo, la generación de energía renovable (disminuyendo la dependencia de combustibles fósiles).",
+          "pagina": 12
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Estado del arte",
+      "nivel": 1,
+      "paginas": "14-18",
+      "resumen": "Revisa la literatura científica y los antecedentes técnicos y nacionales sobre bioenergía agrícola. Primero, describe cómo el cambio climático impacta negativamente el rendimiento de cultivos clave como el trigo, el maíz, el arroz y la soja a nivel global y en Ecuador, señalando que los suelos agrícolas representan casi el 28% de las emisiones nacionales. Segundo, detalla los tres tipos de mitigación agrícola (reducción de emisiones, incremento de reservorios y emisiones evitadas) y clasifica la biomasa residual en función de su humedad, azúcares, lignocelulosa y ácidos grasos. Tercero, expone las tecnologías de aprovechamiento (termoquímica, bioquímica y transesterificación), destacando la combustión para turbinas de vapor y ciclo Rankine. Por último, describe seis proyectos bioenergéticos previos implementados en Ecuador como La Fabril (biodiésel) y San Carlos (cogeneración por bagazo de caña).",
+      "dimensiones": [
+        {
+          "dimension": "tendencias",
+          "cita": "Para los períodos subsiguientes hasta el año 2100 estas tendencias se conservarían y las magnitudes de los cambios se elevarían (véase el gráfico 3).",
+          "pagina": 15
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Gases como el dióxido de carbono (CO2), metano (CH4) y el óxido nitroso (N2O) son liberados en grandes cantidades a la atmósfera, contribuyendo con alrededor del 10-12% de las emisiones totales causadas por la actividad antropogénica (Cameron, 2014).",
+          "pagina": 15
+        },
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "A pesar de que las emisiones de GEI agrícolas conforman un importante porcentaje de las emisiones globales totales y con casi el 28% de las emisiones totales de GEI en Ecuador (MAE, 2014b), existen diversas opciones de mitigación. P. Smith et al. (2008) agrupan estas opciones en tres grupos: reducción de emisiones, incremento de los reservorios de GEI y emisiones evitadas (véase el diagrama 1).",
+          "pagina": 15
+        },
+        {
+          "dimension": "avances_implementacion",
+          "cita": "Ecuador ha tomado parte en las experiencias acerca del aprovechamiento energético de residuos agrícolas con distintos proyectos; mismos que se han fomentado a través de instituciones públicas y privadas. Además, muchas de estas experiencias han tenido apoyo técnico o financiero de organizaciones internacionales, los proyectos desarrollados se presentan en el cuadro 5.",
+          "pagina": 18
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "II. Selección de cultivos, área de estudio, tecnologías de aprovechamiento y cobeneficios",
+      "nivel": 1,
+      "paginas": "20-29",
+      "resumen": "Este capítulo desarrolla detalladamente la fundamentación metodológica para evaluar el reaprovechamiento energético de la biomasa agrícola. Se explican los criterios de selección de cultivos y provincias de estudio, se caracteriza la tecnología de generación seleccionada y se establecen las clasificaciones de los productores. Asimismo, se definen los cobeneficios ambientales, sociales y económicos a analizar y la metodología matemática de modelación costo-beneficio y costos nivelados.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Elección de cultivos y zonas de estudio",
+          "nivel": 2,
+          "paginas": "20-21",
+          "resumen": "Justifica la selección de los cuatro cultivos de análisis basándose en su poder calorífico, cantidad de residuos, tendencias y vulnerabilidad: palma africana y banano (exportación), y arroz y caña de azúcar (subsistencia). Elige las provincias de Guayas y Los Ríos como las zonas prioritarias de estudio por concentrar el mayor volumen de producción agrícola y de residuos residuales a nivel nacional. Destaca que la caña de azúcar y la palma poseen tendencias crecientes, mientras que el banano es estable y el arroz variable.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "De acuerdo a la cantidad de energía bruta anual, superficie cultivada y tipo de residuos generados por cada cultivo agrícola en Ecuador se seleccionaron cuatro: la palma africana, banano, arroz y caña de azúcar, los dos primeros considerados como cultivos de exportación y los dos últimos de subsistencia.",
+              "pagina": 20
+            },
+            {
+              "dimension": "desafios",
+              "cita": "Un dato a tomar en cuenta es la vulnerabilidad de los cultivos considerados de subsistencia frente al cambio climático, tanto el arroz como la caña de azúcar podría sufrir un detrimento en su producción anual. Adicionalmente, las áreas en las que estos cultivos se desarrollan podrían perder su aptitud agrícola.",
+              "pagina": 21
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Elección de tecnologías de reaprovechamiento energético según los cultivos seleccionados",
+          "nivel": 2,
+          "paginas": "22-23",
+          "resumen": "Analiza las propiedades físico-químicas de los residuos agrícolas como la humedad (que decrece el poder calorífico neto) y la ceniza para determinar la tecnología más adecuada. Se caracteriza la tecnología de generación con turbinas de vapor y el ciclo termodinámico de Rankine, argumentando que su madurez, confiabilidad y versatilidad permiten operar con biomasa en cualquier estado físico. Este sistema produce energía eléctrica (beneficio directo transferible) y energía térmica residual que puede utilizarse en secado.",
+          "dimensiones": [
+            {
+              "dimension": "oportunidades",
+              "cita": "Dentro de las tecnologías maduras que usan combustión de biomasa residual en su sistema para generación eléctrica se encuentran las turbinas de vapor, ésta tecnología (basada en ciclo termodinámico de Rankine) tiene la ventaja de poder usar cualquier tipo de combustible (sólido, líquido o gaseoso) para su proceso (incluida la biomasa), lo que lo hace un proceso adecuado para el uso de los diferentes cultivos (Obernberger & Thek, 2008; Agüero, Pisa, & Andina, 2011).",
+              "pagina": 23
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Tipología de pequeños, medianos y grandes productores, índices de rendimiento y definición de cobeneficios",
+          "nivel": 2,
+          "paginas": "23-25",
+          "resumen": "Establece la clasificación de los productores agrícolas de acuerdo a la superficie promedio de sus tierras en tres escalas: pequeños (0.25-10 ha, prom. 8 ha), medianos (10.1-50 ha, prom. 16 ha) y grandes (más de 50 ha, prom. 60 ha). A partir de allí y cruzando datos de rendimiento por hectárea, calcula la producción de residuos para cada uno de los 18 escenarios. Finalmente, estima la población beneficiaria de cada escenario considerando un promedio de 3.78 personas por hogar.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "El resultado muestra que tanto el banano como la palma africana pueden producir cerca de 26 ton/ha/año, mientras que el arroz tiene un rendimiento de residuos de 5 ton/ha. El cuadro 9 muestra el resumen de la superficie cosechada de cada cultivo, el rendimiento en producción (MAGAP, 2015), la cantidad y el rendimiento de los residuos generados y la energía bruta total por provincia (ESIN, 2014).",
+              "pagina": 24
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Definición de los cobeneficios del aprovechamiento energético de los residuos agrícolas",
+          "nivel": 2,
+          "paginas": "24-26",
+          "resumen": "Establece la taxonomía y definiciones operativas de los cobeneficios secundarios (sociales, económicos e institucionales) derivados de la mitigación. Identifica cuatro cobeneficios concretos del proyecto: generación eléctrica (MW), mitigación del cambio climático (tCO2 evitadas), mejora en la calidad de vida (incremento en el ingreso económico) y fortalecimiento de capacidades (programas de capacitación, empleo y educación, de naturaleza cualitativa). Estos cobeneficios representan externalidades positivas tradicionalmente ausentes en la toma de decisiones.",
+          "dimensiones": [
+            {
+              "dimension": "oportunidades",
+              "cita": "Los cobeneficios son aprovechamientos indirectos o secundarios de las medidas de mitigación al cambio climático (Williams, 2014). Pueden estar relacionados a la creación de nuevas plazas de empleo, mejora en la calidad ambiental, entre otros, también pueden actuar como un factor importante en la consecución de metas de desarrollo sostenible (Hinostroza et al., 2012).",
+              "pagina": 25
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Descripción de la metodología utilizada en la valoración económica de cobeneficios y el cálculo del beneficio directo",
+          "nivel": 2,
+          "paginas": "26-29",
+          "resumen": "Descripción de la metodología de valoración económica basada en la fórmula del Valor Económico Total (VET = VUD + VUI + VL). Asigna la generación eléctrica como valor de uso directo, la mitigación de emisiones como valor de uso indirecto, y la utilidad por venta como valor de legado. Detalla el uso de un modelo financiero para calcular el VAN y el LCOE, relacionándolos con la tasa de descuento de SENPLADES (12%), impuestos, costos de operación y mantenimiento, inversión inicial y vida útil de la planta (25 años).",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "El objetivo de una valoración económica supone el intento de asignar valores cuantitativos a los bienes y servicios resultantes de una actividad productiva, independientemente de la existencia de un precio de mercado para dichos bienes o servicios (Barbier, Acreman, & Knowler, 1997).",
+              "pagina": 27
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "III. Definición del modelo, análisis de resultados y factibilidad",
+      "nivel": 1,
+      "paginas": "30-35",
+      "resumen": "Implementa y analiza la modelación financiera y económica de los dieciocho escenarios utilizando el modelo de costos nivelados. Define todas las variables de entrada como tarifas de CONELEC ($0.0810/kWh), precio mayorista de ARCONEL ($0.0967/kWh), factor de emisión de CENACE (0.5076) e inversión de $1.8596/W. En los resultados bajo condiciones iniciales, concluye que todos los escenarios presentan un VAN positivo, lo que los hace factibles. Sin embargo, dado que ninguna de las TIR de los cultivos alcanza el umbral de rentabilidad privada del 20%, el modelo estima el monto del subsidio/incentivo por carbono evitado requerido para lograrlo, variando entre $8.95 (arroz pequeños) y $61.32 (caña grandes).",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "A su vez, para establecer la factibilidad de un proyecto de generación eléctrica a partir de la biomasa, y para valorar económicamente los bienes y servicios provenientes del aprovechamiento energético, se ha construido un modelo financiero que incorpora y es capaz de analizar todas las variables y valores que influyen directamente en su ejecución.",
+          "pagina": 30
+        },
+        {
+          "dimension": "avances_implementacion",
+          "cita": "Estos valores permiten realizar diversos análisis de costos, implementación de incentivos, establecimiento de precios para residuos agrícolas, reducción de emisiones de carbono y factibilidad de implementación.",
+          "pagina": 34
+        },
+        {
+          "dimension": "brechas_implementacion",
+          "cita": "El gráfico 4, muestra las emisiones de carbono evitadas en cada uno de los escenarios (permanecen constantes con o sin incentivo), donde la caña, el banano y la palma son los mayores emisores.",
+          "pagina": 34,
+          "subtipo_brecha": "prospectiva"
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "IV. Barreras de implementación de la tecnología",
+      "nivel": 1,
+      "paginas": "36-37",
+      "resumen": "Identifica y clasifica las barreras que frenan la bioenergía en Ecuador a través de entrevistas y talleres. Primero, en capacidades, destaca la falta de conocimiento técnico público y la desconfianza privada. Segundo, en articulación de actores, resalta la desarticulación público-privada y la ausencia de una política pública holística o plan estratégico específico. Tercero, en mercado, detalla el efecto desincentivador de los subsidios a combustibles fósiles, la falta de proveedores de tecnologías de ciclo Rankine (equipos incompletos y sin mantenimiento), y la inestabilidad por especulación de precios del residuo.",
+      "dimensiones": [
+        {
+          "dimension": "desafios",
+          "cita": "Baja articulación entre actores públicos y privados: a pesar de los esfuerzos de la AEA, que ha coordinado varios encuentros entre los actores involucrados para lograr el reaprovechamiento energético de biomasa, resulta evidente que el trabajo coordinado todavía tiene que reforzarse.",
+          "pagina": 37
+        },
+        {
+          "dimension": "brechas_implementacion",
+          "cita": "Falta de una política pública/plan estratégico específico y holístico: aunque el reaprovechamiento energético de biomasa residual tiene relevancia dentro de varios planes, programas, regulaciones públicas (por ejemplo: Plan Nacional del Buen Vivir, Estrategia Nacional de Cambio Climático, regulaciones del CONELEC y ARCONEL), no existe un plan específico para la aplicación de esta tecnología, que establezca lineamientos claros en base a objetivos holísticos que incluya las perspectivas de todos los sectores involucrados.",
+          "pagina": 37,
+          "subtipo_brecha": "retrospectiva"
+        },
+        {
+          "dimension": "desafios",
+          "cita": "Subsidios a la energía eléctrica, diésel y gas natural: generan una barrera de entrada para la cogeneración de energía a partir del uso de la biomasa, ya que no resultan en una inversión atractiva dado los bajos precios de venta establecidos por el ARCONEL disminuyendo así, la competitividad de esta tecnología.",
+          "pagina": 37
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "V. Conclusiones",
+      "nivel": 1,
+      "paginas": "38-39",
+      "resumen": "Sintetiza las conclusiones respondiendo a los objetivos. Confirma que la palma, banano, arroz y caña de azúcar en Los Ríos y Guayas son los cultivos prioritarios. Establece que las turbinas de vapor y ciclo Rankine son la tecnología más robusta. Resalta que bajo condiciones iniciales todos los proyectos tienen VAN positivo pero la TIR no supera el 20%, requiriendo incentivos por carbono y residuos a costo cero. Identifica tres tipos de barreras (capacidades, articulación y mercado). Concluye que la articulación con apiladoras y la creación de políticas públicas pueden habilitar oportunidades de negocio, empleo y capacitación rústica.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "El análisis de las variables de salida del modelo financiero para cada uno de los escenarios propuestos muestra que de implementarse los proyectos con las condiciones iniciales de modelación todos presentarían un VAN positivo, es decir, todos los son factibles para su implementación. Sin embargo, se contrastan con los valores de la tasa interna de retorno.",
+          "pagina": 39
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "La generación de políticas públicas que promuevan el uso de este tipo de residuos para el aprovechamiento energético además de beneficiosa para el ambiente, podría crear una oportunidad de negocio atractiva para los agricultores además de generar fuentes de empleo y oportunidades para el fortalecimiento de capacidades al ubicar a trabajadores en actividades relacionadas con la construcción, operación y mantenimiento de las plantas de generación eléctrica a partir de residuos agrícolas y relacionados a otras actividades asociadas y/o que resulten de la implementación de nuevas tecnologías.",
+          "pagina": 39
+        },
+        {
+          "dimension": "desafios",
+          "cita": "El modelo planteado explora la posibilidad de establecer un valor o rango de valores por tonelada de residuos, sin embargo, no se ha generado ningún valor debido a que la tasa de retorno de la inversión no llega a un valor lo suficientemente atractivo para la inversión privada. Es decir, los resultados indican que el valor por tonelada de residuo solamente arrojaría una tasa interna de retorno menos favorable, por tanto, se concluye que, para la implementación de este tipo de proyectos, es necesario un valor mínimo o nulo del residuo, presentes en apiladoras o procesadoras de los productos agrícolas.",
+          "pagina": 39
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "VI. Recomendaciones",
+      "nivel": 1,
+      "paginas": "40-41",
+      "resumen": "Formula lineamientos para futuras investigaciones and adaptaciones operativas. Recomienda utilizar este estudio como primer acercamiento y ampliarlo con análisis detallados comparativos de otras tecnologías (motores térmicos, calderos) and con la determinación del costo de capital en Ecuador. Sugiere desarrollar estudios específicos sobre factores que afectan la productividad agrícola y medidas adaptativas de producción. Finalmente, aconseja modelar escenarios complejos que contemplen fincas conformadas por mosaicos de producción agrícola real y distintos criterios de manejo de biomasa.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Aunque el estudio se basa en la tecnología de turbinas de vapor también existen otros tipos (motores térmicos, calderos, etc.) que, dependiendo del perfil del proyecto, pueden resultar aún más favorables y atractivos para la inversión. Por tanto, se recomienda utilizar el estudio como un primer acercamiento a la factibilidad de implementación para posteriormente, realizar un análisis más detallado que establezca una comparativa entre tecnologías con el fin de determinar la más favorable.",
+          "pagina": 40
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "El desarrollo de estudios específicos que tomen en cuenta factores que pueden afectar la producción agrícola y, por lo tanto, la generación de residuos permitiría generar medidas adaptativas que aseguren el cumplimiento de las metas de producción planteadas.",
+          "pagina": 40
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "En este contexto, es recomendable generar escenarios de producción que tomen en cuenta distintos criterios de manejo para ajustar los valores de producción de residuos anuales.",
+          "pagina": 40
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El estudio evalúa de manera concreta la factibilidad de aprovechar residuos agrícolas (palma africana, banano, arroz y caña de azúcar) para la producción de electricidad limpia con turbinas de vapor en Ecuador (p. 19, 23). Sin embargo, carece de la escala de modelo de desarrollo característica de un 'Gran Impulso'. No propone un paquete macroeconómico o intersectorial coordinado de inversiones simultáneas (la metáfora del despegue), sino un análisis de rentabilidad sectorial de una tecnología de combustión en escenarios de fincas individuales sin lógica integrada de cambio estructural nacional.",
+      "citas": [
+        {
+          "cita": "El presente estudio muestra por primera vez un estudio de valoración económica de cobeneficios para el aprovechamiento energético de los residuos de cuatro cultivos agrícolas para tres grandes escenarios de tenencia de tierra (pequeños, medianos y grandes productores).",
+          "pagina": 8
+        }
+      ],
+      "nota": null
+    },
+    "articulacion_actores": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento identifica actores relevantes públicos y privados del sector bioenergético (como MEER, MAGAP, INER, IICA, AEA y la compañía ENERPRO) y reporta que se realizaron talleres y encuentros para diagnosticar barreras de implementación (p. 35). Sin embargo, el mecanismo de articulación para la ejecución de la política de biomasa queda formulado únicamente como un imperativo normativo abstracto de 'deber ser'. El estudio señala explícitamente como una barrera la 'baja articulación entre actores públicos y privados' y la 'falta de una política pública/plan estratégico específico y holístico' sin proponer una plataforma formal o comisión interinstitucional nombrada con financiamiento para resolverlo.",
+      "citas": [
+        {
+          "cita": "Baja articulación entre actores públicos y privados: a pesar de los esfuerzos de la AEA, que ha coordinado varios encuentros entre los actores involucrados para lograr el reaprovechamiento energético de biomasa, resulta evidente que el trabajo coordinado todavía tiene que reforzarse.",
+          "pagina": 37
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "El estudio enumera sectores y cultivos específicos como oportunidades para revalorizar residuos (palma africana, banano, arroz y caña de azúcar, p. 19). Vincula cualitativamente esta transición con el empleo rural, argumentando que se pueden 'generar fuentes de empleo y oportunidades para el fortalecimiento de capacidades al ubicar a trabajadores en actividades relacionadas con la construcción, operación y mantenimiento de las plantas de generación eléctrica' (p. 38). No obstante, el vínculo se mantiene en términos cualitativos generales sin aportar cifras, metas, estudios de mercado de trabajo ni un plan específico de fomento laboral, catalogando explícitamente el empleo como un indicador 'Cualitativo' (p. 25).",
+      "citas": [
+        {
+          "cita": "La generación de políticas públicas que promuevan el uso de este tipo de residuos para el aprovechamiento energético además de beneficiosa para el ambiente, podría crear una oportunidad de negocio atractiva para los agricultores además de generar fuentes de empleo y oportunidades para el fortalecimiento de capacidades al ubicar a trabajadores en actividades relacionadas con la construcción, operación y mantenimiento de las plantas de generación eléctrica a partir de residuos agrícolas y relacionados a otras actividades asociadas y/o que resulten de la implementación de nuevas tecnologías.",
+          "pagina": 39
+        }
+      ],
+      "nota": null
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento contiene una sección formal de recomendaciones finales en el cierre (Capítulo VI, p. 39). De los tres ítems presentados en la lista de recomendaciones, únicamente uno pasa el test de concreción al prescribir un entregable específico y tecnologías comparadas (la evaluación de factibilidad comparando turbinas de vapor frente a calderos y motores térmicos, así como determinar los costos de inversión del capital por tecnología en el país). Los otros dos ítems son formulaciones abstractas referidas a desarrollar estudios futuros de factores de rendimiento y de mosaicos de cultivos sin especificar métodos ni metas.",
+      "citas": [
+        {
+          "cita": "Por tanto, se recomienda utilizar el estudio como un primer acercamiento a la factibilidad de implementación para posteriormente, realizar un análisis más detallado que establezca una comparativa entre tecnologías con el fin de determinar la más favorable. Adicionalmente, se recomienda recurrir a estudios que busquen determinar el costo del capital de inversión por tipo de tecnología disponible en Ecuador.",
+          "pagina": 40
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Utilizar el estudio como un primer acercamiento a la factibilidad de implementación para posteriormente realizar un análisis más detallado que establezca una comparativa entre tecnologías (motores térmicos, calderos) y recurrir a estudios de costos del capital en Ecuador.",
+          "clasificacion": "CONCRETO",
+          "pagina": 40
+        },
+        {
+          "item": "Desarrollar estudios específicos de factores que pueden afectar la producción agrícola y la generación de residuos para generar medidas adaptativas.",
+          "clasificacion": "GENERICO",
+          "pagina": 40
+        },
+        {
+          "item": "Generar escenarios de producción que consideren mosaicos de fincas y criterios de manejo de biomasa para ajustar la producción de residuos anuales.",
+          "clasificacion": "GENERICO",
+          "pagina": 40
+        }
+      ],
+      "tally": "1 de 3 ítems pasan el test de concreción",
+      "nota": null
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 1,
+      "nombre": "Desarrollo productivo",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento aborda la contradicción entre el potencial bioenergético subutilizado de los residuos agrícolas en Ecuador y las barreras económicas de mercado que impiden su adopción privada. Procesa esta tensión mediante la valoración integral de los cobeneficios económicos, sociales y ambientales (VET) para demostrar la rentabilidad social de este aprovechamiento y cuantificar los incentivos gubernamentales requeridos para su viabilidad financiera.",
+      "filtro_categoria_primaria": "La transformación primaria es #6 Sostenibilidad ambiental. Aunque el documento emplea análisis financiero detallado (afín a #10) e instrumentos de mercado, el hilo conductor, la justificación ambiental de base y las conclusiones de cierre se centran de manera unívoca en la mitigación del cambio climático y la transición hacia el uso sostenible de biomasa residual para reducir la huella de carbono de la agricultura.",
+      "secundaria_obligatoria": "La transformación secundaria es #1 Desarrollo productivo. Cumple una función transformadora de la base económica rural al proponer la valorización de residuos como un nuevo modelo de negocio circular para pequeños, medianos y grandes productores, buscando generar empleo rural, diversificación de ingresos agrícolas e incorporación de tecnología energética local.",
+      "justificacion_anti_copia": "El estudio evalúa 18 escenarios específicos cruzando arroz, banano, palma africana y caña de azúcar en las provincias de Guayas y Los Ríos utilizando turbinas de vapor (p. 30). Concluye que bajo condiciones iniciales de residuo a costo cero y costo de instalación de $1.8596/W la TIR de ningún cultivo supera el 20%, calculando que se requieren incentivos fiscales desde $8.95 hasta $61.32 por tonelada de CO2 evitada (p. 35) para destrabar barreras de mercado como la especulación de precios y los subsidios a los hidrocarburos (p. 36).",
+      "validacion_anclas": "Este caso es temáticamente similar a la parte climática del ancla Doc18 (“La economía del cambio climático en América Latina y el Caribe, 2023: necesidades de financiamiento y herramientas de política para la transición hacia economías con bajas emisiones de carbono y resilientes al cambio climático” #6/#10) debido a su uso de modelación matemática costo-beneficio y costos de capital. Sin embargo, se distingue por centrar su análisis no en la política macrofiscal o agregada de financiamiento climático, sino en la microeconomía y estructura productiva de los predios agrícolas según la escala de tenencia de la tierra, haciéndolo afín a la transformación secundaria de #1 Desarrollo productivo."
+    },
+    "tipo_documento_climatico": "Estudio técnico y económico de mitigación",
+    "nivel_aplicacion": "Nacional y Subnacional (Ecuador, provincias de Guayas y Los Ríos)",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

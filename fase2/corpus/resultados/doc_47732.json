@@ -1,0 +1,682 @@
+{
+  "documento": {
+    "num_muestra": 144,
+    "titulo": "Herramientas para acelerar la implementación de los planes de acción climática en América Latina y el Caribe",
+    "autoria": "Estefani Rondón Toro; Bruno Lana; Macarena González Fernández; José Eduardo Alatorre; Natalia Yunis Alcántara; Marina Casas Varez; Mauro Reyes Pontet; Julia Guimarães Rennó; Juan Herrera Jiménez",
+    "handle": "https://hdl.handle.net/11362/47732",
+    "simbolo": null,
+    "isbn": null,
+    "fecha": "2022",
+    "tipo_documento": "Documento de proyecto o estudio técnico",
+    "paginas_cuerpo": 75,
+    "paginas_totales": 128,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Qué herramientas metodológicas permiten acelerar la implementación de los Planes de Acción Climática de ciudades de América Latina y el Caribe, mejorando su análisis, priorización, enfoque de género, vínculo con los ODS y aprendizaje desde casos implementados?",
+    "alcance": {
+      "ambito_aplicacion": "América Latina y el Caribe, con aplicación piloto en San José (Costa Rica), Quito (Ecuador) y Ciudad de México (México).",
+      "referentes_dependencias": "Pacto Global de Alcaldes por el Clima y la Energía (GCoM), Marco Común de Reporte, Agenda 2030, NDC y casos de implementación de ciudades de la región.",
+      "sectorial": "Mitigación y adaptación urbana; energía, transporte, residuos, agua, infraestructura, ecosistemas, salud, producción de alimentos, género, financiamiento y seguimiento.",
+      "temporal": "Planes y acciones evaluados durante el piloto de 2021, con referencias a metas climáticas y de desarrollo hasta 2030 y a estrategias de largo plazo."
+    },
+    "hallazgos_principales": [
+      "Los PAC de San José, Quito y Ciudad de México ofrecen una base útil, pero presentan diferencias en calidad, precisión, indicadores, implementación y monitoreo.",
+      "La priorización cualitativa debe combinar impacto ambiental, vulnerabilidad y resiliencia, beneficios sociales, factibilidad, gobernanza, costos y financiamiento.",
+      "El sector de residuos permite aplicar herramientas multicriterio que comparan alternativas tecnológicas mediante escenarios técnicos, ambientales, económicos y sociales.",
+      "La perspectiva de género y el impacto sobre los ODS requieren indicadores específicos asociados a las medidas priorizadas, no solo menciones generales.",
+      "Los casos regionales de transporte, residuos, energía y adaptación muestran que la implementación necesita información sobre actores, financiamiento, resultados y cobeneficios."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El paso desde planes climáticos validados hacia acciones ejecutables requiere instrumentos de análisis y retroalimentación que hagan comparables las medidas sin borrar sus contextos locales.",
+        "La combinación de priorización cualitativa, evaluación multicriterio, indicadores de género y lectura de ODS mejora la selección de acciones con mayor potencial climático y social.",
+        "La evidencia de casos implementados confirma que la información de resultados, financiamiento y cobeneficios es central para replicar soluciones urbanas en la región."
+      ],
+      "recomendaciones": [
+        "Aplicar la metodología piloto para revisar y retroalimentar PAC, priorizar acciones y formular proyectos de implementación.",
+        "Incorporar indicadores de género, ODS, monitoreo, transparencia y financiamiento en la revisión de las medidas priorizadas.",
+        "Usar casos relevantes de ALC como referencia para estructurar información sobre actores, costos, beneficios y resultados de proyectos."
+      ],
+      "nota": "La agenda se reconstruye desde la introducción, las secciones metodológicas y el cierre; los anexos se excluyen del índice analítico aunque se usan como soporte técnico del cuerpo."
+    },
+    "resumen_narrativo": "El estudio parte de un problema concreto: tres ciudades signatarias del GCoM ya cuentan con Planes de Acción Climática, pero necesitan pasar de la validación formal a una implementación priorizada y financiable. Para ello examina los PAC de San José, Quito y Ciudad de México, combina una metodología cualitativa con herramientas multicriterio aplicadas al sector de residuos y añade indicadores de género y de impacto en los ODS. La propuesta se prueba con acciones urbanas de mitigación y adaptación y se complementa con casos regionales como buses eléctricos en Santiago, movilidad eléctrica en Lima y proyectos de residuos en Ciudad de México. El resultado es una caja de herramientas para orientar decisiones locales, documentar cobeneficios y acelerar la ejecución."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "11-12",
+      "resumen": "El apartado Introducción cumple una función específica dentro del estudio: ordena la evidencia y la traduce en criterios para acelerar la implementación de la acción climática local. Introducción La Comisión Económica para América Latina y el Caribe de las Nac",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "9 Introducción La Comisión Económica para América Latina y el Caribe de las Naciones Unidas (CEPAL) y el Pacto Global de Alcaldes por el Clima y la Energía (GCoM -por sus siglas en inglés-), han colaborado para llevar a cabo un proyecto piloto para el estudio de tres Planes de Acción Climática (PAC), validados por el GCoM en América Latina y el Caribe (ALC).",
+          "pagina": 11
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Planes de Acción Climática y su importancia para las ciudades",
+      "nivel": 1,
+      "paginas": "13-14",
+      "resumen": "El apartado I. Planes de Acción Climática y su importancia para las ciudades cumple una función específica dentro del estudio: ordena la evidencia y la traduce en criterios para acelerar la implementación de la acción climática local. I. Planes de Acción Climá",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Planes de Acción Climática y su importancia para las ciudades En las últimas décadas, el deterioro del medio ambiente ha ganado un lugar preponderante en los foros políticos y académicos internacionales, principalmente en cuanto a la preocupación por el cambio climático (Gligo et al., 2020).",
+          "pagina": 13
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "II. Elementos de los Planes de Acción Climática",
+      "nivel": 1,
+      "paginas": "15-20",
+      "resumen": "El apartado II. Elementos de los Plane s de Acción Climática cumple una función específica dentro del estudio: ordena la evidencia y la traduce en criterios para acelerar la implementación de la acción climática local. II. Elementos de los Planes de Acción Climática Con base en lo desarrollado en la sección anterior, el PAC vend",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Elementos de los Planes de Acción Climática Con base en lo desarrollado en la sección anterior, el PAC vendría a reflejar la estrategia esbozada por una ciudad para abordar el cambio climático (C40 Cities, 2018).",
+          "pagina": 15
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "III. Análisis de los Planes de Acción Climática de las ciudades del piloto",
+      "nivel": 1,
+      "paginas": "21-36",
+      "resumen": "Este bloque organiza el argumento del documento y funciona como puente entre el diagnóstico y las herramientas de implementación. Sus apartados descendientes (A. Metodología de análisis cualitativo, Plan Local de Acción Climática. Municipalidad de San José, Costa Rica, Plan de Acción de Cambio Climático de Quito, Ecuador) detallan la evidencia, el método o los casos que sostienen la lectura de III. Análisis de los Planes d e Acción Climática de las ciudades del piloto.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "se presentan cuatro apartados en orden lógico. se describe primeramente la metodología de análisis",
+          "pagina": 21
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Metodología de análisis cualitativo",
+          "nivel": 2,
+          "paginas": "21-21",
+          "resumen": "El apartado A. Metodología de análisis cualitativo cumple una función específica dentro del estudio: ordena la evidencia y la traduce en criterios para acelerar la implementación de la acción climática local. III. Análisis de los Planes de Acción Climática de ",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Metodología de análisis cualitativo Con el objetivo de examinar y evaluar la gestión y planificación climática implementada por cada ciudad, se consideran siete dimensiones o elementos (con base en lo presentado en el capítulo II) en la metodología de análisis: información general de la ciudad, acciones de mitigación, acciones de adaptación, gobernanza, participación ciudadana, género y financiamiento climático.",
+              "pagina": 21
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Plan Local de Acción Climática. Municipalidad de San José, Costa Rica",
+          "nivel": 2,
+          "paginas": "22-24",
+          "resumen": "El apartado Plan Local de Acción Climática. Municipalidad de San José, Costa Rica cumple una función específica dentro del estudio: ordena la evidencia y la traduce en criterios para acelerar la implementación de la acción climática local. En este sentido, par",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "El Plan presenta una visión de corto y mediano plazo, objetivos específicos con respecto a las medidas a abordar referentes al cambio climático y expone los logros obtenidos por las acciones desarrolladas: medallas de mitigación y adaptación de GCoM y certificados de reconocimiento de la Dirección de Cambio Climático (DCC).",
+              "pagina": 22
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Plan de Acción de Cambio Climático de Quito, Ecuador",
+          "nivel": 2,
+          "paginas": "25-27",
+          "resumen": "El apartado Plan de Acción de Cambio Climático de Quito, Ecuador cumple una función específica dentro del estudio: ordena la evidencia y la traduce en criterios para acelerar la implementación de la acción climática local. El elemento financiamiento está consi",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Plan de Acción de Cambio Climático de Quito, Ecuador La ciudad de Quito presentó en 2020 su Plan de Acción de Cambio Climático, en el cual desarrolla una destacada estrategia ambiental con información detallada, acciones determinadas y un marco de largo plazo establecido.",
+              "pagina": 25
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Estrategia Local de Acción Climática. Ciudad de México, México",
+          "nivel": 2,
+          "paginas": "28-33",
+          "resumen": "El apartado Estrategia Local de Acción Climática. Ciudad de México, México cumple una función específica dentro del estudio: ordena la evidencia y la traduce en criterios para acelerar la implementación de la acción climática local. El contenido del documento y el formato en el cual se presentaron las acciones prioritarias indic",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "26 El contenido del documento y el formato en el cual se presentaron las acciones prioritarias indican la existencia de una evaluación presupuestaria y de factibilidad ya ejecutada para cada acción.",
+              "pagina": 28
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Alcances de la metodología de análisis cualitativo",
+          "nivel": 2,
+          "paginas": "34-36",
+          "resumen": "El apartado Alcances de la metodología de análisis cualitativo cumple una función específica dentro del estudio: ordena la evidencia y la traduce en criterios para acelerar la implementación de la acción climática local. Una forma útil de expresar la ecuación ",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "32 Una forma útil de expresar la ecuación (1) es mediante el uso de tasas de crecimiento: (2) Donde representa el cambio porcentual anual de las variables.",
+              "pagina": 34
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Metodología cualitativa para la priorización de acciones de mitigación y adaptación",
+      "nivel": 1,
+      "paginas": "37-47",
+      "resumen": "Este bloque organiza el argumento del documento y funciona como puente entre el diagnóstico y las herramientas de implementación. Sus apartados descendientes (A. Ac ciones de mitigación y adaptación descritas en los Planes de Acción Climática de las ciudades del piloto, Ac ciones propuestas en el Plan Local de Acción Climática de la Municipalidad de San José, Costa Rica, Ac ciones propuestas en el Plan de Acción Climática de Quito, Ecuador) detallan la evidencia, el método o los casos que sostienen la lectura de IV. Metodología cualitativ a para la priorización de acciones de mitigación y adaptación.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "en este capítulo se desarrolla una metodología que permite generar un ordenamiento de las acciones factibles a ser priorizadas para cada ciudad.",
+          "pagina": 37
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Acciones de mitigación y adaptación descritas en los Planes de Acción Climática de las ciudades del piloto",
+          "nivel": 2,
+          "paginas": "37-37",
+          "resumen": "El apartado A. Ac ciones de mitigación y adaptación descritas en los Planes de Acción Climática de las ciudades del piloto cumple una función específica dentro del estudio: ordena la evidencia y la traduce en criterios para acelerar la implementación de la acc",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Metodología cualitativa para la priorización de acciones de mitigación y adaptación En este capítulo se desarrolla una metodología que permite generar un ordenamiento de las acciones factibles a ser priorizadas para cada ciudad.",
+              "pagina": 37
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Acciones propuestas en el Plan Local de Acción Climática de la Municipalidad de San José, Costa Rica",
+          "nivel": 2,
+          "paginas": "38-38",
+          "resumen": "El apartado Ac ciones propuestas en el Plan Local de Acción Climática de la Municipalidad de San José, Costa Rica cumple una función específica dentro del estudio: ordena la evidencia y la traduce en criterios para acelerar la implementación de la acción climá",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Acciones propuestas en el Plan Local de Acción Climática de la Municipalidad de San José, Costa Rica Todas las acciones descritas en el PAC de San José se utilizaron para su análisis, presentándolas con detalle en el cuadro 1.",
+              "pagina": 38
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Acciones propuestas en el Plan de Acción Climática de Quito, Ecuador",
+          "nivel": 2,
+          "paginas": "38-38",
+          "resumen": "El apartado Ac ciones propuestas en el Plan de Acción Climática de Quito, Ecuador cumple una función específica dentro del estudio: ordena la evidencia y la traduce en criterios para acelerar la implementación de la acción climática local. • P erspectiva de gé",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Acciones propuestas en el Plan de Acción Climática de Quito, Ecuador En el PAC de Quito se había realizado un ejercicio de priorización de las acciones de mitigación y adaptación, presentando proyectos específicos correspondientes a las metas y objetivos establecidos.",
+              "pagina": 38
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Acciones propuestas en la Estrategia Local de Acción Climática de Ciudad de México, México",
+          "nivel": 2,
+          "paginas": "39-39",
+          "resumen": "El apartado Ac ciones propuestas en la Estrategia Local de Acción Climática de Ciudad de México, México cumple una función específica dentro del estudio: ordena la evidencia y la traduce en criterios para acelerar la implementación de la acción climática local",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "37 Tipo de acción Título de la acción Acción 18: Manejo sostenible de la tierra y provisión de servicios ambientales Acción 19: Programa de gestión circular de residuos para neutralidad climática Acción 20: Aprovechamiento de residuos orgánicos Acción 21: Captura de gases y aprovechamiento energético de biogás en el relleno sanitario Acción 22: Transporte público cero emisiones Acción 23: Centro histórico cero emisio",
+              "pagina": 39
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+      "seccion": "Metodología de priorización cualitativa",
+          "nivel": 2,
+          "paginas": "39-40",
+          "resumen": "Este bloque organiza el argumento del documento y funciona como puente entre el diagnóstico y las herramientas de implementación. Sus apartados descendientes (C. Aplicación de la metodología de priorización) detallan la evidencia, el método o los casos que sostienen la lectura de Metodología de priorización cualitativa.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "en el caso de la ciudad de méxico, se han considerado para el análisis las acciones descritas en la elac 2014-2020.",
+              "pagina": 39
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "C. Aplicación de la metodología de priorización",
+              "nivel": 3,
+              "paginas": "43-43",
+              "resumen": "El apartado C. Aplicación de la metodología de priorización cumple una función específica dentro del estudio: ordena la evidencia y la traduce en criterios para acelerar la implementación de la acción climática local. C. Aplicación de la metodología de prioriz",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Plan Local de Acción Climática de la Municipalidad de San José, Costa Rica La aplicación de la metodología de priorización para las acciones de mitigación descritas en el PAC de San José muestra que, los indicadores de implementación (aceptabilidad y consonancia) y la complejidad de la ejecución (cambios normativos y complejidad técnica) obtuvieron de manera general las notas más altas.",
+                  "pagina": 43
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Plan Local de Acción Climática de la Municipalidad de San José, Costa Rica",
+          "nivel": 2,
+          "paginas": "43-43",
+          "resumen": "El apartado Plan Local de Acción Climática de la Municipalidad de San José, Costa Rica cumple una función específica dentro del estudio: ordena la evidencia y la traduce en criterios para acelerar la implementación de la acción climática local. C. Aplicación d",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Aplicación de la metodología de priorización La metodología de priorización cualitativa se aplicó a las acciones de cada ciudad de manera individual.",
+              "pagina": 43
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Plan de Acción de Cambio Climático de Quito, Ecuador",
+          "nivel": 2,
+          "paginas": "44-44",
+          "resumen": "El apartado Plan de Acción de Cambio Climático de Quito, Ecuador cumple una función específica dentro del estudio: ordena la evidencia y la traduce en criterios para acelerar la implementación de la acción climática local. Gráfico 6 PAC San José: resultados de",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "42 Gráfico 6 PAC San José: resultados de la aplicación de la metodología de priorización a las acciones de adaptación 0,9 0,9 0,6 0,8 0,8 0,8 0,6 1 0,7 0,7 0,3 0,7 1 1 1 1 0 0,5 1,0 1,5 2,0 2,5 3,0 3,5 4,0 4,5 5,0 Acción 1: Sistemas de captación de aguas pluviales Acción 2: Incorporación del Cambio Climático en la planiﬁcación de largo plazo Acción 3: Plantación de árboles y/o aumento de espacios verdes Acción 4: Par",
+              "pagina": 44
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+      "seccion": "Estrategia Local de Acción Climática de Ciudad de México, México",
+          "nivel": 2,
+          "paginas": "46-46",
+          "resumen": "Este bloque organiza el argumento del documento y funciona como puente entre el diagnóstico y las herramientas de implementación. Sus apartados descendientes (D. Alcances de la metodología de priorización cualitativa) detallan la evidencia, el método o los casos que sostienen la lectura de Estrategia Local de Acción Climática de Ciudad de México, México.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "las puntuaciones son relativamente bajas debido a la generalidad en que se especifican las acciones",
+              "pagina": 46
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "D. Alcances de la metodología de priorización cualitativa",
+              "nivel": 3,
+              "paginas": "47-47",
+              "resumen": "El apartado D. Alcances de la metodología de priorización cualitativa cumple una función específica dentro del estudio: ordena la evidencia y la traduce en criterios para acelerar la implementación de la acción climática local. Gráfico 10 ELAC Ciudad de México",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "45 Gráfico 10 ELAC Ciudad de México: resultados de la aplicación de la metodología de priorización a las acciones de adaptación Ambientales Económico-Financiero Sociales / Contribución al desarrollo Complejidad de ejecución Implementación Acción 1: Construcción de la resiliencia de la ciudad Acción 2: Educación y comunicación Acción 3: Investigación y desarrollo 0 0,5 1,0 1,5 2,0 2,5 3,0 3,5 4,0 4,5 5,0 0,8 0,8 0,7 1",
+                  "pagina": 47
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "V. Priorización de medidas de mitigación mediante herramientas multicriterio, ajustada al sector de residuos",
+      "nivel": 1,
+      "paginas": "49-57",
+      "resumen": "Este bloque organiza el argumento del documento y funciona como puente entre el diagnóstico y las herramientas de implementación. Sus apartados descendientes (A. La importancia del sector de residuos para lograr metas de descarbonización y su camino hacia una economía circular, Proyectos de residuos planteados en los Planes de Acción Climática, Alcances de la metodología de priorización cuantitativa) detallan la evidencia, el método o los casos que sostienen la lectura de V. Priorización de medida s de mitigación mediante herramientas multicriterio, ajustada al sector de residuos.",
+      "dimensiones": [
+        {
+          "dimension": "oportunidades",
+          "cita": "en este capítulo se presenta una aplicación de metodología multicriterio con indicadores cuantitativos, a modo de ofrecer más herramientas que permitan priorizar las medidas de mitigación y adaptación postuladas en los pac de las ciudades del proyecto piloto.",
+          "pagina": 49
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. La importancia del sector de residuos para lograr metas de descarbonización y su camino hacia una economía circular",
+          "nivel": 2,
+          "paginas": "49-50",
+          "resumen": "El apartado A. La importancia del sector de residuos para lograr metas de descarbonización y su camino hacia una economía circular cumple una función específica dentro del estudio: ordena la evidencia y la traduce en criterios para acelerar la implementación d",
+          "dimensiones": [
+            {
+              "dimension": "oportunidades",
+              "cita": "La importancia del sector de residuos para lograr metas de descarbonización y su camino hacia una economía circular El 3% de las emisiones de GEI generadas mundialmente provienen de los residuos sólidos y del tratamiento de aguas residuales.",
+              "pagina": 49
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+      "seccion": "Proyectos de residuos planteados en los Planes de Acción Climática",
+          "nivel": 2,
+          "paginas": "51-52",
+          "resumen": "Este bloque organiza el argumento del documento y funciona como puente entre el diagnóstico y las herramientas de implementación. Sus apartados descendientes (C. Supuestos y alternativas para los proyectos de residuos, D. Metodología de e valuación cuantitativa) detallan la evidencia, el método o los casos que sostienen la lectura de Proyectos de residuos planteados en los Planes de Acción Climática.",
+          "dimensiones": [
+            {
+              "dimension": "oportunidades",
+              "cita": "los proyectos de residuos identificados en los pacs de las ciudades piloto, específicamente para las acciones de mitigación, se resumen en el cuadro 5.",
+              "pagina": 51
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "C. Supuestos y alternativas para los proyectos de residuos",
+              "nivel": 3,
+              "paginas": "53-53",
+              "resumen": "El apartado C. Supuestos y alternativas para los proyectos de residuos cumple una función específica dentro del estudio: ordena la evidencia y la traduce en criterios para acelerar la implementación de la acción climática local. el aprovechamiento energético, ",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "51 el aprovechamiento energético, la producción de energía renovable y la reducción de emisiones de GEI a través de la utilización del biogás producido en relleno sanitario por la descomposición anaeróbica de los residuos orgánicos.",
+                  "pagina": 53
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+          "seccion": "D. Metodología de evaluación cuantitativa",
+              "nivel": 3,
+              "paginas": "54-54",
+              "resumen": "El apartado D. Metodología de e valuación cuantitativa cumple una función específica dentro del estudio: ordena la evidencia y la traduce en criterios para acelerar la implementación de la acción climática local. un 16%; plásticos (P) un 11%; vidrio (V) un 5%;",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "52 un 16%; plásticos (P) un 11%; vidrio (V) un 5%; metales (M) un 3%; otros un 13%.",
+                  "pagina": 54
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Alcances de la metodología de priorización cuantitativa",
+          "nivel": 2,
+          "paginas": "57-57",
+          "resumen": "El apartado Alcances de la metodología de priorización cuantitativa cumple una función específica dentro del estudio: ordena la evidencia y la traduce en criterios para acelerar la implementación de la acción climática local. El escenario más desfavorecido, ve",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Al ser una metodología flexible, los diferentes actores y/o tomadores de decisión, que tengan como objetivo evaluar acciones en los sectores de mitigación y adaptación (como transporte, agricultura, biodiversidad, recurso hídrico, etc.), con base en los PAC, podrían agregar más criterios e indicadores de interés, ajustados a las realidades locales.",
+              "pagina": 57
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "VI. Análisis de la perspectiva de género en las medidas priorizadas",
+      "nivel": 1,
+      "paginas": "59-66",
+      "resumen": "Este bloque organiza el argumento del documento y funciona como puente entre el diagnóstico y las herramientas de implementación. Sus apartados descendientes (A. P erspectiva de género en las medidas de mitigación y adaptación, Indicadores con perspectiva de género) detallan la evidencia, el método o los casos que sostienen la lectura de VI. Análisis de la perspect iva de género en las medidas priorizadas.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "en este capítulo se establece, primeramente, una visión general de la inclusión de la perspectiva de género en las medidas de mitigación y adaptación.",
+          "pagina": 59
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Perspectiva de género en las medidas de mitigación y adaptación",
+          "nivel": 2,
+          "paginas": "59-59",
+          "resumen": "El apartado A. P erspectiva de género en las medidas de mitigación y adaptación cumple una función específica dentro del estudio: ordena la evidencia y la traduce en criterios para acelerar la implementación de la acción climática local. VI. Análisis de la per",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Análisis de la perspectiva de género en las medidas priorizadas En este capítulo se establece, primeramente, una visión general de la inclusión de la perspectiva de género en las medidas de mitigación y adaptación.",
+              "pagina": 59
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+      "seccion": "Indicadores con perspectiva de género",
+          "nivel": 2,
+          "paginas": "60-61",
+          "resumen": "Este bloque organiza el argumento del documento y funciona como puente entre el diagnóstico y las herramientas de implementación. Sus apartados descendientes (C. Indicadores con perspectiva de género en sectores de mitigación y adaptación, D. Propuesta de indicadores con perspectiva de género aplicados a las medidas priorizadas de mitigación y adaptación de las ciudades del piloto) detallan la evidencia, el método o los casos que sostienen la lectura de Indicadores con perspectiva de género.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "las mujeres están involucradas en la mayoría de las tareas para la producción de alimentos (entre 50% y 80%), a pesar de poseer menos del 10% de la tierra.",
+              "pagina": 60
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "C. Indicadores con perspectiva de género en sectores de mitigación y adaptación",
+              "nivel": 3,
+              "paginas": "62-62",
+              "resumen": "El apartado C. Indicadores con perspectiva de género en sectores de mitigación y adaptación cumple una función específica dentro del estudio: ordena la evidencia y la traduce en criterios para acelerar la implementación de la acción climática local. son censos",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "60 son censos, encuestas de la fuerza laboral, micro encuestas a hogares, encuestas de uso del tiempo, mediciones de producción por sexo, registros financieros, listas de asistencia, registros administrativos, formatos de evaluación y grupos focales.",
+                  "pagina": 62
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "D. Propuesta de indicadores con perspectiva de género aplicados a las medidas priorizadas de mitigación y adaptación de las ciudades del piloto",
+              "nivel": 3,
+              "paginas": "63-66",
+              "resumen": "El apartado D. Propuesta de indicadores con perspectiva de género aplicados a las medidas priorizadas de mitigación y adaptación de las ciudades del piloto cumple una función específica dentro del estudio: ordena la evidencia y la traduce en criterios para ace",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "61 Este formato se propone como una guía para que las ciudades desarrollen indicadores con perspectiva de género en sus PAC.",
+                  "pagina": 63
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "VII. Impacto de medidas priorizadas de mitigación y adaptación en los ODS",
+      "nivel": 1,
+      "paginas": "67-73",
+      "resumen": "Este bloque organiza el argumento del documento y funciona como puente entre el diagnóstico y las herramientas de implementación. Sus apartados descendientes (A. Los ODS y las ciudades, Sectores de mitigación y adaptación y su impacto en los ODS) detallan la evidencia, el método o los casos que sostienen la lectura de VII. Impacto de medidas pr iorizadas de mitigación y adaptación en los ODS.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "en este capítulo se presenta un análisis del impacto que tendría la implementación de las acciones de mitigación y adaptación para la consecución de los ods.",
+          "pagina": 67
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Los ODS y las ciudades",
+          "nivel": 2,
+          "paginas": "67-67",
+          "resumen": "El apartado A. Los ODS y las ciudades cumple una función específica dentro del estudio: ordena la evidencia y la traduce en criterios para acelerar la implementación de la acción climática local. VII. Impacto de medidas priorizadas de mitigación y adaptación e",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Impacto de medidas priorizadas de mitigación y adaptación en los ODS En este capítulo se presenta un análisis del impacto que tendría la implementación de las acciones de mitigación y adaptación para la consecución de los ODS.",
+              "pagina": 67
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+      "seccion": "Sectores de mitigación y adaptación y su impacto en los ODS",
+          "nivel": 2,
+          "paginas": "69-69",
+          "resumen": "Este bloque organiza el argumento del documento y funciona como puente entre el diagnóstico y las herramientas de implementación. Sus apartados descendientes (C. Análisis del impacto de las medidas priorizadas de las ciudades del piloto en los ODS) detallan la evidencia, el método o los casos que sostienen la lectura de Sectores de mitigación y adaptación y su impacto en los ODS.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "la interacción entre las políticas climáticas y los ods depende fuertemente de los sectores de la ciudad y del tipo de acciones priorizadas.",
+              "pagina": 69
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "C. Análisis del impacto de las medidas priorizadas de las ciudades del piloto en los ODS",
+              "nivel": 3,
+              "paginas": "71-73",
+              "resumen": "El apartado C. Análisis del impacto de las medidas priorizadas de las ciudades del piloto en los ODS cumple una función específica dentro del estudio: ordena la evidencia y la traduce en criterios para acelerar la implementación de la acción climática local. C",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Análisis del impacto de las medidas priorizadas de las ciudades del piloto en los ODS Con base en este estudio preliminar para la región de ALC, se propone el diseño de una herramienta para identificar los impactos potenciales de las acciones priorizadas sobre el cumplimiento de los 17 ODS.",
+                  "pagina": 71
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "VIII. Casos relevantes de implementación de acciones de mitigación y adaptación en América Latina y el Caribe",
+      "nivel": 1,
+      "paginas": "75-76",
+      "resumen": "El apartado VIII. Casos rele vantes de implementación de acciones de mitigación y adaptación en América Latina y el Caribe cumple una función específica dentro del estudio: ordena la evidencia y la traduce en criterios para acelerar la implementación de la acc",
+      "dimensiones": [
+        {
+          "dimension": "avances_implementacion",
+          "cita": "Casos relevantes de implementación de acciones de mitigación y adaptación en América Latina y el Caribe Como parte de los aportes del proyecto piloto al análisis de los PAC, se ha considerado incluir casos relevantes de implementación de acciones de mitigación y adaptación en la región de ALC.",
+          "pagina": 75
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "IX. Conclusiones",
+      "nivel": 1,
+      "paginas": "77-78",
+      "resumen": "El apartado IX. Conclusiones cumple una función específica dentro del estudio: ordena la evidencia y la traduce en criterios para acelerar la implementación de la acción climática local. IX. Conclusiones En el proyecto piloto fueron analizados tres Planes de A",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Conclusiones En el proyecto piloto fueron analizados tres Planes de Acción Climática (PAC) validados por el Pacto Global de Alcaldes por el Clima y la Energía (GCoM - por sus siglas en inglés-) en América Latina y el Caribe (ALC), con el objetivo de acelerar su implementación y brindar un diagnóstico.",
+          "pagina": 77
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento articula metodologías de priorización, evaluación, género, ODS y casos para implementar acciones climáticas, pero no propone un paquete de inversión masiva coordinado a escala del modelo de desarrollo ni conecta explícitamente las tres eficiencias del Gran Impulso Ambiental.",
+      "citas": [
+        {
+          "cita": "Planes de Acción Climática y su importancia para las ciudades En las últimas décadas, el deterioro del medio ambiente ha ganado un lugar preponderante en los foros políticos y académicos internacionales, principalmente en cuanto a la preocupación por el cambio climático (Gligo et al., 2020).",
+          "pagina": 13
+        }
+      ],
+      "nota": "Parcial: hay instrumentos concretos y sectores urbanos identificables, pero el foco es metodológico y piloto; no se acredita un paquete coordinado de inversión masiva con la escala exigida por los tres tests."
+    },
+    "articulacion_actores": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento exige participación, coordinación y gobernanza en los PAC y documenta actores de proyectos, pero no presenta un mecanismo regional de gobernanza de la acción climática con nombre propio y ámbito operativo equivalente a una institución coordinadora.",
+      "citas": [
+        {
+          "cita": "Planes de Acción Climática y su importancia para las ciudades En las últimas décadas, el deterioro del medio ambiente ha ganado un lugar preponderante en los foros políticos y académicos internacionales, principalmente en cuanto a la preocupación por el cambio climático (Gligo et al., 2020).",
+          "pagina": 13
+        }
+      ],
+      "nota": "Los actores y plataformas del estudio o de los casos no bastan por sí solos; el mecanismo de implementación queda descrito como requisito metodológico y no como institución nombrada vigente para el ámbito regional."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento enumera sectores y actividades concretas —residuos, transporte, movilidad eléctrica, restauración ecológica y recursos hídricos— y registra beneficios sociales, empleos y cobeneficios, pero el vínculo con productividad y desigualdad no se desarrolla de forma homogénea para una cartera productiva regional.",
+      "citas": [
+        {
+          "cita": "Criterios de selección de casos relevantes: se da prioridad a los casos relevantes de implementación que cumplan con los requisitos siguientes: • Proyectos/a cciones ya implementadas por ciudades del Pacto en ALC • Sectores de interés: transporte, residuos, restauración ecológica, restauración de recursos hídricos, uso de suelo • Ac ciones que cuenten con suficiente información en cuanto a financiación y co-beneficio",
+          "pagina": 75
+        }
+      ],
+      "nota": "Parcial: supera la mera frase aspiracional y ofrece sectores/casos, pero la relación productiva-distributiva está fragmentada entre metodologías y casos."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "La voz normativa del cierre y de la metodología entrega acciones ejecutables: evaluar PAC, priorizar medidas, aplicar indicadores, comparar alternativas, documentar financiamiento y usar casos con estructura común. La mayoría de los bloques tiene objeto, procedimiento o entregable identificable.",
+      "citas": [
+        {
+          "cita": "Planes de Acción Climática y su importancia para las ciudades En las últimas décadas, el deterioro del medio ambiente ha ganado un lugar preponderante en los foros políticos y académicos internacionales, principalmente en cuanto a la preocupación por el cambio climático (Gligo et al., 2020).",
+          "pagina": 13
+        },
+        {
+          "cita": "Conclusiones En el proyecto piloto fueron analizados tres Planes de Acción Climática (PAC) validados por el Pacto Global de Alcaldes por el Clima y la Energía (GCoM - por sus siglas en inglés-) en América Latina y el Caribe (ALC), con el objetivo de acelerar su implementación y brindar un diagnóstico.",
+          "pagina": 77
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Aplicar una metodología de análisis cualitativo para identificar fortalezas y debilidades de cada PAC",
+          "clasificacion": "CONCRETO",
+          "pagina": 39
+        },
+        {
+          "item": "Priorizar acciones de mitigación y adaptación con criterios ambientales, sociales, de factibilidad y gobernanza",
+          "clasificacion": "CONCRETO",
+          "pagina": 41
+        },
+        {
+          "item": "Evaluar alternativas de proyectos del sector de residuos mediante escenarios multicriterio",
+          "clasificacion": "CONCRETO",
+          "pagina": 53
+        },
+        {
+          "item": "Incorporar indicadores de género en las medidas priorizadas",
+          "clasificacion": "CONCRETO",
+          "pagina": 63
+        },
+        {
+          "item": "Relacionar medidas priorizadas con impactos en los ODS y documentar casos de implementación",
+          "clasificacion": "CONCRETO",
+          "pagina": 69
+        },
+        {
+          "item": "Fortalecer la implementación mediante coordinación y seguimiento",
+          "clasificacion": "GENERICO",
+          "pagina": 77
+        }
+      ],
+      "tally": "5 de 6",
+      "nota": "El desglose cubre los bloques operativos de la propuesta y conserva como genérico el ítem de coordinación/seguimiento cuando no identifica por sí solo un entregable o mecanismo adicional."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "La tensión central es cómo convertir PAC urbanos ya formulados en acciones climáticas implementables, comparables y financiables. La transformación ambiental es el objeto; los métodos, indicadores y arreglos de coordinación son los medios.",
+      "filtro_categoria_primaria": "La sostenibilidad ambiental es primaria porque mitigación, adaptación, descarbonización, resiliencia y acción climática organizan el propósito, los sectores examinados y los casos de implementación.",
+      "secundaria_obligatoria": "Las capacidades del Estado son secundarias porque el documento depende de gobiernos locales capaces de evaluar planes, priorizar proyectos, monitorear resultados, integrar género y ODS y coordinar financiamiento y actores.",
+      "justificacion_anti_copia": "No es #11 primaria: la metodología institucional no es el objeto final, sino la infraestructura de decisión para ejecutar acciones de mitigación y adaptación en ciudades. Tampoco es #1 primaria: los sectores productivos aparecen como ámbitos de acción climática, no como una agenda autónoma de transformación productiva.",
+      "validacion_anclas": "La clasificación se acerca a la ancla #6/#11 de adaptación y resiliencia porque el documento tiene como sujeto la implementación climática y usa capacidades institucionales como medio. Se distancia de las anclas #11/#6 de gobernanza hídrica o panoramas estatales porque aquí el hilo dominante son los PAC, las medidas urbanas y sus resultados ambientales."
+    },
+    "tipo_documento_climatico": "Documento técnico de proyecto y metodología piloto para acelerar la implementación de planes climáticos urbanos.",
+    "nivel_aplicacion": "Subnacional (ciudades piloto), con referentes y casos de América Latina y el Caribe.",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

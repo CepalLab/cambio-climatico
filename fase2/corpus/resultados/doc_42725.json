@@ -1,0 +1,353 @@
+{
+  "documento": {
+    "num_muestra": null,
+    "titulo": "Portafolio de políticas públicas de adaptación al cambio climático y mitigación de sus efectos con beneficios adicionales o 'sin arrepentimiento' en América Latina",
+    "autoria": "Luis Miguel Galindo | Joseluis Samaniego | Allan Beltrán | Jimy Ferrer Carbonell | José Eduardo Alatorre",
+    "handle": "https://hdl.handle.net/11362/42725",
+    "simbolo": "LC/TS.2017/127",
+    "isbn": null,
+    "fecha": "2017-12",
+    "tipo_documento": "Documento de proyectos",
+    "paginas_cuerpo": 48,
+    "paginas_totales": 64,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cómo identificar y clasificar las políticas públicas de mitigación y adaptación al cambio climático que sean robustas ante la incertidumbre climática, considerando sus co-beneficios y características de 'sin arrepentimiento' en América Latina?",
+    "alcance": {
+      "ambito_aplicacion": "América Latina y el Caribe",
+      "referentes_dependencias": "Unión Europea, Estados Unidos, Reino Unido, Países Bajos, Australia",
+      "sectorial": "Multisectorial (agricultura, recursos hídricos, zonas costeras, conservación, salud, infraestructura, transporte, energía)",
+      "temporal": "2015-2025 (horizonte de política pública)"
+    },
+    "hallazgos_principales": [
+      "El Análisis de Decisión Multi-Criterio (ADMC) es una herramienta útil, práctica y flexible para evaluar políticas ante la incertidumbre climática de forma sistemática (p.6)",
+      "Se identificaron 382 políticas de mitigación y adaptación en el catálogo, distribuidas en 10 sectores: 137 de mitigación y 245 de adaptación (p.34)",
+      "Las políticas 'sin arrepentimiento' generan beneficios mayores a los costos de implementación bajo condiciones climáticas actuales (p.12)",
+      "Los co-beneficios pueden ser sustancialmente mayores para los países en desarrollo, existiendo un gran potencial para impulsar políticas robustas en América Latina (p.33)",
+      "El sector agropecuario cuenta con 48 evaluaciones de adaptación y 5 de mitigación, siendo uno de los más vulnerables al cambio climático (p.25)"
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La estrategia óptima de políticas climáticas debe centrarse en políticas 'sin arrepentimiento' que generen beneficios incluso sin cambio climático",
+        "El ADMC permite incorporar criterios ambientales, económicos, políticos y sociales a la toma de decisiones de forma flexible",
+        "Las metodologías demandan información y conocimientos técnicos considerables, lo que limita su uso práctico en muchos contextos"
+      ],
+      "recomendaciones": [
+        "Utilizar la plataforma en Excel desarrollada para evaluar y jerarquizar políticas de mitigación y adaptación en América Latina",
+        "Considerar seis criterios de evaluación: políticas sin arrepentimiento, co-beneficios, márgenes de seguridad, políticas reversibles, sinergias entre mitigación y adaptación, e ingeniería blanda",
+        "Involucrar expertos en el proceso de evaluación para minimizar sesgos en el análisis multicriterio"
+      ],
+      "nota": "El documento es principalmente metodológico y de revisión de literatura, no una propuesta de política específica"
+    },
+    "resumen_narrativo": "Este estudio de la CEPAL presenta una plataforma en Excel basada en Análisis de Decisión Multi-Criterio (ADMC) para evaluar 382 políticas de mitigación y adaptación al cambio climático en América Latina. El documento revisa la literatura sobre políticas 'sin arrepentimiento' y co-beneficios, identificando que las estrategias robustas deben considerar incertidumbre climática profunda. La herramienta permite a tomadores de decisiones jerarquizar políticas considerando criterios como reversibilidad, sinergias y márgenes de seguridad, con énfasis en el potencial de la región para impulsar políticas que generen beneficios adicionales más allá de la reducción de emisiones."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "7-9",
+      "resumen": "Presenta el contexto del cambio climático basado en el quinto reporte del IPCC (2013), estableciendo la necesidad de políticas robustas ante la incertidumbre climática profunda. Plantea la distinción entre optimización y robustez en la toma de decisiones, y introduce los conceptos de co-beneficios, 'sin arrepentimiento' y doble dividendo como marcos para clasificar políticas climáticas efectivas.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "La evidencia presentada por el IPCC (2001) muestra que algunos de los mayores impactos se observarán en los países en desarrollo, donde la población es más vulnerable y con menos posibilidades de adaptación (Beg et al., 2002).",
+          "pagina": 9
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Políticas públicas de mitigación y adaptación en el contexto de la incertidumbre climática",
+      "nivel": 1,
+      "paginas": "10-19",
+      "resumen": "Analiza las características de las políticas de mitigación y adaptación bajo incertidumbre climática profunda. Establece siete diferencias clave entre ambos tipos de políticas en términos de beneficios, costos, distribución espacial y temporal, incertidumbre, sinergias, indicadores de desempeño y diferencias institucionales.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "La toma de decisiones en un contexto con incertidumbre requiere identificar políticas públicas robustas, es decir, aquellas que tengan un buen desempeño ante un amplio rango de posibles escenarios futuros.",
+          "pagina": 10
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "La selección de estrategias de mitigación y adaptación al cambio climático se debe enfocar en identificar políticas públicas robustas ante la variedad de posibles escenarios futuros de cambio climático.",
+          "pagina": 11
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Mitigación vs adaptación al cambio climático",
+          "nivel": 2,
+          "paginas": "10-12",
+          "resumen": "Compara las siete diferencias fundamentales entre políticas de mitigación y adaptación: beneficios primarios, distribución espacial y temporal de costos/beneficios, incertidumbre, sinergias, indicadores de desempeño y diferencias institucionales. Señala que ambas deben ser complementarias, no excluyentes.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Sin embargo, existe consenso en la literatura en que las políticas de mitigación y adaptación deben ser consideradas y diseñadas de forma complementaria, y no como alternativas mutuamente excluyentes, debido a sus diferentes características en términos de distribución geográfica y temporal de sus costos y beneficios, y dificultades técnicas que plantea la estimación de los mismos (Bosello y Chen, 2011; Bosello et al., 2010; De Bruin et al., 2009; Klein y Huq, 2008).",
+              "pagina": 11
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Co-beneficios de las políticas climáticas",
+          "nivel": 2,
+          "paginas": "13-15",
+          "resumen": "Define y distingue tres conceptos clave: co-beneficios (beneficios secundarios de cualquier política climática), doble dividendo (políticas fiscales que generan beneficios económicos adicionales) y políticas 'sin arrepentimiento' (aquellas donde beneficios totales exceden costos bajo condiciones actuales). Establece que una política puede pertenecer a múltiples categorías.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "El concepto de co-beneficios incluye cualquier tipo de beneficios secundarios (no climáticos) que resulte de la implementación de políticas públicas de mitigación y adaptación al cambio climático.",
+              "pagina": 13
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Las  políticas  públicas  robustas  al cambio  climático también son  catalogadas como  ‘sin arrepentimiento’.",
+              "pagina": 14
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Políticas de mitigación 'con co-beneficios'",
+          "nivel": 2,
+          "paginas": "16",
+          "resumen": "Presenta ejemplos de políticas de mitigación que generan co-beneficios, incluyendo impuestos al carbono, estándares de eficiencia energética y regulaciones de transporte. Muestra cómo estas políticas pueden generar beneficios económicos y sociales adicionales a la reducción de emisiones.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Sin embargo, la naturaleza y magnitud de los co-beneficios de las políticas depende de la selección realizada.",
+              "pagina": 16
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Políticas de adaptación 'sin arrepentimiento'",
+          "nivel": 2,
+          "paginas": "17-19",
+          "resumen": "Detalla cinco características de estrategias 'sin arrepentimiento': (1) selección de políticas robustas, (2) favorecimiento de políticas reversibles y flexibles, (3) incorporación de márgenes de seguridad, (4) promoción de ingeniería blanda, y (5) reducción del horizonte temporal en toma de decisiones. Incluye ejemplos de infraestructura verde y gestión de recursos hídricos.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Hallegatte (2009) enumera seis características que debe considerar una estrategia robusta de adaptación: (1) selección de políticas ‘sin arrepentimiento’; (2) favorecer políticas reversibles y flexibles; (3) incorporar ‘márgenes de seguridad’ en las nuevas inversiones; (4) promover políticas de adaptación de ingeniería blanda con proyección de largo plazo; (5) reducir el horizonte temporal en la toma de decisiones; y (6) considerar los conflictos y sinergias entre políticas de adaptación y mitigación.",
+              "pagina": 17
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Discusión",
+          "nivel": 2,
+          "paginas": "20-21",
+          "resumen": "Sintetiza la importancia de considerar co-beneficios y características 'sin arrepentimiento' en el diseño de políticas climáticas, señalando que esto amplía las opciones disponibles para tomadores de decisiones frente a la incertidumbre climática.",
+          "dimensiones": [
+            {
+              "dimension": "oportunidades",
+              "cita": "La literatura sugiere que identificar y evaluar la existencia de ‘co-beneficios’ de las políticas de mitigación y adaptación tiene un gran potencial para facilitar la viabilidad económica de las estrategias de política ante el cambio climático.",
+              "pagina": 20
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "II. Revisión de literatura: evidencia empírica",
+      "nivel": 1,
+      "paginas": "21-32",
+      "resumen": "Revisa metodologías para evaluar políticas climáticas (ADMC, TDMR, análisis costo-beneficio) y presenta evidencia sectorial sobre políticas 'sin arrepentimiento' y co-beneficios en ocho sectores: agricultura, recursos hídricos, zonas costeras, conservación, salud, infraestructura, transporte y energía.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "El objetivo de este capítulo es analizar las herramientas metodológicas que se han utilizado en la literatura para evaluar y seleccionar las estrategias de adaptación y mitigación al cambio climático las cuales, permiten valorar los diferentes atributos de las políticas climáticas e identificar aquellas estrategias que pueden ser catalogadas como ‘sin arrepentimiento’, y por ende, brindan beneficios adicionales.",
+          "pagina": 22
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Métodos",
+          "nivel": 2,
+          "paginas": "21-23",
+          "resumen": "Describe tres enfoques metodológicos: (1) Análisis de Decisión Multi-Criterio (ADMC) que incorpora múltiples criterios cualitativos y cuantitativos; (2) Toma de decisiones y medidas robustas (TDMR) para identificar estrategias flexibles; y (3) Análisis costo-beneficio que evalúa eficiencia económica. Señala ventajas y limitaciones de cada enfoque.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "La tendencia se origina por su capacidad para incorporar y homologar factores ambientales, económicos, políticos y sociales en la evaluación de políticas (Santé y Crecente, 2005).",
+              "pagina": 22
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Políticas sectoriales",
+          "nivel": 2,
+          "paginas": "25-32",
+          "resumen": "Analiza políticas climáticas en ocho sectores con evidencia empírica: agricultura (48 evaluaciones de adaptación, 5 de mitigación), recursos hídricos (52 evaluaciones, 7 catalogadas como 'sin arrepentimiento'), zonas costeras (15 evaluaciones, defensas costeras como más popular), conservación (33 evaluaciones, reforestación y creación de reservas destacadas), salud (22 evaluaciones, aumento de estándares de construcción como 'sin arrepentimiento'), infraestructura (33 evaluaciones, infraestructura verde y sistemas de alerta temprana), transporte (11 evaluaciones, uso de gas natural y educación vial) y energía (44 evaluaciones, planes de contingencia y eficiencia energética). Para cada sector identifica políticas catalogadas como 'sin arrepentimiento' y sus co-beneficios específicos, mostrando que los sectores con mayor evidencia son recursos hídricos y energía.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Diversos estudios sugieren que el sector agropecuario es uno de los más vulnerables a los efectos del cambio climático, especialmente en países en vías de desarrollo.",
+              "pagina": 26
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Los programas agroambientales, planes de desarrollo rural, disminución de subvenciones a la producción, diversificación de cultivos, implementación de sistemas de riego, programas de aseguramiento y cultivos resistentes a nuevas condiciones climáticas (o a mayores rangos de temperatura y lluvia) han sido juzgadas como estrategias ‘sin arrepentimiento’.",
+              "pagina": 26
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "III. ADMC para evaluar políticas de mitigación y adaptación al cambio climático en América Latina",
+      "nivel": 1,
+      "paginas": "33-46",
+      "resumen": "Presenta la plataforma en Excel desarrollada para aplicar ADMC en América Latina. Describe la estructura del catálogo de 382 políticas, los seis criterios de evaluación basados en Hallegatte (2009) y De Bruin et al. (2009), y proporciona un manual detallado de uso con ejemplos de aplicación.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "El objetivo de este capítulo es ilustrar el uso de una plataforma desarrollada en Excel utilizando ADMC para evaluar políticas de mitigación y adaptación al cambio climático en América Latina.",
+          "pagina": 34
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Estructura de la plataforma para el ADMC en América Latina",
+          "nivel": 2,
+          "paginas": "34-35",
+          "resumen": "Describe los dos componentes de la plataforma: (1) un catálogo de 382 políticas compilado de literatura existente, dividido en 10 sectores con 137 políticas de mitigación y 245 de adaptación; y (2) seis criterios de evaluación para identificar políticas robustas ante la incertidumbre climática.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "El catálogo de políticas se encuentra divido en diez sectores y cada política se clasifica por sector y objetivo primario (mitigación o adaptación).",
+              "pagina": 35
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Manual: ADMC para evaluar políticas de mitigación y adaptación al cambio climático en América Latina",
+          "nivel": 2,
+          "paginas": "36-46",
+          "resumen": "Proporciona instrucciones detalladas para usar la plataforma Excel en cuatro pasos: (1) definición de ponderaciones de criterios según prioridades del tomador de decisiones; (2) evaluación de políticas seleccionadas contra los seis criterios establecidos; (3) jerarquización de políticas según su desempeño combinado; y (4) análisis de sensibilidad para evaluar la robustez de los resultados ante cambios en las ponderaciones. Incluye ejemplos concretos de aplicación con pantallas de navegación, asignación de pesos relativos, calificaciones fuera del rango permitido, guía para calificación, evaluación de políticas de mitigación y adaptación, jerarquización de resultados y análisis de sensibilidad con representación gráfica.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Hallegatte (2009) propone seis características que debe considerar una estrategia robusta de mitigación y adaptación, las cuales incluyen: (1) selección de políticas ‘sin arrepentimiento’;  (2) favorecimiento de  políticas  reversibles y  flexibles;  (3) incorporación de ‘márgenes de seguridad’ en las nuevas inversiones; (4) promoción de políticas de adaptación de ingeniería blanda y con proyección de largo plazo; (5) reducción del horizonte temporal en la toma de decisiones; y (6) consideración de los conflictos y sinergias entre políticas de adaptación y mitigación.",
+              "pagina": 36
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Conclusiones",
+      "nivel": 1,
+      "paginas": "47-48",
+      "resumen": "Sintetiza los hallazgos principales: (1) la estrategia óptima debe centrarse en políticas 'sin arrepentimiento'; (2) el ADMC es una herramienta útil para incorporar múltiples criterios; (3) las cinco cualidades de políticas robustas son co-beneficios, márgenes de seguridad, reversibilidad, sinergias e ingeniería blanda; y (4) la plataforma permite evaluar y jerarquizar políticas para la región.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "En los últimos años se ha incrementado la inquietud por el estudio de temas ambientales, incluidas las políticas y medidas que contrarrestan y suavizan los efectos que podría originar el cambio climático.",
+          "pagina": 48
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "No",
+      "evidencia": "El documento es una revisión de literatura y herramienta metodológica, no una propuesta de inversión coordinada o paquete de políticas a escala de modelo de desarrollo. No propone un 'gran impulso ambiental' concreto sino una metodología para evaluar políticas existentes.",
+      "citas": [
+        {
+          "cita": "El principal objetivo de este estudio es describir los criterios utilizados en la economía del cambio climático para ordenar y/o clasificar las políticas públicas, atendiendo a diversos criterios de eficiencia e incertidumbre o potenciales efectos sobre otras variables económicas, sociales o ambientales y presentar un software, elaborado en EXCEL, que determina, a través de métodos de multi-criterio, el ordenamiento jerárquico de diversas políticas públicas referidas a la adaptación y mitigación del cambio climático.",
+          "pagina": 6
+        }
+      ],
+      "nota": "El No es por diseño del documento (herramienta metodológica), no por omisión descuidada. El documento no pretende proponer un gran impulso ambiental sino提供cer una herramienta de evaluación."
+    },
+    "articulacion_actores": {
+      "veredicto": "No",
+      "evidencia": "El documento no propone mecanismos de articulación entre actores, sino que describe una herramienta técnica para evaluar políticas. No nombra plataformas, consejos o procesos de coordinación multiactor.",
+      "citas": [
+        {
+          "cita": "La flexibilidad de esta plataforma permite al usuario agregar más políticas al análisis de acuerdo a las necesidades de los tomadores de decisión.",
+          "pagina": 35
+        }
+      ],
+      "nota": "El documento es una herramienta técnica, no una propuesta de gobernanza. La articulación de actores no es parte de su alcance."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento enumera sectores con potencial de políticas 'sin arrepentimiento' (agricultura, energía, infraestructura) pero no desarrolla vínculos concretos con empleo, productividad o desigualdad. Menciona co-beneficios económicos de forma general sin cuantificar empleo o reducción de brechas.",
+      "citas": [
+        {
+          "cita": "Además, la evidencia descrita, indica que los co- beneficios de las políticas climáticas pueden ser sustancialmente mayores para los países en desarrollo, por  lo que  existe un  gran  potencial  para  impulsar  políticas de  mitigación y  adaptación  ‘sin arrepentimiento’ en América Latina.",
+          "pagina": 34
+        }
+      ],
+      "nota": "El veredicto es Parcial porque enumera sectores pero no desarrolla el vínculo con empleo/productividad/desigualdad con cifras o mecanismos específicos."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento proporciona una metodología concreta (plataforma Excel con ADMC) pero no presenta una lista de recomendaciones operativas.item por item. La herramienta es concreta pero las recomendaciones de uso son generales.",
+      "citas": [
+        {
+          "cita": "El objetivo es que la plataforma pueda utilizarse por los tomadores de decisión de la región para que ayude en el desarrollo de estrategias o portafolios de políticas de mitigación y adaptación que brinden los mejores resultados frente a los retos que el cambio climático plantea.",
+          "pagina": 7
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Definir las ponderaciones que se utilizarán en los criterios de evaluación",
+          "clasificacion": "CONCRETO",
+          "pagina": 47
+        },
+        {
+          "item": "Evaluar las políticas de acuerdo a los criterios seleccionados",
+          "clasificacion": "CONCRETO",
+          "pagina": 47
+        },
+        {
+          "item": "Jerarquizar las políticas de acuerdo a su desempeño en los criterios seleccionados",
+          "clasificacion": "CONCRETO",
+          "pagina": 47
+        },
+        {
+          "item": "Mostrar un análisis de sensibilidad",
+          "clasificacion": "CONCRETO",
+          "pagina": 47
+        }
+      ],
+      "tally": "4 de 4 ítems pasan el test de concreción",
+      "nota": "El documento presenta una metodología de 4 pasos concreta, no una lista de recomendaciones de política. Los 4 pasos son accionables y específicos."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento aborda la contradicción entre la necesidad urgente de implementar políticas climáticas y la profunda incertidumbre sobre los escenarios futuros, proponiendo que la estrategia óptima no es buscar políticas 'perfectas' sino identificar aquellas que sean robustas ante múltiples futuros posibles. Esta tensión se resuelve mediante un enfoque metodológico que prioriza la robustez sobre la optimización.",
+      "filtro_categoria_primaria": "El objeto principal del documento es la sostenibilidad ambiental, específicamente la evaluación de políticas de mitigación y adaptación al cambio climático. Aunque el documento desarrolla una herramienta metodológica (lo que podría sugerir #11 Capacidades del Estado), el propósito fundamental es mejorar la capacidad de respuesta climática de la región, no fortalecer instituciones por sí mismo. La herramienta es el medio, la sostenibilidad ambiental es el fin.",
+      "secundaria_obligatoria": "La secundaria #11 Capacidades del Estado cumple una función habilitadora: proporciona la herramienta metodológica (plataforma Excel con ADMC) que permite al Estado y a los tomadores de decisiones evaluar y priorizar políticas climáticas de forma sistemática. Sin esta capacidad técnica, las políticas de sostenibilidad ambiental no pueden implementarse de manera efectiva.",
+      "justificacion_anti_copia": "El documento se distingue por: (1) desarrollar una plataforma concreta en Excel con 382 políticas catalogadas; (2) aplicar el Análisis de Decisión Multi-Criterio específicamente para el contexto latinoamericano; (3) identificar cinco cualidades de políticas robustas basadas en revisión de literatura internacional; y (4) proporcionar un manual detallado de uso con ejemplos de aplicación. Estos elementos son específicos de esta publicación de la CEPAL.",
+      "validacion_anclas": "Se compara con el ancla doc09 (Building a climate resilient power sector) que también es una herramienta/propuesta técnica (#6/#11). La diferencia es que doc09 se enfoca en un sector específico (energía) mientras que este documento es multisectorial y metodológico. Ambas comparten la característica de proporcionar herramientas concretas para la toma de decisiones climáticas."
+    },
+    "tipo_documento_climatico": "Herramienta metodológica / Plataforma de evaluación",
+    "nivel_aplicacion": "Regional (América Latina y el Caribe)",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

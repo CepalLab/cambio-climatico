@@ -1,0 +1,235 @@
+{
+  "documento": {
+    "num_muestra": 75,
+    "titulo": "Efectos del cambio climático en la costa de América Latina y el Caribe: reconstrucción histórica y proyecciones del efecto del cambio climático sobre el oleaje en la costa de Cuba",
+    "autoria": "IHCantabria | IHC | Íñigo J. Losada Rodríguez | Adrián Acevedo | Paula Camus | Pedro Díaz-Simal | Antonio Espejo | Melisa Menéndez | Pelayo Menéndez | Marta Ramírez | Alexandra Toimil | Saúl Torres | María Emilia Maza | María Fuentes",
+    "handle": "https://hdl.handle.net/11362/44102",
+    "simbolo": "LC/TS.2018/69",
+    "isbn": null,
+    "fecha": "2018-06",
+    "tipo_documento": "Documento de proyecto / Estudio técnico",
+    "paginas_cuerpo": 41,
+    "paginas_totales": 63,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cómo han evolucionado históricamente las dinámicas del oleaje en la costa de Cuba y cuáles son las proyecciones de su comportamiento ante escenarios de cambio climático para finales del siglo XXI?",
+    "alcance": {
+      "ambito_aplicacion": "Cuba (zonas costeras)",
+      "referentes_dependencias": "GOW2 (Global Ocean Waves), CFSR (Climate Forecast System Reanalysis), CMIP5 (Coupled Model Intercomparison Project)",
+      "sectorial": "Meteorología, Oceanografía, Ingeniería de Costas, Gestión de Riesgos",
+      "temporal": "1979-2017 (reconstrucción histórica) y proyecciones a 2100 (escenario RCP8.5)"
+    },
+    "hallazgos_principales": [
+      "Se generó la base de datos Regional Ocean Waves (ROW) Cuba, que proporciona parámetros horarios del oleaje con una resolución espacial de 1,0 km en la costa desde 1979 a 2017 (p. 10).",
+      "La validación con datos satelitales muestra una mejora considerable mediante el downscaling dinámico (ROW Cuba) frente a modelos globales (GOW2), con valores positivos del Brier Score Index en casi toda la costa (p. 31).",
+      "Los valores máximos de altura de ola media (1,3 m) se localizan en el extremo oriental debido a los vientos alisios persistentes y la orografía regional (p. 34).",
+      "Las proyecciones para finales de siglo (RCP8.5) indican una disminución de la altura de ola significante durante el invierno de hasta 0,9 m en la costa sur de Cuba, mientras que en verano se esperan ligeros aumentos sin consenso marcado entre modelos (p. 51)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El modelado numérico regional de alta resolución es indispensable para corregir las imprecisiones de los modelos globales en zonas costeras complejas y someras.",
+        "La costa de Cuba presenta una vulnerabilidad extrema ante el cambio climático debido a la concentración de población y actividad económica en el litoral.",
+        "Los cambios proyectados en la dinámica del oleaje, aunque menores en magnitud anual frente a otras regiones, son significativos estacionalmente y deben integrarse en la evaluación del riesgo costero."
+      ],
+      "recomendaciones": [
+        "Utilizar la base de datos ROW Cuba como insumo básico para estudios de ingeniería de costas, diseño de estructuras y proyectos de regeneración de playas.",
+        "Incorporar las proyecciones de cambio climático del oleaje en el análisis de la vida útil de las infraestructuras marítimas y la evolución del litoral a largo plazo.",
+        "Fortalecer la capacitación técnica local en el uso de herramientas de modelización y análisis económico aplicado al medio ambiente para la toma de decisiones basada en evidencia."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "Este estudio técnico presenta la reconstrucción histórica (1979-2017) y las proyecciones futuras (2100) del oleaje en Cuba, utilizando modelos de propagación regional de alta resolución (ROW Cuba). Los resultados destacan la creación de un atlas climático que permite caracterizar regímenes medios y extremales, fundamentales para la gestión de riesgos de inundación y erosión costera. Bajo el escenario RCP8.5, se proyectan cambios estacionales significativos, incluyendo una reducción de la altura de ola en invierno, subrayando la necesidad de adaptar la infraestructura costera a las nuevas dinámicas oceánicas derivadas del cambio climático global."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "12",
+      "resumen": "Se destaca la importancia del modelado numérico regional para generar bases de datos históricas (hindcast) largas y homogéneas. Estas reconstrucciones complementan las escasas medidas instrumentales y son esenciales para proyectos de ingeniería costera y análisis de vulnerabilidad ante el oleaje.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "El modelado numérico del oleaje permite generar bases de datos históricas suficientemente largas (del orden de décadas) y espacialmente homogéneas denominadas hindcast o retroanálisis.",
+          "pagina": 12
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Objetivos",
+      "nivel": 1,
+      "paginas": "14-15",
+      "resumen": "El objetivo principal es describir la base de datos Regional Ocean Waves (ROW) Cuba, que ofrece datos horarios homogéneos durante más de 30 años. Se busca proveer información técnica para el diseño de estructuras costeras, regeneración de playas y evaluación de riesgos de inundación y erosión.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Contar con información de estas características permite una caracterización robusta del clima marítimo a lo largo del litoral de Cuba para diferentes aplicaciones de ingeniería costera.",
+          "pagina": 14
+        },
+        {
+          "dimension": "desafios",
+          "cita": "En el caso de la inundación, la rotura del oleaje genera un aumento del nivel del mar (run-up), que puede llegar a ser de gran magnitud en el caso de eventos extremos y producir daños al sistema socioeconómico y natural.",
+          "pagina": 14
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "II. Metodología",
+      "nivel": 1,
+      "paginas": "16",
+      "resumen": "Describe el flujo de trabajo que incluye la recopilación de forzamientos (viento, oleaje histórico y marea), la calibración mediante datos de satélite y la propagación del oleaje hasta la costa usando el modelo SWAN.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "La propagación del oleaje hasta la costa se realiza mediante el modelo de propagación del oleaje SWAN (Simulating Waves Nearshore (Booij, Ris y Holthuijsen, 1999))",
+          "pagina": 16
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "III. Modelo y configuración regional",
+      "nivel": 1,
+      "paginas": "18-30",
+      "resumen": "Esta sección detalla la arquitectura técnica del modelo de propagación SWAN. Se utilizan bases de datos batimétricas globales (GEBCO) complementadas con cartas náuticas y sonar de alta resolución para definir el relieve marino con precisión. El forzamiento atmosférico proviene del reanálisis CFSR (0,3º), mientras que las condiciones de oleaje offshore se extraen de GOW2 (0,25º), calibradas previamente con altimetría satelital. Un aspecto crítico es la definición de la rugosidad del fondo marino, que varía espacialmente según la distribución de ecosistemas coralinos (bases WCMC-008), aplicando coeficientes de fricción específicos (0,05 para arena y 0,16 para coral). La simulación emplea una malla no estructurada de 72.046 nodos que optimiza la resolución desde el contorno oceánico hasta alcanzar el orden de 100 m en zonas de alta complejidad como la bahía de La Habana, permitiendo capturar procesos de refracción y generación local de forma eficiente.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Con el fin de obtener una mejor definición de la rugosidad del fondo, el coeficiente de fricción por fondo fue definido como espacialmente variable con base en la distribución de los corales existentes en la costa cubana.",
+          "pagina": 20
+        },
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Para la ejecución del modelo se ha empleado una única malla no estructurada, que permite resolver a la vez y con resolución variable toda la costa de Cuba",
+          "pagina": 28
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "IV. Validación",
+      "nivel": 1,
+      "paginas": "30-33",
+      "resumen": "Describe el riguroso proceso de validación estadística comparando los resultados del hindcast con observaciones instrumentales de satélites (ERS, TOPEX-Poseidon, Jason). Se aplican métricas como el Bias, RMSE, índice de dispersión (SI) y el coeficiente de correlación de Pearson, que alcanza valores superiores a 0,9 en gran parte del litoral. El análisis mediante el Brier Score Index demuestra que el modelo ROW Cuba aporta un valor añadido significativo frente a las bases globales, corrigiendo subestimaciones en zonas próximas a la costa y capturando mejor la variabilidad espacial de la altura de ola.",
+      "dimensiones": [
+        {
+          "dimension": "avances_implementacion",
+          "cita": "Los resultados más significativos de la validación de la reconstrucción del oleaje a lo largo de la costa de Cuba se obtienen con el indicador Brier Score Index, que se muestra en el gráfico 15.",
+          "pagina": 31
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "V. Caracterización climática del oleaje",
+      "nivel": 1,
+      "paginas": "34-45",
+      "resumen": "Presenta una caracterización exhaustiva del clima marítimo de Cuba, basada en la homogeneidad temporal y espacial de la base ROW Cuba. Se identifican patrones de altura de ola media de hasta 1,3 m en el extremo oriental y el bloqueo energético causado por el Gran Bajo de las Bahamas. El análisis revela una estacionalidad marcada: el invierno está dominado por frentes fríos extratropicales que afectan el norte, mientras que el verano y otoño presentan eventos extremos vinculados a huracanes y ondas del este. Se incluyen fichas técnicas estandarizadas que definen los regímenes medios y extremales (método POT-GEV y Gumbel) en localizaciones clave, permitiendo diferenciar el comportamiento del oleaje en zonas expuestas frente a áreas protegidas por barreras coralinas, donde la energía se disipa drásticamente por fricción.",
+      "dimensiones": [
+        {
+          "dimension": "tendencias",
+          "cita": "A pesar de estar en las latitudes tropicales, se aprecia una estacionalidad invierno-verano muy marcada, derivada de las variaciones estacionales (intensidad y posición) del anticiclón de las Azores y la mayor o menor actividad extratropical en el Golfo de México (frentes fríos).",
+          "pagina": 35
+        },
+        {
+          "dimension": "desafios",
+          "cita": "La estacionalidad de los eventos extremales se limita a la época de huracanes en las localizaciones 3, 4 y 5.",
+          "pagina": 36
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "VI. Proyecciones de oleaje de cambio climático",
+      "nivel": 1,
+      "paginas": "46-56",
+      "resumen": "Analiza las proyecciones de cambio climático del oleaje para finales de siglo (2070-2100) bajo el escenario RCP8.5, utilizando un multimodelo de 30 GCM del CMIP5. La metodología emplea un downscaling estadístico basado en tipos de tiempo y el método ESTELA para identificar áreas de generación global. Los resultados muestran una tendencia consistente a la disminución de la altura de ola significante durante el invierno en el Caribe (hasta 0,9 m en la costa sur), vinculada al desplazamiento de las tormentas extratropicales hacia los polos. En contraste, los períodos de pico (Tp) podrían experimentar ligeros aumentos en verano debido a la intensificación de los vientos en el hemisferio sur y su efecto en los swells de largo recorrido. Estas variaciones son críticas para evaluar la vulnerabilidad futura de las infraestructuras costeras y el diseño de estrategias de adaptación a largo plazo.",
+      "dimensiones": [
+        {
+          "dimension": "tendencias",
+          "cita": "En el caso de los datos de los GCM, la estandarización se ha aplicado utilizando la climatología media y la desviación estándar del período histórico (1997-2005) del mismo modelo, disminuyendo así también el sesgo del modelo climático.",
+          "pagina": 50
+        },
+        {
+          "dimension": "tendencias",
+          "cita": "La disminución de la altura de ola se refuerza en el invierno (panel izquierdo del gráfico 32) hasta valores medios de cambio consistentes de 0,9 m en la costa sur de la isla.",
+          "pagina": 51
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "No",
+      "evidencia": "El documento es un estudio técnico-científico centrado en la generación de una base de datos oceanográfica y proyecciones climáticas. No propone un paquete coordinado de inversiones masivas ni políticas industriales para la transformación del modelo de desarrollo en los términos del 'Big Push' ambiental de la CEPAL.",
+      "citas": [
+        {
+          "cita": "El objetivo general de este documento es presentar un resumen de la generación de una base de datos históricos del oleaje a lo largo de la costa cubana (Regional Ocean Waves (ROW) Cuba) con el propósito de proveer una caracterización climática robusta del oleaje para su aplicación en diferentes estudios de ingeniería costera.",
+          "pagina": 10
+        }
+      ],
+      "nota": "Se clasifica como un insumo técnico habilitador para futuras políticas, pero carece de la propuesta programática exigida."
+    },
+    "articulacion_actores": {
+      "veredicto": "No",
+      "evidencia": "Aunque menciona la colaboración entre la CEPAL, el Gobierno de Cuba (Ministerio de Ciencia, Tecnología y Medio Ambiente) y el Gobierno de España (IHCantabria), no propone ni describe un mecanismo, plataforma o institución de articulación multiactor con nombre propio para la implementación de políticas en el ámbito de aplicación cubano.",
+      "citas": [
+        {
+          "cita": "El estudio se llevó a cabo dentro de las actividades de colaboración entre la Comisión Económica para América Latina y el Caribe (CEPAL) y el Gobierno de Cuba “Evaluación de impactos y vulnerabilidad en la zona costera norte occidental de Cuba ante huracanes y el cambio climático”",
+          "pagina": 3
+        }
+      ],
+      "nota": "Se identifica cooperación técnica institucional, pero no un mecanismo de gobernanza climática articulado."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "Chequeo negativo: el documento menciona turismo, industria y actividad marítimo-portuaria como sistemas expuestos y en competencia con los ecosistemas costeros, no como oportunidades productivas sostenibles propuestas. No desarrolla una actividad de transición ni la vincula con empleo, productividad o reducción de desigualdad.",
+      "citas": [
+        {
+          "cita": "debido a la presencia de núcleos poblacionales de gran densidad y con tasas de crecimiento muy altas, y la intensa actividad turística, industrial y marítimo-portuaria, se registra gran competencia entre la gestión económica y el funcionamiento de los ecosistemas.",
+          "pagina": 8
+        }
+      ],
+      "nota": "El documento identifica la relevancia económica de las zonas costeras pero se mantiene en el ámbito del diagnóstico de riesgos físicos."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "No",
+      "evidencia": "Al tratarse de una reconstrucción histórica y proyecciones técnicas, el documento no contiene una sección de recomendaciones de política con instrumentos, responsables, plazos o métricas de implementación identificables.",
+      "citas": [
+        {
+          "cita": "Se incluyen los resultados de las proyecciones de cambio climático del oleaje para final de siglo a una resolución de 1,0° con el fin de disponer del orden de la magnitud de estos cambios para su consideración en la evaluación del riesgo asociado a los impactos costeros.",
+          "pagina": 10
+        }
+      ],
+      "desglose_items": [],
+      "tally": "0 ítems de política pública identificados",
+      "nota": "Su propósito es puramente descriptivo y analítico de variables físicas."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Media"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento enfrenta la brecha de información técnica precisa (brecha de datos) necesaria para gestionar los riesgos costeros derivados del cambio climático en Cuba.",
+      "filtro_categoria_primaria": "El objeto central es la caracterización física y oceanográfica del oleaje como factor determinante del cambio climático en costas, alineándose directamente con Sostenibilidad ambiental.",
+      "secundaria_obligatoria": "Se asocia a Capacidades del Estado debido a que el proyecto incluyó transferencia tecnológica y capacitación al personal de la Agencia de Medio Ambiente de Cuba (CITMA).",
+      "justificacion_anti_copia": "Utiliza modelos de downscaling estadístico y dinámico (SWAN, GOW2) aplicados específicamente al litoral cubano de 6000 km, con validación de altimetría satelital (1992-2013).",
+      "validacion_anclas": "Se asemeja al ancla de Doc01 (Efectos del cambio climático en la costa) en su enfoque metodológico y técnico para la evaluación de impactos físicos."
+    },
+    "tipo_documento_climatico": "Documento de proyecto / Estudio técnico",
+    "nivel_aplicacion": "Nacional / Costero",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

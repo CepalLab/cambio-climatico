@@ -1,0 +1,429 @@
+{
+  "documento": {
+    "num_muestra": 0,
+    "titulo": "Metodologías para apoyar la estimación de costos en la implementación del Plan Nacional de Adaptación y Mitigación al Cambio Climático en Guatemala",
+    "autoria": "Miguel Martínez Tuna",
+    "handle": "https://hdl.handle.net/11362/41832",
+    "simbolo": "LC/TS.2017/46",
+    "isbn": null,
+    "fecha": "2017-06",
+    "tipo_documento": "Documento de proyecto",
+    "paginas_cuerpo": 73,
+    "paginas_totales": 90,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cuáles son las metodologías más adecuadas para cuantificar económicamente los costos de implementar las medidas de adaptación y mitigación contempladas en el Plan Nacional de Adaptación y Mitigación al Cambio Climático (PANCC) de Guatemala, y cómo puede completarse la hoja de ruta para su desarrollo?",
+    "alcance": {
+      "ambito_aplicacion": "Guatemala",
+      "referentes_dependencias": "América Latina (Bolivia, Chile, Costa Rica, Perú, Uruguay); IPCC; CEPAL",
+      "sectorial": "Sector público (multisectorial: salud, infraestructura, recursos hídricos, agricultura, energía, transporte, recursos forestales, zonas marino-costeras)",
+      "temporal": "2011-2014 (datos históricos de inversión); 2016-2024 (horizonte de curvas de abatimiento)"
+    },
+    "hallazgos_principales": [
+      "La inversión acumulada de 8 instituciones del gobierno de Guatemala en adaptación y mitigación para 2011-2014 fue de 2.213 millones de quetzales, equivalente al 4% del presupuesto total de estas instituciones y al 0,93% del presupuesto del gobierno central, lo cual resulta insuficiente frente a los impactos proyectados (p.77).",
+      "El CIV aportó el 37% del monto total invertido (818,22 millones de Q), seguido por MAGA con 19% (414,12 millones de Q) y CONAP con 15% (324,16 millones de Q); sin embargo, CONAP reportó el 100% de su presupuesto como acciones de climáticas (p.77-78).",
+      "De las seis tecnologías de energías renovables evaluadas en las curvas de abatimiento, solo cuatro son viables: hidroeléctricas medianas, plantas geotérmicas, hidroeléctricas pequeñas y plantas eólicas, con un potencial de abatimiento combinado de 13.396 millones de tCO2e y un costo total de inversión de 5.724 millones de dólares (p.80-81).",
+      "El PANCC de Guatemala prioriza medidas de adaptación en 5 áreas temáticas y de mitigación en 5 sectores, pero presenta desbalances: el componente de adaptación no tiene el mismo peso que el de mitigación, y faltan análisis de costos, necesidades de inversión y estrategia financiera (p.83).",
+      "Guatemala ocupa el noveno lugar entre los países más afectados por fenómenos hidrometeorológicos; la sequía de 2014 generó pérdidas del 54-75% de cosechas de maíz y frijol con efectos en la seguridad alimentaria de 1,5 millones de personas, y las pérdidas acumuladas por sequías e inundaciones en la última década superan los 1.300 millones de dólares (p.40)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La valoración económica del PANCC no pudo realizarse directamente porque el plan se encontraba en fase de desarrollo al momento de la consultoría; sin embargo, se elaboraron metodologías aplicables (ACB, curvas de abatimiento) que el MARN podrá usar cuando cuente con versiones definitivas.",
+        "La inversión pública dedicada a cambio climático es manifiestamente insuficiente: los 2.213 millones de Q invertidos en 4 años representan apenas el 0,93% del presupuesto central, frente a pérdidas históricas que superan los 9.932 millones de Q y costos acumulados proyectados del 37,7-63,63% del PIB para 2100.",
+        "El PANCC tiene avances importantes como instrumento marco, pero requiere profundizar en sectores vulnerables, balancear adaptación y mitigación, completar el análisis de actores y capacidades, y articular con otros instrumentos de planificación."
+      ],
+      "recomendaciones": [
+        "Que la valoración económica del PANCC se haga con base en los Planes Estratégicos Institucionales y del Plan Nacional de Energía, lo que implica su desarrollo previo con metas e indicadores concretos.",
+        "Profundizar el análisis de la inversión pública dedicada a adaptación y mitigación, así como desarrollar una estrategia de financiamiento que identifique fuentes públicas, privadas y de cooperación internacional.",
+        "Incluir en futuros ejercicios de curvas de abatimiento medidas de eficiencia energética y otros sectores además del energético, y validar los supuestos con datos generados en Guatemala.",
+        "Desarrollar un análisis de los instrumentos económicos y de política que deben acompañar la implementación de las prácticas de adaptación y mitigación que resulten viables."
+      ],
+      "nota": "El documento es una consultoría técnica que proporciona metodologías e insumos, no una propuesta de política autónoma; las recomendaciones están dirigidas al MARN y al Consejo Nacional de Cambio Climático."
+    },
+    "resumen_narrativo": "El estudio encargado por el MARN a la CEPAL dentro del programa EUROCLIMA desarrolla metodologías para estimar los costos de implementación del PANCC de Guatemala, que se encontraba en fase de desarrollo. El análisis comparativo con seis países de la región revela que Guatemala priorizó 22 medidas de adaptación en cuencas hidrográficas y 22 de mitigación en transporte, pero dejó fuera temas críticos como infraestructura de almacenamiento de agua y eficiencia energética. La inversión pública acumulada de 2.213 millones de quetzales (2011-2014) equivale al 0,93% del presupuesto central, cifra que contrasta con pérdidas históricas superiores a 1.300 millones de dólares y proyecciones de costos del 37,7-63,63% del PIB para 2100. Las curvas de abatimiento identificaron cuatro tecnologías viables —hidroeléctricas medianas, geotermia, hidroeléctricas pequeñas y eólica— con potencial de 13.396 millones de tCO2e, y se propuso una hoja de ruta de once pasos para completar el plan."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "12-14",
+      "resumen": "Plantea la urgencia de actuar frente al cambio climático en Guatemala, citando estimaciones de CEPAL (impacto del 1,5-5% del PIB por aumento de 2,5 °C) y Beteta (costo acumulado del 37,7-63,63% del PIB para 2100). Describe los efectos en agricultura, salud y ecosistemas, y presenta el PANCC como instrumento rector desarrollado por MARN y SEGEPLAN en cumplimiento de la LMCC. Explica que la consultoría fue solicitada por el MARN a la CEPAL a través del programa EUROCLIMA para apoyar la elaboración del PANCC con metodologías de cuantificación de costos.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "El cambio climático tiene efectos negativos en los sistemas humanos y los ecosistemas. CEPAL (2014a y 2014b) estima que un aumento de 2,5 °C de temperatura tendrá un impacto en la economía de América Latina (para el año 2050) de entre el 1,5 y el 5% del PIB actual. Para el caso particular de Guatemala, Beteta (2014) estima que el costo acumulado para el 2100 será de entre 37,7 y 63,63% del PIB.",
+          "pagina": 14
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Guatemala a través del Ministerio de Ambiente y Recursos Naturales (MARN) y la Secretaría de Planificación y Programación de la Presidencia (SEGEPLAN) desarrollaron el Plan de Acción Nacional para la Adaptación y Mitigación al Cambio Climático (PANCC)",
+          "pagina": 14
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Metodología",
+      "nivel": 1,
+      "paginas": "15-30",
+      "resumen": "Describe los procedimientos metodológicos en dos partes: (a) investigación de fuentes secundarias para antecedentes y estado del arte (91 documentos localizados, 62 planes nacionales revisados, seis países priorizados: Chile, Guatemala, Perú, Bolivia, Costa Rica y Uruguay); y (b) tres métodos de cuantificación económica: valoración económica vía ACB (aplicada a un proyecto hipotético de riego), estimación de la inversión pública en cambio climático (encuesta a 12 instituciones, ocho con datos), y curvas marginales de abatimiento (ejercicio indicativo con seis tecnologías renovables usando planes indicativos del MEM). Incluye ecuaciones del CAE y costo de abatimiento, y tablas de parámetros de costos de referencia por tipo de planta.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Antecedentes y estado del arte",
+          "nivel": 2,
+          "paginas": "15-17",
+          "resumen": "Explica la estrategia de búsqueda documental: 91 documentos localizados en internet, clasificados por autor, año, país y título. Para las secciones de antecedentes se priorizaron fuentes del IPCC y CEPAL; para el estado del arte, documentos del MARN de Guatemala complementados con CEPAL. De 62 fuentes sobre planes nacionales, se priorizaron seis países con medidas concretas de adaptación y mitigación.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "En total se localizaron 91 documentos con información relevante para el desarrollo de este documento; incluyen información relacionada con la situación e impactos del cambio climático a nivel mundial, regional (América Latina y Centroamérica) y local, así como planes nacionales, estrategias y medidas de adaptación y mitigación.",
+              "pagina": 16
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Cuantificación de costos de implementar medidas de adaptación y mitigación en Guatemala",
+          "nivel": 2,
+          "paginas": "17-30",
+          "resumen": "Presenta la metodología de valoración económica en tres componentes: (1) hoja de ruta para el PANCC adaptada del DNP de Colombia, con once pasos que incluyen delimitar sistema, mapear actores, articular instrumentos, evaluar riesgo, identificar medidas, estimar costos, sondear co-beneficios, priorizar, estrategia financiera, cronograma y seguimiento; (2) análisis costo-beneficio aplicado a un proyecto hipotético de tanque de almacenamiento y riego tecnificado, con flujo de costos y beneficios a lo largo de la vida del proyecto y valor actual neto; y (3) curvas marginales de abatimiento usando el Costo Anual Equivalente (CAE) para comparar seis tecnologías de energías renovables contra una planta de carbón como escenario base. Los datos de costos de plantas provienen de fuentes secundarias internacionales adaptadas a condiciones guatemaltecas.",
+          "dimensiones": [],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "II. Antecedentes: situación y perspectivas de los efectos del cambio climático",
+      "nivel": 1,
+      "paginas": "31-44",
+      "resumen": "Presenta el contexto del cambio climático a tres escalas. A nivel global, las emisiones de GEI alcanzaron 49 GtCO2e/año en 2010, con incrementos del 330% en Asia y 57% en Latinoamérica desde 1970. A nivel regional, América Latina mostró un aumento de temperatura de 0,74 °C en el último siglo, con proyecciones de impacto del 1,5-5% del PIB. Para Guatemala, detalla impactos en ciclo hidrológico (reducción de escorrentía del 10-50%), agricultura (productividad del maíz de 2,2 a 0-0,2 ton/ha para 2100), salud (incremento de IRA, EDA y enfermedades vectoriales), y ecosistemas (pérdida del 33-58% de biodiversidad). Presenta las emisiones nacionales de GEI (12.553,74 Gg CO2 en 2005) y la estructura del PANCC con 5 áreas de adaptación y 5 de mitigación.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Situación del cambio climático a nivel global",
+          "nivel": 2,
+          "paginas": "31-33",
+          "resumen": "Sintetiza la evidencia del IPCC sobre incremento de emisiones GEI (49 GtCO2e/año en 2010, crecimiento promedio de 1 GtCO2e anual), composición por gases (76% CO2, 16% CH4) y sectores emisores (electricidad 25%, agricultura/bosques 24%, industria 21%, transporte 14%). Señala que las temperaturas más cálidas de las últimas tres décadas superan cualquier período desde 1850. Describe los principales drivers: producción y consumo per cápita, tecnología y eficiencia energética, crecimiento poblacional y patrones de desarrollo.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Según IPCC (2014c) las emisiones de gases de efecto invernadero (GEI) se ha ido incrementado durante 1970-2010. No obstante los esfuerzos de mitigación en el 2000-2010 se alcanzaron los niveles más alto en la historia de la humanidad",
+              "pagina": 32
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Situación del cambio climático en América Latina",
+          "nivel": 2,
+          "paginas": "34-36",
+          "resumen": "Describe las tendencias climáticas regionales: aumento de 0,74 °C en el último siglo, duplicándose la tasa en los últimos 50 años (0,13 °C/década). Para Centroamérica, el crecimiento anual del 7% en desastres, con inundaciones, tormentas y deslizamientos representando el 86% de los eventos. Proyecta impactos en generación hidroeléctrica (caída del 70-80% en escenario pesimiste), agricultura (caída del rendimiento de frijol de 0,7 a menos de 0,1 ton/ha), biodiversidad (pérdida del 33-58%) y población vulnerable. Impacto económico estimado en el 1,5-5% del PIB regional.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "En el caso de Centroamérica, CEPAL (2012) indica que al comparar las últimas tres décadas con la de los años setenta se puede apreciar que ha habido un crecimiento anual del 7% de los desastres, y también indica que los eventos más recurrentes son inundaciones, tormentas, deslizamientos y aluviones (representando el 86% de los eventos totales registrados), seguidos por sequías (9% de los eventos totales registrados)",
+              "pagina": 36
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Situación y perspectivas en Guatemala",
+          "nivel": 2,
+          "paginas": "36-44",
+          "resumen": "Describe la vulnerabilidad de Guatemala: 22 departamentos, 14,6 millones de habitantes (51,3% rurales, 51% indígena, 54% en pobreza). Detalla impactos específicos: alteraciones del ciclo hidrológico (reducción de escorrentía 10-50%), pérdidas agrícolas (sequía 2014: 54-75% de cosechas, 1,5 millones afectados), daños por huracanes (Mitch: 948,79 MUSD; Stan: 1.000 MUSD), incremento de enfermedades (IRA se duplicaron 2009-2014). Presenta emisiones nacionales de GEI por sector y la estructura del PANCC con sus dos consultorías secuenciales.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Guatemala ocupa el noveno lugar de entre los países más afectados por fenómenos hidrometeorológicos (Kreft, Eckstein, Junghans, Kerestan, & Hagen, 2014); esto quedó demostrado por sequía de 2014, que generó pérdidas agrícolas (que oscilaban entre el 54 y 75% de las cosechas de maíz y frijol) que tuvieron efectos profundos en la seguridad alimentaria de 1.5 millones de personas (OCHA, 2014)",
+              "pagina": 40
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Una alta tasa de deforestación (132 137 ha/año) debida al aprovechamiento no controlado de leña y madera, la tala ilegal y los incendios forestales.",
+              "pagina": 41
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "III. Estado del arte",
+      "nivel": 1,
+      "paginas": "45-62",
+      "resumen": "Análisis comparado de medidas de adaptación y mitigación entre el PANCC de Guatemala y las implementadas en Bolivia, Chile, Costa Rica, Perú, Uruguay y documentos de América Latina. Para adaptación, se organizan en 6 categorías (cuencas/hídrica, infraestructura, recursos forestales, agricultura/ganadería, zonas marino-costeras, salud humana); para mitigación, en 10 categorías (transporte, industria energética, manufacturera, residencial/comercial, procesos industriales, desechos industriales, desechos domésticos, cobertura forestal, manejo estiércol/fertilizantes/quema agrícola, líneas no priorizadas). Cada categoría presenta cuadros comparativos con medidas priorizadas por Guatemala y las disponibles regionalmente.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Medidas de adaptación utilizadas con mayor frecuencia aplicadas en América Latina",
+          "nivel": 2,
+          "paginas": "45-55",
+          "resumen": "Analiza 6 categorías de adaptación. En cuencas/hídrica, Guatemala prioriza 23 medidas pero deja fuera estimaciones de agua futura e infraestructura de almacenamiento. En infraestructura, prioriza 13 medidas pero no aborda uso eficiente de agua ni amortiguamiento de temperaturas extremas. En recursos forestales, es la sección más completa con 30 de 33 medidas priorizadas, pero falta inversión pública y caudales ecológicos. En agricultura, prioriza 34 medidas pero omite embalses y calendarios de siembra. En zonas marino-costeras, prioriza 28 medidas con énfasis en manglares. En salud, prioriza 18 de 22 medidas pero omite evaluación económica de infraestructura sanitaria.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "En relación a este tipo de medidas el PANCC de Guatemala prioriza 22 pero al analizarlas algunas resultaron ser complementarias o subactividades de la misma medida, por lo que se sintetizaron en 13.",
+              "pagina": 46
+            },
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "Esta sección no aborda medidas para uso eficiente de agua (como instalaciones sanitarias de bajo consumo en viviendas y hoteles) o para amortiguar las temperaturas extremas que se sufrirán en zonas específicas del país, tampoco analiza el aumento de la inversión pública dirigida a la mitigación y a la adaptación, ni la aplicación de instrumentos de eficiencia energética disponibles para la actividad industrial",
+              "pagina": 48
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Medidas de mitigación utilizadas con mayor frecuencia aplicadas en América Latina",
+          "nivel": 2,
+          "paginas": "56-62",
+          "resumen": "Analiza 10 categorías de mitigación. En transporte, Guatemala prioriza 22 de 28 medidas (faltan metro/tren y renovación de parque automotor). En industria energética, prioriza 10 de 15 (faltan flujos de inversión y monitoreo de oferta). En manufacturera, prioriza 8 de 11. En residencial/comercial, prioriza 15 de 20 (faltan estándares de eficiencia energética e instrumentos fiscales). En desechos, la cobertura es completa. En cobertura forestal, prioriza 13 de 14. En manejo de estiércol/fertilizantes/quema, cubre las 24 medidas identificadas. Las líneas no priorizadas incluyen la NAMA café de Costa Rica, relevante para Guatemala.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Guatemala priorizó ocho de un total de once medidas. Estas se enfocan en el ahorro y la eficiencia energética, MRV, SNICC e inventarios GEI.",
+              "pagina": 59
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Hechos estilizados",
+      "nivel": 1,
+      "paginas": "65-68",
+      "resumen": "Presenta seis hechos estilizados que resumen la evidencia clave: (1) evidencia del cambio climático — emisiones GEI alcanzaron 49 GtCO2e/año en 2010; (2) impactos — alteraciones hidrológicas, pérdida de biodiversidad, reducción de rendimientos agrícolas; (3) áreas temáticas para adaptación — salud, agricultura, recursos hídricos, forestales y costeros; (4) principales fuentes de emisiones — energía, agricultura, cambio de uso de tierra; (5) áreas para mitigación — energía, transporte, industria, residencial, procesos, desechos, UTCUTS; (6) nivel de detalle insuficiente de las medidas propuestas para realizar su costeo. Sirve como síntesis de la evidencia del capítulo II para orientar las medidas en Guatemala.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Según IPCC (2007) la concentración de GEI tiene un efecto directo en el incremento en la temperatura del planeta, evidencia de esto es que en las últimas tres décadas se han registrado las temperaturas atmosféricas más cálidas que cualquier otra década desde 1850.",
+          "pagina": 66
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Al analizar las medidas propuestas por el MARN para el PANCC se concluye que son muy generales, por lo que para realizar un costeo se requiere un esfuerzo para aumentar el nivel de detalle de tal forma que se puedan establecer acciones específicas y programas con actividades puntuales.",
+          "pagina": 68
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "V. Resultados",
+      "nivel": 1,
+      "paginas": "69-80",
+      "resumen": "Presenta tres bloques de resultados: (A) hoja de ruta de 11 pasos para completar el PANCC (delimitar sistema, mapear actores, articular instrumentos, evaluar riesgo, identificar medidas, estimar costos, sondear co-beneficios, priorizar, estrategia financiera, cronograma, seguimiento); (B) estimación de la inversión pública en cambio climático de 8 instituciones para 2011-2014 (2.213 millones de Q, 4% del presupuesto institucional, 0,93% del gobierno central), con desglose por institución; (C) curvas marginales de abatimiento indicativas para 6 tecnologías renovables, de las cuales 4 son viables (hidroeléctrica mediana, geotermia, hidroeléctrica pequeña, eólica) con potencial de 13.396 millones de tCO2e.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Hoja de ruta para el desarrollo del PANCC",
+          "nivel": 2,
+          "paginas": "69-76",
+          "resumen": "Propone 11 pasos secuenciales para completar el PANCC, basados en la metodología del DNP de Colombia. Los pasos incluyen: delimitar el sistema, mapear actores y capacidades, articular con otros instrumentos de planificación, evaluar el riesgo climático, identificar medidas, estimar costos de implementación, sondear co-beneficios, priorizar medidas, diseñar estrategia financiera, definir cronograma, y establecer seguimiento y evaluación. Para cada paso se evalúa el estado actual del PANCC y se identifican carencias: no cuenta con cronograma, ni estrategia financiera, ni evaluación de actores. Se destaca que la valoración económica requiere el desarrollo previo de los Planes Estratégicos Institucionales.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "El procedimiento a seguir son once pasos que se listan a continuación: 69",
+              "pagina": 70
+            },
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "Actualmente el plan no cuenta con un cronograma de implementación, sólo se incorporó en las matrices de programación y planificación para cada área temática una columna de plazos donde se describe si la medida es de corto, mediano o largo plazo; lo cual no es suficiente.",
+              "pagina": 76
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Estimación de la inversión que los entes de gobierno están haciendo en cambio climático",
+          "nivel": 2,
+          "paginas": "76-79",
+          "resumen": "Presenta resultados de la encuesta presupuestaria a 8 instituciones (CIV, CONAP, CONRED, MAGA, MARN, MEM, MINDEF, MSPAS) para 2011-2014. La inversión total acumulada fue de 2.213 millones de quetzales (4% del presupuesto institucional, 0,93% del gobierno central). El CIV aportó el 37% (818 M Q, 3,59% de su presupuesto), MAGA el 19% (414 M Q, 8%), CONAP el 15% (324 M Q, 100% — reportó toda su misión como climática), MEM el 10% (213 M Q, 44,1%), MSPAS el 11% (249 M Q, 1,37%). Se destaca que la inversión es insuficiente comparada con las pérdidas históricas de más de 9.932 millones de Q y los costos proyectados del 37,7-63,63% del PIB.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "la inversión hecha por las instituciones que son objeto de estudio para el periodo 2011-2014 es de 2.213 millones de quetzales, este valor equivale al 4% del presupuesto total de estas instituciones y al 0,93% del presupuesto del gobierno central para ese periodo, lo cual demuestra que la inversión que está haciendo el gobierno de guatemala en temas de adaptación y mitigación del cambio climático es muy baja; basta con entender los efectos que el cambio climático tiene y tendrá en el futuro del país",
+              "pagina": 77
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Curvas marginales de abatimiento",
+          "nivel": 2,
+          "paginas": "79-80",
+          "resumen": "Presenta un ejercicio indicativo de curvas de abatimiento para seis tecnologías de energías renovables (hidroeléctrica mediana, pequeña, geotermia, eólica, solar FV comercial y pequeña) usando los planes indicativos de generación y transmisión del MEM (2016-2024). De las seis, solo cuatro son viables: hidroeléctrica mediana (costo -60 $/tCO2e, potencial 11 MtCO2e), geotérmica (44 $/tCO2e, 2,1 Mt), hidroeléctrica pequeña (-38 $/tCO2e, 19 mil t), eólica (60 $/tCO2e, 11 Mt). El potencial total de abatimiento es de 13.396 millones de tCO2e, con costo total de inversión de 5.724 millones de dólares y ahorro de 761,94 millones de dólares. La generación total estimada es de 15.617.262 MWh.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Otros datos importantes generados a partir de los datos y supuestos utilizados son: 1) el potencial de abatimiento total de las plantas (viables) evaluadas que es de 13.396 millones de toneladas de dióxido de carbono equivalente, 2) el costo total de la inversión que pare este caso es de 5 724 millones de dólares, y 3) el ahorro que generaría la iniciativa que es de 761.94 millones de dólares.",
+              "pagina": 80
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "VI. Consideraciones finales y recomendaciones",
+      "nivel": 1,
+      "paginas": "81-85",
+      "resumen": "Cierra el documento con consideraciones finales, particulares y recomendaciones. Las consideraciones finales reiteran la insuficiencia de la inversión y la necesidad de desarrollar planes estratégicos institucionales. Las particulares identifican aspectos mejorables del PANCC: profundizar análisis de sectores vulnerables, balancear adaptación y mitigación, completar análisis de actores, articular con otros instrumentos. Las recomendaciones se organizan en tres ejes: (1) valoración económica — basarla en PEI y Plan Nacional de Energía; (2) inversión pública — desarrollar estrategia de financiamiento con análisis de fuentes públicas, privadas y espacios fiscales; (3) curvas de abatimiento — incluir eficiencia energética, validar supuestos con datos guatemaltecos, analizar instrumentos económicos de acompañamiento.",
+      "dimensiones": [
+        {
+          "dimension": "brechas_implementacion",
+              "cita": "x Profundizar en el análisis de los sectores vulnerables en términos sociales y geográficos. x Balancear los contenidos y el análisis, ya que en la actualidad el componente de adaptación no tiene el mismo peso que el de mitigación.",
+              "pagina": 83
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Se recomienda que la valoración económica del PANCC se haga con base en los análisis económicos de los planes estratégicos institucionales y del Plan Nacional de Energía.",
+          "pagina": 85
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Consideraciones finales y particulares",
+          "nivel": 2,
+          "paginas": "81-83",
+          "resumen": "Las consideraciones finales sintetizan que las medidas de políticas públicas de adaptación y mitigación ofrecen opciones para contribuir al cambio climático en Guatemala, pero existen aspectos mejorables. Se reitera que la inversión es muy baja (0,93% del presupuesto central) comparada con los retos del país. Las consideraciones particulares detallan cinco aspectos a mejorar en el PANCC: profundizar en sectores vulnerables sociales y geográficos, balancear contenidos de adaptación y mitigación, profundizar análisis de actores y capacidades, entrar a más detalle en articulación con instrumentos de planificación, y complementar con las matrices del capítulo III.",
+          "dimensiones": [
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "este valor resulta insuficiente si se toma en cuenta que en la última década las pérdidas sufridas por sequías e inundaciones sobrepasan los 9 932 millones de quetzales (MARN, 2012a)",
+              "pagina": 83
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Recomendaciones generales y específicas",
+          "nivel": 2,
+          "paginas": "84-85",
+          "resumen": "Organiza las recomendaciones en tres ejes. Sobre valoración económica: basarla en PEI y Plan Nacional de Energía, seguir los pasos de la metodología ACB (delimitar sistema, mapear actores, evaluar riesgo, estimar costos, priorizar, estrategia financiera, cronograma). Sobre inversión pública: desarrollar estrategia de financiamiento identificando fuentes públicas y privadas, analizar espacios fiscales, profundizar el análisis de la inversión actual (0,93% del presupuesto central). Sobre curvas de abatimiento: incluir eficiencia energética y otros sectores, validar supuestos con datos del MEM, analizar instrumentos económicos y de política para acompañar la implementación.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Se recomienda desarrollar la valoración económica de los planes estratégicos institucionales de reducción de vulnerabilidad, adaptación y mitigación al cambio climático, así como una estrategia de financiamiento que tome en cuenta las fuentes existentes (es decir, un análisis de la inversión pública que se realiza en adaptación y mitigación, si bien es cierto que el presente estudio proporciona una buena base, su carácter sólo es indicativo) y una investigación de espacios fiscales que permita identificar las posibles fuentes que existen en el prepuesto público.",
+              "pagina": 85
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "No",
+      "evidencia": "El documento es una consultoría metodológica que proporciona herramientas de cuantificación de costos (ACB, curvas de abatimiento) y una hoja de ruta de 11 pasos para completar el PANCC. No propone un paquete coordinado de inversión masiva ni un conjunto simultáneo de políticas a escala de modelo de desarrollo. Las tecnologías evaluadas (hidroeléctrica, geotermia, eólica) son instrumentos sectoriales de mitigación energética sin lógica de paquete coordinado. El documento reconoce que el PANCC está en fase de desarrollo y que la valoración económica no pudo realizarse, por lo que no presenta propuesta propia de transformación productiva.",
+      "citas": [
+        {
+          "cita": "Debido a que el Plan Nacional de Adaptación y Mitigación al Cambio Climático (PANCC) se encuentra en fase de desarrollo y con el fin de fortalecer los esfuerzos que hace el país en relación al cambio climático, el MARN solicitó realizar algunas modificaciones a los alcances del presente trabajo.",
+          "pagina": 12
+        },
+        {
+          "cita": "Por tratarse de un ejercicio indicativo para ilustrar la metodología no se incluyeron las tecnologías de eficiencia energética.",
+          "pagina": 82
+        }
+      ],
+      "nota": "El No es por diseño del documento —es una consultoría metodológica, no una propuesta de transformación productiva—, no por omisión descuidada."
+    },
+    "articulacion_actores": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento identifica y tipifica actores institucionales (12 entidades priorizadas: CIV, CONAP, CONRED, MAGA, MARN, MEM, MINDEF, MINFIN, MSPAS, SAT, SESAN, SIPECIF) y describe sus roles y competencias según la LMCC. Sin embargo, no nombra un mecanismo de coordinación con nombre propio entre esos actores dentro del ámbito de Guatemala. Menciona el Consejo Nacional de Cambio Climático como órgano rector pero no describe un mecanismo de articulación multiactor concreto vigente o propuesto.",
+      "citas": [
+        {
+          "cita": "Luego de discusiones con el equipo del MARN se concluyó que también se debía tomar en cuenta a la Coordinadora Nacional para la Reducción de Desastres (CONRED), el MEM, el Instituto Nacional de Sismología, Vulcanología, Meteorología e Hidrología (INSIVUMEH), y la SEGEPLAN ya que son instituciones que tienen funciones importantes sobre el tema y que también son mencionadas en la LMCC.",
+          "pagina": 26
+        }
+      ],
+      "nota": "El veredicto es Parcial porque el documento tipifica actores y sus roles pero no cita un mecanismo de articulación con nombre propio vigente en Guatemala."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "El documento no enumera sectores o actividades productivas concretas donde identifique oportunidades de transición sostenible vinculadas a empleo, productividad o reducción de desigualdad. Las tecnologías evaluadas en las curvas de abatimiento (hidroeléctrica, geotermia, eólica, solar) se presentan como opciones de mitigación con análisis de costos, no como oportunidades productivas de transición.",
+      "citas": [],
+      "nota": "El No refleja que el documento es una consultoría de cuantificación de costos, no un análisis de oportunidades productivas."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "De 7 recomendaciones, 3 pasan el test de concreción (PEI y Plan Nacional de Energía, incluir eficiencia energética en curvas, validar supuestos con datos guatemaltecos) y 4 son genéricas (seguimiento de hoja de ruta, profundizar análisis de inversión, estrategia de financiamiento, análisis de instrumentos económicos).",
+      "citas": [
+        {
+          "cita": "Se recomienda que la valoración económica del PANCC se haga con base en los análisis económicos de los planes estratégicos institucionales y del Plan Nacional de Energía.",
+          "pagina": 85
+        },
+        {
+          "cita": "En lo referente a fuentes privadas también deberá realizarse un esfuerzo para identificar financiamientos encaminados a adaptación y mitigación.",
+          "pagina": 85
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Que la valoración económica del PANCC se haga con base en los Planes Estratégicos Institucionales y del Plan Nacional de Energía",
+          "clasificacion": "CONCRETO",
+          "pagina": 85
+        },
+        {
+          "item": "Seguimiento de la hoja de ruta propuesta para completar el PANCC",
+          "clasificacion": "GENERICO",
+          "pagina": 85
+        },
+        {
+          "item": "Profundizar en el análisis de la inversión pública dedicada a adaptación y mitigación",
+          "clasificacion": "GENERICO",
+          "pagina": 85
+        },
+        {
+          "item": "Desarrollar una estrategia de financiamiento que tome en cuenta las fuentes existentes",
+          "clasificacion": "GENERICO",
+          "pagina": 85
+        },
+        {
+          "item": "Incluir en futuros ejercicios de curvas de abatimiento medidas de eficiencia energética y otros sectores",
+          "clasificacion": "CONCRETO",
+          "pagina": 85
+        },
+        {
+          "item": "Validar los supuestos utilizados y adaptarlos con datos generados en Guatemala",
+          "clasificacion": "CONCRETO",
+          "pagina": 85
+        },
+        {
+          "item": "Desarrollar un análisis de los instrumentos económicos y de política que deben acompañar la implementación",
+          "clasificacion": "GENERICO",
+          "pagina": 85
+        }
+      ],
+      "tally": "3 de 7 ítems pasan el test de concreción",
+      "nota": "La lista de recomendaciones es breve (7 ítems) y mixta."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento enfrenta una tensión entre la urgencia de actuar frente a los impactos crecientes del cambio climático en Guatemala (pérdidas del 54-75% de cosechas, costos acumulados del 37,7-63,63% del PIB para 2100) y la incapacidad del Estado de cuantificar y financiar la respuesta: el PANCC está en fase de desarrollo, la inversión pública es del 0,93% del presupuesto central, y no existen metodologías aplicadas para la valoración económica de las medidas.",
+      "filtro_categoria_primaria": "El objeto del documento es la arquitectura institucional y metodológica para la planificación climática: proporciona herramientas de cuantificación de costos, una hoja de ruta de 11 pasos para completar el PANCC, y un diagnóstico de la inversión pública existente. La función principal es habilitar la capacidad del Estado para planificar, costear y financiar la acción climática — lo que define a #11 Capacidades del Estado como primaria.",
+      "secundaria_obligatoria": "#6 Sostenibilidad ambiental entra como secundaria porque el ámbito de aplicación es la acción climática: adaptación y mitigación al cambio climático.",
+      "justificacion_anti_copia": "El documento es una consultoría CEPAL/EUROCLIMA que desarrolla metodologías de cuantificación económica (ACB, curvas de abatimiento) para un plan nacional de clima en fase de desarrollo, con un diagnóstico de inversión pública de 8 instituciones guatemaltecas y una hoja de ruta de 11 pasos adaptada del DNP de Colombia. Su método es comparativo regional (6 países ALC) y su hallazgo central es la insuficiencia de la inversión (0,93% del presupuesto central) frente a costos proyectados del 37,7-63,63% del PIB.",
+      "validacion_anclas": "Se compara con el ancla doc08 (Reflexiones sobre la gestión del agua), que también es #11/#6: ambos documentos tienen como objeto la arquitectura institucional y usan clima como ámbito de aplicación."
+    },
+    "tipo_documento_climatico": "Documento de proyecto / Consultoría técnica",
+    "nivel_aplicacion": "Nacional (Guatemala)",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

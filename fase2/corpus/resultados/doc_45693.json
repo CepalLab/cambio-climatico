@@ -1,0 +1,365 @@
+{
+  "documento": {
+    "num_muestra": 105,
+    "titulo": "El cambio climático, la distribución del ingreso y la pobreza: el caso de México",
+    "autoria": "Joseluis Samaniego, Luis Miguel Galindo, Silvia Jessica Mostacedo Marasovic, Jimy Ferrer Carbonell, José Eduardo Alatorre y Orlando Reyes",
+    "handle": "https://hdl.handle.net/11362/45693",
+    "simbolo": null,
+    "isbn": null,
+    "fecha": "2017-04",
+    "tipo_documento": "Síntesis de políticas públicas",
+    "paginas_cuerpo": 10,
+    "paginas_totales": 12,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿De qué manera y en qué magnitud afectarán las variaciones esperadas en la temperatura y la precipitación hacia el año 2100 al ingreso agrícola, al ingreso neto per cápita de los hogares rurales, a la incidencia, profundidad y severidad de la pobreza (índice FGT) y a la desigualdad distributiva (coeficiente de Gini) en México?",
+    "alcance": {
+      "ambito_aplicacion": "México (sector rural, 80 comunidades rurales de la muestra ENHRUM)",
+      "referentes_dependencias": "Modelos climáticos globales HADLEY (Hadley Centre), PCM (Parallel Climate Model) y MIMR (Center for Climate System Research) bajo escenario A2 del IPCC; línea de pobreza alimentaria rural del CONEVAL (2006); literatura empírica internacional de función ricardiana y microeconometría climática (Mendelsohn, Stern, Nordhaus, Horowitz).",
+      "sectorial": "Sector agropecuario, economía rural, distribución del ingreso y pobreza alimentaria",
+      "temporal": "2002 (línea de base de la muestra ENHRUM) a 2100 (horizonte de proyección climática bajo escenario A2)"
+    },
+    "hallazgos_principales": [
+      "Un incremento de 1°C en la temperatura promedio anual se traduce en una pérdida estimada de 927,77 pesos (casi 1.000 pesos) en el ingreso agrícola per cápita anual de los hogares rurales.",
+      "A nivel estacional, el impacto térmico más adverso se concentra en primavera, donde un incremento de 1°C generaría una reducción de aproximadamente 2.521,55 pesos en el ingreso agrícola per cápita de los hogares productores, lo que representa cerca del 20% de su ingreso anual promedio.",
+      "El ingreso neto per cápita promedio de los hogares rurales observados (15.136,64 pesos anuales) disminuye en todos los escenarios climáticos simulados, registrando la mayor contracción bajo el modelo HADLEY al caer a 12.767,41 pesos anuales (-15,6%), seguido por el modelo MIMR a 12.941,38 pesos (-14,5%) y el modelo PCM a 14.615,75 pesos (-3,4%).",
+      "La proporción de hogares en situación de pobreza extrema en el México rural aumentaría en hasta 11 puntos porcentuales como consecuencia del cambio climático, pasando del 38% observado en 2002 al 49% en la simulación del modelo HADLEY y al 48% en el modelo MIMR.",
+      "La desigualdad en la distribución del ingreso rural se incrementaría en más de un 20%, elevando el coeficiente de Gini desde el nivel observado de 0,599 (0,6) hasta 0,737 en el modelo HADLEY y 0,734 en el modelo MIMR, profundizando drásticamente la brecha socioeconómica."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El cambio climático constituye una amenaza regresiva que impacta de forma directa y severa en el bienestar de los hogares rurales más vulnerables en México mediante la pérdida de productividad e ingresos agrícolas.",
+        "Las simulaciones demuestran que las alteraciones en temperatura y precipitación proyectadas hacia fines de siglo generarán incrementos sustanciales tanto en la pobreza extrema (hasta +11 puntos porcentuales) como en la desigualdad del ingreso (más de un 20% de aumento en el coeficiente de Gini), confirmando que los daños climáticos se concentran en las poblaciones de menores recursos.",
+        "La brecha sociodemográfica y de capital humano entre hogares agrícolas y no agrícolas (menor escolaridad, mayor edad del jefe del hogar y menor ingreso per cápita inicial) restringe su capacidad adaptativa autónoma, haciendo indispensable una intervención pública focalizada."
+      ],
+      "recomendaciones": [
+        "Diseñar y fortalecer sistemas de alerta temprana e información agroclimática para mejorar la gestión del riesgo y anticipar perturbaciones climáticas que amenacen los cultivos.",
+        "Crear incentivos para el desarrollo y adopción de mercados de seguros agrícolas adaptados a las condiciones de los productores rurales, facilitando la transferencia de riesgos y la mitigación de pérdidas financieras.",
+        "Promover procesos de cambio e innovación tecnológica mediante incentivos fiscales y financieros combinados con programas de asistencia técnica adaptados a pequeños, medianos y grandes agricultores.",
+        "Implementar programas de transferencias y subsidios focalizados para pequeños agricultores vulnerables que garanticen un piso de ingreso mínimo de subsistencia y aseguren la satisfacción de necesidades básicas ante shocks climáticos."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "Esta síntesis de política pública evalúa el impacto potencial del cambio climático en la distribución del ingreso y la pobreza rural en México a partir de los microdatos de la Encuesta Nacional a Hogares Rurales (ENHRUM). Mediante la estimación de funciones de respuesta del ingreso agrícola ante variaciones de temperatura y precipitación bajo tres modelos de circulación general (HADLEY, PCM y MIMR en escenario A2), el estudio proyecta contracciones significativas en el ingreso neto per cápita de los hogares productores. Los resultados revelan un aumento de hasta 11 puntos porcentuales en la pobreza extrema rural y un incremento superior al 20% en la desigualdad medida por el coeficiente de Gini (alcanzando 0,737). Con base en esta evidencia cuantitativa, el documento formula directrices de política pública orientadas al desarrollo de sistemas de alerta temprana, aseguramiento agrícola, asistencia técnica para la innovación tecnológica y programas de transferencias de subsistencia."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "INTRODUCCIÓN",
+      "nivel": 1,
+      "paginas": "5",
+      "resumen": "Plantea el marco conceptual y los antecedentes sobre los impactos económicos, sociales y distributivos del cambio climático a escala global y local. Argumenta que las afectaciones no son lineales ni homogéneas, proyectando que un incremento de 1°C en la temperatura global puede contraer un 3,8% el PIB mundial y castigar con mayor severidad a los países en desarrollo. Fundamenta que a nivel local los hogares rurales pobres exhiben una mayor vulnerabilidad debido a su alta dependencia de las actividades agrícolas sensibles al clima y a su radicación en tierras marginales expuestas a desastres. Concluye planteando que el ingreso agrícola funciona como el canal de transmisión directo para cuantificar de manera empírica las variaciones en pobreza y desigualdad en México.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "asociados a las variaciones de la temperatura y la precipitación ha ido obteniendo mayor interés, siendo la pobreza y la desigualdad algunos de los impactos más documentados, existen pocos estudios que permitan cuantificarlos (Mendelsohn et al.",
+          "pagina": 5
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Para poder atender este problema, el estudio en el que se basa el presente informe de política analiza los efectos del cambio climático en los ingresos agrícolas para poder contar con evidencia cuantitativa de los impactos sobre la pobreza y la desigualdad en México.",
+          "pagina": 5
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "CARACTERÍSTICAS DE LA SIMULACIÓN DE LOS IMPACTOS POTENCIALES DEL CAMBIO CLIMÁTICO EN LA POBREZA Y LA DESIGUALDAD",
+      "nivel": 1,
+      "paginas": "5-6",
+      "resumen": "Describe el enfoque metodológico en dos fases para modelar los impactos climáticos distributivos en México. En primer término, se realiza una estimación econométrica de la función de respuesta del ingreso agrícola frente a cambios en temperatura y precipitación. Posteriormente, dicha información se utiliza para simular el impacto en el ingreso per cápita de los hogares y proyectar las variaciones resultantes en los índices de pobreza de Foster, Greer y Thorbecke (incidencia, profundidad y severidad) y en la distribución del ingreso mediante el coeficiente de Gini.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "En cuanto a la comprensión de la magnitud de estos impactos, se han analizado de manera amplia aquellos que están relacionados con la economía a nivel global (Stern, 2006 y Nordhaus, 2008).",
+          "pagina": 5
+        },
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "El mismo consiste en la evaluación de a) la incidencia de la pobreza o la proporción de hogares pobres en relación al total de hogares que se hayan considerado para el estudio que se esté llevando a cabo, b) la profundidad de la pobreza, ésta refleja qué tan lejos de la línea de la pobreza se encuentra el ingreso promedio de los hogares pobres y c) la severidad de la pobreza, que es una medida sensible a los cambios en los ingresos de los hogares pobres y otorga un peso más alto a los individuos que están más lejos de la línea de la pobreza.",
+          "pagina": 6
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "DATOS SOCIOECONÓMICOS",
+      "nivel": 1,
+      "paginas": "6",
+      "resumen": "Detalla las fuentes de información microeconómica y los parámetros de medición utilizados en el análisis empírico. Los datos provienen de la Encuesta Nacional a Hogares Rurales de México (ENHRUM 2003, PRECESAM/COLMEX), con una muestra representativa de más del 80% de la población rural oficial compuesta por 1.696 hogares distribuidos en 80 comunidades. Para el cálculo de los índices de pobreza se adopta la línea de pobreza rural alimentaria del CONEVAL (2006), equivalente a 494,78 pesos mensuales a precios de agosto de 2002.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Para el cálculo de los índices de la pobreza, se han utilizado los datos de la línea de pobreza rural alimentaria del Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL) del año 2006, que en precios de agosto de 2002 es de 494,78 pesos mensuales.",
+          "pagina": 6
+        },
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "Los datos socioeconómicos que se han utilizado para el estudio provienen de la Encuesta Nacional a Hogares Rurales de México (ENHRUM) (PRECESAM/COLMEX, 2003).",
+          "pagina": 6
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "VARIABILIDAD CLIMÁTICA",
+      "nivel": 1,
+      "paginas": "6",
+      "resumen": "Presenta los modelos de circulación general y los escenarios climáticos empleados para proyectar las trayectorias de temperatura y precipitación trimestrales hacia el año 2100 en las 80 comunidades de la ENHRUM. Se utilizan proyecciones basadas en Mendelsohn et al. (2010) bajo el escenario de emisiones A2 del IPCC, comparando tres modelos climáticos globales: Hadley Centre for Climate Prediction and Research (HADLEY), Parallel Climate Model (PCM) y Center for Climate System Research (MIMR).",
+      "dimensiones": [
+        {
+          "dimension": "tendencias",
+          "cita": "Dichos autores se han basado en los modelos del Hadley Centre for Climate Prediction and Research (HADLEY), el Parallel Climate Model (PCM) y el del Center for Climate System Research (MIMR).",
+          "pagina": 6
+        },
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Así, los impactos potenciales del cambio climático en la pobreza y la desigualdad se simulan utilizando tres modelos climáticos.",
+          "pagina": 6
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "SUPUESTOS",
+      "nivel": 1,
+      "paginas": "6-7",
+      "resumen": "Explícita los supuestos económicos y analíticos del ejercicio de estática comparativa (ceteris paribus). Se asume que los hogares agrícolas y no agrícolas mantienen inalterada su participación en la actividad agrícola; que la temperatura y la precipitación son las únicas variables exógenas que varían entre el presente y el horizonte de proyección; y que los precios agrícolas y de insumos permanecen constantes ante el cambio climático, omitiendo posibles efectos de ajuste de equilibrio general que podrían compensar o agravar las pérdidas en los ingresos rurales.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Es importante destacar que los resultados del estudio, más que predicciones, deben verse como un reflejo de los efectos potenciales del cambio climático suponiendo que todo lo demás permaneciera constante.",
+          "pagina": 6
+        },
+        {
+          "dimension": "desafios",
+          "cita": "que el ingreso de estos últimos no se modifica como consecuencia del cambio climático (Bourguignon y Spadaro, 2006).",
+          "pagina": 7
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "LIMITACIONES PRINCIPALES",
+      "nivel": 1,
+      "paginas": "7",
+      "resumen": "Reconoce las restricciones analíticas e incertidumbres metodológicas inherentes a la modelación. Advierte que los eventos climáticos extremos como huracanes y sequías no pudieron incorporarse en la estimación de impactos sobre los ingresos debido al uso de proyecciones basadas en promedios climáticos históricos. Asimismo, resalta la incertidumbre asociada al horizonte de muy largo plazo de los modelos de circulación general y las posibles desviaciones o fallas tecnológicas en el levantamiento de datos meteorológicos históricos.",
+      "dimensiones": [
+        {
+          "dimension": "desafios",
+          "cita": " Los eventos climáticos extremos, como huracanes y sequías, no han podido ser incorporados dentro de los impactos del cambio climático del estudio, a pesar de que estos pudieren llegar a impactar de manera importante en los ingresos de los hogares.",
+          "pagina": 7
+        },
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": " El estudio incorpora un cierto nivel de incertidumbre debido a que los modelos de circulación general utilizados para realizar las proyecciones de temperatura y precipitación son de muy largo plazo.",
+          "pagina": 7
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "CARACTERIZACIÓN DE LOS HOGARES RURALES EN MÉXICO",
+      "nivel": 1,
+      "paginas": "7",
+      "resumen": "Compara las características sociodemográficas y productivas entre hogares agrícolas (660) y no agrícolas de la muestra. Identifica que los hogares agrícolas tienen jefaturas predominantemente masculinas, de mayor edad promedio (50,87 frente a 47,46 años) y menor nivel educativo (3,84 frente a 4,88 años de escolaridad). A pesar de poseer mayor superficie de tierra (9,64 hectáreas versus 1,71 hectáreas), su ingreso per cápita anual (13.441,37 pesos) es significativamente inferior al de los hogares no agrícolas (16.216,64 pesos), exhibiendo una brecha de casi 3.000 pesos que incrementa su vulnerabilidad.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "De manera general, de los más de 1.600 hogares analizados, 660 de ellos pueden ser catalogados como agrícolas.",
+          "pagina": 7
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Este es un supuesto importante para los objetivos del presente trabajo pues, en principio, si una caída en la oferta agrícola se viese acompañada de un aumento en precios, es posible que muchos productores agrícolas vean sus ingresos crecer, lo cual podría implicar una disminución en la pobreza de los hogares agrícolas (aunque quizá un aumento en la pobreza de hogares urbanos).",
+          "pagina": 7
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "CAMBIOS EN LOS PATRONES DE LLUVIA Y DE TEMPERATURA",
+      "nivel": 1,
+      "paginas": "7-8",
+      "resumen": "Analiza las condiciones climáticas de línea de base y las perturbaciones proyectadas por los tres modelos climáticos en las 80 comunidades evaluadas. Destaca que el modelo HADLEY estima los mayores incrementos de temperatura (4,16°C en verano y 4,13°C en otoño), en contraste con los aumentos más moderados del PCM (2,25°C en verano). Por su parte, el modelo MIMR proyecta las mayores contracciones en la precipitación, con caídas promedio de hasta -0,67% en verano y -0,43% en primavera, configurando escenarios climáticos marcadamente adversos para la producción agrícola rural.",
+      "dimensiones": [
+        {
+          "dimension": "tendencias",
+          "cita": "A partir de ello, se estiman las variaciones promedio que se podrían tener bajo un escenario A2 para cada uno de los tres modelos.",
+          "pagina": 7
+        },
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Variables climáticas de las comunidades incluidas en la muestra",
+          "pagina": 8
+        },
+        {
+          "dimension": "tendencias",
+          "cita": "Variaciones predichas por cada uno de los modelos climáticos (Cambio en °C para temperatura y en porcentajes para precipitación)",
+          "pagina": 8
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "IMPACTO DEL CAMBIO EN LA TEMPERATURA Y LA LLUVIA SOBRE EL INGRESO AGRÍCOLA",
+      "nivel": 1,
+      "paginas": "9-10",
+      "resumen": "Cuantifica las sensibilidades marginales del ingreso agrícola per cápita anual ante variaciones climáticas. En el agregado anual, un incremento de 1°C en la temperatura genera una contracción de 927,77 pesos (casi 1.000 pesos), mientras que una reducción de 1 mm de lluvia disminuye el ingreso en 105,51 pesos. En el análisis estacional, el impacto térmico más severo ocurre en primavera, donde un aumento de 1°C provocaría una caída de más de 2.500 pesos en el ingreso agrícola de los hogares productores, lo que representa cerca del 20% de su ingreso total anual promedio.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "De manera general, es posible analizar que un incremento de un grado centígrado en la temperatura en todas las estaciones, podría resultar en una disminución de casi 1.000 pesos en el ingreso agrícola per cápita anual.",
+          "pagina": 9
+        },
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Cambio marginal en el ingreso per cápita agrícola ante cambios marginales en las variables climáticas",
+          "pagina": 10
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "IMPACTO DEL CAMBIO EN LA TEMPERATURA Y LA LLUVIA SOBRE EL INGRESO PER CÁPITA",
+      "nivel": 1,
+      "paginas": "9-10",
+      "resumen": "Modela la contracción del ingreso neto per cápita total de los 1.696 hogares rurales a partir de la caída en los ingresos agrícolas bajo los tres escenarios climáticos simulados. Frente al ingreso observado de 15.136,64 pesos anuales, todos los modelos muestran reducciones sustanciales: el modelo HADLEY arroja la mayor pérdida con una contracción del ingreso per cápita promedio a 12.767,41 pesos anuales (-15,6%), el MIMR proyecta un descenso a 12.941,38 pesos (-14,5%) y el PCM a 14.615,75 pesos (-3,4%).",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "La caída promedio más fuerte puede observarse en el modelo HADLEY, en el cual el ingreso caería a 12.767,41 pesos anuales (Cuadro 4).",
+          "pagina": 9
+        },
+        {
+          "dimension": "tendencias",
+          "cita": "Ingreso neto per cápita observado y simulaciones para los tres modelos climáticos",
+          "pagina": 10
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "IMPACTO DEL CAMBIO EN LA TEMPERATURA Y LA LLUVIA SOBRE LA POBREZA Y LA DESIGUALDAD",
+      "nivel": 1,
+      "paginas": "9-10",
+      "resumen": "Evalúa los efectos finales de las simulaciones climáticas sobre los indicadores de bienestar social y distributivos en el medio rural mexicano. Frente a una línea de base en 2002 donde el 38% de los hogares rurales sufría pobreza alimentaria y la desigualdad exhibía un coeficiente de Gini de 0,6 (0,599), los modelos HADLEY y MIMR proyectan un fuerte deterioro: la incidencia de pobreza extrema se incrementa en hasta 11 puntos porcentuales (alcanzando el 49% en HADLEY y 48% en MIMR), mientras que el Gini sube más del 20% hasta situarse en 0,74 (0,737 en HADLEY y 0,734 en MIMR), confirmando que el cambio climático exacerbará severamente la pobreza y la desigualdad rural.",
+      "dimensiones": [
+        {
+          "dimension": "tendencias",
+          "cita": "Por otra parte, si se tiene una disminución de un milímetro mensual de lluvia durante el invierno, se tendría un aumento en el ingreso agrícola per cápita anual de un poco más de 200 pesos, mientras que si esta disminución se da en primavera, se tendría una disminución de casi 130 pesos.",
+          "pagina": 9
+        },
+        {
+          "dimension": "tendencias",
+          "cita": "Impactos en la pobreza y la desigualdad de los distintos modelos climáticos: Escenarios simulados",
+          "pagina": 10
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "No",
+      "evidencia": "El documento no plantea ni diseña un paquete coordinado de inversiones masivas, reconversión productiva o política industrial verde a escala de modelo de desarrollo que cumpla con los tres tests del Gran Impulso Ambiental (Big Push); su alcance se circunscribe a la modelización microeconométrica del impacto de variaciones en temperatura y precipitación sobre los ingresos agropecuarios y los índices de pobreza y desigualdad rural en México.",
+      "citas": [
+        {
+          "cita": "El cambio climático tiene efectos importantes sobre la economía, los indicadores sociales y los ecosistemas.",
+          "pagina": 5
+        }
+      ],
+      "nota": "El No responde al diseño analítico del documento (síntesis de modelización econométrica de impactos distributivos), no a una omisión descuidada."
+    },
+    "articulacion_actores": {
+      "veredicto": "No",
+      "evidencia": "El documento no describe ni propone mecanismos, mesas o plataformas institucionales de coordinación multiactor o intergubernamental dentro de su ámbito de aplicación; se limita a identificar tipos generales de actores y poblaciones objetivo (agricultores grandes, medianos y pequeños, poblaciones rurales) y a utilizar fuentes estadísticas institucionales (CONEVAL, PRECESAM/COLMEX) sin articular arreglos de gobernanza o colaboración formal.",
+      "citas": [
+        {
+          "cita": "Este informe de política pública presenta atendiendo a las principales características de los hogares rurales en México y los principales cambios en los patrones de lluvia y de temperatura, una valoración cuantitativa del impacto del cambio climático sobre la distribución del ingreso agrícola y total del hogar y, por consiguiente, en los niveles de desigualdad y pobreza.",
+          "pagina": 5
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "El documento no enumera sectores, industrias ni actividades productivas sostenibles de oportunidad; su análisis se concentra exclusivamente en las pérdidas de productividad e ingresos del sector agropecuario tradicional ante variaciones de temperatura y precipitación, y en el consecuente incremento de la pobreza extrema y la desigualdad rural.",
+      "citas": [
+        {
+          "cita": "Esta síntesis de política pública analiza la magnitud potencial de los efectos del cambio climático sobre los ingresos de la población en el sector agrícola en México.",
+          "pagina": 4
+        }
+      ],
+      "nota": null
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "En su apartado normativo de recomendaciones ('MENSAJES PARA LA POLÍTICA PÚBLICA', p. 4), el documento formula 6 orientaciones de política pública dirigidas a reducir la vulnerabilidad de los hogares rurales. Al aplicar el test de concreción ítem por ítem, 4 de los 6 ítems resultan CONCRETOS al identificar instrumentos operativos y entregables identificables (sistemas de alerta temprana e información agroclimática, mercados de seguros agrícolas, incentivos fiscales/financieros con asistencia técnica, y subsidios de ingreso mínimo para pequeños productores), mientras que 2 se clasifican como GENÉRICOS al quedar en evaluaciones abstractas de costo-beneficio y fomento general de la investigación.",
+      "citas": [
+        {
+          "cita": "Los principales resultados obtenidos indican que estas variaciones climáticas, simuladas para cada escenario específico, podrían generar un incremento en 11 puntos porcentuales de los hogares que viven en situación de pobreza extrema, así como un incremento de más del 20% en el nivel de desigualdad, medido a través del coeficiente de Gini.",
+          "pagina": 4
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Diseñar mecanismos que permitan mejorar la gestión del riesgo en el sector agrícola mediante la mejora de los sistemas de información y la creación de sistemas de alerta temprana a los agricultores sobre variaciones climáticas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 4
+        },
+        {
+          "item": "Crear incentivos para el desarrollo de mercados de seguros en el sector agrícola con base en las condiciones reales del sector para transferir el riesgo y minimizar pérdidas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 4
+        },
+        {
+          "item": "Identificar y evaluar los beneficios y costos de las diferentes alternativas de medidas de adaptación al cambio climático en el sector agrícola.",
+          "clasificacion": "GENERICO",
+          "pagina": 4
+        },
+        {
+          "item": "Estimular e incentivar la investigación científica en el sector agrícola considerando el conocimiento y la experiencia natural de las poblaciones rurales para identificar respuestas de los cultivos.",
+          "clasificacion": "GENERICO",
+          "pagina": 4
+        },
+        {
+          "item": "Promover un proceso de cambio tecnológico para grandes, medianos y pequeños agricultores a través de incentivos fiscales y financieros y de programas de asistencia técnica.",
+          "clasificacion": "CONCRETO",
+          "pagina": 4
+        },
+        {
+          "item": "Diseñar e implementar programas de subsidios para pequeños agricultores que aseguren un ingreso mínimo de subsistencia y satisfacción de necesidades básicas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 4
+        }
+      ],
+      "tally": "4 de 6 ítems pasan el test de concreción",
+      "nota": null
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 2,
+      "nombre": "Reducción de la desigualdad",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la contradicción entre los impactos biofísicos del cambio climático y la estructura distributiva del ingreso en las zonas rurales de México. Aborda cómo las perturbaciones exógenas en temperatura y precipitación se transmiten a través de la productividad y los ingresos agropecuarios, castigando asimétricamente a los hogares rurales en situación de vulnerabilidad y profundizando las brechas de ingreso y la pobreza extrema.",
+      "filtro_categoria_primaria": "El objetivo principal y sujeto de investigación del documento es la medición y mitigación del impacto sobre la distribución del ingreso y la pobreza rural (#2 Reducción de la desigualdad). Se descarta #6 Sostenibilidad ambiental como transformación primaria porque los fenómenos climáticos no se analizan como un fin ecológico en sí mismo ni como un plan de descarbonización, sino como el canal causal perturbador del bienestar socioeconómico y la equidad distributiva.",
+      "secundaria_obligatoria": "La transformación secundaria obligatoria es #6 Sostenibilidad ambiental, dado que la variabilidad climática y los escenarios de cambio climático (modelos HADLEY, PCM y MIMR bajo escenario A2) constituyen el vector analítico indispensable a partir del cual se derivan las simulaciones de pérdida de ingresos agrícolas y se fundamentan las recomendaciones de adaptación y gestión del riesgo agroclimático.",
+      "justificacion_anti_copia": "La clasificación se sustenta en la modelización cuantitativa de 1.696 hogares rurales en 80 comunidades de la ENHRUM (2002), la aplicación de la línea de pobreza rural alimentaria del CONEVAL (494,78 pesos mensuales), la estimación de pérdidas de ingreso de hasta 2.500 pesos en primavera por cada 1°C de aumento térmico, y la simulación de incrementos de 11 puntos porcentuales en pobreza extrema y de más del 20% en el coeficiente de Gini (alcanzando 0,737 en HADLEY).",
+      "validacion_anclas": "Se valida directamente contra el ancla de calibración de doc11 (El impacto del cambio climático en la pobreza infantil y juvenil de América Latina, UNICEF-CEPAL), que sigue el patrón exacto donde #2 Reducción de la desigualdad es la categoría primaria y #6 Sostenibilidad ambiental es la secundaria, al actuar el cambio climático como el canal causal exógeno sobre variables distributivas y de bienestar social."
+    },
+    "tipo_documento_climatico": "Síntesis de políticas públicas",
+    "nivel_aplicacion": "Nacional (México, hogares rurales de 80 comunidades)",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

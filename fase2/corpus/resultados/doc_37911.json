@@ -1,0 +1,591 @@
+{
+  "documento": {
+    "num_muestra": 5,
+    "titulo": "Agricultura y cambio climático: economía y modelación. Memoria del cuarto seminario regional de agricultura y cambio climático",
+    "autoria": "Comité editorial: Adrián Rodríguez (CEPAL), Laura Meza y Meliza González (FAO), y autores de las ponencias",
+    "handle": "https://hdl.handle.net/11362/37911",
+    "simbolo": "LC/L.3996",
+    "isbn": null,
+    "fecha": "2015-04",
+    "tipo_documento": "Memoria de seminario (Serie Seminarios y Conferencias N° 81)",
+    "paginas_cuerpo": 94,
+    "paginas_totales": 100,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cómo contribuyen la modelación biofísica, el análisis económico y la colaboración regional a anticipar los impactos del cambio climático sobre la agricultura en América Latina y el Caribe, y qué implicaciones tienen para las políticas de adaptación?",
+    "alcance": {
+      "ambito_aplicacion": "América Latina y el Caribe, con estudios de caso de Argentina, Brasil, Bolivia, Colombia, Costa Rica, Cuba, Chile, Ecuador, México, Panamá, Paraguay, Perú, República Dominicana y Uruguay, y diálogo del Consejo Agropecuario del Sur (CAS).",
+      "referentes_dependencias": "CEPAL (Unidad de Desarrollo Agrícola, DDPE), FAO/RLC, Cooperación Francesa, CGIAR a través de CCAFS, CIAT, CATIE, IICA, universidades y ministerios de agricultura de la región.",
+      "sectorial": "agricultura y cambio climático: modelación biofísica y de cultivos, economía de la adaptación, enfoques macro y microeconómicos, agricultura familiar, extensión agropecuaria, investigación científica y bibliometría, políticas, instrumentos y colaboración regional.",
+      "temporal": "Datos y modelos que abarcan desde la década de 1970 hasta 2013 (año del seminario); proyecciones escenarios B2 y A2 del IPCC."
+    },
+    "hallazgos_principales": [
+      "La modelación biofísica (modelos del clima mundial, de nicho, empíricos y mecanísticos-fisiológicos) ha avanzado poco a nivel regional; los modelos más utilizados en la región son los mecanísticos, destacando DSSAT y el desarrollo de aplicaciones de APSIM por el CIAT, pero persisten déficits de capacidad, datos y comunicación de resultados (páginas 14-21).",
+      "La economía de la adaptación combina enfoques ricardianos y de hogares agrícolas: los modelos económicos estiman reducciones de alrededor del 15% de las ganancias agrícolas en escenarios moderados y advierten la limitación de no considerar cambios de precios y costos de ajuste (páginas 31-36).",
+      "El análisis regional de impactos indica aumentos recientes de las precipitaciones (por ejemplo en el oeste de Argentina y Paraguay, que favoreció la soja) y, para el siglo XXI, pérdidas de áreas aptas para cultivo en la mayoría de los países, con excepción de la caña de azúcar; la reflexión de política prioriza la agricultura familiar como sector vulnerable y prioritario (páginas 54-63).",
+      "La investigación científica sobre agricultura y cambio climático en la región (1990-2012, 2.134 artículos) muestra poca multidisciplinariedad y un mayor peso de la mitigación sobre la adaptación; la colaboración interinstitucional y la cooperación Sur-Sur se identifican como vías para fortalecer la ciencia de la adaptación (páginas 64-81)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La adaptación al cambio climático en la agricultura de la región es urgente y no puede esperar los horizontes de largo plazo de las modelaciones; requiere políticas de desarrollo productivo orientadas a un cambio estructural hacia la neutralidad en emisiones (páginas 11-12).",
+        "Las herramientas de modelación son complementos valiosos, pero no reemplazan el conocimiento local ni la participación de los productores; en contextos locales se debe trabajar con la gente y aprovechar la riqueza de conocimiento cultural y particular (página 27).",
+        "Existe un vacío de investigación y de generación de conocimiento sobre adaptación, y la información disponible debe usar mejor la comunicación de resultados para que sea útil a los tomadores de decisiones (páginas 37, 78-80)."
+      ],
+      "recomendaciones": [
+        "Fortalecer la extensión agropecuaria y la formación técnica de los extensionistas en cambio climático, empoderando al agricultor para tomar acciones de adaptación (página 52).",
+        "Priorizar la agricultura familiar en las políticas nacionales de adaptación, dado su rol en la seguridad alimentaria y su mayor vulnerabilidad a cambios de vocación productiva y a nuevos vectores (páginas 63, 90).",
+        "Promover la coordinación y la cooperación Sur-Sur y triangular en materia de adaptación, y desarrollar enfoques integrados de investigación que diagnostiquen brechas de conocimiento (página 93)."
+      ],
+      "nota": "El documento es una memoria de seminario que sintetiza ponencias y discusiones; las recomendaciones emergen de las intervenciones y del diálogo regional, no de un plan normativo único del documento."
+    },
+    "resumen_narrativo": "La memoria del cuarto Seminario Regional de Agricultura y Cambio Climático reúne las ponencias y discusiones sobre la modelación biofísica y la economía de la adaptación de la agricultura al cambio climático en América Latina y el Caribe. La primera parte examina los modelos de clima mundial y de cultivos, señalando sus avances y sus déficits de precisión regional. La segunda parte analiza los enfoques macro y microeconómicos de la adaptación, incluidos los modelos ricardianos y de hogares agrícolas. Las secciones siguientes presentan los impactos previstos del cambio climático sobre el sector agropecuario, las experiencias de trabajo colaborativo en adaptación y los resultados preliminares de la investigación bibliométrica sobre agricultura y cambio climático. El documento cierra con un diálogo sobre políticas, instrumentos y mecanismos de colaboración y con las clausuras de la FAO y de la CEPAL, que subrayan el carácter urgente y estructural de la transición hacia una agricultura resiliente."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "I. Introducción",
+      "nivel": 1,
+      "paginas": "10-13",
+      "resumen": "El seminario fue inaugurado por Antonio Prado (CEPAL), Jan Van Wambeke (FAO/RLC) y Thomas Lagarde (Cooperación Francesa). Se destaca que el cambio climático es también un tema económico y social, derivado de un modelo de desarrollo intensivo en emisiones, y que requiere no solo políticas ambientales sino de desarrollo productivo hacia una economía de neutralidad en emisiones. Se subraya que la adaptación es urgente, que el sector agropecuario de la región enfrenta ya el aumento e intensificación de eventos extremos (sequías, huracanes) y que la adaptación y la mitigación aún no son objetivos prioritarios de la agenda regional.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "Este es el cuarto de una serie de seminarios que surgieron de lo que en su momento fue una lectura adecuada sobre el interés creciente en torno al cambio climático en distintos estamentos institucionales del sector agropecuario.",
+          "pagina": 10
+        },
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "El cambio climático es también un tema económico y un tema social, derivado de un modelo de desarrollo intensivo en la generación de emisiones de gases de efecto invernadero.",
+          "pagina": 11
+        },
+        {
+          "dimension": "desafios",
+          "cita": "La adaptación y mitigación del cambio climático no están siendo objetivos prioritarios en la región, quizás porque generalmente las modelaciones nos ofrecen miradas al futuro de cambios en el muy largo plazo.",
+          "pagina": 12
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "II. Uso de la modelación biofísica para analizar el impacto del cambio climático en el sector agrícola en América Latina",
+      "nivel": 1,
+      "paginas": "14-29",
+      "resumen": "Analiza la tipología y el uso de los modelos (del clima mundial, de nicho, empíricos y mecanísticos-fisiológicos), el estado actual de su aplicación en la región y las conclusiones de la sesión, incluyendo los comentarios de Alatorre, Benech, Pozo y Figueroa.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Presentación principal, Jeimar Tapasco, CIAT",
+          "nivel": 2,
+          "paginas": "15-21",
+          "resumen": "La presentación, basada en un artículo del CIAT, revisa los modelos del clima mundial y su integración con la modelación biofísica de cultivos. Se describen los modelos de nicho (MaxEnt), los empíricos o estadísticos (AquaCrop) y los basados en procesos o mecanísticos-fisiológicos (DSSAT, APSIM). Se destaca que en la última década los modelos del clima mundial han mejorado poco a nivel regional, que mantener los modelos de cultivos DSSAT es cada vez más difícil por la diversidad de códigos informáticos y que el CIAT ha desarrollado aplicaciones de APSIM. Informa además los sondeos sobre uso de modelos en la región y las principales deficiencias de los modelos disponibles de MCM: falta de destreza y lentitud en su mejora.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "En la última década, los modelos del clima mundial (MCM) han mejorado poco a nivel regional.",
+              "pagina": 15
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "En los últimos años, se ha vuelto cada vez más difícil mantener los modelos de cultivos DSSAT, debido en parte al hecho de que había diferentes conjuntos de códigos informáticos para diferentes cultivos y se dedicó poca atención al diseño del software a nivel de los modelos de cultivos en sí.",
+              "pagina": 18
+            },
+            {
+              "dimension": "desafios",
+              "cita": "Las principales deficiencias de los modelos disponibles de MCM son su falta de destreza y la lentitud con que mejoran.",
+              "pagina": 21
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Comentarios y discusión",
+          "nivel": 2,
+          "paginas": "22-28",
+          "resumen": "Los comentarios de José Eduardo Alatorre, Enzo Benech, Omar Pozo y Eugenio Figueroa subrayan que hay que considerar las características del sector agrícola para la elección del modelo más apropiado, la necesidad de conocer los niveles de error o incertidumbre de cada modelo y la tendencia a complejizar los análisis. En la discusión se destacó que la modelación sirve en contextos con mucha información, pero en situaciones locales se debe trabajar con la gente y aprovechar la riqueza de conocimiento cultural y particular; las modelaciones son una ayuda pero no pueden abarcar todos los problemas de la agricultura.",
+          "dimensiones": [
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "Existe la tendencia, sobre todo en economía, de hacer las cosas más complejas por pensar que es mejor de esa forma, pero en las experiencias de análisis de cambio climático se ve que las reglas sencillas sirven: es mejor tener buenos datos y utilizar modelos relativamente simples, que tener malos datos y modelos muy complejos con los que no se pueda trabajar.",
+              "pagina": 23
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Es posible decir que los agricultores se han adaptado a condiciones nuevas y han sabido prepararse.",
+              "pagina": 25
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Hubo coincidencia en que las modelaciones son una ayuda, pero no puede esperarse que abarquen —o modelen— todos los problemas de la agricultura.",
+              "pagina": 27
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "III. Economía de la adaptación de la agricultura al cambio climático: dónde estamos y retos pendientes",
+      "nivel": 1,
+      "paginas": "30-44",
+      "resumen": "La presentación principal de Milagro Saborío (CATIE) aborda la motivación, los enfoques macroeconómicos y microeconómicos de la adaptación, la interacción con los ecosistemas y los retos pendientes. Los comentarios de Oyhantcabal, Zambrano, Melo y Villegas y la discusión completan el análisis de la incertidumbre, los costos de ajuste y el vacío de investigación.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Presentación principal, Milagro Saborío, CATIE",
+          "nivel": 2,
+          "paginas": "31-36",
+          "resumen": "Presenta la motivación de estudiar la agricultura como actividad dependiente del clima y la esencia del trabajo de adaptación de los agricultores. Revisa los enfoques macroeconómicos (modelo ricardiano) que estiman pérdidas de aproximadamente 15% de las ganancias agrícolas en escenarios moderados, y los enfoques microeconómicos de hogares agrícolas que consideran decisiones de producción, consumo y uso de insumos. Advierte las limitaciones de no considerar cambios de precios y el carácter de corto plazo de los modelos frente a un fenómeno de largo plazo.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Yo creo que es obvio —ustedes podrán estar de acuerdo o no conmigo en esto— que la agricultura es una actividad que depende completamente del clima.",
+              "pagina": 31
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "Los resultados del estudio estiman una reducción en las ganancias de la agricultura del aproximadamente un 15% en un escenario moderado de cambio climático.",
+              "pagina": 33
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Este tipo de modelos son esencialmente de corto plazo; sin embargo, se han usado para hacer predicciones para el futuro.",
+              "pagina": 36
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Comentarios",
+          "nivel": 2,
+          "paginas": "37-42",
+          "resumen": "Walter Oyhantcabal, José Luis Zambrano, Omar Melo y Marta Villegas comentan la presentación. Destacan el vacío de investigación sobre el vínculo entre lo macro y lo micro, la relación entre incertidumbre y adaptación, el mejor uso de la información climática y los pronósticos estacionales para reducir la incertidumbre, y el rol de los mercados del crédito y de seguros como mecanismos que evitan pérdidas durante sequías.",
+          "dimensiones": [
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "En esto existe todavía un vacío de investigación.",
+              "pagina": 37
+            },
+            {
+              "dimension": "oportunidades",
+              "cita": "Algo bastante promisorio para reducir incertidumbre es el mejor uso de la información climática, el mejor uso de los pronósticos estacionales y cómo los pronósticos estacionales se pueden asociar con buenas prácticas que reduzcan el riesgo.",
+              "pagina": 39
+            },
+            {
+              "dimension": "avances_implementacion",
+              "cita": "El mismo rol pueden cumplir los mercados del crédito y de seguros.",
+              "pagina": 42
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Discusión",
+          "nivel": 2,
+          "paginas": "43-44",
+          "resumen": "La discusión aborda la disyuntiva entre el corto y el largo plazo, el rol de la política, la importancia de un abordaje territorial que supere la perspectiva eminentemente sectorial agrícola, la disponibilidad y limitación de la información y la relación entre acciones de mitigación y de adaptación, con la tendencia observada en Centroamérica de abordarlas de manera conjunta.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Un participante destacó que en Centroamérica hay una tendencia a abordar la mitigación y la adaptación de manera conjunta.",
+              "pagina": 44
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Experiencias de trabajo colaborativo en adaptación",
+      "nivel": 1,
+      "paginas": "46-53",
+      "resumen": "Sesión con dos iniciativas de investigación colaborativa: el Southern Hemisphere Adaptation Collaboratory presentado por Francisco Meza (Pontificia Universidad Católica de Chile) y las estrategias de extensión para la adaptación de la agricultura familiar del Cono Sur presentadas por Alejandra Sarquis (IICA).",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Southern Hemisphere Adaptation Collaboratory (Francisco Meza)",
+          "nivel": 2,
+          "paginas": "46-49",
+          "resumen": "Presenta el concepto de adaptación como específico de la realidad local y de los niveles de gobernanza, y el problema de monitorear la adaptación, ante la preponderancia de marcos conceptuales sobre experiencias prácticas. Revisa el marco de vulnerabilidad del IPCC y propone trabajar sobre elementos adaptativos y matrices más complejas de análisis de riesgo y opciones.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Sin embargo, el problema de monitorear la adaptación ha sido difícil.",
+              "pagina": 47
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "El concepto de vulnerabilidad del IPCC es relativamente conocido y conjuga exposición, sensibilidad, potencial impacto y capacidad adaptativa (diagrama 2).",
+              "pagina": 48
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Estrategias de extensión para la adaptación de la agricultura familiar (Alejandra Sarquis)",
+          "nivel": 2,
+          "paginas": "49-52",
+          "resumen": "El proyecto procuró sistematizar y aterrizar la información sobre cambio climático, identificar su efecto en los sistemas productivos y evaluar vulnerabilidades y tecnologías de adaptación en territorios de agricultura familiar. El objetivo fue elaborar estrategias y contenidos para programas de extensión que apoyen la sostenibilidad de la agricultura familiar. Surgen dos grandes resultados: empoderar al agricultor e incorporar el cambio climático para que tome acciones de adaptación, y formar a los extensionistas en el tema.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "Este proyecto procuró sistematizar y “aterrizar” la información sobre cambio climático disponible, identificar su efecto en los sistemas productivos, evaluar las vulnerabilidades y las tecnologías de adaptación en territorios de alta concentración de agricultura familiar.",
+              "pagina": 50
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "El objetivo general del proyecto fue elaborar estrategias y contenidos para los programas de extensión, que apoyen la sostenibilidad de los sistemas de la agricultura familiar de la región y su adaptación en un escenario de alta variabilidad de precipitaciones y temperatura producto del cambio climático en la región.",
+              "pagina": 50
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Dos grandes resultados que surgen de este informe son, primero, la necesidad de empoderar al agricultor, involucrándolo en el tema de cambio climático para que así pueda tomar acciones de adaptación.",
+              "pagina": 52
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "V. Impactos previstos del cambio climático en la agricultura en América Latina y sus implicaciones para las políticas de adaptación",
+      "nivel": 1,
+      "paginas": "54-63",
+      "resumen": "La presentación principal de José Javier Gómez (CEPAL) analiza cambios de temperatura, precipitación y otras variables según escenarios de cambio climático, los impactos a escala regional y por subregiones y países, y las implicaciones para las políticas de adaptación. Los comentarios de las viceministras y directores de los ministerios de agricultura de la región y las discusiones completan el panorama.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Presentación principal, José Javier Gómez, CEPAL",
+          "nivel": 2,
+          "paginas": "54-57",
+          "resumen": "Presenta los cambios en temperaturas, patrones de precipitación y otras variables según escenarios de cambio climático. Observa que entre 1979 y 2005 aumentaron las precipitaciones en el oeste de Argentina y de Paraguay, lo que generó un incremento importante en la producción de soja, y que los impactos en el sector agropecuario se analizaron a escala regional y subregional. Las proyecciones muestran pérdidas de áreas aptas para cultivo con excepción de la caña de azúcar, y la reflexión de política destaca que los modelos son valiosos para proyectar lo que podría ocurrir.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Es interesante observar que en América Latina, entre el 1979 y el 2005, ha ocurrido un aumento de las precipitaciones en el Oeste de Argentina y de Paraguay.",
+              "pagina": 55
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "En Centroamérica se trabajó a escala subregional, ya que no era posible analizar a nivel de país, por lo menos, en una aproximación en lo que se refiere a las modificaciones de precipitaciones y temperatura.",
+              "pagina": 56
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "La primera reflexión es que todos estos modelos aportan algo muy valioso para proyectar lo que podría ocurrir con el cambio climático en determinadas áreas, en determinados cultivos, y apoya a los tomadores de decisión.",
+              "pagina": 57
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Comentarios y discusión",
+          "nivel": 2,
+          "paginas": "58-63",
+          "resumen": "Tania López (Costa Rica), Agnes Cishek (República Dominicana), Miguel Murillo (Bolivia) y otros participantes comentan la presentación y el debate mitigación-adaptación, la importancia de los bancos de germoplasma y el mejoramiento genético, la migración de la mano de obra y el abandono del campo por las nuevas generaciones, la asignación de recursos públicos y privados, y la prioridad que debe darse a la agricultura familiar dado su rol en la producción de alimentos para el mercado interno.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "Entonces, si nosotros no hacemos nada por realmente tratar de mitigar los efectos y la emisión de gases, estamos en el camino equivocado.",
+              "pagina": 58
+            },
+            {
+              "dimension": "oportunidades",
+              "cita": "En esa materia hemos considerado un replanteamiento del mejoramiento genético, pensando por ejemplo, en la importancia de los bancos de germoplasma, de la biotecnología (ya sea la biotecnología tradicional o la moderna), de la conservación de los recursos fito-genéticos y zoo-genéticos.",
+              "pagina": 59
+            },
+            {
+              "dimension": "desafios",
+              "cita": "Pero si aparecen oportunidades para dedicarse a algo distinto, donde la relación costo- beneficio es mucho mejor, sencillamente las nuevas generaciones abandonan el campo.",
+              "pagina": 60
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "VI. Investigación científica sobre agricultura y cambio climático en América Latina y el Caribe",
+      "nivel": 1,
+      "paginas": "64-81",
+      "resumen": "La presentación principal de Adrián Rodríguez (CEPAL) y Laura Meza (FAO/RLC) expone resultados preliminares de una investigación bibliométrica (1990-2012) sobre la producción científica de la región, con análisis de contenido, conglomerados y redes. Incluye los comentarios de Maricela Díaz, Enzo Benech, Milagro Saborío y Jeimar Tapasco y la discusión.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Presentación principal, Adrián Rodríguez y Laura Meza",
+          "nivel": 2,
+          "paginas": "65-71",
+          "resumen": "Expone el contexto general de la investigación científica relacionada con agricultura y cambio climático y la metodología del estudio basado en datos de la base Scopus para el período 1990-2012. Analiza los patrones de colaboración entre países (externalidades positivas de la cooperación), la distribución por disciplinas y el análisis de contenido de 2.134 artículos agrupados en temas de agricultura, cambio climático y temas mixtos, con análisis de conglomerados y de redes.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Los datos utilizados en el estudio corresponden al período 1990-2012 y derivan de la sistematización de búsquedas por tema, utilizando términos relacionados con agricultura, cambio climático y regiones y países de América Latina y el Caribe.",
+              "pagina": 65
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "Primero, que la colaboración le genera externalidades positivas a los países con menos capacidades; segundo, que la colaboración incrementa la efectividad de la investigación en contextos de restricciones financieras, especialmente entre países con sistemas agrícolas similares y con similares dotaciones de recursos naturales; y tercero, que es un enfoque efectivo para enfrentar fenómenos globales con el cambio climático.",
+              "pagina": 66
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "La búsqueda de partida nos generó un total de 2134 artículos, cada uno con un conjunto de hasta 5 palabras clave, que constituyen el material de partida para el análisis.",
+              "pagina": 70
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Comentarios",
+          "nivel": 2,
+          "paginas": "74-79",
+          "resumen": "Maricela Díaz (Cuba), Enzo Benech (Uruguay), Milagro Saborío (CATIE) y Jeimar Tapasco (CIAT) comentan los resultados. Destacan que hay poca multidisciplinariedad en la producción científica, que la investigación sobre mitigación predomina sobre la de adaptación, la necesidad de que la información sea útil para los tomadores de decisiones y la importancia de la colaboración y de las redes de investigación.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "La primera es que hay poca multi-disciplinariedad. Esto es un vacío importante porque estamos ante un fenómeno complejo, como es cambio climático, que en sí mismo necesita un abordaje multisectorial",
+              "pagina": 78
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "La investigación sobre temas de mitigación predomina sobre la investigación en adaptación.",
+              "pagina": 79
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Discusión",
+          "nivel": 2,
+          "paginas": "80-81",
+          "resumen": "Se discute la validación de los resultados mediante consultas a los centros de investigación agrícola nacionales y a los tomadores de decisiones, la definición de prioridades de investigación con fondos públicos, y la importancia de fomentar la participación de los actores relevantes y de incrementar la comunicación y la colaboración.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Por lo tanto, es importante fomentar la participación de los actores relevantes en los procesos de definición de prioridades de investigación.",
+              "pagina": 80
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "VII. Diálogo sobre políticas, instrumentos y colaboración para promover la adaptación de la agricultura al cambio climático",
+      "nivel": 1,
+      "paginas": "82-91",
+      "resumen": "Sección desarrollada como mesa redonda con experiencias de Argentina, Bolivia, Brasil, Costa Rica, Cuba, Chile, Ecuador, República Dominicana, Panamá, Paraguay y Uruguay sobre políticas, instrumentos y mecanismos de colaboración para la adaptación de la agricultura.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Experiencias de los países",
+          "nivel": 2,
+          "paginas": "82-88",
+          "resumen": "La mesa redonda presenta experiencias nacionales de adaptación al cambio climático. Argentina destaca los sistemas integrados de teledetección y alertas tempranas vinculados a la Oficina de Riesgo Agropecuario del Ministerio de Agricultura, Ganadería y Pesca, y la aplicación de cortinas forestales y sistemas silvopastoriles para enfrentar la erosión eólica, logrando aumentos de la producción de forraje de la superficie protegida. Costa Rica destaca ser el primer país de la región en presentar un NAMA agrícola que integra acciones en los sectores de café, ganadería y caña de azúcar. Ecuador presenta el Proyecto CLIPAPA de ampliación de la frontera agrícola de la papa financiado por FONTAGRO.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "En segundo lugar, respecto a la aplicación de los conocimientos en sistemas integrados de teledetección y alertas tempranas, deseo destacar que desde la oficina de riesgo agropecuario del ministerio de agricultura, ganadería y pesca, se integraron diversas fuentes de información y programas geoespaciales para la evaluación de riesgos y vulnerabilidad derivados del clima.",
+              "pagina": 83
+            },
+            {
+              "dimension": "avances_implementacion",
+              "cita": "Por último, mencionar la experiencia en la aplicación de cortinas forestales y sistemas silvopastoriles.",
+              "pagina": 84
+            },
+            {
+              "dimension": "avances_implementacion",
+              "cita": "También quiero destacar que en Costa Rica es el primer país que ha presentado un NAMA agrícola, que integra acciones en los sectores café, ganadería y caña de azúcar, los tres sectores que más emiten gases de efecto invernadero en el sector agropecuario.",
+              "pagina": 86
+            },
+            {
+              "dimension": "avances_implementacion",
+              "cita": "Estamos también involucrados en el proyecto CLIPAPA (ampliando la frontera agrícola de la papa para disminuir los efectos del cambio climático), financiado por FONTAGRO, un proyecto internacional con varios países de la región.",
+              "pagina": 88
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Discusión",
+          "nivel": 2,
+          "paginas": "89-91",
+          "resumen": "La discusión aborda la formación de la asistencia técnica en cambio climático, la importancia de incorporar los principios del cambio climático y la variabilidad climática a la extensión, y el respaldo a las políticas públicas para la adaptación.",
+          "dimensiones": [
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "Básicamente la asistencia técnica no tiene formación en cambio climático, por lo que es importante incorporar los principios y conceptos de cambio climático y de variabilidad climática como parte del currículum de este ámbito de la formación profesional en el país.",
+              "pagina": 90
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "VIII. Clausura",
+      "nivel": 1,
+      "paginas": "92-94",
+      "resumen": "La FAO (a través de Eve Crowley) y la CEPAL (a través de Antonio Prado) cierran el seminario. Subrayan el fructífero trabajo conjunto entre FAO y CEPAL, la importancia de analizar y promover diseños políticos institucionales y financieros para la adaptación, el desarrollo de enfoques integrados de investigación y la promoción de la cooperación Sur-Sur, y plantean que la transición a una economía baja en carbono es un reto de cambio estructural que implica cambios en la matriz energética y en las formas de hacer agricultura.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Queda manifiesto que el fenómeno no es algo etéreo, sino con impactos tangibles en las economías de los países, especialmente en el ámbito rural, afectando a agricultores y comunidades más vulnerables.",
+          "pagina": 92
+        },
+        {
+          "dimension": "desafios",
+          "cita": "Los retos que plantea el tránsito a una economía baja en carbono o de neutralidad en emisiones, es en esencia un reto de cambio estructural.",
+          "pagina": 94
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "La memoria reúne acciones concretas y ejecutables de adaptación con instrumento nombrado —los sistemas integrados de teledetección y alertas tempranas y las cortinas forestales de Argentina, el NAMA agrícola de Costa Rica y el proyecto CLIPAPA de Ecuador— y prioriza a la agricultura familiar en las políticas nacionales de adaptación. Pero no las presenta como un paquete coordinado de inversión masiva ni las conecta con las tres eficiencias del gran impulso ambiental: cada medida es sectorial, formulada desde experiencias nacionales en la mesa de países, sin lógica de despegue coordinado (falla el test 1 de big_push).",
+      "citas": [
+        {
+          "cita": "Este proyecto procuró sistematizar y “aterrizar” la información sobre cambio climático disponible, identificar su efecto en los sistemas productivos, evaluar las vulnerabilidades y las tecnologías de adaptación en territorios de alta concentración de agricultura familiar.",
+          "pagina": 50
+        },
+        {
+          "cita": "Ellos deberían tener una prioridad en las políticas nacionales de adaptación, dado que no sólo importa la cantidad de alimentos producidos, sino también el aspecto social del desarrollo agrícola.",
+          "pagina": 63
+        },
+        {
+          "cita": "Por último, mencionar la experiencia en la aplicación de cortinas forestales y sistemas silvopastoriles.",
+          "pagina": 84
+        },
+        {
+          "cita": "También quiero destacar que en Costa Rica es el primer país que ha presentado un NAMA agrícola, que integra acciones en los sectores café, ganadería y caña de azúcar, los tres sectores que más emiten gases de efecto invernadero en el sector agropecuario.",
+          "pagina": 86
+        }
+      ],
+      "nota": "Veredicto Parcial: por el género (memoria de seminario) hay acciones concretas con instrumento nombrado, pero sectoriales y dispersas, sin paquete coordinado de inversión ni vínculo con empleo/desigualdad (tests 1 y 3 de big_push ausentes)."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El documento documenta y describe mecanismos de coordinación con nombre propio dentro del ámbito: la mesa redonda de país de la Sesión VII articula a los ministerios de agricultura de doce países (Argentina, Bolivia, Brasil, Chile, Colombia, Costa Rica, Cuba, Ecuador, Panamá, Paraguay, República Dominicana y Uruguay), y la intervención de Alejandra Sarquis describe el Consejo Agropecuario del Sur (CAS) —y específicamente su grupo de cambio climático— como espacio institucionalizado donde los países han incorporado el tema climático en la agenda de sus ministerios y negocian posición. El propio Semanario Regional de Agricultura y Cambio Climático, coordinado por CEPAL y FAO con apoyo de la Cooperación Francesa, CGIAR-CCAFS, CIAT y CATIE, funciona como plataforma recurrente (cuatro años consecutivos) de diálogo ciencia-política.",
+      "citas": [
+        {
+          "cita": "La mayoría de quienes trabajamos desde los países del Consejo Agropecuario del Sur (CAS) sabemos que todos los países han incluido en la agenda de sus ministerios de Agricultura el tema climático como un tema prioritario.",
+          "pagina": 61
+        },
+        {
+          "cita": "Cuando se creó el grupo de cambio climático dentro del CAS y estábamos en una de las primeras reuniones, una de las cosas que primero notamos fue que muy pronto había una negociación de cambio climático y que en la mitad de los países el sector no iba a participar.",
+          "pagina": 62
+        },
+        {
+          "cita": "Celebramos el fructífero trabajo conjunto entre la FAO y CEPAL que durante los 4 años consecutivos ha permitido implementar seminarios regionales de agricultura y cambio climático, con amplia participación de los países de América Latina y el Caribe.",
+          "pagina": 92
+        }
+      ],
+      "nota": "La articulación es de coordinación interinstitucional y de diálogo regional (CAS, grupo de cambio climático del CAS y el propio seminario como plataforma), no solo financiera."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento identifica oportunidades productivas y técnicas: el aumento de precipitaciones que favoreció la producción de soja, la caña de azúcar como área que se incrementa, los mercados del crédito y de seguros que evitan pérdidas durante sequías, la extensión para la agricultura familiar y los bancos de germoplasma y el mejoramiento genético. Sin embargo, vincula débilmente esas oportunidades con creación de empleo, productividad o distribución del ingreso —apenas la migración de la mano de obra y el aspecto social del desarrollo agrícola—; son mayormente instrumentos de gestión de riesgos y mejora técnica, sin cifra propia ni mecanismo de política que conecte la enumeración con empleo o desigualdad.",
+      "citas": [
+        {
+          "cita": "El mismo rol pueden cumplir los mercados del crédito y de seguros.",
+          "pagina": 42
+        },
+        {
+          "cita": "El objetivo general del proyecto fue elaborar estrategias y contenidos para los programas de extensión, que apoyen la sostenibilidad de los sistemas de la agricultura familiar de la región y su adaptación en un escenario de alta variabilidad de precipitaciones y temperatura producto del cambio climático en la región.",
+          "pagina": 50
+        },
+        {
+          "cita": "En esa materia hemos considerado un replanteamiento del mejoramiento genético, pensando por ejemplo, en la importancia de los bancos de germoplasma, de la biotecnología (ya sea la biotecnología tradicional o la moderna), de la conservación de los recursos fito-genéticos y zoo-genéticos.",
+          "pagina": 59
+        },
+        {
+          "cita": "Es interesante observar que en América Latina, entre el 1979 y el 2005, ha ocurrido un aumento de las precipitaciones en el Oeste de Argentina y de Paraguay.",
+          "pagina": 55
+        }
+      ],
+      "nota": "Se enumeran oportunidades e instrumentos con casos, pero el vínculo con empleo, productividad y distribución del ingreso es aislado y sin desarrollo; por eso el veredicto es Parcial."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "La mesa de experiencias de países (Sesión VII) y las estrategias de extensión formulan acciones operativas con instrumento identificable: sistemas integrados de teledetección y alertas tempranas vinculados a la Oficina de Riesgo Agropecuario argentina, cortinas forestales y sistemas silvopastoriles, el NAMA agrícola de Costa Rica y el proyecto CLIPAPA de Ecuador. Pero el bloque de cierre del evento (Clausura, p. 93) formula imperativos genéricos sin instrumento, responsable ni plazo (promover diseños políticos institucionales y financieros, desarrollar enfoques integrados de investigación, cooperación Sur-Sur). El desglose muestra la mezcla: 4 de 6 ítems pasan el test de concreción.",
+      "citas": [
+        {
+          "cita": "En segundo lugar, respecto a la aplicación de los conocimientos en sistemas integrados de teledetección y alertas tempranas, deseo destacar que desde la oficina de riesgo agropecuario del ministerio de agricultura, ganadería y pesca, se integraron diversas fuentes de información y programas geoespaciales para la evaluación de riesgos y vulnerabilidad derivados del clima.",
+          "pagina": 83
+        },
+        {
+          "cita": "Por último, mencionar la experiencia en la aplicación de cortinas forestales y sistemas silvopastoriles.",
+          "pagina": 84
+        },
+        {
+          "cita": "También quiero destacar que en Costa Rica es el primer país que ha presentado un NAMA agrícola, que integra acciones en los sectores café, ganadería y caña de azúcar, los tres sectores que más emiten gases de efecto invernadero en el sector agropecuario.",
+          "pagina": 86
+        },
+        {
+          "cita": "Estamos también involucrados en el proyecto CLIPAPA (ampliando la frontera agrícola de la papa para disminuir los efectos del cambio climático), financiado por FONTAGRO, un proyecto internacional con varios países de la región.",
+          "pagina": 88
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Sistemas integrados de teledetección y alertas tempranas (Argentina, Oficina de Riesgo Agropecuario)",
+          "clasificacion": "CONCRETO",
+          "pagina": 83
+        },
+        {
+          "item": "Aplicación de cortinas forestales y sistemas silvopastoriles para la erosión eólica (Argentina)",
+          "clasificacion": "CONCRETO",
+          "pagina": 84
+        },
+        {
+          "item": "NAMA agrícola de Costa Rica que integra café, ganadería y caña de azúcar",
+          "clasificacion": "CONCRETO",
+          "pagina": 86
+        },
+        {
+          "item": "Proyecto CLIPAPA de ampliación de la frontera agrícola de la papa (Ecuador, FONTAGRO)",
+          "clasificacion": "CONCRETO",
+          "pagina": 88
+        },
+        {
+          "item": "Promover diseños políticos institucionales y financieros para las transformaciones de la adaptación",
+          "clasificacion": "GENERICO",
+          "pagina": 93
+        },
+        {
+          "item": "Desarrollar enfoques integrados de investigación que diagnostiquen brechas de conocimiento",
+          "clasificacion": "GENERICO",
+          "pagina": 93
+        }
+      ],
+      "tally": "4 de 6 ítems pasan el test de concreción",
+      "nota": "Unidad de desglose: experiencias concretas de la mesa de países (Sesión VII) más el bloque de cierre de la Clausura (p. 93). Las experiencias nacionales se presentan como casos del ámbito y no como imperativos del documento con responsables y plazos, y el cierre es genérico: por eso Parcial y no Sí."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la tensión entre la urgencia de la adaptación de la agricultura al cambio climático —una actividad que depende completamente del clima— y la limitación de las herramientas disponibles para anticiparla: los modelos del clima mundial avanzan poco a nivel regional, los modelos económicos de adaptación son esencialmente de corto plazo y la información sobre adaptación es escasa frente a la de mitigación. La tensión se resuelve no con un solo paradigma, sino proponiendo el uso combinado de la modelación, la economía, la investigación colaborativa y el conocimiento local.",
+      "filtro_categoria_primaria": "El objetivo principal de cambio es la sostenibilidad ambiental del sector agrícola: la adaptación a los impactos del cambio climático, la agricultura familiar resiliente, la gestión de riesgos (cortinas forestales, alertas tempranas, extensión) y la transición hacia formas de hacer agricultura que reduzcan la vulnerabilidad climática. La institucionalidad y la colaboración entre países (CEPAL-FAO, CAS, redes de investigación) aparecen como el medio para alcanzar esa transformación, no como el objeto del documento.",
+      "secundaria_obligatoria": "Las capacidades del Estado y de la cooperación regional son la segunda intención: el documento promueve la articulación de ministerios, organismos internacionales y centros de investigación, la formación de la asistencia técnica, la definición de prioridades de investigación con fondos públicos y la cooperación Sur-Sur, elementos de fortalecimiento institucional que habilitan la adaptación.",
+      "justificacion_anti_copia": "El hilo estructural es la transformación ambiental-climática del sector agropecuario: la memoria se organiza por tipos de modelos (del clima mundial, de nicho, empíricos, mecanísticos), por el análisis económico de la adaptación, por los impactos previstos por subregiones y países y por la investigación bibliométrica sobre agricultura y cambio climático, con hallazgos de cierre que priorizan la agricultura familiar y reclaman un reto de cambio estructural hacia la neutralidad en emisiones. La institucionalidad (extensión, cooperación, redes de investigación) se formula como medio, no como arquitectura a construir per se.",
+      "validacion_anclas": "Coincide con el ancla doc20 (impactos y adaptación nacional: #6 primaria / #11 secundaria) y con el patrón general del corpus climático, en el que la mayoría de los documentos mapean la sostenibilidad ambiental como primaria. Se diferencia del ancla doc12 (PLACA, #11 primaria), donde el inventario de leyes, gabinetes y MRV es el objeto; acá la arquitectura institucional es instrumento de la adaptación y no fin del documento."
+    },
+    "tipo_documento_climatico": "Memoria de seminario (Serie Seminarios y Conferencias N° 81)",
+    "nivel_aplicacion": "Regional (América Latina y el Caribe), con énfasis en el sector agropecuario",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

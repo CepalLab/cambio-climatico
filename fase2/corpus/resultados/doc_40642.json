@@ -1,0 +1,137 @@
+{
+  "documento": {
+    "num_muestra": 999,
+    "titulo": "Generación de bases de datos climáticos para el análisis de riesgos en las costas de Santa Catarina (Brasil)",
+    "autoria": "Íñigo J. Losada Rodríguez y Cristina Izaguirre Lasa",
+    "handle": "https://hdl.handle.net/11362/40642",
+    "simbolo": "LC/W.713",
+    "isbn": null,
+    "fecha": "2016-09",
+    "tipo_documento": "Documento técnico",
+    "paginas_cuerpo": 38,
+    "paginas_totales": 41,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cómo generar bases de datos climáticas históricas y proyecciones climáticas de alta resolución para la gestión de riesgos costeros en el estado de Santa Catarina, Brasil?",
+    "alcance": {
+      "ambito_aplicacion": "Santa Catarina, Brasil",
+      "referentes_dependencias": null,
+      "sectorial": "Gestión de riesgos costeros, hidrología, climatología",
+      "temporal": "Histórico (1979-2010) y proyecciones (siglo XXI)"
+    },
+    "hallazgos_principales": [
+      "El proyecto desarrolló bases de datos de alta resolución (SW-StaCatarina para viento, ROW-StaCatarina para oleaje, GOST-StaCatarina para nivel del mar) para Santa Catarina (p.14).",
+      "La tendencia histórica lineal estimada del nivel medio del mar en Santa Catarina es de 2,1 mm/año (p.24).",
+      "Los cambios estimados para el nivel medio del mar en Santa Catarina son cercanos a 0,5 metros para RCP4.5 y superiores a 0,72 metros para RCP8.5 a fin de siglo (p.26)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El estudio logra el objetivo de generar las bases de datos de peligrosidad climática necesarias para futuros estudios de riesgo y vulnerabilidad en la costa de Santa Catarina."
+      ],
+      "recomendaciones": [],
+      "nota": "El documento es un informe de generación de bases de datos técnicos y no formula recomendaciones de política pública."
+    },
+    "resumen_narrativo": "Este documento presenta los resultados del proyecto para generar bases de datos climáticas de alta resolución para la gestión de riesgos costeros en el estado de Santa Catarina, Brasil. Desarrolla herramientas técnicas para la caracterización histórica y proyecciones de viento, oleaje, nivel del mar y caudales fluviales. La metodología implementada permite reducir la escala de los modelos climáticos globales para su aplicación regional. El estudio constituye una fase preparatoria para futuros análisis de vulnerabilidad, riesgo y planificación de medidas de adaptación."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "I. Contexto general",
+      "nivel": 1,
+      "paginas": "7-12",
+      "resumen": "Establece el marco conceptual del riesgo costero, definido como producto de peligrosidad, exposición y vulnerabilidad. Introduce la necesidad de escalas de estudio (continental, regional, local) para el análisis de impactos del cambio climático. Analiza cómo la inundación costera es un impacto adverso agravado por el aumento del nivel del mar y los eventos extremos, destacando la interacción entre la acción del oleaje, las mareas y el caudal fluvial, elementos críticos para caracterizar la cota de inundación frente al riesgo climático.",
+      "dimensiones": [
+        {
+        "dimension": "tendencias",
+        "cita": "MMarea astronóómica: la mare a astronómica es el cambio een el nivel del mar asociado a la influenciaa gravi tatoria de los asstros, principalmmente el sol y la luna.",
+        "pagina": 12
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "II. El estudio de Santa Catarina, Brasil",
+      "nivel": 1,
+      "paginas": "13-36",
+      "resumen": "Presenta el caso de estudio de Santa Catarina, con objetivos técnicos detallados para la reconstrucción climática y metodologías desarrolladas para la generación de bases de datos de peligrosidad de alta resolución. El documento detalla exhaustivamente los procedimientos seguidos para caracterizar la peligrosidad climática: el modelado numérico para el campo de vientos (SeaWind-StaCatarina), la simulación del oleaje en aguas someras utilizando mallas anidadas (ROW-StaCatarina), el cálculo del nivel del mar considerando mareas y corrientes oceánicas (GOST-StaCatarina), y la reconstrucción histórica de caudales fluviales en la cuenca de Itajaí. Estas bases de datos, con resolución temporal horaria y espacial de escala kilométrica, fueron validadas mediante comparaciones con estaciones de medición in-situ y satélite. Se describen los métodos estadísticos de validación utilizados, el análisis forense de eventos de inundación históricos en Santa Catarina (julio de 1983 y junio de 2006) y el análisis de sensibilidad ante proyecciones de cambio climático. El informe subraya la importancia crítica de contar con estos insumos técnicos de alta calidad para el análisis de riesgos a alta resolución, permitiendo la futura planificación, el diseño de medidas de reducción de riesgo costero y el desarrollo de estrategias de adaptación específicas para la costa de Santa Catarina, facilitando la toma de decisiones informada por datos climáticos precisos en la región.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Este estudio se centra en la componente de Peligrosidad, con el objetivo general de generar las bases de datos necesarias relativas a las dinámicas, tanto históricas como de proyecciones de cambio climático, para el análisis de riesgos en la costa de Santa Catarina.",
+          "pagina": 15
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "III. Otras aplicaciones",
+      "nivel": 1,
+      "paginas": "37-38",
+      "resumen": "Describe posibles usos sectoriales y científicos de las bases de datos generadas (SW, ROW, GOST) para ingeniería costera, navegación, turismo, pesca y estudios de variabilidad climática. Destaca cómo la reconstrucción climática permite evaluar impactos específicos, mejorar el diseño de obras de protección costera y contribuir al desarrollo de sistemas de alerta temprana y operacionales necesarios frente a la variabilidad del clima, optimizando la toma de decisiones sectoriales.",
+      "dimensiones": [
+        {
+          "dimension": "oportunidades",
+          "cita": "Además de lo anteriormente expuesto, el acceso a bases de datos como las desarrolladas en este proyecto abre una miríada de oportunidades para diversas aplicaciones de interés para los diferentes sectores, agentes e instituciones cuya actividad se desarrolle en la costa de Santa Catarina.",
+          "pagina": 38
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "No",
+      "evidencia": "El documento es un estudio técnico para la generación de bases de datos de peligrosidad climática. No propone un paquete de inversión coordinada ni políticas públicas, sino herramientas de análisis. Chequeo negativo: no hay propuesta de inversión coordinada, no propone sectores estratégicos bajo la lógica de Big Push, y no propone eficiencia ambiental/productiva.",
+      "citas": [
+        {
+          "cita": "Por tanto, en esta primera fase no se analiza la vulnerabilidad ni el riesgo.",
+          "pagina": 13
+        }
+      ],
+      "nota": "La naturaleza del documento es técnica y preparatoria, no formuladora de políticas."
+    },
+    "articulacion_actores": {
+      "veredicto": "No",
+      "evidencia": "El documento no propone mecanismos de articulación de actores. Menciona colaboraciones técnicas para la elaboración del estudio, pero no gobernanza de la acción climática.",
+      "citas": [],
+      "nota": "El documento no aborda la coordinación de actores para la implementación de políticas."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "El documento enumera posibles aplicaciones técnicas de las bases de datos para sectores económicos (turismo, pesca, ingeniería), pero no desarrolla el vínculo con empleo, productividad o desigualdad.",
+      "citas": [],
+      "nota": "El documento no analiza oportunidades productivas bajo la lógica de reducción de brechas."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "No",
+      "evidencia": "El documento no formula recomendaciones de política o acciones para la gestión del riesgo, ya que se limita a la generación de insumos técnicos.",
+      "citas": [],
+      "desglose_items": [],
+      "tally": null,
+      "nota": "No existen recomendaciones de implementación."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "Tensión estructural entre la creciente vulnerabilidad de los ecosistemas y sistemas socioeconómicos en la costa de Santa Catarina ante fenómenos climáticos extremos y la inexistencia de datos técnicos de alta resolución (históricos y proyecciones) necesarios para la gestión efectiva del riesgo.",
+      "filtro_categoria_primaria": "La transformación primaria es 'Capacidades del Estado' (nº 11). A diferencia de 'Sostenibilidad ambiental', que es un resultado deseado, la acción fundamental que ejecuta este documento es la creación de infraestructura técnica (bases de datos SW-StaCatarina, ROW-StaCatarina, GOST-StaCatarina) que dota al Estado brasileño y a Santa Catarina de soberanía tecnológica y capacidad de gestión pública basada en evidencia científica frente a la 'Sostenibilidad ambiental' (nº 6), que aquí funciona como eje orientador pero no como la actividad central del documento.",
+      "secundaria_obligatoria": "La 'Sostenibilidad ambiental' (nº 6) actúa como transformación secundaria necesaria, ya que todo el esfuerzo técnico de caracterización de la peligrosidad (oleaje, nivel del mar, caudales fluviales) está teleológicamente diseñado para la futura planificación de medidas de adaptación y resiliencia climática en la zona costera.",
+      "justificacion_anti_copia": "A diferencia de documentos que analizan el riesgo sin generar datos, este documento institucionaliza una fase preparatoria esencial: la creación de las bases de datos de alta resolución (1 km espacial, horaria temporal). Estas bases son activos estratégicos que eliminan la dependencia de modelos globales insuficientes para la toma de decisiones a escala local en Santa Catarina, permitiendo un análisis forense de inundaciones (ej. 1983, 2006) y una planificación territorial informada.",
+      "validacion_anclas": "Se vincula con 'Capacidades del Estado' al igual que el 'doc09_caribbean_power' (cuyos anclas de gobernanza técnica comparten la lógica de proveer insumos públicos fundamentales para la gestión). Se diferencia en que el 'doc09' se enfoca en políticas de energía, mientras que este documento se centra en la peligrosidad climática (oleaje, nivel del mar) para la resiliencia costera, compartiendo ambos la misma lógica de habilitación de capacidad estatal."
+    },
+    "tipo_documento_climatico": "Estudio técnico",
+    "nivel_aplicacion": "Regional/Estatal",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

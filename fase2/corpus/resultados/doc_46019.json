@@ -1,0 +1,322 @@
+{
+  "documento": {
+    "num_muestra": 118,
+    "titulo": "Escenarios para un desarrollo sostenible en la República Dominicana: un modelo econométrico estructural de emisiones de dióxido de carbono",
+    "autoria": "Luis Miguel Galindo, Alexis Cruz-Rodríguez, Yanna Dishmey, Martin Francos, Juan Carlos López, José Eduardo Alatorre, Rafael van der Borght",
+    "handle": "https://hdl.handle.net/11362/46019",
+    "simbolo": "LC/TS.2020/109",
+    "isbn": null,
+    "fecha": "2020",
+    "tipo_documento": "Documentos de Proyectos",
+    "paginas_cuerpo": 18,
+    "paginas_totales": 46,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cuáles son las interrelaciones estructurales y los mecanismos de retroalimentación entre las variables macroeconómicas, sociales y ambientales en la República Dominicana, y qué transformaciones de política pública que trasciendan el uso exclusivo de señales de precios se requieren para transitar hacia un estilo de desarrollo bajo en carbono, incluyente y compatible con las metas de la Contribución Nacionalmente Determinada (NDC) y los Objetivos de Desarrollo Sostenible (ODS) al 2030?",
+    "alcance": {
+      "ambito_aplicacion": "República Dominicana",
+      "referentes_dependencias": "CEPAL, Ministerio de Economía, Planificación y Desarrollo de la República Dominicana (MEPyD), Ministerio Federal de Cooperación Económica y Desarrollo de Alemania (BMZ), Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ), Expertise France, Banco Central de la República Dominicana, Banco Mundial",
+      "sectorial": "Macroeconómico multisectorial, energía (demanda de gasolinas, electricidad total y residencial), recursos hídricos (demanda de agua total y residencial), mercado laboral (empleo y salarios), sector externo (importaciones y exportaciones) y emisiones de gases de efecto invernadero (CO2 del sector energético)",
+      "temporal": "1960-2018 (período histórico de estimación econométrica) y 2019-2030 (horizonte de simulación y proyección prospectiva)"
+    },
+    "hallazgos_principales": [
+      "La trayectoria histórica del PIB dominicano (1960-2018) evidencia una tasa de crecimiento tendencial de largo plazo de entre 4,19% y 5,09% anual con volatilidad decreciente, proyectándose mediante modelos ARIMA un crecimiento tendencial inercial en torno al 4%-5% hacia 2030.",
+      "El modelo ME3CO2RD demuestra que las principales variables macroeconómicas y sectoriales (consumo, empleo, demanda de gasolinas, electricidad y agua) presentan una alta elasticidad respecto al nivel de ingreso y una respuesta inelástica (baja sensibilidad) a las variaciones de precios relativos.",
+      "El cambio climático ejerce un impacto directo sobre la economía: el incremento proyectado de la temperatura promedio aumenta significativamente la demanda residencial de electricidad y agua, lo que en un escenario inercial eleva la carga fiscal por concepto de subsidios públicos.",
+      "Las simulaciones prospectivas al 2030 evidencian que bajo el escenario inercial tendencial (BAU), las emisiones de CO2 del sector energético continúan creciendo (entre 1,3% y 1,4% anual), resultando incompatibles con la meta de reducción del 25% comprometida en la NDC al 2030.",
+      "La aplicación aislada de políticas de precios (aumento del 1% anual en precios reales de gasolinas, electricidad y agua) apenas atenúa la tasa de crecimiento de las emisiones (a 1,25% anual) y de la demanda energética, confirmando la insuficiencia de los instrumentos basados exclusivamente en precios."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El dinamismo económico histórico de la República Dominicana ha impulsado el consumo y el empleo, pero bajo el estilo de desarrollo vigente es incapaz de cerrar las brechas de pobreza al 2030 e intensifica severas externalidades negativas como la congestión vial, la contaminación y las emisiones de GEI.",
+        "Debido a la inelasticidad precio de la demanda de combustibles, electricidad y agua, las estrategias fiscales y arancelarias basadas puramente en señales de mercado tienen una efectividad marginal si no se modifican las estructuras subyacentes de consumo y producción.",
+        "El modelo econométrico estructural ME3CO2RD proporciona un marco analítico robusto y calibrado con evidencia internacional para evaluar simultáneamente las interacciones macroeconómicas, sociales y climáticas en la formulación de políticas públicas del siglo XXI."
+      ],
+      "recomendaciones": [
+        "Instrumentar transformaciones estructurales profundas en la economía dominicana que combinen instrumentos de precios (impuestos y subsidios ambientales) con nuevas regulaciones técnicas y ambientales.",
+        "Impulsar un programa integral de inversiones públicas y privadas en nueva infraestructura de transporte público masivo y generación/distribución de energía limpia para alterar los parámetros de respuesta al producto y reducir emisiones.",
+        "Promover un cambio estructural deliberado hacia patrones sustentables de producción y consumo que desvincule el crecimiento económico del consumo intensivo de recursos y potencie los efectos multiplicadores sobre el empleo formal y la reducción de la pobreza.",
+        "Integrar de manera sistemática los escenarios de cambio climático y los mecanismos de retroalimentación ambiental en los modelos de planificación macroeconómica y fiscal del Estado dominicano."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "Este estudio de 46 páginas presenta el modelo econométrico estructural de pequeña escala ME3CO2RD, desarrollado conjuntamente por la CEPAL y el Ministerio de Economía, Planificación y Desarrollo de la República Dominicana para evaluar las interrelaciones entre variables macroeconómicas, sociales y ambientales y construir escenarios prospectivos al 2030. A partir del análisis de series temporales (1960-2018), el modelo integra especificaciones neokeynesianas de cointegración y corrección de error para proyectar consumo, inversión, empleo, precios, pobreza y demandas sectoriales de gasolinas, electricidad y agua acopladas a las emisiones de CO2 del sector energético. Los resultados revelan que las variables endógenas muestran una elevada dependencia del producto y una marcada inelasticidad frente a los precios relativos, mientras que el incremento de la temperatura por cambio climático eleva la demanda residencial de agua y electricidad presionando las finanzas públicas. Las simulaciones al 2030 demuestran que el escenario inercial o las políticas basadas exclusivamente en precios no permiten alcanzar las metas de mitigación de la NDC ni superar la pobreza estructural. El documento concluye que es imprescindible instrumentar transformaciones estructurales mediante paquetes coordinados que combinen regulaciones, incentivos de precios e inversiones en nueva infraestructura de transporte y energía limpia para transitar hacia un desarrollo sostenible e incluyente."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Síntesis Ejecutiva",
+      "nivel": 1,
+      "paginas": "7-8",
+      "resumen": "Sintetiza los objetivos, fundamentos metodológicos y principales conclusiones del estudio, el cual propone el modelo ME3CO2RD como herramienta cuantitativa para analizar las relaciones simultáneas entre variables económicas, sociales y ambientales en la República Dominicana y proyectar escenarios al 2030. Destaca que el crecimiento económico continuo bajo el estilo de desarrollo actual intensifica externalidades negativas como el consumo de gasolinas y la generación de emisiones de gases de efecto invernadero, mientras que el impacto sobre la pobreza resulta insuficiente para cerrar las brechas sociales. Asimismo, advierte que el aumento de la temperatura por cambio climático elevará la demanda residencial de agua y electricidad con repercusiones fiscales. Debido a la baja sensibilidad (inelasticidad) de las variables endógenas ante las señales de precios, concluye que las políticas de precios aisladas tienen un alcance limitado, siendo imperativo acometer transformaciones estructurales que integren precios, nuevas regulaciones y el despliegue de infraestructura de transporte y energía para potenciar el empleo y la sostenibilidad.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "ME3CO2RD es un modelo econométrico de pequeña escala basado en relaciones básicas entre variables económicas, sociales y ambientales que permiten identificar la presencia de procesos de retroalimentación",
+          "pagina": 7
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "un aumento de la temperatura promedio en RD, asociada al cambio climático, ocasiona un incremento de la demanda de electricidad residencial y de la demanda de agua residencial con impactos colaterales potenciales en las finanzas pública",
+          "pagina": 7
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "precios (i.e. impuestos y subsidios, tipo de cambio, tasas de interés, precios relativos, etc.) impulsar nuevas regulaciones y la construcción de una nueva infraestructura de transporte y energética.",
+          "pagina": 8
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "9-10",
+      "resumen": "Presenta los antecedentes del desempeño económico de la República Dominicana durante las últimas cinco décadas, caracterizado por un elevado dinamismo del PIB acompañado de heterogeneidad y volatilidad periódica. Reconoce que si bien el crecimiento facilitó aumentos en el consumo y el empleo, preservó la persistencia de la pobreza, la concentración del ingreso y una compleja matriz de externalidades negativas y vulnerabilidad ante choques externos y eventos climáticos. Plantea la necesidad de que el país transite en la próxima década hacia un desarrollo sustentable para dar cumplimiento a los compromisos de mitigación y adaptación establecidos en la Contribución Nacionalmente Determinada (NDC) 2020-2030 y los Objetivos de Desarrollo Sostenible (ODS) al 2030. Finalmente, define el objetivo general del documento orientado a estimar cuantitativamente los canales de retroalimentación estructural entre economía, sociedad y medio ambiente, y detalla la organización capitular del texto.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "La República Dominicana (RD) muestra, durante  las últimas cinco décadas, un dinamismo económico significativo junto con una heterogeneidad y una alta volatilidad por períodos.",
+          "pagina": 9
+        },
+        {
+          "dimension": "desafios",
+          "cita": "la República Dominicana deberá, en la próxima década, transitar a un desarrollo sustentable para atender estos desafíos y cu mplir con diversos compromisos nacionales e internacionales tales como las metas específicas de mitigación y adaptación para el 2020 -2030 establecidas en la Contribución Nacionalmente Determinada (NDC) de RD de cambio climático y los Objetivos de Desarroll o Sostenible (ODS) para el 2030.",
+          "pagina": 9
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. El modelo econométrico estructural de emisiones de co2 para República Dominicana (ME3CO2RD)",
+      "nivel": 1,
+      "paginas": "11-12",
+      "resumen": "Describe la arquitectura teórica y metodológica del modelo econométrico ME3CO2RD, concebido como un sistema estructural de pequeña escala con módulos semi-independientes bajo supuestos de exogeneidad fuerte o débil. El modelo integra efectos de oferta agregada de largo plazo modelados explícitamente con choques de demanda agregada de corto plazo, siguiendo especificaciones teóricas del nuevo keynesianismo y mecanismos de corrección de error. Detalla la correspondencia del modelo con las metas e indicadores de los Objetivos de Desarrollo Sostenible (ODS 1, 2, 6, 7, 8, 9, 10, 11, 12 y 13) y la NDC, incorporando ecuaciones de pobreza, empleo, salarios, demandas energéticas e hídricas y emisiones de CO2. Asimismo, subraya la consistencia de las respuestas a choques de política monetaria, fiscal, demanda externa y tipo de cambio con la literatura empírica internacional disponible.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "ME 3CO2RD, que es un modelo econométrico de pequeña escala con módulos semi-independientes (exogeneidad fuerte o débil) para simular a la economía y las emisi ones de CO 2 de la República Dominicana y donde se destacan los canales de trasmisión entre las variables económicas, sociales y ambientales.",
+          "pagina": 11
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Este modelo combina efectos de oferta de largo plazo, modelada explícitamente, con shocks de demanda de corto plazo (Carnot, et al. 2005, Fagan y Morgan, 2005).",
+          "pagina": 11
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "II. Trayectoria de largo plazo del PIB en RD",
+      "nivel": 1,
+      "paginas": "13-14",
+      "resumen": "Examina la dinámica y tasa tendencial de crecimiento del Producto Interno Bruto de la República Dominicana en el período 1960-2018 a partir de métodos de descomposición de series temporales de tendencia y ciclo. Aplica los filtros de Hodrick-Prescott, Beveridge-Nelson, Hamilton y Baxter-King, identificando que el componente tendencial de largo plazo se sitúa entre el 4,19% y el 5,09% anual, con una reducción progresiva de la volatilidad macroeconómica a lo largo de las décadas. Adicionalmente, proyecta la tasa de crecimiento mediante un modelo ARIMA (3,1,2) para el período 2019-2030, obteniendo un valor central de 5,5% anual y rangos de distribución probabilística de 4,4% a 6,7% al 60% de confianza. Concluye que un escenario inercial probable de largo plazo converge hacia tasas sostenidas de entre 4% y 5% conforme la economía dominicana madura y se adapta al contexto internacional.",
+      "dimensiones": [
+        {
+          "dimension": "tendencias",
+          "cita": "La tasa de crecimiento promedio anual del PIB de República Domini cana estimada con base en la descomposición de tendencia y ciclo considerando los filtros de Hodrick y Prescott (1997), Beveridge y Nelson (1987), Hamilton (1994) y Baxter y King (1993), sintetizados en el Cuadro 2, muestran un componente de tendencia que se ubica entre 4.19% y 5.09% para el periodo 1960 -2018",
+          "pagina": 13
+        },
+        {
+          "dimension": "tendencias",
+          "cita": "Asimismo, la tasa de crecimiento promedio anual proyectada, con base en un modelo ARIMA, para el período 2019-2030, es de 5.5% (Cuadro 3 y Gráfica 1) y donde la gráfica de abanico indica límites inferiores y superiores de crecimiento, con un rango de probabilidad al 60%, de entre 4.4% y 6.7%.",
+          "pagina": 14
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "III. Bloque macroeconómico",
+      "nivel": 1,
+      "paginas": "15-16",
+      "resumen": "Presenta las estimaciones econométricas de cointegración y vectores de largo plazo para las 16 ecuaciones estructurales del modelo ME3CO2RD, abarcando consumo privado, inversión, importaciones, exportaciones, empleo, precios (curva de Phillips), salarios, tipo de cambio nominal y real, demanda de gasolinas, electricidad total y residencial, demanda de agua total y residencial, tasa de pobreza (línea de 1,8 dólares) y emisiones de CO2 del sector energético. Los resultados empíricos revelan dos patrones estructurales determinantes: una fuerte elasticidad de las variables macroeconómicas y demandas de insumos respecto a la trayectoria del producto y una marcada inelasticidad respecto a los precios relativos. Asimismo, evidencia el impacto del cambio climático al comprobar que el aumento térmico incrementa de forma directa el consumo residencial de electricidad y agua, lo que bajo el esquema inercial presionará el gasto público en subsidios. Concluye que los instrumentos de precios aislados resultan insuficientes para corregir las externalidades, requiriéndose transformaciones estructurales en regulaciones, infraestructura e innovación en patrones de consumo y producción.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "un aumento de la temperatura promedio en RD ocasiona un incremento de la demanda de e lectricidad residencial y la demanda de agua residencial. Este incremento del consumo de electricidad y del consumo de agua residencial deriva, en un escenario inercial, en un aumento de los subsidios lo que ocasionará presiones crecientes sobre las finanzas públicas.",
+          "pagina": 15
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "El conjunto de las variables consideradas muestra una importante dependencia de la trayectoria del producto y magnitudes de respuesta limitadas (inelásticas) a los precios.",
+          "pagina": 15
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "externalidades negativas es necesario instrumentar transformaciones estructurales fundamentales a la economía de la RD que incluyen, además de una estrategia de precios (i.e. impuestos y subsidios, tipo de cambio, tasas de interés, precios relativos, etc.) impulsar nuevas regulaciones, la construcción de nueva infraestructura y una nueva estructura reflejada en el tránsito a patrones de producción y consumo sustentables",
+          "pagina": 16
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "IV. Simulaciones del modelo ME3CO2RD",
+      "nivel": 1,
+      "paginas": "17-22",
+      "resumen": "Expone los resultados de las simulaciones prospectivas al horizonte 2030 construidas a partir de tres escenarios principales: BAU optimista (crecimiento del PIB al 5% anual), BAU moderado (crecimiento al 4%) y BAU moderado con política pública (crecimiento al 4% combinado con un alza del 1% anual en precios reales de gasolinas, electricidad y agua). Contrasta estas trayectorias con los compromisos de mitigación de la NDC de 2015 (reducción del 25% de emisiones respecto a 2010 al 2030). Las simulaciones demuestran que en todos los escenarios inerciales las emisiones de CO2 continúan expandiéndose a tasas positivas (1,4% en BAU optimista y 1,3% en BAU moderado) e incluso con la aplicación de políticas de precios crecen al 1,25% anual, haciendo inviable el cumplimiento de la meta climática. Asimismo, la pobreza extrema sólo retrocede parcialmente (hasta tasas de 1,7% a 4,4%). Demuestra que la política de precios exclusiva es insuficiente y que el cumplimiento de la NDC y los ODS exige reformas estructurales profundas en infraestructura y estilos de consumo.",
+      "dimensiones": [
+        {
+          "dimension": "tendencias",
+          "cita": "Estos escenarios muestran que los desafíos inherentes del actual estilo de desarrollo no se resolverán al 2030 y, más aún, es probable que se intensifiquen de preservarse el actual estilo de desarrollo en RD.",
+          "pagina": 18
+        },
+        {
+          "dimension": "brechas_implementacion",
+          "cita": "los escenarios elaborados sugieren que en el escenario inercial (BAU) la economía de República Dominicana no podrá cumplir con algunos de las metas establecidas en el NDC o en los ODS, no obstante que se alcanzarán importantes avances.",
+          "pagina": 21
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "La construcción de estos escenarios muestra además que el uso exclusivo de instrumentos de precios es insuficiente para atender estos desafíos y que es por tanto necesario complementar con el uso de otros instrumentos de política pública tales como regulaciones, la construcción de nueva infraestructura y trasformaciones estructurales a los actuales patrones de producción y consumo.",
+          "pagina": 21
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "V. Conclusiones y comentarios generales",
+      "nivel": 1,
+      "paginas": "23-24",
+      "resumen": "Sintetiza los hallazgos sustantivos del estudio y reflexiona sobre sus implicaciones estratégicas para la política pública dominicana del siglo XXI. Reitera que cinco décadas de crecimiento económico no han bastado para erradicar la pobreza ni la desigualdad y han generado un complejo patrón de externalidades negativas (congestión vial, contaminación atmosférica y emisiones de gases de efecto invernadero causantes del cambio climático). Enfatiza la robustez de las estimaciones del modelo ME3CO2RD, las cuales confirman la fuerte dependencia del producto y la baja respuesta a precios de las demandas sectoriales de energía y agua, así como las presiones fiscales derivadas de mayores temperaturas. Concluye que superar la inercia del actual estilo de desarrollo requiere transformaciones estructurales integrales que articulen precios e impuestos ambientales con normativas técnicas, inversiones masivas en infraestructura pública de transporte y energía limpia y cambios cualitativos en la matriz de producción y consumo, disponiendo del modelo ME3CO2RD como plataforma de simulación prospectiva.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "la evidencia disponible muestra que un  aumento de la temperatura promedio en RD, asociada al cambio climático, ocasiona un incremento de la demanda de electricidad residencial y la demanda de agua residencial con impactos colaterales potenciales en las finanzas públicas",
+          "pagina": 23
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Por ello es necesario considerar políticas públicas que combinen el uso de estrategias de precios",
+          "pagina": 23
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "para atender las externalidades negativas es necesario instrumentar transformaciones estructurales fundamentales a la economía de la RD que incluyen, además de una estrategia de precios (i.e. impuestos y subsidios, tipo de cambio, tasas de interés, precios relativos, etc.), impulsar nuevas regulaciones y la construcción de nueva infraestructura",
+          "pagina": 24
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento plantea de manera explícita la necesidad de un gran impulso transformador para transitar hacia un estilo de desarrollo sostenible y bajo en carbono en la República Dominicana, argumentando que las medidas graduales de precios son insuficientes y demandando una estrategia coordinada que combine instrumentos de precios (impuestos y subsidios) con nuevas regulaciones y la construcción de infraestructura en transporte y energía. Sin embargo, califica como 'Parcial' según los tres tests de big_push.md debido a que no formula un paquete de inversión pública y privada coordinado y desglosado con presupuestos, metas de financiamiento específicas o una cartera sectorial operativa, limitándose a establecer las directrices estructurales e ilustrar sus impactos a través del marco de modelación macroeconométrica ME3CO2RD.",
+      "citas": [
+        {
+          "cita": "precios (i.e. impuestos y subsidios, tipo de cambio, tasas de interés, precios relativos, etc.) impulsar nuevas regulaciones y la construcción de una nueva infraestructura de transporte y energética.",
+          "pagina": 8
+        },
+        {
+          "cita": "externalidades negativas es necesario instrumentar transformaciones estructurales fundamentales a la economía de la RD que incluyen, además de una estrategia de precios (i.e. impuestos y subsidios, tipo de cambio, tasas de interés, precios relativos, etc.) impulsar nuevas regulaciones, la construcción de nueva infraestructura y una nueva estructura reflejada en el tránsito a patrones de producción y consumo sustentables",
+          "pagina": 16
+        },
+        {
+          "cita": "para atender las externalidades negativas es necesario instrumentar transformaciones estructurales fundamentales a la economía de la RD que incluyen, además de una estrategia de precios (i.e. impuestos y subsidios, tipo de cambio, tasas de interés, precios relativos, etc.), impulsar nuevas regulaciones y la construcción de nueva infraestructura",
+          "pagina": 24
+        }
+      ],
+      "nota": null
+    },
+    "articulacion_actores": {
+      "veredicto": "No",
+      "evidencia": "El documento no identifica ni propone mecanismos operativos de articulación institucional, gobernanza multiactor, mesas de diálogo o plataformas de coordinación público-privada dentro del ámbito de aplicación de las políticas formuladas. Si bien la portada y las notas institucionales acreditan la colaboración técnica entre la CEPAL, el Ministerio de Economía, Planificación y Desarrollo (MEPyD) de la República Dominicana, la GIZ y Expertise France, en el cuerpo sustantivo y en las recomendaciones normativas el Estado y los hacedores de política son tratados como una entidad genérica sin especificar instancias de gobernanza o mecanismos de articulación intersectorial.",
+      "citas": [
+        {
+          "cita": "Este documento fue preparado por Luis Miguel Galindo, Consultor, José Eduardo Alatorre y Rafael van der Borght, funcionarios de la Unidad de Economía del Cambio Climático de la División de Desarrollo Sostenible y Asentamientos Humanos de la Comisión Económica para América La tina y el Caribe (CEPAL) , y Alexis Cruz-Rodríguez, Yanna Dishmey, Martin Francos y Juan Carlos López, funcionarios del Ministerio de Economía, Planificación y Desarrollo de la República Dominicana",
+          "pagina": 4
+        },
+        {
+          "cita": "El objetivo de este documento es identificar algunas de las relaciones básicas entre las variables económicas, sociales y ambientales en República Dominicana (RD) y con base en estas relaciones presentar algunos escenarios al 2030 como un insumo para discutir una estrategia de política pública del siglo XXI",
+          "pagina": 7
+        }
+      ],
+      "nota": "Chequeo negativo explícito: Se revisó la totalidad del texto sustantivo (secciones I a V) y no se encontraron propuestas de mecanismos de gobernanza, mesas interministeriales, comités de coordinación ni instrumentos de articulación multiactor; la dimensión institucional se limita a menciones genéricas sobre el diseño e instrumentación de políticas públicas."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "El estudio vincula explícitamente la necesidad de transformaciones estructurales e inversiones en infraestructura (transporte y energía limpia) con los multiplicadores sobre el empleo, los salarios reales y la reducción de la pobreza a través del sistema de ecuaciones macroeconométricas del modelo ME3CO2RD. No obstante, califica como 'Parcial' porque no realiza una enumeración detallada de sectores productivos sostenibles o cadenas de valor verdes específicas (como agricultura adaptada, ecoturismo o manufactura de renovables), tratando la dinámica productiva de manera agregada a nivel macroeconómico.",
+      "citas": [
+        {
+          "cita": "Ello refleja una baja sensibilidad a las señales de precios en la República Dominicana lo que sugiere que políticas públicas que consideren exclusivamente estrateg ias de precios tendrán consecuencias limitadas.",
+          "pagina": 7
+        },
+        {
+          "cita": "precios (i.e. impuestos y subsidios, tipo de cambio, tasas de interés, precios relativos, etc.) impulsar nuevas regulaciones y la construcción de una nueva infraestructura de transporte y energética. Ello debe contribuir a modificar las sensibilidades de respuesta a los precios de las variables asociadas a diversas externalidades negativas y potenciar los efectos colaterales de la dinámica económica sobre el empleo y la reducción de la pobreza",
+          "pagina": 8
+        },
+        {
+          "cita": "modificar las sensibilidades de respuesta de variables asociadas a diversas externalidades negativas al producto y de potenciar los efectos colaterales de la dinámica económica sobre el empleo, la reducción de la pobreza y en una mejora en la distribución del ingreso.",
+          "pagina": 16
+        }
+      ],
+      "nota": null
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "No",
+      "evidencia": "La evaluación sistemática de la voz normativa propia en la sección de cierre ('V. Conclusiones y comentarios generales', páginas 23-24) evidencia un predominio de formulaciones generales y de nivel macroestratégico. La totalidad de los ítems normativos identificados plantean imperativos de política combinada (precios, regulaciones, infraestructura y cambios de consumo) y la adopción de herramientas de modelación prospectiva, pero sin especificar instrumentos administrativos detallados, responsables institucionales designados, plazos de ejecución ni métricas de cumplimiento obligatorias.",
+      "citas": [
+        {
+          "cita": "Por ello es necesario considerar políticas públicas que combinen el uso de estrategias de precios",
+          "pagina": 23
+        },
+        {
+          "cita": "para atender las externalidades negativas es necesario instrumentar transformaciones estructurales fundamentales a la economía de la RD que incluyen, además de una estrategia de precios (i.e. impuestos y subsidios, tipo de cambio, tasas de interés, precios relativos, etc.), impulsar nuevas regulaciones y la construcción de nueva infraestructura",
+          "pagina": 24
+        },
+        {
+          "cita": "el mode lo ME3CO2RD permite disponer de un marco conceptual para analizar, evaluar, simular y construir escenarios prospectivos que involucran simultáneamente a los aspectos económicos, sociales y ambientales. Ello resulta fundamental para el diseño e instrumentac ión de las políticas públicas en el siglo XXI.",
+          "pagina": 24
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Considerar políticas públicas que combinen el uso de estrategias de precios (subsidios, impuestos) con regulaciones, construcción de nueva infraestructura (transporte y energética) y cambios estructurales en los patrones de producción y consumo.",
+          "clasificacion": "GENERICO",
+          "pagina": "23-24"
+        },
+        {
+          "item": "Instrumentar transformaciones estructurales fundamentales a la economía dominicana que incluyan estrategias de precios, nuevas regulaciones y nueva infraestructura para modificar las sensibilidades de respuesta de externalidades y potenciar efectos en empleo y reducción de pobreza.",
+          "clasificacion": "GENERICO",
+          "pagina": 24
+        },
+        {
+          "item": "Transformar estructuralmente el actual estilo de desarrollo para transitar hacia un desarrollo sustentable e incluyente.",
+          "clasificacion": "GENERICO",
+          "pagina": 24
+        },
+        {
+          "item": "Disponer del modelo ME3CO2RD como marco conceptual cuantitativo para analizar, evaluar, simular y construir escenarios prospectivos multidimensionales en el diseño e instrumentación de políticas públicas.",
+          "clasificacion": "GENERICO",
+          "pagina": 24
+        }
+      ],
+      "tally": "0 de 4 ítems son concretos (0.0%)",
+      "nota": "Chequeo negativo explícito: Ninguno de los 4 ítems normativos del cierre especifica proyectos de infraestructura con trazados/capacidades asignadas, textos regulatorios específicos, fuentes presupuestarias identificadas o calendarios de cumplimiento operativo."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 10,
+      "nombre": "Macroeconomía y fiscalidad",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El estudio aborda la tensión estructural entre la persistencia de un estilo de crecimiento económico tradicional que genera externalidades ambientales severas (emisiones crecientes de CO2 e intensificación de demandas de energía y agua agravadas por el calentamiento climático) y la necesidad imperativa de descarbonizar la economía dominicana cumpliendo las metas de mitigación de la NDC y los ODS al 2030 sin socavar el dinamismo del producto ni el empleo.",
+      "filtro_categoria_primaria": "La transformación primaria es Sostenibilidad ambiental (#6) porque el objeto sustantivo de la investigación, el diseño de escenarios prospectivos y las conclusiones normativas giran en torno a cómo desacoplar el crecimiento de las emisiones de gases de efecto invernadero y viabilizar la transición hacia un desarrollo sustentable bajo en carbono.",
+      "secundaria_obligatoria": "La transformación secundaria obligatoria es Macroeconomía y fiscalidad (#10) dado que el aparato analítico central, la metodología empírica y la formulación de escenarios se sustentan en un modelo econométrico estructural macroeconómico (ME3CO2RD) de ecuaciones simultáneas de demanda y oferta agregada (consumo, inversión, empleo, precios, salarios, tipo de cambio y presiones de subsidios fiscales).",
+      "justificacion_anti_copia": "A diferencia de análisis puramente macrofinancieros o estudios conceptuales sobre metas de mitigación, los autores demuestran empíricamente mediante estimaciones de cointegración y elasticidades de largo plazo que las políticas de precios (impuestos y subsidios) son inelásticas y por tanto insuficientes por sí solas para alcanzar las metas climáticas, requiriendo un paquete integral de transformaciones regulatorias e infraestructura pública.",
+      "validacion_anclas": "Se alinea con el ancla doc18 (#6 Sostenibilidad ambiental / #10 Macroeconomía y fiscalidad: 'financiamiento/modelación macroeconómica como medio para la transición baja en carbono y resiliente'), donde la sostenibilidad define el objeto y la modelación macrofiscal la herramienta analítica. Se contrasta con doc17 y doc24 (#10/#6), en los cuales la estructura macrofinanciera y los instrumentos fiscales son el objeto en sí mismos."
+    },
+    "tipo_documento_climatico": "Estudio econométrico y modelación de escenarios macroclimáticos",
+    "nivel_aplicacion": "Nacional",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

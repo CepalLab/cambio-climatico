@@ -41,4 +41,20 @@ Thumbs.db
 # Fase 2 — PDFs descargados del repositorio y extracciones temporales (no versionar binarios pesados)
 fase2/pilot/pdfs/
 fase2/corpus/pdfs/
+fase2/corpus/intermedios/*
+!fase2/corpus/intermedios/README.md
+fase2/corpus/lotes/*.tmp
+fase2/estado/*
+!fase2/estado/README.md
 fase2/_nota_conceptual_extraida.txt
+
+# Fase 2 — efímeros de ejecución y auxiliares locales; los resultados canónicos sí se versionan
+fase2/.gemini/
+fase2/pilot/archivo/
+fase2/estado/snapshots/
+fase2/temp_prompt_*.md
+fase2/launch_*.ps1
+fase2/monitor_*.py
+fase2/reporte_*.txt
+fase2/*.py
+fase2/*.ps1

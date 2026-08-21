@@ -1,0 +1,898 @@
+{
+  "documento": {
+    "num_muestra": 122,
+    "titulo": "Transición energética de la República Dominicana: ¿cómo las estrategias de descarbonización del sector eléctrico aceleran la participación del sector privado en la contribución determinada a nivel nacional CDN?",
+    "autoria": "Rafael Berigüete, Omar Ramírez Tejada, Luis Miguel Galindo, José Eduardo Alatorre",
+    "handle": "https://hdl.handle.net/11362/46482",
+    "simbolo": "LC/TS.2020/151",
+    "isbn": null,
+    "fecha": "2020",
+    "tipo_documento": "Documentos de Proyectos",
+    "paginas_cuerpo": 46,
+    "paginas_totales": 52,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cómo pueden alinearse y acelerarse las estrategias de descarbonización y las inversiones privadas en energías renovables en el sector eléctrico de la República Dominicana para cumplir con las metas de mitigación de la Contribución Determinada a Nivel Nacional (NDC) y fortalecer la resiliencia y adaptación del sistema frente al cambio climático?",
+    "alcance": {
+      "ambito_aplicacion": "República Dominicana (Sistema Eléctrico Nacional Interconectado SENI y sistemas aislados)",
+      "referentes_dependencias": "Experiencias internacionales y regionales de transición energética (IRENA, BID, CEPAL, CMNUCC)",
+      "sectorial": "Sector eléctrico (generación térmica y renovable, transmisión, distribución y comercialización, autoproducción y sistemas aislados) e interrelaciones con transporte, industria, agua y edificación",
+      "temporal": "2000-2030 (con datos base 2010-2019 y proyecciones de escenarios de descarbonización y metas NDC al 2025 y 2030)"
+    },
+    "hallazgos_principales": [
+      "La matriz de capacidad instalada del SENI (4 921,0 MW en 2020) depende predominantemente de combustibles fósiles importados (26,1% motores de combustión interna y 23,6% ciclo combinado), mientras que las renovables alcanzan el 24,0% (1 180,2 MW incluyendo hidroeléctricas, eólica, solar y biomasa) (p. 21).",
+      "La generación eléctrica se expandió un 83% entre 2015 y 2019 (de 9 522 GWh a 17 411 GWh), elevando la participación de fuentes renovables del 1,90% en 2015 al 11,90% en 2019 gracias a la entrada de proyectos privados bajo la Ley No. 57-07 y el programa CDEEE-Renovables (p. 22).",
+      "Las pérdidas del sistema de distribución alcanzaron 4 085,5 GWh en 2019, de las cuales el 54,4% correspondieron a transporte y distribución técnica y el 45,6% a conexiones ilegales, representando una grave vulnerabilidad financiera y operativa (p. 25).",
+      "El análisis prospectivo de emisiones demuestra que ninguno de los escenarios de expansión tendencial ni los planes previos (PIEGE escenario 5 con 25% renovables al 2025, o IRENA con 27% al 2030) permite alcanzar la meta de la NDC de limitar las emisiones a 9,85 MtCO2eq al 2030; para lograr 10 MtCO2eq se requiere triplicar la generación renovable hasta alcanzar un 60% de participación en 2030 (p. 35-36).",
+      "El sector eléctrico presenta una elevada vulnerabilidad física ante el cambio climático (riesgos térmicos en líneas, reducción de caudales hidroeléctricos e impactos de ciclones en infraestructura), por lo que se requiere articular la mitigación con medidas de adaptación en redes y cuencas, y crear un Observatorio de NDCs para el sector eléctrico (p. 39-42, 47-48)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El sector eléctrico de la República Dominicana es el principal emisor nacional de gases de efecto invernadero (11 MtCO2eq en 2010, 30% del total nacional) y el eje vertebrador de la mitigación del país.",
+        "Los compromisos inerciales y las trayectorias de expansión actuales son insuficientes para alcanzar la meta sectorial de la NDC al 2030 (9,85 MtCO2eq), exigiendo un desacoplamiento profundo entre el crecimiento del PIB y las emisiones mediante transformaciones estructurales.",
+        "La aceleración de la inversión privada a través de mecanismos como subastas competitivas, 'ventanilla única' y reducción de riesgos regulatorios es indispensable para elevar la cuota de renovables hacia niveles compatibles con las metas climáticas.",
+        "La adaptación climática de la infraestructura eléctrica (líneas, subestaciones, gestión hidrológica de embalses y sistemas distribuidos) es una condición previa para garantizar la seguridad energética y la resiliencia ante eventos hidrometeorológicos extremos."
+      ],
+      "recomendaciones": [
+        "Revisar y actualizar la NDC del sector eléctrico incorporando el portafolio ampliado de proyectos renovables y una meta cuantitativa explícita de reducción de intensidad de emisiones.",
+        "Avanzar en la concertación del Pacto Eléctrico para resolver deficiencias estructurales, reducir pérdidas de distribución en al menos un 15% al 2030 y transparentar las tarifas y la gobernanza institucional.",
+        "Implementar subastas de energía renovable a largo plazo (26 áreas eólicas y 24 solares) y consolidar el mecanismo de ventanilla única interinstitucional para reducir plazos de tramitación.",
+        "Introducir esquemas de incentivos de mercado como bonos verdes ('green bonds') y certificados de energía renovable ('green tags'), y racionalizar los aranceles de importación para tecnologías y electrodomésticos eficientes.",
+        "Constituir formalmente el Observatorio de Energía Sostenible y NDCs en el sector eléctrico como plataforma multiactor de gobernanza, seguimiento técnico, MRV y asistencia técnica especializada."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "El estudio analiza la situación integral del Sistema Eléctrico Nacional Interconectado (SENI) y de los sistemas aislados de la República Dominicana, evaluando el desempeño de la generación, transmisión, distribución y comercialización. Examina el marco normativo de fomento a las energías renovables (Ley No. 57-07, Ley No. 125-01 y Ley No. 1-12) y documenta las inversiones privadas y públicas en energía eólica, solar, biomasa e hidroelectricidad, junto con el crecimiento del programa de medición neta. A través de simulaciones prospectivas de emisiones de GEI, el documento dictamina que las trayectorias de planificación vigentes no son suficientes para cumplir la meta de la NDC al 2030 (9,85 MtCO2eq), por lo que propone elevar la ambición hacia una participación de hasta 60% de renovables. Asimismo, evalúa la vulnerabilidad física del sistema frente a amenazas climáticas como el estrés térmico, huracanes y sequías en cuencas hidroeléctricas, detallando medidas de adaptación operativa y estructural. Finalmente, formula un paquete de reformas normativas y de mercado, e introduce la propuesta de diseño y puesta en marcha de un Observatorio de NDCs en el sector eléctrico para articular a actores públicos, privados, académicos y organismos internacionales."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "19-20",
+      "resumen": "La sección introduce el marco global del Acuerdo de París y las Contribuciones Nacionalmente Determinadas (NDC), situando al sector eléctrico dominicano como el eje central de mitigación y seguridad energética nacional con interrelaciones clave con el transporte y el recurso hídrico. Plantea la necesidad de revisar los presupuestos sectoriales de carbono y movilizar financiamiento y alianzas público-privadas como el Programa CDEEE-Renovables para acelerar la descarbonización.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "En diciembre de 2015, la comunidad internacional ad optó el Acuerdo de París sobre cambio climático, que tiene por objeto mantener el aumento de la temperatura mundial por debajo de los 2 °C con respecto a los niveles preindustriales y realiza r esfuerzos para limitar dicho aumento a 1.5 °C.",
+          "pagina": 19
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Este estudio presenta el panorama general del sector eléctrico de la República Dominicana y sus avances hacia la consolidación del marco de polític as para la transición energética.",
+          "pagina": 19
+        },
+        {
+          "dimension": "oportunidades",
+          "cita": "Esta diferencia, pres entan una oportunidad de movilizar más financiamiento climático hacia los plantes y estrategias de descarbonización del sector eléctrico y para el fortalecimiento de las capacidades de sus princi pales actores.",
+          "pagina": 20
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Se incluyen también, dentro de los apéndices, una propuesta de creación de un Observatorio de NDCs para el sector eléctrico. Este, tendría el rol de reforzar las capacidades nacionales, individuales e institucionales, para el diseño, aplicación y super visión de estrategias, planes y políticas de energí a sostenible basados en evidencia",
+          "pagina": 20
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Sector eléctrico dominicano",
+      "nivel": 1,
+      "paginas": "21-26",
+      "resumen": "El capítulo presenta la caracterización exhaustiva de la infraestructura, marco institucional y desempeño operativo del sistema eléctrico dominicano. Cubre el parque de generación del SENI, las redes de transmisión en alta tensión, el esquema de distribución y comercialización pública con sus niveles de pérdidas, así como los autoproductores industriales y los sistemas aislados.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Generación",
+          "nivel": 2,
+          "paginas": "21-24",
+          "resumen": "Analiza la composición técnica de la capacidad instalada y la matriz de generación de electricidad del SENI, detallando la dependencia de combustibles fósiles importados y el incremento gradual de fuentes renovables, así como su distribución geográfica y provincial.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Generación de electricidad",
+              "nivel": 3,
+              "paginas": "22-23",
+              "resumen": "Detalla la evolución de la inyección de energía al SENI hasta 17 411,5 GWh en 2019 y las pérdidas en transmisión del 1,90%. Expone que aunque los derivados de petróleo han dominado históricamente (48%-58%), las energías renovables aumentaron del 1,90% en 2015 al 11,90% en 2019, en un contexto de crecimiento del 83% de la demanda total de generación en cuatro años.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "En cuanto a la generación de energía, al 31 de diciembre del 2019, los agentes del sector reportan que el total de inyección de las unidades generadoras fue 17 411,5 GWh.",
+                  "pagina": 22
+                },
+                {
+                  "dimension": "tendencias",
+                  "cita": "Las fuentes renovables se han incrementado ligerame nte en la última década, al pasar de 1,90% en el 2015 a 11,90% en 2019 (OC, 2020). Otras fuentes como carbón mineral, gas natural y las hidroeléctricas, han disminuido sus aportes a la generación, pero aú n conservan una participación significativa (véase gráfico 3).",
+                  "pagina": 22
+                },
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Como la República Dominicana no dispone de reservas probadas de petróleo, carbón o gas, la generación eléctrica es altamente dependiente de combustibles importados (crudos y procesados).",
+                  "pagina": 22
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Distribución geográfica",
+              "nivel": 3,
+              "paginas": "23-24",
+              "resumen": "Describe la distribución espacial de la potencia eléctrica instalada en el territorio nacional, destacando la concentración en las regiones suroeste y norte (donde se ubican las centrales hidroeléctricas y térmicas) y la preeminencia provincial de Santo Domingo (24,7%) y San Pedro de Macorís (21,7%).",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "La capacidad instalada del SENI tiene el mayor nivel de concentración en las regiones suroeste y norte, con 28,4% y 25,1%, respectivamente. Ambas regiones agrupan todas las centrales hidroeléctricas del país, así como también centrales térmicas.",
+                  "pagina": 23
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Transmisión",
+          "nivel": 2,
+          "paginas": "24",
+          "resumen": "Describe la infraestructura de la Empresa de Transmisión Eléctrica Dominicana (ETED), compuesta por 5 462 km de líneas de alta tensión (69, 138, 230 y 345 kV) y 5 015 MVA de capacidad de transformación que alimentan los centros de consumo Centro, Este, Norte y Sur, constituyendo un activo clave para evacuar la energía renovable.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "La transmisión de electricidad relevante al SENI es realizada por la ETED, empresa propiedad del Estado. El Sistema de Transmisión alimenta cuatro grandes centros de consumo (Centro, Este, Norte y Sur). Esta red cuenta con 5,462 km de líneas de transmisión en voltajes de diseño de 69, 138, 230 y 345 kV",
+              "pagina": 24
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Distribución y comercialización",
+          "nivel": 2,
+          "paginas": "24-25",
+          "resumen": "Examina la estructura operativa de las tres empresas distribuidoras estatales (EDEESTE, EDENORTE, EDESUR) bajo la coordinación de la CDEEE, analizando los volúmenes de compra, pérdidas comerciales y técnicas, y la composición de la cartera de clientes regulados y no regulados.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Distribución",
+              "nivel": 3,
+              "paginas": "25",
+              "resumen": "Analiza las compras de energía de las distribuidoras (14 203,2 GWh a 12,88 US¢/kWh en 2019) y diagnostica el grave problema de pérdidas eléctricas (4 085,5 GWh), donde el 54,4% corresponde a ineficiencias de transporte/distribución y el 45,6% a conexiones clandestinas, afectando la solvencia y eficiencia de la red.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Al 2019, las compras de energía eléctrica de las empresas distribuidoras ascendieron a 14 203.2 GWh, a un precio promedio de 12,88 US¢/kWh.",
+                  "pagina": 25
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "En cuanto a las pérdidas, en el 2019 estas fueron de 4 085,5 GWh. De este valor, el 54,4% (2 222,5 GWh) se originan en el transporte y distribución, y 45,6 % (1 863,0 GWh) son provocadas por conexiones ilegales .",
+                  "pagina": 25
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Comercialización",
+              "nivel": 3,
+              "paginas": "25",
+              "resumen": "Caracteriza la cartera de más de 2,52 millones de clientes del sector, donde el segmento residencial representa el 91,3% de los usuarios y el 42,7% de la facturación, seguido por el industrial con el 22,2% de energía servida y los Usuarios No Regulados (UNR) con el 14,4%, definiendo patrones de demanda prioritarios para políticas de eficiencia.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Las Empresas Distribuidoras de Electricidad reportan que, al 2019, tienen una cartera total de 2 527,2 37 clientes, a quienes le facturan 11 059,4 GWh. Esta facturación representa 73,0% de la generación nacional de electricidad.",
+                  "pagina": 25
+                },
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "De todos los sectores, el residencial es el de mayor participación, con 91,3% de los clientes y 42,7% de la facturación. El sector comercial ocupa la segunda posición en cuanto al número de clientes (7,3%) y el industrial representa apenas 0,7%.",
+                  "pagina": 25
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "D. Autoproductores",
+          "nivel": 2,
+          "paginas": "26",
+          "resumen": "Analiza la autoproducción industrial y comercial (estimada en 2 309,2 MW y 2 674,17 GWh) como respuesta a fallas históricas de confiabilidad del SENI, y destaca el rápido despegue del Programa de Medición Neta con tecnología solar fotovoltaica, que alcanzó 131,17 MW y 4 927 clientes certificados al 2019.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Debido a las tradicionales limitaciones del SENI (por interrupciones, o por condiciones precio, calidad o estabilidad del servicio) muchos usuarios, sobre todo industriales y comerciales, optan por autoabastecer sus requerimientos de electricidad.",
+              "pagina": 26
+            },
+            {
+              "dimension": "avances_implementacion",
+              "cita": "A la potencia anteriormente indicada, se le puede s umar las incorporaciones de capacidad con tecnología renovable del Programa de Medición N eta, que totaliza 131,17 MW al 2019 (véase gráfico. 5). Desde el 2011 este programa ha otorgado 4927 certificaciones a sistemas fotovoltaicos a un igual número de clientes",
+              "pagina": 26
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Sistemas aislados",
+          "nivel": 2,
+          "paginas": "26",
+          "resumen": "Evalúa los 9 sistemas eléctricos aislados regulados bajo la Ley 14-90 (con 270,7 MW de capacidad y 1 025,5 GWh producidos en 2020), los cuales abastecen zonas turísticas y remotas pero presentan una matriz altamente intensiva en carbono (91,4% fuel oil, 6,5% gas natural y 2,5% diésel), demandando intervenciones de descarbonización local.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Bajo la Ley 14-90 sobre Incentivo al Desarrollo Eléctrico Nacional, se permitió la instalación de sistemas eléctricos aislados de la red nacional, los cuales desarrollan toda la cadena de valor desde la generación hasta la distribución y comercialización.",
+              "pagina": 26
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Los sistemas aislados producen 1 025,5 GWh (2020), donde el 91,4 % es generado a partir de fuel oil, 6,5% con gas natural y el 2,5% restante c on diésel. La demanda de los usuarios de estos sistemas es 879,9 GWh.",
+              "pagina": 26
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "II. Rol de las energías renovables",
+      "nivel": 1,
+      "paginas": "27-31",
+      "resumen": "Este capítulo aborda el papel estratégico de las energías renovables en la transformación energética nacional. Analiza el marco de políticas e incentivos de la Ley 57-07, el inventario de inversiones privadas materializadas (1 239 millones de USD), la cartera de proyectos en tramitación, el potencial técnico eólico y solar, y las reformas requeridas en el marco del Pacto Eléctrico.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Políticas",
+          "nivel": 2,
+          "paginas": "27-28",
+          "resumen": "Revisa el marco normativo y los instrumentos de política pública que impulsan las energías renovables y la sostenibilidad ambiental en el país, examinando la legislación general y el esquema de incentivos tributarios y tarifarios.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Legislación relevante",
+              "nivel": 3,
+              "paginas": "27-28",
+              "resumen": "Sistematiza las leyes pilares del sector: Ley General de Electricidad (125-01 / 186-07), Ley de Incentivos a las Energías Renovables (57-07 / 253-12), Ley de Vehículos No Convencionales (103-13), Ley de Medio Ambiente (64-00) y la Estrategia Nacional de Desarrollo 2030 (Ley 1-12), articulando el mandato de descarbonización y diversificación.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "• Ley de lncentivos al Desarrollo de las Fuentes Renov ables de Energía y sus Regímenes Especiales (Ley No. 57-07), modificada por la Ley N o. 253-12, cuyos objetivos están orientados, a partir de la promoción de proyectos c on fuentes renovables, en aras de: aumentar la diversidad energética del país, reducir la dependencia de las combustibles fósiles importados y mitigar los impactos ambiental es negativos de las actividades energéticas que utilizan combustibles fósiles.",
+                  "pagina": 27
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "De manera transversal, la Ley No. 1-12 que establec e la Estrategia Nacional de Desarrollo 2030, establece los objetivos y acciones a implementar para convertir a la Republica Dominicana, entre otras cosas, en un país próspero \" que gestiona y aprovecha sus recursos para desarrollarse de forma innovadora, sostenible y territorialmente equilibrada e integrada y se inserta competitivamente en la economía global \".",
+                  "pagina": 28
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Incentivos establecidos",
+              "nivel": 3,
+              "paginas": "28",
+              "resumen": "Expone el paquete de incentivos económicos y fiscales contemplados en la Ley No. 57-07 para proyectos de energía limpia, incluyendo exenciones arancelarias y de ITBIS para equipos, exenciones de impuesto sobre la renta (ISR), créditos fiscales por inversión y esquemas tarifarios preferenciales.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "El marco de incentivos a las fuentes de generación renovable, se resumen en la siguiente figura.",
+                  "pagina": 28
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Inversiones",
+          "nivel": 2,
+          "paginas": "28-29",
+          "resumen": "Cuantifica las inversiones privadas materializadas en el SENI entre 2011 y 2020 al amparo de la Ley 57-07, totalizando 14 proyectos eólicos, solares y de biomasa con una potencia acumulada de 558,55 MW y una inversión de 1 239 millones de USD (parques Los Cocos, Larimar, Monte Plata, Montecristi, Agua Clara, entre otros).",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "Dentro del marco de incentivos establecidos para las energías renovables, se han materializado distintas inversiones orientadas al sector eléctrico. Un resumen de dichas iniciativas, se indica en el cuadro 4.",
+              "pagina": 28
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Proyectos",
+          "nivel": 2,
+          "paginas": "29",
+          "resumen": "Analiza el portafolio en trámite ante la Comisión Nacional de Energía (CNE), compuesto por 50 iniciativas de energía renovable (15 con concesión definitiva, 20 con concesión provisional y 15 en trámite), con fuerte predominio de la energía solar (31 proyectos) y eólica (5 proyectos), reflejando un marcado apetito privado.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "Según reporta la CNE, actualmente existen 50 inicia tivas de energía renovables en proceso de tramitación. De estas, 15 tienen concesión definiti va, 20 concesión provisional y 15 están siendo tramitadas (véase cuadro 5).",
+              "pagina": 29
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Perspectivas",
+          "nivel": 2,
+          "paginas": "29-31",
+          "resumen": "Evalúa el potencial de expansión de las energías renovables al 2030, las innovaciones operativas del programa CDEEE-Renovables y las reformas estructurales pendientes en el marco del Pacto Eléctrico.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Potencial renovable",
+              "nivel": 3,
+              "paginas": "29-30",
+              "resumen": "Destaca el enorme potencial renovable del país (2,0 GW eólico, 1,8 GW solar y 0,9 GW hidroeléctrico aprovechable), que permitiría triplicar la generación renovable y alcanzar hasta un 44% de participación al 2030, con co-beneficios directos para transporte, industria, edificación y agua.",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "República Dominicana tiene un potencial significativ o para para aumentar la participación de las energías renovables (hasta un 44% al 2030), basándo se esencialmente en energía solar, eólica y bioenergía (IRENA, 2017). En general, en la matriz del sector eléctrico, la cuota de renovables podría triplicarse al 2030.",
+                  "pagina": 29
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "A fin de aprovechar este potencial, la República Do minicana tiene que superar desafíos institucionales, económicos y técnicos. En el caso del sector eléctrico, CEPAL (2019) e IRENA (2017) sugieren medidas para abordar las cuestiones relaci onadas con la adecuación y flexibilidad de la generación, asegurando el desarrollo de redes eléct ricas.",
+                  "pagina": 30
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Innovaciones y avances",
+              "nivel": 3,
+              "paginas": "30",
+              "resumen": "Detalla las medidas del Programa Portafolio CDEEE-Renovables: inversión estatal en 10 proyectos para alcanzar 558,55 MW, creación de una comisión interinstitucional de evaluación expedita, ventanilla única de permisos, diseño de subastas competitivas para 26 áreas eólicas y 24 solares, y fortalecimiento de capacidades.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Para estimular el avance de las renovables, el sect or ha puesto en marcha el Portafolio CDEEE Renovables, que consiste en un programa de fortaleci miento de capacidades institucionales para tramitar proyectos de energía renovable con impacto en el sistema eléctrico.",
+                  "pagina": 30
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "• Diseñar e implementar un mecanismo de procedimientos simplificados (“ventanilla única”) para la tramitación de los proyectos que deben cursar por múltiples instituciones del gobierno. • Implementar subastas de energía renovable para 26 á reas con potencial eólico y 24 con potencial solar.",
+                  "pagina": 30
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Potenciales reformas",
+              "nivel": 3,
+              "paginas": "30-31",
+              "resumen": "Analiza las barreras institucionales y políticas que han impedido consensuar el Pacto Eléctrico, delineando una agenda de 10 reformas críticas: definición del rol estatal vs mercado, despolitización, reestructuración de distribuidoras, reducción de pérdidas, sinceramiento tarifario e integración de la variable climática.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Aunque el gobierno ha desarrollado una serie de pla nes para alcanzar la sostenibilidad del sector eléctrico, estos no han podido implementarse de man era completa o consistente. Debilidades institucionales y regulatorias, retrocesos políticos y oposición de intereses son las grandes barreras que enfrenta el sector.",
+                  "pagina": 30
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "• Decidir sobre el papel apropiado del estado versus el mercado en el sector energético; • Redefinir las funciones de las instituciones del sec tor y aumentar la transparencia de sus operaciones; • Despolitizar los procesos de toma de decisiones en todos los niveles del sector",
+                  "pagina": 31
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "A pesar de que el pacto se ha promovido como la solución a los problemas estructurales del sector, este no ha podido ser consensuado por los actores relevantes.",
+                  "pagina": 31,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "III. Emisiones y planes bajo la NDC",
+      "nivel": 1,
+      "paginas": "33-37",
+      "resumen": "El capítulo realiza una evaluación técnica exhaustiva de la meta de mitigación de la NDC para el sector eléctrico (9,85 MtCO2eq al 2030 frente al BAU de 18 MtCO2eq). Contrasta los instrumentos climáticos (Plan DECCC) y energéticos (PIEGE, IRENA, BID), modela escenarios prospectivos con el simulador de emisiones de CEPAL y formula la estrategia de alineación sectorial.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Evaluación de la NDC del sector",
+          "nivel": 2,
+          "paginas": "33-37",
+          "resumen": "Evalúa los supuestos, consistencia y viabilidad técnica de los compromisos climáticos del sector eléctrico a la luz de los instrumentos oficiales de planificación y la modelación prospectiva.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Instrumentos de política climática",
+              "nivel": 3,
+              "paginas": "33-34",
+              "resumen": "Analiza el Plan DECCC y el INGEI 2010 (11 MtCO2eq, 30% del total nacional), mostrando que la trayectoria tendencial (BAU) elevaría las emisiones a 18 MtCO2eq en 2030 (+35%), mientras que la meta de la Tercera Comunicación Nacional y la NDC busca reducirlas a 9,85 MtCO2eq (-60% respecto al BAU).",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Según el Plan de Desarrollo Económico de la Repúbli ca Dominicana Compatible con el Cambio Climático (Plan DECCC), el sector eléctrico representa más de un tercio del potencial de abatimiento de la República Dominicana (CNCCMDL, 2011).",
+                  "pagina": 33
+                },
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "En el INGEI 2010 (PNUD, 2015), se indica que el sec tor eléctrico es el mayor emisor de GEI, con un volumen anual de 11 M tCO 2eq, que representa el 30% del total de emisiones de GEI del país a ese año.",
+                  "pagina": 33
+                },
+                {
+                  "dimension": "tendencias",
+                  "cita": "A partir de este punto, en el DECCC, y bajo la premisa del escenario tendencial (BAU), la contribución del sector eléctrico aumentaría más de 35%, pasando de 11 M tCO 2eq en el 2010 a 18 M tCO 2eq en el 2030.",
+                  "pagina": 33
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Instrumentos de política energética",
+              "nivel": 3,
+              "paginas": "34",
+              "resumen": "Examina el Plan Indicativo de la Generación (PIEGE) de la CNE, en particular su escenario 5 (25% renovables al 2025), el cual arroja un promedio de emisiones de 16,9 MtCO2eq entre 2013 y 2030, demostrando una grave inconsistencia frente al techo de 9,85 MtCO2eq de la NDC.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "El Plan Indicativo de la Generación del Sector Eléctrico Dominicano -PIEGE, utiliza un modelo hidrotérmico para simular la operación futura del sistema. De este documento, se destaca el escenario 5 (PIEGE 5), cuya premisa de análisis es considerar el 25% de la generación de energía al 2025 sea proveniente de fuentes renovables no (CNE, 2014).",
+                  "pagina": 34
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "El promedio anual de emisiones para este escenario, en el período 2013-2030 es de 16,9 M tCO 2eq, con un estimado de 8,39 M tCO 2eq en el 2013.",
+                  "pagina": 34,
+                  "subtipo_brecha": "prospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Dictamen sobre la consistencia de la NDC",
+              "nivel": 3,
+              "paginas": "35-36",
+              "resumen": "Dictamina categóricamente que ninguno de los escenarios de expansión vigentes (IRENA con 27% renovables y 12,4 MtCO2eq; BID A con 19,7 MtCO2eq; BID B con 15,45 MtCO2eq) logra la meta NDC. Mediante simulaciones prospectivas de CEPAL, concluye que alcanzar 10 MtCO2eq exige triplicar la generación renovable hasta alcanzar un 60% de penetración al 2030.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Ninguno de los escenarios de expansión previstos pa ra el sector eléctrico logrará cumplir de la meta NDC.",
+                  "pagina": 35
+                },
+                {
+                  "dimension": "tendencias",
+                  "cita": "El escenario inercial (Bussiness As Usual -BAU-) al 2030 considera un crecimiento del PIB de 5%, similar al observado históricamente, una evolución de la eficiencia energética similar a la observada para el periodo 2010 – 2017 y una penetración de re novables tendencial.",
+                  "pagina": 35
+                },
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Estas tasas de crecimiento implican tri plicar la generación por renovables (cuadro 7).",
+                  "pagina": 36
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Esto es, alcanzar las metas establecías de mitigación en el sector eléctrico requiere de profundizar un desa coplamiento de la trayectoria el producto de las emisiones de CO2eq a través, por ejemplo, de profun dizar la participación de las energías renovables, avanzar en los programas de ahorro de e nergía y de eficiencia energética y de considerar el uso de diversos instrumentos económic os.",
+                  "pagina": 36
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Barreras y limitaciones de los instrumentos",
+              "nivel": 3,
+              "paginas": "37",
+              "resumen": "Identifica vacíos críticos de información y monitoreo de emisiones: el desfase temporal de los inventarios oficiales (último INGEI formal a 2010 e informe parcial 2015) impide contar con una base de datos actualizada y transparente para verificar cuantitativamente los avances de mitigación del sector.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Dado que el último INGEI reportado incluye las emisiones al 2010, y la Tercera Comunicación Nacional reporta las medidas de mitigación a partir del 2018, no es posible determinar un estado cuantificable de los avances en materia de mitigación de emisiones.",
+                  "pagina": 37
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Esfuerzo requerido para cumplir con la NDC",
+              "nivel": 3,
+              "paginas": "37",
+              "resumen": "Valora el nivel de esfuerzo requerido como 'Medio-Alto'. Señala que a pesar de consultas sectoriales y de la hoja de ruta de NDC Partnership (2019), persisten retrasos en implementación, priorización y financiamiento, requiriendo un esfuerzo significativamente mayor al estimado inicialmente.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "La valoración relativa sobre el nivel de esfuerzo requerido para el cumplimiento de la meta de la NDC al 2030 se considera como Media-Alta (es decir, requie re de más información y análisis para pasar a una etapa de compromisos).",
+                  "pagina": 37
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "A pesar de los avances logrados, y de que se ha pro ducido un mapa de ruta (NDC Partnership, 2019), no se perciben avances en la im plementación, priorización o en las estrategias de financiamiento.",
+                  "pagina": 37,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Estrategias y planes bajo la NDC",
+          "nivel": 2,
+          "paginas": "37",
+          "resumen": "Sintetiza la agenda de alineación de la CDEEE para elevar la ambición de la NDC sectorial, articulando metas al 2025 (25% renovables) y 2030 (reducción de pérdidas en 15% y orden de mérito de intensidad carbónica) con sistemas de MRV, instrumentos de financiamiento y reducción del costo marginal.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Bajo la coordinación de CDEEE, el sector eléctrico se enfoca en la alineación de las metas planteadas en la NDC con los planes y estrategias del sector a corto y mediano plazo, con miras a aumentar la ambición sectorial.",
+              "pagina": 37
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Vulnerabilidad y adaptación",
+      "nivel": 1,
+      "paginas": "39-42",
+      "resumen": "El capítulo evalúa los riesgos climáticos actuales y futuros que amenazan la infraestructura y operación del sistema eléctrico (estrés térmico, huracanes, ascenso del nivel del mar y sequías en hidroeléctricas). Plantea opciones de adaptación técnica e institucional articuladas con el Plan Nacional de Adaptación (PNACC) y detalla las barreras y acciones prioritarias.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Impactos del cambio climático",
+          "nivel": 2,
+          "paginas": "39-41",
+          "resumen": "Examina la cadena de vulnerabilidad biofísica del sector eléctrico, distinguiendo los impactos climáticos observados de las proyecciones futuras sobre la generación térmica, hidroeléctrica y redes de transmisión.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Vulnerabilidad climática actual",
+              "nivel": 3,
+              "paginas": "39-40",
+              "resumen": "Detalla las afectaciones en curso: distensión y pérdidas térmicas en líneas eléctricas, sobrepresión en la demanda por climatización, degradación acelerada de equipos por calor y riesgos de corte o daño severo por eventos extremos y ascenso del nivel del mar en infraestructura costera.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "El cambio climático tiene un impacto significativo en el sector eléctrico. El aumento de la temperatura, el creciente número y severidad de los eventos extremos, el cambio de los patrones de precipitación y la subida del nivel del mar, afectan la producción, suministro y demanda de energía (Bruckner et al., 2014).",
+                  "pagina": 39
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "Los eventos climáticos extremos y las temperaturas más altas pueden afectar la eficiencia de las centrales de generación. Los impactos sobre las lín eas de transmisión y distribución de electricidad pueden conducir a la interrupción o pérdida completa del suministro de electricidad y fluctuaciones de voltaje, que puede dañar los equipos eléctricos.",
+                  "pagina": 39
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Vulnerabilidad climática prevista",
+              "nivel": 3,
+              "paginas": "40-41",
+              "resumen": "Proyecta los impactos futuros: olas de calor que multiplicarán la demanda eléctrica poniendo en riesgo centros de salud y poblaciones vulnerables, alteraciones de regímenes de lluvia que comprometerán caudales de hidroeléctricas y biomasa, y riesgos logísticos en puertos y transporte de combustibles por tormentas.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "El calor extremo aumentará la demanda de refrigeración y enfriamiento, poniendo aún más presión sobre el suministro eléctrico. Así también, las interrupciones, en esta s circunstancias, cuando no se dispone de abanicos o aires acondicionados, plantea riesgos adicionales p ara la salud de grupos vulnerables (ancianos y discapacitados) y centros de salud.",
+                  "pagina": 40
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "La generación de energía hidroeléctrica, en particu lar, es especialmente vulnerable al cambio climático, debido a su dependencia directa de factores hidrológicos, incluyendo precipitaciones, y el volumen y estacionalidad de los flujos.",
+                  "pagina": 40
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Opciones de adaptación disponibles",
+          "nivel": 2,
+          "paginas": "41-42",
+          "resumen": "Presenta el marco de adaptación sectorial, enfatizando la complementariedad y sinergia entre mitigación y resiliencia en el marco del Plan Nacional de Adaptación (PNACC).",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Adaptación en el marco de la NDC",
+              "nivel": 3,
+              "paginas": "41",
+              "resumen": "Enfatiza que la adaptación es la prioridad nacional máxima de la República Dominicana bajo el Plan Nacional de Adaptación (PNACC RD 2015-2030). Exige maximizar sinergias entre mitigación y adaptación y realizar con urgencia una evaluación económica precisa de la vulnerabilidad y costos de adaptación del sistema eléctrico.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Si bien el enfoque de los planes de acción del sector eléctrico es la sostenibilidad financiera, y la mitigación se limita a contribuir con el objetivo de reducción de emisiones establecido en la NDC, la prioridad de la República Dominicana sigue siendo la adaptación y a umentar la resiliencia a los impactos del cambio climático.",
+                  "pagina": 41
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "Por ello, se requiere, con carácter de urgencia, realizar una evaluación más precisa de la vulnerabilidad del sector eléctrico ante el cambio climático, que incluya medidas de adaptación y sus costos asociados.",
+                  "pagina": 41
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2.Opciones disponibles para el sector",
+              "nivel": 3,
+              "paginas": "41-42",
+              "resumen": "Propone medidas de adaptación operativas: programas de eficiencia energética para modular picos de demanda, sistemas distribuidos con fuentes renovables y cogeneración para amortiguar cortes de transmisión, diseño pasivo en edificaciones, solución a pérdidas y gestión diferenciada del recurso hídrico en cuencas hidroeléctricas.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "• Los programas de conservación y eficiencia pueden r educir la demanda máxima de electricidad y limitar el riesgo de apagones, mient ras que el desarrollo de sistemas distribuidos (que involucran cogeneración y el uso de fuentes renovables) puede amortiguar los efectos de las interrupciones en la transmisión .",
+                  "pagina": 42
+                },
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Al mismo tiempo, estas inversiones también pueden generar múltiples beneficios potenci ales: ahorro financiero, creación de empleo, aparición de nuevos negocios y menos polución.",
+                  "pagina": 42
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "• En lo referente a la generación hidroeléctrica, se pueden adoptar medidas diferenciadas para la infraestructura de generación (centrales hi droeléctricas) y adaptaciones generales que permiten un mejor aprovechamiento del recurso hídrico de las cuencas.",
+                  "pagina": 42
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Limitaciones, barreras y desafíos",
+          "nivel": 2,
+          "paginas": "42",
+          "resumen": "Sintetiza las barreras multisectoriales y formula recomendaciones prioritarias de acción inmediata para viabilizar la transición y resiliencia del sector eléctrico.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Acciones requeridas en otros sectores",
+              "nivel": 3,
+              "paginas": "42",
+              "resumen": "Enumera cinco líneas de acción intersectorial complementarias: planes de mitigación y eficiencia en industria y edificación, concienciación ciudadana, estándares de vivienda baja en carbono, instrumentos de mercado como bonos verdes ('green bonds') y certificados ('green tags'), y exenciones arancelarias a equipos eficientes.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "• Introducción de esquemas de incentivos de mercado para promover la generación de energía renovable principalmente por el sector privado, como los “green tags” y los “greeen bonds”. • Racionalización del impuesto a la importación y todos los derechos aplicables para promover electrodomésticos y materiales de construcción importados eficientes energéticamente.",
+                  "pagina": 42
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Limitaciones que requieren acción inmediata",
+              "nivel": 3,
+              "paginas": "42",
+              "resumen": "Identifica las cuatro medidas críticas e inmediatas: asignación presupuestaria explícita para la descarbonización, mitigación del riesgo financiero percibido por inversionistas, agilización de trámites de permisos ('ventanilla única') y fortalecimiento continuo de capacidades institucionales del sector.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Entre estas, la más importantes son destinar una asignación presupuestaria para promover la descarbonización, implementar medidas para reducir el riesgo percibido para las inversiones, a gilizar los procesos de otorgamiento de permisos, y continuar los esfuerzos de desarrollo y fortalecimiento de capacidades a las entidades del sector.",
+                  "pagina": 42
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "Si bien existen razones sobradas para apoyar la tra nsición energética y el suministro eléctrico bajo e n carbono, hay algunas acciones que requieren atenció n inmediata.",
+                  "pagina": 42
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "Apéndice Necesidad de un observatorio de NDCs en el sector eléctrico",
+      "nivel": 1,
+      "paginas": "47-48",
+      "resumen": "El apéndice desarrolla la propuesta integral para constituir el Observatorio de Energía Sostenible y NDCs en el sector eléctrico dominicano. Define su misión articuladora, público meta multisectorial, valor agregado para la planificación energética y compromisos de asistencia técnica y gobernanza climática.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Introducción",
+          "nivel": 2,
+          "paginas": "47",
+          "resumen": "Plantea la justificación institucional del Observatorio para reforzar capacidades de diseño y supervisión de políticas basadas en evidencia, integrando iniciativas dispersas como indicadores de eficiencia energética, acceso a energía y el comité de descarbonización.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Con el observatorio, se busca integrar diferentes i niciativas, actuales existentes, en el sector energía, de manera de aunar esfuerzos, propiciar el entendimiento y visión compartida de los actores, y establecer las directrices para la descarbonización del sector.",
+              "pagina": 47
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Público meta",
+          "nivel": 2,
+          "paginas": "47-48",
+          "resumen": "Define a los beneficiarios (gobierno, empresas privadas, academia y sociedad civil) y establece que el observatorio operará como plataforma de diálogo político-técnico y medición de indicadores para el ODS 7 y ODS 13 en alianza con IEA, IRENA, OLADE, BID, Banco Mundial y ONU.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "El observatorio está dirigido a las entidades del gobierno, empresas, academia y sociedad civil, y brindará asistencia técnica a las entidades del sector, prom oviendo la cooperación inter e intra sectorial, y s e constituirá en una plataforma para el diálogo político-técnico en relación a la NDC del sector energía.",
+              "pagina": 47
+            },
+            {
+              "dimension": "avances_implementacion",
+              "cita": "Con esta iniciativa, se fortalecerán las capacidade s nacionales para la definición y análisis de indicadores energéticos que cubran las tres dimensi ones del ODS 7 (acceso universal a la energía, impulso a las energías renovables y duplicación del  impacto de la eficiencia energética); así como al ODS 13 (acción por el clima).",
+              "pagina": 47
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Valor agregado",
+          "nivel": 2,
+          "paginas": "48",
+          "resumen": "Explica el valor analítico y estratégico del observatorio: generar conocimiento prospectivo de largo plazo para articular el aprovechamiento del abundante potencial solar, eólico e hidroeléctrico con la estabilidad del suministro y la seguridad energética nacional.",
+          "dimensiones": [
+            {
+              "dimension": "oportunidades",
+              "cita": "El país cuenta con un abundante potencial de energí a solar, eólica e hidráulica, que puede contribuir significativamente a satisfacer la creciente demand a de energía de la región con fuentes sostenibles, mejorar el rendimiento económico de los sistemas, aumentar la confiabilidad del suministro eléctrico y reducir las oscilaciones estacionales.",
+              "pagina": 48
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Otro aspecto importante es que el observatorio pued e ser aprovechado por las instancias de planificación y cooperación para generar -de forma conjunta y con visión de largo plazo– el conocimiento necesario para la planificación del sistema energético nacional de forma que se garantice sus sostenibilidad, seguridad y accesibilidad, apun tando a la complementariedad en el marco de una transición energética del país.",
+              "pagina": 48
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Compromisos",
+          "nivel": 2,
+          "paginas": "48",
+          "resumen": "Establece el compromiso institucional del observatorio de acompañar a las entidades públicas y privadas para superar la transición hacia una matriz energética sostenible, eficiente e inclusiva ante las transformaciones ambientales y tecnológicas.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "El observatorio establecerá su compromiso de apoyar a las instituciones y a las empresas para sobrepasar el desafío que representa tener una matr iz energética sostenible y eficiente, que apoye la inclusión social y los cambios estructurales necesa rios en un contexto de profundos desafíos ambientales y tecnológicos.",
+              "pagina": 48
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "El documento articula una propuesta integral a escala de modelo de desarrollo para la transición y descarbonización del sector eléctrico dominicano que cumple los tres tests de big_push.md. En primer lugar (test 1), plantea un paquete coordinado de políticas públicas, reformas institucionales (Pacto Eléctrico), agilización administrativa ('ventanilla única'), subastas competitivas de energía renovable (26 eólicas y 24 solares) e inversiones masivas público-privadas a través del Programa CDEEE-Renovables. En segundo lugar (test 2), aterriza en sectores estratégicos con instrumentos concretos identificables: energía solar fotovoltaica (concesiones y medición neta), parques eólicos, biomasa, minicentrales hidroeléctricas e interconexión con electromovilidad en transporte. En tercer lugar (test 3), vincula explícitamente las tres eficiencias del Big Push: la ambiental (reducción y desacople profundo de emisiones de GEI de 18 a 9,85-10 MtCO2eq al 2030 con hasta 60% de renovables), la schumpeteriana (incorporación de tecnología de punta en generación renovable variable, redes inteligentes y modernización de transmisión) y la keynesiana (inversión acumulada de 1 239 millones de USD, ahorro financiero por menores importaciones de hidrocarburos, dinamización de nuevos modelos de negocio y generación de empleo local).",
+      "citas": [
+        {
+          "cita": "Para estimular el avance de las renovables, el sect or ha puesto en marcha el Portafolio CDEEE Renovables, que consiste en un programa de fortaleci miento de capacidades institucionales para tramitar proyectos de energía renovable con impacto en el sistema eléctrico.",
+          "pagina": 30
+        },
+        {
+          "cita": "Esto es, alcanzar las metas establecías de mitigación en el sector eléctrico requiere de profundizar un desa coplamiento de la trayectoria el producto de las emisiones de CO2eq a través, por ejemplo, de profun dizar la participación de las energías renovables, avanzar en los programas de ahorro de e nergía y de eficiencia energética y de considerar el uso de diversos instrumentos económic os.",
+          "pagina": 36
+        },
+        {
+          "cita": "• Los programas de conservación y eficiencia pueden r educir la demanda máxima de electricidad y limitar el riesgo de apagones, mient ras que el desarrollo de sistemas distribuidos (que involucran cogeneración y el uso de fuentes renovables) puede amortiguar los efectos de las interrupciones en la transmisión . Al mismo tiempo, estas inversiones también pueden generar múltiples beneficios potenci ales: ahorro financiero, creación de empleo, aparición de nuevos negocios y menos polución.",
+          "pagina": 42
+        }
+      ],
+      "nota": null
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El documento no se limita a enunciar tipos de actores abstractos, sino que identifica, analiza y propone mecanismos e instituciones de coordinación específicos y vigentes dentro del ámbito de aplicación nacional (República Dominicana). Destaca el 'Programa Portafolio CDEEE-Renovables', una alianza público-privada institucionalizada que coordina a la Corporación Dominicana de Empresas Eléctricas Estatales (CDEEE), la Comisión Nacional de Energía (CNE), la Superintendencia de Electricidad (SIE) y los desarrolladores privados; la creación de una 'comisión interinstitucional' técnica y jurídica para tramitar y evaluar proyectos; el proceso de diálogo sociopolítico del 'Pacto Eléctrico'; y la propuesta operativa formal de un 'Observatorio de Energía Sostenible y NDCs en el sector eléctrico', concebido como plataforma permanente de articulación técnico-política entre entidades gubernamentales, empresas distribuidoras y generadoras, academia, sociedad civil y organismos internacionales (IEA, IRENA, OLADE, BID, Banco Mundial y PNUD).",
+      "citas": [
+        {
+          "cita": "• Establecer una comisión interinstitucional que eval úa los aspectos económicos, financieros, técnicos y jurídicos de los proyectos, como forma de reducir los plazos de aprobación de los mismos. • Diseñar e implementar un mecanismo de procedimientos simplificados (“ventanilla única”) para la tramitación de los proyectos que deben cursar por múltiples instituciones del gobierno.",
+          "pagina": 30
+        },
+        {
+          "cita": "El observatorio está dirigido a las entidades del gobierno, empresas, academia y sociedad civil, y brindará asistencia técnica a las entidades del sector, prom oviendo la cooperación inter e intra sectorial, y s e constituirá en una plataforma para el diálogo político-técnico en relación a la NDC del sector energía.",
+          "pagina": 47
+        },
+        {
+          "cita": "Con esta iniciativa, se fortalecerán las capacidade s nacionales para la definición y análisis de indicadores energéticos que cubran las tres dimensi ones del ODS 7 (acceso universal a la energía, impulso a las energías renovables y duplicación del  impacto de la eficiencia energética); así como al ODS 13 (acción por el clima).",
+          "pagina": 47
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Sí",
+      "evidencia": "El documento cumple exhaustivamente las dos condiciones exigidas: enumera detalladamente sectores y actividades económicas concretas donde residen las oportunidades productivas y desarrolla su conexión directa con el empleo, la productividad, la competitividad y la reducción de desigualdades territoriales. Enumera sectores como la generación eólica terrestre, parques solares a gran escala, bioenergía/biomasa, minicentrales hidroeléctricas comunitarias, sistemas solares fotovoltaicos distribuidos bajo el Programa de Medición Neta, electromovilidad y edificación bioclimática/eficiente. Asimismo, fundamenta los co-beneficios productivos: documenta que las inversiones en renovables y eficiencia generan empleo directo e indirecto, impulsan la aparición de nuevas empresas y modelos de negocio, reducen la sangría de divisas por importación de combustibles fósiles, disminuyen el costo marginal del sistema eléctrico e integran productivamente a 4 050 familias rurales en 19 provincias mediante 48 minicentrales hidroeléctricas locales.",
+      "citas": [
+        {
+          "cita": "Además de los beneficios que aportan al reducir las emisiones de gases de efecto invernadero, fortalecen la seguridad energética, crean empleo, reducen la dependencia de importación de combustibles y refuerzan la inserción de la electromovilidad.",
+          "pagina": 15
+        },
+        {
+          "cita": "República Dominicana tiene un potencial significativ o para para aumentar la participación de las energías renovables (hasta un 44% al 2030), basándo se esencialmente en energía solar, eólica y bioenergía (IRENA, 2017). En general, en la matriz del sector eléctrico, la cuota de renovables podría triplicarse al 2030.",
+          "pagina": 29
+        },
+        {
+          "cita": "Al mismo tiempo, estas inversiones también pueden generar múltiples beneficios potenci ales: ahorro financiero, creación de empleo, aparición de nuevos negocios y menos polución.",
+          "pagina": 42
+        }
+      ],
+      "nota": null
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "La evaluación del test de concreción se realiza sobre la unidad normativa de recomendaciones del cierre del documento, compuesta por los 5 ítems de 'Acciones requeridas en otros sectores' (Sección IV.C.1, p. 42) y los 4 requerimientos prioritarios de 'Limitaciones que requieren acción inmediata' (Sección IV.C.2, p. 42). De los 9 ítems evaluados individualmente, 5 clasifican como CONCRETO al definir instrumentos, entregables o mecanismos regulatorios y fiscales verificables (planes sectoriales de mitigación en industria y vivienda, estándares regulatorios de edificación baja en carbono, instrumentos de mercado como bonos verdes 'green bonds' y 'green tags', racionalización de aranceles e impuestos de importación para equipos eficientes, y asignación presupuestaria explícita para la descarbonización). Por su parte, 4 ítems clasifican como GENERICO al formularse en términos de principios amplios o capacidades sin entregable operativo detallado (crear conciencia ciudadana, agilizar trámites de permisos sin precisar la norma modificatoria, reducir el riesgo percibido y fortalecer capacidades genéricas). El tally resultante de 5 de 9 ítems concretos justifica rigurosamente el veredicto Parcial.",
+      "citas": [
+        {
+          "cita": "• Uso eficiente de la electricidad y de la energía primaria (incluyendo la realización de planes de mitigación para los sectores industria y viviend a y estrategias de eficiencia y conservación de la energía)",
+          "pagina": 42
+        },
+        {
+          "cita": "• Introducción de esquemas de incentivos de mercado para promover la generación de energía renovable principalmente por el sector privado, como los “green tags” y los “greeen bonds”. • Racionalización del impuesto a la importación y todos los derechos aplicables para promover electrodomésticos y materiales de construcción importados eficientes energéticamente.",
+          "pagina": 42
+        },
+        {
+          "cita": "Entre estas, la más importantes son destinar una asignación presupuestaria para promover la descarbonización, implementar medidas para reducir el riesgo percibido para las inversiones, a gilizar los procesos de otorgamiento de permisos, y continuar los esfuerzos de desarrollo y fortalecimiento de capacidades a las entidades del sector.",
+          "pagina": 42
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Uso eficiente de la electricidad y de la energía primaria (incluyendo la realización de planes de mitigación para los sectores industria y vivienda y estrategias de eficiencia y conservación de la energía)",
+          "clasificacion": "CONCRETO",
+          "pagina": 42
+        },
+        {
+          "item": "Crear conciencia sobre el uso eficiente de la electricidad, para las empresas y el público",
+          "clasificacion": "GENERICO",
+          "pagina": 42
+        },
+        {
+          "item": "Establecer estándares y proyectos de viviendas eficientes en energía y bajas en carbono",
+          "clasificacion": "CONCRETO",
+          "pagina": 42
+        },
+        {
+          "item": "Introducción de esquemas de incentivos de mercado para promover la generación de energía renovable principalmente por el sector privado, como los “green tags” y los “green bonds”",
+          "clasificacion": "CONCRETO",
+          "pagina": 42
+        },
+        {
+          "item": "Racionalización del impuesto a la importación y todos los derechos aplicables para promover electrodomésticos y materiales de construcción importados eficientes energéticamente",
+          "clasificacion": "CONCRETO",
+          "pagina": 42
+        },
+        {
+          "item": "Destinar una asignación presupuestaria para promover la descarbonización",
+          "clasificacion": "CONCRETO",
+          "pagina": 42
+        },
+        {
+          "item": "Implementar medidas para reducir el riesgo percibido para las inversiones",
+          "clasificacion": "GENERICO",
+          "pagina": 42
+        },
+        {
+          "item": "Agilizar los procesos de otorgamiento de permisos",
+          "clasificacion": "GENERICO",
+          "pagina": 42
+        },
+        {
+          "item": "Continuar los esfuerzos de desarrollo y fortalecimiento de capacidades a las entidades del sector",
+          "clasificacion": "GENERICO",
+          "pagina": 42
+        }
+      ],
+      "tally": "5 de 9 ítems pasan el test de concreción",
+      "nota": null
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la contradicción estructural entre la urgente necesidad de descarbonizar la matriz eléctrica de la República Dominicana para cumplir las metas de mitigación de la NDC y las limitaciones impuestas por una elevada dependencia histórica de combustibles fósiles importados, altas pérdidas de distribución y vulnerabilidad física ante el cambio climático. Enfrenta esta brecha demostrando que las metas climáticas no se alcanzarán con trayectorias tendenciales ni reformas parciales, requiriendo un desacoplamiento profundo impulsado por inversión masiva en energías renovables y gobernanza fortalecida.",
+      "filtro_categoria_primaria": "El objetivo sustantivo de transformación que persigue el estudio es la sostenibilidad ambiental (#6), enfocado en la descarbonización profunda de la matriz de generación eléctrica, el cumplimiento estricto del presupuesto de carbono de la NDC (meta de 9,85 MtCO2eq al 2030) y la adaptación climática de la infraestructura energética. Se descarta Desarrollo productivo (#1) como primaria porque la transformación del parque generador y los modelos de negocio renovables no son analizados como un fin industrial en sí mismo, sino como el medio técnico indispensable para la mitigación climática y el desacople de emisiones de GEI. Asimismo, se descarta Capacidades del Estado (#11) como primaria siguiendo la regla objeto versus instrumento de Ronda 9: el hilo conductor es la transición ecológica y la resiliencia climática del sector energético, mientras que los arreglos institucionales y regulatorios operan como la herramienta habilitadora.",
+      "secundaria_obligatoria": "La transformación secundaria indispensable es Capacidades del Estado (#11). El documento demuestra sistemáticamente que la transición hacia renovables y el cumplimiento de la NDC dependen de superar graves cuellos de botella institucionales y regulatorios mediante la concertación del Pacto Eléctrico, la simplificación de trámites a través de ventanillas únicas, comisiones interinstitucionales de evaluación técnica-jurídica, sistemas robustos de monitoreo, reporte y verificación (MRV), y la institucionalización del Observatorio de Energía Sostenible y NDCs.",
+      "justificacion_anti_copia": "La clasificación se ancla en los métodos cuantitativos y hallazgos específicos del texto: el modelado de escenarios prospectivos con el simulador de emisiones de CEPAL que demuestra la necesidad de alcanzar un 60% de penetración renovable al 2030 para llegar a 10 MtCO2eq; la evaluación del Portafolio CDEEE-Renovables con 14 proyectos operativos por 1 239 millones de USD y 50 iniciativas en tramitación; el análisis de 4 085,5 GWh de pérdidas en distribución (54,4% técnicas y 45,6% por conexiones clandestinas); y la propuesta técnica detallada de creación del Observatorio de NDCs en el sector eléctrico.",
+      "validacion_anclas": "El documento sigue el patrón ancla de Doc 9 ('Building a climate resilient power sector in the Caribbean', #6 primaria / #11 secundaria), donde la transición y resiliencia del sector energético constituyen el objeto ambiental primordial y el desarrollo de capacidades institucionales y gobernanza regulatoria funge como el vector instrumental. Se diferencia de Doc 8 ('Reflexiones sobre la gestión del agua...', #11/#6) y Doc 12 ('PLACA', #11/#6), en los cuales el objeto central era la arquitectura institucional y el inventario normativo comparado; en este caso, el objeto central es la trayectoria biofísica y técnica de descarbonización y emisiones del sistema eléctrico dominicano."
+    },
+    "tipo_documento_climatico": "Documento de proyectos / Estudio sectorial de descarbonización y transición energética",
+    "nivel_aplicacion": "Nacional (República Dominicana: SENI y sistemas aislados)",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

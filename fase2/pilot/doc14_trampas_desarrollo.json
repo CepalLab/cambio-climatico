@@ -621,8 +621,14 @@
               "seccion": "2. Hacia una visión integral de la movilidad: oportunidades colaterales generadas por los cambios tecnológicos",
               "nivel": 3,
               "paginas": "219-220",
-              "resumen": "Advierte que la electromovilidad debe integrarse con la planificación urbana y la consolidación de ciudades compactas, ya que reemplazar el parque automotor sin frenar la expansión de la mancha urbana no resuelve los problemas de congestión ni de sostenibilidad.",
-              "dimensiones": [],
+      "resumen": "Advierte que la electromovilidad debe integrarse con la planificación urbana y la consolidación de ciudades compactas, ya que reemplazar el parque automotor sin frenar la expansión de la mancha urbana no resuelve los problemas de congestión ni de sostenibilidad.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Potenciar el impacto de la movilidad eléctrica pasa por integrarla con direccionamientos hacia la consolidación urbana, buscando alcanzar la meta de ciudades compactas",
+          "pagina": 219
+        }
+      ],
               "subsecciones": []
             },
             {
@@ -1094,11 +1100,6 @@
           "dimension": "propuestas_politica",
           "cita": "La tercera gran transformación propuesta por la CEPAL en este informe es la relacionada con la sostenibilidad y el cambio climático... En este informe se incluyó el análisis de la transición energética, la electromovilidad, los minerales críticos para la transición energética y la electromovilidad, la gestión sostenible del agua, el turismo sostenible, la bioeconomía y la economía circular.",
           "pagina": 294
-        },
-        {
-          "dimension": "estado_de_situacion",
-          "cita": "iii) escalar significativamente la disponibilidad de financiamiento para el desarrollo, considerando que es fundamental reforzar las instituciones de la banca de desarrollo para que puedan movilizar más recursos hacia el sector productivo... y iv) proveer un acceso más equitativo a la red de seguridad financiera mundial, donde la reestructuración del papel y uso de los DEG es clave.",
-          "pagina": 284
         }
       ],
       "subsecciones": []
@@ -1235,6 +1236,6 @@
     },
     "tipo_documento_climatico": "Documento institucional de posición estratégica presentado en el cuadragésimo período de sesiones de la CEPAL (2024); no es un documento monotemático sobre cambio climático, sino un informe insignia de alcance mucho más amplio (crecimiento, desigualdad, gobernanza, financiamiento) en el que el cambio climático es el objeto exclusivo de un único capítulo (VI) entre siete, tratado allí con la misma profundidad y aparato metodológico (capacidades TOPP) que las otras dos \"grandes transformaciones\" seleccionadas por el documento.",
     "nivel_aplicacion": "Regional (América Latina y el Caribe en su conjunto), con abundantes ilustraciones y comparaciones a nivel de país (Chile, Colombia, Brasil, Bolivia, Costa Rica, entre muchos otros) dentro de cada sección sectorial del Capítulo VI y en los capítulos de desigualdad y financiamiento.",
-    "ambiguedad_pendiente_validacion": "Ronda 9 adjudicación: primaria alineada al revisor (#1 Desarrollo productivo). Justificación revisor: El informe articula la salida de las 'trampas del desarrollo' en torno a la gran transformación productiva (políticas de desarrollo productivo, 15 sectores impulsores, productividad-empleo). El aporte distintivo del 'cómo' —gobernanza, diálogo social y capacidades TOPP— atraviesa Caps. III–IV y convierte el fortalecimiento institucional en la segunda intención transformadora; la sostenibilidad ambiental es una de tres transformaciones seleccionadas, no el objeto único."
+    "ambiguedad_pendiente_validacion": null
   }
 }

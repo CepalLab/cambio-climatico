@@ -1,0 +1,266 @@
+{
+  "documento": {
+    "num_muestra": 130,
+    "titulo": "Metodología para la estimación del precio social del carbono en Chile y los países de América Latina y el Caribe",
+    "autoria": null,
+    "handle": "https://hdl.handle.net/11362/46957",
+    "simbolo": "LC/TS.2021/72",
+    "isbn": null,
+    "fecha": "2021",
+    "tipo_documento": "Documento de proyecto o estudio técnico",
+    "paginas_cuerpo": 38,
+    "paginas_totales": 40,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cómo debe estimarse e incorporarse el precio social del carbono en la evaluación de proyectos de inversión pública de Chile y de los países de América Latina y el Caribe?",
+    "alcance": {
+      "ambito_aplicacion": "Chile y países de América Latina y el Caribe; con una aplicación regional ilustrada para Centroamérica y referencias específicas a Brasil, Colombia y Perú",
+      "referentes_dependencias": "Acuerdo de París, Comisión de Alto Nivel sobre los Precios del Carbono, Bancos Multilaterales de Desarrollo, MAPS Chile, Climate Watch, OECD y experiencias de mercados de carbono",
+      "sectorial": "Evaluación social de proyectos de inversión pública, emisiones de GEI, energía, transporte, forestal, tecnologías bajas en carbono y Sistemas Nacionales de Inversión Pública",
+      "temporal": "Evidencia y metodologías disponibles hasta 2018; proyecciones de emisiones y mitigación con horizontes principalmente 2030 y 2050"
+    },
+    "hallazgos_principales": [
+      "El precio social del carbono permite valorar en la evaluación pública el costo o beneficio social de aumentar o disminuir las emisiones de GEI, superando la lectura del precio de mercado como proxy (p. 25).",
+      "En Chile, el precio de mercado usado inicialmente produjo valores de US$4,05/tCO2 para 2013 y US$8,44/tCO2 para 2015; la metodología posterior basada en costos marginales de abatimiento generó escenarios promedio entre 20,2 y 43,2 US$/tCO2 (pp. 25, 28).",
+      "MAPS Chile organizó a siete ministerios, evaluó más de 96 medidas de mitigación y construyó escenarios y curvas MAC para una línea base 2013-2030 (p. 27).",
+      "El escenario ERNC ejemplificado alcanza un costo marginal de abatimiento de 47,3 US$/tCO2 para una reducción de 30% y de 49,5 US$/tCO2 para una reducción de 35% (p. 28).",
+      "La actualización de POCH (2017) proyecta 136,99 MMtCO2e para Chile en 2030 frente a una meta incondicional de 129,57 MMtCO2e, por lo que se requeriría reducir al menos 7,42 MMtCO2e anuales; para la meta condicional alta, la reducción requerida sería 34,79 MMtCO2e (p. 37).",
+      "Las curvas MAC requieren actualización porque muchos estudios regionales usan inventarios antiguos y no capturan bien tecnologías nuevas, costos descendentes, barreras no comerciales, incertidumbre ni interacciones entre medidas (pp. 35-38)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El precio de mercado del carbono no representa adecuadamente el valor social de una tonelada adicional cuando el mercado tiene restricciones de oferta y demanda; por ello, el costo marginal de abatimiento ofrece una base más útil para la evaluación pública.",
+        "La experiencia chilena muestra que el precio social puede integrarse al Sistema Nacional de Inversiones mediante una secuencia de línea base, medidas de mitigación, curvas MAC, metas nacionales y selección del costo marginal asociado a la meta.",
+        "La propuesta es transferible a América Latina y el Caribe, pero depende de actualizar datos nacionales, acordar metas y convertir el valor calculado en normas e instrucciones efectivas de los SNIP."
+      ],
+      "recomendaciones": [
+        "Establecer un precio social del carbono e incorporarlo en la evaluación de proyectos de infraestructura pública baja en carbono.",
+        "Desarrollar modelos sectoriales de emisiones y capacitar a profesionales de los SNIP y formuladores de proyectos para aplicar el precio social.",
+        "Coordinar a los SNIP de la región, por ejemplo mediante la Red SNIP, para producir modelos replicables y evitar duplicidades."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "El estudio parte de la externalidad climática y compara tres métodos para estimar el precio social del carbono: precio de mercado, costo social del carbono y costo marginal de abatimiento. Reconstruye la experiencia chilena, donde MAPS Chile reunió a siete ministerios, evaluó más de 96 medidas y permitió pasar de valores de mercado de US$4,05/tCO2 en 2013 a escenarios de abatimiento de 20,2–43,2 US$/tCO2. Luego propone una secuencia regional para los SNIP basada en línea base, medidas, costos, curvas MAC y metas NDC, pero advierte que los datos antiguos y la rápida reducción de costos tecnológicos obligan a actualizar los cálculos. El cierre pide desarrollar modelos y capacidades profesionales y coordinar la producción de herramientas replicables mediante la Red SNIP."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "7-7",
+      "resumen": "La introducción define el cambio climático como resultado de emisiones antropogénicas y conecta sus efectos —temperatura, precipitación, nivel del mar, glaciares, economía, bienestar y ecosistemas— con el Acuerdo de París y las NDC. Formula el objetivo del estudio: proponer una metodología regional para estimar el precio social del carbono, y anticipa el recorrido por el marco conceptual, la experiencia chilena y la aplicación a los países de América Latina y el Caribe.",
+      "dimensiones": [
+        {"dimension": "estado_de_situacion", "cita": "El cambio climático se manifiesta fundamentalmente en el aumento de temperatura, modificaciones en los patrones de precipitación, en alzas del nivel del mar, en reducciones de los glaciales y en cambios en los patrones climáticos extremos.", "pagina": 7},
+        {"dimension": "propuestas_politica", "cita": "En este contexto, el objetivo de este estudio es proponer una metodología regional para la estimación del precio social del carbono en países América Latina y el Caribe.", "pagina": 7}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Marco conceptual",
+      "nivel": 1,
+      "paginas": "9-22",
+      "resumen": "El marco conceptual explica por qué las emisiones son una externalidad negativa y cómo el precio social funciona como precio sombra para orientar decisiones públicas. El bloque compara mercados de carbono, modelos de costo social y curvas de abatimiento, y termina mostrando que las MAC son útiles pero omiten barreras, incertidumbre, interacciones y costos estratégicos; sus hijos desarrollan cada método y sus límites.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Precio de Mercado",
+          "nivel": 2,
+          "paginas": "12-14",
+          "resumen": "Examina el uso de bonos y mercados de carbono como aproximación a la disposición a pagar por reducir emisiones. Distingue mercados regulados y voluntarios, describe los mecanismos de flexibilidad del Protocolo de Kyoto —implementación conjunta, mecanismo de desarrollo limpio y comercio de emisiones— y muestra que la verificación de certificados introduce incertidumbre sobre el volumen efectivamente disponible.",
+          "dimensiones": [{"dimension": "contexto_antecedentes", "cita": "El mercado regulado es utilizado por empresas y gobiernos que, por ley, tienen que rendir cuentas de sus emisiones de GEI.", "pagina": 12}],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Costo Social del arbono",
+          "nivel": 2,
+          "paginas": "14-18",
+          "resumen": "Presenta el costo social del carbono como el valor monetario de los daños futuros de una tonelada adicional y revisa los modelos integrados de evaluación usados para estimarlo. El apartado contrasta FUND, PAGE y DICE, y destaca la sensibilidad de sus resultados a la tasa de descuento, la sensibilidad climática y los daños económicos, antes de pasar a la alternativa de costos marginales de reducción.",
+          "dimensiones": [{"dimension": "diagnostico_estructural", "cita": "La tasa de descuento se utiliza para calcular el valor actual de la corriente de daños en el año en que se emitió la unidad adicional de emisiones.", "pagina": 18}],
+          "subsecciones": [
+            {
+              "seccion": "1. Principales Modelos",
+              "nivel": 3,
+              "paginas": "14-16",
+              "resumen": "Describe los modelos integrados que combinan trayectorias de emisiones, clima y economía para calcular el daño marginal del carbono. Explica que FUND, PAGE y DICE proyectan daños en consumo o producción durante muchas décadas, y que la tasa de descuento transforma esa corriente futura en un valor presente para la decisión de inversión pública.",
+              "dimensiones": [{"dimension": "contexto_antecedentes", "cita": "Los modelos DICE, PAGE, y FUND toman enfoques altamente simplificados para estimar el Costo Social del Carbono.", "pagina": 16}],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Limitaciones de los Modelos",
+              "nivel": 3,
+              "paginas": "17-18",
+              "resumen": "Expone que los modelos dependen de supuestos inciertos sobre crecimiento, daños, sensibilidad climática y descuento, y que fueron construidos con rangos de sensibilidad climática de literatura anterior. La sección advierte que el precio resultante no es un dato único: cambia con la probabilidad asignada a escenarios climáticos y con la forma de valorar daños que ocurren durante siglos.",
+              "dimensiones": [{"dimension": "desafios", "cita": "Las estimaciones del Costo Social del Carbono incorporan las últimas investigaciones científicas y económicas", "pagina": 17}],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Costos Marginales de Reducción de Emisiones",
+          "nivel": 2,
+          "paginas": "18-22",
+          "resumen": "Introduce las curvas de costos marginales de abatimiento como una base cuantitativa para elegir medidas bajas en emisiones frente a una línea base. El apartado explica su utilidad para ordenar medidas según costo y potencial, pero también su carácter estático y su incapacidad para incorporar plenamente costos indirectos, barreras, incertidumbre, interacciones y beneficios secundarios; sus subsecciones muestran la construcción y las limitaciones de las curvas.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Curva de abatimiento marginal",
+              "nivel": 3,
+              "paginas": "19-20",
+              "resumen": "Explica que los países convierten sus compromisos de mitigación en medidas sectoriales con costos y potenciales, y que la curva MAC ordena esas medidas para alcanzar una meta al menor costo marginal. El ejemplo de Brasil para 2030 contiene 33 medidas y muestra que 14 tienen costo negativo, aunque el texto aclara que una curva así no equivale al costo real completo de implementar políticas.",
+              "dimensiones": [
+                {"dimension": "propuestas_politica", "cita": "Dicho lo anterior, este tipo de curvas muestran el costo marginal de implementar cada medida", "pagina": 19},
+                {"dimension": "desafios", "cita": "Al observar el lado izquierdo de la Figura 3, se tiene que 14 de las 33 medidas tienen costo de abatimiento negativo", "pagina": 20}
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Limitaciones de las curvas MAC",
+              "nivel": 3,
+              "paginas": "21-22",
+              "resumen": "Detalla por qué una curva MAC no debe usarse como única regla de decisión: es estática, no recoge barreras no comerciales, trata de forma limitada la incertidumbre, tiene dificultades con las interacciones entre medidas y no monetiza dimensiones estratégicas o políticas. El cierre pide considerar beneficios secundarios, fallas de mercado y costos que escapan a la curva para evitar resultados perversos de la política climática.",
+              "dimensiones": [
+                {"dimension": "brechas_implementacion", "cita": "No capturan las barreras no comerciales a la implementación, incluidos los costos indirectos o no relacionados con la transacción.", "pagina": 21, "subtipo_brecha": "prospectiva"},
+                {"dimension": "diagnostico_estructural", "cita": "No aborda dimensiones que no sean costos directos, incluidos factores estratégicos, operativos o políticos.", "pagina": 22}
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "II. Proceso de establecimiento del precio social del carbón en la evaluación de proyectos de inversión pública en Chile",
+      "nivel": 1,
+      "paginas": "23-31",
+      "resumen": "El capítulo reconstruye la institucionalidad chilena y el tránsito desde un precio de mercado hacia un precio social basado en costos marginales de abatimiento. Describe el rol del Ministerio de Desarrollo Social, el Sistema Nacional de Inversión Pública, la NDC, el impuesto a emisiones y MAPS Chile, y muestra cómo las metas de mitigación y las curvas MAC producen valores aplicables a la inversión pública.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Evaluación social en Chile",
+          "nivel": 2,
+          "paginas": "23-23",
+          "resumen": "Presenta al Ministerio de Desarrollo Social como responsable de metodologías y precios sociales y al Sistema Nacional de Inversión Pública como la arquitectura que asigna recursos a iniciativas con mayor rentabilidad social. El precio social del carbono aparece junto a la mano de obra, la divisa, el tiempo de viaje, combustibles y otros valores usados para evaluar proyectos públicos.",
+          "dimensiones": [{"dimension": "avances_implementacion", "cita": "El organismo encargado de realizar lo anterior, es el Ministerio de Desarrollo Social del país.", "pagina": 23}],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. El Precio Social del Carbono en Chile",
+          "nivel": 2,
+          "paginas": "24-31",
+          "resumen": "Este bloque sigue la evolución del precio social chileno desde la adopción del Acuerdo de París hasta la metodología de costos marginales de abatimiento. La subsección de contexto muestra NDC, ERNC, impuesto al carbono y metas nacionales; la de estimación compara el proxy de mercado con MAPS Chile, sus escenarios 2013-2030, las metas de reducción y la actualización del valor para el SNIP.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Contexto internacional y nacional",
+              "nivel": 3,
+              "paginas": "24-25",
+              "resumen": "Relaciona el Acuerdo de París con la NDC chilena, sus compromisos de mitigación, adaptación, capacidades, tecnología y financiamiento, y con la revisión quinquenal de la ambición. Registra avances nacionales como la Ley 20.698 para ERNC, la meta de 45% de nueva capacidad renovable y el impuesto de US$5/tCO2 vigente desde 2017, cuyo nivel se juzga insuficiente frente al precio social de US$32/tCO2.",
+              "dimensiones": [
+                {"dimension": "avances_implementacion", "cita": "Incentivo a las energías renovables no convencionales (ERNC), donde a través de la Ley 20.698 se exige que, al año 2025, el 20% de las inyecciones para los contratos sujetos a la ley provenga de ERNC.", "pagina": 25},
+                {"dimension": "brechas_implementacion", "cita": "Al analizar lo anterior, se tiene que el valor del impuesto es muy bajo en comparación al precio social del carbono", "pagina": 25, "subtipo_brecha": "retrospectiva"}
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Metodología de estimación",
+              "nivel": 3,
+              "paginas": "25-31",
+              "resumen": "Explica el reemplazo del precio de mercado por el costo marginal de abatimiento: primero se proyectan emisiones y medidas mediante MAPS Chile, luego se construyen curvas MAC y se identifica el costo de la medida que permite alcanzar cada meta. El proceso reunió a siete ministerios, analizó más de 96 medidas, produjo metas de 30% y 35% con valores de 47,3 y 49,5 US$/tCO2 en ERNC y culminó en una secuencia de actualización y sensibilidad para el SNIP.",
+              "dimensiones": [
+                {"dimension": "diagnostico_estructural", "cita": "Sin embargo, el precio del mercado del carbono actual no permite reflejar el valor real de la tonelada de dióxido de carbono transada debido a que dicho mercado no es competitivo y posee restricciones en su oferta y demanda.", "pagina": 25},
+                {"dimension": "avances_implementacion", "cita": "El proyecto MAPS Chile, analizó y evaluó más de 96 medidas de mitigación para la reducción de emisiones de GEI, a las que suman distintos niveles de aplicación de las mismas.", "pagina": 27},
+                {"dimension": "propuestas_politica", "cita": "Determinar las toneladas de CO2 a mitigar en cierto período de tiempo. Se definieron 3 escenarios meta", "pagina": 30}
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "III. Método de cálculo del precio social del carbón en la evaluación de proyectos de inversión pública en países de América Latina y el Caribe",
+      "nivel": 1,
+      "paginas": "33-38",
+      "resumen": "El capítulo adapta la experiencia chilena a los países de América Latina y el Caribe mediante una metodología de costo marginal de abatimiento incorporable a los SNIP. Define siete pasos desde la línea base hasta la meta y el precio, identifica la necesidad de actualizar inventarios y tecnologías, y cierra con recomendaciones sobre modelos, capacitación y coordinación regional a través de la Red SNIP.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Metodología",
+          "nivel": 2,
+          "paginas": "33-38",
+          "resumen": "Propone usar curvas MAC existentes o nuevas para calcular un valor regional o nacional que los SNIP incorporen en normas e instrucciones de evaluación. El procedimiento ordena proyección de emisiones, identificación de medidas, costos y potenciales, diseño de estrategias bajas en carbono, curva MAC, meta NDC y precio; el cierre añade criterios de actualización y una agenda operativa para que la capacidad metodológica se vuelva aplicable.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Aspectos críticos de la metodología",
+              "nivel": 3,
+              "paginas": "35-38",
+              "resumen": "Advierte que las curvas regionales disponibles usan inventarios de 2000 o 2013 y pueden quedar obsoletas frente a vehículos eléctricos, energías renovables y tecnologías eficientes con costos decrecientes. La comparación entre POCH 2017 y MAPS Chile reduce la proyección chilena a 136,99 frente a 179 MMtCO2e y cambia las necesidades de mitigación; para Centroamérica, el estudio deja abierta la actualización con Climate Watch y estadísticas ambientales de OECD.",
+              "dimensiones": [
+                {"dimension": "brechas_implementacion", "cita": "En el caso de Centroamérica, se desconoce si existe información más actualizada que permita estimar las curvas MAC para la región.", "pagina": 37, "subtipo_brecha": "prospectiva"},
+                {"dimension": "oportunidades", "cita": "así como la reducción en los costos de estas tecnologías.", "pagina": 35}
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Recomendaciones de política pública",
+              "nivel": 3,
+              "paginas": "38-38",
+              "resumen": "El cierre convierte la metodología en agenda institucional: establecer el precio social del carbono para compatibilizar la inversión pública con las metas climáticas, desarrollar modelos que calculen emisiones sectoriales, capacitar a profesionales y formuladores, y trabajar conjuntamente mediante la Red SNIP. Son recomendaciones dirigidas a los SNIP de América Latina y el Caribe, con énfasis en productos replicables y ausencia de duplicidades.",
+              "dimensiones": [{"dimension": "propuestas_politica", "cita": "desarrollar productos que sean replicables en los diferentes países, sin incurrir en duplicidades.", "pagina": 38}],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El estudio sí propone un paquete metodológico e institucional para orientar inversiones públicas bajas en carbono, pero no configura un paquete coordinado de inversiones sectoriales simultáneas a escala del modelo de desarrollo. Test 1: parcial, porque la coordinación se concentra en el método de evaluación y los SNIP. Test 2: parcial, pues aparecen energía, transporte, forestal, renovables y vehículos eléctricos, pero como sectores de cálculo o ejemplos. Test 3: parcial, porque considera costos macroeconómicos, empleo, salud y ambiente, sin desarrollar de forma integrada las tres eficiencias del Big Push.",
+      "citas": [{"cita": "Establecer un precio social del carbono es indispensable en una estrategia para avanzar en la ejecución de proyectos de infraestructura pública baja en carbono", "pagina": 38}],
+      "nota": "La propuesta es una capacidad de evaluación y coordinación para la acción climática, no un programa de inversión sectorial coordinada."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El documento identifica mecanismos nombrados dentro de su ámbito: MAPS Chile organizó grupos multisectoriales y reunió siete ministerios para construir escenarios; el cierre propone explícitamente la Red SNIP para coordinar a los sistemas de inversión pública de la región y producir herramientas replicables.",
+      "citas": [{"cita": "El proyecto MAPS Chile, analizó y evaluó más de 96 medidas de mitigación para la reducción de emisiones de GEI", "pagina": 27}, {"cita": "desarrollar productos que sean replicables en los diferentes países, sin incurrir en duplicidades.", "pagina": 38}],
+      "nota": "MAPS Chile y la Red SNIP son mecanismos de planificación o coordinación vinculados al ámbito nacional/regional analizado; no se acredita la mera colaboración editorial."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento enumera actividades y tecnologías concretas —energías renovables, vehículos eléctricos, iluminación, maquinaria eficiente, energía y sector forestal— y menciona beneficios en empleo, salud y ambiente al seleccionar estrategias. Sin embargo, no desarrolla un vínculo sostenido entre esas oportunidades y empleo, productividad o desigualdad; el requisito doble queda incompleto.",
+      "citas": [{"cita": "beneficios en empleos, impactos en la salud y medio ambiente", "pagina": 35}, {"cita": "así como la reducción en los costos de estas tecnologías.", "pagina": 35}],
+      "nota": "La enumeración existe, pero el vínculo productivo-laboral/distributivo es una consideración del método, no un desarrollo de oportunidades."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "La sección final de recomendaciones formula tres unidades de acción propias: establecer el precio social del carbono en proyectos públicos, desarrollar modelos sectoriales y capacitar a usuarios, y coordinar SNIP mediante la Red SNIP para crear productos replicables. Las tres tienen objeto identificable y superan el test de concreción.",
+      "citas": [{"cita": "Sin embargo, para que la incorporación de un precio social del carbono sea efectiva se requerirá desarrollar modelos que permitan estimar la cantidad de emisiones", "pagina": 38}],
+      "desglose_items": [
+        {"item": "Establecer un precio social del carbono para compatibilizar la inversión pública con las metas climáticas.", "clasificacion": "CONCRETO", "pagina": 38},
+        {"item": "Desarrollar modelos para estimar emisiones sectoriales y capacitar a profesionales de los SNIP y formuladores de proyectos.", "clasificacion": "CONCRETO", "pagina": 38},
+        {"item": "Trabajar conjuntamente entre los SNIP de LAC, por ejemplo mediante la Red SNIP, para desarrollar productos replicables sin duplicidades.", "clasificacion": "CONCRETO", "pagina": 38}
+      ],
+      "tally": "3 de 3 ítems pasan el test de concreción",
+      "nota": null
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {"numero": 11, "nombre": "Capacidades del Estado", "certeza": "Alta"},
+    "transformacion_secundaria": {"numero": 6, "nombre": "Sostenibilidad ambiental", "certeza": "Alta"},
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la tensión entre la necesidad de reducir emisiones y la incapacidad de los precios de mercado para representar el costo social del carbono en decisiones de inversión pública. Su respuesta no es diseñar un sector productivo específico, sino construir una arquitectura metodológica y de coordinación que permita a los SNIP convertir metas climáticas en criterios operativos de evaluación.",
+      "filtro_categoria_primaria": "La primaria es #11 porque el objeto de cierre es la capacidad institucional de los SNIP: normas e instrucciones, modelos sectoriales, capacitación y coordinación mediante la Red SNIP. #6 es el ámbito y la finalidad climática del método —precio social, mitigación, NDC y proyectos bajos en carbono—, pero la transformación que el estudio busca habilitar directamente es la forma en que el Estado calcula y decide.",
+      "secundaria_obligatoria": "#6 Sostenibilidad ambiental cumple la función de finalidad sectorial y criterio de desempeño: el precio social internaliza emisiones, las curvas MAC ordenan medidas de mitigación y las metas NDC fijan el umbral ambiental de la inversión. Sin esta dimensión, la arquitectura de los SNIP perdería el problema sustantivo que debe incorporar.",
+      "justificacion_anti_copia": "La clasificación se ancla en rasgos propios: la reconstrucción del tránsito chileno desde el proxy de mercado de 2013-2015 hacia costos marginales; el proceso MAPS Chile con siete ministerios y más de 96 medidas; y el procedimiento regional de siete pasos que termina en modelos replicables, capacitación y coordinación de los SNIP. Estos elementos muestran que el estudio produce capacidad de decisión pública alrededor de un objetivo climático, no una cartera de inversiones verdes.",
+      "validacion_anclas": "Se aproxima al ancla #12 Acción climática en la agricultura (PLACA) porque el título climático encubre un método institucional y la capacidad pública es el objeto dominante. Se diferencia en que aquí la capacidad se concreta en la evaluación social de proyectos y en el precio social del carbono, mientras la dimensión ambiental opera como finalidad y criterio de mitigación; por eso #11/#6 es más preciso que invertir el orden."
+    },
+    "tipo_documento_climatico": "Documento de proyecto o estudio técnico sobre metodología de evaluación de inversión pública",
+    "nivel_aplicacion": "Regional (América Latina y el Caribe), con caso nacional de Chile y aplicación ilustrativa para Centroamérica",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

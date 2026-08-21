@@ -1,0 +1,765 @@
+{
+  "documento": {
+    "num_muestra": 0,
+    "titulo": "Canales de impacto del cambio climático en la infraestructura vial",
+    "autoria": "Juan Fernando Mendoza Sánchez",
+    "handle": "https://hdl.handle.net/11362/68756",
+    "simbolo": "LC/MEX/TS.2023/41",
+    "isbn": null,
+    "fecha": "2023",
+    "tipo_documento": "Documento de proyecto o estudio técnico",
+    "paginas_cuerpo": 71,
+    "paginas_totales": 85,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cómo se relacionan las amenazas climáticas con los daños, pérdidas e interrupciones del servicio de la infraestructura vial de los países del SICA y qué medidas permiten adaptar esa infraestructura de manera sostenible e incluyente?",
+    "alcance": {
+      "ambito_aplicacion": "Países miembros del SICA: Belice, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panamá y República Dominicana; con énfasis regional centroamericano",
+      "referentes_dependencias": "IPCC, CEPAL/CAC-SICA, COMITRAN, SIECA, CRRH, FHWA, BID, Banco Asiático de Desarrollo, UNDRR y estudios internacionales de infraestructura vial",
+      "sectorial": "Infraestructura vial, carreteras, puentes, pavimentos, drenaje, taludes, operación y servicios de transporte",
+      "temporal": "Registros históricos desde 1930 y, según la fuente, 1972-2019; escenarios 2030 y 2080 y vida útil futura de los activos"
+    },
+    "hallazgos_principales": [
+      "En la región SICA se registran 11.328 desastres materializados en infraestructura de transporte; inundaciones, deslizamientos y lluvias intensas son las principales causas (p. 21).",
+      "Las afectaciones viales generan pérdidas superiores a 13.500 millones de dólares según DesInventar; en las pérdidas de infraestructura regional, telecomunicaciones y transportes concentran el 79% (p. 23).",
+      "Los escenarios regionales proyectan aumentos de temperatura de hasta más de 4,4 °C hacia 2080 en varios países y cambios de precipitación de hasta -13% en Belice bajo RCP8.5 (pp. 30-31).",
+      "Los canales de impacto conectan amenaza, elemento vial, condiciones detonantes, daño, pérdida del nivel de servicio y medidas de adaptación, incluyendo diseño, mantenimiento, monitoreo, alertas y gestión de activos (pp. 53-64)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La adaptación vial debe ser específica para cada territorio y basarse en variables climáticas históricas y proyectadas, porque los resultados no pueden extrapolarse mecánicamente entre regiones (p. 71).",
+        "La resiliencia del servicio depende de incorporar el clima futuro y los eventos extremos en códigos de diseño, construcción, mantenimiento, gestión de activos y recuperación de redes críticas (p. 71)."
+      ],
+      "recomendaciones": [
+        "Replicar metodologías y casos de estudio con análisis climático específico por región, país y localización vial (p. 71).",
+        "Diseñar, construir y mantener activos viales incorporando variables climáticas, escenarios futuros, magnitud y frecuencia de eventos extremos en los códigos de diseño (p. 71).",
+        "Impulsar adaptación incluyente y sostenible que reduzca vulnerabilidad física, impacto ambiental y pobreza, y promueva economías bajas en carbono (p. 71)."
+      ],
+      "nota": "El cierre formula recomendaciones integradas en las conclusiones, no una sección independiente de recomendaciones."
+    },
+    "resumen_narrativo": "El documento desarrolla canales causales para explicar cómo inundaciones, sequías, calor, nivel del mar, ciclones, precipitación, vientos y frentes fríos dañan carreteras, puentes, pavimentos, drenajes y taludes en los países del SICA. Combina registros de DesInventar —11.328 impactos en transporte y pérdidas viales superiores a 13.500 millones de dólares— con escenarios que proyectan aumentos térmicos de hasta más de 4,4 °C hacia 2080. Su aporte operativo es una matriz que vincula amenaza, elemento expuesto, daño, pérdida del servicio y medidas concretas como rediseño de drenajes, alertas, monitoreo, mantenimiento y gestión de activos. El cierre propone adaptar cada red a su territorio y combinar resiliencia física con inclusión social, conservación ambiental y reducción de pobreza."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "15",
+      "resumen": "Define el objetivo de RIDASICC: fortalecer capacidades para integrar riesgo de desastres y adaptación climática en proyectos de inversión pública. Presenta la propuesta de canales de impacto y el recorrido del documento, desde riesgos y escenarios hasta adaptación sostenible e incluyente. También explica que los canales conectan amenazas, vulnerabilidad, daños, pérdidas sociales y medidas para orientar decisiones de inversión pública y continuidad del servicio.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Esta publicación presenta una propuesta de canales de impacto que trazan la causalidad del riesgo de desastres-cambio climático en la infraestructura vial con una adecuada consideración de su entorno socioambiental",
+          "pagina": 15
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Desastres y cambio climático en los países de SICA",
+      "nivel": 1,
+      "paginas": "17",
+      "resumen": "Relaciona la atribución antropogénica del cambio climático con amenazas que afectan infraestructura y servicios, y caracteriza el riesgo regional mediante IPCC, índices de riesgo, EM-DAT y DesInventar. Reporta sequías crecientes, 447 desastres regionales y pérdidas económicas viales, construyendo la línea base para la adaptación. El capítulo además distingue exposición, vulnerabilidad, susceptibilidad y capacidades de adaptación como componentes del riesgo regional.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Los fenómenos meteorológicos extremos ponen en riesgo la infraestructura y pueden provocar la pérdida del servicio que esta ofrece e importantes pérdidas económicas",
+          "pagina": 17
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "II. Casos de estudio",
+      "nivel": 1,
+      "paginas": "27",
+      "resumen": "Usa Stan en Guatemala, Eta e Iota en Honduras, Agatha en El Salvador, 12-E en Centroamérica y Nicole y Thomas en Costa Rica para cuantificar daños, pérdidas e interrupciones viales. Los casos muestran costos de puentes, carreteras, desvíos, cierres y transporte, con impactos relevantes sobre PIB y desarrollo. La comparación convierte experiencias nacionales en evidencia para valorar vulnerabilidad y costos de adaptación del subsector.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Como se puede observar en todos los casos de estudio, los daños y las pérdidas son altamente significativos para los países, ya que afectan el PIB del país y, por lo tanto, su desarrollo.",
+          "pagina": 27
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "III. Escenarios de cambio climático en los países de la región SICA",
+      "nivel": 1,
+      "paginas": "30",
+      "resumen": "Presenta escenarios IPCC y CEPAL/CAC-SICA de temperatura, precipitación y extremos para Centroamérica, distinguiendo horizontes 2030 y 2080. Identifica la utilidad de actualizar umbrales de diseño y seleccionar variables críticas para la infraestructura vial, pese a la incertidumbre de la precipitación. Incluye proyecciones nacionales, costos económicos de inacción y una propuesta de variables climáticas críticas ponderadas por afectación.",
+      "dimensiones": [
+        {
+          "dimension": "tendencias",
+          "cita": "En el futuro se esperan aumentos de la temperatura en función de los diferentes escenarios del cambio climático",
+          "pagina": 30
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "IV. Políticas y leyes sobre cambio climático",
+      "nivel": 1,
+      "paginas": "33",
+      "resumen": "Revisa leyes, políticas y planes de adaptación de los ocho países y los instrumentos regionales de COMITRAN, SIECA y CR-GRACC. Muestra avances normativos —incluidos estándares, planes maestros, bases de datos, mapas y fondos climáticos— y la brecha entre marcos nacionales e implementación vial. El capítulo termina con funciones regionales de coordinación, seguimiento, capacitación y acceso a fondos climáticos.",
+      "dimensiones": [
+        {
+          "dimension": "brechas_implementacion",
+          "cita": "Todos los países de la región cuentan con marcos normativos nacionales sobre el cambio climático, que incluyen a todos los sectores; sin embargo, no necesariamente ha llegado a una implementación de medidas en el sector de infraestructura vial en todos los países",
+          "pagina": 33,
+          "subtipo_brecha": "retrospectiva"
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "V. Impactos del cambio climático en la infraestructura vial",
+      "nivel": 1,
+      "paginas": "33-48",
+      "resumen": "Explica cómo identificar exposición, vulnerabilidad, riesgo y efectos de amenazas climáticas sobre componentes viales, apoyándose en registros históricos, escenarios y casos de modelización. El capítulo organiza los impactos por amenaza y componente; sus hojas detallan mecanismos físicos y operacionales.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Impactos de las altas temperaturas y las olas de calor",
+          "nivel": 2,
+          "paginas": "35-39",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Pavimentos",
+              "nivel": 3,
+              "paginas": "39",
+              "resumen": "Describe cómo el calor excede los límites plásticos de la mezcla asfáltica, acelera deformaciones, fatiga, envejecimiento y agrietamiento. La implicación es ajustar perfiles térmicos, materiales y diseño para preservar desempeño y duración.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Las altas temperaturas y los períodos prolongados de calor provocan en la carpeta que la mezcla asfáltica exceda los límites plásticos",
+                  "pagina": 39
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Puentes",
+              "nivel": 3,
+              "paginas": "39",
+              "resumen": "Identifica la expansión térmica de juntas y articulaciones como un estrés para la integridad de los puentes. El hallazgo amplía el análisis más allá del pavimento hacia estructuras cuya respuesta debe incorporarse al diseño.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Aumento de la expansión térmica en las juntas de los pavimentos de concreto o en las uniones/articulaciones de los puentes, que puede provocar estrés en la integridad de la estructura",
+                  "pagina": 39
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Operación",
+              "nivel": 3,
+              "paginas": "39",
+              "resumen": "Vincula olas de calor con límites a trabajo diurno, sobrecalentamiento vehicular, desgaste de neumáticos, incendios y fallas de señalización eléctrica. El riesgo operacional exige adaptar horarios, mantenimiento y dispositivos de control.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Limitación en las horas de trabajo durante el período diurno para la construcción y mantenimiento de carreteras",
+                  "pagina": 39
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Sequía",
+          "nivel": 2,
+          "paginas": "36-41",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Pavimentos",
+              "nivel": 3,
+              "paginas": "41",
+              "resumen": "Explica que la pérdida de humedad y contracción del suelo aceleran la degradación de cimentaciones y agrietamientos. El mecanismo orienta la selección de materiales y tratamientos que mantengan soporte bajo sequía.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Se acelera la degradación de las capas de cimentación por la pérdida de humedad y la contracción del suelo",
+                  "pagina": 41
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Terracerías",
+              "nivel": 3,
+              "paginas": "41",
+              "resumen": "Señala que la falta de agua modifica la compactación y obliga a usar materiales secos en construcción. La presión climática recae sobre procedimientos constructivos y estándares técnicos. Esta evidencia orienta decisiones de diseño, mantenimiento y gestión de la continuidad del servicio vial.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "La falta de agua hará necesaria la realización de mejoras en los procedimientos constructivos, en particular durante la compactación",
+                  "pagina": 41
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Taludes",
+              "nivel": 3,
+              "paginas": "41",
+              "resumen": "Relaciona menor humedad y pérdida de cubierta vegetal con erosión, deslizamientos y cambios de paisaje en taludes y terraplenes. El resultado muestra la dependencia entre infraestructura, vegetación y manejo del entorno.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Habrá una disminución de la humedad en la orilla del camino, por lo que no se podrá mantener la cubierta vegetal adecuada, generando erosión y deslizamientos de material en los taludes de corte o terraplén, lo que provocará, además, cambios en el paisaje",
+                  "pagina": 41
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Operación",
+              "nivel": 3,
+              "paginas": "41",
+              "resumen": "Describe cierres por incendios, menor absorción del suelo, mayores escurrimientos y polvo en caminos no pavimentados. La operación debe responder simultáneamente a fuego, drenaje, visibilidad y seguridad vial.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Incremento de la probabilidad de incendios forestales, lo que provocará el cierre temporal de carreteras debido a la amenaza de incendio o a la reducción de la visibilidad",
+                  "pagina": 41
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Aumento de la temperatura y del nivel del mar",
+          "nivel": 2,
+          "paginas": "37-42",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Pavimento",
+              "nivel": 3,
+              "paginas": "41",
+              "resumen": "Explica que marejadas y aumento del nivel del mar infiltran agua salina en asfalto y cimientos, generando pérdida de soporte, baches y grietas. La exposición costera convierte el diseño y materiales en variables de adaptación.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "El agua producto de las marejadas se filtra en el asfalto y en los cimientos, lo que hace que se degraden y se vuelvan inestables",
+                  "pagina": 41
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Operación",
+              "nivel": 3,
+              "paginas": "41",
+              "resumen": "Proyecta inundaciones costeras más frecuentes, carreteras cubiertas y erosión de la línea de costa. El canal operativo es la pérdida parcial o total de accesibilidad y continuidad del servicio. Esta evidencia orienta decisiones de diseño, mantenimiento y gestión de la continuidad del servicio vial.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Si el nivel del mar continúa aumentando, las carreteras costeras quedarán parcial o completamente cubiertas de agua",
+                  "pagina": 41
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Materiales",
+              "nivel": 3,
+              "paginas": "42",
+              "resumen": "Introduce la acidificación oceánica como cambio químico capaz de alterar el comportamiento físico-químico de materiales viales. El hallazgo abre una agenda técnica de evaluación de materiales bajo escenarios costeros.",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Estos cambios podrían repercutir en el comportamiento físico-químico de los materiales que actualmente se utilizan en la construcción de infraestructura vial",
+                  "pagina": 42
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "D. Ciclones tropicales y marejadas de tormenta tropical",
+          "nivel": 2,
+          "paginas": "38-42",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Operación",
+              "nivel": 3,
+              "paginas": "42",
+              "resumen": "Detalla daños por viento, objetos, inundaciones, deslizamientos, erosión costera y socavación en carreteras y señalización. La operación combina riesgos repentinos y permanentes, especialmente en costas y zonas montañosas.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Los fuertes vientos pueden dañar o destruir vehículos, puentes e infraestructura vial",
+                  "pagina": 42
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Drenaje",
+              "nivel": 3,
+              "paginas": "42",
+              "resumen": "Identifica aumento del gasto hidráulico en drenajes menores y mayores y compromisos de estabilidad y capacidad. El diagnóstico justifica redimensionar obras con hidrología climática futura. Esta evidencia orienta decisiones de diseño, mantenimiento y gestión de la continuidad del servicio vial.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Aumento del gasto hidráulico en las obras de drenaje menor y mayor, lo cual compromete la estabilidad y la capacidad de estas",
+                  "pagina": 42
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Taludes",
+              "nivel": 3,
+              "paginas": "42",
+              "resumen": "Vincula saturación del suelo por lluvias de ciclones con inestabilidad y deslizamientos en cortes, terraplenes y laderas. El mecanismo muestra por qué el entorno físico condiciona la continuidad vial.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "La saturación del suelo provoca la inestabilidad de este, lo que ocasiona deslizamientos de tierra de los taludes de corte o terraplén, o de las laderas",
+                  "pagina": 42
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "E. Incremento de tormentas y de precipitación",
+          "nivel": 2,
+          "paginas": "38-43",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Operación",
+              "nivel": 3,
+              "paginas": "43",
+              "resumen": "Describe retrasos, accidentes, cierres e inundaciones que reducen el nivel de servicio. La operación requiere información, gestión del tránsito y respuesta adaptada a precipitación extrema. Esta evidencia orienta decisiones de diseño, mantenimiento y gestión de la continuidad del servicio vial.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Interrupciones o retrasos del tránsito por el clima, debido a una precipitación excesiva que obliga a bajar velocidades de operación o a detenerse",
+                  "pagina": 43
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Pavimentos",
+              "nivel": 3,
+              "paginas": "43",
+              "resumen": "Explica infiltración, pérdida de soporte, baches, grietas, cárcavas y erosión del hombro vial. El análisis traduce precipitación en fallas físicas que requieren materiales, drenaje y mantenimiento. Esta evidencia orienta decisiones de diseño, mantenimiento y gestión de la continuidad del servicio vial.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "El agua producto de la inundación se filtra en el asfalto y en los cimientos, lo que hace que se degraden y se vuelvan inestables",
+                  "pagina": 43
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Taludes",
+              "nivel": 3,
+              "paginas": "43",
+              "resumen": "Relaciona suelos saturados con deslizamientos, deslaves y erosión de taludes y terraplenes. El efecto compromete seguridad, mantenimiento y continuidad de la vía. Esta evidencia orienta decisiones de diseño, mantenimiento y gestión de la continuidad del servicio vial.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Deslizamiento y deslaves de material de los taludes y terraplenes por una alta penetración de agua sobre suelos ya saturados",
+                  "pagina": 43
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Drenaje",
+              "nivel": 3,
+              "paginas": "43",
+              "resumen": "Señala que gasto excesivo, escombros y sedimentos reducen capacidad hidráulica y bloquean drenajes. El problema combina diseño insuficiente con erosión del entorno. Esta evidencia orienta decisiones de diseño, mantenimiento y gestión de la continuidad del servicio vial.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "Obras de drenaje insuficientes, debido a un incremento del gasto por precipitaciones excesivas y de larga duración",
+                  "pagina": 43,
+                  "subtipo_brecha": "prospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Puentes",
+              "nivel": 3,
+              "paginas": "43",
+              "resumen": "Identifica erosión y socavación de pilas y estribos por cambios en flujos de ríos. La vulnerabilidad exige evaluar caudales y condiciones hidráulicas en diseño y rehabilitación. Esta evidencia orienta decisiones de diseño, mantenimiento y gestión de la continuidad del servicio vial.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "En ríos, los cambios en los flujos de agua pueden erosionar/socavar los apoyos de los puentes (pilas y estribos)",
+                  "pagina": 43
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "6. Mantenimiento y construcción",
+              "nivel": 3,
+              "paginas": "43",
+              "resumen": "Muestra que la precipitación interrumpe trabajos y reduce horas laborables, elevando costos de construcción y mantenimiento. El impacto conecta clima con programación y gestión de activos. Esta evidencia orienta decisiones de diseño, mantenimiento y gestión de la continuidad del servicio vial.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "La precipitación puede afectar los costos de construcción o de mantenimiento de carreteras directamente debido a la interrupción del trabajo y a la disminución de horas laborables",
+                  "pagina": 43
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "F. Vendavales o vientos fuertes",
+          "nivel": 2,
+          "paginas": "41-45",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Operación",
+              "nivel": 3,
+              "paginas": "45",
+              "resumen": "Enumera caída de árboles, postes y anuncios, inestabilidad vehicular y daños en señalización y control eléctrico. La amenaza afecta directamente seguridad y posibilidad de circulación. Esta evidencia orienta decisiones de diseño, mantenimiento y gestión de la continuidad del servicio vial.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Caída de árboles, postes de energía eléctrica y anuncios publicitarios sobre la calzada del camino",
+                  "pagina": 45
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Taludes",
+              "nivel": 3,
+              "paginas": "45",
+              "resumen": "Asocia viento con erosión de taludes y terraplenes y arrastre de escombros sobre la calzada. La interacción viento-suelo añade un riesgo operativo a la estabilidad de laderas. Esta evidencia orienta decisiones de diseño, mantenimiento y gestión de la continuidad del servicio vial.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Incremento de la erosión de taludes y terraplenes, que provoca acarreos de escombro y basura sobre la superficie de rodamiento",
+                  "pagina": 45
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Puentes",
+              "nivel": 3,
+              "paginas": "45",
+              "resumen": "Registra daños estructurales en elementos de puentes por vientos fuertes. El resultado reclama diseño y mantenimiento sensibles a cargas eólicas. Esta evidencia orienta decisiones de diseño, mantenimiento y gestión de la continuidad del servicio vial.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Daños estructurales en elementos que conforman los puentes",
+                  "pagina": 45
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "G. Alta presencia de agua, inundaciones y avenidas torrenciales",
+          "nivel": 2,
+          "paginas": "41-46",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Pavimento",
+              "nivel": 3,
+              "paginas": "46",
+              "resumen": "Describe agua estancada, impactos de desechos, cambios de humedad y pérdida de adhesión que deforman y desintegran el pavimento. La respuesta debe considerar materiales, bombeo, drenaje y mantenimiento.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "La humedad y la temperatura pueden calentar la carpeta separando la capa de asfalto del agregado, con lo que inicia una pérdida de adhesión que deteriora y desintegra la carpeta asfáltica",
+                  "pagina": 46
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Drenaje",
+              "nivel": 3,
+              "paginas": "46",
+              "resumen": "Explica que escurrimientos, caudales pico y sedimentos vuelven insuficientes obras, alcantarillas y periodos de retorno. El capítulo convierte el cambio hidrológico en requerimientos de diseño y relocalización.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Cambios en los patrones superficiales de los escurrimientos que requieren reubicación de obras de drenaje o la implementación de obras adicionales",
+                  "pagina": 46
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Puentes",
+              "nivel": 3,
+              "paginas": "46",
+              "resumen": "Vincula caudales pico y sedimentos con socavación, cambios de diseño e inestabilidad de puentes y alcantarillas. La gestión debe anticipar retornos mayores y efectos acumulados. Esta evidencia orienta decisiones de diseño, mantenimiento y gestión de la continuidad del servicio vial.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "El aumento de los caudales pico podría afectar las tasas de socavación e influir en los requisitos de diseño para los puentes y alcantarillas",
+                  "pagina": 46
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Operación",
+              "nivel": 3,
+              "paginas": "46",
+              "resumen": "Muestra erosión de caminos, inundación de túneles y acumulación hidrostática detrás de muros, pavimentos y apoyos. Estos mecanismos explican pérdidas de accesibilidad y fallas funcionales del sistema.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Los pasos a desnivel inferiores y túneles de los sistemas viales son más susceptibles a las inundaciones",
+                  "pagina": 46
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "H. Bajas temperaturas y empujes fríos",
+          "nivel": 2,
+          "paginas": "44-48",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Pavimentos",
+              "nivel": 3,
+              "paginas": "48",
+              "resumen": "Detalla rigidez, congelamiento-deshielo, expansión del agua y envejecimiento del asfalto como causas de grietas y pérdida de estabilidad. El daño depende de materiales, humedad y ciclos térmicos. Esta evidencia orienta decisiones de diseño, mantenimiento y gestión de la continuidad del servicio vial.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Los ciclos de congelación-descongelación y las heladas afectan la superficie de la carretera, lo cual provoca cambios en el comportamiento de los materiales que generan agrietamientos",
+                  "pagina": 48
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Drenaje",
+              "nivel": 3,
+              "paginas": "48",
+              "resumen": "Señala que el deshielo de granizo o nieve aumenta escurrimientos y puede colapsar sistemas de drenaje. El riesgo exige incorporar deshielo y saturación en diseño hidráulico. Esta evidencia orienta decisiones de diseño, mantenimiento y gestión de la continuidad del servicio vial.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "El deshielo del granizo o de una nevada eventual genera una cantidad mayor de agua, que aumenta el flujo de los escurrimientos superficiales y puede colapsar los sistemas de drenaje",
+                  "pagina": 48
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Operación",
+              "nivel": 3,
+              "paginas": "48",
+              "resumen": "Relaciona heladas, granizadas y nieve con cierres, accidentes, mantenimiento frecuente y fallas de señalización. La operación invernal requiere equipamiento, alertas y gestión de tránsito. Esta evidencia orienta decisiones de diseño, mantenimiento y gestión de la continuidad del servicio vial.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Las granizadas ocasionan cierres parciales de las carreteras por el acumulamiento del hielo sobre la superficie de rodamiento",
+                  "pagina": 48
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Puentes",
+              "nivel": 3,
+              "paginas": "48",
+              "resumen": "Advierte que cargas de hielo y nieve incrementan el peso muerto y pueden causar colapso si el diseño no las contempla. El hallazgo extiende la adaptación térmica a estructuras mayores. Esta evidencia orienta decisiones de diseño, mantenimiento y gestión de la continuidad del servicio vial.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "Se produce un aumento del peso muerto de la infraestructura, particularmente en puentes y alcantarillas, que puede provocar su colapso, si el diseño no contempla estas cargas",
+                  "pagina": 48,
+                  "subtipo_brecha": "prospectiva"
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "VI. Impactos del cambio climático en la interrupción del servicio",
+      "nivel": 1,
+      "paginas": "49",
+      "resumen": "Distingue daños físicos y funcionales de pérdidas sociales, costos de viaje e impactos indirectos sobre producción y negocios. Presenta escalas micro y macro, modelos de insumo-producto y la necesidad de herramientas que integren ingeniería, economía y política.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "La pérdida parcial de un tramo de la carpeta de rodamiento (daño físico) provoca costos sociales por las actividades para restablecer el servicio y durante la afectación costos sociales (pérdida) de los usuarios por mayores costos generalizados de viaje",
+          "pagina": 49
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "VII. Canales de impacto del cambio climático en la infraestructura vial",
+      "nivel": 1,
+      "paginas": "53",
+      "resumen": "Construye una estrategia y matrices que encadenan amenazas, infraestructura, condiciones detonantes, daño, pérdida del servicio y adaptación. Las medidas incluyen innovación, códigos, monitoreo, alertas, gestión de activos, drenaje, materiales y mantenimiento.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Buscar soluciones para la adaptación del elemento de la infraestructura vial, ya sea definiendo políticas, proponiendo innovaciones o elementos tecnológicos",
+          "pagina": 53
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "VIII. Adaptación sostenible e incluyente al cambio climático",
+      "nivel": 1,
+      "paginas": "66",
+      "resumen": "Clasifica adaptación anticipada, autónoma y prevista, y distingue opciones de ingeniería y no ingenieriles. Integra reducción de pobreza, sostenibilidad, participación social, criterios ambientales y soluciones basadas en la naturaleza, con instrumentos de evaluación para medidas viales.",
+      "dimensiones": [
+        {
+          "dimension": "oportunidades",
+          "cita": "Las opciones de adaptación deben, además, procurar el bienestar, la inclusión social y la sostenibilidad, como agentes diferenciadores que promuevan una adaptación al cambio climático incluyente y sostenible",
+          "pagina": 66
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "IX. Conclusiones",
+      "nivel": 1,
+      "paginas": "71",
+      "resumen": "Concluye que la adaptación reduce vulnerabilidad, aumenta resiliencia y confiabilidad, y disminuye costos si es temprana y específica por territorio. Recomienda diseñar, construir y mantener activos según escenarios climáticos, combinando infraestructura resiliente, conservación ambiental, inclusión y reducción de pobreza.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Los activos viales son muy importantes dentro de los sistemas de transportes para la movilidad de las personas y mercancías, por lo que deben diseñarse, construirse y mantenerse de acuerdo con los códigos de diseño incorporando de la mejor manera el comportamiento de las variables climáticas y los escenarios futuros del cambio climático",
+          "pagina": 71
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento ofrece un paquete amplio de medidas coordinadas para adaptar infraestructura vial —códigos, inversión, mantenimiento, alertas, drenaje, gestión de activos y soluciones basadas en la naturaleza— y nombra sectores y tecnologías concretas, pero el paquete se concentra en adaptación vial y no reorienta simultáneamente el modelo productivo regional ni conecta de forma desarrollada las tres eficiencias del Gran Impulso.",
+      "citas": [
+        {
+          "cita": "Buscar soluciones para la adaptación del elemento de la infraestructura vial, ya sea definiendo políticas, proponiendo innovaciones o elementos tecnológicos, con objeto de evitar/reducir/minimizar/eliminar el riesgo, construir capacidades (conocimiento y fortalecimiento de las instituciones), actualizar códigos/normativas de diseño, entre otros.",
+          "pagina": 53
+        }
+      ],
+      "nota": "La escala sectorial y la ausencia de un paquete de transformación productiva impiden Sí; no es un documento meramente aspiracional."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "Existe un mecanismo regional nombrado, COMITRAN, con una comisión institucionalizada —CR-GRACC— y apoyo de SIECA; ambos operan dentro del ámbito SICA y coordinan políticas, normativas, monitoreo y planes con ministerios de transporte y otros actores.",
+      "citas": [
+        {
+          "cita": "En 2017, COMITRAN institucionalizó el Comité Regional de Gestión del Riesgo y Adaptación al Cambio Climático (CR-GRACC) como la comisión encargada de los asuntos específicos de la gestión de riesgos y la adaptación al cambio climático dentro del COMITRAN",
+          "pagina": 35
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento vincula adaptación vial con actividades económicas, transporte, comercio, competitividad y economías sostenibles, pero no enumera sectores productivos de transición con un desarrollo suficiente del vínculo con empleo, productividad o desigualdad; la oportunidad productiva aparece como cobeneficio y no como agenda central.",
+      "citas": [
+        {
+          "cita": "Los beneficios de mediano plazo asociados a las medidas de reducción del riesgo de desastres-cambio climático pueden incluir, reducir la pobreza y la desigualdad, transitar hacia economías sostenibles, bajas en emisiones de gases de efecto invernadero",
+          "pagina": 14
+        }
+      ],
+      "desglose_items": [],
+      "tally": "0 de 0 ítems desglosables pasan el test de enumeración productiva",
+      "nota": "Se observan beneficios económicos y sociales, pero no una enumeración desarrollada de oportunidades productivas con vínculo laboral o de productividad."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "La voz normativa del cierre contiene tres recomendaciones operativas: análisis territorial específico, incorporación de variables y escenarios en códigos de diseño, y estrategias de adaptación que integren vulnerabilidad física, ambiente y pobreza. Las tres tienen objetos identificables, aunque no todas incluyen responsables o plazos.",
+      "citas": [
+        {
+          "cita": "Las metodologías y los casos de estudio para incorporar el cambio climático y evaluar el impacto en el medio plazo deben ser replicados para cada región en particular",
+          "pagina": 71
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Replicar las metodologías y los casos de estudio para cada región en particular, con análisis específico del clima, la vialidad y el país.",
+          "clasificacion": "CONCRETO",
+          "pagina": 71
+        },
+        {
+          "item": "Diseñar, construir y mantener los activos viales incorporando variables climáticas, escenarios futuros y eventos extremos en los códigos de diseño.",
+          "clasificacion": "CONCRETO",
+          "pagina": 71
+        },
+        {
+          "item": "Impulsar estrategias de adaptación incluyentes y sostenibles que reduzcan vulnerabilidad física e impacto ambiental y promuevan conservación y reducción de pobreza.",
+          "clasificacion": "CONCRETO",
+          "pagina": 71
+        }
+      ],
+      "tally": "3 de 3 ítems pasan el test de concreción",
+      "nota": null
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la contradicción entre una infraestructura vial indispensable para movilidad, producción y servicios y un clima que incrementa daños, interrupciones y costos. La salida propuesta es adaptar activos y decisiones de inversión para sostener el servicio, reducir vulnerabilidad y hacerlo compatible con inclusión, conservación ambiental y bajas emisiones.",
+      "filtro_categoria_primaria": "El objeto principal es la adaptación climática de carreteras, puentes, pavimentos, drenajes y operación, por lo que corresponde a #6. #11 es el instrumento habilitador —códigos, capacidades, información, coordinación y gestión de activos—, no el objeto transformado; tampoco #10, porque la cuantificación económica sirve para valorar daños y decisiones, no organiza la pregunta.",
+      "secundaria_obligatoria": "#11 cumple la función habilitadora de convertir escenarios y canales de impacto en decisiones públicas: actualizar códigos, fortalecer capacidades, monitorear, alertar, gestionar activos, coordinar COMITRAN/CR-GRACC y orientar inversión pública.",
+      "justificacion_anti_copia": "El documento aporta rasgos propios: matrices de canales que conectan amenaza, componente, daño y pérdida; escenarios SICA con proyecciones de temperatura y precipitación para 2030 y 2080; y un catálogo de respuestas como drenajes con mayor periodo de retorno, sistemas de alerta, materiales adaptados y gestión de puentes. Además, integra criterios sociales y ambientales y soluciones basadas en la naturaleza para la infraestructura vial.",
+      "validacion_anclas": "Se aproxima al ancla #20, Impactos económicos del cambio climático en Colombia. Síntesis, porque ambos tienen impactos y adaptación sectorial como objeto y capacidades estatales como medio. Se diferencia de #8 y #12: aquí la arquitectura institucional no es el sujeto, sino el soporte para transformar la resiliencia física y operativa de la red vial."
+    },
+    "tipo_documento_climatico": "Documento de proyecto o estudio técnico sobre adaptación sectorial e infraestructura vial",
+    "nivel_aplicacion": "Regional (países del SICA)",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

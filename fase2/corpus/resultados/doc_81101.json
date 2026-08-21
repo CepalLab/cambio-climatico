@@ -1,0 +1,1735 @@
+{
+  "documento": {
+    "num_muestra": 208,
+    "titulo": "Manual centroamericano de mantenimiento de carreteras con enfoque de reducción de riesgo de desastres, adaptación sostenible e incluyente al cambio climático y seguridad vial",
+    "autoria": "Ileana Holt y Juan Fernando Mendoza",
+    "handle": "https://hdl.handle.net/11362/81101",
+    "simbolo": "LC/MEX/TS.2024/18",
+    "isbn": null,
+    "fecha": "2024",
+    "tipo_documento": "Manual técnico",
+    "paginas_cuerpo": 314,
+    "paginas_totales": 316,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cómo deben los países miembros del SICA incorporar la reducción del riesgo de desastres y la adaptación sostenible e incluyente al cambio climático en el mantenimiento, contratación y evaluación de la infraestructura vial para conservar la transitabilidad, seguridad y vida útil de las carreteras?",
+    "alcance": {
+      "ambito_aplicacion": "Subregional: países miembros del SICA/COSEFIN, con énfasis en la red vial centroamericana y República Dominicana.",
+      "referentes_dependencias": "SICA, COMITRAN/SIECA, CEPREDENAC, CRRH, PCGIR, Marco de Sendai, Acuerdo de París, Agenda 2030, EM-DAT, SNIP y RIDASICC.",
+      "sectorial": "Mantenimiento, contratación y licitación de carreteras, pavimentos, drenajes, taludes, señalización, puentes, estructuras menores, emergencias, gestión ambiental y contratos por niveles de servicio.",
+      "temporal": "Actualización aprobada en diciembre de 2023; usa antecedentes de desastres y datos 2000–2022 y orienta decisiones durante el ciclo de vida, operación y mantenimiento de activos viales."
+    },
+    "hallazgos_principales": [
+      "La infraestructura vial regional está expuesta y es vulnerable a desastres y cambio climático; esa exposición se vincula con interrupciones, costos de emergencia y pérdida de vida útil (p. 13).",
+      "La introducción registra aumentos de temperatura superiores a 1 °C en El Salvador, Guatemala y Honduras durante 2011–2020 respecto de 1961–1990 (p. 13).",
+      "El bloque de riesgo documenta daños de Mitch, Stan, Ágatha y Eta-Iota, incluidos 71 puentes y 70% de caminos primarios y secundarios destruidos por Mitch (pp. 51–52).",
+      "EM-DAT registra 447 desastres naturales entre 2000 y 2022, con tormentas, inundaciones, sequías, deslizamientos y temperaturas extremas (p. 56).",
+      "La adaptación se operacionaliza en una secuencia de activos, datos climáticos, amenazas, exposición, impactos, costos, selección, implementación y monitoreo, con consulta a actores (pp. 58–59).",
+      "Las especificaciones convierten la conservación en actividades medibles y pagables, mientras los niveles de servicio fijan indicadores, inspecciones, tolerancias y plazos (pp. 75–270).",
+      "El catálogo de daños armoniza causas, severidades y mediciones para priorizar mantenimiento temprano y sostener seguridad y durabilidad (pp. 271–314)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La reducción del riesgo y la adaptación deben incorporarse desde la identificación y planificación hasta diseño, operación y mantenimiento, no solo después del daño.",
+        "La gestión vial resiliente combina estándares contractuales, inspección, datos de activos, gestión ambiental, emergencias y mantenimiento preventivo.",
+        "El manual es una herramienta técnica sectorial para conservar servicios viales y extender vida útil, no una estrategia de transformación productiva regional."
+      ],
+      "recomendaciones": [
+        "Definir activos y características, reunir datos climáticos, identificar amenazas, exposición e impactos, costear y seleccionar medidas, implementarlas y monitorearlas.",
+        "Incorporar vulnerabilidad, drenaje, seguridad vial, gestión socioambiental y mantenimiento preventivo en contratos, diseños, inspecciones y programas.",
+        "Usar indicadores, tolerancias, registros y catálogo de daños para priorizar reparaciones antes de comprometer continuidad, seguridad o vida útil.",
+        "Coordinar entidades regionales y nacionales mediante instrumentos de política y sistemas nacionales de inversión pública pertinentes."
+      ],
+      "nota": "Síntesis separada de conclusiones y recomendaciones del cuerpo técnico; la interpelación de concreción se limita al cierre real."
+    },
+    "resumen_narrativo": "El manual actualiza las especificaciones centroamericanas de mantenimiento de carreteras para incorporar reducción del riesgo, adaptación climática, gestión ambiental y seguridad vial. Parte de la exposición regional y de daños históricos, y traduce ese diagnóstico en contratos, procedimientos, indicadores, tolerancias, gestión de activos, emergencias y catálogo de daños. Su núcleo pide identificar activos, amenazas, exposición e impactos, seleccionar medidas, implementarlas y monitorearlas durante el ciclo vial. Es una herramienta técnica sectorial para conservar continuidad y vida útil, no una propuesta de transformación productiva regional."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "13-16",
+      "resumen": "La introducción sitúa la infraestructura vial como soporte de la conexión social, económica y territorial y la presenta como expuesta a desastres, cambio climático y alteraciones de temperatura y precipitación. Aporta datos comparativos regionales y enlaza la gestión vial con SICA, ERCC, París, Sendai, ODS, COMITRAN y RIDASICC. La consecuencia de política es ajustar parámetros técnicos, proteger ecosistemas y sostener servicios, seguridad y resiliencia vial.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "La infraestructura vial es fundamental en el desarrollo social y económico de los países, permite \nconectar regiones, ciudades y localidades, así como transportar bienes y servicios.",
+          "pagina": 13
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Capítulo 1",
+      "nivel": 1,
+      "paginas": "17",
+      "resumen": "Este capítulo abre las especificaciones contractuales del mantenimiento vial y prepara la relación entre modalidades de contratación, exigencias técnicas, supervisión y pago. Su función es convertir la conservación en obligaciones verificables mediante documentos, controles de calidad y reglas de ejecución. La consecuencia de política es que la red quede respaldada por contratos comparables y fiscalizables.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "Sección 10. Descripción de los trabajos de mantenimiento contratado con base en precios unitarios",
+          "nivel": 2,
+          "paginas": "17-25",
+          "resumen": "Mapa de contratación por precios unitarios: alcance, supervisión, obligaciones, calidad, medición y pago.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "10.01 Mantenimiento contratado con base en precios unitarios",
+              "nivel": 3,
+              "paginas": "17",
+              "resumen": "La ficha «10.01 Mantenimiento contratado con base en precios unitarios» precisa una regla de contratación, licitación, supervisión, garantía o documento contractual. En las páginas 17 articula responsabilidades, controles, información verificable y decisiones del contratante y contratista. La consecuencia es reducir discrecionalidad y asegurar que la conservación se ejecute y pague conforme a reglas explícitas.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "10.02 Disposiciones generales",
+              "nivel": 3,
+              "paginas": "17",
+              "resumen": "La ficha «10.02 Disposiciones generales» precisa una regla de contratación, licitación, supervisión, garantía o documento contractual. En las páginas 17 articula responsabilidades, controles, información verificable y decisiones del contratante y contratista. La consecuencia es reducir discrecionalidad y asegurar que la conservación se ejecute y pague conforme a reglas explícitas.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "10.03 Alcance de las actividades del mantenimiento",
+              "nivel": 3,
+              "paginas": "18-22",
+              "resumen": "La ficha «10.03 Alcance de las actividades del mantenimiento» precisa una regla de contratación, licitación, supervisión, garantía o documento contractual. En las páginas 18-22 articula responsabilidades, controles, información verificable y decisiones del contratante y contratista. La consecuencia es reducir discrecionalidad y asegurar que la conservación se ejecute y pague conforme a reglas explícitas.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "10.04 Supervisión del trabajo",
+              "nivel": 3,
+              "paginas": "23",
+              "resumen": "La ficha «10.04 Supervisión del trabajo» precisa una regla de contratación, licitación, supervisión, garantía o documento contractual. En las páginas 23 articula responsabilidades, controles, información verificable y decisiones del contratante y contratista. La consecuencia es reducir discrecionalidad y asegurar que la conservación se ejecute y pague conforme a reglas explícitas.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "10.05 Obligaciones del contratista de obras",
+              "nivel": 3,
+              "paginas": "24",
+              "resumen": "La ficha «10.05 Obligaciones del contratista de obras» precisa una regla de contratación, licitación, supervisión, garantía o documento contractual. En las páginas 24 articula responsabilidades, controles, información verificable y decisiones del contratante y contratista. La consecuencia es reducir discrecionalidad y asegurar que la conservación se ejecute y pague conforme a reglas explícitas.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "10.06 Control de calidad",
+              "nivel": 3,
+              "paginas": "25",
+              "resumen": "La ficha «10.06 Control de calidad» precisa una regla de contratación, licitación, supervisión, garantía o documento contractual. En las páginas 25 articula responsabilidades, controles, información verificable y decisiones del contratante y contratista. La consecuencia es reducir discrecionalidad y asegurar que la conservación se ejecute y pague conforme a reglas explícitas.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "10.07 Medición y pago",
+              "nivel": 3,
+              "paginas": "26",
+              "resumen": "La ficha «10.07 Medición y pago» precisa una regla de contratación, licitación, supervisión, garantía o documento contractual. En las páginas 26 articula responsabilidades, controles, información verificable y decisiones del contratante y contratista. La consecuencia es reducir discrecionalidad y asegurar que la conservación se ejecute y pague conforme a reglas explícitas.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Sección 11. Descripción de los trabajos de mantenimiento contratado con base en estándares o niveles de servicio",
+          "nivel": 2,
+          "paginas": "26-37",
+          "resumen": "Mapa de contratación por estándares o niveles de servicio: tránsito, autocontrol de calidad e incumplimiento.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "11.01 Mantenimiento contratado a base de estándares o niveles de servicio",
+              "nivel": 3,
+              "paginas": "26-29",
+              "resumen": "La ficha «11.01 Mantenimiento contratado a base de estándares o niveles de servicio» precisa una regla de contratación, licitación, supervisión, garantía o documento contractual. En las páginas 26-29 articula responsabilidades, controles, información verificable y decisiones del contratante y contratista. La consecuencia es reducir discrecionalidad y asegurar que la conservación se ejecute y pague conforme a reglas explícitas.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "11.02 Mantenimiento del tránsito y medidas de seguridad",
+              "nivel": 3,
+              "paginas": "30",
+              "resumen": "La ficha «11.02 Mantenimiento del tránsito y medidas de seguridad» precisa una regla de contratación, licitación, supervisión, garantía o documento contractual. En las páginas 30 articula responsabilidades, controles, información verificable y decisiones del contratante y contratista. La consecuencia es reducir discrecionalidad y asegurar que la conservación se ejecute y pague conforme a reglas explícitas.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "11.03 Programa de autocontrol de calidad del contratista",
+              "nivel": 3,
+              "paginas": "31-34",
+              "resumen": "La ficha «11.03 Programa de autocontrol de calidad del contratista» precisa una regla de contratación, licitación, supervisión, garantía o documento contractual. En las páginas 31-34 articula responsabilidades, controles, información verificable y decisiones del contratante y contratista. La consecuencia es reducir discrecionalidad y asegurar que la conservación se ejecute y pague conforme a reglas explícitas.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "11.04 Acciones por incumplimiento",
+              "nivel": 3,
+              "paginas": "35-37",
+              "resumen": "La ficha «11.04 Acciones por incumplimiento» precisa una regla de contratación, licitación, supervisión, garantía o documento contractual. En las páginas 35-37 articula responsabilidades, controles, información verificable y decisiones del contratante y contratista. La consecuencia es reducir discrecionalidad y asegurar que la conservación se ejecute y pague conforme a reglas explícitas.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Sección 12. Abreviaturas, definiciones y medidas",
+          "nivel": 2,
+          "paginas": "38-39",
+          "resumen": "Esta sección funciona como referencia terminológica y de unidades para leer las especificaciones técnicas y contractuales. Sus apartados internos no están incluidos como objetos independientes en el índice fijado, pero el encabezado delimita el soporte de interpretación. La consecuencia es reducir ambigüedades al licitar, supervisar, medir y pagar actividades.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Sección 13. Procesos de licitación",
+          "nivel": 2,
+          "paginas": "40-44",
+          "resumen": "Mapa de licitación: principios, precalificación, ofertas, aclaraciones, visitas, especificaciones y normas.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "13.01 Principios que rigen los procesos de licitación",
+              "nivel": 3,
+              "paginas": "41",
+              "resumen": "La ficha «13.01 Principios que rigen los procesos de licitación» precisa una regla de contratación, licitación, supervisión, garantía o documento contractual. En las páginas 41 articula responsabilidades, controles, información verificable y decisiones del contratante y contratista. La consecuencia es reducir discrecionalidad y asegurar que la conservación se ejecute y pague conforme a reglas explícitas.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "13.02 La precalificación",
+              "nivel": 3,
+              "paginas": "41",
+              "resumen": "La ficha «13.02 La precalificación» precisa una regla de contratación, licitación, supervisión, garantía o documento contractual. En las páginas 41 articula responsabilidades, controles, información verificable y decisiones del contratante y contratista. La consecuencia es reducir discrecionalidad y asegurar que la conservación se ejecute y pague conforme a reglas explícitas.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "13.03 Proceso de licitación",
+              "nivel": 3,
+              "paginas": "42-43",
+              "resumen": "La ficha «13.03 Proceso de licitación» precisa una regla de contratación, licitación, supervisión, garantía o documento contractual. En las páginas 42-43 articula responsabilidades, controles, información verificable y decisiones del contratante y contratista. La consecuencia es reducir discrecionalidad y asegurar que la conservación se ejecute y pague conforme a reglas explícitas.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "13.04 Aclaraciones respecto a los documentos de licitación",
+              "nivel": 3,
+              "paginas": "44",
+              "resumen": "La ficha «13.04 Aclaraciones respecto a los documentos de licitación» precisa una regla de contratación, licitación, supervisión, garantía o documento contractual. En las páginas 44 articula responsabilidades, controles, información verificable y decisiones del contratante y contratista. La consecuencia es reducir discrecionalidad y asegurar que la conservación se ejecute y pague conforme a reglas explícitas.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "13.05 Reunión de homologación y visita al sitio de la obra",
+              "nivel": 3,
+              "paginas": "44",
+              "resumen": "La ficha «13.05 Reunión de homologación y visita al sitio de la obra» precisa una regla de contratación, licitación, supervisión, garantía o documento contractual. En las páginas 44 articula responsabilidades, controles, información verificable y decisiones del contratante y contratista. La consecuencia es reducir discrecionalidad y asegurar que la conservación se ejecute y pague conforme a reglas explícitas.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "13.06 Estudio de los documentos de licitación y solicitud de aclaraciones",
+              "nivel": 3,
+              "paginas": "44",
+              "resumen": "La ficha «13.06 Estudio de los documentos de licitación y solicitud de aclaraciones» precisa una regla de contratación, licitación, supervisión, garantía o documento contractual. En las páginas 44 articula responsabilidades, controles, información verificable y decisiones del contratante y contratista. La consecuencia es reducir discrecionalidad y asegurar que la conservación se ejecute y pague conforme a reglas explícitas.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "13.07 Especificaciones particulares",
+              "nivel": 3,
+              "paginas": "45",
+              "resumen": "La ficha «13.07 Especificaciones particulares» precisa una regla de contratación, licitación, supervisión, garantía o documento contractual. En las páginas 45 articula responsabilidades, controles, información verificable y decisiones del contratante y contratista. La consecuencia es reducir discrecionalidad y asegurar que la conservación se ejecute y pague conforme a reglas explícitas.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "13.08 Especificaciones suplementarias",
+              "nivel": 3,
+              "paginas": "45",
+              "resumen": "La ficha «13.08 Especificaciones suplementarias» precisa una regla de contratación, licitación, supervisión, garantía o documento contractual. En las páginas 45 articula responsabilidades, controles, información verificable y decisiones del contratante y contratista. La consecuencia es reducir discrecionalidad y asegurar que la conservación se ejecute y pague conforme a reglas explícitas.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "13.09 Modificaciones y normas de referencia",
+              "nivel": 3,
+              "paginas": "45",
+              "resumen": "La ficha «13.09 Modificaciones y normas de referencia» precisa una regla de contratación, licitación, supervisión, garantía o documento contractual. En las páginas 45 articula responsabilidades, controles, información verificable y decisiones del contratante y contratista. La consecuencia es reducir discrecionalidad y asegurar que la conservación se ejecute y pague conforme a reglas explícitas.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Sección 14. Apertura y evaluación de las ofertas y adjudicación del contrato",
+          "nivel": 2,
+          "paginas": "45-46",
+          "resumen": "Mapa de apertura, evaluación, descalificación y adjudicación de ofertas.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "14.01 Apertura de ofertas",
+              "nivel": 3,
+              "paginas": "45",
+              "resumen": "La ficha «14.01 Apertura de ofertas» precisa una regla de contratación, licitación, supervisión, garantía o documento contractual. En las páginas 45 articula responsabilidades, controles, información verificable y decisiones del contratante y contratista. La consecuencia es reducir discrecionalidad y asegurar que la conservación se ejecute y pague conforme a reglas explícitas.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "14.02 Evaluación y comparación de las ofertas",
+              "nivel": 3,
+              "paginas": "46",
+              "resumen": "La ficha «14.02 Evaluación y comparación de las ofertas» precisa una regla de contratación, licitación, supervisión, garantía o documento contractual. En las páginas 46 articula responsabilidades, controles, información verificable y decisiones del contratante y contratista. La consecuencia es reducir discrecionalidad y asegurar que la conservación se ejecute y pague conforme a reglas explícitas.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "14.03 Descalificación de una oferta",
+              "nivel": 3,
+              "paginas": "46",
+              "resumen": "La ficha «14.03 Descalificación de una oferta» precisa una regla de contratación, licitación, supervisión, garantía o documento contractual. En las páginas 46 articula responsabilidades, controles, información verificable y decisiones del contratante y contratista. La consecuencia es reducir discrecionalidad y asegurar que la conservación se ejecute y pague conforme a reglas explícitas.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "14.04 Adjudicación del contrato",
+              "nivel": 3,
+              "paginas": "47",
+              "resumen": "La ficha «14.04 Adjudicación del contrato» precisa una regla de contratación, licitación, supervisión, garantía o documento contractual. En las páginas 47 articula responsabilidades, controles, información verificable y decisiones del contratante y contratista. La consecuencia es reducir discrecionalidad y asegurar que la conservación se ejecute y pague conforme a reglas explícitas.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Sección 15. Garantías (fianzas) y seguros",
+          "nivel": 2,
+          "paginas": "47",
+          "resumen": "Mapa de garantías y seguros exigibles para cubrir obligaciones y riesgos contractuales.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "15.01 Garantías (fianzas)",
+              "nivel": 3,
+              "paginas": "47",
+              "resumen": "La ficha «15.01 Garantías (fianzas)» precisa una regla de contratación, licitación, supervisión, garantía o documento contractual. En las páginas 47 articula responsabilidades, controles, información verificable y decisiones del contratante y contratista. La consecuencia es reducir discrecionalidad y asegurar que la conservación se ejecute y pague conforme a reglas explícitas.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Sección 16. Documentos contractuales y tipos de contrato",
+          "nivel": 2,
+          "paginas": "47-50",
+          "resumen": "Mapa de documentos contractuales, precios unitarios, estándares y contenidos mínimos.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "16.01 Documentos contractuales",
+              "nivel": 3,
+              "paginas": "47",
+              "resumen": "La ficha «16.01 Documentos contractuales» precisa una regla de contratación, licitación, supervisión, garantía o documento contractual. En las páginas 47 articula responsabilidades, controles, información verificable y decisiones del contratante y contratista. La consecuencia es reducir discrecionalidad y asegurar que la conservación se ejecute y pague conforme a reglas explícitas.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "16.02 Descripción de contratos a precios unitarios",
+              "nivel": 3,
+              "paginas": "48",
+              "resumen": "La ficha «16.02 Descripción de contratos a precios unitarios» precisa una regla de contratación, licitación, supervisión, garantía o documento contractual. En las páginas 48 articula responsabilidades, controles, información verificable y decisiones del contratante y contratista. La consecuencia es reducir discrecionalidad y asegurar que la conservación se ejecute y pague conforme a reglas explícitas.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "16.03 Descripción de contratos por estándares o niveles de servicio",
+              "nivel": 3,
+              "paginas": "48",
+              "resumen": "La ficha «16.03 Descripción de contratos por estándares o niveles de servicio» precisa una regla de contratación, licitación, supervisión, garantía o documento contractual. En las páginas 48 articula responsabilidades, controles, información verificable y decisiones del contratante y contratista. La consecuencia es reducir discrecionalidad y asegurar que la conservación se ejecute y pague conforme a reglas explícitas.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "16.04 Propuesta de contenidos de contratos",
+              "nivel": 3,
+              "paginas": "49-50",
+              "resumen": "La ficha «16.04 Propuesta de contenidos de contratos» precisa una regla de contratación, licitación, supervisión, garantía o documento contractual. En las páginas 49-50 articula responsabilidades, controles, información verificable y decisiones del contratante y contratista. La consecuencia es reducir discrecionalidad y asegurar que la conservación se ejecute y pague conforme a reglas explícitas.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Sección 50. Reducción del riesgo de desastres y adaptación sostenible e incluyente al cambio climático",
+          "nivel": 2,
+          "paginas": "51-65",
+          "resumen": "Mapa de reducción del riesgo y adaptación climática: conceptos, objetivos, amenazas, política y secuencia de adaptación.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "50.01 Introducción",
+              "nivel": 3,
+              "paginas": "51",
+              "resumen": "La hoja diagnostica la exposición regional del transporte a desastres y cambio climático y la convierte en un problema económico y social. Aporta cifras de daños y pérdidas de Mitch, Stan, Ágatha y Eta-Iota, incluidos puentes, caminos pavimentados y no pavimentados, para justificar adaptación, mitigación y reducción del riesgo. La consecuencia de política es actualizar mantenimiento y diseño para reducir vulnerabilidad, daños ambientales, accidentes e interrupciones del servicio.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "De acuerdo con el Sexto Informe de Evaluación del Grupo Intergubernamental de Expertos \nSobre el Cambio Climático (2022), en la mayoría de los sectores de la región centroamericana, la \nvulnerabilidad ante el cambio climático se considera alta o muy alta.",
+                  "pagina": 51
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "50.02 Marco conceptual",
+              "nivel": 3,
+              "paginas": "52-54",
+              "resumen": "La hoja ordena adaptación, cambio climático, exposición, amenaza, impacto, pérdidas, daños, resiliencia, riesgo, vulnerabilidad y mitigación. El mecanismo es un vocabulario común que conecta condiciones físicas con consecuencias sobre activos, servicios, ecosistemas y población, y que permite distinguir amenazas, exposición y capacidad de respuesta. La consecuencia de política es basar las medidas de mantenimiento en relaciones explícitas entre peligro, vulnerabilidad, riesgo y resultado esperado.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "El cambio climático se refiere a una variación del estado del clima identificable en las variaciones \ndel valor medio o en la variabilidad de sus propiedades, que persiste durante períodos prolongados, \ngeneralmente décadas o períodos más largos.",
+                  "pagina": 53
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "50.03 Objetivos",
+              "nivel": 3,
+              "paginas": "55",
+              "resumen": "La hoja transforma el enfoque de riesgo y adaptación en objetivos operativos: transversalizar la gestión del riesgo y el cambio climático en el mantenimiento, reducir vulnerabilidad y daños, mejorar seguridad vial, usar nuevas tecnologías, mitigar impactos ambientales y reconstruir mejor. El instrumento es la incorporación de esos objetivos en las actividades y decisiones técnicas. La consecuencia de política es que la conservación contribuya a resiliencia, seguridad, eficiencia y vida útil.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Implementar y transversalizar la gestión del riesgo de desastres y cambio climático en todas las \nactividades relacionadas al mantenimiento de carreteras con el fin de evitar daños y pérdidas sobre los \nactivos viales, así como garantizar la seguridad de las personas y una gestión eficiente en el manejo de \nbienes en general.",
+                  "pagina": 55
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "50.04 Principales amenazas o peligros identificados en la región centroamericana",
+              "nivel": 3,
+              "paginas": "55-56",
+              "resumen": "La hoja clasifica amenazas geológicas, meteorológicas e hidrológicas, sociales y ambientales, y aporta el registro EM-DAT de 447 desastres naturales entre 2000 y 2022, con desglose por país y tipo de evento. El mecanismo es usar evidencia histórica de tormentas, inundaciones, sequías, deslizamientos y temperaturas extremas para reconocer exposición y priorizar activos y medidas. La consecuencia de política es orientar inspección, diseño, mantenimiento y preparación hacia amenazas recurrentes y extremas.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Con respecto a las amenazas meteorológicas e hidrológicas, la base de datos de eventos de \nemergencias (EM-DAT) registra 447 desastres de origen natural (tormentas, inundaciones, \ndeslizamientos, sequías y temperaturas extremas entre 2000 y 2022.",
+                  "pagina": 56
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "50.05 Antecedentes e instrumentos de política regional de la gestión de riesgo de desastres",
+              "nivel": 3,
+              "paginas": "56-57",
+              "resumen": "La hoja reconstruye el andamiaje regional de COMITRAN, Marco de Sendai, Reconstruir mejor, PRRD, PCGIR y la coordinación CEPREDENAC-SIECA. El instrumento central es una política pública regional con ejes de inversión, compensación social, cambio climático, gobernanza y recuperación, que conecta la gestión del riesgo con infraestructura y desarrollo. La consecuencia es que las especificaciones viales se articulen con decisiones regionales y no queden como una prescripción técnica aislada.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "La \nPCGIR es el instrumento de política pública utilizado como marco de referencia especializada para \norientar las acciones del riesgo de desastres a nivel de la región centroamericana.",
+                  "pagina": 57
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "50.06 Adaptación al cambio climático",
+              "nivel": 3,
+              "paginas": "58-65",
+              "resumen": "La ficha «50.06 Adaptación al cambio climático» organiza el asunto anunciado mediante reglas, datos o procedimientos aplicables a la conservación vial. En las páginas 58-65 conecta la ejecución con supervisión, medición, control y decisión contractual. La consecuencia de política es hacer verificable la intervención y proteger continuidad, seguridad y vida útil. La secuencia también exige valorar alternativas, incorporar medidas RRDASICC al mantenimiento vial y revisar su efectividad con información de operación, de modo que la adaptación sea una decisión trazable y no una mención general.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Identificar cuáles son los cambios experimentados y esperados en los parámetros climáticos \ndel área donde se ubica el proyecto: precipitación, temperatura, entre otros.",
+                  "pagina": 58
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Sección 60. Gestión ambiental",
+          "nivel": 2,
+          "paginas": "66-74",
+          "resumen": "Mapa de gestión ambiental: introducción, conceptos e instrumentos para evaluar, mitigar, monitorear y controlar impactos.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "60.01 Introducción",
+              "nivel": 3,
+              "paginas": "66",
+              "resumen": "La ficha «60.01 Introducción» organiza el asunto anunciado mediante reglas, datos o procedimientos aplicables a la conservación vial. En las páginas 66 conecta la ejecución con supervisión, medición, control y decisión contractual. La consecuencia de política es hacer verificable la intervención y proteger continuidad, seguridad y vida útil.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "La gestión ambiental se fundamenta en un conjunto de regulaciones, leyes, normativas y \nprocedimientos, entre otros instrumentos orientados a la protección del medio ambiente.",
+                  "pagina": 66
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "60.02 Marco conceptual de la gestión ambiental",
+              "nivel": 3,
+              "paginas": "66",
+              "resumen": "La ficha «60.02 Marco conceptual de la gestión ambiental» organiza el asunto anunciado mediante reglas, datos o procedimientos aplicables a la conservación vial. En las páginas 66 conecta la ejecución con supervisión, medición, control y decisión contractual. La consecuencia de política es hacer verificable la intervención y proteger continuidad, seguridad y vida útil. La adaptación basada en ecosistemas y el análisis de ciclo de vida amplían el examen desde la obra puntual hacia servicios ecosistémicos, materiales, reparación, mantenimiento y eliminación o reciclaje.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Adaptación basada en los ecosistemas. El uso de la biodiversidad y los servicios \necosistémicos como parte de una estrategia integral para ayudar a las personas a adaptarse \na los efectos adversos del cambio climático.",
+                  "pagina": 66
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "60.03 Instrumentos de gestión ambiental",
+              "nivel": 3,
+              "paginas": "67-74",
+              "resumen": "La ficha «60.03 Instrumentos de gestión ambiental» organiza el asunto anunciado mediante reglas, datos o procedimientos aplicables a la conservación vial. En las páginas 67-74 conecta la ejecución con supervisión, medición, control y decisión contractual. La consecuencia de política es hacer verificable la intervención y proteger continuidad, seguridad y vida útil. El programa debe quedar aprobado por la autoridad competente y servir a responsables, reguladores y empresas para verificar cumplimiento, corregir impactos y sostener la sostenibilidad socioambiental durante toda la intervención. Su función es convertir el criterio ambiental en una obligación documentada y monitoreable.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "El programa de gestión socioambiental es un instrumento para la gestión socioambiental del \nproyecto en sus diferentes fases: construcción, operación, mantenimiento y cierre.",
+                  "pagina": 68
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "Capítulo 2",
+      "nivel": 1,
+      "paginas": "75",
+      "resumen": "El capítulo organiza las especificaciones de mantenimiento por activos y actividades de la red vial: derecho de vía, caminos, pavimentos, hombros, taludes, drenajes, señalización, puentes, estructuras menores, emergencias y mezclas. La secuencia vincula procedimiento, materiales, control, medición y pago con continuidad y seguridad. La consecuencia es disponer de un catálogo operativo para programar y contratar intervenciones.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "Sección 100. Derecho de vía",
+          "nivel": 2,
+          "paginas": "75",
+          "resumen": "La ficha «Sección 100. Derecho de vía» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 75 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "101. Limpieza del derecho de vía",
+              "nivel": 3,
+              "paginas": "75",
+              "resumen": "La ficha «101. Limpieza del derecho de vía» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 75 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "102. Remoción de vallas publicitarias, estructuras y obstáculos",
+              "nivel": 3,
+              "paginas": "76-77",
+              "resumen": "La ficha «102. Remoción de vallas publicitarias, estructuras y obstáculos» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 76-77 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "103. Remoción de derrumbes menores",
+              "nivel": 3,
+              "paginas": "78",
+              "resumen": "La ficha «103. Remoción de derrumbes menores» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 78 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "104. Limpieza de elementos de seguridad vertical existente",
+              "nivel": 3,
+              "paginas": "79",
+              "resumen": "La ficha «104. Limpieza de elementos de seguridad vertical existente» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 79 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "105. Acciones para reducir la vulnerabilidad en el derecho de vía",
+              "nivel": 3,
+              "paginas": "80-82",
+              "resumen": "La hoja convierte la vulnerabilidad del derecho de vía en un plan con análisis de riesgo, coordinación social, señalización, seguridad, comunicación y educación ambiental. El cuadro vincula amenazas, exposición, daños y medidas para limpieza, derrumbes y seguridad vertical. La consecuencia es mantener el corredor despejado y seguro, reduciendo cierres y daños.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Reducir la vulnerabilidad en el derecho de vía de las carreteras implica tomar medidas para garantizar \nla seguridad de las personas usuarias y proteger la infraestructura vial.",
+                  "pagina": 80
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Sección 200. Carreteras no pavimentadas",
+          "nivel": 2,
+          "paginas": "83",
+          "resumen": "La ficha «Sección 200. Carreteras no pavimentadas» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 83 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "201. Conformación de carreteras de tierra",
+              "nivel": 3,
+              "paginas": "83",
+              "resumen": "La ficha «201. Conformación de carreteras de tierra» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 83 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "202. Conformación de carreteras balastadas sin reposición de dicho material",
+              "nivel": 3,
+              "paginas": "84",
+              "resumen": "La ficha «202. Conformación de carreteras balastadas sin reposición de dicho material» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 84 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "203. Reposición de capa de balasto",
+              "nivel": 3,
+              "paginas": "85-88",
+              "resumen": "La ficha «203. Reposición de capa de balasto» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 85-88 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "204. Reparación de zonas inestables",
+              "nivel": 3,
+              "paginas": "89",
+              "resumen": "La ficha «204. Reparación de zonas inestables» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 89 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "205. Bacheo menor",
+              "nivel": 3,
+              "paginas": "90",
+              "resumen": "La ficha «205. Bacheo menor» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 90 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "206. Pavimentos unicapa de alto desempeño (PUAD)",
+              "nivel": 3,
+              "paginas": "91-94",
+              "resumen": "La ficha «206. Pavimentos unicapa de alto desempeño (PUAD)» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 91-94 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "207. Estabilización de suelos con cal o mezclas de cal y cemento",
+              "nivel": 3,
+              "paginas": "95-99",
+              "resumen": "La ficha «207. Estabilización de suelos con cal o mezclas de cal y cemento» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 95-99 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "208. Tratamientos de suelos con estabilizadores orgánicos",
+              "nivel": 3,
+              "paginas": "100",
+              "resumen": "La ficha «208. Tratamientos de suelos con estabilizadores orgánicos» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 100 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "209. Estabilización de suelos con emulsión",
+              "nivel": 3,
+              "paginas": "101-102",
+              "resumen": "La ficha «209. Estabilización de suelos con emulsión» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 101-102 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "210. Carrileras o huellas de concreto hidráulico",
+              "nivel": 3,
+              "paginas": "103",
+              "resumen": "La ficha «210. Carrileras o huellas de concreto hidráulico» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 103 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "211. Vulnerabilidad en carreteras no pavimentadas",
+              "nivel": 3,
+              "paginas": "104-105",
+              "resumen": "La hoja explica la mayor exposición de las carreteras no pavimentadas a eventos hidrometeorológicos y su necesidad de mantenimiento frecuente y costoso. Propone drenajes, prevención, rutas alternativas y estabilización con cal o emulsiones, junto con análisis, ensayes y planificación. La consecuencia es proteger nivel de servicio, medios de vida, seguridad y continuidad.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Las carreteras no pavimentadas son más vulnerables a los eventos hidrometeorológicos extremos en \ncomparación con las carreteras pavimentadas por su exposición directa al clima.",
+                  "pagina": 104
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Para reducir el riesgo de desastres se deben implementar medidas orientadas a reducir la \nvulnerabilidad de los activos viales en las carreteras no pavimentadas, tales como medidas \nadecuadas de gestión y mantenimiento, construcción o mejoramiento de los drenajes existentes, \nrealización de mantenimiento preventivo y planificación de rutas alternativas en caso de cierres \ntemporales.",
+                  "pagina": 104
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Sección 300. Pavimentos asfálticos",
+          "nivel": 2,
+          "paginas": "106",
+          "resumen": "La ficha «Sección 300. Pavimentos asfálticos» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 106 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "301. Sello de fisuras y grietas en pavimentos asfálticos",
+              "nivel": 3,
+              "paginas": "106-108",
+              "resumen": "La ficha «301. Sello de fisuras y grietas en pavimentos asfálticos» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 106-108 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "302. Reparación de áreas de falla (bacheo profundo o mayor)",
+              "nivel": 3,
+              "paginas": "109-112",
+              "resumen": "La ficha «302. Reparación de áreas de falla (bacheo profundo o mayor)» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 109-112 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "303. Bacheo superficial o menor de pavimentos asfálticos",
+              "nivel": 3,
+              "paginas": "113",
+              "resumen": "La ficha «303. Bacheo superficial o menor de pavimentos asfálticos» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 113 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "304. Colocación de capa asfáltica de refuerzo en frío o caliente",
+              "nivel": 3,
+              "paginas": "114-116",
+              "resumen": "La ficha «304. Colocación de capa asfáltica de refuerzo en frío o caliente» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 114-116 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "305. Escarificación, recuperación y reconformación de carpeta asfáltica",
+              "nivel": 3,
+              "paginas": "117-118",
+              "resumen": "La ficha «305. Escarificación, recuperación y reconformación de carpeta asfáltica» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 117-118 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "306. Base triturada",
+              "nivel": 3,
+              "paginas": "119-120",
+              "resumen": "La ficha «306. Base triturada» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 119-120 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "307. Riego de imprimación",
+              "nivel": 3,
+              "paginas": "121-122",
+              "resumen": "La ficha «307. Riego de imprimación» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 121-122 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "308. Material secante",
+              "nivel": 3,
+              "paginas": "123",
+              "resumen": "La ficha «308. Material secante» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 123 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Manual centroamericano de mantenimiento de carreteras con enfoque de reducción de riesgo de desastres… 309. Riego de liga",
+              "nivel": 3,
+              "paginas": "124",
+              "resumen": "La ficha «Manual centroamericano de mantenimiento de carreteras con enfoque de reducción de riesgo de desastres… 309. Riego de liga» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 124 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "310. Tratamientos asfálticos superficiales",
+              "nivel": 3,
+              "paginas": "125-128",
+              "resumen": "La ficha «310. Tratamientos asfálticos superficiales» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 125-128 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "311. Lechada asfáltica (slurry seal)",
+              "nivel": 3,
+              "paginas": "129-132",
+              "resumen": "La ficha «311. Lechada asfáltica (slurry seal)» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 129-132 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "312. Microcarpeta (microsurfacing)",
+              "nivel": 3,
+              "paginas": "133-136",
+              "resumen": "La ficha «312. Microcarpeta (microsurfacing)» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 133-136 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "313. Reciclaje o recuperado en frío de pavimentos asfálticos",
+              "nivel": 3,
+              "paginas": "137-139",
+              "resumen": "La ficha «313. Reciclaje o recuperado en frío de pavimentos asfálticos» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 137-139 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "314. Colocación de base estabilizada",
+              "nivel": 3,
+              "paginas": "140-147",
+              "resumen": "La ficha «314. Colocación de base estabilizada» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 140-147 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale. La ficha vincula la preparación, colocación y aceptación de una base con el control de materiales, equipo, espesores y compactación, de manera que el soporte resultante sea uniforme y pueda recibir la carpeta o tratamiento posterior sin transferir fallas a capas superiores. La consecuencia es reducir intervenciones repetidas y costos de conservación.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "315. Reciclaje o recuperado en caliente de pavimentos asfálticos",
+              "nivel": 3,
+              "paginas": "148-150",
+              "resumen": "La ficha «315. Reciclaje o recuperado en caliente de pavimentos asfálticos» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 148-150 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "316. Sello de pavimento con emulsiones",
+              "nivel": 3,
+              "paginas": "151",
+              "resumen": "La ficha «316. Sello de pavimento con emulsiones» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 151 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "317. Perfilado de la capa de rodadura en pavimentos asfálticos",
+              "nivel": 3,
+              "paginas": "152-155",
+              "resumen": "La ficha «317. Perfilado de la capa de rodadura en pavimentos asfálticos» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 152-155 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Sección 400. Pavimentos rígidos",
+          "nivel": 2,
+          "paginas": "156",
+          "resumen": "La ficha «Sección 400. Pavimentos rígidos» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 156 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "401. Sellado de juntas, fisuras y grietas en concreto hidráulico",
+              "nivel": 3,
+              "paginas": "156-157",
+              "resumen": "La ficha «401. Sellado de juntas, fisuras y grietas en concreto hidráulico» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 156-157 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "402. Reparación de losas de concreto hidráulico",
+              "nivel": 3,
+              "paginas": "158-162",
+              "resumen": "La ficha «402. Reparación de losas de concreto hidráulico» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 158-162 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Sección 500. Hombros",
+          "nivel": 2,
+          "paginas": "163",
+          "resumen": "La ficha «Sección 500. Hombros» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 163 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "501. Reconstrucción de hombros en carreteras pavimentadas",
+              "nivel": 3,
+              "paginas": "163-164",
+              "resumen": "La ficha «501. Reconstrucción de hombros en carreteras pavimentadas» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 163-164 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "502. Mantenimiento de hombros",
+              "nivel": 3,
+              "paginas": "165",
+              "resumen": "La ficha «502. Mantenimiento de hombros» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 165 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "503. Estabilización de hombros con suelo cemento",
+              "nivel": 3,
+              "paginas": "165-168",
+              "resumen": "La ficha «503. Estabilización de hombros con suelo cemento» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 165-168 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Sección 600. Pavimentos semirrígidos",
+          "nivel": 2,
+          "paginas": "169",
+          "resumen": "La ficha «Sección 600. Pavimentos semirrígidos» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 169 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "601. Pavimento de adoquines de concreto",
+              "nivel": 3,
+              "paginas": "169-173",
+              "resumen": "La ficha «601. Pavimento de adoquines de concreto» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 169-173 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Sección 700. Taludes",
+          "nivel": 2,
+          "paginas": "174",
+          "resumen": "La ficha «Sección 700. Taludes» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 174 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "701. Mantenimiento de taludes de corte",
+              "nivel": 3,
+              "paginas": "174-175",
+              "resumen": "La ficha «701. Mantenimiento de taludes de corte» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 174-175 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "702. Mantenimiento de taludes de relleno",
+              "nivel": 3,
+              "paginas": "176-179",
+              "resumen": "La ficha «702. Mantenimiento de taludes de relleno» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 176-179 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Sección 800. Drenajes",
+          "nivel": 2,
+          "paginas": "180",
+          "resumen": "La ficha «Sección 800. Drenajes» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 180 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "801. Suministro, transporte y colocación de alcantarillas de tubo",
+              "nivel": 3,
+              "paginas": "180-182",
+              "resumen": "La ficha «801. Suministro, transporte y colocación de alcantarillas de tubo» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 180-182 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "802. Limpieza de alcantarillas y otras estructuras de drenaje",
+              "nivel": 3,
+              "paginas": "183",
+              "resumen": "La ficha «802. Limpieza de alcantarillas y otras estructuras de drenaje» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 183 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "803. Limpieza de subdrenajes",
+              "nivel": 3,
+              "paginas": "184",
+              "resumen": "La ficha «803. Limpieza de subdrenajes» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 184 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "804. Construcción de cunetas revestidas",
+              "nivel": 3,
+              "paginas": "185-186",
+              "resumen": "La ficha «804. Construcción de cunetas revestidas» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 185-186 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "805. Reconformación de cunetas sin revestir",
+              "nivel": 3,
+              "paginas": "187",
+              "resumen": "La ficha «805. Reconformación de cunetas sin revestir» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 187 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "806. Limpieza de cunetas en carreteras no pavimentadas",
+              "nivel": 3,
+              "paginas": "188-190",
+              "resumen": "La ficha «806. Limpieza de cunetas en carreteras no pavimentadas» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 188-190 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Sección 900. Señalización",
+          "nivel": 2,
+          "paginas": "191",
+          "resumen": "La ficha «Sección 900. Señalización» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 191 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "901. Mantenimiento y reposición de señalización horizontal",
+              "nivel": 3,
+              "paginas": "191-194",
+              "resumen": "La ficha «901. Mantenimiento y reposición de señalización horizontal» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 191-194 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "902. Mantenimiento y reposición de señalización vertical",
+              "nivel": 3,
+              "paginas": "195",
+              "resumen": "La ficha «902. Mantenimiento y reposición de señalización vertical» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 195 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "903. Mantenimiento y reposición de marcador reflectorizado de pavimento (vialetas, ojo de gato o captafaro)",
+              "nivel": 3,
+              "paginas": "196-197",
+              "resumen": "La ficha «903. Mantenimiento y reposición de marcador reflectorizado de pavimento (vialetas, ojo de gato o captafaro)» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 196-197 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "904. Mantenimiento y reposición de postes de kilometraje",
+              "nivel": 3,
+              "paginas": "198",
+              "resumen": "La ficha «904. Mantenimiento y reposición de postes de kilometraje» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 198 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "905. Mantenimiento y reposición de postes delineadores",
+              "nivel": 3,
+              "paginas": "199",
+              "resumen": "La ficha «905. Mantenimiento y reposición de postes delineadores» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 199 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "906. Mantenimiento de pórticos y banderas de señalización",
+              "nivel": 3,
+              "paginas": "200-201",
+              "resumen": "La ficha «906. Mantenimiento de pórticos y banderas de señalización» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 200-201 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "907. Mantenimiento y reemplazo de defensas metálicas",
+              "nivel": 3,
+              "paginas": "202",
+              "resumen": "La ficha «907. Mantenimiento y reemplazo de defensas metálicas» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 202 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "908. Mantenimiento y reposición de barandas separadoras de concreto",
+              "nivel": 3,
+              "paginas": "203-205",
+              "resumen": "La ficha «908. Mantenimiento y reposición de barandas separadoras de concreto» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 203-205 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Sección 1000. Puentes",
+          "nivel": 2,
+          "paginas": "206",
+          "resumen": "La ficha «Sección 1000. Puentes» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 206 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "El Manual centroamericano de gestión del riesgo para puentes es una herramienta necesaria para \nreducir los riesgos de desastres en estas importantes estructuras.",
+              "pagina": 206
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "1001. Mantenimiento de puentes",
+              "nivel": 3,
+              "paginas": "206",
+              "resumen": "La ficha «1001. Mantenimiento de puentes» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 206 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1002. Limpieza y restitución del cauce en ríos y canales",
+              "nivel": 3,
+              "paginas": "206-208",
+              "resumen": "La ficha «1002. Limpieza y restitución del cauce en ríos y canales» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 206-208 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1003. Reconstrucción de barandales de concreto en puentes",
+              "nivel": 3,
+              "paginas": "209",
+              "resumen": "La ficha «1003. Reconstrucción de barandales de concreto en puentes» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 209 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1004. Reparación de daños en la superestructura del puente de concreto reforzado, debido a la corrosión del acero de refuerzo",
+              "nivel": 3,
+              "paginas": "210",
+              "resumen": "La ficha «1004. Reparación de daños en la superestructura del puente de concreto reforzado, debido a la corrosión del acero de refuerzo» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 210 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1005. Reparación y pintura en puentes metálicos",
+              "nivel": 3,
+              "paginas": "211-212",
+              "resumen": "La ficha «1005. Reparación y pintura en puentes metálicos» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 211-212 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1006. Mantenimiento y reposición de juntas de construcción",
+              "nivel": 3,
+              "paginas": "213",
+              "resumen": "La ficha «1006. Mantenimiento y reposición de juntas de construcción» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 213 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1007. Reparación de accesos a puentes en carreteras pavimentadas",
+              "nivel": 3,
+              "paginas": "214-215",
+              "resumen": "La ficha «1007. Reparación de accesos a puentes en carreteras pavimentadas» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 214-215 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1008. Mantenimiento de puentes peatonales (pasarelas)",
+              "nivel": 3,
+              "paginas": "216-217",
+              "resumen": "La ficha «1008. Mantenimiento de puentes peatonales (pasarelas)» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 216-217 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1009. Reparación de puente provisional tipo Bailey",
+              "nivel": 3,
+              "paginas": "218-219",
+              "resumen": "La ficha «1009. Reparación de puente provisional tipo Bailey» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 218-219 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1010. Mantenimiento de puentes Bailey",
+              "nivel": 3,
+              "paginas": "220-221",
+              "resumen": "La ficha «1010. Mantenimiento de puentes Bailey» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 220-221 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1011. Mantenimiento y reparación de puentes de madera",
+              "nivel": 3,
+              "paginas": "222-226",
+              "resumen": "La ficha «1011. Mantenimiento y reparación de puentes de madera» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 222-226 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Sección 1100. Estructuras menores",
+          "nivel": 2,
+          "paginas": "227",
+          "resumen": "La ficha «Sección 1100. Estructuras menores» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 227 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1101. Reparación y mantenimiento de estructuras menores y obras de protección",
+              "nivel": 3,
+              "paginas": "227-228",
+              "resumen": "La ficha «1101. Reparación y mantenimiento de estructuras menores y obras de protección» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 227-228 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1102. Nivelación de pozos de visitas y cajas tragantes",
+              "nivel": 3,
+              "paginas": "229",
+              "resumen": "La ficha «1102. Nivelación de pozos de visitas y cajas tragantes» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 229 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1103. Construcción de muro de gaviones",
+              "nivel": 3,
+              "paginas": "230-231",
+              "resumen": "La ficha «1103. Construcción de muro de gaviones» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 230-231 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1104. Mantenimiento de estructuras de gaviones",
+              "nivel": 3,
+              "paginas": "232-234",
+              "resumen": "La ficha «1104. Mantenimiento de estructuras de gaviones» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 232-234 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Sección 1200. Trabajos imprevistos",
+          "nivel": 2,
+          "paginas": "235",
+          "resumen": "La sección establece cómo tratar actividades necesarias sin renglón ni precio contractual: recomendación del supervisor, aprobación del contratante y acuerdo de costos reales. El instrumento es un renglón contingente con trazabilidad de mano de obra, materiales y maquinaria. La consecuencia es atender necesidades no previstas sin una autorización opaca.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Sección 1300. Trabajos de emergencia",
+          "nivel": 2,
+          "paginas": "235",
+          "resumen": "La sección regula intervenciones inmediatas posteriores a fuerza mayor para habilitar el paso, como remoción de derrumbes, desvíos, reparación de puentes, vados y terraplenes. Exige aviso inmediato y disponibilidad del contratista, seguido por limpieza, restauración y protección. La consecuencia es recuperar conectividad y ordenar después la restitución durable.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Sección 1350. Fabricación de mezclas",
+          "nivel": 2,
+          "paginas": "236",
+          "resumen": "La sección reúne la fabricación de mezclas asfálticas en frío y caliente como soporte material de reparaciones. Define agregados, aglomerantes, granulometría, diseño, mezclado, control y aceptación del supervisor. La consecuencia es que la calidad y dosificación condicionen durabilidad, uso eficiente de recursos y seguridad.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1351. Fabricación de concreto asfáltico en frío",
+              "nivel": 3,
+              "paginas": "236",
+              "resumen": "La ficha «1351. Fabricación de concreto asfáltico en frío» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 236 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1352. Fabricación de concreto asfáltico en caliente",
+              "nivel": 3,
+              "paginas": "237-240",
+              "resumen": "La ficha «1352. Fabricación de concreto asfáltico en caliente» define una intervención concreta de mantenimiento vial y la vincula con el activo, daño o necesidad que debe resolver. En las páginas 237-240 ordena materiales, equipo, procedimiento bajo supervisión, medición y forma de pago cuando corresponde. La consecuencia de política es conservar funcionalidad y seguridad, controlar costos y evitar que el deterioro escale.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Sección 1400. Anexos",
+          "nivel": 2,
+          "paginas": "241-256",
+          "resumen": "Este encabezado identifica lineamientos complementarios sobre gestión de activos, drenajes, inundaciones, derrumbes, señalamiento y mantenimiento preventivo. Aunque los anexos internos no son objetos separados en el índice fijado, el bloque amplía la función del manual hacia inventarios, inspección, programación y prevención. La consecuencia es ordenar la conservación alrededor del riesgo y del ciclo de vida. El bloque también proporciona criterios para inspeccionar antes y después de lluvias, registrar el estado de activos, coordinar mantenimiento con diseño, gestionar sedimentos y estabilizar taludes. Incluye registros de accidentes y deterioro de señales, programación preventiva y uso de indicadores como rugosidad, roderas y macrotextura. Su función es conectar la especificación con inventarios, bases de datos, protocolos de respuesta y aprendizaje institucional; la consecuencia es que la prevención se programe antes de la temporada crítica y que los recursos se asignen según condición, riesgo y desempeño.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Los diseños de las alcantarillas deben ser preparados considerando las condiciones climáticas \nlocales, como las precipitaciones pluviales, la intensidad de las tormentas y las fluctuaciones de caudal.",
+              "pagina": 242
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "Capítulo 3",
+      "nivel": 1,
+      "paginas": "257",
+      "resumen": "Este capítulo cambia la unidad de gestión desde tareas aisladas hacia estándares o niveles de servicio verificables durante el contrato. Define indicadores, inspección, tolerancias y responsabilidad del contratista para pavimentos, laterales, drenajes, señalización y puentes. La consecuencia es contratar resultados de conservación y continuidad, con parámetros capaces de incorporar prevención de desastres.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "Sección 100. Parámetros de calidad",
+          "nivel": 2,
+          "paginas": "258",
+          "resumen": "La sección define condición inicial, indicador, medición de defectos y tolerancia para contratos por estándares. Sus hojas aplican ese marco a pavimentos, zonas laterales, drenajes, señalización y drenaje mayor. La consecuencia es hacer exigible la conservación como resultado y no solo como lista de tareas.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "Nivel de servicio",
+              "nivel": 3,
+              "paginas": "258",
+              "resumen": "La hoja define el nivel de servicio como la condición física y funcional que debe conservarse durante todo el contrato y asigna al contratista la responsabilidad de ejecutar las acciones necesarias. El instrumento es un estándar inicial con tolerancias y verificación continua. La consecuencia es que la supervisión y el pago se orienten al estado efectivamente prestado a las personas usuarias.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Indicadores de estado",
+              "nivel": 3,
+              "paginas": "258",
+              "resumen": "Esta hoja enumera los ámbitos de control: pavimento, zonas laterales, drenaje menor, señalización y seguridad vial, drenaje mayor y servicio a las personas usuarias. El mecanismo es comparar indicadores con la condición inicial y exigir administración, mantenimiento, emergencias y control. La consecuencia es mantener continuidad y capacidad de respuesta ante deterioros o eventos adversos.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "En el contexto de la reducción del riesgo de desastres, los contratos por niveles de servicio \npueden incluir parámetros que ayuden a prevenir o mitigar los impactos de posibles desastres.",
+                  "pagina": 258
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Sección 200. Indicadores de estado para el pavimento",
+          "nivel": 2,
+          "paginas": "259",
+          "resumen": "La sección fija la evaluación del pavimento y remite al catálogo de daños para identificar fallas y severidad. Distingue concreto hidráulico, asfáltico y caminos no pavimentados, con condición inicial, indicador, medición y tolerancia. La consecuencia es detectar deterioros antes de comprometer comodidad, seguridad o vida útil.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "201. Limpieza de la calzada",
+              "nivel": 3,
+              "paginas": "259",
+              "resumen": "La ficha «201. Limpieza de la calzada» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 259 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "202. Rugosidad",
+              "nivel": 3,
+              "paginas": "260",
+              "resumen": "La ficha «202. Rugosidad» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 260 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "203. Ahuellamiento",
+              "nivel": 3,
+              "paginas": "260",
+              "resumen": "La ficha «203. Ahuellamiento» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 260 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "204. Baches",
+              "nivel": 3,
+              "paginas": "260",
+              "resumen": "La ficha «204. Baches» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 260 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "205. Grietas",
+              "nivel": 3,
+              "paginas": "261",
+              "resumen": "La ficha «205. Grietas» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 261 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Sección 300. Indicadores de estado para las zonas laterales de la calzada",
+          "nivel": 2,
+          "paginas": "261",
+          "resumen": "La sección controla derecho de vía, cortes, terraplenes, hombros y vegetación mediante indicadores de limpieza, estabilidad, geometría y conservación. Combina inspecciones, tolerancias y plazos para retirar obstáculos, sellar grietas y corregir erosiones. La consecuencia es mantener el corredor visible, estable, drenado y seguro.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "301. Agrietamiento en hombros",
+              "nivel": 3,
+              "paginas": "262",
+              "resumen": "La ficha «301. Agrietamiento en hombros» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 262 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "302. Limpieza de hombros",
+              "nivel": 3,
+              "paginas": "262",
+              "resumen": "La ficha «302. Limpieza de hombros» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 262 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "303. Baches en los hombros",
+              "nivel": 3,
+              "paginas": "262",
+              "resumen": "La ficha «303. Baches en los hombros» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 262 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "304. Parches en los hombros",
+              "nivel": 3,
+              "paginas": "262",
+              "resumen": "La ficha «304. Parches en los hombros» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 262 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "305. Taludes desmonte",
+              "nivel": 3,
+              "paginas": "263",
+              "resumen": "La ficha «305. Taludes desmonte» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 263 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "306. Chapeo del derecho de vía",
+              "nivel": 3,
+              "paginas": "263",
+              "resumen": "La ficha «306. Chapeo del derecho de vía» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 263 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "307. Taludes de terraplenes",
+              "nivel": 3,
+              "paginas": "263",
+              "resumen": "La ficha «307. Taludes de terraplenes» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 263 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Inspecciones periódicas, especialmente después de eventos climáticos extremos, como lluvias \nintensas, con el fin de identificar visualmente grietas, asentamientos, deformaciones o áreas \nerosionadas.",
+                  "pagina": 263
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "308. Taludes en corte",
+              "nivel": 3,
+              "paginas": "264",
+              "resumen": "La ficha «308. Taludes en corte» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 264 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "309. Vegetación en medianas o arriates centrales",
+              "nivel": 3,
+              "paginas": "264",
+              "resumen": "La ficha «309. Vegetación en medianas o arriates centrales» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 264 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "310. Limpieza del derecho de vía",
+              "nivel": 3,
+              "paginas": "264",
+              "resumen": "La ficha «310. Limpieza del derecho de vía» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 264 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Sección 400. Indicadores de estado del drenaje menor",
+          "nivel": 2,
+          "paginas": "264",
+          "resumen": "La sección exige que cunetas, contracunetas, alcantarillas, cajas y entradas permanezcan libres y funcionales. Sus inspecciones y tolerancias convierten la evacuación del agua en resultado contractual. La consecuencia es limitar deterioro, rebalses, filtraciones y cierres por drenajes obstruidos o dañados.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "401. Cunetas revestidas o de concreto hidráulico",
+              "nivel": 3,
+              "paginas": "265",
+              "resumen": "La ficha «401. Cunetas revestidas o de concreto hidráulico» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 265 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "402. Cunetas en tierra",
+              "nivel": 3,
+              "paginas": "265",
+              "resumen": "La ficha «402. Cunetas en tierra» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 265 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "403. Contracunetas",
+              "nivel": 3,
+              "paginas": "265",
+              "resumen": "La ficha «403. Contracunetas» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 265 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "404. Alcantarillas y cajas",
+              "nivel": 3,
+              "paginas": "265",
+              "resumen": "La ficha «404. Alcantarillas y cajas» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 265 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "405. Entradas y salidas de obras de arte",
+              "nivel": 3,
+              "paginas": "266",
+              "resumen": "La ficha «405. Entradas y salidas de obras de arte» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 266 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Manual centroamericano de mantenimiento de carreteras con enfoque de reducción de riesgo de desastres… 406. Bordillos",
+              "nivel": 3,
+              "paginas": "266",
+              "resumen": "La ficha «Manual centroamericano de mantenimiento de carreteras con enfoque de reducción de riesgo de desastres… 406. Bordillos» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 266 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Sección 500. Indicadores de estado de la señalización vial",
+          "nivel": 2,
+          "paginas": "266",
+          "resumen": "La sección define el estado de señales, delineadores, vialetas, defensas y reflectividad. Usa inspección, tolerancias y reposición para asegurar información confiable sobre geometría, peligros y prevención de accidentes. La consecuencia es sostener seguridad vial mediante respuestas rápidas y verificables.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "501. Señales verticales",
+              "nivel": 3,
+              "paginas": "266",
+              "resumen": "La ficha «501. Señales verticales» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 266 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "502. Vialetas u ojos de gato",
+              "nivel": 3,
+              "paginas": "267",
+              "resumen": "La ficha «502. Vialetas u ojos de gato» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 267 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "503. Mojones de referencia",
+              "nivel": 3,
+              "paginas": "267",
+              "resumen": "La ficha «503. Mojones de referencia» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 267 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "504. Defensas metálicas",
+              "nivel": 3,
+              "paginas": "267",
+              "resumen": "La ficha «504. Defensas metálicas» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 267 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "505. Señalización horizontal",
+              "nivel": 3,
+              "paginas": "267",
+              "resumen": "La ficha «505. Señalización horizontal» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 267 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "506. Captafaros",
+              "nivel": 3,
+              "paginas": "268",
+              "resumen": "La ficha «506. Captafaros» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 268 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Sección 600. Indicadores de estado del drenaje mayor",
+          "nivel": 2,
+          "paginas": "268",
+          "resumen": "La sección establece condiciones mínimas de seguridad, estabilidad y funcionamiento para puentes y pasos a desnivel, incluyendo superestructura, subestructura, cauce, juntas y drenaje. El instrumento son indicadores periódicos vinculados a gestión del riesgo. La consecuencia es reducir interrupciones y orientar inspecciones cuando aumentan amenazas.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "601. Puentes metálicos",
+              "nivel": 3,
+              "paginas": "269",
+              "resumen": "La ficha «601. Puentes metálicos» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 269 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "602. Puentes de concreto",
+              "nivel": 3,
+              "paginas": "269",
+              "resumen": "La ficha «602. Puentes de concreto» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 269 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "603. Subestructura de concreto",
+              "nivel": 3,
+              "paginas": "269",
+              "resumen": "La ficha «603. Subestructura de concreto» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 269 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "604. Subestructura de metal",
+              "nivel": 3,
+              "paginas": "269",
+              "resumen": "La ficha «604. Subestructura de metal» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 269 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "605. Subestructura de madera",
+              "nivel": 3,
+              "paginas": "269",
+              "resumen": "La ficha «605. Subestructura de madera» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 269 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "606. Juntas y apoyos",
+              "nivel": 3,
+              "paginas": "270",
+              "resumen": "La ficha «606. Juntas y apoyos» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 270 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "607. Muros de contención",
+              "nivel": 3,
+              "paginas": "270",
+              "resumen": "La ficha «607. Muros de contención» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 270 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "608. Puentes de madera",
+              "nivel": 3,
+              "paginas": "270",
+              "resumen": "La ficha «608. Puentes de madera» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 270 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "609. Inspección de cuenca",
+              "nivel": 3,
+              "paginas": "270",
+              "resumen": "La ficha «609. Inspección de cuenca» convierte un estado o defecto de la carretera en un indicador verificable. En las páginas 270 precisa la inspección o medición, la tolerancia y, cuando procede, el plazo de restitución o reparación. La consecuencia de política es sostener el nivel de servicio, la seguridad y la conservación mediante respuestas comparables y fiscalizables.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "Capítulo 4",
+      "nivel": 1,
+      "paginas": "271",
+      "resumen": "El capítulo presenta un catálogo común para identificar, medir y registrar fallas en pavimentos asfálticos, concreto hidráulico, caminos sin pavimento y adoquines. Ordena causas, severidades, esquemas y criterios de medición para apoyar mantenimiento rutinario o periódico y aprendizaje regional. La consecuencia es priorizar reparaciones tempranas y conservar seguridad y durabilidad.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "Catálogo de daños",
+          "nivel": 2,
+          "paginas": "271-314",
+          "resumen": "El catálogo operacionaliza la inspección de fallas: describe daños en pavimentos asfálticos y rígidos, carreteras no pavimentadas y adoquinadas, y los relaciona con causas, severidad y unidades de medición. Conecta la recolección de información con gestión de riesgos y adaptación para anticipar deterioros. La consecuencia es intervenir antes de que la falla reduzca seguridad, durabilidad o continuidad. En pavimentos asfálticos distingue fisuras y grietas, deformaciones, desintegraciones y otros deterioros; en concreto hidráulico cubre fisuras, levantamientos, hundimientos, desintegraciones, pulimiento, deficiencias y daños de juntas; en caminos sin estructura identifica deformación transversal, ahuellamiento, corrugación y baches; y en adoquines registra pérdida de sello y asentamientos. Para cada familia, el procedimiento combina descripción, causas posibles, niveles bajo/medio/alto, esquema, fotografía y unidad de medición, con registros separados cuando cambia la severidad. Esa estructura permite comparar tramos, localizar el mecanismo de deterioro, seleccionar una reparación proporcional y alimentar la gestión de activos. La consecuencia de política es pasar de una respuesta reactiva a una cartera de mantenimiento preventivo y periódico fundada en evidencia, reduciendo riesgos de seguridad, costos de rehabilitación y pérdida de vida útil. En la práctica, el catálogo permite que una cuadrilla o una inspección especializada no confunda una causa estructural con un efecto superficial: la medición espacial o lineal, el porcentaje afectado, la profundidad, la longitud, el número de losas o la cantidad de adoquines orientan la decisión. Las causas registradas incluyen cargas repetidas, envejecimiento, pérdida de flexibilidad, deficiencias constructivas, cambios de humedad, agua acumulada, erosión, drenaje insuficiente, temperatura, lluvia, viento e intemperie, según el tipo de pavimento. El registro de severidad hace visible cuándo un sello, una reparación localizada, un tratamiento superficial, una reconformación, un reemplazo o una intervención de drenaje resulta pertinente. Así, el manual no solo describe daños: ofrece una interfaz entre diagnóstico, presupuesto, programación, supervisión y evaluación del nivel de servicio, con un lenguaje común para comparar experiencias de la región y corregir diseños futuros. La clasificación final conserva una trazabilidad entre condición observada, severidad, unidad de medida y decisión de mantenimiento: sirve para justificar prioridades ante supervisores y contratantes, comparar el desempeño de activos y actualizar programas de conservación con evidencia de campo.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "La realización de un análisis del riesgo en una etapa temprana permite implementar medidas de \nreducción de la vulnerabilidad ante amenazas y del riesgo de colapso.",
+              "pagina": 271
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento integra reducción del riesgo, adaptación, mitigación y gestión ambiental en la infraestructura vial y ofrece un paquete técnico de mantenimiento, contratación e indicadores. Sin embargo, no formula un paquete coordinado de inversión y políticas para transformar la estructura productiva regional ni desarrolla sectores estratégicos de transición; su objeto es un manual técnico sectorial de carreteras.",
+      "citas": [
+        {
+          "cita": "En el campo de la inversión pública se propone integrar análisis y medidas para la reducción del \nriesgo de desastres y la adaptación sostenible e incluyente al cambio climático a las metodologías de \nidentificación, formulación y evaluación de proyectos del sector de infraestructura vial.",
+          "pagina": 15
+        }
+      ],
+      "nota": "La coordinación es intrasectorial y orientada a conservar servicios viales; no equivale a un big push productivo regional."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "La fuente identifica actores regionales y mecanismos de política dentro del alcance centroamericano: COMITRAN/SIECA lidera el sector vial, CEPREDENAC y CRRH colaboran, y la PCGIR funciona como marco de referencia pública para orientar acciones de riesgo. La acreditación se basa en esos arreglos y no en la sola autoría o producción editorial.",
+      "citas": [
+        {
+          "cita": "El sector de infraestructura vial fue liderado \npor el Consejo Sectorial de Ministros de Transporte de Centroamérica de la Secretaría de Integración \nEconómica Centroamericana (COMITRAN/SIECA). Además, colaboraron instituciones como el Centro \nde Coordinación para la Prevención de los Desastres en América Central y República Dominicana \n(CEPREDENAC) y el Comité Regional de Recursos Hidráulicos (CRRH).",
+          "pagina": 14
+        },
+        {
+          "cita": "La \nPCGIR es el instrumento de política pública utilizado como marco de referencia especializada para \norientar las acciones del riesgo de desastres a nivel de la región centroamericana.",
+          "pagina": 57
+        }
+      ],
+      "nota": "Los actores y mecanismos están nombrados y vinculados al mantenimiento, la inversión pública y la gestión regional del riesgo."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "Chequeo negativo explícito: el manual no enumera sectores o actividades productivas sostenibles con un desarrollo propio del vínculo entre empleo, productividad e inequidad. La fuente sí reconoce que la infraestructura vial conecta regiones y transporta bienes y servicios, pero esa función general no constituye una agenda productiva sostenible desarrollada.",
+      "citas": [
+        {
+          "cita": "La infraestructura vial es fundamental en el desarrollo social y económico de los países, permite \nconectar regiones, ciudades y localidades, así como transportar bienes y servicios.",
+          "pagina": 13
+        }
+      ],
+      "nota": "El alcance permanece en conservación, seguridad, riesgo, ambiente y continuidad de la infraestructura vial."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "No",
+      "evidencia": "Chequeo negativo explícito: el cierre real no contiene una lista propia completa de acciones operativas para implementar recomendaciones; termina registrando la actualización de 2023 y su aprobación por COMITRAN. Las listas normativas distribuidas en capítulos técnicos, anexos o casos no se trasladan como desglose del cierre.",
+      "citas": [
+        {
+          "cita": "El presente Manual fue \naprobado por el COMITRAN mediante la Resolución 11 de su \nreunión de diciembre de 2023.",
+          "pagina": 316
+        }
+      ],
+      "desglose_items": [],
+      "tally": "0 de 0 ítems pasan el test de concreción",
+      "nota": "Se aplica exclusivamente la voz normativa del cierre real, conforme al test de concreción."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento enfrenta la exposición de la infraestructura vial a desastres, cambio climático y deterioro con la necesidad de conservar conectividad, seguridad, servicios y vida útil. La tensión se resuelve mediante adaptación, reducción del riesgo, gestión ambiental y mantenimiento preventivo aplicados al corredor vial.",
+      "filtro_categoria_primaria": "El objeto principal es una infraestructura vial más resiliente y ambientalmente sostenible: el manual ajusta drenajes, pavimentos, puentes, taludes, gestión de activos y procedimientos a amenazas, impactos y condiciones climáticas. Por eso corresponde al número 6, Sostenibilidad ambiental.",
+      "secundaria_obligatoria": "La implementación depende de COMITRAN/SIECA, PCGIR, CEPREDENAC, SNIP, contratos, supervisión, indicadores y programas socioambientales. Esa arquitectura de coordinación y capacidad pública justifica el número 11, Capacidades del Estado, como secundaria.",
+      "justificacion_anti_copia": "Tres rasgos propios distinguen el objeto de los medios: integra adaptación y reducción del riesgo en mantenimiento; convierte datos de amenazas, exposición e impactos en decisiones de drenaje, pavimento, puente y talud; y combina ambiente, seguridad, niveles de servicio, medición y vida útil en especificaciones contractuales regionales.",
+      "validacion_anclas": "Se aproxima al ID 20 — Impactos económicos del cambio climático en Colombia. Síntesis, porque el cambio climático y la adaptación estructuran el objeto y las instituciones son medios. Se diferencia porque aquí el objeto se concreta en un manual regional de conservación vial, contratación y estándares técnicos; la clasificación adjudicada es 6 primaria y 11 secundaria."
+    },
+    "tipo_documento_climatico": "Manual técnico sectorial de adaptación y reducción del riesgo en infraestructura vial",
+    "nivel_aplicacion": "Subregional: SICA/Centroamérica y República Dominicana",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

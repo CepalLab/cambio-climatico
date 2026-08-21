@@ -137,8 +137,7 @@ disciplina de citar lo específico en vez de lo genérico que exige la interpela
 
 ## 4. Casos de calibración
 
-Estado tras Ronda 2 — los tres documentos del piloto (doc09, doc13, doc11) fueron re-evaluados o evaluados desde el inicio bajo las reglas sharpened de esta sección. Los veredictos actuales en [pilot/doc09_caribbean_power.json](pilot/doc09_caribbean_power.json), [pilot/doc13_carbono_frontera.json](pilot/doc13_carbono_frontera.json) y
-[pilot/doc11_pobreza_infantil.json](pilot/doc11_pobreza_infantil.json) siguen siendo un segundo intento a confirmar con el equipo del curso, no una verdad ya calibrada:
+La muestra de 17 fue adjudicada y confirmada por el equipo del curso en Ronda 9. Para la ejecución del primer batch, los casos vigentes se condensan en [CASOS_ANCLA_INTERPELACION_v1.md](CASOS_ANCLA_INTERPELACION_v1.md), que ofrece un contraste No/Parcial/Sí para cada criterio. Las notas siguientes conservan el razonamiento histórico que originó las reglas:
 
 - **Doc. 9** — criterio (ii) se corrigió de "Sí" (evidencia genérica de p.9) a "Sí" con evidencia re-anclada al IRRP/CCREEE (p.6-7), que sí nombra un mecanismo concreto — el veredicto no cambió, pero la evidencia que lo sostiene ahora es la más fuerte disponible, no la más fácil de citar. Criterio (iv) se desglosó ítem por
   ítem: de las 8 recomendaciones, se identificaron cuáles pasan el test de concreción y cuáles son más aspiracionales (ver JSON). Criterio (iii) se mantiene en "No" pero ahora con el chequeo negativo explícito requerido por [§1.3](#13-regla-sharpened--criterio-iii-enumeración-de-oportunidades--chequeo-explícito-de-empleodesigualdad).

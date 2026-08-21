@@ -1,0 +1,344 @@
+{
+  "documento": {
+    "num_muestra": 10,
+    "titulo": "Evaluación de los impactos del cambio climático sobre la salud: economía del cambio climático en la Argentina",
+    "autoria": "Aníbal E. Carbajo",
+    "handle": "https://hdl.handle.net/11362/39009",
+    "simbolo": "LC/L.4084",
+    "isbn": null,
+    "fecha": "2015-10",
+    "tipo_documento": "Documento de proyecto o estudio técnico (modelización de vectores de enfermedades)",
+    "paginas_cuerpo": 34,
+    "paginas_totales": 48,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cómo afectará el cambio climático a la transmisión de dengue y malaria en la Argentina bajo los escenarios de emisiones A2 y B2 del IPCC?",
+    "alcance": {
+      "ambito_aplicacion": "Argentina, con énfasis en provincias del noreste (Misiones, Corrientes, Formosa), noroeste (Salta, Jujuy, Tucumán) y centro (Santa Fe, Córdoba, Buenos Aires)",
+      "referentes_dependencias": "Modelos globales de transmisión de dengue y malaria (Focks 1993; Martens, Jetten et al. 1997; Kiszewski, Mellinger et al. 2004); datos climáticos del Instituto de Pesquisas Espaciais (INPE) de Brasil; información demográfica de CELADE/CEPAL",
+      "sectorial": "Salud pública y enfermedades transmitidas por vectores; el cambio climático entra como variable ambiental que modifica la distribución y transmisión de vectores, no como objeto de política productiva o energética",
+      "temporal": "Clima reciente (1961-1990); años retrospectivos 1962 y 1998; años de corte futuros 2020, 2030, 2050, 2070 y 2100"
+    },
+    "hallazgos_principales": [
+      "La población bajo riesgo de dengue pasaría del 21% al 89% de la población total para el escenario A2 y del 15% al 80% para el B2, producto de la expansión del área de posible transmisión hacia el sur (p.15).",
+      "La distribución de Aedes aegypti se podría extender progresivamente hacia el sur, abarcando La Pampa y alcanzando el norte de Río Negro, este de Neuquén y noreste de Chubut para el año 2100 (p.15).",
+      "La distribución potencial de Anopheles darlingi aumentaría, extendiéndose hacia el sur bajo el escenario A2, mientras que la de Anopheles pseudopunctipennis se contraería levemente hacia el noroeste del país (p.23).",
+      "La población bajo riesgo de malaria se mantendría como una fracción constante de la población total en ambos escenarios (entre 9% y 11%) hasta 2050, incrementándose luego al 13% en 2100 bajo A2 (p.33).",
+      "Los cambios de temperatura pronosticados sugieren que la presencia de Aedes aegypti y la ocurrencia de casos de dengue podrían extenderse hacia el sur, redundando en un mayor número de habitantes bajo riesgo (p.5)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "Las predicciones basadas sólo en temperatura muestran una tendencia clara de aumento de riesgo de dengue hacia el futuro, mientras que aquellas basadas también en precipitaciones (malaria) muestran cambios menos marcados u oscilantes (p.33).",
+        "Las zonas de mayor cantidad de casos de malaria no coinciden con las predichas como de mayor riesgo, lo que llevó a realizar un análisis accesorio para verificar si habría expansión del área palúdica más allá de la distribución actual de sus vectores (p.20)."
+      ],
+      "recomendaciones": [
+        "Implementar un programa de control del vector y prevención de la enfermedad integrado y perdurable, no sólo en el área de transmisión sino también en las regiones próximas pronosticadas como potenciales en caso de cambio climático (p.37).",
+        "Realizar campañas mediáticas y comunales de prevención de la enfermedad y de la cría de mosquitos, en especial la importancia de no acumular recipientes con agua (p.37).",
+        "Controlar el flujo de mercaderías que pudieran transportar huevos del vector Aedes aegypti, medida que podría retrasar la expansión del mosquito hacia zonas donde aún no se ha establecido (p.37).",
+        "Vigilar las epidemias en países limítrofes para actuar con rapidez en caso de epidemias en el país (p.37).",
+        "Garantizar la transparencia y eficiencia del registro de casos de la enfermedad con encuestas epidemiológicas completas, gestionando toda la información nacional de modo integrado y público (p.37)."
+      ],
+      "nota": "Las recomendaciones se centran en vigilancia epidemiológica y control de vectores; el documento no formula recomendaciones de transformación productiva ni energética."
+    },
+    "resumen_narrativo": "Este estudio técnico de la CEPAL (Serie Medio Ambiente y Desarrollo N°159, 2015) evalúa cuantitativamente cómo el cambio climático afectará la transmisión de dengue y malaria en la Argentina bajo los escenarios A2 y B2 del IPCC. Utiliza modelos de temperatura y precipitación para proyectar la distribución geográfica de los vectores Aedes aegypti y tres especies de Anopheles, estimando la población bajo riesgo para los años 2020 a 2100. El hallazgo central es la expansión sur del dengue (del 21% al 89% de la población en riesgo bajo A2), mientras que la malaria muestra cambios más moderados al depender también de precipitaciones. El documento cierra con medidas de adaptación centradas en vigilancia epidemiológica y control integrado de vectores, sin proponer reorientación productiva alguna."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "7-8",
+      "resumen": "Enmarca el problema de salud pública: el cambio climático afectará enfermedades transmitidas por vectores, y Argentina se encuentra en el límite sur de distribución del dengue y la malaria en América del Sur, lo que hace crucial estudiar el riesgo frente a cambios climáticos. Documenta la brecha de respuesta: los países en desarrollo concentran el 40% de enfermedades infecciosas frente al 2% de los desarrollados.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Argentina se encuentra en el límite sur de la distribución del dengue y la malaria en América del Sur, y es por ello que el estudio del riesgo de estas enfermedades frente a cambios climáticos es de suma importancia.",
+          "pagina": 8
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Mientras que los países desarrollados presentan un 2% de su población infectada con parásitos o enfermedades infecciosas, los países en desarrollo alcanzan el 40% (WRI, 1997).",
+          "pagina": 8
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Estado del arte en la temática",
+      "nivel": 1,
+      "paginas": "9-10",
+      "resumen": "Revisa la literatura sobre dengue y malaria como enfermedades de mayor incidencia en zonas tropicales y subtropicales, con énfasis en modelos de distribución geográfica en función de variables climáticas y en la validación de modelos previos en Argentina.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Respecto al mosquito vector, se han realizado trabajos a escala mundial sobre su distribución geográfica en función de variables climáticas",
+          "pagina": 10
+        },
+        {
+          "dimension": "tendencias",
+          "cita": "El dengue no es considerado endémico en la Argentina y resurgió en 1998, con una epidemia en la provincia de Salta y en 2000 en las provincias de Formosa y Misiones (Vezzani y Carbajo, 2008).",
+          "pagina": 10
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "II. Metodología",
+      "nivel": 1,
+      "paginas": "11-14",
+      "resumen": "Describe los modelos de estimación de riesgo: para dengue calcula el periodo extrínseco de incubación (PEI) en función de la temperatura; para malaria usa la estabilidad de transmisión basada en la capacidad vectorial. Incluye estimación de población bajo riesgo y análisis de riesgo por escenarios.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Dengue",
+          "nivel": 2,
+          "paginas": "11-12",
+          "resumen": "Modelo que calcula la proporción del ciclo del virus en el mosquito (periodo extrínseco de incubación) en función de la temperatura del aire, usando datos climáticos del INPE para clima reciente (1961-1990) y futuro (hasta 2100). Se adaptó el modelo de Carbajo et al. (2001) validado previamente en el país.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Se utilizó la información climática suministrada por el Instituto de Pesquisas Espaciais (INPE) para el clima reciente (1961-1990) y futuro (2100).",
+              "pagina": 12
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Malaria",
+          "nivel": 2,
+          "paginas": "12-13",
+          "resumen": "Modelo de estabilidad de transmisión basado en capacidad vectorial, considerando tres mosquitos vectores (Anopheles albitarsis, darlingi y pseudopunctipennis) con distribuciones geográficas no superpuestas. Se usó la técnica de modelado de hábitat o nicho ecológico con el programa GARP.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "En Argentina coexisten 3 mosquitos vectores: Anopheles albitarsis, Anopheles darlingi y Anopheles pseudopunctipennis.",
+              "pagina": 13
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Estimación de población bajo riesgo",
+          "nivel": 2,
+          "paginas": "13-14",
+          "resumen": "Estudio demográfico para estimar población futura usando información de CELADE/CEPAL, combinando la distribución de casos con el mapa de riesgo para determinar el umbral de transmisión. Para dengue se identificaron ciudades incluidas en la zona de riesgo; para malaria se calculó sobre el área total bajo riesgo.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Análisis de riesgo",
+          "nivel": 2,
+          "paginas": "13-14",
+          "resumen": "Construcción de mapas de riesgo relativo para comparar comportamiento entre períodos y localidades, calculando población bajo riesgo por provincia y por enfermedad. Para dengue se sumaron habitantes de ciudades con valores dentro del umbral del promedio de días de PEI; para malaria se sumaron habitantes en zonas de riesgo según cada vector.",
+          "dimensiones": [],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "III. Resultados",
+      "nivel": 1,
+      "paginas": "15-34",
+      "resumen": "Presenta los hallazgos de riesgo para dengue (expansión sur del vector, aumento de población en riesgo) y malaria (expansión limitada de vectores, cambios moderados en riesgo), con análisis por escenarios y provincias.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Dengue",
+          "nivel": 2,
+          "paginas": "15-20",
+          "resumen": "Tendencia de aumento del riesgo para los sucesivos cortes de tiempo, con expansión hacia el sur de las áreas de posible transmisión. La isolínea de 25 ndpei se desplaza hacia el sur, aumentando la población bajo riesgo del 21% al 89% (A2) y del 15% al 80% (B2). El escenario A2 muestra mayor población bajo riesgo en casi todos los cortes temporales. La distribución de Aedes aegypti podría alcanzar La Pampa y el norte de Río Negro para 2100.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Se observó una tendencia de aumento del riesgo para los sucesivos cortes de tiempo analizados. Esto se reflejó en una expansión hacia el sur de las áreas de posible transmisión y, además, en la cantidad de habitantes bajo riesgo.",
+              "pagina": 16
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "Se observa un aumento de la población bajo riesgo en el futuro, y también un aumento del porcentaje de la población total bajo riesgo (del 21% al 89% para el escenario A2 y del 15% al 80% para el B2).",
+              "pagina": 16
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Malaria",
+          "nivel": 2,
+          "paginas": "20-33",
+          "resumen": "Expansión sur de la estabilidad de transmisión bajo escenario A2, alcanzando la distribución actual de vectores. Las zonas de mayor cantidad de casos no coinciden con las predichas como de mayor riesgo, llevando a un análisis accesorio. La población bajo riesgo se mantiene como fracción constante (9-11%) hasta 2050, incrementándose al 13% en 2100.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Los resultados obtenidos con los modelos de malaria (Kiszewski, Mellinger et al., 2004) muestran una expansión hacia el sur de la estabilidad de la transmisión, alcanzando en el escenario A2 a cubrir la distribución actual de los vectores.",
+              "pagina": 21
+            },
+            {
+              "dimension": "desafios",
+              "cita": "Por otro lado, las zonas de mayor cantidad de casos no coinciden con las predichas como de mayor riesgo (mapa 6).",
+              "pagina": 21
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "1. Metodología accesoria",
+              "nivel": 3,
+              "paginas": "23-25",
+              "resumen": "Análisis de umbrales de temperatura, precipitación y altitud para delimitar distribución potencial de vectores y zonas de transmisión, revelando zonas indeterminadas en el NOA. Se confirmaron los umbrales de corte para los casos de malaria y para cada uno de los vectores mediante superposición de distribución de casos y capas ambientales.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "aparecen zonas con combinaciones de condiciones que serían propicias para la transmisión en el NOA, pero no en el noreste del país",
+                  "pagina": 24
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Conclusiones",
+          "nivel": 2,
+          "paginas": "33-34",
+          "resumen": "Sintetiza que las predicciones basadas solo en temperatura muestran tendencia clara de aumento de dengue, mientras que las basadas en precipitaciones (malaria) son menos marcadas u oscilantes. La distribución de Aedes aegypti se extendería hacia el sur, mientras que la malaria mostraría cambios más moderados.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Las predicciones basadas sólo en temperatura, las cuales muestran aumentos generalizados y con una tendencia clara de crecimiento en el futuro.",
+              "pagina": 34
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Aportes a la estimación de costos",
+      "nivel": 1,
+      "paginas": "35-37",
+      "resumen": "Interacción con expertos del estudio de economía del cambio climático para identificar proporción de población bajo riesgo que contraería enfermedades. Se usaron datos de Brasil para estimar tasa de incidencia de dengue (0,22% de la población bajo riesgo anualmente). Para malaria, el valor del9% de la OMS coincide con los obtenidos, indicando que los cambios serían principalmente por aumento de población.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Se estimó que el 0,22% de la población bajo riesgo sufriría dengue por año.",
+          "pagina": 36
+        },
+        {
+          "dimension": "desafios",
+          "cita": "Debido a las pocas epidemias sufridas en Argentina, no se cuenta con información suficiente para estos cálculos.",
+          "pagina": 36
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "V. Adaptación",
+      "nivel": 1,
+      "paginas": "37-38",
+      "resumen": "Lista medidas de adaptación para dengue (control integrado del vector, campañas mediáticas, control de mercaderías, vigilancia epidemiológica) y malaria (campañas preventivas, registro eficiente de casos). Las recomendaciones se centran en prevención y vigilancia, sin proponer transformación productiva.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Implementar un programa de control del vector y prevención de la enfermedad integrado y perdurable. No sólo en el área de transmisión (que bajaría el riesgo), sino también en las regiones próximas, pronosticadas como potenciales, en caso de cambio climático.",
+          "pagina": 38
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Garantizar la transparencia y eficiencia del registro de casos de la enfermedad con encuestas epidemiológicas completas (lugares de residencia y trabajo, viajes recientes de los pacientes), gestionando toda la información nacional de modo integrado y público.",
+          "pagina": 38
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "No",
+      "evidencia": "El documento es un estudio técnico de modelización de vectores; no propone un paquete coordinado de inversiones ni transformación productiva a escala de modelo de desarrollo. Las medidas de adaptación se limitan a control de vectores y vigilancia epidemiológica, sin lógica de paquete coordinado ni mención a sectores estratégicos de transformación productiva.",
+      "citas": [],
+      "nota": "El No es por diseño del documento —estudio de modelización epidemiológica, no propuesta de transformación productiva— y no por omisión descuidada."
+    },
+    "articulacion_actores": {
+      "veredicto": "No",
+      "evidencia": "El documento no nombra mecanismos, plataformas ni instituciones de coordinación entre actores. Menciona la colaboración con el grupo de expertos del estudio de economía del cambio climático, pero eso corresponde a la producción del estudio, no a un mecanismo de gobernanza de la acción climática.",
+      "citas": [],
+      "nota": "El documento es un estudio técnico de un autor individual sin propuesta de articulación multiactor."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "El documento no enumera sectores, industrias ni actividades productivas como oportunidades. Su enfoque es exclusivamente de salud pública (riesgo epidemiológico), no de transición económica verde ni creación de empleo sostenible.",
+      "citas": [],
+      "nota": "El No refleja la naturaleza del documento como estudio de impacto sobre salud, no como análisis de oportunidades productivas."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "La sección de recomendaciones enumera medidas concretas de control de vectores y vigilancia epidemiológica, pero la mayoría son genéricas ('implementar programa integrado', 'realizar campañas mediáticas') sin instrumento específico, plazo ni actor designado. Algunas son más concretas (control de mercaderías que transportan huevos del vector).",
+      "citas": [
+        {
+          "cita": "Implementar un programa de control del vector y prevención de la enfermedad integrado y perdurable.",
+          "pagina": 38
+        },
+        {
+          "cita": "Controlar el flujo de mercaderías que pudieran transportar huevos del vector Aedes aegypti (cubiertas usadas, recipientes). Esta medida podría retrasar la expansión del mosquito hacia zonas donde aún no se ha establecido.",
+          "pagina": 38
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Implementar un programa de control del vector y prevención de la enfermedad integrado y perdurable",
+          "clasificacion": "GENERICO",
+          "pagina": 38
+        },
+        {
+          "item": "Realizar campañas mediáticas y comunales de prevención de la enfermedad y de la cría de mosquitos",
+          "clasificacion": "GENERICO",
+          "pagina": 38
+        },
+        {
+          "item": "Controlar el flujo de mercaderías que pudieran transportar huevos del vector Aedes aegypti (cubiertas usadas, recipientes)",
+          "clasificacion": "CONCRETO",
+          "pagina": 38
+        },
+        {
+          "item": "Vigilar las epidemias en países limítrofes para actuar con rapidez en caso de epidemias en el país",
+          "clasificacion": "GENERICO",
+          "pagina": 38
+        },
+        {
+          "item": "Garantizar la transparencia y eficiencia del registro de casos de la enfermedad con encuestas epidemiológicas completas, gestionando toda la información nacional de modo integrado y público",
+          "clasificacion": "CONCRETO",
+          "pagina": 38
+        },
+        {
+          "item": "Realizar campañas mediáticas y comunales de prevención de la enfermedad de malaria",
+          "clasificacion": "GENERICO",
+          "pagina": 38
+        }
+      ],
+      "tally": "2 de 6 ítems pasan el test de concreción",
+      "nota": null
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Media"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento aborda la tensión entre el cambio climático (variable ambiental que modifica la distribución de vectores) y la salud pública argentina (enfermedades endemo-epidémicas en el límite sur de su distribución). El objeto de análisis es la salud como consecuencia ambiental del cambio climático, no la institucionalidad ni la transformación productiva.",
+      "filtro_categoria_primaria": "Sostenibilidad ambiental (#6): el documento evalúa impactos del cambio climático sobre la salud mediante modelización de vectores, lo que constituye un análisis de impacto ambiental-climático sobre un sector específico (salud). La institucionalidad (vigilancia epidemiológica, control de vectores) entra como medio de respuesta, no como objeto.",
+      "secundaria_obligatoria": "Capacidades del Estado (#11): las recomendaciones se centran en vigilancia epidemiológica, registro de casos y control de vectores —instrumentos de capacidad pública de monitoreo y respuesta—, que son medios institucionales para gestionar el riesgo climático identificado.",
+      "justificacion_anti_copia": "El documento no clasifica por palabra clave 'clima' ni 'salud'; su método es modelización de vectores en función de temperatura y precipitación bajo escenarios IPCC, y sus recomendaciones son de vigilancia y control de vectores (capacidad estatal), no de transformación productiva ni energética.",
+      "validacion_anclas": "Se asemeja al patrón doc20 (impacto/adaptación nacional): vulnerabilidad y adaptación climática de un sector como objeto; información, planificación y regulación estatal como medio. Diferencia: doc20 cubre sectores productivos múltiples; este documento se limita a salud pública y vectores."
+    },
+    "tipo_documento_climatico": "Documento de proyecto o estudio técnico (modelización de vectores)",
+    "nivel_aplicacion": "Nacional (Argentina)",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

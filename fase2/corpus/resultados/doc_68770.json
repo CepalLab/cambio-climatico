@@ -1,0 +1,185 @@
+{
+  "documento": {
+    "num_muestra": 68770,
+    "titulo": "Modelo econométrico estructural de emisiones de gases de efecto invernadero y cambio climático para América Latina y el Caribe",
+    "autoria": "Luis Miguel Galindo; José Eduardo Alatorre; Jimy Ferrer",
+    "handle": "https://hdl.handle.net/11362/68770",
+    "simbolo": "LC/TS.2023/190",
+    "isbn": null,
+    "fecha": "2023",
+    "tipo_documento": "Documento de proyecto / estudio técnico econométrico",
+    "paginas_cuerpo": 50,
+    "paginas_totales": 59,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cómo puede un modelo econométrico estructural de pequeña escala representar los efectos del cambio climático y de la mitigación sobre la economía y las condiciones sociales de América Latina y el Caribe, y qué escenarios orientan una transición climática justa hacia la neutralidad del carbono?",
+    "alcance": {
+      "ambito_aplicacion": "América Latina y el Caribe como región; el modelo trabaja con magnitudes agregadas regionales.",
+      "referentes_dependencias": "Acuerdo de París, IPCC, NGFS, literatura de economía climática y fuentes estadísticas del Banco Mundial, CEPAL, OLADE e IEA.",
+      "sectorial": "Macroeconomía, producto, inversión, empleo, pobreza, distribución del ingreso, energía, emisiones, transporte, agricultura, industria, residuos, uso del suelo e infraestructura.",
+      "temporal": "Datos anuales 1990-2021; escenarios prospectivos a 2030 y 2050; neutralidad del carbono entre 2050 y 2070."
+    },
+    "hallazgos_principales": [
+      "El crecimiento económico se asocia simultáneamente con mayor consumo de energía y emisiones de GEI, mientras el crecimiento inercial no es consistente con la neutralidad de carbono entre 2050 y 2070 (p.7).",
+      "Las demandas de energía son inelásticas al precio, por lo que aumentos marginales de precios no bastan para contener el consumo ni alcanzar una economía carbono neutral en 2050 (p.22).",
+      "La concentración del ingreso se asocia positivamente con las emisiones; una mejora distributiva reduce pobreza y mortalidad infantil y también puede reducir emisiones (p.23).",
+      "El escenario de precio al carbono de USD $100 tCO2et al 2030 reduce emisiones, pero produce efectos contractivos sobre PIB, consumo, empleo y pobreza frente al escenario de referencia (p.37; p.38).",
+      "Los escenarios IPAT muestran que una transición ordenada exige reducciones anuales de 3,5% en intensidad energética y 4% en la razón de emisiones a energía, mientras postergar la mitigación eleva esos requerimientos a 5% y 5,3% (p.43)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El ME3C3 muestra que el estilo de crecimiento vigente no resuelve simultáneamente los objetivos económicos y sociales y la descarbonización: el crecimiento aumenta consumo y emisiones, pero sus elasticidades son insuficientes para reducir persistentemente la pobreza y sostener la neutralidad de carbono.",
+        "La política climática debe integrar el canal físico del clima con el canal distributivo, porque los impactos sobre el producto y la desigualdad afectan conjuntamente las emisiones, la pobreza, la mortalidad infantil y las posibilidades de una transición justa.",
+        "Un impuesto al carbono es necesario pero no suficiente; sin transformaciones estructurales, eficiencia energética, electrificación y apoyo a renovables, una transición tardía o basada solo en precios puede ser costosa y regresiva."
+      ],
+      "recomendaciones": [
+        "Modificar las elasticidades que vinculan ingreso, pobreza, mortalidad infantil, energía y emisiones para desacoplar crecimiento y presión ambiental.",
+        "Impulsar eficiencia energética, descarbonización, electrificación masiva del transporte y generación eléctrica renovable.",
+        "Combinar crecimiento, protección social universal y finanzas públicas fortalecidas mediante impuestos ambientales o verdes.",
+        "Construir una nueva matriz de servicios e infraestructura pública y privada compatible con inclusión social y bajo carbono."
+      ],
+      "nota": "El documento es principalmente un estudio de modelización y escenarios; sus recomendaciones aparecen como orientaciones de política en el cierre, no como un plan de implementación con responsables y plazos."
+    },
+    "resumen_narrativo": "El estudio construye el ME3C3, un modelo econométrico estructural neokeynesiano que integra producto, energía, emisiones, pobreza y distribución del ingreso para América Latina y el Caribe. Sus estimaciones muestran un dilema de desarrollo: el crecimiento aumenta consumo, empleo y reducción de pobreza, pero también energía fósil y GEI, mientras una trayectoria BAU no alcanza la neutralidad de carbono entre 2050 y 2070. Los escenarios indican que un precio al carbono de USD $100 tCO2et al 2030 reduce emisiones pero puede contraer el PIB y ralentizar la reducción de la pobreza; la combinación con una mejora distributiva ofrece una transición más justa. El cierre propone transformaciones estructurales apoyadas en eficiencia energética, electrificación, renovables, protección social universal e infraestructura baja en carbono."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "10-11",
+      "resumen": "La introducción define el cambio climático como problema de desarrollo y fija la pregunta operativa del estudio: construir el ME3C3 para integrar macroeconomía, cambio climático y medio ambiente en escenarios de política para ALC. Vincula la neutralidad de carbono 2050-2070 con transformaciones estructurales y adaptación, y aclara que las simulaciones son ilustrativas, no pronósticos. El argumento prepara una lectura de la transición como problema macroeconómico y social, no como shock ambiental aislado.",
+      "dimensiones": [
+        {"dimension": "diagnostico_estructural", "cita": "El cambio climático es un problema de desarrollo", "pagina": 10},
+        {"dimension": "propuestas_politica", "cita": "resulta fundamental el aporte que tiene la construcción de un modelo macroeconométrico sencillo que integre ambas dimensiones", "pagina": 10}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Marco general",
+      "nivel": 1,
+      "paginas": "12-13",
+      "resumen": "El marco general explica la arquitectura del modelo: ecuaciones de demanda, relaciones de largo plazo estimadas mediante cointegración y bloques ambientales vinculados con variables macroeconómicas. Presenta la hipótesis de costos climáticos generalizados, potencialmente no lineales e intensos en países pobres y calurosos, y usa la curva de Kuznets ambiental como referencia discutida. El apartado justifica incluir temperatura, productividad, emisiones y calidad ambiental dentro del sistema económico.",
+      "dimensiones": [
+        {"dimension": "diagnostico_estructural", "cita": "el cambio climático incide sobre la productividad y, por tanto, tiene efectos en la capacidad de crecimiento económico de largo plazo", "pagina": 12},
+        {"dimension": "contexto_antecedentes", "cita": "Las variables ambientales y las externalidades negativas se integran en el modelo de acuerdo a un tipo de curva de Kuznets ambiental", "pagina": 12}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "II. Especificaciones econométricas del ME3C3",
+      "nivel": 1,
+      "paginas": "14-19",
+      "resumen": "Este capítulo despliega las ecuaciones que componen el ME3C3 y muestra cómo el producto, la demanda, la energía, el empleo, las emisiones, el ambiente, la infraestructura y los precios se conectan en un sistema común. Las subsecciones especifican funciones, variables, supuestos y canales, desde la función de producción afectada por temperatura hasta STIRPAT e IPAT. El capítulo convierte la hipótesis de transición integrada en una estructura estimable.",
+      "dimensiones": [],
+      "subsecciones": [
+        {"seccion": "A. Producto interno bruto", "nivel": 2, "paginas": "14-14", "resumen": "Especifica el PIB de largo plazo mediante capital, trabajo y productividad total de los factores, y el PIB de corto plazo mediante inversión, déficit fiscal, tipo de cambio y petróleo. El producto funciona como variable articuladora de los demás bloques, porque su nivel y crecimiento alimentan consumo, inversión y variables sociales. La sección fija la base macroeconómica sobre la que se incorporarán los daños y shocks del modelo.", "dimensiones": [], "subsecciones": []},
+        {"seccion": "B. PIB y cambio climático", "nivel": 2, "paginas": "15-17", "resumen": "Modela los efectos de temperatura y condiciones climáticas sobre producto y productividad mediante funciones de producción y especificaciones Harrod-Domar. Distingue impactos sobre el nivel del PIB y sobre su tasa de crecimiento, y reporta rangos de literatura: un aumento de 3°C puede reducir 2,04% el PIB y 6°C puede reducirlo 8,06%. La sección fundamenta el canal físico del riesgo climático y sus efectos de largo plazo.", "dimensiones": [{"dimension": "estado_de_situacion", "cita": "La evidencia disponible agregada sobre los efectos del cambio climático en la economía indica que un aumento de 3oC de temperatura reduce en -2.04% (+-2.2) el PIB y un aumento de 6oC implica una pérdida de -8.06% (+-2.43) del PIB", "pagina": 16}], "subsecciones": []},
+        {"seccion": "C. Demanda agregada", "nivel": 2, "paginas": "17-17", "resumen": "Formula el PIB de corto plazo a partir de inversión, tipo de cambio, déficit fiscal, petróleo y crecimiento rezagado, y especifica consumo, inversión, exportaciones e importaciones. El apartado identifica los canales macroeconómicos que transmiten shocks de demanda y precios, incluido el petróleo, hacia la actividad regional. Su función es cerrar el vínculo entre el bloque macroeconómico y los escenarios posteriores.", "dimensiones": [], "subsecciones": []},
+        {"seccion": "D. Energía", "nivel": 2, "paginas": "17-18", "resumen": "Especifica la demanda de energía, electricidad y gasolinas, además de la participación fósil, la participación renovable y la producción eléctrica renovable. La energía depende del PIB y de precios, mientras las ecuaciones permiten estimar elasticidades y tendencias de consumo. El bloque entrega la base para simular precio al carbono, eficiencia energética y descarbonización.", "dimensiones": [{"dimension": "diagnostico_estructural", "cita": "La demanda de energía, electricidad y gasolinas se modelan como funciones de demanda tradicionales", "pagina": 17}], "subsecciones": []},
+        {"seccion": "E. Empleo y condiciones sociales", "nivel": 2, "paginas": "18-18", "resumen": "Relaciona empleo con actividad e inflación, y pobreza y mortalidad infantil con PIB per cápita y distribución del ingreso mediante el índice de Gini. Incluye líneas de pobreza de 1,9 y 3,5 dólares diarios y trata la distribución como canal social que puede modificar las emisiones. La sección aporta la dimensión de justicia distributiva necesaria para evaluar escenarios climáticos.", "dimensiones": [{"dimension": "diagnostico_estructural", "cita": "El cambio en el porcentaje de personas por debajo de la línea de pobreza depende de los cambios en el ingreso per cápita  y en la distribución del ingreso aproximado por el índice de Gini", "pagina": 18}], "subsecciones": []},
+        {"seccion": "F. Emisiones de gases de efecto invernadero", "nivel": 2, "paginas": "18-19", "resumen": "Construye ecuaciones STIRPAT para emisiones totales y para energía, electricidad, transporte, industria, agricultura y residuos, y usa la identidad IPAT para descomponer población, ingreso, intensidad energética y carbono. El bloque permite identificar elasticidades ecológicas y comprobar la consistencia de los escenarios de neutralidad. También conecta emisiones con PIB per cápita, Gini, energía y petróleo.", "dimensiones": [{"dimension": "diagnostico_estructural", "cita": "Las elasticidades ecológicas de los impactos ambientales a sus determinantes se identifican a través de los coeficientes de estas ecuaciones.", "pagina": 19}], "subsecciones": []},
+        {"seccion": "G. Medio ambiente", "nivel": 2, "paginas": "19-19", "resumen": "Incorpora área agrícola y área selvática como variables ambientales asociadas al ingreso per cápita y a la persistencia temporal. Las ecuaciones permiten explorar comportamientos no lineales y cambios en cobertura, con una lectura de Kuznets ambiental. El bloque mantiene visible el uso del suelo dentro del modelo, aunque no constituye el eje principal de los escenarios.", "dimensiones": [{"dimension": "estado_de_situacion", "cita": "La identidad del IPAT (Ekins, 2000; Labandeira et al., 2007) se utiliza para análisis de consistencia de los escenarios de los modelos STIRPAT (Nakicenovic y Group, 2000).", "pagina": 19}], "subsecciones": []},
+        {"seccion": "H. Infraestructura", "nivel": 2, "paginas": "19-19", "resumen": "Estima el gasto total en infraestructura como función del ingreso per cápita y de la estructura económica o los precios. La especificación sirve para anticipar que la transición baja en carbono requerirá mayor gasto de infraestructura, aunque el texto no desagrega un programa sectorial de obras. Su papel es proveer una variable de escala para escenarios de desarrollo sostenible.", "dimensiones": [{"dimension": "desafios", "cita": "La demanda de infraestructura se estima tomando como referencia los requerimientos de infraestructura asociados a un determinado nivel de ingreso per cápita ajustado por la evolución de la estructura económica o precios", "pagina": 19}], "subsecciones": []},
+        {"seccion": "I. Precios", "nivel": 2, "paginas": "19-19", "resumen": "Modela los precios a partir de productividad laboral, tipo de cambio nominal y petróleo, dentro de una curva de Phillips y una curva de salarios neokeynesiana. La ecuación se presenta como referencia para construir escenarios, especialmente aquellos donde el precio del carbono se transmite a energía, gasolina, inflación, consumo e inversión. La sección aporta el canal de costos de la política climática.", "dimensiones": [{"dimension": "diagnostico_estructural", "cita": "Los precios se modelan de acuerdo con presiones de demanda y de costos en el contexto de la curva de Phillips del nuevo Keynesianismo y una curva de salarios", "pagina": 19}], "subsecciones": []}
+      ]
+    },
+    {
+      "seccion": "III. Base de datos",
+      "nivel": 1,
+      "paginas": "20-21",
+      "resumen": "Describe una base anual para 1990-2021 y presenta estadísticos de PIB, consumo, inversión, empleo, población, pobreza, Gini, energía fósil y renovable, petróleo, electricidad y uso del suelo. La tabla reúne 62 observaciones para varias variables y fuentes del Banco Mundial, CEPAL, OLADE e IEA. El apartado delimita la cobertura empírica y advierte qué variables alimentan cada bloque del modelo.",
+      "dimensiones": [{"dimension": "contexto_antecedentes", "cita": "La base de datos consiste en información anual para el periodo 1990-2021.", "pagina": 20}],
+      "subsecciones": []
+    },
+    {
+      "seccion": "IV. La evidencia econométrica",
+      "nivel": 1,
+      "paginas": "22-29",
+      "resumen": "Presenta las estimaciones por bloques y sus relaciones de largo plazo, mostrando efectos negativos de la temperatura sobre producto y productividad, alta elasticidad ingreso de la energía y baja sensibilidad de la demanda a precios. Vincula emisiones con PIB per cápita, intensidad energética y distribución del ingreso, y relaciona pobreza y mortalidad infantil con crecimiento y Gini. Los cuadros y gráficos validan la trayectoria histórica simulada y convierten las especificaciones en evidencia para política.",
+      "dimensiones": [
+        {"dimension": "estado_de_situacion", "cita": "El conjunto de resultados obtenidos muestra que el producto es una función positiva del capital, del empleo y de la TFP y que la temperatura tiene efectos negativos sobre el producto y sobre la productividad total de los factores", "pagina": 22},
+        {"dimension": "diagnostico_estructural", "cita": "Este conjunto de resultados sugiere que es factible construir una estrategia de descarbonización profunda a través de asociar los procesos de mitigación con una mejora en la distribución del ingreso.", "pagina": 23},
+        {"dimension": "brechas_implementacion", "cita": "Ello indica que en un escenario de crecimiento económico continuo aumentos marginales de precios son insuficientes para contener el aumento del consumo de energía y por tanto son insuficientes para alcanzar una economía carbono neutral en 2050.", "pagina": 22, "subtipo_brecha": "prospectiva"}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "V. Escenarios prospectivos",
+      "nivel": 1,
+      "paginas": "30-47",
+      "resumen": "Construye cinco escenarios ilustrativos al 2030 y 2050: BAU, efectos del cambio climático, precio al carbono, transición justa con precio y distribución, y riesgos de transición. El recorrido compara impactos sobre PIB, consumo, empleo, pobreza, energía y emisiones, y muestra que la transición tardía exige reducciones de intensidad mucho mayores. El capítulo traduce los resultados econométricos en alternativas contrastables para la política pública.",
+      "dimensiones": [],
+      "subsecciones": [
+        {"seccion": "A. Escenario I: Escenario inercial (Business As Usual -BAU-)", "nivel": 2, "paginas": "30-32", "resumen": "Extrapola tendencias históricas sin precio al carbono y muestra la paradoja del desarrollo: el crecimiento eleva consumo y empleo y reduce pobreza, pero también gasolina y GEI, sin resolver plenamente los desafíos sociales. El cuadro BAU proyecta para 2026-2030 crecimiento del PIB de 1,67%, CO2e de 0,68% y una reducción de pobreza de 2,85%. El escenario funciona como referencia para medir los costos de no transformar el estilo de desarrollo.", "dimensiones": [{"dimension": "tendencias", "cita": "El escenario inercial (BAU) ilustra que la trayectoria inercial del actual estilo de desarrollo es inconsistente con un desarrollo sustentable.", "pagina": 30}], "subsecciones": []},
+        {"seccion": "B. Escenario II: Escenario de efectos del cambio climático", "nivel": 2, "paginas": "32-37", "resumen": "Introduce aumentos de temperatura sobre el escenario BAU y estima efectos negativos sobre PIB, consumo, empleo, pobreza y emisiones. Considera rangos climáticos de 1,5°C a 3,1°C y extremos de 4°C a 6°C, y simula como referencia que 1°C puede reducir 5% del PIB o entre 1% y 2% la tasa de crecimiento. La sección evidencia que el daño físico también se transmite a problemas sociales.", "dimensiones": [{"dimension": "estado_de_situacion", "cita": "El escenario de efectos del cambio climático muestra que los impactos del cambio climático son significativos y son un problema de desarrollo.", "pagina": 32}], "subsecciones": []},
+        {"seccion": "C. Escenario III: Escenario de precio al carbono", "nivel": 2, "paginas": "37-40", "resumen": "Simula un precio del carbono de USD $100 tCO2et al 2030, trasladado a petróleo, gasolina y electricidad. El instrumento reduce emisiones y consumo de gasolina, pero sus efectos contractivos sobre PIB, consumo, pobreza y empleo muestran que el precio por sí solo no produce neutralidad de carbono. La sección hace explícito el intercambio entre mitigación y costos distributivos.", "dimensiones": [{"dimension": "propuestas_politica", "cita": "Un aumento al precio al carbono que se traslada al aumento del precio de la energía.", "pagina": 38}], "subsecciones": []},
+        {"seccion": "D. Escenario IV: Escenario de transición climática con precio al carbono y distribución del ingreso", "nivel": 2, "paginas": "40-42", "resumen": "Combina el precio al carbono de USD $100 tCO2et con una mejora del coeficiente de Gini desde 0,555 en América Latina y el Caribe a 0,253 en Noruega como ejercicio contrafactual. El resultado busca compatibilizar mitigación con menor pobreza y mortalidad infantil y formar una coalición estable para una transición justa. Es un escenario distributivo, no una propuesta de reforma institucional detallada.", "dimensiones": [{"dimension": "oportunidades", "cita": "De este modo, existe una estrategia de mitigación que, al mismo tiempo, mejore las condiciones sociales.", "pagina": 40}], "subsecciones": []},
+        {"seccion": "E. Escenario V: Escenario de riesgos de transición climática", "nivel": 2, "paginas": "42-44", "resumen": "Compara transición ordenada, desordenada y clima caliente mediante escenarios NGFS y el modelo IPAT. Una transición ordenada con PIB creciendo 2% requiere reducir 3,5% anual la intensidad energética y 4% la intensidad de carbono; si se posterga a 2030, los requerimientos suben a 5% y 5,3%. El escenario muestra el costo de retrasar la mitigación y la necesidad de cambios tempranos.", "dimensiones": [{"dimension": "desafios", "cita": "Posponer los procesos de mitigación al 2030 lleva a requerir tasas de aumento de la eficiencia energética y de descarbonización muy altas que las hace poco creíbles y, probablemente ineficientes y muy costosas.", "pagina": 42}], "subsecciones": []},
+        {"seccion": "F. Análisis general de escenarios", "nivel": 2, "paginas": "44-47", "resumen": "Integra los escenarios y concluye que el estilo de desarrollo actual no es compatible con neutralidad de carbono ni desarrollo sustentable: se requiere crecimiento para empleo y pobreza, pero el mismo proceso genera externalidades. Propone un consenso económico, social y político y enumera transformaciones en elasticidades, eficiencia, desacoplamiento, protección social, impuestos verdes e infraestructura. Este cierre convierte la comparación cuantitativa en una agenda de transformación estructural.", "dimensiones": [{"dimension": "propuestas_politica", "cita": "De este modo, es indispensable instrumentar transformaciones estructurales amplias y urgentes al actual estilo de desarrollo.", "pagina": 45}], "subsecciones": []}
+      ]
+    },
+    {
+      "seccion": "VI. Resumen y conclusiones",
+      "nivel": 1,
+      "paginas": "47-50",
+      "resumen": "El cierre sintetiza el desempeño del ME3C3 y responde que la transición climática debe analizar simultáneamente vulnerabilidad, mitigación, macroeconomía y resultados sociales. Identifica el dilema entre crecimiento, energía y emisiones, el canal físico del clima y el canal distributivo del Gini, y limita el alcance de un impuesto al carbono aislado. Finalmente orienta cambios estructurales: eficiencia, electrificación, renovables, protección social universal, impuestos ambientales e infraestructura baja en carbono, junto con una coalición económica, política y social.",
+      "dimensiones": [
+        {"dimension": "diagnostico_estructural", "cita": "De hecho, el actual estilo de crecimiento configura un dilema de desarrollo", "pagina": 49},
+        {"dimension": "propuestas_politica", "cita": "Las profundas transformaciones que requiere este proceso de transición climática, que incluye modificaciones a las actuales formas de producción y a las pautas de consumo de la población, involucran, necesariamente, mejoras en materia de eficiencia energética, además de un decidido impulso a la electrificación masiva de las actividades económicas y del transporte y un fuerte apoyo público a la energía eléctrica generada a partir de fuentes renovables.", "pagina": 50}
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El estudio formula instrumentos y transformaciones concretas —precio al carbono, eficiencia, electrificación, renovables, protección social e infraestructura— y conecta mitigación con crecimiento y distribución, pero su producto principal es un modelo y escenarios ilustrativos, no un paquete autónomo de inversión coordinada a escala de sectores estratégicos. Por el test negativo del paquete, no alcanza Sí; supera el lenguaje puramente aspiracional y por eso es Parcial.",
+      "citas": [{"cita": "Sin embargo, las bajas elasticidades precio de la demanda de energía y de las emisiones de gases de efecto invernadero y las altas elasticidades ingreso de la demanda de energía y de emisiones de CO2et indican que un aumento en rangos razonables de un impuesto al carbono sería insuficiente para una descarbonización profunda en un contexto de crecimiento económico continuo.", "pagina": 7}, {"cita": "Ello requiere avanzar en materia de eficiencia energética, apoyar una electrificación masiva de la actividad económica, fundamentalmente del transporte, en un contexto en que la generación de energía eléctrica se base en energías renovables.", "pagina": 8}],
+      "nota": "Documento de modelización econométrica y escenarios; el veredicto refleja propuestas derivadas del análisis, no un programa de inversión ejecutable."
+    },
+    "articulacion_actores": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento identifica una coalición política, económica y social, pero no nombra una plataforma, consejo, plan o mecanismo institucional vigente o propuesto para articularla. La formulación es una orientación de consenso y no acredita un mecanismo con nombre propio dentro de ALC.",
+      "citas": [{"cita": "La evidencia disponible muestra que una mejor distribución del ingreso ( que se refleja en una reducción de la pobreza y menor mortalidad infantil) contribuiría a reducir las emisiones de GEI a nivel agregado y que sería compatible con una estrategia de largo plazo compatible con una transición climática justa y estable.", "pagina": 8}, {"cita": "Para ello, es indispensable construir un amplio y estable consenso económico, social y político favorable a estas transformaciones.", "pagina": 45}],
+      "nota": "La coalición y el consenso son mecanismos enunciados de forma genérica; no se confunden con la colaboración que produjo el estudio."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "El texto enumera actividades y sectores de transición —transporte, electricidad renovable, energía, agricultura, industria y residuos— y desarrolla vínculos con empleo, pobreza y productividad. Sin embargo, los presenta principalmente como variables del modelo, impactos o requerimientos de transformación, no como una cartera desarrollada de oportunidades productivas sostenibles con empleo o productividad sectorial.",
+      "citas": [{"cita": "Las emisiones de gases de efecto invernadero (GEI) se especifican de acuerdo con el modelo STIRPAT (Stochastic Impacts by Regression Population Affluence and Technology)", "pagina": 18}, {"cita": "La evolución del empleo se asocia a la trayectoria del PIB mientras que la reducción de la pobreza está asociado a la tasa de crecimiento del PIB per cápita y a la mejora en el coeficiente de Gini.", "pagina": 23}],
+      "desglose_items": [],
+      "tally": "0 de 0 ítems de oportunidades desglosables pasan el test de enumeración y vínculo productivo",
+      "nota": "El documento es una modelización agregada; no desarrolla una enumeración de oportunidades productivas como agenda sectorial."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "La voz normativa del cierre contiene cuatro orientaciones con objetos identificables: modificar elasticidades específicas, desacoplar PIB y emisiones mediante eficiencia y descarbonización, combinar crecimiento con protección social universal e impuestos verdes, y construir infraestructura y servicios bajos en carbono. Los cuatro ítems pasan el test de objeto concreto, aunque no incluyen responsables ni plazos de implementación.",
+      "citas": [{"cita": "Modificaciones en las elasticidades ingreso y precio que condicionan el actual estilo de desarrollo.", "pagina": 47}, {"cita": "Desacoplamiento entre la trayectoria del PIB y las emisiones del sector energético a través de aumento significativo de la eficiencia energética y de la des -carbonización de la economía.", "pagina": 47}, {"cita": "Ello debe estar apoyado por sistemas de protección social de tipo universal.", "pagina": 47}, {"cita": "La construcción de una nueva matriz de servicios públicos y privados consistente con un desarrollo sostenible.", "pagina": 47}],
+      "desglose_items": [
+        {"item": "Modificar las elasticidades ingreso y precio que vinculan pobreza, mortalidad infantil, ingreso, energía y emisiones.", "clasificacion": "CONCRETO", "pagina": 47},
+        {"item": "Desacoplar PIB y emisiones del sector energético mediante eficiencia energética y descarbonización.", "clasificacion": "CONCRETO", "pagina": 47},
+        {"item": "Apoyar el crecimiento con protección social universal, finanzas públicas e impuestos ambientales o verdes.", "clasificacion": "CONCRETO", "pagina": 47},
+        {"item": "Construir una nueva matriz de servicios e infraestructura pública y privada compatible con inclusión social y bajo carbono.", "clasificacion": "CONCRETO", "pagina": 47}
+      ],
+      "tally": "4 de 4 ítems pasan el test de concreción",
+      "nota": "Se desglosa exclusivamente el cierre normativo; los escenarios y los instrumentos descritos en el análisis no se cuentan como recomendaciones propias adicionales."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {"numero": 6, "nombre": "Sostenibilidad ambiental", "certeza": "Alta"},
+    "transformacion_secundaria": {"numero": 10, "nombre": "Macroeconomía y fiscalidad", "certeza": "Alta"},
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la contradicción entre un crecimiento necesario para elevar consumo, empleo e ingreso y un estilo de desarrollo que aumenta energía fósil, emisiones y externalidades. La modelización busca resolver esa tensión integrando impactos físicos, mitigación, macroeconomía y distribución del ingreso en escenarios de transición climática justa.",
+      "filtro_categoria_primaria": "El objeto principal es entender y orientar la transición climática y la descarbonización, mientras la macroeconomía es el método y el canal de evaluación. Por eso la primaria es #6 Sostenibilidad ambiental y no #10 Macroeconomía y fiscalidad: el ME3C3 usa PIB, precios, impuestos y escenarios para medir cómo alcanzar neutralidad de carbono, no para estudiar el sistema fiscal como fin autónomo.",
+      "secundaria_obligatoria": "#10 Macroeconomía y fiscalidad cumple la función habilitadora de cuantificar efectos sobre PIB, consumo, inversión, inflación, pobreza y distribución, y de evaluar el impuesto al carbono y las finanzas públicas verdes dentro de la transición.",
+      "justificacion_anti_copia": "La clasificación se apoya en rasgos propios: el modelo neokeynesiano ME3C3 integra bloques de energía, emisiones STIRPAT e identidad IPAT; estima el canal físico de temperatura sobre PIB y productividad; y simula un precio de USD $100 tCO2et junto con un contrafactual distributivo de Gini. El cierre añade electrificación masiva, renovables, protección social universal e infraestructura baja en carbono.",
+      "validacion_anclas": "La decisión se aproxima al ancla #18, La economía del cambio climático, 2023, porque la transición baja en carbono es el objeto y el financiamiento o la macroeconomía son medios; se diferencia porque aquí el centro empírico es un modelo econométrico estructural y no una cuantificación fiscal-financiera de necesidades. La secundaria #10 conserva esa función macroeconómica instrumental."
+    },
+    "tipo_documento_climatico": "Estudio técnico de modelización macroeconométrica y escenarios prospectivos de transición climática",
+    "nivel_aplicacion": "Regional (América Latina y el Caribe)",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

@@ -1,0 +1,1914 @@
+{
+  "documento": {
+    "num_muestra": 205,
+    "titulo": "Avaliação dos efeitos e impactos das inundações no Rio Grande do Sul. Novembro 2024",
+    "autoria": null,
+    "handle": "https://hdl.handle.net/11362/81035",
+    "simbolo": null,
+    "isbn": null,
+    "fecha": "2024-11",
+    "tipo_documento": "Estudo técnico de avaliação de danos, perdas e custos adicionais (DaLA)",
+    "paginas_cuerpo": 287,
+    "paginas_totales": 303,
+    "idioma": "pt",
+    "tiene_resumen_ejecutivo": true,
+    "tiene_anexos": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cómo afectaron las inundaciones de abril y mayo de 2024 al Rio Grande do Sul, a su población y a sus sectores sociales, de infraestructura, productivos y ambientales, y qué medidas de reconstrucción resiliente se recomiendan?",
+    "alcance": {
+      "ambito_aplicacion": "Estado de Rio Grande do Sul, Brasil, con análisis estatal, municipal, territorial y por cuenca hidrográfica.",
+      "referentes_dependencias": "Metodología DaLA de la CEPAL; Quadro de Sendai para la Redução do Risco de Desastres 2015-2030; bases y organismos técnicos IBGE, IPEA, Banco Mundial, Defesa Civil y entidades sectoriales brasileñas.",
+      "sectorial": "Población y sectores social, de infraestructura, productivo y medio ambiente; impactos en PIB, empleo y cuentas fiscales; reconstrucción resiliente.",
+      "temporal": "Evento de abril-mayo de 2024; impacto macroeconómico estimado para 2024; recuperación y reconstrucción con medidas de corto, medio y largo plazo."
+    },
+    "hallazgos_principales": [
+      "La proyección de crecimiento de la economía de Rio Grande do Sul cayó de 6% antes del desastre a 4,7% después de las inundaciones, un impacto neto de -1,3% (p. 229).",
+      "El desastre podía reducir en 432 mil los puestos de trabajo en 2024, equivalentes a -7,3% del total ocupado del primer trimestre (p. 229).",
+      "La población afectada incluyó 183 víctimas fatales, 27 personas desaparecidas y 581.638 desalojadas (p. 63).",
+      "La respuesta pública federal y estadual se estimó en cuatro áreas de financiamiento por un total de R$ 2,79 bilhões (p. 73), mientras los recursos federales destinados a emergencia, recuperación y reconstrucción alcanzaban aproximadamente R$ 5 bilhões (p. 248).",
+      "La evaluación muestra daños ambientales y pérdidas de servicios ecosistémicos asociados a la degradación de la vegetación, además de una propuesta concreta de triturar residuos para producir Combustível Derivado de Resíduos como insumo de la industria cementera (p. 217; p. 227).",
+      "La reconstrucción se organiza como una agenda intersectorial de empleo, reasentamiento, gobernanza de cuencas, infraestructura, servicios sociales, restauración ambiental, reciclaje y energía renovable (pp. 254-287)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "Las inundaciones produjeron un shock multidimensional que afectó simultáneamente la actividad económica, el empleo, los servicios sociales, las infraestructuras, la producción y los ecosistemas de Rio Grande do Sul.",
+        "La exposición y la recuperación fueron desiguales: la ocupación de áreas inundables, la precariedad urbana y las brechas de datos desagregados limitaron la identificación de impactos diferenciados y la focalización de la respuesta (pp. 54, 57 y 69).",
+        "Las transferencias y programas públicos contuvieron parte del impacto fiscal inmediato, pero la reconstrucción resiliente requiere integrar gestión del riesgo, planificación territorial, coordinación intergubernamental, inversión sectorial y restauración ambiental (pp. 231, 248 y 258)."
+      ],
+      "recomendaciones": [
+        "Diseñar una estrategia de reconstrucción que maximice la creación de empleo y priorice a las poblaciones vulnerables afectadas en sus medios de subsistencia (p. 254).",
+        "Delimitar áreas de riesgo no mitigable, regular el uso del suelo y planificar reasentamientos seguros con acompañamiento personalizado (pp. 254-255).",
+        "Fortalecer la gobernanza de cuencas, los órganos técnico-científicos, los sistemas de alerta, la información de riesgo y los protocolos de cooperación entre niveles de gobierno (pp. 257-268).",
+        "Integrar redundancia, mantenimiento, estudios de vulnerabilidad y criterios climáticos en obras de protección, transporte, agua, saneamiento, escuelas, salud y energía (pp. 265-285).",
+        "Impulsar datos desagregados, formación laboral, programas de empleo, crédito, seguros y apoyo a la recuperación productiva de comunidades y sectores afectados (pp. 272-276).",
+        "Restaurar ecosistemas, aplicar soluciones basadas en la naturaleza, reciclar y reutilizar escombros e incorporar sistemas de energía renovable y eficiencia energética (pp. 286-287)."
+      ],
+      "nota": "Las conclusiones sintetizan los resultados de la evaluación y las recomendaciones reproducen la agenda normativa del cierre, separadas para no confundir diagnóstico con acción."
+    },
+    "resumen_narrativo": "El informe aplica la metodología DaLA de la CEPAL para reconstruir los efectos de las inundaciones de abril y mayo de 2024 en Rio Grande do Sul y encuentra un descenso de la proyección de crecimiento de 6% a 4,7%, junto con una posible pérdida de 432 mil empleos. La emergencia alcanzó a la población, las escuelas, las viviendas, los servicios de agua y energía, las actividades productivas y los ecosistemas, con impactos particularmente desiguales en municipios y grupos vulnerables. La respuesta pública —incluidos S2ID, SINPDEC, transferencias y recursos de reconstrucción— amortiguó parte del shock, pero dejó brechas de datos, coordinación y mantenimiento. El cierre propone una reconstrucción resiliente basada en empleo, reasentamiento seguro, gobernanza de cuencas, infraestructura redundante, restauración ambiental, reciclaje de escombros y energía renovable."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "METODOLOGIA",
+      "nivel": 1,
+      "paginas": "16-17",
+      "resumen": "Explica que la evaluación emplea la tercera edición de la metodología DaLA de la CEPAL para estimar monetariamente daños, pérdidas y costos adicionales, con el fin de apoyar la reconstrucción y la reducción de riesgos. Distingue efectos, impactos macroeconómicos, daños, pérdidas y costos adicionales, y organiza el análisis en los sectores social, de infraestructura, productivo y medioambiental, además de incorporar impactos macroeconómicos y recomendaciones. Delimita el alcance del método: DaLA no reemplaza estudios estructurales detallados ni análisis de impactos de largo plazo o de causas sectoriales. La estimación combinó datos oficiales, una misión de campo del 17 al 23 de junio de 2024, reuniones virtuales y entrevistas con municipios, sector privado y sociedad civil; la Secretaria da Fazenda do Rio Grande do Sul y la Secretaria Nacional de Proteção e Defesa Civil facilitaron la coordinación. La hoja es metodológica. No contiene contenido climático sustantivo; el sector ambiental aparece únicamente como delimitación de cobertura.",
+      "dimensiones": [],
+      "subsecciones": []
+    },
+    {
+      "seccion": "DESCRIÇÃO DO EVENTO E POPULAÇÃO AFETADA",
+      "nivel": 1,
+      "paginas": "28-77",
+      "resumen": "Este bloque establece la secuencia analítica del informe: primero reconstruye el evento extraordinario de lluvias, inundaciones, alertas y decretos en el territorio del Rio Grande do Sul; después caracteriza la población, los asentamientos y las desigualdades que condicionaron la exposición y la recuperación. El Capítulo I aporta la cronología meteorológica e hidrológica, los casos municipales y los mecanismos de respuesta; el Capítulo 2 cuantifica población afectada, refugios, grupos específicos y transferencias de emergencia. En conjunto, el bloque conecta magnitud física, impactos humanos, coordinación intergubernamental y costos de atención.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "Capítulo I. Descrição do evento",
+          "nivel": 2,
+          "paginas": "29-52",
+          "resumen": "El capítulo reconstruye el desastre de abril-mayo de 2024 a partir de antecedentes históricos, condiciones de precipitación, niveles de ríos, alertas, decretos y observación satelital. Su función es explicar cómo la combinación de lluvias persistentes, suelos saturados, desbordamientos y exposición territorial produjo inundaciones urbanas y rurales, y cómo se organizó la respuesta pública. Las entradas siguientes separan el contexto histórico de la cronología del evento y de los mecanismos de coordinación.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "Introdução",
+              "nivel": 3,
+              "paginas": "29-29",
+              "resumen": "Presenta el evento extraordinario de lluvias e inundaciones entre finales de abril y mayo de 2024 como punto de partida del análisis. Describe un sistema de baja presión, precipitaciones de hasta 300 mm en un día, saturación del suelo y desbordamiento de los ríos Jacuí, Taquari, Caí y Guaíba. Registra la declaración de calamidad en 95 municipios y de emergencia en 323, junto con alertas hidrometeorológicos, fondos de emergencia, apoyo a familias y la actuación del SINPDEC. La entrada fija así el fenómeno físico y la arquitectura inicial de respuesta que luego se detallan en las cronologías y casos municipales.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "As precipitações excederam significativamente as médias históricas, com algumas áreas registrando até 300 mm de chuva em um único dia.",
+                  "pagina": 29
+                },
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Foi estabelecida uma Secretaria Extraordinária de Apoio à Reconstrução no Rio Grande do Sul.",
+                  "pagina": 29
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "A. Principais eventos históricos de desastres no Rio Grande do Sul",
+              "nivel": 3,
+              "paginas": "30-34",
+              "resumen": "Contextualiza el desastre mediante el historial regional de inundaciones, sequías, deslizamientos, incendios, tornados, vendavales, heladas, incidentes con represas y erosión costera. La comparación 2005-2023 identifica inundaciones, lluvias intensas y movimientos de masa como eventos recurrentes, y destaca municipios con cientos de miles de personas afectadas, como Pelotas, São Leopoldo y Cachoeira do Sul. Los casos de 1941, 1966, 2011, 2022 y 2023 muestran continuidad y acumulación de daños en infraestructura, viviendas, agricultura y comunidades. El cierre interpreta la transición abrupta de sequía a inundaciones severas en 2023 como señal de mayor inestabilidad e incertidumbre, aunque deja la posible relación con el cambio climático como hipótesis que requiere estudios adicionales.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "A Região Sul sofreu numerosos desastres significativos ao longo da sua história, impactando as suas diversas paisagens e comunidades.",
+                  "pagina": 31
+                },
+                {
+                  "dimension": "tendencias",
+                  "cita": "O período de 2021 a 2023 no Rio Grande do Sul foi marcado por situações climáticas extremas significativas, evidenciando a vulnerabilidade da região tanto a eventos de seca como de inundação.",
+                  "pagina": 33
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "A rápida mudança de uma seca prolongada para inundações severas no mesmo ano ressalta a complexidade e a imprevisibilidade dos padrões climáticos na região, destacando os desafios enfrentados por autoridades e comunidades na preparação e resposta a eventos climáticos tão variados e extremos.",
+                  "pagina": 34
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "B. Cronologia do período de chuvas extraordinárias e inundações de abril a maio de 2024",
+              "nivel": 3,
+              "paginas": "34-52",
+              "resumen": "Reconstruye cronológicamente las condiciones climáticas y la precipitación extraordinaria, las condiciones hidrológicas y los niveles de los ríos, y la sucesión de alertas, decretos y estados de calamidad o emergencia. Registra acumulados superiores a 500 mm, anomalías de más de 200%, suelos previamente húmedos, desbordamientos y niveles críticos en Guaíba, Gravataí, dos Sinos, Taquari, Jacuí, Caí y Uruguay. La sección documenta las medidas legales y administrativas —incluidos decretos estatales, portarias y medidas provisorias federales— y la actuación de SINPDEC y S2ID para distribuir recursos, intercambiar información y coordinar niveles de gobierno. La parte final usa imágenes satelitales Maxar para comparar antes y después en Bom Retiro do Sul, Muçum, Porto Alegre, Canoas, Roca Sales, Santa Tereza y Arroio do Meio, mostrando inundación, erosión, deslizamientos y cambios de cobertura del suelo. El cierre vincula la experiencia con la necesidad de medidas de largo plazo para aumentar la resiliencia frente a futuras crecidas. Esta secuencia permite pasar del registro del evento a la identificación de prioridades de respuesta, prevención territorial y resiliencia de largo plazo, sin confundir la cronología con una evaluación causal completa.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "Durante o período descrito (abril a maio de 2024), o Rio Grande do Sul apresentou anomalias significativas de precipitação1 que superaram em muito as médias históricas para esta época do ano.",
+                  "pagina": 37
+                },
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Durante o período de chuvas e enchentes extraordinárias no Rio Grande do Sul, os níveis dos rios atingiram níveis alarmantes, ultrapassando limites críticos de alerta e causando transbordamentos significativos.",
+                  "pagina": 40
+                },
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "O uso do sistema S2ID facilitou a troca de informações entre os governos.",
+                  "pagina": 45
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "A resposta hidrológica enfatizou a necessidade de medidas de longo prazo para aumen - tar a resiliência às cheias na região.",
+                  "pagina": 40
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Capítulo 2. População afetada",
+          "nivel": 2,
+          "paginas": "53-77",
+          "resumen": "El capítulo cuantifica y caracteriza a las personas afectadas, relacionando el impacto directo del desastre con la localización de asentamientos, la estructura socioeconómica, los grupos específicos, la gestión de refugios y la protección social. Combina registros de Defensa Civil, Censo 2022, PNAD, CadÚnico, Mapa Único del Plano Rio Grande, entrevistas y visitas de campo, y explicita las limitaciones de desagregación. Sus entradas pasan de la geografía y demografía a la población afectada y cierran con los costos de rescate, refugios y transferencias directas.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "Introdução",
+              "nivel": 3,
+              "paginas": "53-55",
+              "resumen": "Define la población afectada primaria como las personas que sufren efectos directos —muertes, lesiones, desaparición, desplazamiento o necesidad de refugio— y fija las cifras base del capítulo: 183 fallecidos, 806 heridos, 27 desaparecidos, 77.712 rescatados, 81.170 refugiados y 581.638 desalojados. Explica que la evidencia proviene principalmente de Defensa Civil, SEDEC, SEDES-RS, MDS, Caixa y visitas a Porto Alegre, Eldorado do Sul, Canoas, Roca Sales y Muçum, complementadas por agencias de Naciones Unidas. El Mapa Único del Plano Rio Grande se presenta como instrumento de integración de datos para orientar respuestas más ágiles. La entrada también advierte que la desactivación de refugios y la falta de datos desagregados por raza, género, migración, ingreso, discapacidad y territorio limitan la lectura de impactos desiguales, y propone diálogo técnico con IBGE para futuras evaluaciones.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Segundo a metodologia DaLA, a população afetada primária se define como aquela que sofre efeitos diretos do desastre, incluindo vítimas fatais, pessoas feridas e desaparecidas, e ainda pessoas que procuraram abrigo ou foram deslocadas de suas moradias.",
+                  "pagina": 53
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "A limitação no acesso a dados desagregados sobre o perfil da população afetada, considerando os principais eixos da desigualdade social – a saber, condição étnico/racial, gênero, condição migrante, renda, situação de deficiência, território – também criou desafios para uma análise mais precisa sobre o impacto desproporcional do desastre ou como ele pode ter aprofundado desigualdades socioeconômicas e demográficas estruturais.",
+                  "pagina": 54
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Para futuras análises do impacto no bem-estar da população, caberia fomentar um diálogo técnico com o IBGE e outros atores relevantes sobre dados existentes não publicados que poderiam facilitar essa análise (por exemplo, a localização de famílias vulneráveis).",
+                  "pagina": 54
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "A. Assentamentos e demografia",
+              "nivel": 3,
+              "paginas": "55-62",
+              "resumen": "Describe la estructura territorial y demográfica del estado: 281.707,15 km², 497 municipios, 10.882.965 habitantes y 87% de población urbana en 2022, con concentración en el corredor Porto Alegre–Caxias do Sul. Identifica 345 municipios afectados, con especial incidencia en la Región Hidrográfica del Guaíba, y muestra que la exposición se concentra en núcleos urbanos próximos a ríos o zonas bajas. El diagnóstico atribuye la inundación en zonas habitadas a ocupación de áreas inundables, impermeabilización del suelo y canalización de cursos de agua. La caracterización socioeconómica incorpora pobreza, ingreso, escolaridad, raza, género, primera infancia, discapacidad y GPTEs, mostrando desigualdades previas que condicionan la capacidad de protección y recuperación.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Grande parte do território do estado foi atingida por enchentes e inundações.",
+                  "pagina": 56
+                },
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Nota-se que, por sua dinâmica, as inundações afetaram de maneira desproporcional e com maior gravidade aquelas populações localizadas em áreas inseguras, com habi - tações precárias e estrutura urbana irregular.",
+                  "pagina": 57
+                },
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Embora esses números apresentem um panorama geral da situação socioeconômica do estado, eles se inserem em um contexto mais amplo de disparidades estruturais que permeiam o Brasil.",
+                  "pagina": 60
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "B. População Afetada",
+              "nivel": 3,
+              "paginas": "62-73",
+              "resumen": "Cuantifica el impacto humano directo y geográfico: 2,4 millones de personas potencialmente afectadas, 876.565 según SINGED-LAB y 877.729 según el MUP, 183 fallecidos, 27 desaparecidos, 581.638 desalojados, 81.170 refugiados, 806 heridos y 77.712 rescatados. La concentración es especialmente alta en la Región Metropolitana de Porto Alegre y el Vale do Taquari; Eldorado do Sul y Muçum alcanzan 81,2% y 74,5% de población afectada, respectivamente. Analiza refugios, responsabilidades municipales y estatales, participación de sociedad civil y fallas de seguridad, y desagrega impactos en mujeres y niñas, niños, pueblos indígenas, quilombolas, pescadores artesanales, personas con discapacidad y población LGBTI+. También registra respuestas específicas como las Diretrizes de Proteção às Mulheres e Meninas, Casa Violeta, el flujo de acogimiento para niños no acompañados, la distribución de medicamentos para personas con VIH y los refugios Renascer.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Os números das pessoas afetadas demonstram o impacto humano devastador das enchentes e inundações: 183 vítimas fatais, 27 pessoas ainda desaparecidas e 581.638 desalojadas, ou seja, que precisaram deixar suas casas de forma permanente ou temporária.",
+                  "pagina": 63
+                },
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Em situações de choque, as desigualdades existentes se agravam, afetando desproporcionalmente as pessoas em situação de vulnerabilidade.",
+                  "pagina": 69
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "A identificação de crianças e seus responsáveis foi desafiadora, especialmente quando estavam em abrigos diferentes e as crianças muitas vezes não sabiam sua identificação completa.",
+                  "pagina": 71
+                },
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Na mesma linha, a Secretaria Nacional de Justiça, Cidadania e Direitos Humanos do Brasil (SJCDH) apoiou a criação do abrigo Casa Violeta, em Porto Alegre.",
+                  "pagina": 70
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "C. Assistência pós-emergência e estimativa de custos",
+              "nivel": 3,
+              "paginas": "73-77",
+              "resumen": "Cuantifica la respuesta inmediata en R$ 2,79 mil millones y la descompone en rescate, transferencias de Defensa Civil, ayuda humanitaria, apoyo a refugios y transferencias directas. Detalla 3.200 horas de vuelo, uso de embarcaciones, fondos Fundo a Fundo, Auxílio Reconstrução, Bolsa Família, Volta por Cima, Aluguel Social, SOS RS, FGTS y apoyo financiero a trabajadores. Explica que las donaciones internacionales y el Pix SOS Rio Grande do Sul complementaron los recursos públicos, mientras un Comité Gestor con entidades públicas y privadas definió criterios de distribución. La entrada muestra cómo los programas no contributivos existentes fueron ampliados o adaptados para responder a la emergencia y atender a familias desalojadas o desabrigadas.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "O governo estadual, por meio do Decreto 57.607, de 9 de maio de 2024, criou uma nova edição do programa Volta por Cima.",
+                  "pagina": 77
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "SETOR SOCIAL",
+      "nivel": 1,
+      "paginas": "78-117",
+      "resumen": "El sector social reúne los capítulos de educación, vivienda, salud y cultura y bienes culturales. Los capítulos cuantifican daños, pérdidas y costos adicionales mediante líneas de base, registros administrativos, visitas de campo, entrevistas y herramientas geoespaciales; a la vez, muestran cómo la inundación interrumpió servicios esenciales y profundizó necesidades de recuperación. En el tramo procesado, la educación concentra pérdidas de aprendizaje y daños a escuelas, la vivienda concentra el mayor volumen monetario, la salud expone límites de información y continuidad asistencial, y la cultura incorpora por primera vez una estimación sistemática de bienes culturales y deportivos.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "Capítulo 3. Educação",
+          "nivel": 2,
+          "paginas": "79-93",
+          "resumen": "Cuantifica los efectos sobre un sistema de 10.094 escuelas y universidades y cerca de 2,9 millones de estudiantes: 992 establecimientos fueron afectados, 433 tuvieron daños graves, 41 quedaron inoperantes y se perdieron 79,8 millones de horas de clase. Estima R$ 3,049 mil millones en daños, pérdidas y costos adicionales, con predominio del sector público, y desagrega los daños según infraestructura, mobiliario, equipamiento y material didáctico. La estimación combina Censo Escolar, Censo de Educación Superior, datos de SEDUC, SMED-POA, INEP, UNDIME y SINEPE, análisis espacial y observación de campo en zonas inundadas y valles del Taquari. El capítulo también examina el uso de 89 escuelas como refugios, que afectó a 46.402 estudiantes y añadió más de 5,8 millones de horas perdidas, y cierra con la necesidad de reanudar clases, apoyar la recuperación del aprendizaje y evitar utilizar escuelas como refugios salvo con planificación y contingencias adecuadas.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Estima-se que ao menos 992 escolas e universidades sofreram algum tipo de dano em suas infraestruturas, mobiliários, equipamentos e materiais, com 433 registrando danos mais sérios e 41 consideradas totalmente inoperantes.",
+              "pagina": 79
+            },
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "Embora não tenha sido possível acessar os dados detalhados do sistema a tempo para a elaboração deste estudo, alguns dados-chave foram cruzados com os do Simec, revelando uma correspondência significativa em relação ao nível mais grave de efeitos sobre as escolas básicas.",
+              "pagina": 83
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Recomenda-se, de todo modo, que se fomente maior sinergia no processo de coleta de informações sobre danos e perdas após desastres, idealmente por meio da coordenação e unificação dos esforços entre a SEDUC e o MEC em sistemas integrados (ver Capítulo 17: Recomendações para uma reconstrução resiliente).",
+              "pagina": 83
+            },
+            {
+              "dimension": "avances_implementacion",
+              "cita": "A retomada das aulas ocorreu de forma gradual, variando entre as redes de ensino.",
+              "pagina": 89
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Capítulo 4. Habitação",
+          "nivel": 2,
+          "paginas": "94-103",
+          "resumen": "Estima los efectos habitacionales en al menos 321 municipios: 388.732 viviendas afectadas, aproximadamente R$ 8 mil millones en daños, R$ 172,6 millones en alquileres no recibidos y R$ 809 millones en costos adicionales. Localiza la concentración principal en las cuencas de los ríos Jacuí, dos Sinos, Caí y Guaíba, así como en asentamientos ribereños del Taquari-Antas, y muestra que 23 municipios concentran 84,7% de las viviendas afectadas y 87,6% del valor de los daños. La línea de base combina información municipal, MUP, mapas oficiales de inundación, tipologías constructivas del Censo 2010, costos IBGE y validación con GRADE del Banco Mundial. Clasifica daños menores, leves, moderados y graves, estima bienes domésticos destruidos, alquileres perdidos y disposición de escombros, y orienta la priorización territorial de los recursos de reconstrucción.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "As enchentes e inundações registradas entre abril e maio de 2024 afetaram em alguma medida pelo menos 321 municípios do Rio Grande do Sul no que diz respeito às habitações.",
+              "pagina": 94
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Em termos relativos, destacam-se os impactos causados pela correnteza em assentamentos ribeirinhos da bacia Taquari-Antas, onde a força da água e dos detritos por ela arrastados chegaram a destruir completamente moradias e infraestrutura pública.",
+              "pagina": 94
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Capítulo 5. Saúde",
+          "nivel": 2,
+          "paginas": "104-109",
+          "resumen": "Calcula los efectos sanitarios en 337 de los 478 municipios afectados y estima R$ 1,530 mil millones en daños, pérdidas y costos adicionales, con foco en establecimientos públicos y filantrópicos que atienden a 75% de la población. El Hospital de Pronto Socorro de Canoas aparece como caso de daño severo, mientras la línea de base usa CNES, reportes municipales e InvestSUS para clasificar daños leves, moderados y altos en infraestructura y equipos. Las pérdidas se estiman según costos mensuales de operación y tiempos de paralización, alcanzando R$ 336 millones; los costos adicionales incluyen ampliación de camas, hospitales de campaña, vacunas y kits de medicamentos por R$ 194,65 millones. El capítulo advierte que la falta de información del sector privado y la ausencia de datos sistematizados dejan fuera parte de los daños, gastos y transporte de pacientes.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "O custo total das enchentes e inundações de abril e maio de 2024 para o setor de saúde no Rio Grande do Sul foi estimado em R$ 1,5 bilhão, em grande parte atribuído aos danos sofridos às infraestruturas e equipamentos (Quadro 36).",
+              "pagina": 104
+            },
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "Apesar de ter contatado as entidades do setor privado, a equipe que preparou este capítulo não recebeu dessas entidades as informações sobre danos, perdas e gastos adicionais até a sua finalização e, portanto, este relatório está focado apenas nos estabelecimentos públicos e filantrópicos.",
+              "pagina": 104
+            },
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "Diversos gastos não puderam ser computados, como os gastos adicionais com a limpeza dos estabelecimentos inundados e o transporte de pacientes por meios aéreos.",
+              "pagina": 109
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Capítulo 6. Cultura e bens culturais",
+          "nivel": 2,
+          "paginas": "110-117",
+          "resumen": "Incorpora cultura, deporte y patrimonio histórico, cultural, arqueológico y religioso a la evaluación y estima R$ 219,964 millones en daños, pérdidas y costos adicionales en más de 100 municipios. Construye una línea de base georreferenciada de 4.713 edificaciones y usa reportes municipales, cuestionarios, visitas de campo, fuentes digitales, Google Earth Pro y sistemas de información geográfica. El análisis detallado de 89 bienes culturales calcula R$ 114,6 millones de daños, de los cuales 63,5% corresponde a estadios y centros de entrenamiento de fútbol profesional de Porto Alegre; también registra cementerios, bibliotecas, museos, teatros, iglesias y centros culturales. Las pérdidas incluyen ingresos no percibidos, salarios pagados durante cierres y derechos autorales administrados por ECAD, mientras los costos adicionales cubren limpieza, desinfección, escombros y logística de equipos deportivos; la cobertura municipal sigue siendo desigual y parte de la información permanece agregada.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "No estado, mais de 100 municípios reportaram danos no setor cultural. O valor total dos danos, perdas e custos adicionais chega a R$ 220 milhões, sendo que 67,6% correspondentes aos danos, 21,9% às perdas e 10,5% aos custos adicionais.",
+              "pagina": 110
+            },
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "Nos 78 municípios restantes a informação corresponde aos efeitos globais, discriminados apenas entre público e privado.",
+              "pagina": 112
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "SETOR DE INFRAESTRUTURA",
+      "nivel": 1,
+      "paginas": "118-160",
+      "resumen": "Este bloque evalúa cómo las inundaciones afectaron los servicios de agua potable y saneamiento, los distintos modos de transporte y el sistema eléctrico del Rio Grande do Sul. El argumento avanza desde la interrupción de servicios y los daños físicos hacia la cuantificación de pérdidas de ingresos y costos de restablecimiento, mostrando una fuerte dependencia de infraestructura localizada en zonas bajas, corredores logísticos y márgenes fluviales. Los capítulos combinan información de operadores y organismos reguladores con estimaciones DaLA para distinguir daños, pérdidas y costos adicionales.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "Capítulo 7. Água potável e saneamento",
+          "nivel": 2,
+          "paginas": "118-134",
+          "resumen": "El capítulo establece la línea de base institucional y física del abastecimiento, el alcantarillado y el drenaje de Porto Alegre y del estado, y luego descompone los efectos por daños, pérdidas y costos adicionales. Reporta daños por R$ 440 millones, pérdidas por R$ 307 millones y un impacto financiero total de R$ 1,02 billón; más de 3.151.000 personas tuvieron afectado el servicio de agua potable, con interrupciones superiores a 20 días en algunos municipios. La explicación causal vincula la interrupción con falta de energía, inundación de EBAS y ETAs, rupturas de tuberías, obstrucciones y dificultad de acceso, mientras los casos de DMAE, CORSAN, COMUSA y el Muro da Mauá muestran respuestas operativas y arreglos tarifarios diferenciados. El cierre convierte la experiencia del desastre en un conjunto de planes de contingencia, abastecimiento alternativo, educación ambiental, monitoreo y mantenimiento. El argumento vincula la continuidad del servicio con la preparación operativa y la gestión preventiva de riesgos en redes localizadas, y muestra por qué los arreglos de contingencia deben involucrar a prestadores, autoridades y sociedad civil.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "O impacto financeiro total foi de R$ 1,02 bilhão.",
+              "pagina": 119
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Em vários dos sistemas de água potável foi necessário suspender as operações das ETAs, mesmo que não alagadas, devido aos danos nas captações ou EBABs.",
+              "pagina": 120
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Diante desse cenário, é fundamental que sejam tomadas ações necessárias para futuras emergências, visando a garantir a continuidade e a qualidade dos serviços de água potável e esgoto cloacal.",
+              "pagina": 123
+            },
+            {
+              "dimension": "avances_implementacion",
+              "cita": "Quando o nível da água do Guaíba esteve abaixo do nível da água que inundava a cidade, o DMAE abriu a comporta 3 do Muro da Mauá, após análise técnica que apontava uma redução de 40 cm de volume de água naquele ponto.",
+              "pagina": 133
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Capítulo 8. Transportes",
+          "nivel": 2,
+          "paginas": "135-147",
+          "resumen": "El capítulo muestra que la inundación afectó simultáneamente carreteras, ferrocarriles, puertos, aeropuerto y transporte urbano, con R$ 4,1 billones en efectos; los daños físicos representan 72,2%, las pérdidas de ingresos 9,1% y los costos adicionales 18,7%. La función argumental es evidenciar que una red con baja contribución directa al PIB, pero decisiva para agricultura, industria y comercio Brasil-Mercosur, transmite el desastre al conjunto de la economía. Los casos del Aeropuerto Salgado Filho, Trensurb, los puertos de Porto Alegre y Rio Grande y 11.393 km de carreteras permiten relacionar interrupciones, recuperación parcial, sedimentos, limpieza y dragado. La sección concluye con una recomendación focalizada de estudios de suelo en vías expuestas a cargas pesadas.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Todos os principais modais de transporte foram afetados pelas enchentes e inundações: 11.392 km de rodovias e estradas estavam na área de inundação; o Aeroporto Salgado Filho foi alagado e, dada a severidade dos danos, teve reabertura parcial somente na segunda quinzena de outubro de 2024; a capacidade do sistema hidroviário foi reduzida por conta de danos em portos e terminais e pelo acúmulo de sedimentos na Lagoa dos Patos, e sistemas de transporte urbanos, inclusive o trem urbano de Porto Alegre, também foram severamente afetados.",
+              "pagina": 135
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "O acúmulo de lama, sedimentos e resíduos em ativos de alto valor agregado, como o aeroporto recém-ampliado, nas hidrovias e na rede rodoviária, gerou elevados custos de limpeza e remoção de entulhos, drenagens e dragagens.",
+              "pagina": 145
+            },
+            {
+              "dimension": "avances_implementacion",
+              "cita": "As operações foram retomadas em 30 de maio, mas de forma parcial e emergencial, com serviço reduzido e somente entre as estações Novo Hamburgo e Mathias Velho.",
+              "pagina": 143
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Sugere-se, portanto, realizar estudos de solo em zonas de alta exposição a cargas pesadas, como, por exemplo, em vias exclusivas de ônibus, ou em estradas de acesso a portos.",
+              "pagina": 147
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Capítulo 9. Setor elétrico",
+          "nivel": 2,
+          "paginas": "148-159",
+          "resumen": "El capítulo cuantifica el impacto de las inundaciones sobre generación, transmisión y distribución eléctrica y lo conecta con la arquitectura del Sistema Interligado Nacional y sus organismos de regulación y operación. El pico de usuarios sin electricidad superó 560.000, mientras los efectos totales alcanzaron R$ 1.867,9 millones: R$ 1.041,7 millones en daños, R$ 328,3 millones en pérdidas y R$ 497,9 millones en costos adicionales. El diagnóstico distingue la indisponibilidad de 25 hidreléctricas por exceso de caudal, transformadores y subestaciones anegados, y postes y líneas destruidos por la velocidad del agua en zonas montañosas. La reconstrucción provisional de tres líneas y la limpieza de ocho subestaciones ilustran la respuesta de implementación.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Como consequência das chuvas e enchentes ocorridas no Rio Grande do Sul, um grande número de usuários sofreu interrupções no fornecimento de energia elétrica, com pico de mais de 560 mil usuários sem o serviço no início de maio.",
+              "pagina": 148
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "No quesito geração de eletricidade, houve impactos associados ao excesso de vazão de água, que causou indisponibilidade em pelo menos 25 hidrelétricas e levou a custos adicionais pela necessidade de mudar a geração elétrica para a térmica e de fazer compras adicionais de energia.",
+              "pagina": 148
+            },
+            {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Os custos adicionais na transmissão elétrica foram estimados em R$ 365 milhões.",
+              "pagina": 158
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "SETOR PRODUTIVO",
+      "nivel": 1,
+      "paginas": "160-215",
+      "resumen": "Este bloque desplaza el análisis hacia agricultura, pecuaria, comercio, industria y alojamiento y alimentación, distinguiendo activos productivos, flujos económicos y costos de recuperación. La evidencia muestra que el evento afectó tanto la producción primaria y los suelos como establecimientos, inventarios, movilidad, turismo y cadenas de abastecimiento. Los capítulos utilizan líneas de base sectoriales y modelos de proyección para traducir el daño físico en pérdidas económicas y para localizar concentraciones territoriales de impacto.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "Capítulo 10. Agricultura",
+          "nivel": 2,
+          "paginas": "161-174",
+          "resumen": "El capítulo calcula el efecto sobre activos agrícolas, cultivos, productores y suelos, y muestra que el sector acumuló R$ 8,579 mil millones en pérdidas, R$ 498,6 millones en daños y R$ 3,650 mil millones en costos adicionales. La escala productiva afectada comprende 64 cultivos en 452 municipios, más de 1,7 millones de hectáreas y aproximadamente 78.000 productores; soja, maíz, arroz, brócoli y otros cultivos concentran la mayor parte de las pérdidas. El argumento relaciona la erosión hídrica con pérdida de nutrientes, fertilidad y capacidad productiva, apoyándose en EMATER, SEAPI e IBGE para cruzar superficie, cultivos y vulnerabilidad territorial. El cierre propone evaluar y restaurar el suelo y estudiar efectos de mediano y largo plazo, incluidos impactos diferenciados entre grupos sociodemográficos de agricultores.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Chuvas extremas e inundações comprometeram a produção agrícola e seus fluxos econômicos, com perdas em 64 culturas de 452 municípios, totalizando de 15 a 16% da área agrícola destinada à colheita no estado.",
+              "pagina": 161
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "O solo é um dos ativos mais importantes em termos econômicos dentro do processo de produção agrícola e pode ser a barreira para aumentar a produção ou alcançar aumentos de produtividade.",
+              "pagina": 174
+            },
+            {
+              "dimension": "desafios",
+              "cita": "É importante esclarecer que, com as informações disponíveis, foram estimados os custos adicionais necessários para a recuperação da fertilidade do solo e da sua capacidade produtiva, mas as autoridades estatais mencionaram possíveis efeitos ou impactos adicionais em médio e longo prazo não identificados com as informações disponíveis.",
+              "pagina": 174
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "A estrutura do solo e sua fertilidade nas áreas afetadas pela erosão hídrica devem ser analisadas e avaliadas para determinar as alterações e correções necessárias.",
+              "pagina": 174
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Capítulo 11. Pecuária",
+          "nivel": 2,
+          "paginas": "175-188",
+          "resumen": "El capítulo muestra que la pecuaria sufrió R$ 1,2 billones en pérdidas productivas, R$ 710 millones en daños de activos y aproximadamente R$ 783 millones en costos para recuperar suelos erosionados. La pérdida se distribuye entre disminución del peso animal, pasturas y leche no recolectada, además de mortalidad, y alcanza 475 municipios; aves, bovinos, porcinos, ovinos, peces y otras especies presentan patrones territoriales distintos. La función analítica es vincular exposición climática y degradación del suelo con la cadena de alimentación animal, el costo de producción y la productividad. Se registran como respuesta la política pública estatal de recuperación de áreas degradadas y la recomendación de análisis de suelo mediante muestreo estratificado representativo.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "A produção pecuária, seus ativos, fluxos econômicos e importância social foram severamente atingidos pelas chuvas extremas, inundações, torrentes e transbordamentos de rios ocorridos em abril e maio de 2024. O impacto econômico no setor pecuário representa R$ 1,2 bilhão em perdas na produção, R$ 710 milhões em danos nos ativos e aproximadamente R$ 783 milhões em custos adicionais para recuperar solos afetados pela erosão hídrica.",
+              "pagina": 175
+            },
+            {
+              "dimension": "avances_implementacion",
+              "cita": "É importante mencionar que a recuperação de áreas degradadas faz parte de uma política pública estadual do Rio Grande do Sul para adaptação às mudanças climáticas.",
+              "pagina": 175
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Um efeito negativo na produção de pastagens pode causar descompensação na cadeia de abastecimento alimentar dos animais, que, por sua vez, tem como consequência o aumento no custo de produção e nos níveis de produtividade por ganho de peso.",
+              "pagina": 187
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "As análises de solo devem ser realizadas com base numa distribuição amostral estratificada representativa, com o objetivo de mostrar a sua verdadeira situação.",
+              "pagina": 187
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Capítulo 12. Comércio",
+          "nivel": 2,
+          "paginas": "189-196",
+          "resumen": "El capítulo estima R$ 14,8 billones en daños comerciales, R$ 9,5 billones de pérdidas durante 2024 y R$ 819 millones adicionales en 2025, además de R$ 683 millones en costos adicionales. El comercio minorista concentra la mayor exposición y 18 municipios concentran 78,4% de los daños, mientras los casos de inundación, torrente y deslizamiento explican distintas intensidades sobre infraestructura, mobiliario e inventario. La línea de base se construye con 434.014 establecimientos, datos de CNPJ, georreferenciación y costos por metro cuadrado; las pérdidas se proyectan con series de ICMS, modelos ARIMA y una recuperación Gompertz. La sección muestra una caída concentrada en abril-mayo y una recuperación gradual posterior, sin convertir esa proyección en una recomendación sectorial propia.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Os danos no estado somaram R$ 14,8 bilhões, sendo a maior parte registrada no comércio varejista, com R$ 10,5 bilhões. O setor de comércio e reparação de veículos automotores e motocicletas, que inclui a comercialização de autopeças e serviços de manutenção e reparo, totalizou R$ 3 bilhões. No comércio atacadista, os danos alcançaram R$ 1,3 bilhão.",
+              "pagina": 189
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "O segundo tipo de dano observado foi o de causa torrencial. Nesse caso, a subida do nível da água ocorre rapidamente, as águas também arrastam uma grande quantidade de material, e o dano estrutural causado é muito maior.",
+              "pagina": 192
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "A queda na atividade começou no final de abril e se aprofundou durante o mês de maio. A partir desse mês e à medida que a atividade comercial continue se recuperando, as perdas mensais irão diminuindo.",
+              "pagina": 195
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Capítulo 13. Indústria",
+          "nivel": 2,
+          "paginas": "197-207",
+          "resumen": "El capítulo estima R$ 7,3 billones en daños industriales, R$ 6,4 billones de pérdidas en 2024 y R$ 565 millones en 2025, junto con R$ 334 millones en costos adicionales. Aunque casi todo el estado fue afectado directa o indirectamente, 18 municipios concentran 75,7% de los daños; fabricación de alimentos, bebidas, maquinaria y vehículos aparece entre las divisiones más expuestas. La línea de base cubre 24 divisiones y 149.514 establecimientos activos, con datos de CNPJ, georreferenciación y valoración separada de infraestructura, máquinas, equipos e inventarios. La modelación con ICMS, ARIMA y función Gompertz interpreta una caída máxima en mayo y una recuperación gradual hasta diciembre de 2025.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Os danos registrados no estado somam R$ 7,3 bilhões.",
+              "pagina": 197
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "O tipo de ativo industrial mais afetado foram os estoques, tanto de produto final como de insumos para a produção. Os danos neste tipo de ativo representaram 16,1% do dano total e alcançaram R$ 1,2 bilhão. No total, estima-se que o dano nos estoques foi de 1,9% do total da linha de base.",
+              "pagina": 203
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "Nos 3 primeiros meses após o evento (maio, junho e julho), estima-se que as perdas do setor industrial sejam de R$ 4,1 bilhões, concentrando quase 59% do total das perdas.",
+              "pagina": 205
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Capítulo 14. Alojamento e alimentação",
+          "nivel": 2,
+          "paginas": "208-214",
+          "resumen": "El capítulo analiza alojamiento y alimentación como soportes del turismo y cuantifica R$ 1.917 millones en daños, R$ 4.754 millones en pérdidas y R$ 88 millones en costos adicionales. La exposición se concentra en alimentación, en los municipios de Canoas, Porto Alegre, Rio Grande, São Leopoldo y Eldorado do Sul, y en términos relativos en Muçum y localidades del Vale do Taquari. El mecanismo económico combina restricciones a la movilidad, cierre de carreteras y del aeropuerto, interrupciones de energía y agua y pérdida de ingresos del turista interno, interrumpiendo además la recuperación pospandemia. El cierre identifica campañas de promoción turística como respuesta a los impactos simbólicos sobre la imagen del estado y proyecta una recuperación que se extenderá por varios meses.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Dado que os setores de alimentação e alojamento são fundamentais para o turismo, este capítulo dedica-se à avaliação dessas duas atividades econômicas2. O resumo dos impactos das enchentes encontra-se no Quadro 114, sendo um total de R$ 6,8 bilhões.",
+              "pagina": 208
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Além dos impactos materiais nos ativos e nos fluxos econômicos desses setores, vale mencionar os severos impactos simbólicos na imagem do Rio Grande do Sul como destino turístico, conforme revelado em entrevistas feitas pela equipe DaLA com gestores estaduais e municipais das pastas de turismo.",
+              "pagina": 213
+            },
+            {
+              "dimension": "desafios",
+              "cita": "A recuperação total desses setores deverá se estender por diversos meses, até que haja o restabelecimento completo dos acessos ao estado.",
+              "pagina": 213
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Tais impactos simbólicos devem demandar campanhas de promoção turística por parte de entidades públicas e privadas.",
+              "pagina": 213
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "MEIO AMBIENTE",
+      "nivel": 1,
+      "paginas": "215-227",
+      "resumen": "El bloque ambiental valora daños a cobertura vegetal, pérdidas de servicios ecosistémicos y efectos sobre infraestructura de conservación en los biomas Pampa y Mata Atlântica. Su mecanismo central superpone mapas de uso del suelo y cobertura vegetal con manchas de inundación y deslizamiento, asignando costos de recuperación y valores de provisión ecosistémica. El capítulo también identifica vacíos de datos y abre una agenda de recuperación de residuos mediante centros de procesamiento, reciclaje, reutilización y posibles insumos para la industria del cemento.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "Capítulo 15. Meio Ambiente",
+          "nivel": 2,
+          "paginas": "216-227",
+          "resumen": "El capítulo presenta R$ 11,8 millones en daños ambientales y R$ 1,586 billones en pérdidas de servicios ecosistémicos, con 96% de los daños y 92% de las pérdidas asociados a inundaciones. La evaluación distingue Pampa, Mata Atlântica y transición, así como deslizamientos con remoción total de vegetación e inundaciones con afectación estimada del 20%, y usa MapBiomas, FEPAM, visitas de campo y costos de regeneración natural. El análisis se extiende a unidades de conservación como Banhado Grande, Delta do Jacuí, Parque Estadual Quarta Colônia y Reserva Biológica do Ibicuí Mirim, pero limita los activos físicos y flujos monetarios a áreas de conservación por falta de confirmación suficiente. El cierre reconoce que no se calcularon aún todos los costos adicionales y documenta centros intermedios de procesamiento de residuos, la propuesta de producir combustible derivado de residuos y la posibilidad de recuperar arena para otros usos.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "As chuvas de maio de 2024 causaram impactos significativos no meio ambiente do Rio Grande do Sul, ocasionando inundações e deslizamentos, além de correntes e fluxos de lodo, com efeitos que impactaram negativamente vegetação e solo de extensas áreas.",
+              "pagina": 216
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Deslizamentos ocorreram especialmente em encostas montanhosas, e pressupõem a remoção total da vegetação presente anteriormente ao desastre, o que foi corroborado nas visitas de campo. Nessas áreas, a mancha de água não necessariamente durou muitos dias, mas os danos foram significativos devido à passagem de grandes volumes de água.",
+              "pagina": 219
+            },
+            {
+              "dimension": "avances_implementacion",
+              "cita": "Com relação aos escombros, vale ressaltar que estes estão sendo levados para centros intermediários de processamento de resíduos, onde se realiza uma triagem para separar o que pode ser reciclado, reutilizado, e o que deverá ser encaminhado para aterros sanitários permanentes ou outras destinações.",
+              "pagina": 227
+            },
+            {
+              "dimension": "desafios",
+              "cita": "Até a data de 15 de julho, não haviam sido recebidos todos os dados necessários para os cálculos completos desses custos.",
+              "pagina": 227
+            },
+            {
+              "dimension": "oportunidades",
+              "cita": "Durante a visita presencial, em entrevistas com funcionários do município de Eldorado do Sul e da Defesa Civil, foi mencionada a oportunidade de gerar ativos como forma de recuperação.",
+              "pagina": 227
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Uma das propostas foi a de triturar resíduos para produção de Combustível Derivado de Resíduos (CDR), um insumo para a indústria de cimento.",
+              "pagina": 227
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "IMPACTO E RECOMENDAÇÕES",
+      "nivel": 1,
+      "paginas": "229-287",
+      "resumen": "El bloque pasa de cuantificar el impacto macroeconómico de las inundaciones de 2024 en el PIB, el empleo y las cuentas fiscales a formular una reconstrucción resiliente para Rio Grande do Sul. El capítulo 16 estima una reducción del crecimiento del PIB de 6% a 4,7%, una pérdida de 432.000 ocupaciones y presiones sobre la recaudación y el gasto; el capítulo 17 traduce ese diagnóstico en medidas de gestión del riesgo, infraestructura, empleo, medios de subsistencia, vivienda, transporte, agua, educación, salud, ambiente, cultura y electricidad.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "Capítulo 16. Impacto macroeconômico",
+          "nivel": 2,
+          "paginas": "229-251",
+          "resumen": "El capítulo establece el escenario contrafactual previo al desastre y calcula sus efectos sobre producción, trabajo y finanzas públicas. La secuencia distingue el PIB y sus sectores, la línea de base y la pérdida de empleo, y la estructura fiscal previa, el shock de recaudación y la compensación mediante transferencias, alivio de deuda y crédito de reconstrucción.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "Introdução",
+              "nivel": 3,
+              "paginas": "229-229",
+              "resumen": "La introducción define el impacto como la consecuencia macroeconómica de los efectos del desastre y limita la estimación a PIB, empleo y remuneración de los factores para 2024. El escenario compara el crecimiento esperado con el crecimiento posterior a las inundaciones y anticipa que los sectores de alojamiento y alimentación, agricultura, comercio e industria concentran los efectos, mientras que el empleo podría caer en 432.000 puestos, con impactos territoriales diferenciados.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Antes do desastre, esperava-se que a economia do Rio Grande do Sul crescesse 6%. Após as inundações, essa projeção passou para 4,7%. Portanto, o impacto líquido na atividade econômica será de -1,3%.",
+                  "pagina": 229
+                },
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Em relação ao emprego, estima-se que o desastre causado possa resultar em uma redução de 432 mil empregos em 2024 (-7,3% do total de pessoas ocupadas no 1º trimestre de 2024).",
+                  "pagina": 229
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "A. PIB",
+              "nivel": 3,
+              "paginas": "229-232",
+              "resumen": "La sección reconstruye la trayectoria del PIB antes de las inundaciones, mostrando la recuperación agrícola posterior a la sequía de 2022, la pérdida de dinamismo en el segundo semestre de 2023 y la expectativa de crecer 6% en 2024. Después estima que el desastre reduce el crecimiento real en 1,3 puntos porcentuales, identifica las pérdidas sectoriales y muestra que cuatro actividades concentran 93,7% de las pérdidas, mientras la construcción recibe el efecto favorable de los costos adicionales.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "O PIB do Rio Grande do Sul cresceu 1,7% em 2023, após uma queda de 2,8% no ano anterior.",
+                  "pagina": 229
+                },
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "De modo geral, as perdas estão concentradas em 4 setores com impacto significativo no PIB do Rio Grande do Sul, que respondem por 93,7% das perdas estimadas: agropecuário (30,0%), comércio (29,2%), indústria de transformação (19,8%) e alojamento e alimentação (14,6%).",
+                  "pagina": 231
+                },
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Observe-se que, se o governo federal não tivesse atuado com transferências às pessoas e alocação de recursos para os governos estadual e municipal, o impacto teria sido de 2,4% no PIB.",
+                  "pagina": 231
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "B. Emprego",
+              "nivel": 3,
+              "paginas": "232-242",
+              "resumen": "La sección construye la línea de base laboral con la PNAD-C, desagregando participación, desempleo, informalidad, remuneraciones, sectores y subespacios. El modelo proyecta tendencias, estacionalidad y elasticidad-PIB; luego combina esas bases con el CAGED y estimaciones del IPEA para calcular 432.000 puestos menos, una pérdida de R$ 1,415 mil millones en masa de rendimiento y una intensificación de desigualdades por sexo, raza, formalidad, sector y territorio. El contraste entre la línea de base y el shock permite identificar quiénes soportan el ajuste y por qué la recuperación del empleo depende tanto de la actividad sectorial como de las transferencias públicas y de las brechas de género, raza, formalidad y territorio.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Com base nas estimativas elaboradas pelo Instituto de Pesquisa Econômica Aplicada (IPEA) do Ministério do Planejamento, considerando o conjunto dos 418 municípios em estado de calamidade ou de emergência, estima-se que pelo menos 23,3 mil estabelecimentos privados (9,5% dos estabelecimentos privados nesses municípios) tenham sido diretamente atingidos e que ao menos 334,6 mil postos de trabalho foram diretamente impactados (13,7% dos postos registrados nesses municípios).",
+                  "pagina": 240
+                },
+                {
+                  "dimension": "tendencias",
+                  "cita": "A aplicação do modelo de projeção de ocupações para o estado aponta que a população ocupada apresentaria uma tendência de crescimento médio trimestral de 7.378 pessoas; uma queda da população ocupada no estado em 40 mil pessoas no 3º trimestre e um aumento de 55 mil pessoas no 4º trimestre em resposta a fatores sazonais, e que um aumento de 1% do PIB implicaria um aumento da população ocupada no estado de 11,1 mil pessoas.",
+                  "pagina": 236
+                },
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "De um modo geral, o mercado de trabalho no Rio Grande do Sul apresenta disparidades significativas de gênero, raça, setores e regiões, e as recentes inundações exacerbaram esse fenômeno.",
+                  "pagina": 240
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "C. Contas fiscais",
+              "nivel": 3,
+              "paginas": "243-251",
+              "resumen": "La sección explica el federalismo fiscal brasileño y la base estructural de las finanzas de Rio Grande do Sul: desequilibrio primario, bajo investimento, endeudamiento, precatórios y gasto previsional. Después sigue la evolución 2020–2023 y proyecta el efecto del desastre sobre el ICMS, la recaudación propia, el gasto y la deuda, mostrando la recuperación de ingresos desde julio y el papel de transferencias extraordinarias, suspensión de deuda, fondos públicos y crédito de bancos de desarrollo.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "O Estado do Rio Grande do Sul, particularmente, se caracteriza por um desequilíbrio fiscal estrutural, demonstrando grande dificuldade em obter superávits orçamentários ao longo do tempo.",
+                  "pagina": 243
+                },
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "A redução da atividade econômica devido às inundações teve impacto inicial significativo nas receitas tributárias, especialmente no Imposto sobre a Circulação de Mercadorias e Serviços (ICMS), que representa mais de 80% da arrecadação do Rio Grande do Sul.",
+                  "pagina": 247
+                },
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Os recursos já destinados pelo governo federal para o atendimento da emergência, recuperação e reconstrução somam aproximadamente R$ 5 bilhões.",
+                  "pagina": 248
+                },
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "As transferências extraordinárias do governo federal e o alívio do pagamento da dívida já anunciado significam que a situação fiscal do estado não será tão prejudicada como inicialmente previsto.",
+                  "pagina": 249
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Capítulo 17. Recomendações para uma reconstrução resiliente",
+          "nivel": 2,
+          "paginas": "252-287",
+          "resumen": "El capítulo formula recomendaciones para las zonas afectadas por las inundaciones de abril y mayo de 2024, tomando como marcos el Sendai y la política brasileña de protección y defensa civil. Organiza primero recomendaciones generales de reconstrucción de corto plazo y de bases institucionales, y luego cuatro prioridades de acción —comprender el riesgo, gobernarlo, preparar la respuesta y reducir el riesgo— antes de desplegar recomendaciones sectoriales.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "Introdução",
+              "nivel": 3,
+              "paginas": "252-254",
+              "resumen": "La introducción presenta el objeto y el fundamento normativo del capítulo: una reconstrucción resiliente en las áreas afectadas, articulada con el Marco de Sendai y la Política Nacional de Protección y Defensa Civil. Describe además la coordinación entre niveles de gobierno, la necesidad de no reconstruir vulnerabilidades, la prioridad de alertas tempranas y la diferenciación territorial entre cuencas y capacidades municipales.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Estas recomendações foram desenvolvidas tomando o Quadro de Sendai para a Redução do Risco de Desastres 2015-2030 (ONU, 2015) como referência (ver Tabela A).",
+                  "pagina": 252
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Dessa forma, destaca-se que os investimentos em sistemas de alerta precoce e de preparação para emergências devem ser uma prioridade.",
+                  "pagina": 253
+                },
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Então, o acompanhamento técnico de outros níveis de governo (federal e estadual) deve priorizar esses municípios da bacia do rio Taquari (e em geral as partes médias das bacias) que foram mais afetados e têm menor capacidade para enfrentar as consequências de um evento desta dimensão.",
+                  "pagina": 253
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Principais recomendações para uma reconstrução resiliente",
+              "nivel": 3,
+              "paginas": "254-271",
+              "resumen": "La sección traduce el diagnóstico en acciones de corto plazo y en bases institucionales de largo alcance. Incluye empleo y medios de subsistencia, delimitación y reasentamiento en zonas de riesgo, reparación y diseño de obras hidráulicas, alertas y evacuación, comunicación, órganos técnico-científicos, gobernanza de cuencas, planes directores, mantenimiento, seguridad de presas y un plan director de control de inundaciones; la unidad normativa completa queda inventariada en recomendaciones_cierre. La unidad normativa combina acciones inmediatas y bases institucionales: delimitar zonas de riesgo, acompañar reasentamientos, reparar y diseñar obras de control de inundaciones, mantener diques y sistemas de bombeo, mejorar alertas y evacuación, organizar comunicación pública y formalizar capacidades técnico-científicas. También vincula la gestión territorial con planes directores, instrumentos de cuenca, financiamiento, seguridad de presas y continuidad de servicios, de modo que la reconstrucción no repita las vulnerabilidades que el diagnóstico hizo visibles.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Desenvolver uma estratégia para gerar emprego como parte do processo de recons - trução.",
+                  "pagina": 254
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "Embora as mudanças climáticas gerem muita incerteza sobre a recorrência dos eventos, dado que o evento ocorrido é de baixa probabilidade, e muito possivelmente se passem anos antes que os sistemas sejam exigidos na mesma dimensão, é necessário desenvolver uma estratégia de manutenção e operação com fontes de financiamento e planos de manutenção bem definidos.",
+                  "pagina": 259
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "É importante passar de um modelo de previsão de ameaças, por exemplo, chuvas, para um modelo de previsão de impacto, que identifica as áreas específicas e famílias que podem ser inundadas, a fim de gerar alertas mais precisos.",
+                  "pagina": 268
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Devem-se considerar os efeitos das mudanças climáticas, o aumento da população e a dinâmica dos sedimentos no projeto de infraestruturas e no planejamento futuro do território.",
+                  "pagina": 271
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "Recomendações setoriais",
+              "nivel": 3,
+              "paginas": "272-287",
+              "resumen": "La sección despliega la agenda normativa por sector y por prioridad de gestión del riesgo. Las recomendaciones combinan datos desagregados y empleo decente, semillas y crédito agrícola, vivienda y reasentamiento, redundancia logística, agua y saneamiento, continuidad educativa y sanitaria, restauración ecológica, reciclaje de escombros, soluciones basadas en la naturaleza, energía renovable, cultura y coordinación del sector eléctrico. La agenda sectorial traduce la reconstrucción resiliente a objetos ejecutables: datos desagregados y trabajo decente; semillas, crédito, seguros y asistencia productiva; mapas de riesgo, reasentamiento y vivienda adaptada; corredores y redundancia de transporte; mapeo y fondos para agua y saneamiento; planes de contingencia y continuidad educativa y sanitaria; bases de datos ambientales, biodiversidad, reciclaje, soluciones basadas en la naturaleza y restauración de ecosistemas; y sistemas de energía renovable y coordinación eléctrica.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "O setor enfrentou durante 3 anos consecutivos eventos climáticos que afetaram severamente a sua capacidade de assumir dívidas adicionais e, portanto, a viabilidade produtiva de curto prazo de um número significativo de produtores.",
+                  "pagina": 275
+                },
+                {
+                  "dimension": "oportunidades",
+                  "cita": "A produção deste produto em nível comunitário permite a geração de trabalho, o que pode representar um fluxo econômico para os participantes.",
+                  "pagina": 275
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Desenvolver estratégias de recuperação que priorizem a restauração dos ecossistemas e a mitigação de riscos futuros, promovendo o uso de tecnologias e práticas sustentáveis com soluções baseadas na natureza (NbS), reflorestamento de áreas degradadas com vegetação nativa e recomposição das matas ciliares.",
+                  "pagina": 286
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Sistemas de energia renovável: incorporar sistemas de energia renovável e designs eficientes em termos energéticos.",
+                  "pagina": 287
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "NOTAS",
+      "nivel": 1,
+      "paginas": "289-292",
+      "resumen": "Las notas reúnen aclaraciones metodológicas, definiciones, fuentes y referencias de apoyo correspondientes a capítulos anteriores y, específicamente para este bloque, notas del capítulo 16 y del capítulo 17. No constituyen desarrollo analítico ni una sección de recomendaciones; las referencias bibliográficas que comienzan en la página 294 quedan fuera del bloque seccional.",
+      "dimensiones": [],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "El cierre no se limita a enunciar resiliencia: articula un paquete de reconstrucción y recuperación financiado, con medidas de empleo, infraestructura, gobernanza del riesgo, sectores productivos, restauración de ecosistemas, reciclaje y energía. El test de inversión coordinada se satisface por la agenda integrada y por la asignación de recursos a recuperación y reconstrucción; el test sectorial se satisface con ecosistemas, residuos y energía renovable; además aparecen las eficiencias keynesiana (empleo) y ambiental (mitigación, restauración y eficiencia energética).",
+      "citas": [
+        {
+          "cita": "Os recursos já destinados pelo governo federal para o atendimento da emergência, recuperação e reconstrução somam aproximadamente R$ 5 bilhões.",
+          "pagina": 248
+        },
+        {
+          "cita": "Desenvolver estratégias de recuperação que priorizem a restauração dos ecossistemas e a mitigação de riscos futuros, promovendo o uso de tecnologias e práticas sustentáveis com soluções baseadas na natureza (NbS), reflorestamento de áreas degradadas com vegetação nativa e recomposição das matas ciliares.",
+          "pagina": 286
+        }
+      ],
+      "nota": "El documento es principalmente una evaluación técnica de daños e impactos, pero su capítulo final sí formula un paquete coordinado de reconstrucción resiliente con alcance intersectorial."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El documento identifica mecanismos de coordinación que pertenecen al ámbito brasileño y al evento en Rio Grande do Sul: S2ID intercambia información entre gobiernos y SINPDEC encuadra la respuesta intergubernamental. No se acredita la coordinación por la autoría del informe ni por actores genéricos; se acredita por esos mecanismos institucionales nombrados.",
+      "citas": [
+        {
+          "cita": "Essas ações foram implementadas no âmbito do Sistema Nacional de Proteção e Defesa Civil (SINPDEC), que envolve os níveis federal, estadual e municipal de governo, des - tacando a importância da cooperação intergovernamental da comunicação em tempo real e a importância da coordenação para a tomada de decisões oportunas e para o alinhamento de prioridades em crises.",
+          "pagina": 45
+        },
+        {
+          "cita": "O uso do sistema S2ID facilitou a troca de informações entre os governos.",
+          "pagina": 45
+        }
+      ],
+      "nota": "S2ID y SINPDEC son mecanismos y sistemas de coordinación de la respuesta en Brasil/Rio Grande do Sul, no mecanismos extrarregionales ni de producción editorial."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "El cierre y el capítulo ambiental enumeran actividades concretas —trituración y reciclaje de residuos para insumos, restauración ecológica, soluciones basadas en la naturaleza y energía renovable— y mencionan generación de trabajo y flujo económico en producción comunitaria. Sin embargo, el vínculo con empleo, productividad o desigualdad no se desarrolla de forma sostenida con la enumeración: aparece como conexión puntual dentro de una evaluación de daños y una agenda de reconstrucción, no como un desarrollo productivo completo.",
+      "citas": [
+        {
+          "cita": "Uma das propostas foi a de triturar resíduos para produção de Combustível Derivado de Resíduos (CDR), um insumo para a indústria de cimento.",
+          "pagina": 227
+        },
+        {
+          "cita": "A produção deste produto em nível comunitário permite a geração de trabalho, o que pode representar um fluxo econômico para os participantes.",
+          "pagina": 275
+        }
+      ],
+      "nota": "El Parcial refleja que existe enumeración concreta y una conexión laboral/económica, pero no un desarrollo suficiente y sistemático del vínculo exigido por el test."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "Se evaluó únicamente la voz normativa propia de las secciones de recomendaciones del cierre, desde las recomendaciones generales hasta las sectoriales, manteniendo cada bullet matriz completo y sin contar listas de terceros, recuadros ni topónimos como ítems separados. El resultado es 184 de 196 ítems CONCRETO: la gran mayoría nombra obras, planes, sistemas, fondos, protocolos, estudios, programas, poblaciones, responsables o entregables identificables; los restantes son formulaciones abstractas de capacidad, coordinación, integración o desafío.",
+      "citas": [
+        {
+          "cita": "Implementar sistemas de classificação e reciclagem de materiais de detritos para uso na reconstrução.",
+          "pagina": 286
+        },
+        {
+          "cita": "Sistemas de energia renovável: incorporar sistemas de energia renovável e designs eficientes em termos energéticos.",
+          "pagina": 287
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "B03-P01: Desenvolver uma estratégia para gerar emprego como parte do processo de reconstrução, projetando as ações de reconstrução tendo em mente a maximização da criação de empregos, com foco particular nas populações vulneráveis mais afetadas em seus meios de subsistência.",
+          "clasificacion": "CONCRETO",
+          "pagina": 254
+        },
+        {
+          "item": "B03-P02: Definir as áreas de risco não mitigáveis; no curto prazo, pactuar metodologias e realizar estudos para definir as áreas onde a população não poderá voltar a viver, desenvolvendo regulação apropriada e ações para evitar novas construções de moradias nessas áreas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 254
+        },
+        {
+          "item": "B03-P03: A realocação de famílias deve ser a última opção, quando não há alternativas para reduzir o risco, e a efetivação do reassentamento dos ocupantes em local seguro deverá seguir o Art. 3º-B da Lei nº 12.608, de 2012.",
+          "clasificacion": "CONCRETO",
+          "pagina": 255
+        },
+        {
+          "item": "B03-P04: Devem existir estratégias para o acompanhamento das famílias que passarão por uma realocação definitiva; recomenda-se que sejam personalizadas e não massificadas e baseadas nas próprias propostas das famílias.",
+          "clasificacion": "GENERICO",
+          "pagina": 255
+        },
+        {
+          "item": "B03-P05: A reconstrução das obras de controle de inundações existentes é uma prioridade, integrando medidas para melhorar a sua resiliência às inundações e considerando uma perspectiva de bacia hidrográfica com estudos aprofundados envolvendo os diferentes municípios.",
+          "clasificacion": "CONCRETO",
+          "pagina": 255
+        },
+        {
+          "item": "B03-P06: Priorizar medidas temporárias antes do início da estação chuvosa de 2024, fazendo reparos nos diques, definindo um nível de crista, inspecionando comportas, garantindo capacidade de bombeamento temporária, melhorando o sistema de alerta e fazendo campanha de conscientização.",
+          "clasificacion": "CONCRETO",
+          "pagina": 255
+        },
+        {
+          "item": "B03-P07: Projeto e construção de novas obras de controle de inundações para proteger a população localizada em áreas de risco mitigável, realizando modelagem de curto prazo para identificar pontos de fragilidade e complementar os reparos existentes.",
+          "clasificacion": "CONCRETO",
+          "pagina": 255
+        },
+        {
+          "item": "B03-P08: Melhorar os sistemas de alerta precoce e gestão de emergência, com modelos integrados de previsão baseados em impacto, planos de continuidade de operações para serviços críticos e comitês comunitários institucionalizados para gestão de emergência, evacuação e operação dos sistemas de alerta precoce.",
+          "clasificacion": "CONCRETO",
+          "pagina": 256
+        },
+        {
+          "item": "B03-P09: Estratégia de comunicação para a reconstrução a desastres: deve existir uma estratégia de comunicação para a população que traduza a análise científica e as decisões de reconstrução em mensagens comunicadas de forma eficaz, incluindo espaços para participação ativa da sociedade civil.",
+          "clasificacion": "CONCRETO",
+          "pagina": 256
+        },
+        {
+          "item": "B03-P10: Formalizar um órgão técnico-científico para identificação de riscos de desastres e avançar na criação de um marco institucional para a gestão de riscos, com informações de risco como base para decisões e políticas públicas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 257
+        },
+        {
+          "item": "B03-P11: Criação e fortalecimento de instituições por bacia hidrográfica, de forma a contribuir com a gestão de riscos de desastres, articulando o Consórcio dos Municípios da Região Metropolitana de Porto Alegre e aperfeiçoando a Sala de Situação, a rede de monitoramento e o sistema de alerta precoce.",
+          "clasificacion": "CONCRETO",
+          "pagina": 257
+        },
+        {
+          "item": "B03-P12: Integração da gestão de riscos nas decisões de investimento, considerando criticidade da infraestrutura, risco de desastres e redundância em projetos de engenharia, planejamento urbano, resposta a emergências e cultura da população.",
+          "clasificacion": "GENERICO",
+          "pagina": 258
+        },
+        {
+          "item": "B03-P13: Atualização dos planos diretores municipais com aplicação da lente climática, incluindo modelagens climáticas, impactos para atualização do código de construção, leis de uso do solo e diretrizes para adaptação de habitações subnormais.",
+          "clasificacion": "CONCRETO",
+          "pagina": 258
+        },
+        {
+          "item": "B03-P14: Ter estratégias para criar condições para a manutenção dos sistemas de proteção contra enchentes em médio e longo prazo, com fontes de financiamento, planos de manutenção e mecanismos de controle.",
+          "clasificacion": "CONCRETO",
+          "pagina": 259
+        },
+        {
+          "item": "B03-P15: Fortalecimento institucional e capacitação para coleta de dados e avaliação de desastres, treinando organizações públicas, definindo regras e parâmetros claros e envolvendo todos os setores no processo.",
+          "clasificacion": "CONCRETO",
+          "pagina": 260
+        },
+        {
+          "item": "B03-P16: É necessário empreender um esforço para determinar as áreas de risco e facilitar o livre acesso a essa informação de todos os envolvidos.",
+          "clasificacion": "CONCRETO",
+          "pagina": 260
+        },
+        {
+          "item": "B03-P17: É recomendável estabelecer um protocolo para a coleta de dados estatísticos que quantifique e caracterize a população abrigada e suas necessidades, com desagregação por idade, sexo e outras características e harmonização com as bases de dados existentes de proteção social.",
+          "clasificacion": "CONCRETO",
+          "pagina": 261
+        },
+        {
+          "item": "B03-P18: É aconselhável fortalecer os sistemas de registro de suprimentos e custos alocados para atendimento de emergência, com detalhamentos por item e valores estimados para doações, incorporando a coordenação com os diversos atores governamentais e não governamentais.",
+          "clasificacion": "CONCRETO",
+          "pagina": 261
+        },
+        {
+          "item": "B03-001: É necessário fortalecer o papel da Secretaria Estadual de Defesa Civil como coordenadora do Sistema de Defesa e Proteção do Estado Civil do Estado para todos os processos de Gestão de Riscos, incluindo ações de prevenção, mitigação, preparação, resposta e recuperação.",
+          "clasificacion": "CONCRETO",
+          "pagina": 262
+        },
+        {
+          "item": "B03-002: Definição e implementação de um Plano Estadual de Gestão de Risco de Desastres (inundações, deslizamentos e secas) com um quadro institucional, em coerência e coordenado com o Plano Nacional.",
+          "clasificacion": "CONCRETO",
+          "pagina": 263
+        },
+        {
+          "item": "B03-003: Atualização e melhoria dos Planos de Gestão de Risco e Contingência Municipais, coordenados com o plano estadual, com diagnósticos de riscos específicos para cada município.",
+          "clasificacion": "CONCRETO",
+          "pagina": 263
+        },
+        {
+          "item": "B03-004: Desenvolvimento de um órgão técnico-científico para identificação de riscos de desastres, com especialistas pesquisadores, como parte da política estadual, com participação institucional na tomada de decisões, funcionando de forma contínua e com recursos suficientes para seu funcionamento adequado.",
+          "clasificacion": "CONCRETO",
+          "pagina": 263
+        },
+        {
+          "item": "B03-005: Reforçar e fortalecer a Secretaria de Desenvolvimento Urbano e Metropolitano (SEDUR) por meio da absorção do METROPLAN para coordenar o desenvolvimento entre municípios e o Consórcio de Municípios da Região Metropolitana de Porto Alegre.",
+          "clasificacion": "CONCRETO",
+          "pagina": 263
+        },
+        {
+          "item": "B03-006: Um sistema de planejamento e proteção que leve em consideração as infraestruturas críticas (saúde, educação, aeroporto, mercado, energia, água potável etc.) e a adaptação de prédios e habitações para reduzir sua vulnerabilidade.",
+          "clasificacion": "CONCRETO",
+          "pagina": 263
+        },
+        {
+          "item": "B03-007: Deve-se assegurar a coordenação entre as diferentes autoridades em todos os níveis de governança (federal, estadual, intermunicipal e municipal), garantindo a coerência dos planos e ações planejadas para a GRD, além de promover uma comunicação adequada e protocolos de cooperação entre as instituições envolvidas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 263
+        },
+        {
+          "item": "B03-008: Aumentar a cobertura de seguros em infraestruturas públicas e privadas, bem como em atividades produtivas para minimizar as perdas esperadas diante da ocorrência de um desastre.",
+          "clasificacion": "CONCRETO",
+          "pagina": 263
+        },
+        {
+          "item": "B03-009: Supervisionar, decidir e controlar o sistema de proteção contra inundações (operador regional) para a bacia do Guaíba e com competência sobre as decisões municipais relacionadas à sua gestão.",
+          "clasificacion": "CONCRETO",
+          "pagina": 264
+        },
+        {
+          "item": "B03-010: Delimitação das faixas de proteção dos cursos d’água e ordenamento do território ao redor dos cursos d’água, com sensibilização e formação das comunidades em risco de inundação.",
+          "clasificacion": "CONCRETO",
+          "pagina": 264
+        },
+        {
+          "item": "B03-011: Definir as metodologias técnicas para a delimitação das zonas de risco de inundações e deslizamento de terras, bem como os usos do solo compatíveis em cada caso.",
+          "clasificacion": "CONCRETO",
+          "pagina": 264
+        },
+        {
+          "item": "B03-012: Gestão da manutenção e vigilância de todas as obras de proteção, coordenando e controlando o trabalho dos municípios.",
+          "clasificacion": "GENERICO",
+          "pagina": 264
+        },
+        {
+          "item": "B03-013: Melhorar a gestão florestal da bacia, promovendo programas de promoção do reflorestamento das bacias altas e recuperando a vegetação existente nelas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 264
+        },
+        {
+          "item": "B03-014: Reforçar a proteção dos serviços ecossistêmicos de provisão, regulação, culturais e de suporte da bacia e organizar programas de Pagamento por Serviços Ambientais (PSA).",
+          "clasificacion": "CONCRETO",
+          "pagina": 264
+        },
+        {
+          "item": "B03-015: Coordenar a liberação de água entre diferentes barragens que possam ser desenvolvidas a montante dessas áreas urbanas, se for o caso.",
+          "clasificacion": "CONCRETO",
+          "pagina": 264
+        },
+        {
+          "item": "B03-016: Reforçar a rede telemétrica fluviométrica e gerar informações que permitam um melhor entendimento dos processos de sedimentação na zona baixa da bacia, possibilitando a proposição de soluções em longo prazo.",
+          "clasificacion": "CONCRETO",
+          "pagina": 264
+        },
+        {
+          "item": "B03-017: Consolidar a base de dados existente de ameaça, vulnerabilidade e risco, de modo que todas as entidades possam ter acesso às mesmas informações de todos os estudos e registros realizados.",
+          "clasificacion": "CONCRETO",
+          "pagina": 264
+        },
+        {
+          "item": "B03-018: Promover a melhoria da comunicação e dos protocolos de cooperação entre as instituições envolvidas e beneficiárias ou afetadas, incluindo MIDR, ANA, SEMA e Comitês de Bacia Hidrográfica.",
+          "clasificacion": "CONCRETO",
+          "pagina": 264
+        },
+        {
+          "item": "B03-019: Reforçar os instrumentos de financiamento, especialmente a cobrança, que pode subsidiar medidas de adaptação, como reflorestamento e conservação de matas ciliares em bacias hidrográficas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 264
+        },
+        {
+          "item": "B03-020: Este plano de manutenção deve ser suficientemente detalhado, descrevendo as ações de vigilância, revisão, periodicidade, protocolos de inspeção e manutenção preventiva que devem ser realizadas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 265
+        },
+        {
+          "item": "B03-021: Deve definir claramente as responsabilidades de cada um dos municípios e entidades responsáveis, envolvendo, na medida do possível, as comunidades nessas ações.",
+          "clasificacion": "CONCRETO",
+          "pagina": 265
+        },
+        {
+          "item": "B03-022: Vigiar para que não ocorram danos nos diques de proteção devido ao desenvolvimento de habitações ou cultivos, e fortalecer o controle e a vigilância para atividades ou assentamentos antrópicos não autorizados.",
+          "clasificacion": "CONCRETO",
+          "pagina": 265
+        },
+        {
+          "item": "B03-023: Definir as ações específicas de manutenção periódica para cada tipo de obra de proteção contra inundações: diques, comportas, muro de concreto e sistemas de bombeamento.",
+          "clasificacion": "CONCRETO",
+          "pagina": 265
+        },
+        {
+          "item": "B03-024: No caso dos sistemas de drenagem urbanos, devem ser estabelecidos programas de manutenção e gestão contínua para garantir sua eficiência em longo prazo e capacidade de adaptação à ocorrência de eventos extremos em função das mudanças climáticas, bem como garantir a sustentabilidade ambiental em longo prazo.",
+          "clasificacion": "CONCRETO",
+          "pagina": 265
+        },
+        {
+          "item": "B03-025: Por último, deve-se assegurar que haja capacidade financeira suficiente para as ações de manutenção e reparos necessários após o desastre, com participação dos municípios localizados na bacia e das autoridades regionais.",
+          "clasificacion": "GENERICO",
+          "pagina": 265
+        },
+        {
+          "item": "B03-026: Incluir as especificações técnicas nos projetos: definição de materiais e processo construtivo para cada tipo de obra, além de intervenções adicionais voltadas à contenção de impactos climáticos.",
+          "clasificacion": "CONCRETO",
+          "pagina": 266
+        },
+        {
+          "item": "B03-027: Reconstruir o sistema de proteção atual, de acordo com as especificações técnicas correspondentes para a reparação adequada daqueles pontos de falha ocasionados no recente evento de 2024.",
+          "clasificacion": "CONCRETO",
+          "pagina": 266
+        },
+        {
+          "item": "B03-028: Também é importante garantir a conformidade com essas especificações durante toda a fase de construção, tanto em termos da qualidade dos materiais como da mão de obra, para garantir a durabilidade da infraestrutura e seu nível de vulnerabilidade a inundações.",
+          "clasificacion": "CONCRETO",
+          "pagina": 267
+        },
+        {
+          "item": "B03-029: Rever o estado e o nível de coroamento atual de todos os diques, garantindo uma cota constante de proteção.",
+          "clasificacion": "CONCRETO",
+          "pagina": 267
+        },
+        {
+          "item": "B03-030: Localizar os possíveis pontos de transbordamento dos diques para implementar obras de proteção contra erosão e diminuir sua probabilidade de falha.",
+          "clasificacion": "CONCRETO",
+          "pagina": 267
+        },
+        {
+          "item": "B03-031: Melhorar o sistema de fechamento das comportas para o sistema de proteção, garantindo sua estanqueidade e acionamento efetivo em caso de emergência.",
+          "clasificacion": "CONCRETO",
+          "pagina": 267
+        },
+        {
+          "item": "B03-032: Aprimorar o sistema de fornecimento elétrico para as comportas e para as casas de bombas, assegurando redundância para um suprimento elétrico adequado e o acionamento dos equipamentos.",
+          "clasificacion": "CONCRETO",
+          "pagina": 267
+        },
+        {
+          "item": "B03-033: Uma vez concluída a fase de concepção do projeto, é importante garantir sua implementação no curto prazo, tanto para a mitigação oportuna do risco de inundação como para evitar o possível detrimento orçamentário de estudos e concepções que não chegam à fase de construção.",
+          "clasificacion": "GENERICO",
+          "pagina": 267
+        },
+        {
+          "item": "B03-034: Deve-se garantir a coordenação entre as instituições responsáveis e o funcionamento do sistema de alerta em cadeia, bem como a alocação de linhas orçamentárias e a designação de responsabilidades de cada instituição envolvida.",
+          "clasificacion": "CONCRETO",
+          "pagina": 268
+        },
+        {
+          "item": "B03-035: Fortalecimento do sistema de proteção civil, com financiamento permanente, incluindo aspectos legais e administrativos, além de fortalecer o contato entre organizações comunitárias e a sala de situação do estado.",
+          "clasificacion": "CONCRETO",
+          "pagina": 268
+        },
+        {
+          "item": "B03-036: Reforço, modernização e redundância do sistema de coleta e acompanhamento de dados durante uma emergência, assim como sua manutenção, incluindo socialização e formação das organizações e do pessoal local.",
+          "clasificacion": "CONCRETO",
+          "pagina": 268
+        },
+        {
+          "item": "B03-037: O sistema de pronto alerta será alimentado pelas recomendações e pelo trabalho contínuo com o órgão técnico-científico para identificação de riscos de desastres.",
+          "clasificacion": "CONCRETO",
+          "pagina": 268
+        },
+        {
+          "item": "B03-038: Melhorar o sistema de comunicação e operação das barragens localizadas a montante.",
+          "clasificacion": "CONCRETO",
+          "pagina": 268
+        },
+        {
+          "item": "B03-039: Implementar um sistema de redundância nas comunicações durante emergências.",
+          "clasificacion": "CONCRETO",
+          "pagina": 268
+        },
+        {
+          "item": "B03-040: Modernização dos sistemas de previsão com informações em tempo real sobre fenômenos extremos e seus impactos em escala detalhada e com um horizonte mais amplo, incluindo mais pessoal permanente com conhecimento da hidrologia da bacia.",
+          "clasificacion": "CONCRETO",
+          "pagina": 268
+        },
+        {
+          "item": "B03-041: É importante passar de um modelo de previsão de ameaças, por exemplo, chuvas, para um modelo de previsão de impacto, que identifica as áreas específicas e famílias que podem ser inundadas, a fim de gerar alertas mais precisos.",
+          "clasificacion": "CONCRETO",
+          "pagina": 268
+        },
+        {
+          "item": "B03-042: Definir os objetivos e metas do plano de reassentamento.",
+          "clasificacion": "CONCRETO",
+          "pagina": 268
+        },
+        {
+          "item": "B03-043: Estabelecer critérios claros para a seleção das famílias a serem reassentadas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 268
+        },
+        {
+          "item": "B03-044: Estabelecer sinalização de níveis de risco nas pontes, pedestres e veiculares, determinando seu fechamento quando os níveis estiverem altos.",
+          "clasificacion": "CONCRETO",
+          "pagina": 268
+        },
+        {
+          "item": "B03-045: Implementar workshops de informação, conhecimento e conscientização para a população, incluindo explicação dos sistemas de resposta, planos de evacuação, localização de pontos seguros e simulações.",
+          "clasificacion": "CONCRETO",
+          "pagina": 268
+        },
+        {
+          "item": "B03-046: Criar uma cultura de autoproteção enfrentando o risco de desastres entre a população, incluindo treinamento e simulações nas escolas e trabalho com as comunidades.",
+          "clasificacion": "CONCRETO",
+          "pagina": 269
+        },
+        {
+          "item": "B03-047: Melhoria dos mecanismos de comunicação nas comunidades em emergências e estímulo ao engajamento de partes interessadas, comunidades locais e demais partes afetadas no desenvolvimento, implementação e monitoramento da evacuação.",
+          "clasificacion": "CONCRETO",
+          "pagina": 269
+        },
+        {
+          "item": "B03-048: Fortalecimento da resposta comunitária com o desenvolvimento e promoção de workshops educacionais para a população e conscientização sobre a importância do funcionamento adequado das obras de proteção, envolvendo a população no sistema de vigilância e manutenção das obras.",
+          "clasificacion": "CONCRETO",
+          "pagina": 269
+        },
+        {
+          "item": "B03-049: Criação ou melhoria das Coordenações Municipais de Proteção e Defesa Civil (COMPDEC) e de Núcleos Comunitários de Defensa Civil (Nupdec), garantindo uma melhor resposta na evacuação e proteção da população.",
+          "clasificacion": "CONCRETO",
+          "pagina": 269
+        },
+        {
+          "item": "B03-050: Desenvolvimento de planos comunitários de gestão de risco de desastres ou Planos Municipais de Emergência, com definição precisa de pontos seguros para evacuação e coordenação com a Defesa Civil e as unidades de emergência correspondentes.",
+          "clasificacion": "CONCRETO",
+          "pagina": 269
+        },
+        {
+          "item": "B03-051: Divulgação dos planos comunitários de gestão de risco de desastres e Planos Municipais de Emergência, testados por meio de exercícios e simulações.",
+          "clasificacion": "CONCRETO",
+          "pagina": 269
+        },
+        {
+          "item": "B03-052: Pré-identificação de abrigos de emergência como parte dos Planos de Contingência em nível municipal, identificando edifícios e infraestruturas adequadas em zonas seguras.",
+          "clasificacion": "CONCRETO",
+          "pagina": 269
+        },
+        {
+          "item": "B03-053: Incorporação na gestão de abrigos coletivos de protocolos padrão e diretrizes internacionais em linha com o Comitê Permanente entre Organismos (IASC), considerando as diversas necessidades da população abrigada.",
+          "clasificacion": "CONCRETO",
+          "pagina": 269
+        },
+        {
+          "item": "B03-054: Adequação dos abrigos às necessidades de mulheres e meninas, grupos indígenas, comunidades negras e quilombolas, refugiados e migrantes, e população LGBTQ+.",
+          "clasificacion": "CONCRETO",
+          "pagina": 270
+        },
+        {
+          "item": "B03-055: Revisar e estimular boas práticas e ferramentas empregadas, como o Censo dos Abrigos conduzido pela SEDES, e aprimorar sua capacidade de adaptação para próximos eventos.",
+          "clasificacion": "CONCRETO",
+          "pagina": 270
+        },
+        {
+          "item": "B03-056: Desenvolver Planos de Ação Durante Emergências (PADE) para cada barragem cuja ruptura ou mau funcionamento possa causar danos materiais ou ambientais significativos ou afetar residências.",
+          "clasificacion": "CONCRETO",
+          "pagina": 270
+        },
+        {
+          "item": "B03-057: Reforço dos Planos de Operação para Contingências já existentes, definindo o protocolo de ação quando ocorrer uma situação de contingência.",
+          "clasificacion": "CONCRETO",
+          "pagina": 270
+        },
+        {
+          "item": "B03-058: Reforçar os Planos de Controle e Manutenção nas barragens, abrangendo gestão da sedimentação, frequência e profundidade das inspeções, sistema de auscultação e estudos de qualidade da água.",
+          "clasificacion": "CONCRETO",
+          "pagina": 271
+        },
+        {
+          "item": "B03-059: Em relação a todos os pontos mencionados anteriormente, recomenda-se realizar revisões de segurança das barragens, incluindo metodologias de análise de risco.",
+          "clasificacion": "CONCRETO",
+          "pagina": 271
+        },
+        {
+          "item": "B03-060: Levantamento do modelo digital do terreno detalhado, de alta resolução, de toda a bacia hidrográfica, incluindo os cursos d’água e as obras de proteção existentes, e realização da batimetria dos lagos que integram o sistema hídrico.",
+          "clasificacion": "CONCRETO",
+          "pagina": 271
+        },
+        {
+          "item": "B03-061: O projeto do sistema de proteção deve considerar o que acontece quando sua capacidade ou nível de serviço são ultrapassados, considerando todo o seu intervalo de operação e possíveis falhas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 271
+        },
+        {
+          "item": "B03-062: Devem-se considerar os efeitos das mudanças climáticas, o aumento da população e a dinâmica dos sedimentos no projeto de infraestruturas e no planejamento futuro do território.",
+          "clasificacion": "GENERICO",
+          "pagina": 271
+        },
+        {
+          "item": "B03-063: Todas as obras projetadas que necessitam de fornecimento elétrico devem possuir sistemas de redundância para garantir seu funcionamento adequado.",
+          "clasificacion": "CONCRETO",
+          "pagina": 271
+        },
+        {
+          "item": "B03-064: Uma das alternativas a considerar para reduzir o risco de inundação é a implementação de zonas inundáveis para a laminação dos fluxos durante cheias.",
+          "clasificacion": "CONCRETO",
+          "pagina": 271
+        },
+        {
+          "item": "B03-065: Avaliar a necessidade de dragagem dos lagos e comparar com outras alternativas, por meio de análise custo-benefício baseada em estudos hidráulicos e sedimentológicos da bacia.",
+          "clasificacion": "CONCRETO",
+          "pagina": 271
+        },
+        {
+          "item": "B03-066: Reforçar a proteção dos serviços ecossistêmicos da bacia.",
+          "clasificacion": "GENERICO",
+          "pagina": 271
+        },
+        {
+          "item": "B03-067: Coleta e análise de dados: realizar pesquisas abrangentes e coletas de dados para avaliar o impacto no emprego e no trabalho, especialmente no setor informal, colaborando com instituições acadêmicas e de pesquisa.",
+          "clasificacion": "CONCRETO",
+          "pagina": 272
+        },
+        {
+          "item": "B03-068: Foco em grupos vulneráveis e desagregação de dados para respostas inclusivas e eficazes em situações de desastre, com atenção a mulheres, pessoas LGBTIQ+, pessoas com deficiência, grupos indígenas, comunidades negras e quilombolas, população assentada, refugiados e migrantes.",
+          "clasificacion": "CONCRETO",
+          "pagina": 272
+        },
+        {
+          "item": "B03-069: Compartilhamento de conhecimento: organizar workshops e seminários para disseminar estudos e envolver stakeholders, incluindo autoridades governamentais, representações de empregadores e trabalhadores e líderes comunitários.",
+          "clasificacion": "CONCRETO",
+          "pagina": 272
+        },
+        {
+          "item": "B03-070: Apoiar a revisão dos currículos de formação profissional para equipar a força de trabalho com as habilidades necessárias para participar de esforços de recuperação, resiliência ao risco de desastres e futuras atividades econômicas, particularmente na área da transição justa.",
+          "clasificacion": "CONCRETO",
+          "pagina": 272
+        },
+        {
+          "item": "B03-071: Promover mecanismos de diálogo social e mesas para um processo de reconstrução inclusivo, focando na promoção do trabalho decente em diferentes cadeias de valor durante a recuperação, com ativa participação das comunidades indígenas, quilombolas e demais comunidades tradicionais do Rio Grande do Sul.",
+          "clasificacion": "CONCRETO",
+          "pagina": 273
+        },
+        {
+          "item": "B03-072: Reforçar a capacidade do Ministério do Trabalho e Emprego e da Secretaria Estadual de Trabalho e Desenvolvimento Profissional para promover e apoiar programas imediatos de apoio ao emprego incorporados a programas públicos de emprego de longo prazo.",
+          "clasificacion": "CONCRETO",
+          "pagina": 273
+        },
+        {
+          "item": "B03-073: Iniciativas de promoção de emprego de emergência: implementar programas de geração de emprego de curto prazo que ofereçam empregos temporários em esforços de recuperação, como reparos de infraestrutura, serviços comunitários e recuperação de solos em áreas agrícolas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 273
+        },
+        {
+          "item": "B03-074: Promoção de iniciativas em prol da manutenção de empregos, apoiando empresas por meio de subsídios salariais e assistência financeira para cobrir custos operacionais e garantir a renda durante o período de recuperação.",
+          "clasificacion": "CONCRETO",
+          "pagina": 273
+        },
+        {
+          "item": "B03-075: Apoiar a expansão, adaptação e integração de programas específicos ou complementares de apoio à renda da estrutura do Bolsa Família para aqueles não cobertos pelo Programa de Proteção ao Emprego.",
+          "clasificacion": "CONCRETO",
+          "pagina": 273
+        },
+        {
+          "item": "B03-076: Promoção de princípios de trabalho decente em crises para garantir que os esforços de recuperação adiram aos padrões de trabalho decente, proporcionando salários justos, condições de trabalho saudáveis e seguras e respeito aos direitos trabalhistas.",
+          "clasificacion": "GENERICO",
+          "pagina": 273
+        },
+        {
+          "item": "B03-077: Acesso ao crédito e ao refinanciamento, buscando mecanismos de alívio financeiro para industriais e comerciantes, incluindo assistência com períodos de carência ou instrumentos com taxas de juros reduzidas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 274
+        },
+        {
+          "item": "B03-078: No caso de a enchente ter provocado alterações na causa das tubagens, dos cursos de água ou na dinâmica hídrica dos territórios, o planejamento territorial deve ser desenvolvido em torno das referidas alterações fluviais, com especial atenção às unidades produtivas, infraestrutura e empresas agroindustriais.",
+          "clasificacion": "CONCRETO",
+          "pagina": 274
+        },
+        {
+          "item": "B03-079: Realizar processos de avaliação de necessidades para identificar as famílias mais vulneráveis afetadas pelas inundações e fazer ações com uma abordagem diferenciada, garantindo um retorno mínimo da produção de alimentos.",
+          "clasificacion": "CONCRETO",
+          "pagina": 274
+        },
+        {
+          "item": "B03-080: Promover ações de formação sobre gestão de riscos e adaptação às alterações climáticas junto à população rural, comunidades indígenas, quilombolas e tradicionais.",
+          "clasificacion": "CONCRETO",
+          "pagina": 274
+        },
+        {
+          "item": "B03-081: Estabelecer brigadas de documentação tanto para a identificação de pessoas como para a propriedade e gestão de terras, pois os certificados de cadastro e posse são fundamentais para a gestão de emergências.",
+          "clasificacion": "CONCRETO",
+          "pagina": 274
+        },
+        {
+          "item": "B03-082: Demarcação legal e proteção das terras indígenas como estratégia para redução do risco de desastres, garantindo direitos territoriais, conhecimentos tradicionais e conservação dos ecossistemas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 274
+        },
+        {
+          "item": "B03-083: Implementar bancos comunitários de sementes e interconectá-los com os territórios em escala estadual, bem como capacitar para a produção de bioinsumos agrícolas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 275
+        },
+        {
+          "item": "B03-084: Implementar bancos comunitários de ferramentas, equipamentos e máquinas para uso em sistemas produtivos e para atender individualmente às famílias em casos de inundações.",
+          "clasificacion": "CONCRETO",
+          "pagina": 275
+        },
+        {
+          "item": "B03-085: Recuperar espécies e sementes próprias da região que possam ser resistentes aos choques climáticos mais recorrentes, mediante processo censitário e participativo com as comunidades locais.",
+          "clasificacion": "CONCRETO",
+          "pagina": 275
+        },
+        {
+          "item": "B03-086: Estabelecer bancos de forragem em áreas não inundadas para conservação comunitária de material vegetal, replicação comunitária e utilização do produto em atividades pecuárias.",
+          "clasificacion": "CONCRETO",
+          "pagina": 275
+        },
+        {
+          "item": "B03-087: Fortalecer os sistemas agrícolas com o fornecimento de insumos como fertilizantes, sementes e outros que ajudem a estabelecer culturas na área afetada em nível comunitário e familiar.",
+          "clasificacion": "CONCRETO",
+          "pagina": 275
+        },
+        {
+          "item": "B03-088: Promover assistência técnica pecuária e brigadas de saúde animal para a recuperação dos rebanhos, tanto de suas condições corporais como nas taxas de produção e reprodução.",
+          "clasificacion": "CONCRETO",
+          "pagina": 275
+        },
+        {
+          "item": "B03-089: Desenvolver um plano de produção alimentar nas condições existentes em sistemas de palafitas e produção aquícola em sistemas controlados sempre que existam famílias que permaneçam na zona de inundação.",
+          "clasificacion": "CONCRETO",
+          "pagina": 275
+        },
+        {
+          "item": "B03-090: Promover a adoção de práticas que permitam maior resiliência e sustentabilidade dos sistemas de produção, como as incluídas no plano de agricultura de baixo carbono do estado (ABC+).",
+          "clasificacion": "CONCRETO",
+          "pagina": 275
+        },
+        {
+          "item": "B03-091: Criar ou fortalecer linhas de crédito especiais para produtores agrícolas que incluam taxas de juros flexíveis ou preferenciais.",
+          "clasificacion": "CONCRETO",
+          "pagina": 276
+        },
+        {
+          "item": "B03-092: Promover o seguro da produção agrícola, dos terrenos e dos bens da atividade.",
+          "clasificacion": "CONCRETO",
+          "pagina": 276
+        },
+        {
+          "item": "B03-093: Elaboração e atualização dos mapas de risco de inundação e deslizamento em todas as cidades afetadas, identificando os bens expostos e o nível de vulnerabilidade.",
+          "clasificacion": "CONCRETO",
+          "pagina": 276
+        },
+        {
+          "item": "B03-094: Os mapas elaborados devem ser acessíveis ao público e devem ser observados nos processos de planejamento urbano e gestão do uso do solo, de forma a se evitar construções em áreas de alto risco.",
+          "clasificacion": "CONCRETO",
+          "pagina": 276
+        },
+        {
+          "item": "B03-095: Identificar e mapear áreas seguras e adequadas para o reassentamento de populações desalojadas, levando em consideração acesso a serviços básicos, segurança contra novos desastres e sustentabilidade ambiental.",
+          "clasificacion": "CONCRETO",
+          "pagina": 276
+        },
+        {
+          "item": "B03-096: Desenvolver índices de riscos climáticos com foco nas habitações do estado, determinando os principais hotspots sob risco de ameaças climáticas e desenvolvendo indicadores integrados para habitação.",
+          "clasificacion": "CONCRETO",
+          "pagina": 276
+        },
+        {
+          "item": "B03-097: Capacitar os governos e atores locais, pois a recuperação de moradias pós-desastre geralmente é mais bem-sucedida quando liderada localmente.",
+          "clasificacion": "GENERICO",
+          "pagina": 276
+        },
+        {
+          "item": "B03-098: O marco normativo de planejamento e gestão do solo, incluindo planos de ordenamento do território e planos diretores, deve ser atualizado, e os mecanismos para a sua aplicação devem ser definidos.",
+          "clasificacion": "CONCRETO",
+          "pagina": 277
+        },
+        {
+          "item": "B03-099: Estabelecer diretrizes políticas e setoriais de zoneamento para preservação ambiental e fomento à Habitação de Interesse Social (HIS), bem como para criação de mecanismos de controle da autoconstrução e ocupação informal.",
+          "clasificacion": "CONCRETO",
+          "pagina": 277
+        },
+        {
+          "item": "B03-100: Deve-se criar uma linha de contingenciamento em fundos para construção e habitacionais existentes destinada à construção de novas habitações em locais mais seguros previamente identificados em estudos específicos.",
+          "clasificacion": "CONCRETO",
+          "pagina": 277
+        },
+        {
+          "item": "B03-101: É importante incluir os diferentes níveis de governo e a diversidade de atores na governança de risco de desastres, podendo ser criados ou aproveitados comitês e conselhos de gestão de riscos de desastres.",
+          "clasificacion": "CONCRETO",
+          "pagina": 277
+        },
+        {
+          "item": "B03-102: O plano de reconstrução deve promover o envolvimento e engajamento da comunidade local, garantindo que suas necessidades e interesses sejam considerados nas propostas habitacionais, nos sistemas de alerta precoce e nos processos de evacuação.",
+          "clasificacion": "CONCRETO",
+          "pagina": 278
+        },
+        {
+          "item": "B03-103: Em áreas onde as inundações não possuem alta energia, ou seja, apresentam risco mitigável, os novos projetos habitacionais podem incluir uma proposta palafítica, com casas acima da altura da inundação esperada.",
+          "clasificacion": "CONCRETO",
+          "pagina": 278
+        },
+        {
+          "item": "B03-104: As famílias localizadas em áreas de risco não mitigável devem ser realocadas, com estratégias de apoio o mais personalizadas possível, baseadas em diagnósticos de suas necessidades e nas propostas das próprias famílias.",
+          "clasificacion": "CONCRETO",
+          "pagina": 278
+        },
+        {
+          "item": "B03-105: Elaborar diagnóstico de contexto: identificar as comunidades afetadas e o número de pessoas desalojadas, avaliar o impacto do desastre e identificar necessidades imediatas como abrigo, alimentação, saúde e segurança.",
+          "clasificacion": "CONCRETO",
+          "pagina": 278
+        },
+        {
+          "item": "B03-106: Aprimorar estudos sobre viabilidade de infraestruturas públicas climaticamente adaptadas em áreas altamente adensadas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 278
+        },
+        {
+          "item": "B03-107: Os novos assentamentos devem ser desenvolvidos com uma abordagem de gestão dos riscos, incluindo serviços e infraestruturas urbanas e mecanismos para que a população não se reinstale em locais de risco.",
+          "clasificacion": "CONCRETO",
+          "pagina": 278
+        },
+        {
+          "item": "B03-108: Elaboração do plano de reassentamento, definindo etapas, critérios de elegibilidade, infraestruturas a serem construídas e prazos para a realocação das famílias afetadas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 278
+        },
+        {
+          "item": "B03-109: A provisão de infraestrutura básica para as populações reassentadas deve estar no cerne dos programas de reassentamento, além de articulações com setores produtivos como logística, alimentos e saúde.",
+          "clasificacion": "CONCRETO",
+          "pagina": 279
+        },
+        {
+          "item": "B03-110: Além da infraestrutura a ser construída em locais de reassentamento, deve-se incorporar uma estratégia de bem-estar da população com foco na identificação de novos postos de trabalho em locais próximos, assistência social, saúde e segurança.",
+          "clasificacion": "CONCRETO",
+          "pagina": 279
+        },
+        {
+          "item": "B03-111: Recorrer ao uso de subsídios diretos, drones, tecnologia de satélite e modelagem de risco para concluir rapidamente as avaliações de danos.",
+          "clasificacion": "CONCRETO",
+          "pagina": 279
+        },
+        {
+          "item": "B03-112: De modo geral, quaisquer atualizações de mapas e modelos de risco deveriam incluir os ativos do setor de transportes, especialmente a rede de rodovias e estradas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 279
+        },
+        {
+          "item": "B03-113: Sugere-se realizar um estudo em nível estadual para a avaliação de zonas com suscetibilidade a deslizamentos, para o fortalecimento e sinalização dessas áreas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 279
+        },
+        {
+          "item": "B03-114: Sugere-se fazer a identificação e definição da infraestrutura crítica para compreender quais trechos e ativos rodoviários, portos, rotas fluviais e aeroportos são mais suscetíveis a diferentes tipos de eventos, criando as bases para corredores multimodais resilientes e redundantes.",
+          "clasificacion": "CONCRETO",
+          "pagina": 279
+        },
+        {
+          "item": "B03-115: Como parte desse processo, os dados das avaliações de danos detalhados em itens podem fornecer as informações para a estimativa de curvas e parâmetros de vulnerabilidade dos ativos no setor.",
+          "clasificacion": "CONCRETO",
+          "pagina": 279
+        },
+        {
+          "item": "B03-116: Sugere-se que os vários integrantes do setor nomeiem uma instância setorial para fazer a coordenação conjunta e realizar ações integradas com água, energia, atividades econômicas e meio ambiente.",
+          "clasificacion": "CONCRETO",
+          "pagina": 279
+        },
+        {
+          "item": "B03-117: Validação dos mapas e cotas de inundação da rede de rodovias, hidrovias, portos e aeroportos nos níveis federal, estadual e municipal, em coordenação com o plano diretor de controle de inundações.",
+          "clasificacion": "CONCRETO",
+          "pagina": 280
+        },
+        {
+          "item": "B03-118: Incorporação de especificações técnicas preliminares de construção e operação de rodovias, hidrovias, portos, aeroportos e transporte urbano, além de medidas estruturais e não estruturais de adaptação ao risco climático.",
+          "clasificacion": "CONCRETO",
+          "pagina": 280
+        },
+        {
+          "item": "B03-119: Seguros para infraestruturas críticas, considerando um estudo diagnóstico sobre o mercado de seguros contra desastres e ou títulos de catástrofe para infraestruturas essenciais e bens públicos.",
+          "clasificacion": "CONCRETO",
+          "pagina": 280
+        },
+        {
+          "item": "B03-120: Geração de redundância efetiva nas redes logísticas públicas e com concessão privada, criando rotas alternativas terrestres, fluviais ou aéreas com especificações padronizadas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 280
+        },
+        {
+          "item": "B03-121: Avaliação para integração de tecnologias de pavimentos e drenagem resilientes em zonas de maior suscetibilidade ou definidas como zonas críticas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 280
+        },
+        {
+          "item": "B03-122: Priorização efetiva de ativos a serem recuperados, gerando um plano de ação multimodal para curto, médio e longo prazo e garantindo a conectividade da rede de transporte.",
+          "clasificacion": "CONCRETO",
+          "pagina": 281
+        },
+        {
+          "item": "B03-123: Habilitação de aeroportos próximos para voos comerciais, definindo uma rede de aeroportos alternativos e planos contingentes para voos comerciais em outros aeroportos do estado.",
+          "clasificacion": "CONCRETO",
+          "pagina": 281
+        },
+        {
+          "item": "B03-124: Preparar o sistema rodoviário para a próxima temporada de chuvas, executando obras corretivas nos pontos que deverão operar como diques do sistema de contenção, com validação conjunta pelas autoridades responsáveis.",
+          "clasificacion": "CONCRETO",
+          "pagina": 281
+        },
+        {
+          "item": "B03-125: Incorporação de especificações técnicas de construção e operação de rodovias, hidrovias, portos, aeroportos e transportes urbanos, além de medidas estruturais e não estruturais de adaptação ao risco climático.",
+          "clasificacion": "CONCRETO",
+          "pagina": 281
+        },
+        {
+          "item": "B03-126: A Fraport identificou a necessidade de reforçar seus sistemas de macrodrenagem, e o planejamento das intervenções de redução de riscos no aeroporto poderia ser coordenado com a reforma mais ampla do sistema de proteção contra inundações de Porto Alegre.",
+          "clasificacion": "CONCRETO",
+          "pagina": 281
+        },
+        {
+          "item": "B03-127: Foi identificada a necessidade de adaptar o sistema de trens urbanos ao risco de inundações, por exemplo elevando equipamentos e transferindo-os para locais seguros.",
+          "clasificacion": "CONCRETO",
+          "pagina": 281
+        },
+        {
+          "item": "B03-128: A avaliação e definição de funcionalidade e de necessidades específicas de um upgrade do sistema de proteção contra inundações poderiam ser conduzidas em coordenação estreita entre a autoridade estadual responsável pela gestão de riscos e as instituições gestoras dos transportes.",
+          "clasificacion": "CONCRETO",
+          "pagina": 282
+        },
+        {
+          "item": "B03-129: Sugere-se realizar um plano específico de reconstrução dos ativos do setor de transporte com foco na melhora da resiliência multimodal e nos ativos críticos do setor.",
+          "clasificacion": "CONCRETO",
+          "pagina": 282
+        },
+        {
+          "item": "B03-130: Projeto de ônibus elétricos: atualizar o projeto piloto para introdução de ônibus elétricos em Porto Alegre, considerando a necessidade de adequação da rede elétrica ao risco de inundações.",
+          "clasificacion": "CONCRETO",
+          "pagina": 282
+        },
+        {
+          "item": "B03-131: Água potável: realização do mapeamento da rede de água para identificar pontos críticos e vulneráveis, facilitando a implementação de medidas preventivas e corretivas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 282
+        },
+        {
+          "item": "B03-132: Esgoto: realização do mapeamento dos componentes do sistema de esgoto para identificar pontos críticos e vulneráveis, facilitando a implementação de medidas de redução de risco.",
+          "clasificacion": "CONCRETO",
+          "pagina": 282
+        },
+        {
+          "item": "B03-133: Drenagem: realização do mapeamento dos componentes dos sistemas de macro e micro drenagem para identificar pontos críticos e vulneráveis, com revisão e manutenção do Sistema de Proteção contra Inundações de Porto Alegre de forma integrada e estratégica.",
+          "clasificacion": "CONCRETO",
+          "pagina": 282
+        },
+        {
+          "item": "B03-134: Criação de um fundo permanente para garantir a disponibilidade de verbas para execução dos planos propostos.",
+          "clasificacion": "CONCRETO",
+          "pagina": 282
+        },
+        {
+          "item": "B03-135: Criação de estratégias de contenção de águas residuais em caso de eventos climáticos extremos para evitar a contaminação do solo, poluição de corpos hídricos e disseminação de doenças.",
+          "clasificacion": "CONCRETO",
+          "pagina": 282
+        },
+        {
+          "item": "B03-136: Programas de educação para criação e desenvolvimento de cultura de prevenção, com o desenvolvimento da percepção do risco de desastres, incluindo técnicos e tomadores de decisão.",
+          "clasificacion": "CONCRETO",
+          "pagina": 283
+        },
+        {
+          "item": "B03-137: Capacitação de pessoal técnico nas áreas envolvidas, com o foco em cultura de prevenção.",
+          "clasificacion": "GENERICO",
+          "pagina": 283
+        },
+        {
+          "item": "B03-138: Em Porto Alegre, fechar definitivamente as comportas 3, 5, 7, 8, 9, 10, 13 e 14 com um muro de concreto.",
+          "clasificacion": "CONCRETO",
+          "pagina": 283
+        },
+        {
+          "item": "B03-139: Tamponamento hermético das grades de inspeção, janelas e aberturas de piso das casas de bombas, visando evitar a inundação na casa de bombas por retorno no escoamento.",
+          "clasificacion": "CONCRETO",
+          "pagina": 283
+        },
+        {
+          "item": "B03-140: Redundância de fornecimento de energia elétrica com fonte independente de reserva em modo de espera, incluindo painéis de acionamento elétricos prontos a serem utilizados em situação de emergência.",
+          "clasificacion": "CONCRETO",
+          "pagina": 283
+        },
+        {
+          "item": "B03-141: Comportas stop-log posicionadas de maneira a proporcionar a rápida obstrução do escoamento na entrada dos poços de sucção das EBAPs em caso de emergência.",
+          "clasificacion": "CONCRETO",
+          "pagina": 283
+        },
+        {
+          "item": "B03-142: Interligação das Estações de Tratamento de Água (ETAs), possibilitando a redistribuição de água tratada entre diferentes regiões.",
+          "clasificacion": "CONCRETO",
+          "pagina": 283
+        },
+        {
+          "item": "B03-143: Interconexão de componentes e sistemas.",
+          "clasificacion": "GENERICO",
+          "pagina": 283
+        },
+        {
+          "item": "B03-144: Redundância de fornecimento de energia elétrica com fonte independente de reserva em modo de espera, incluindo painéis de acionamento elétricos prontos a serem utilizados em situação de emergência.",
+          "clasificacion": "CONCRETO",
+          "pagina": 283
+        },
+        {
+          "item": "B03-145: Programa permanente de manutenção do sistema contra as inundações, incluindo a verificação das cotas e da estrutura dos diques e a manutenção do Muro da Mauá, das casas de bombas e dos condutos forçados.",
+          "clasificacion": "CONCRETO",
+          "pagina": 283
+        },
+        {
+          "item": "B03-146: Retomar o Plano de Desenvolvimento da Drenagem Urbana, elaborado desde 1998 entre IPH/UFRGS e DEP, constituindo o caderno do Plano para ampliação do Sistema de Proteção contra as Inundações.",
+          "clasificacion": "CONCRETO",
+          "pagina": 283
+        },
+        {
+          "item": "B03-147: Levantamento As is das principais características das Estações de Bombeamento de Águas Pluviais (EBAPs), principalmente no que tange às cotas do sistema de descarga.",
+          "clasificacion": "CONCRETO",
+          "pagina": 283
+        },
+        {
+          "item": "B03-148: Reforçar os dados disponíveis com informações referentes às condições ou tipologias construtivas das infraestruturas dos recintos educativos e área construída, sugerindo a execução de um cadastro das infraestruturas educacionais.",
+          "clasificacion": "CONCRETO",
+          "pagina": 284
+        },
+        {
+          "item": "B03-149: Incluir a conscientização sobre os riscos de desastres e sobre os protocolos de contingência na grade curricular, especialmente em áreas particularmente vulneráveis a desastres.",
+          "clasificacion": "CONCRETO",
+          "pagina": 284
+        },
+        {
+          "item": "B03-150: Estabelecer estruturas de coordenação multinível e desenvolver parcerias com a Defesa Civil e outras autoridades para garantir que cada escola esteja preparada e tenha suporte adequado durante desastres.",
+          "clasificacion": "CONCRETO",
+          "pagina": 284
+        },
+        {
+          "item": "B03-151: Desenvolver planos de contingência para escolas, definindo mecanismos de coordenação com os sistemas de alerta precoce e a Defesa Civil, além de protocolos de ação, evacuação e sistemas de difusão de mensagens claros e bem coordenados.",
+          "clasificacion": "CONCRETO",
+          "pagina": 284
+        },
+        {
+          "item": "B03-152: Desenvolver e implementar sistemas eficientes de registro e monitoramento de danos em escolas e instituições educativas, com categorias e orientações claras e um sistema de dados centralizado.",
+          "clasificacion": "CONCRETO",
+          "pagina": 284
+        },
+        {
+          "item": "B03-153: Revisar a indicação do uso de escolas como abrigo de acordo com o impacto que pode causar ao setor educacional e, em situação extrema, estabelecer protocolos claros para designação e administração desses abrigos.",
+          "clasificacion": "CONCRETO",
+          "pagina": 284
+        },
+        {
+          "item": "B03-154: Oferecer ferramentas para suporte psicossocial contínuo para alunos e funcionários afetados por desastres, garantindo acolhimento e recuperação emocional.",
+          "clasificacion": "CONCRETO",
+          "pagina": 284
+        },
+        {
+          "item": "B03-155: Desenvolver estratégias para reduzir perdas educativas em termos de aprendizagens, incluindo mecanismos para o restabelecimento de aulas o mais rápido possível em locais alternativos ou de maneira remota ou híbrida.",
+          "clasificacion": "CONCRETO",
+          "pagina": 284
+        },
+        {
+          "item": "B03-156: Reorganizar a estrutura de salas nas escolas de 2 andares em áreas de alto risco para que equipamentos e itens de maior valor, bibliotecas, laboratórios e registros administrativos estejam no segundo andar.",
+          "clasificacion": "CONCRETO",
+          "pagina": 285
+        },
+        {
+          "item": "B03-157: Recomenda-se evitar a reconstrução de escolas em áreas de alto risco, assegurando que os planos de construção incluam análises de vulnerabilidade e risco antes da construção.",
+          "clasificacion": "CONCRETO",
+          "pagina": 285
+        },
+        {
+          "item": "B03-158: Atualizar o mapeamento das unidades de saúde que estão em áreas de risco, incluído no Programa de Vigilância em Saúde dos Riscos Associados aos Desastres, do DEMSP.",
+          "clasificacion": "CONCRETO",
+          "pagina": 285
+        },
+        {
+          "item": "B03-159: Atualizar o Plano de Preparação de Resposta às Emergências em Saúde Pública, considerando os novos riscos identificados ao atualizar o mapeamento.",
+          "clasificacion": "CONCRETO",
+          "pagina": 285
+        },
+        {
+          "item": "B03-160: Fortalecer os sistemas de informação para gestão de riscos ambientais que incluam dados detalhados sobre ameaças, vulnerabilidades e exposições específicas para os biomas Pampa e Mata Atlântica, com responsabilidades específicas de gestão e atualização de dados.",
+          "clasificacion": "CONCRETO",
+          "pagina": 285
+        },
+        {
+          "item": "B03-161: Estabelecer uma base de dados centralizada, acessível e de constante atualização sobre eventos climáticos extremos, deslizamentos e inundações, incluindo mapas de risco atualizados e acessíveis para órgãos governamentais e a comunidade.",
+          "clasificacion": "CONCRETO",
+          "pagina": 285
+        },
+        {
+          "item": "B03-162: Implementar programas de educação e capacitação para utilização das bases de dados e sistemas já estabelecidos, como o MapBiomas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 285
+        },
+        {
+          "item": "B03-163: Realizar campanhas de sensibilização pública sobre os riscos ambientais e as práticas de mitigação, com foco especial nas áreas de maior risco e inclusão de todos os membros da família.",
+          "clasificacion": "CONCRETO",
+          "pagina": 285
+        },
+        {
+          "item": "B03-164: Revisar e atualizar os regulamentos estaduais e municipais para clarificar as responsabilidades na gestão do risco de desastres, assegurando uma coordenação eficaz entre diferentes níveis de governo e setores.",
+          "clasificacion": "CONCRETO",
+          "pagina": 286
+        },
+        {
+          "item": "B03-165: Integrar a gestão do risco de desastres com políticas de proteção e conservação da biodiversidade e dos serviços ecossistêmicos, com foco de adaptação às mudanças climáticas, gestão de recursos hídricos e planejamento territorial.",
+          "clasificacion": "CONCRETO",
+          "pagina": 286
+        },
+        {
+          "item": "B03-166: Estabelecer fundos específicos e incentivos orçamentários (PSA) para ações preventivas e de mitigação de riscos ambientais nos níveis estadual e municipal.",
+          "clasificacion": "CONCRETO",
+          "pagina": 286
+        },
+        {
+          "item": "B03-167: Criar comissões intersetoriais e desenvolver planos de ação específicos para a gestão de desastres, assegurando que todas as áreas de risco estejam cobertas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 286
+        },
+        {
+          "item": "B03-168: Desenvolver estratégias de recuperação que priorizem a restauração dos ecossistemas e a mitigação de riscos futuros, promovendo tecnologias e práticas sustentáveis com soluções baseadas na natureza, reflorestamento de áreas degradadas e recomposição das matas ciliares.",
+          "clasificacion": "CONCRETO",
+          "pagina": 286
+        },
+        {
+          "item": "B03-169: Implementar sistemas de classificação e reciclagem de materiais de detritos para uso na reconstrução.",
+          "clasificacion": "CONCRETO",
+          "pagina": 286
+        },
+        {
+          "item": "B03-170: Promover a reutilização de materiais aproveitáveis de estruturas danificadas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 286
+        },
+        {
+          "item": "B03-171: Utilizar detritos como matéria-prima para novas construções, como concreto triturado para base de estradas ou paisagismo.",
+          "clasificacion": "CONCRETO",
+          "pagina": 286
+        },
+        {
+          "item": "B03-172: Adaptar estruturas existentes para novos propósitos sempre que possível, reduzindo o consumo de materiais.",
+          "clasificacion": "CONCRETO",
+          "pagina": 286
+        },
+        {
+          "item": "B03-173: Restaurar e expandir buffers naturais, restaurando e expandindo zonas úmidas e áreas ripárias para atuar como buffers naturais contra enchentes.",
+          "clasificacion": "CONCRETO",
+          "pagina": 286
+        },
+        {
+          "item": "B03-174: Implementar espaços verdes urbanos e superfícies permeáveis para melhorar a absorção de água e reduzir o escoamento superficial.",
+          "clasificacion": "CONCRETO",
+          "pagina": 286
+        },
+        {
+          "item": "B03-175: Desenvolver um plano diretor centrado nos rios que acomode os padrões naturais de enchentes, garantindo que a infraestrutura e os desenvolvimentos urbanos convivam com os ciclos naturais de água, chuvas e secas, e estabelecendo cidades esponjas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 286
+        },
+        {
+          "item": "B03-176: Adotar sistemas de drenagem sustentáveis (SuDS), como ArborFlow, HydroPlanter e sistemas de paredes verdes, para gerenciar o escoamento de águas pluviais de maneira mais natural e eficiente.",
+          "clasificacion": "CONCRETO",
+          "pagina": 286
+        },
+        {
+          "item": "B03-177: Sistemas de energia renovável: incorporar sistemas de energia renovável e designs eficientes em termos energéticos.",
+          "clasificacion": "CONCRETO",
+          "pagina": 287
+        },
+        {
+          "item": "B03-178: Recomenda-se enfrentar os desafios e buscar soluções para uma melhor coordenação do setor elétrico, melhorando sua capacidade de preparação e resposta.",
+          "clasificacion": "GENERICO",
+          "pagina": 287
+        }
+      ],
+      "tally": "184 de 196 ítems pasan el test de concreción",
+      "nota": "Unidad elegida: voz normativa completa de Principais recomendações para uma reconstrução resiliente y Recomendações setoriais, pp. 254-287. Los 12 ítems GENERICO se clasifican así por no identificar un instrumento, entregable, responsable, plazo o métrica suficientemente concreto."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la contradicción entre un desastre hidrometeorológico que destruye activos, servicios, empleo y ecosistemas y la necesidad de reconstruir sin reproducir la exposición territorial y social. La evaluación DaLA convierte esa tensión en una agenda de resiliencia que debe compatibilizar recuperación económica, reducción del riesgo, protección de población vulnerable y restauración ambiental.",
+      "filtro_categoria_primaria": "La primaria es #6 Sostenibilidad ambiental porque el objeto del informe es evaluar y responder a los efectos de inundaciones y deslizamientos, y orientar una reconstrucción resiliente frente a riesgos ambientales. #11 Capacidades del Estado es la alternativa más cercana, pero funciona como instrumento habilitador —S2ID, SINPDEC, órganos técnico-científicos, datos, coordinación y planificación— para la adaptación y la reconstrucción ambiental, no como el objeto final que organiza el diagnóstico.",
+      "secundaria_obligatoria": "#11 Capacidades del Estado cumple la función habilitadora de hacer operativa la resiliencia: el cierre requiere órganos de riesgo, comités de cuenca, protocolos, bases de datos, sistemas de alerta, mantenimiento, coordinación multinivel y fondos públicos. Esas capacidades permiten que la transformación ambiental pase de la evaluación de daños a decisiones territoriales, obras, reasentamientos y respuesta sectorial.",
+      "justificacion_anti_copia": "El caso se distingue por aplicar la tercera edición de DaLA para monetizar daños, pérdidas y costos adicionales; estimar una caída del crecimiento de 6% a 4,7% y hasta 432 mil empleos menos; documentar el uso de S2ID y SINPDEC; y cerrar con recomendaciones específicas que incluyen generación de empleo, gobernanza de cuencas, recuperación de ecosistemas, reciclaje de escombros, NbS y sistemas de energía renovable. Estos rasgos muestran que clima, inundación y reconstrucción ambiental son el objeto sustantivo, mientras la institucionalidad organiza la ejecución.",
+      "validacion_anclas": "Se contrasta con el ancla ID 20, “Impactos económicos del cambio climático en Colombia. Síntesis”: ambos tienen como objeto primario el impacto climático y la adaptación/resiliencia sectorial, con capacidades públicas como medio secundario. Se diferencian en que este documento aplica DaLA a un desastre concreto en Rio Grande do Sul y despliega una agenda de reconstrucción multsectorial y de cuencas, en vez de una síntesis nacional de impactos económicos."
+    },
+    "tipo_documento_climatico": "Evaluación técnica de daños, pérdidas y costos adicionales de un desastre climático con recomendaciones de reconstrucción resiliente.",
+    "nivel_aplicacion": "Subnacional: estado de Rio Grande do Sul, con municipios, cuencas hidrográficas y sectores; dentro del marco brasileño.",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

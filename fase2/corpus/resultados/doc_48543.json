@@ -1,0 +1,671 @@
+{
+  "documento": {
+    "num_muestra": 164,
+    "titulo": "Experiencias de integración de la biodiversidad en los sectores productivos, económicos y financieros de América Latina y el Caribe",
+    "autoria": "Víctor Alvarado; Marcia Tambutti; Aleksandar Rankovic",
+    "handle": "https://hdl.handle.net/11362/48543",
+    "simbolo": "LC/TS.2022/206",
+    "isbn": null,
+    "fecha": "2022",
+    "tipo_documento": "Documento de proyecto",
+    "paginas_cuerpo": 71,
+    "paginas_totales": 88,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Qué factores facilitan o dificultan integrar la biodiversidad en los sectores productivos, económicos y financieros de América Latina y el Caribe, y qué vías permiten ampliar y escalar las experiencias con mayor potencial transformativo?",
+    "alcance": {
+      "ambito_aplicacion": "América Latina y el Caribe; diez iniciativas en siete países de la región",
+      "referentes_dependencias": "Convenio sobre la Diversidad Biológica, Marco Mundial de Biodiversidad posterior a 2020, Agenda 2030, IPBES, IPCC y cooperación internacional",
+      "sectorial": "Agricultura, pesca, sector forestal, finanzas, manufactura, infraestructura, turismo, gobiernos subnacionales y ciudades",
+      "temporal": "Últimas cinco décadas para las tendencias de pérdida; experiencias contemporáneas y marco posterior a 2020, con horizonte 2030-2050"
+    },
+    "hallazgos_principales": [
+      "El estudio analiza diez iniciativas de integración de la biodiversidad en siete países mediante revisión documental y entrevistas a actores clave (p.10).",
+      "Las barreras se concentran en riesgos no asumidos, voluntad política, capacidades institucionales, coordinación, integración recíproca, empleo, escalamiento, comunicación y evaluación (p.10).",
+      "La integración fortalece marcos institucionales, movilización de recursos, mitigación y adaptación climática, equidad social y gobernanza, pero los avances son desiguales (p.10).",
+      "La mayoría de los casos no demuestra todavía una integración económica y comercial plena de los valores intrínsecos de la biodiversidad (p.10).",
+      "Los indicadores y el financiamiento son los elementos con menor avance en casi todos los casos, mientras la diversificación productiva puede fortalecer ingresos, resiliencia y autosuficiencia (p.68)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "Las experiencias prueban que integrar biodiversidad en decisiones productivas, económicas y financieras es factible y genera beneficios ambientales, sociales y económicos, pero todavía no transforma de forma general el funcionamiento de los sectores.",
+        "La continuidad y el escalamiento dependen de capacidades, coordinación intersectorial, voluntad política, financiamiento, medición de resultados y participación territorial; los proyectos aislados no bastan.",
+        "La integración climático-biodiversidad y la diversificación productiva ofrecen puntos de entrada para una transición justa, siempre que se traduzcan en instrumentos y beneficios verificables."
+      ],
+      "recomendaciones": [
+        "Reportar y difundir beneficios multidimensionales y fortalecer capacidades para medirlos.",
+        "Crear un repositorio de información validada con casos, datos e indicadores.",
+        "Vincular capacitación e indicadores con ODS, planes nacionales, ENBPA y entidades de investigación.",
+        "Movilizar ministerios de finanzas y planeación, sector financiero y privado; reorientar subsidios e impulsar incentivos positivos.",
+        "Establecer lineamientos, tipologías y taxonomías para proyectos de inversión pública en biodiversidad.",
+        "Desarrollar una guía inclusiva del CDB y herramientas sectoriales para una hoja de ruta regional, con indicadores, derechos, participación y diversificación productiva."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "El documento estudia diez experiencias de integración de la biodiversidad en sectores productivos, económicos y financieros de siete países de América Latina y el Caribe. Encuentra avances en coordinación, financiamiento, empleo, participación y articulación con la agenda climática, pero también brechas persistentes en capacidades, voluntad política, evaluación, indicadores y escalamiento. Su argumento central es que la biodiversidad debe dejar de ser una preocupación confinada al sector ambiental y entrar en paquetes coherentes de políticas, inversiones, información y gobernanza. El cierre propone fortalecer capacidades, medir beneficios multidimensionales, movilizar recursos y construir herramientas inclusivas que conecten iniciativas locales con una hoja de ruta regional."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Presentación",
+      "nivel": 1,
+      "paginas": "15-16",
+      "resumen": "Enmarca la crisis ambiental y climática como una urgencia mundial y presenta la integración de la biodiversidad como una vía para vincular conservación, desarrollo productivo y bienestar. La sección sitúa el estudio en América Latina y el Caribe y explica que busca aprender de experiencias existentes para fortalecerlas, ampliarlas y replicarlas.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "13 presentación existe un creciente sentido de urgencia mundial por la crisis ambiental, climática, de contaminación, de gobernanza multilateral, social y económica ahondada por la pandemia por el coronavirus covid-19 y sus devastadores consecuencias socioeconómicas.",
+          "pagina": 15
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Conceptos clave",
+      "nivel": 1,
+      "paginas": "17-18",
+      "resumen": "Define el vocabulario que organiza el análisis, incluida la integración de la biodiversidad como incorporación de consideraciones sobre biodiversidad en políticas, estrategias y prácticas. Estas definiciones permiten leer los casos de agricultura, pesca, bosques, finanzas, infraestructura y otros sectores con un lenguaje común.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "15 conceptos clave abs “acceso a los recursos genéticos y participación justa y equitativa en los beneficios que se deriven de su utilización”, por sus siglas en inglés.",
+          "pagina": 17
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "19-20",
+      "resumen": "Formula el problema de pasar de compromisos internacionales a intervenciones productivas y financieras que integren la biodiversidad. Explica el diseño cualitativo del estudio: diez iniciativas en siete países, revisión documental y entrevistas a actores públicos, privados, comunitarios, académicos y financieros, para identificar facilitadores, obstáculos y posibilidades de escalamiento.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "18 asesoramiento científico, técnico y tecnológico (sbstta, por sus siglas en inglés) y del órgano subsidiario para la implementación (sbi, por sus siglas en inglés) del cdb y del grupo de trabajo de composición abierta (oewg, por sus siglas en inglés) para el mmb post 2020.",
+          "pagina": 20
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. La biodiversidad, la Agenda 2030 y el marco mundial para la biodiversidad posterior a 2020",
+      "nivel": 1,
+      "paginas": "21-24",
+      "resumen": "Relaciona la pérdida acelerada de biodiversidad con la Agenda 2030, el Convenio sobre la Diversidad Biológica y el Marco Mundial posterior a 2020. Destaca que más de la mitad del PIB mundial depende directamente de la biodiversidad y sus servicios, que ninguna Meta de Aichi se cumplió completamente y que el cambio transformativo debe modificar modelos económicos, sociales y financieros mediante un enfoque de todo el gobierno y toda la sociedad.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "La pérdida de la biodiversidad registrada en las últimas cinco décadas no tiene precedente histórico",
+          "pagina": 21
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "22 el concepto del cambio transformativo va más allá del mmb post 2020 para el alcance de los tres objetivos del cdb.",
+          "pagina": 24
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "II. La integración de la biodiversidad en los sectores productivos, económicos y financieros",
+      "nivel": 1,
+      "paginas": "25-28",
+      "resumen": "Este capítulo define la integración como un proceso de desarrollo sostenible y la descompone en información, herramientas e institucionalidad. El mapa argumental va desde la incorporación sectorial hasta las condiciones de coordinación y capacidad que permiten que esa incorporación sea verificable y financiable.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. La integración de la biodiversidad como proceso clave del desarrollo sostenible de América Latina y el Caribe",
+          "nivel": 2,
+          "paginas": "25-26",
+          "resumen": "Reconstruye el impulso internacional de la integración de la biodiversidad desde la Declaración de Cancún de 2016 y las decisiones posteriores del CDB. Muestra que el proceso se extendió desde agricultura, pesca, bosques y turismo hacia energía, minería, infraestructura, manufactura y salud, pero que la adopción de un enfoque estratégico de largo plazo seguía pendiente.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "En los últimos años, la integración de la biodiversidad ha recibido cada vez más atención a nivel global, aunque aún es —por mucho— insuficiente.",
+              "pagina": 25
+            },
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "24 reunión del sbi, por lo que será revisado durante los trabajos de la cop-15 con miras a su modificación, finalización y posible aprobación.",
+              "pagina": 26,
+              "subtipo_brecha": "retrospectiva"
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. La disponibilidad y calidad de la información sobre la integración de la biodiversidad",
+          "nivel": 2,
+          "paginas": "26-27",
+          "resumen": "Examina la dificultad de comparar experiencias porque los casos no usan métodos normalizados para registrar acciones, beneficios, empleo, inversión e indicadores de biodiversidad. La carencia de información sólida limita la evaluación, la comunicación de retornos y la capacidad de movilizar decisiones y financiamiento fuera del sector ambiental.",
+          "dimensiones": [
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "24 reunión del sbi, por lo que será revisado durante los trabajos de la cop-15 con miras a su modificación, finalización y posible aprobación.",
+              "pagina": 26,
+              "subtipo_brecha": "retrospectiva"
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Los instrumentos y herramientas para la integración de la biodiversidad en los sectores productivos, económicos y financieros",
+          "nivel": 2,
+          "paginas": "26-27",
+          "resumen": "Presenta instrumentos que conectan biodiversidad con decisiones económicas: evaluación de impactos, salvaguardas, taxonomías, tipologías de inversión, incentivos, contratación y mecanismos financieros. El argumento es que la integración requiere traducir valores ecológicos en criterios operativos para presupuestos, inversiones y prácticas sectoriales.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "24 reunión del sbi, por lo que será revisado durante los trabajos de la cop-15 con miras a su modificación, finalización y posible aprobación.",
+              "pagina": 26
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Los elementos institucionales para la integración de la biodiversidad",
+          "nivel": 2,
+          "paginas": "27-28",
+          "resumen": "Analiza la institucionalidad necesaria para coordinar ministerios ambientales con sectores productivos, financieros y gobiernos subnacionales. Señala que la gobernanza multinivel, las capacidades y la participación de actores deben incorporarse desde el diseño para evitar políticas fragmentadas y sostener las iniciativas más allá de un proyecto piloto.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "25 problemas de recopilación de datos claros y solidos sobre las acciones específicas de integración de la biodiversidad implementadas.",
+              "pagina": 27
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "25 problemas de recopilación de datos claros y solidos sobre las acciones específicas de integración de la biodiversidad implementadas.",
+              "pagina": 27
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "III. Selección de experiencias de integración de la biodiversidad en los sectores productivos, económicos y financieros en América Latina y el Caribe",
+      "nivel": 1,
+      "paginas": "29-30",
+      "resumen": "Explica la selección de diez casos en siete países y en sectores de agricultura, pesca, forestal, finanzas, manufactura, infraestructura, turismo, gobiernos subnacionales y ciudades. Los criterios combinan diversidad sectorial y geográfica, disponibilidad de información, relevancia para los objetivos del estudio y potencial para extraer lecciones sobre integración y escalamiento.",
+      "dimensiones": [
+        {
+          "dimension": "avances_implementacion",
+          "cita": "selección de experiencias de integración de la biodiversidad en los sectores productivos, económicos y financieros en américa latina y el caribe el presente estudio tiene dos objetivos principales.",
+          "pagina": 29
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "IV. Los retos para la integración de la biodiversidad",
+      "nivel": 1,
+      "paginas": "31-52",
+      "resumen": "El capítulo organiza la evidencia de diez casos en los retos que van desde riesgos no internalizados y voluntad política hasta capacidades, coordinación, empleo, escalamiento y comunicación. En conjunto, muestra que las barreras son institucionales y de información tanto como financieras, y que impiden convertir buenas prácticas localizadas en cambios sectoriales duraderos.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Los riesgos no asumidos derivados de la pérdida de biodiversidad",
+          "nivel": 2,
+          "paginas": "31-34",
+          "resumen": "Los casos muestran que los sectores aún no internalizan suficientemente los riesgos económicos y sociales de perder biodiversidad y servicios ecosistémicos. La infraestructura y otros proyectos pueden trasladar costos a comunidades y territorios cuando siguen un enfoque business as usual; hacer visibles esos riesgos es una condición para cambiar decisiones.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "29 cuadro 2 descripción de los casos de estudio de integración de la biodiversidad en américa latina y el caribe pais caso de estudio sector descripción brasil gestión de reservas de la biósfera de são paulo: mata atlántica y cinturón verde de são paulo [grbsp]a gobiernos subnacionales estrategia subnacional de la provincia de são paulo para el manejo integrado de regiones conservadas a través de la reserva de la biósfera.",
+              "pagina": 31
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. La ausencia de voluntad y compromiso político",
+          "nivel": 2,
+          "paginas": "35-36",
+          "resumen": "Identifica la voluntad política fluctuante y los ciclos gubernamentales como obstáculos para diseñar, financiar y mantener iniciativas. Los diagnósticos, la evidencia de impactos y retornos, la participación de unidades presupuestarias y la revisión del gasto aparecen como vías para convertir la biodiversidad en una prioridad transversal.",
+          "dimensiones": [
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "33 servicios ecosistémicos detonados por el desarrollo de infraestructura siguiendo el modelo “business as usual”.",
+              "pagina": 35,
+              "subtipo_brecha": "retrospectiva"
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Las limitaciones en las capacidades institucionales",
+          "nivel": 2,
+          "paginas": "37-39",
+          "resumen": "Examina déficits de capacidades individuales, institucionales y sistémicas para comprender, planificar, financiar y reportar la integración. La formación debe conectar sectores, instrumentos y evidencia, e incluir beneficios sociales y económicos además de los ambientales para consolidar apropiación y continuidad.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "35 • involucrar plenamente al sector privado y a las comunidades involucradas o potencialmente beneficiadas con la implementación de los proyectos de integración de la biodiversidad, de tal forma que los propios actores interesado s generen la solicitud o demanda de los proyectos a las autoridades correspondientes de cada sector, como se puede identificar a través de los casos de mujeres y ambiente en méxico, de manejo forestal comunitario de la reserva de la biósfera maya en guatemala, de la red de áreas marinas de pesca responsable y territorios marinos de vida en costa rica o de la gestión de las reservas de la biósfera de são paulo en brasil.",
+              "pagina": 37
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. La incipiente coordinación sectorial e intersectorial",
+          "nivel": 2,
+          "paginas": "40-40",
+          "resumen": "Muestra que la coordinación es una de las brechas más extendidas: persisten silos, diálogo insuficiente y políticas que no alinean conservación con producción y finanzas. Los casos sugieren combinar mecanismos de coordinación, planificación territorial y participación de los sectores afectados.",
+          "dimensiones": [
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "38 • la falta de vinculación de las acciones para la creación y el desarrollo de capacidades en los otros sectores con políticas, herramientas e instrumentos relacionados con la biodiversidad y su integración ( como los ods, las enbpa o las estrategias de biodiversidad para ciertos sectores).",
+              "pagina": 40,
+              "subtipo_brecha": "retrospectiva"
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. La falta de integración recíproca entre los sectores de la biodiversidad y los sectores productivos, económicos y financieros",
+          "nivel": 2,
+          "paginas": "41-45",
+          "resumen": "Describe la falta de reciprocidad: los sectores económicos reciben beneficios de los ecosistemas pero rara vez incorporan plenamente sus valores, riesgos y dependencias. Las taxonomías, estándares, evaluaciones y esquemas de financiamiento pueden traducir la biodiversidad a decisiones empresariales y financieras.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "39 de los medios de subsistencia de las comunidades y de su seguridad alimentaria, así como sobre el acceso a nuevos mercados para sus productos, dándoles un valor agregado.",
+              "pagina": 41
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "F. El empleo y la integración de la biodiversidad",
+          "nivel": 2,
+          "paginas": "46-49",
+          "resumen": "Relaciona la integración con trabajo decente, diversificación productiva y beneficios para mujeres, pueblos indígenas y comunidades locales. El estudio advierte que la falta de métodos normalizados de medición impide comparar empleos directos e indirectos y propone fortalecer capacidades para identificar efectos laborales y distributivos.",
+          "dimensiones": [
+            {
+              "dimension": "oportunidades",
+              "cita": "el empleo y la integración de la biodiversidad la organización internacional para el trabajo (oit) señala que cuando las transiciones hacia economías ambiental y socialmente sostenibles son bien gestionadas, pueden constituir un importante motor para la creación de puestos de trabajo, la mejora del empleo, la justicia social y la erradicación de la pobreza (sánchez, 2018) .",
+              "pagina": 46
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "G. Las complejidades para ampliar y multiplicar las experiencias",
+          "nivel": 2,
+          "paginas": "50-50",
+          "resumen": "Analiza por qué iniciativas exitosas no se convierten automáticamente en programas replicables: influyen escala, territorio, financiamiento, instituciones, aprendizaje y apropiación. La combinación de enfoques bottom-up y top-down y las alianzas público-privadas son presentadas como condiciones para adaptar y sostener el cambio.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "las complejidades para ampliar y multiplicar las experiencias los casos estudiados muestran cómo ampliar y/o multiplicar las iniciativas de integración de la biodiversidad en la región no obedece a un proceso lineal, por lo que lograr avances en la integración puede ser llevado a cabo con mayor facilidad en una situación y/o sector a comparación de otro.",
+              "pagina": 50
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "H. Las dificultades en la comunicación y la comprensión de los valores de la biodiversidad para los diferentes sectores y para la sociedad",
+          "nivel": 2,
+          "paginas": "51-52",
+          "resumen": "Expone que la biodiversidad suele ser invisible para actores productivos, financieros y sociales porque sus dependencias y beneficios no se comunican en términos sectoriales. La información sintetizada, la ciencia y el conocimiento tradicional deben conectar salud ecosistémica con riesgos, ingresos, empleo y bienestar.",
+          "dimensiones": [
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "49 de la integración de la biodiversidad de manera sectorial y a usar los resultados para incidir en la política nacional, por ejemplo, a través del desarrollo de objetivos prioritarios del programa sectorial agrícola, como el programa de subsidios para pequeños y medianos productores de la secretaría (secretaría de agricultura e desarrollo rural, 2017b).",
+              "pagina": 51,
+              "subtipo_brecha": "retrospectiva"
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "I. La carencia de iniciativas o instrumentos para la evaluación y el seguimiento",
+      "nivel": 1,
+      "paginas": "53-54",
+      "resumen": "Registra como reto transversal la ausencia de sistemas de evaluación y seguimiento capaces de medir la integración y sus resultados. La carencia de indicadores afecta la rendición de cuentas, la comparación entre iniciativas y la posibilidad de justificar nuevas inversiones.",
+      "dimensiones": [
+        {
+          "dimension": "brechas_implementacion",
+          "cita": "51 hacerlo es posible también abrir nuevos mercados, generar oportunidades comerciales y brindar una ventaja competitiva a los actores que aprovechan esas oportunidades.",
+          "pagina": 53,
+          "subtipo_brecha": "retrospectiva"
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "V. Las oportunidades para apoyar y ampliar la integración",
+      "nivel": 1,
+      "paginas": "55-66",
+      "resumen": "Este capítulo convierte los retos en oportunidades de transformación: transición justa, recuperación post-COVID-19, cooperación, financiamiento, combinación de políticas, sinergias climático-biodiversidad, convenios y participación local. Su hilo común es que la biodiversidad debe entrar en decisiones económicas y territoriales mediante paquetes, capacidades, información e instrumentos.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. El cambio transformativo para la biodiversidad en un marco de transición justa para todos",
+          "nivel": 2,
+          "paginas": "55-57",
+          "resumen": "Presenta el cambio transformativo como reorganización de modelos económicos, sociales y financieros, no como una suma de ajustes ambientales. Los casos aportan vías para generar beneficios multidimensionales, incluir a grupos históricamente excluidos y vincular conservación, uso sostenible, empleo y justicia.",
+          "dimensiones": [
+            {
+              "dimension": "oportunidades",
+              "cita": "el cambio transformativo para la biodiversidad en un marco de transición justa para todos el pnuma (2016a), el cdb (secretaría del convenio para la diversidad biológica, 2020d), ipbes (ipbes, 2018a y 2020) y cepal (gligo y otros, 2020; cepal, 2020e) han observado la degradación del ecosistema y los problemas de salud causados por la pandemia de covid-19 en américa latina y el caribe y han hecho un llamado a la urgencia regional de lograr un cambio transformativo para la sostenibilidad a través de medidas dinámicas y coordinadas en varios frentes (un “gran impulso” ambiental en palabras de la cepal), donde la integración de la biodiversidad juega un papel fundamental.",
+              "pagina": 55
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. El nuevo contrato social posterior al COVID-19",
+          "nivel": 2,
+          "paginas": "58-59",
+          "resumen": "Explora la recuperación posterior a la pandemia como ventana para reorientar políticas hacia empleo verde y azul, inclusión y resiliencia. El texto vincula inversión, salud de los ecosistemas y reducción de desigualdades, pero advierte que la recuperación puede reproducir presiones sobre la naturaleza si no incorpora criterios de sostenibilidad.",
+          "dimensiones": [
+            {
+              "dimension": "oportunidades",
+              "cita": "56 por otro lado, es relevante mencionar que casi la totalidad de los casos (9 de 10) ha implementado acciones que atienden alguna de las causas subyacentes de la pérdida de la biodiversidad, particularmente aquellas asociadas la gobernanza, la rendición de cuentas y el consumo.",
+              "pagina": 58
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. La cooperación para el desarrollo y la integración de la biodiversidad",
+          "nivel": 2,
+          "paginas": "60-60",
+          "resumen": "Examina la cooperación internacional, regional y Sur-Sur como apoyo para capacidades, conocimiento, financiamiento y réplica. Señala la necesidad de coordinar organismos y organizaciones de asistencia para evitar proyectos aislados y orientar recursos a prioridades regionales.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "58 oportunidades herramientas y enfoques desarrollar objetivos para el diseño y la implementación de incentivos - trabajar hacia una visión común colaborando con los ministerios encargados de la planeación y el presupuesto nacional y/o subnacional en materia de salud, seguridad alimentaria y biodiversidad.",
+              "pagina": 60
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. La movilización de recursos públicos y privados",
+          "nivel": 2,
+          "paginas": "61-62",
+          "resumen": "Identifica fondos, seguros, inversión pública, participación privada y mecanismos de riesgo como vías para financiar biodiversidad fuera de los presupuestos ambientales. Los ejemplos muestran que taxonomías, tipologías y evidencia de retornos pueden hacer bancables las iniciativas y atraer actores financieros.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "59 • se requiere una coordinación y cooperación más efectiva entre organismos y organizaciones de cooperación y asistencia que operan en américa latina y el caribe.",
+              "pagina": 61
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. La combinación de políticas para la integración de la biodiversidad",
+          "nivel": 2,
+          "paginas": "63-63",
+          "resumen": "Defiende paquetes flexibles de políticas que articulen presupuesto, regulación, contratación, infraestructura, gobernanza, incentivos y rendición de cuentas. El cambio transformativo depende de la coherencia entre escalas y de aplicar medidas coordinadas, no de instrumentos sectoriales aislados.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "la innovación desempeña un papel fundamental en este sentido.",
+              "pagina": 63
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "F. La integración de las agendas climática y de biodiversidad",
+          "nivel": 2,
+          "paginas": "64-65",
+          "resumen": "Desarrolla la interdependencia entre cambio climático, biodiversidad, adaptación y emisiones mediante los casos del Programa Vino, Cambio Climático y Biodiversidad y del Fondo para la Protección del Agua de Quito. Destaca mapas de riesgo, adaptación basada en ecosistemas, restauración de humedales y monitoreo hidrometeorológico como puntos de entrada conjuntos.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "62 códigos financieros o la normatividad de los sectores), la contratación pública y privada y los gastos públicos (por ej., de infraestructura o de servicios), entre otras áreas.",
+              "pagina": 64
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "G. La promoción de sinergias efectivas entre diferentes convenios en biodiversidad",
+          "nivel": 2,
+          "paginas": "65-66",
+          "resumen": "Aborda la implementación aislada de convenios y propone información validada, repositorios, plataformas de intercambio y cooperación Sur-Sur para reducir duplicaciones. El mecanismo sugerido conecta datos, capacidades y coordinación entre convenios a escalas regional, nacional y subnacional.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "63 el segundo ejemplo es el fondo para la protección del agua de quito.",
+              "pagina": 65
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "H. El diálogo y participación de gobiernos subnacionales y actores locales",
+          "nivel": 2,
+          "paginas": "66-67",
+          "resumen": "Subraya que gobiernos locales y subnacionales son integradores naturales de planificación, presupuesto y decisiones territoriales. Los casos muestran que la participación de comunidades y pueblos indígenas puede conectar biodiversidad con pobreza, empleo, salud, educación y seguridad alimentaria.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Todos los actores entrevistados afirmaron que existe una necesidad urgente de incluir o incrementar la participación de los gobiernos locales y subnacionales",
+              "pagina": 66
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "I. Los elementos condicionantes para la integración de la biodiversidad",
+      "nivel": 1,
+      "paginas": "71-76",
+      "resumen": "El cierre sintetiza los mensajes del estudio sobre visibilidad, beneficios multidimensionales, sostenibilidad productiva, transformación institucional y justicia social. Conserva la secuencia literal del manifiesto, en la que estos cuatro apartados quedan bajo el título de nivel 1 generado para el bloque final.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Hacer la biodiversidad evidente",
+          "nivel": 2,
+          "paginas": "71-72",
+          "resumen": "Muestra que la falta de comprensión sobre dependencias y riesgos mantiene invisible la biodiversidad para sectores productivos, financieros y económicos. Propone información fundada y contextualizada, diagnósticos participativos y articulación con cambio climático y riesgos para conectar salud ecosistémica con viabilidad económica.",
+          "dimensiones": [
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "mensajes clave este reporte brinda un análisis sobre diez casos de integración de la biodiversidad en siete países de la región.",
+              "pagina": 71,
+              "subtipo_brecha": "retrospectiva"
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. La integración de la biodiversidad en los sectores productivos, económicos y financieros es esencial para transitar hacia la sostenibilidad social, ambiental y económica",
+          "nivel": 2,
+          "paginas": "72-74",
+          "resumen": "Resume que los diez casos ofrecen alternativas replicables y beneficios socioeconómicos, incluidos empleo, capacitación, salarios, inclusión y diversificación. También identifica oportunidades de financiamiento, alianzas público-privadas y puntos de entrada para coordinar políticas, aunque persisten límites financieros, institucionales y de gobernanza.",
+          "dimensiones": [
+            {
+              "dimension": "oportunidades",
+              "cita": "71 muy positivas de beneficios socioeconómicos, por ejemplo: creación de empleos, capacitación para la empleabilidad, incremento de los salarios, promoción de cambios culturales relacionados con la inclusividad y sostenibilidad, reconocimiento de los derechos de las mujeres y jóvenes bajo un enfoque diferenciado y de su aportación en la cadena de valor de los productos, incremento de la paridad en la toma de decisiones, acceso a los recursos naturales de su entorno, así como fomento de mejores prácticas alimentarias, diversificación de sus actividades productivas y reinversión de rentas obtenidas en beneficios sociales comunitarios e infraestructura.",
+              "pagina": 73
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. La transformación de las instituciones y de las y los actores",
+          "nivel": 2,
+          "paginas": "74-75",
+          "resumen": "Concluye que todos los casos ensayaron políticas o herramientas de coordinación, pero aún persisten contradicciones y trabajo en silos. La creación de capacidades, la combinación de políticas y la coordinación sistémica en sectores clave son necesarias para superar el statu quo y sostener el cambio.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "72 casos, la ampliación de las iniciativas de integración de la biodiversidad se ha enfrentado a diversas limitaciones financieras, institucionales, organizacionales y de gobernanza que dificultan es calar las iniciativas, particularmente cuando son experiencias piloto muy localizadas.",
+              "pagina": 74
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. No dejar a nadie atrás",
+          "nivel": 2,
+          "paginas": "76-76",
+          "resumen": "Vincula la integración con derechos, empoderamiento y cambios culturales para mujeres, jóvenes, pueblos indígenas y comunidades locales. La participación, el empleo, el conocimiento y la toma de decisiones permiten que la transición productiva y ambiental distribuya beneficios y no reproduzca exclusiones.",
+          "dimensiones": [
+            {
+              "dimension": "oportunidades",
+              "cita": "no dejar a nadie atrás la integración de la biodiversidad en sectores productivos y económicos ha promovido el reconocimiento de derechos, empoderamiento y cambios culturales hacia las mujeres, los jóvenes y los pueblos indígenas y comunidades locales.",
+              "pagina": 76
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "VII. Recomendaciones",
+      "nivel": 1,
+      "paginas": "77-79",
+      "resumen": "Formula una agenda de acción para que la integración de la biodiversidad alcance ministerios y sectores más allá del ambiente. Recomienda reportar beneficios multidimensionales, fortalecer capacidades, crear un repositorio validado, movilizar financiamiento e incentivos, elaborar una guía inclusiva y herramientas sectoriales, e incorporar indicadores, diversificación productiva, derechos y participación en instrumentos nacionales y subnacionales.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "la integración de la biodiversidad puede servir para ayudar a que los objetivos, hitos y metas incluidos en el mmb post 2020 y sus impac tos positivos sean apropiados más allá de los ministerios de medio ambiente, de modo que la responsabilidad de lograrlos recaiga en una gama más amplia de ministerios, agencias y sectores.",
+          "pagina": 77
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "sería útil contar con un mecanismo repositorio de información validada, sistematizada y consolidada",
+          "pagina": 78
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "establecer lineamientos para el desarrollo y el escalamiento de proyectos de inversión pública en diversidad biológica",
+          "pagina": 78
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "El cierre exige conjuntos coordinados y sistémicos de medidas y políticas en sectores clave, y además propone instrumentos de inversión pública, incentivos, subsidios, tipologías y taxonomías. Cumple el paquete coordinado y articula sectores productivos, económicos y financieros con eficiencias ambiental, productiva y social.",
+      "citas": [
+        {
+          "cita": "Para avanzar hacia un cambio estructural progresivo, es necesario que se implementen conjuntos de medidas y políticas de manera coordinada y sistémica en sectores clave",
+          "pagina": 75
+        },
+        {
+          "cita": "establecer lineamientos para el desarrollo y el escalamiento de proyectos de inversión pública en diversidad biológica",
+          "pagina": 78
+        }
+      ],
+      "nota": null
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El documento nombra mecanismos dentro del ámbito regional: repositorio de información, plataforma de intercambio, cooperación Sur-Sur, consejos, agencias, órganos consultivos y foros de ministros; además vincula ministerios, gobiernos subnacionales, comunidades y sector privado en la implementación.",
+      "citas": [
+        {
+          "cita": "sería útil contar con un mecanismo repositorio de información validada, sistematizada y consolidada",
+          "pagina": 78
+        },
+        {
+          "cita": "64 foros formales y/o informales adecuadamente diseñado, por ejemplo, el foro de ministros de medio ambiente de américa latina y el caribe.",
+          "pagina": 66
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Sí",
+      "evidencia": "Enumera sectores y actividades concretas —agricultura, pesca, forestal, finanzas, manufactura, infraestructura, turismo, inversión pública, seguros y diversificación productiva— y desarrolla vínculos con empleo inclusivo, salarios, capacitación, ingresos, productividad, inclusión y resiliencia comunitaria.",
+      "citas": [
+        {
+          "cita": "71 muy positivas de beneficios socioeconómicos, por ejemplo: creación de empleos, capacitación para la empleabilidad, incremento de los salarios, promoción de cambios culturales relacionados con la inclusividad y sostenibilidad, reconocimiento de los derechos de las mujeres y jóvenes bajo un enfoque diferenciado y de su aportación en la cadena de valor de los productos, incremento de la paridad en la toma de decisiones, acceso a los recursos naturales de su entorno, así como fomento de mejores prácticas alimentarias, diversificación de sus actividades productivas y reinversión de rentas obtenidas en beneficios sociales comunitarios e infraestructura.",
+          "pagina": 73
+        },
+        {
+          "cita": "La integración de la biodiversidad permite encontrar puntos de entrada a políticas y herramientas para un cambio transformativo y contribuir a la elaboración de casos que detonen la voluntad y el compromiso políticos hacia el patrimonio natural",
+          "pagina": 73
+        }
+      ],
+      "nota": null
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "Se evalúa la lista completa de recomendaciones normativas del cierre. Pasan el test los ítems que nombran repositorio, evaluaciones de necesidades y prioridades, indicadores y métricas, ministerios/sectores responsables, incentivos y subsidios, lineamientos, tipologías/taxonomías, guía del CDB, hoja de ruta regional y herramientas sectoriales; no se cuentan formulaciones aspiracionales sin entregable identificable.",
+      "citas": [
+        {
+          "cita": "sería útil contar con un mecanismo repositorio de información validada, sistematizada y consolidada",
+          "pagina": 78
+        },
+        {
+          "cita": "establecer lineamientos para el desarrollo y el escalamiento de proyectos de inversión pública en diversidad biológica",
+          "pagina": 78
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Reportar, valorar y difundir beneficios multidimensionales; fortalecer capacidades de reporte",
+          "clasificacion": "CONCRETO",
+          "pagina": 77
+        },
+        {
+          "item": "Crear un repositorio de información validada con casos, datos e indicadores",
+          "clasificacion": "CONCRETO",
+          "pagina": 78
+        },
+        {
+          "item": "Vincular capacidades con políticas e instrumentos y evaluar necesidades, financiamiento, indicadores y métricas",
+          "clasificacion": "CONCRETO",
+          "pagina": 78
+        },
+        {
+          "item": "Movilizar actores, ministerios de finanzas y planeación y sectores financiero y privado",
+          "clasificacion": "CONCRETO",
+          "pagina": 78
+        },
+        {
+          "item": "Establecer lineamientos, tipologías y taxonomías para inversión pública en biodiversidad",
+          "clasificacion": "CONCRETO",
+          "pagina": 78
+        },
+        {
+          "item": "Desarrollar una guía inclusiva y herramientas sectoriales con hoja de ruta regional e indicadores",
+          "clasificacion": "CONCRETO",
+          "pagina": 79
+        }
+      ],
+      "tally": "6 de 6 ítems pasan el test de concreción",
+      "nota": null
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la contradicción entre una región con enorme riqueza biológica y cultural y sectores productivos, económicos y financieros que todavía no internalizan los costos de su pérdida. La estudia mediante casos concretos para mostrar que la conservación, el uso sostenible y la participación equitativa pueden convertirse en bases de desarrollo, empleo, financiamiento y gobernanza.",
+      "filtro_categoria_primaria": "El objeto es transformar la relación de los sectores con la biodiversidad y los ecosistemas: analiza integración, pérdida, uso sostenible, cambio transformativo y sinergia climático-biodiversidad. Capacidades del Estado es el medio habilitador —coordinación, indicadores, políticas, presupuesto—, por lo que no desplaza a Sostenibilidad ambiental como primaria.",
+      "secundaria_obligatoria": "Capacidades del Estado cumple la función de hacer implementable la transformación ambiental: el estudio identifica déficits de coordinación, capacidades, financiamiento, indicadores y mecanismos adaptativos, y recomienda repositorios, guías, taxonomías, lineamientos y participación multiactor.",
+      "justificacion_anti_copia": "La clasificación se apoya en rasgos propios: análisis cualitativo de diez casos en siete países; comparación de nueve barreras y nueve oportunidades; uso de ejemplos como el Programa Vino, Cambio Climático y Biodiversidad y el Fondo para la Protección del Agua de Quito; y un cierre con instrumentos de inversión pública, taxonomías, repositorio, indicadores y hoja de ruta regional.",
+      "validacion_anclas": "Se contrasta con el ancla Doc20, “Impactos económicos del cambio climático en Colombia. Síntesis”: ambos ponen la transformación ambiental como objeto y la institucionalidad como medio, pero este documento amplía el objeto a biodiversidad, sectores productivos, finanzas y casos regionales, con un énfasis mayor en integración y escalamiento. Se diferencia del ancla Doc19, “Panorama de la Gestión Pública 2023: un Estado preparado para la acción climática”, porque aquí el Estado no es el objeto principal sino la capacidad necesaria para integrar biodiversidad en la economía."
+    },
+    "tipo_documento_climatico": "Documento de proyecto o estudio técnico comparado de casos sobre integración de biodiversidad, con conexión explícita entre biodiversidad, cambio climático, desarrollo productivo y financiamiento.",
+    "nivel_aplicacion": "Regional (América Latina y el Caribe), con experiencias nacionales, subnacionales, locales y sectoriales.",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

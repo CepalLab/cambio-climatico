@@ -1,0 +1,957 @@
+{
+  "documento": {
+    "num_muestra": null,
+    "titulo": "Criterios para la sostenibilidad y la resiliencia de las inversiones públicas agropecuarias en Centroamérica y la República Dominicana",
+    "autoria": "Lya Freitas",
+    "handle": "https://hdl.handle.net/11362/82547",
+    "simbolo": "LC/MEX/TS.2025/15",
+    "isbn": null,
+    "fecha": "2025",
+    "tipo_documento": "Documento de proyecto o estudio técnico",
+    "paginas_cuerpo": 55,
+    "paginas_totales": 63,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Qué criterios y estrategias deben orientar las inversiones públicas agropecuarias en Centroamérica y la República Dominicana para fortalecer su sostenibilidad y resiliencia ante los desastres y el cambio climático?",
+    "alcance": {
+      "ambito_aplicacion": "Centroamérica y la República Dominicana (países del SICA: Belice, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panamá y República Dominicana)",
+      "referentes_dependencias": "Organizaciones internacionales (FAO, OCDE, BID, GIZ, IICA), experiencias de otros países y marcos internacionales (ODS, Acuerdo de París, Marco de Sendai)",
+      "sectorial": "Sector agropecuario: producción, rendimientos, irrigación, seguridad alimentaria, cambio climático, inversión pública",
+      "temporal": "Perspectiva a 2033 (horizonte de las perspectivas agropecuarias de FAO/OCDE); análisis con datos históricos 1970-2024"
+    },
+    "hallazgos_principales": [
+      "La inversión pública agropecuaria en Centroamérica debe ser de USD 60.000 millones por año para alcanzar niveles de inversión agrícola de países desarrollados (p.8)",
+      "El 81% de las explotaciones agropecuarias de la región pertenece a la agricultura familiar, que aporta entre el 27% y el 67% del total de la producción (p.7)",
+      "La inseguridad alimentaria grave afectó a 58,1 millones de personas en 2023; 13,8 millones en Centroamérica (p.7)",
+      "La Unión Europea registra seis veces más inversión agrícola que Centroamérica y el Caribe, y los Estados Unidos tienen una intensidad cinco veces mayor (p.8)",
+      "El valor agregado de la agricultura varió entre el 2% y el 17% del PIB en 2024, con mayor aporte en Nicaragua (15,3%) y Honduras (11,9%) (p.17)",
+      "Entre 2020 y 2022, las tormentas Eta, Iota y Julia afectaron gravemente al sector agropecuario, con pérdidas del 65-85% en el sector productivo en Honduras y Guatemala (p.24)"
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La inversión pública puede actuar como motor del desarrollo rural inclusivo, la sostenibilidad ambiental y la reducción de la pobreza cuando se orienta con criterios de resiliencia prospectiva",
+        "La incorporación de criterios de resiliencia y sostenibilidad en el ciclo de vida de los proyectos de inversión pública agropecuaria es crucial para proteger los activos e infraestructuras del Estado y asegurar la sostenibilidad a largo plazo",
+        "Los seis ejes temáticos propuestos (planificación y gobernanza, ciclo de proyecto con enfoque de resiliencia, enfoques híbridos, mecanismos de apoyo, enfoque en poblaciones, y seguridad alimentaria y nutricional) ofrecen una base flexible para avanzar en una inversión pública agropecuaria más resiliente, inclusiva y efectiva"
+      ],
+      "recomendaciones": [
+        "Incluir en la normativa de inversión pública la obligación de integrar la gestión del riesgo de desastres y la respuesta al cambio climático en los proyectos agropecuarios de forma explícita (p.36)",
+        "Actualizar metodologías con criterios de cambio climático y gestión del riesgo de desastre en los sistemas nacionales de inversión pública (p.36)",
+        "Establecer equipos técnicos interinstitucionales que integren capacidades de agricultura, ambiente, finanzas, planificación y gestión de riesgos (p.37)",
+        "Incorporar tecnologías de agricultura climáticamente inteligente adaptadas al contexto local en las fases de diseño e implementación de proyectos (p.40)",
+        "Aplicar análisis de género en la planificación y la evaluación de los proyectos agropecuarios, estableciendo metas medibles de participación y beneficio para mujeres (p.50)",
+        "Promover programas de formación, crédito y acceso a tierra para personas jóvenes rurales (p.51)",
+        "Utilizar enfoques como el mapeo participativo de vulnerabilidad que integren conocimientos ancestrales y percepciones comunitarias en el análisis de riesgo (p.53)",
+        "Diseñar mecanismos de seguimiento de seguridad alimentaria y nutricional dentro de los sistemas de inversión pública (p.53)",
+        "Promover sistemas alimentarios territoriales que conecten producción local, mercados y consumidores (p.54)"
+      ],
+      "nota": "Las recomendaciones se organizan en seis ejes temáticos, cada uno con múltiples acciones específicas. El documento es un insumo técnico orientador, no una guía normativa."
+    },
+    "resumen_narrativo": "El estudio presenta criterios para fortalecer la sostenibilidad y resiliencia de las inversiones públicas agropecuarias ante el cambio climático en Centroamérica y la República Dominicana, una subregión donde la agricultura representa hasta el 17% del PIB pero enfrenta alta vulnerabilidad a desastres. Con base en la caracterización del sector y las perspectivas futuras, propone seis ejes temáticos de recomendaciones que abordan desde la planificación y gobernanza hasta la seguridad alimentaria y nutricional. El documento destaca que la inversión pública agropecuaria resiliente no solo protege activos, sino que protege derechos, medios de vida y futuros posibles."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "9-12",
+      "resumen": "Presenta el contexto global y regional de la producción agropecuaria: la región aporta el 14% de la producción y 23% de las exportaciones agrícolas mundiales, pero enfrenta inseguridad alimentaria que afectó a 13,8 millones de personas en Centroamérica en 2023. Plantea la necesidad de inversiones públicas resilientes ante la vulnerabilidad climática del sector y formula el objetivo del estudio: presentar consideraciones y estrategias para fortalecer la resiliencia de las inversiones agropecuarias.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "La inseguridad alimentaria grave afectó a 58,1 millones de personas en 2023; de ellas, 13,8 millones se encuentran en Centroamérica",
+          "pagina": 9
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Se estima que América Latina y el Caribe debe invertir 60.000 millones de dólares por año durante la siguiente década para alcanzar niveles similares de inversión agrícola de los países desarrollados",
+          "pagina": 10
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Desde una visión prospectiva se vuelve imprescindible incorporar la resiliencia como eje transversal al identificar, formular y evaluar los proyectos de inversión pública",
+          "pagina": 10
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Metodología y marco conceptual",
+      "nivel": 1,
+      "paginas": "11-16",
+      "resumen": "Describe el enfoque metodológico prospectivo basado en revisión de literatura y entrevistas con especialistas de la CEPAL. Define conceptos centrales: inversiones públicas, sistemas nacionales de inversión pública (SNIP), proyectos de inversión pública y su ciclo de vida. Establece la vinculación entre proyectos agropecuarios y cambio climático, destacando tres pilares clave: identificar riesgos, formular medidas de mitigación/adaptación y evaluar continuamente.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "Los sistemas nacionales de inversión pública desempeñan un papel clave en la estructuración de proyectos públicos resilientes al garantizar una planificación, formulación y ejecución eficiente y sostenible de las inversiones",
+          "pagina": 12
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Integrar la reducción de riesgo de desastres y la respuesta al cambio climático en todas las etapas del ciclo de los proyectos de inversión pública podría, además, maximizar los beneficios socioeconómicos y minimizar los daños y las pérdidas",
+          "pagina": 13
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Metodología",
+          "nivel": 2,
+          "paginas": "11-12",
+          "resumen": "El enfoque es de carácter prospectivo, orientado a anticipar posibles escenarios de riesgo y responder de manera estratégica desde la formulación de proyectos de inversión pública. Se revisó literatura académica, estudios y guías de organismos regionales y multilaterales. El trabajo se enfocó en los países del SICA: Belice, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panamá y la República Dominicana. Se consultaron planes económicos nacionales, políticas de desarrollo agropecuario, guías de inversión pública sectoriales y generales, presupuestos y memorias de labores de los ministerios de agricultura y ganadería. Además, se realizaron entrevistas con especialistas de la CEPAL en las áreas de desarrollo productivo, agua, recursos naturales y cambio climático.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Debido a sus similitudes en vulnerabilidad y exposición a los desastres y en la estructura de sus sectores agropecuarios, y considerando su proceso de integración en temas de desarrollo agropecuario, resiliencia y sostenibilidad ambiental, el trabajo se enfocó en los países que componen el Sistema de la Integración Centroamericana (SICA)",
+              "pagina": 11
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Marco conceptual",
+          "nivel": 2,
+          "paginas": "12-16",
+          "resumen": "Presenta conceptos y definiciones centrales: inversiones públicas, sistemas nacionales de inversión pública, proyectos de inversión pública y su ciclo de vida, y proyectos de inversión pública agropecuaria y cambio climático. Establece la vinculación entre proyectos agropecuarios y cambio climático, destacando tres pilares clave: identificar riesgos, formular medidas de mitigación/adaptación y evaluar continuamente.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Inversiones públicas",
+              "nivel": 3,
+              "paginas": "12",
+              "resumen": "Define la inversión pública como el gasto del Estado para crear, mejorar o rehabilitar bienes y servicios públicos con beneficios sociales, económicos y ambientales de largo plazo. Destaca su potencial para promover la sostenibilidad agropecuaria mediante mejoras en productividad, competitividad y conservación de recursos naturales.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "La inversión pública se define como el gasto realizado por el Estado para crear, mejorar o rehabilitar la producción de bienes públicos y la provisión de servicios públicos que generan beneficios sociales, económicos y ambientales de largo plazo",
+                  "pagina": 12
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Sistemas nacionales de inversión pública",
+              "nivel": 3,
+              "paginas": "12-13",
+              "resumen": "Describe los sistemas nacionales de inversión pública (SNIP) como conjunto de instituciones, normas, instrumentos y procedimientos para preparar, evaluar, priorizar, financiar, dar seguimiento y ejecutar proyectos. Menciona la Red SNIP como plataforma de intercambio de buenas prácticas entre 16 países con apoyo de CEPAL, BID y GIZ.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Proyectos de inversión pública",
+              "nivel": 3,
+              "paginas": "13-14",
+              "resumen": "Define los proyectos de inversión pública como iniciativas concretas para resolver problemas específicos mediante identificación, formulación, evaluación y ejecución de intervenciones estructuradas. Explica el ciclo del proyecto (identificación, formulación, evaluación ex ante, ejecución, evaluación ex post) y suImportancia de integrar la reducción de riesgo de desastres y la adaptación al cambio climático en todas las etapas.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Integrar la reducción de riesgo de desastres y la respuesta al cambio climático en todas las etapas del ciclo de los proyectos de inversión pública podría, además, maximizar los beneficios socioeconómicos y minimizar los daños y las pérdidas. Este enfoque asegura no solo la sobrevivencia de los proyectos y el bienestar de las personas usuarias, sino también su prosperidad ante un clima cambiante.",
+                  "pagina": 13
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Proyectos de inversión pública agropecuaria y cambio climático",
+              "nivel": 3,
+              "paginas": "15-17",
+              "resumen": "Clasifica los tipos de proyectos agropecuarios: infraestructura productiva, investigación y desarrollo, sistemas de riego, equipo para procesamiento, tecnologías climáticamente inteligentes, caminos/puertos/aduanas, esquemas de apoyo, sostenibilidad ambiental. Presenta ejemplos por objetivo del proyecto: seguridad alimentaria, conservación, exportaciones, reducción de pobreza, productividad, acceso a mercados, innovación. Destaca la vulnerabilidad climática y la necesidad de enfoque integrado de resiliencia con tres pilares: identificar riesgos, formular medidas, evaluar continuamente.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Un enfoque integrado de resiliencia en los proyectos de inversión pública agropecuaria garantiza que se ejecuten de manera eficiente y sean sostenibles y adaptables a largo plazo",
+                  "pagina": 16
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "II. El sector agropecuario en Centroamérica y la República Dominicana",
+      "nivel": 1,
+      "paginas": "11-29",
+      "resumen": "Caracteriza el sector agropecuario subregional: valor agregado que varía entre 2% y 17% del PIB (mayor en Nicaragua y Honduras), tendencia decreciente del empleo agropecuario desde 1995, pobreza rural persistente e inseguridad alimentaria. Describe aspectos de producción, rendimientos, irrigación, poblaciones vinculadas (mujeres, juventudes), impactos del cambio climático y desastres. Presenta datos sobre tormentas Eta, Iota y Julia que afectaron gravemente al sector entre 2020-2022.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "El valor agregado estimado de la agricultura, la silvicultura y la pesca como porcentaje del PIB a precios de 2015 varió en la subregión entre el 2% y el 17% en 2024",
+          "pagina": 19
+        },
+        {
+          "dimension": "tendencias",
+          "cita": "Desde 1995 ha habido una disminución gradual y constante en el empleo agropecuario como porcentaje del empleo total en Centroamérica y la República Dominicana",
+          "pagina": 19
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "La pobreza rural sigue siendo un fenómeno persistente que puede estar relacionado con trabajos informales, empleos precarios con bajos ingresos y muy baja productividad, y suele reflejar una exclusión estructural del desarrollo productivo",
+          "pagina": 20
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Producción",
+          "nivel": 2,
+          "paginas": "9-25",
+          "resumen": "Describe la producción agropecuaria subregional con heterogeneidad en capacidades productivas: Argentina, Brasil y México concentran el 76% del valor bruto regional. Los rendimientos de granos básicos muestran variabilidad entre 2015-2023. La presión por aumento de producción tiene vinculación con el medioambiente dado que la región posee el 23% de bosques, 31% de agua dulce y 50% de biodiversidad mundial.",
+          "dimensiones": [
+            {
+              "dimension": "oportunidades",
+              "cita": "La agricultura y la ganadería representan el 22% de las exportaciones de América Latina y el Caribe, el 5% del producto interno bruto (PIB) regional y generan el 15% del empleo",
+              "pagina": 9
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "1. Rendimientos",
+              "nivel": 3,
+              "paginas": "9",
+              "resumen": "Presenta datos de rendimientos de granos básicos y otros cultivos principales entre 2015-2019 y 2020-2023, con variabilidad significativa entre países. La mayoría de la producción mundial de soja, caña de azúcar, café, frutas tropicales, maíz y ganado vacuno proviene de América Latina y el Caribe. Menciona la importancia de mejorar la gestión hídrica y de suelos para aumentar la producción de manera sostenible.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "La mayoría de la producción mundial de soja, caña de azúcar, café, frutas tropicales, maíz y ganado vacuno proviene de América Latina y el Caribe",
+                  "pagina": 9
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Irrigación y uso de agua",
+              "nivel": 3,
+              "paginas": "10",
+              "resumen": "Aborda la gestión del recurso hídrico como clave para aumentar la producción de manera sostenible. La gestión del recurso hídrico y de los suelos será determinante para incrementar la productividad agropecuaria sin comprometer la sostenibilidad ambiental de la subregión.",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "La gestión del recurso hídrico y de los suelos serán clave para aumentar la producción de manera sostenible",
+                  "pagina": 10
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Poblaciones vinculadas con la agricultura y la ganadería",
+          "nivel": 2,
+          "paginas": "9-26",
+          "resumen": "Describe las poblaciones que dependen del sector agropecuario, incluyendo agricultura familiar que aporta entre 27% y 67% de la producción. Muchos productores de pequeña escala viven en pobreza debido a la poca tierra, recursos deteriorados y limitado acceso a bienes públicos. Aborda la participación de mujeres y juventudes en las actividades agropecuarias.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "El 81% de las explotaciones agropecuarias de la región pertenece a la agricultura familiar, que aporta entre el 27% y el 67% del total de la producción",
+              "pagina": 9
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "1. Participación de las mujeres en las actividades agropecuarias",
+              "nivel": 3,
+              "paginas": "10",
+              "resumen": "Menciona el rol de las mujeres en el sector agropecuario y la necesidad de considerar sus necesidades específicas en las inversiones públicas. Los efectos del cambio climático y los desastres afectan desproporcionadamente a mujeres, personas jóvenes, Pueblos Indígenas y comunidades vulnerables, por lo que las inversiones deben incorporar enfoques de género.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Los efectos del cambio climático y los desastres no se distribuyen de manera uniforme, sino que afectan desproporcionadamente a mujeres, personas jóvenes, Pueblos Indígenas y comunidades en situación de vulnerabilidad",
+                  "pagina": 10
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Juventudes",
+              "nivel": 3,
+              "paginas": "19",
+              "resumen": "Señala que las personas jóvenes están migrando o abandonando la actividad agropecuaria en parte debido a la pobreza y falta de oportunidades en zonas rurales. Este fenómeno de abandono juvenil afecta la continuidad productiva del sector y requiere políticas específicas de retención e inclusión.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Se observa que las personas jóvenes están migrando o abandonando la actividad en algunas regiones, en parte debido a la persistente pobreza y la falta de oportunidades en las zonas rurales",
+                  "pagina": 19
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Impactos y perspectivas ante el cambio climático",
+          "nivel": 2,
+          "paginas": "24-29",
+          "resumen": "Describe los impactos del cambio climático sobre el sector agropecuario: aumentos de costos de producción, afectación a la salud de plantas y animales, inestabilidad en rendimientos y volatilidad de precios internacionales. Menciona medidas de adaptación como siembra de cultivos resistentes, cambio de cultivos según perspectivas climáticas, producción en invernaderos, sistemas de alerta temprana y esquemas de aseguramiento agropecuario.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Los impactos del cambio climático aumentan los costos de producción, afectan la salud de las plantas y los animales, provocan inestabilidad en los rendimientos de los cultivos y la disponibilidad de los trabajadores",
+              "pagina": 28
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "También será importante mejorar la resiliencia del sector. Esto implica establecer medidas de adaptación al cambio climático, como siembra de cultivos resistentes, cambio de cultivos según las perspectivas climáticas o producción en invernaderos",
+              "pagina": 29
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Impactos de los desastres",
+          "nivel": 2,
+          "paginas": "25-26",
+          "resumen": "Presenta experiencias de evaluaciones de desastres en la subregión, incluyendo tormentas Eta, Iota y Julia. En Honduras, el 85,8% de los efectos en el sector productivo tras la tormenta Julia se relacionaron con actividades agropecuarias. En Guatemala, los efectos sobre el sector agropecuario constituyeron el 65% del total en el sector productivo.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "En Honduras, el 25% de los efectos de la tormenta Eta y el huracán Iota fueron en el sector agropecuario. Posteriormente, tras la tormenta Julia, el 85,8% de los efectos en el sector productivo y el 47,6% de los efectos totales se relacionaron con actividades agropecuarias",
+              "pagina": 26
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "La evolución temporal de los desastres en la subregión muestra un marcado crecimiento en la cantidad total de desastres registrados en la base de datos, impulsado sobre todo por un aumento en tormentas tropicales, huracanes e inundaciones",
+              "pagina": 26
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "III. El futuro del sector agropecuario",
+      "nivel": 1,
+      "paginas": "27-33",
+      "resumen": "Describe las tendencias globales relevantes para el sector: cambio climático, preferencias de consumo sostenible, cambios demográficos y urbanización. Presenta las perspectivas de la FAO y OCDE para 2033, incluyendo aumento de demanda, intensificación de emisiones y necesidad de mejorar resiliencia. Clasifica las inversiones futuras en dos tipos: entorno habilitador (infraestructura básica) y actividades agropecuarias (prácticas sostenibles, riego, innovación).",
+      "dimensiones": [
+        {
+          "dimension": "tendencias",
+          "cita": "De acuerdo con la FAO y la OCDE (2024) las perspectivas del sector agropecuario y pesquero para 2033 son: • Continuará la importancia de los países en desarrollo en la producción global y la satisfacción de la creciente demanda. • Aumentará la demanda de alimentos por el crecimiento demográfico y el aumento de los ingresos, especialmente en Asia. • Aumentará el consumo de alimentos de alto valor calórico, como carnes, grasas y granos básicos, por el aumento de los ingresos. • Disminuirá la intensidad de las emisiones de gases de efecto invernadero en el sector, pero las emisiones directas aumentarán al 5%. El aumento será del 3% en América Latina y el Caribe, que llegará a representar el 18% de las emisiones agropecuarias globales.",
+          "pagina": 27
+        },
+        {
+          "dimension": "oportunidades",
+          "cita": "Se recomienda fomentar inversiones públicas comprehensivas que contribuyan a objetivos nacionales o estratégicos, como la eliminación del hambre, la revitalización del sector agropecuario o la creación de oportunidades para las personas jóvenes",
+          "pagina": 31
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Implicaciones para las inversiones en la subregión",
+          "nivel": 2,
+          "paginas": "29-33",
+          "resumen": "Clasifica las inversiones necesarias en dos tipos complementarios: entorno habilitador (infraestructura básica de agua, salud, educación, carreteras) y actividades agropecuarias específicas (prácticas sostenibles, mejoramiento de riego, innovación). Destaca la necesidad de coordinación intersectorial y visión amplia de necesidades territoriales.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "La coordinación intersectorial de las inversiones permitiría maximizar su contribución al desarrollo rural",
+              "pagina": 31
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Las inversiones públicas en el sector agropecuario",
+      "nivel": 1,
+      "paginas": "33-57",
+      "resumen": "Presenta seis ejes temáticos de recomendaciones para incorporar criterios de resiliencia y sostenibilidad en las inversiones públicas agropecuarias. Los ejes son: planificación y gobernanza, ciclo de proyecto con enfoque de resiliencia, enfoques híbridos, mecanismos de apoyo, enfoque en poblaciones, y seguridad alimentaria y nutricional. Cada eje incluye objetivos y acciones específicas organizadas en subcategorías.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Las recomendaciones se organizan en torno a seis ejes temáticos que abordan distintas dimensiones de la protección y la resiliencia de la inversión pública agropecuaria (véase el diagrama 3). Esta división responde a la necesidad de ordenar de manera pedagógica y práctica los distintos componentes que deben considerarse al diseñar, implementar y evaluar los proyectos de inversión pública. A su vez, cada eje actúa como un clúster conceptual en el que se agrupan recomendaciones y herramientas técnicas vinculadas entre sí. Esta estructura también refleja la necesidad de un abordaje integral. Así, los ejes son transversales vertical y horizontalmente. Aunque se cubren temas prioritarios, los ejes seleccionados no constituyen un marco exhaustivo. Por el contrario, ofrecen una base flexible desde la cual actores institucionales, regionales e internacionales y los sistemas nacionales de inversión pública pueden seguir desarrollando innovaciones conceptuales y metodológicas para avanzar en una inversión pública agropecuaria más resiliente, inclusiva y efectiva.",
+          "pagina": 34
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Eje 1. Planificación y gobernanza",
+          "nivel": 2,
+          "paginas": "36-39",
+          "resumen": "Fortalece los entornos institucionales, normativos y de gobernanza para incorporar la reducción del riesgo de desastres y la respuesta al cambio climático en los proyectos de inversión pública agropecuaria.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Objetivo",
+              "nivel": 3,
+              "paginas": "36-37",
+              "resumen": "Fortalecer los entornos institucionales, normativos y de gobernanza para la incorporación sistemática de la reducción del riesgo de desastres y la respuesta al cambio climático en los proyectos de inversión pública agropecuaria. Reconoce el rol de los sistemas nacionales de inversión pública para crear condiciones favorables para la inversión resiliente.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Una gobernanza efectiva requiere de una coordinación funcional entre las distintas instituciones que integran los sistemas nacionales de inversión pública, incluyendo aquellas vinculadas a planificación, finanzas, agricultura, medio ambiente y gestión de riesgos. Esta articulación no solo debe facilitar el flujo de insumos técnicos y normativos desde los niveles centrales, sino también incorporar conocimientos y demandas provenientes de los territorios. La diversidad de actores y perspectivas garantiza la legitimidad y la pertinencia de las inversiones.",
+                  "pagina": 36
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Acciones",
+              "nivel": 3,
+              "paginas": "37-39",
+              "resumen": "Incluye sinergias con instrumentos de planificación, base normativa y presupuestaria, gobernanza y coordinación, y participación local. Acciones específicas: incluir obligación normativa de integrar gestión del riesgo, actualizar metodologías con criterios de cambio climático, ofrecer información desagregada de presupuestos, valorizar cobeneficios, establecer equipos técnicos interinstitucionales, canales formales de coordinación, modelos de gobernanza multinivel, estrategia de datos, participación activa de actores locales, conocimientos tradicionales, monitoreo participativo e incorporación de planes subnacionales.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Incluir en la normativa de inversión pública la obligación de integrar la gestión del riesgo de desastres y la respuesta al cambio climático en los proyectos agropecuarios de forma explícita. Esto otorga seguridad jurídica a los evaluadores y permite a los formuladores incorporar estos enfoques respaldados por instrumentos legales nacionales. Establecer estos mecanismos permite alinear el financiamiento con las prioridades de sostenibilidad y asegurar que las inversiones con beneficios resilientes no sean penalizadas frente a proyectos de corto plazo o sin enfoque preventivo (CEPAL, 2024a; Torres y Arenas, 2024). Además, al minimizar las pérdidas esperadas, se mejora el perfil de riesgo de los países y de los propios productores, lo que facilita el acceso a instrumentos financieros como reaseguros o financiamiento climático. Esta integración mejora también la predictibilidad presupuestaria del Estado en situaciones de emergencia y contribuye a la resiliencia fiscal del sistema de inversión pública.",
+                  "pagina": 38
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Establecer equipos técnicos interinstitucionales que integren capacidades de agricultura, ambiente, finanzas, planificación y gestión de riesgos. Estos espacios de trabajo conjuntos facilitan la coherencia entre marcos normativos y sectoriales, reducen duplicidades y promueven soluciones integrales (Orellana et al., 2024; CEPAL, 2023). Esta colaboración permitiría tener planes de inversión multisectoriales con enfoque territorial, más que listados de proyectos individuales.",
+                  "pagina": 38
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Eje 2. Ciclo de proyecto con enfoque de resiliencia",
+          "nivel": 2,
+          "paginas": "39-43",
+          "resumen": "Aborda el ciclo de vida de los proyectos de inversión pública en el sector agropecuario desde una perspectiva integral de reducción de riesgos y respuesta al cambio climático.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Objetivo",
+              "nivel": 3,
+              "paginas": "39-40",
+              "resumen": "Abordar el ciclo de vida de los proyectos desde una perspectiva integral de reducción de riesgos de desastres y respuesta al cambio climático. Las guías de proyectos de inversión pública cumple un rol clave en la estandarización y fortalecimiento técnico de todas las fases del ciclo.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Las acciones propuestas son congruentes con las herramientas nacionales y subregionales de planificación, permitiendo insertar la gestión del riesgo y la adaptación desde los lineamientos técnicos ya existentes y facilitando su adopción institucional.",
+                  "pagina": 39
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Acciones",
+              "nivel": 3,
+              "paginas": "39-43",
+              "resumen": "Incluye priorización territorial y climática (herramientas prospectivas, evitar zonas de alta exposición), priorización productiva y social (cadenas con alto impacto, infraestructura híbrida, personas migrantes), diseño e implementación (análisis de riesgos, herramientas participativas, flexibilidad adaptativa, sistemas de mantenimiento, análisis costo-beneficio, tecnologías climáticamente inteligentes), y evaluación y retroalimentación (monitoreo con indicadores de resiliencia, comparación con escenarios, documentación de buenas prácticas, análisis de sensibilidad, evaluaciones participativas).",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Incorporar tecnologías de agricultura climáticamente inteligente adaptadas al contexto local (Oyhantçabal y Rodríguez, 2022). Estas tecnologías incluyen prácticas y herramientas que mejoran la productividad agrícola de manera sostenible, aumentan la capacidad de adaptación de los sistemas productivos y contribuyen a mitigar las emisiones de gases de efecto invernadero. Entre ellas se encuentran el manejo eficiente del agua (riego por goteo o captación de agua de lluvia), la mejora de la fertilidad del suelo mediante abonos orgánicos, la diversificación de cultivos, los sistemas agroforestales, el uso de variedades resistentes al clima y la implementación de técnicas de conservación de suelos. Estas prácticas permiten reducir la vulnerabilidad frente a eventos extremos y asegurar una mayor calidad y estabilidad productiva a largo plazo.",
+                  "pagina": 42
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Diseñar con flexibilidad adaptativa para que el proyecto pueda ajustarse a condiciones cambiantes, incluyendo mecanismos de monitoreo continuo. Esto implica incorporar estructuras y procesos que permitan modificar el curso del proyecto en función de nuevos riesgos, aprendizajes durante la ejecución o variaciones en el contexto socioambiental. La flexibilidad adaptativa puede expresarse en presupuestos contingentes, cronogramas escalonados, indicadores revisables o marcos lógicos dinámicos.",
+                  "pagina": 41
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Eje 3. Enfoques híbridos",
+          "nivel": 2,
+          "paginas": "43-47",
+          "resumen": "Promueve la adopción de enfoques híbridos que combinen infraestructura gris con soluciones basadas en la naturaleza (SBN) para incrementar la resiliencia.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Objetivo",
+              "nivel": 3,
+              "paginas": "43-44",
+              "resumen": "Orientar la adopción de enfoques híbridos que combinen infraestructura gris o convencional con soluciones basadas en la naturaleza para incrementar la resiliencia de las inversiones públicas agropecuarias. Las SBN aprovechan funciones ecológicas para reducir vulnerabilidad y generar beneficios múltiples.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "La incorporación de SBN en la agricultura y la ganadería representa una oportunidad para avanzar hacia modelos de desarrollo más sostenibles y adaptativos. Las SBN permiten abordar riesgos climáticos desde una perspectiva prospectiva, anticipando escenarios de cambio, fortaleciendo la base ecológica de la producción agrícola y generando beneficios múltiples o cobeneficios. Integrarlas en los proyectos de inversión pública agropecuaria no es solo una cuestión técnica, sino una transformación institucional que requiere articulación de actores, integración de saberes y nuevas formas de pensar las infraestructuras. Las SBN no son sustitutas de las soluciones convencionales, sino complementos que enriquecen su alcance, reducen vulnerabilidades y promueven una agricultura más resiliente y sostenible (Meza y Rodríguez, 2021; Imbach, 2022).",
+                  "pagina": 43
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Acciones",
+              "nivel": 3,
+              "paginas": "44-47",
+              "resumen": "Incluye integración de soluciones basadas en la naturaleza (restauración de ecosistemas, conocimiento ancestral, I+D), infraestructura híbrida (combinación de soluciones grises y verdes, análisis costo-beneficio de largo plazo), articulación de políticas públicas (coordinación intersectorial, cofinanciamiento público-privado, plataformas regionales), y gestión del agua y soluciones azules (restauración de ecosistemas hídricos, almacenamiento de agua, gestión integrada de cuencas, inversiones en eficiencia hídrica).",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Promover la innovación y el desarrollo de soluciones basadas en la naturaleza para el sector agropecuario. Aparte de crear soluciones para problemas importantes del sector, la I+D agrega valor a la producción agropecuaria, promueve la creación de patentes y contribuye a sofisticar los servicios que ofrece el país.",
+                  "pagina": 45
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "D. Eje 4. Mecanismos de apoyo",
+          "nivel": 2,
+          "paginas": "47-51",
+          "resumen": "Aborda los vínculos intersectoriales que promueven la resiliencia de las inversiones públicas agropecuarias.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Objetivo",
+              "nivel": 3,
+              "paginas": "47-48",
+              "resumen": "Resaltar los vínculos intersectoriales que promueven la resiliencia: protección financiera ante eventos extremos, incorporación de CTI, y datos para políticas basadas en evidencia. La protección financiera es pilar estratégico de la reducción del riesgo de desastres.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "La protección financiera es un pilar estratégico de la reducción del riesgo de desastres y la adaptación al cambio climático. La protección financiera incluye mecanismos para transferir, distribuir o retener los riesgos. En las inversiones públicas, esto puede manifestarse en seguros a la infraestructura y medidas estructurales y no estructurales de protección del activo.",
+                  "pagina": 47
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Acciones",
+              "nivel": 3,
+              "paginas": "48-51",
+              "resumen": "Incluye protección financiera (alianzas con reaseguradoras, productos crediticios adaptados, seguros con cobertura ampliada), ciencia, tecnología e innovación (inversión en C&T, investigación aplicada, plataformas de intercambio, institutos meteorológicos), y datos (capacidades institucionales, interoperabilidad, datos geoespaciales, escenarios prospectivos).",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Establecer alianzas estratégicas con reaseguradoras, promover marcos legales adecuados y diseñar productos de seguro como bienes públicos, especialmente en territorios con alta exposición climática. Estas alianzas permiten transferir parte del riesgo al mercado internacional, reduciendo la carga fiscal para los gobiernos en caso de desastres y ofreciendo mayor estabilidad financiera en el largo plazo. Además, un entorno legal propicio y el diseño de productos accesibles y adaptados a diferentes escalas productivas incrementan la sostenibilidad financiera del sistema, garantizan su viabilidad operativa en eventos extremos sucesivos y permiten una mayor cobertura de riesgos sistémicos que afectan a amplios territorios o a múltiples sectores simultáneamente.",
+                  "pagina": 49
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "E. Eje 5. Enfoque en poblaciones",
+          "nivel": 2,
+          "paginas": "51-55",
+          "resumen": "Atiende las necesidades específicas de mujeres, juventudes rurales y Pueblos Indígenas en las inversiones agropecuarias.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Objetivo principal",
+              "nivel": 3,
+              "paginas": "51-52",
+              "resumen": "Abordar de forma transversal las condiciones específicas de las poblaciones rurales más vulnerables: mujeres, juventudes y Pueblos Indígenas, reconociendo sus intersecciones y promoviendo la equidad y la seguridad alimentaria.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Mujeres dedicadas a las actividades agropecuarias. Herramientas como el análisis de impacto diferencial por sexo facilitan la identificación de riesgos específicos y necesidades no cubiertas, promoviendo medidas correctivas que incrementen la equidad en las intervenciones públicas.",
+                  "pagina": 52
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Acciones",
+              "nivel": 3,
+              "paginas": "51-55",
+              "resumen": "En género: análisis de diferenciación por sexo, metas medibles de participación y beneficio, capacitación en enfoques de género, indicadores diferenciados. En juventudes: ejes de juventud rural en diseño de proyectos, programas de formación/crédito/acceso a tierra, mecanismos de seguimiento del gasto público, redes de innovación juveniles. En Pueblos Indígenas: mapeo participativo de vulnerabilidad, valoración de conocimientos tradicionales, reconocimiento de centros de investigación territorializados.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Aplicar análisis de género en la planificación y la evaluación de los proyectos. Establecer metas medibles de participación y beneficio para mujeres, así como indicadores de impacto diferenciados por sexo.",
+                  "pagina": 51
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Promover programas de formación, crédito y acceso a tierra para personas jóvenes rurales. Estos componentes son esenciales para habilitar su inserción productiva y social, y para revertir procesos de exclusión estructural que alimentan la migración, el abandono de las actividades agropecuarias y la precarización en zonas rurales. El acceso a la tierra y al financiamiento es particularmente crítico, ya que suele restringirse por falta de garantías, de titularidad legal o por marcos institucionales que priorizan a actores más consolidados.",
+                  "pagina": 52
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "F. Eje 6. Seguridad alimentaria y nutricional",
+          "nivel": 2,
+          "paginas": "54-57",
+          "resumen": "Incorpora objetivos de seguridad alimentaria y nutricional en el diseño de proyectos de inversión agropecuaria.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Objetivo principal",
+              "nivel": 3,
+              "paginas": "54",
+              "resumen": "Incorporar objetivos de seguridad alimentaria y nutricional en el diseño y la formulación de los proyectos de inversión pública, priorizando intervenciones en zonas con alta prevalencia de inseguridad alimentaria.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Incorporar objetivos de seguridad alimentaria y nutricional en el diseño y la formulación de los proyectos.",
+                  "pagina": 54
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Acciones",
+              "nivel": 3,
+              "paginas": "54-57",
+              "resumen": "Incluye enfoque de seguridad alimentaria (incorporar objetivos en diseño, mecanismos de seguimiento, priorizar zonas con alta inseguridad alimentaria, vincular con estrategias nacionales, compras públicas), producción resiliente de alimentos (prácticas agropecuarias sostenibles, producción local de alimentos básicos, criterios de resiliencia en cadenas de valor), y articulación con la agenda agropecuaria (coordinación interinstitucional, sistemas alimentarios territoriales).",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Promover sistemas alimentarios territoriales que conecten producción local, mercados y consumidores. Estos sistemas integran actores locales, valorizan saberes tradicionales y fortalecen la economía rural, reduciendo la dependencia de mercados lejanos y vulnerables. Al favorecer la producción y comercialización de alimentos dentro del mismo territorio, disminuye la exposición a interrupciones logísticas, fluctuaciones de precios internacionales y barreras externas de acceso. Esta relocalización de los sistemas alimentarios mejora la soberanía alimentaria, dinamiza la economía local y permite una mayor estabilidad en el abastecimiento de alimentos durante crisis externas, fortaleciendo la resiliencia comunitaria.",
+                  "pagina": 56
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "V. Reflexiones finales",
+      "nivel": 1,
+      "paginas": "57-58",
+      "resumen": "Sintetiza los criterios propuestos y destaca el papel central de los datos y las capacidades institucionales. Reafirma que las inversiones públicas agropecuarias van más allá de infraestructuras tradicionales y deben tener un enfoque de seguridad alimentaria y gestión sostenible del entorno. Señala líneas de trabajo futuras: validación en campo, herramientas de monitoreo y profundización en mecanismos de trabajo con actores territoriales.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Un aspecto transversal de todos los ejes propuestos es el papel central de los datos y las capacidades institucionales. La recopilación, el almacenamiento, la visualización y el uso adecuado de datos actualizados, desagregados por territorio, género, edad y condición social, así como datos georreferenciados, meteorológicos y de escenarios climáticos, son fundamentales para orientar decisiones públicas que sean pertinentes y equitativas, así como prospectivas.",
+          "pagina": 57
+        },
+        {
+          "dimension": "desafios",
+          "cita": "Asimismo, la implementación de estas recomendaciones requiere fortalecer las capacidades técnicas, operativas, políticas y prospectivas. Estas capacidades son fundamentales para diversas dimensiones de la gestión pública. En cuanto a los datos, por ejemplo, las habilidades técnicas permiten su generación, mantenimiento, actualización y evaluación continua, asegurando decisiones basadas en evidencia robusta y actualizada. En el ámbito operativo y político, estas habilidades son esenciales para diseñar y operar modelos de gobernanza coordinados y adaptativos, que integren la participación de múltiples actores e instituciones, fomentando legitimidad y eficiencia. En el componente prospectivo, estas habilidades permiten anticipar riesgos, preparar respuestas frente a futuros escenarios de desastre o cambio climático, e identificar oportunidades para mitigar impactos, adaptar estructuras institucionales y generar beneficios múltiples a partir de las inversiones actuales.",
+          "pagina": 57
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento propone un marco de seis ejes temáticos con recomendaciones específicas para fortalecer la resiliencia de las inversiones públicas agropecuarias, incluyendo inversiones en soluciones basadas en la naturaleza, infraestructura híbrida y agricultura climáticamente inteligente. Sin embargo, no propone un paquete coordinado de inversiones a escala de modelo de desarrollo con sectores estratégicos nombrados tipo Big Push Ambiental. Las recomendaciones son sectoriales (agropecuario) y no constituyen un paquete simultáneo de transformación productiva.",
+      "citas": [
+        {
+          "cita": "Las recomendaciones se organizan en torno a seis ejes temáticos que abordan distintas dimensiones de la protección y la resiliencia de la inversión pública agropecuaria (véase el diagrama 3). Esta división responde a la necesidad de ordenar de manera pedagógica y práctica los distintos componentes que deben considerarse al diseñar, implementar y evaluar los proyectos de inversión pública.",
+          "pagina": 34
+        },
+        {
+          "cita": "Fomentar inversiones que combinen infraestructura tradicional con soluciones basadas en la naturaleza, particularmente en ecosistemas degradados. La consideración de estas soluciones en fases tempranas del proyecto es clave para abrir espacio a su análisis de viabilidad, aceptación comunitaria y posterior integración metodológica y presupuestal.",
+          "pagina": 41
+        }
+      ],
+      "nota": "El documento es de naturaleza técnica y orientadora, no una propuesta de transformación productiva a escala de modelo de desarrollo. Las recomendaciones son aplicables al sector agropecuario y no constituyen un paquete coordinado de inversión multisectorial."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El documento nombra mecanismos específicos de coordinación multiactor dentro del ámbito de aplicación (Centroamérica y República Dominicana): la Red de los Sistemas Nacionales de Inversión Pública (Red SNIP) como plataforma de intercambio de buenas prácticas, y los equipos técnicos interinstitucionales que integran capacidades de agricultura, ambiente, finanzas, planificación y gestión de riesgos. También menciona comités intersectoriales, plataformas de planificación conjunta y mesas técnicas como mecanismos de coordinación.",
+      "citas": [
+        {
+          "cita": "La Red de los Sistemas Nacionales de Inversión Pública de América Latina y el Caribe (Red SNIP). Con el apoyo de la CEPAL, el Banco Interamericano de Desarrollo (BID) y la Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ), la Red SNIP ha demostrado ser una plataforma efectiva para el intercambio de buenas prácticas y la cooperación multilateral",
+          "pagina": 13
+        },
+        {
+          "cita": "Establecer equipos técnicos interinstitucionales que integren capacidades de agricultura, ambiente, finanzas, planificación y gestión de riesgos. Estos espacios de trabajo conjuntos facilitan la coherencia entre marcos normativos y sectoriales, reducen duplicidades y promueven soluciones integrales (Orellana et al., 2024; CEPAL, 2023). Esta colaboración permitiría tener planes de inversión multisectoriales con enfoque territorial, más que listados de proyectos individuales.",
+          "pagina": 38
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento enumera actividades y sectores concretos donde ve oportunidades: producción resiliente de alimentos, sistemas agroforestales, agroecología, manejo eficiente del agua, mercados territoriales, circuitos cortos de comercialización, agregación de valor en origen, y transformación productiva. Sin embargo, el vínculo con empleo, productividad o reducción de la desigualdad no está suficientemente desarrollado — aparece como mención implícita o pasajes breves sin desarrollo explícito del mecanismo de generación de empleo o reducción de brechas.",
+      "citas": [
+        {
+          "cita": "Fomentar prácticas agropecuarias sostenibles que incrementen la disponibilidad de alimentos. Promover técnicas como la agroecología, la diversificación productiva, los sistemas agroforestales y el manejo eficiente del agua para mantener la producción aún en condiciones adversas, contribuyendo directamente a la seguridad alimentaria. Estas prácticas fortalecen la resiliencia de los agroecosistemas al mejorar la salud del suelo, conservar la biodiversidad, reducir la dependencia de insumos externos y facilitar la adaptación a escenarios climáticos variables. Asimismo, permiten mantener una oferta alimentaria más estable a lo largo del tiempo, reducir pérdidas por estrés hídrico o plagas, y promover una producción más cercana y pertinente a las necesidades alimentarias del territorio.",
+          "pagina": 55
+        },
+        {
+          "cita": "Promover sistemas alimentarios territoriales que conecten producción local, mercados y consumidores. Estos sistemas integran actores locales, valorizan saberes tradicionales y fortalecen la economía rural, reduciendo la dependencia de mercados lejanos y vulnerables. Al favorecer la producción y comercialización de alimentos dentro del mismo territorio, disminuye la exposición a interrupciones logísticas, fluctuaciones de precios internacionales y barreras externas de acceso. Esta relocalización de los sistemas alimentarios mejora la soberanía alimentaria, dinamiza la economía local y permite una mayor estabilidad en el abastecimiento de alimentos durante crisis externas, fortaleciendo la resiliencia comunitaria.",
+          "pagina": 56
+        }
+      ],
+      "nota": "El documento enumera sectores/actividades concretas pero no desarrolla suficientemente el vínculo explícito con empleo, productividad o reducción de la desigualdad."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "El documento presenta una lista estructurada de recomendaciones organizadas en seis ejes temáticos, cada uno con múltiples acciones específicas. Las acciones incluyen verbo de acción + objeto específico identificable. Se desglosan las acciones de cada eje, verificando que cada una tiene un instrumento, entregable o mecanismo concreto. Por ejemplo: 'Incluir en la normativa de inversión pública la obligación de integrar la gestión del riesgo de desastres', 'Actualizar metodologías con criterios de cambio climático', 'Establecer equipos técnicos interinstitucionales', 'Incorporar tecnologías de agricultura climáticamente inteligente', 'Aplicar análisis de género en la planificación', 'Diseñar mecanismos de seguimiento de seguridad alimentaria'.",
+      "citas": [
+        {
+          "cita": "Incluir en la normativa de inversión pública la obligación de integrar la gestión del riesgo de desastres y la respuesta al cambio climático en los proyectos agropecuarios de forma explícita. Esto otorga seguridad jurídica a los evaluadores y permite a los formuladores incorporar estos enfoques respaldados por instrumentos legales nacionales. Establecer estos mecanismos permite alinear el financiamiento con las prioridades de sostenibilidad y asegurar que las inversiones con beneficios resilientes no sean penalizadas frente a proyectos de corto plazo o sin enfoque preventivo (CEPAL, 2024a; Torres y Arenas, 2024). Además, al minimizar las pérdidas esperadas, se mejora el perfil de riesgo de los países y de los propios productores, lo que facilita el acceso a instrumentos financieros como reaseguros o financiamiento climático. Esta integración mejora también la predictibilidad presupuestaria del Estado en situaciones de emergencia y contribuye a la resiliencia fiscal del sistema de inversión pública.",
+          "pagina": 38
+        },
+        {
+          "cita": "Actualizar metodologías con criterios de cambio climático y gestión del riesgo de desastre.",
+          "pagina": 37
+        },
+        {
+          "cita": "Incorporar tecnologías de agricultura climáticamente inteligente adaptadas al contexto local (Oyhantçabal y Rodríguez, 2022). Estas tecnologías incluyen prácticas y herramientas que mejoran la productividad agrícola de manera sostenible, aumentan la capacidad de adaptación de los sistemas productivos y contribuyen a mitigar las emisiones de gases de efecto invernadero. Entre ellas se encuentran el manejo eficiente del agua (riego por goteo o captación de agua de lluvia), la mejora de la fertilidad del suelo mediante abonos orgánicos, la diversificación de cultivos, los sistemas agroforestales, el uso de variedades resistentes al clima y la implementación de técnicas de conservación de suelos. Estas prácticas permiten reducir la vulnerabilidad frente a eventos extremos y asegurar una mayor calidad y estabilidad productiva a largo plazo.",
+          "pagina": 42
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Incluir en la normativa de inversión pública la obligación de integrar la gestión del riesgo de desastres y la respuesta al cambio climático en los proyectos agropecuarios",
+          "clasificacion": "CONCRETO",
+          "pagina": 38
+        },
+        {
+          "item": "Actualizar metodologías con criterios de cambio climático y gestión del riesgo de desastre",
+          "clasificacion": "CONCRETO",
+          "pagina": 38
+        },
+        {
+          "item": "Ofrecer información desagregada de los presupuestos públicos agropecuarios",
+          "clasificacion": "CONCRETO",
+          "pagina": 38
+        },
+        {
+          "item": "Valorizar los cobeneficios ambientales, sociales y económicos de los proyectos en los criterios de priorización",
+          "clasificacion": "CONCRETO",
+          "pagina": 38
+        },
+        {
+          "item": "Establecer equipos técnicos interinstitucionales que integren capacidades de agricultura, ambiente, finanzas, planificación y gestión de riesgos",
+          "clasificacion": "CONCRETO",
+          "pagina": 39
+        },
+        {
+          "item": "Establecer canales formales de coordinación entre instituciones rectoras del SNIP y los servicios meteorológicos, ambientales y de ordenamiento territorial",
+          "clasificacion": "CONCRETO",
+          "pagina": 39
+        },
+        {
+          "item": "Promover modelos de gobernanza que permitan coordinación efectiva entre niveles de gobierno y entre sectores",
+          "clasificacion": "GENERICO",
+          "pagina": 39
+        },
+        {
+          "item": "Elaborar una estrategia de datos para el sector agropecuario",
+          "clasificacion": "CONCRETO",
+          "pagina": 39
+        },
+        {
+          "item": "Garantizar la participación activa de actores locales en la identificación de necesidades y diseño de medidas",
+          "clasificacion": "GENERICO",
+          "pagina": 39
+        },
+        {
+          "item": "Integrar conocimientos tradicionales y comunitarios en los diagnósticos de riesgo",
+          "clasificacion": "CONCRETO",
+          "pagina": 39
+        },
+        {
+          "item": "Diseñar mecanismos de monitoreo participativo y retroalimentación territorial",
+          "clasificacion": "CONCRETO",
+          "pagina": 39
+        },
+        {
+          "item": "Incorporar planes y estrategias subnacionales de gestión de riesgo en la formulación de proyectos",
+          "clasificacion": "CONCRETO",
+          "pagina": 39
+        },
+        {
+          "item": "Aplicar herramientas prospectivas para anticipar evolución de riesgos climáticos en el tiempo",
+          "clasificacion": "CONCRETO",
+          "pagina": 41
+        },
+        {
+          "item": "Evitar zonas de alta exposición cuando no existan medidas viables de mitigación",
+          "clasificacion": "CONCRETO",
+          "pagina": 41
+        },
+        {
+          "item": "Priorizar cadenas productivas con alto impacto para productores de pequeña escala, mujeres rurales, personas jóvenes y Pueblos Indígenas",
+          "clasificacion": "CONCRETO",
+          "pagina": 41
+        },
+        {
+          "item": "Fomentar inversiones que combinen infraestructura tradicional con soluciones basadas en la naturaleza",
+          "clasificacion": "CONCRETO",
+          "pagina": 41
+        },
+        {
+          "item": "Reconocer la participación de personas migrantes en la producción agropecuaria",
+          "clasificacion": "GENERICO",
+          "pagina": 41
+        },
+        {
+          "item": "Incluir análisis de riesgos actuales y futuros desde la fase de identificación del proyecto",
+          "clasificacion": "CONCRETO",
+          "pagina": 42
+        },
+        {
+          "item": "Complementar el diagnóstico con herramientas participativas que incorporen percepciones locales de vulnerabilidad",
+          "clasificacion": "CONCRETO",
+          "pagina": 42
+        },
+        {
+          "item": "Diseñar con flexibilidad adaptativa para ajustarse a condiciones cambiantes",
+          "clasificacion": "CONCRETO",
+          "pagina": 42
+        },
+        {
+          "item": "Establecer sistemas de mantenimiento rutinario, planes de contingencia y protocolos de continuidad operativa",
+          "clasificacion": "CONCRETO",
+          "pagina": 42
+        },
+        {
+          "item": "Valorar la relación costo-beneficio de medidas preventivas y calcular costos de reposición desde la formulación",
+          "clasificacion": "CONCRETO",
+          "pagina": 42
+        },
+        {
+          "item": "Incorporar tecnologías de agricultura climáticamente inteligente adaptadas al contexto local",
+          "clasificacion": "CONCRETO",
+          "pagina": 42
+        },
+        {
+          "item": "Establecer mecanismos de monitoreo y evaluación con indicadores específicos de resiliencia",
+          "clasificacion": "CONCRETO",
+          "pagina": 42
+        },
+        {
+          "item": "Comparar desempeño real con escenarios climáticos utilizados en la planificación",
+          "clasificacion": "CONCRETO",
+          "pagina": 42
+        },
+        {
+          "item": "Documentar buenas prácticas, errores y aprendizajes e integrarlos en nuevos ciclos",
+          "clasificacion": "CONCRETO",
+          "pagina": 42
+        },
+        {
+          "item": "Aplicar análisis de género en la planificación y evaluación de proyectos",
+          "clasificacion": "CONCRETO",
+          "pagina": 52
+        },
+        {
+          "item": "Establecer metas medibles de participación y beneficio para mujeres",
+          "clasificacion": "CONCRETO",
+          "pagina": 52
+        },
+        {
+          "item": "Capacitar a equipos técnicos en enfoques de género y justicia climática",
+          "clasificacion": "CONCRETO",
+          "pagina": 52
+        },
+        {
+          "item": "Diseñar indicadores de impacto diferenciados por sexo",
+          "clasificacion": "CONCRETO",
+          "pagina": 52
+        },
+        {
+          "item": "Incluir ejes de juventud rural en el diseño de proyectos de inversión agropecuaria",
+          "clasificacion": "CONCRETO",
+          "pagina": 53
+        },
+        {
+          "item": "Promover programas de formación, crédito y acceso a tierra para personas jóvenes rurales",
+          "clasificacion": "CONCRETO",
+          "pagina": 53
+        },
+        {
+          "item": "Establecer mecanismos de seguimiento y publicidad del gasto público dirigido a juventudes",
+          "clasificacion": "CONCRETO",
+          "pagina": 53
+        },
+        {
+          "item": "Apoyar redes de innovación lideradas por personas jóvenes en actividades agropecuarias",
+          "clasificacion": "CONCRETO",
+          "pagina": 53
+        },
+        {
+          "item": "Utilizar enfoques como el mapeo participativo de vulnerabilidad",
+          "clasificacion": "CONCRETO",
+          "pagina": 55
+        },
+        {
+          "item": "Valorar los conocimientos tradicionales como fuentes válidas de conocimiento adaptativo",
+          "clasificacion": "CONCRETO",
+          "pagina": 55
+        },
+        {
+          "item": "Reconocer el rol estratégico de centros de investigación territorializados",
+          "clasificacion": "CONCRETO",
+          "pagina": 55
+        },
+        {
+          "item": "Incorporar objetivos de seguridad alimentaria y nutricional en el diseño de proyectos",
+          "clasificacion": "CONCRETO",
+          "pagina": 55
+        },
+        {
+          "item": "Diseñar mecanismos de seguimiento de seguridad alimentaria y nutricional en sistemas de inversión pública",
+          "clasificacion": "CONCRETO",
+          "pagina": 55
+        },
+        {
+          "item": "Priorizar intervenciones en zonas con alta prevalencia de inseguridad alimentaria",
+          "clasificacion": "CONCRETO",
+          "pagina": 55
+        },
+        {
+          "item": "Vincular proyectos con estrategias nacionales y regionales de seguridad alimentaria",
+          "clasificacion": "CONCRETO",
+          "pagina": 55
+        },
+        {
+          "item": "Utilizar las compras públicas como mecanismo para promover adquisición de productos locales",
+          "clasificacion": "CONCRETO",
+          "pagina": 55
+        },
+        {
+          "item": "Fomentar prácticas agropecuarias sostenibles que incrementen disponibilidad de alimentos",
+          "clasificacion": "CONCRETO",
+          "pagina": 55
+        },
+        {
+          "item": "Apoyar proyectos que promuevan producción local de alimentos básicos",
+          "clasificacion": "CONCRETO",
+          "pagina": 55
+        },
+        {
+          "item": "Integrar criterios de resiliencia en proyectos de cadenas de valor agropecuarias",
+          "clasificacion": "CONCRETO",
+          "pagina": 55
+        },
+        {
+          "item": "Fortalecer articulación entre inversión agropecuaria, metas de seguridad alimentaria y protección social",
+          "clasificacion": "CONCRETO",
+          "pagina": 56
+        },
+        {
+          "item": "Promover sistemas alimentarios territoriales que conecten producción local, mercados y consumidores",
+          "clasificacion": "CONCRETO",
+          "pagina": 56
+        },
+        {
+          "item": "Aprovechar las compras públicas en el cumplimiento de metas de sistemas alimentarios",
+          "clasificacion": "CONCRETO",
+          "pagina": 56
+        }
+      ],
+      "tally": "45 de 48 ítems pasan el test de concreción",
+      "nota": "La mayoría de las acciones tienen verbo de acción + objeto específico identificable. Solo 2 ítems son genéricos por falta de instrumento o entregable concreto."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento aborda la contradicción entre la importancia estratégica del sector agropecuario para la economía, el empleo y la seguridad alimentaria de Centroamérica y la República Dominicana, y la creciente vulnerabilidad de este sector ante el cambio climático y los desastres, agravada por una inversión pública históricamente reactiva y con pocos lineamientos de resiliencia. La tensión se resuelve proponiendo un marco de criterios para orientar la inversión pública hacia la resiliencia prospectiva, transformando la lógica reactiva en una anticipatoria.",
+      "filtro_categoria_primaria": "El objeto del documento es la arquitectura institucional de la inversión pública: cómo fortalecer los sistemas nacionales de inversión pública (SNIP), los ciclos de proyecto, la gobernanza, las capacidades técnicas/operativas/políticas/prospectivas y la coordinación interinstitucional para incorporar criterios de resiliencia. El clima/ambiente es la restricción sobre la que se gobierna la inversión pública. Esto corresponde a #11 Capacidades del Estado como primaria.",
+      "secundaria_obligatoria": "La sostenibilidad ambiental (#6) funciona como el ámbito de aplicación que define la finalidad de las capacidades: los criterios de resiliencia climática, las soluciones basadas en la naturaleza, la agricultura climáticamente inteligente y la reducción del riesgo de desastres son los ejes que orientan la transformación de las capacidades estatales de inversión pública. #6 habilita el contenido específico de las recomendaciones sin ser el objeto central.",
+      "justificacion_anti_copia": "El documento se estructura como un insumo técnico que propone criterios prácticos para fortalecer la resiliencia de los proyectos de inversión pública desde las necesidades de la agricultura y la ganadería. No es una guía normativa sino un marco orientador. Sus recomendaciones se organizan en seis ejes temáticos (planificación y gobernanza, ciclo de proyecto, enfoques híbridos, mecanismos de apoyo, enfoque en poblaciones, seguridad alimentaria) que actúan como clústeres conceptuales. El documento nombra específicamente los sistemas nacionales de inversión pública (SNIP), la Red SNIP, el proyecto RIDASICC del COSEFIN/SICA, y las capacidades técnicas, operativas, políticas y prospectivas como componentes centrales de la transformación propuesta.",
+      "validacion_anclas": "Se compara con el ancla doc8 (Reflexiones sobre la gestión del agua), que también es #11/#6: en ambos casos, la arquitectura institucional (sistemas de inversión pública / gestión hídrica) es el objeto, y lo ambiental/climático define el ámbito. La diferencia relevante es que doc82547 se enfoca en el ciclo de inversión pública como instrumento de transformación, mientras que doc8 se enfoca en la gobernanza del recurso hídrico. Ambos comparten la primacia de capacidades estatales con lente ambiental."
+    },
+    "tipo_documento_climatico": "Documento de proyecto o estudio técnico",
+    "nivel_aplicacion": "Subregional (Centroamérica y República Dominicana, países del SICA)",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

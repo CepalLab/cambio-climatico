@@ -1,0 +1,291 @@
+{
+  "documento": {
+    "num_muestra": 79,
+    "titulo": "El impuesto óptimo a la gasolina en Guatemala",
+    "autoria": "Arturo Sarabia | Fausto Hernández",
+    "handle": "https://hdl.handle.net/11362/44210",
+    "simbolo": "LC/TS.2018/65",
+    "isbn": null,
+    "fecha": "2018-06",
+    "tipo_documento": "Documento de proyecto",
+    "paginas_cuerpo": 36,
+    "paginas_totales": 43,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cuál es el nivel de impuesto óptimo a la gasolina en Guatemala necesario para internalizar las externalidades negativas ambientales y viales, y cómo debe implementarse para mitigar sus efectos económicos y sociales?",
+    "alcance": {
+      "ambito_aplicacion": "Guatemala",
+      "referentes_dependencias": "México, Estados Unidos, Reino Unido",
+      "sectorial": "Fiscal, Energía, Transporte",
+      "temporal": "2010-2016"
+    },
+    "hallazgos_principales": [
+      "El impuesto óptimo para Guatemala se estima en 27.5 centavos de dólar por litro, lo que implicaría un incremento de 11.4 centavos respecto al impuesto vigente de 16.1 centavos (p. 8).",
+      "El componente Pigouviano (internalización de externalidades) constituye el 88% del impuesto óptimo calculado (p. 31).",
+      "La congestión y los accidentes viales representan el 70% del costo marginal externo, superando a la contaminación atmosférica local y global (p. 31).",
+      "El impuesto a la gasolina en Guatemala es bajo en comparación internacional, con una tasa del 28% frente al promedio mundial del 116% (p. 13)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El impuesto actual a la gasolina en Guatemala es insuficiente para cubrir los costos sociales que genera el uso del automóvil (contaminación, congestión y accidentes).",
+        "Un aumento moderado del gravamen es económicamente eficiente y robusto ante variaciones en los parámetros de calibración.",
+        "La implementación de impuestos verdes debe ser parte de una estrategia integral que considere la economía política y los efectos en la distribución del ingreso."
+      ],
+      "recomendaciones": [
+        "Incrementar el impuesto a la gasolina hacia el nivel óptimo de 27.5 centavos de dólar por litro.",
+        "Etiquetar y utilizar parte de la recaudación para subsidiar y modernizar el transporte público, compensando así el impacto en los deciles de menores ingresos.",
+        "Coordinar con el Banco Central para asegurar que el impacto inflacionario del alza de precios sea temporal y no afecte las expectativas de largo plazo.",
+        "Explorar el reciclaje de los ingresos fiscales para fortalecer los sistemas de protección social."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "Este estudio estima un impuesto óptimo de 27.5 centavos de dólar por litro para Guatemala mediante la metodología de Parry y Small, lo que representa un aumento de 11.4 centavos sobre el nivel vigente. El análisis revela que la congestión y los accidentes son los mayores costos externos, superando el daño por emisiones de gases de efecto invernadero. Para viabilizar la reforma, se propone una estrategia integral que utilice la recaudación para modernizar el transporte público y fortalecer la protección social, mitigando los efectos regresivos indirectos y asegurando la estabilidad macroeconómica."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "9-11",
+      "resumen": "La sección presenta la necesidad de internalizar las externalidades negativas ambientales mediante políticas impositivas verdes, citando ejemplos internacionales. Plantea el objetivo de calcular el impuesto óptimo para Guatemala utilizando un modelo que considera contaminación, congestión y accidentes, y destaca que la implementación debe ser parte de una estrategia integral que incluya transporte eficiente y estabilidad monetaria.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Uno de los elementos que han considerado y adoptado es aquél de intentar internalizar las externalidades --negativas-- ambientales por medio de una política impositiva “verde” o ambiental.",
+          "pagina": 9
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "la fijación e implantación de un impuesto a la gasolina es uno de los retos más complejos en los países en desarrollo, como es el caso de la mayor parte de los países de América Latina.",
+          "pagina": 9
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Breve repaso de teoría impositiva “verde”",
+      "nivel": 1,
+      "paginas": "11-12",
+      "resumen": "Revisa los fundamentos económicos de los impuestos Pigouvianos, diseñados para igualar el daño social marginal de una actividad. Explica que, ante la complejidad de gravar directamente emisiones o congestión, el impuesto a la gasolina funciona como un sustituto de segundo óptimo (second-best) que reduce emisiones, tráfico y accidentes, además de generar ingresos tributarios de fácil administración.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "En el caso de la circulación de los Automóviles por las ciudades y carreteras, existen dos problemas. Primero, su circulación genera contaminación atmosférica; y, segundo, su circulación provoca congestión que acarrea pérdida de horas-hombre productivas para un país.",
+          "pagina": 11
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "el impuesto sobre la gasolina desincentiva el recorrido y provee incentivos para reducir el kilometraje",
+          "pagina": 11
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "II. El consumo de gasolina en Guatemala",
+      "nivel": 1,
+      "paginas": "13-16",
+      "resumen": "Describe el mercado de gasolinas en Guatemala, país importador neto con un parque vehicular de 3.38 millones de unidades, concentrado en la capital. Detalla el marco legal del impuesto a los derivados del petróleo (Decreto 38-92), el cual permite etiquetar la recaudación para municipalidades e infraestructura vial, y señala que la tasa impositiva guatemalteca (28%) es significativamente menor al promedio internacional.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Guatemala es una nación importadora neta de gasolinas, y su consumo se ha mantenido relativamente estable durante los últimos dos años.",
+          "pagina": 13
+        },
+        {
+          "dimension": "avances_implementacion",
+          "cita": "lo recaudado por concepto del impuesto será asignado presupuestariamente a municipalidades (10 centavos de quetzal por galón para la municipalidad de Guatemala, y 20 centavos de quetzal por galón al resto de los municipios) para destinarse a servicios de transporte y obras de infraestructura vial.",
+          "pagina": 14
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "III. Experiencia mexicana: algunas lecciones",
+      "nivel": 1,
+      "paginas": "17-20",
+      "resumen": "Analiza la transición de México desde un sistema de precios administrados y subsidios hacia la liberalización con un impuesto fijo. Destaca que la reforma no fue regresiva directamente debido a la concentración del consumo en deciles medios y altos, pero advierte sobre el descontento social generado por la falta de mecanismos de compensación y la necesidad de usar la recaudación para mejorar el transporte público y la política social.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "En 2016, el gobierno mexicano introdujo un impuesto a la gasolina de 3.52 y 4.16 pesos por litro.5 Como se observa en el gráfico 1, esta cantidad representó alrededor de 44% del precio de la gasolina en 2017.",
+          "pagina": 17
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "la introducción o un aumento en el impuesto a la gasolina podrían venir acompañado de programas para incentivar el uso de transporte urbano.",
+          "pagina": 20
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "el impuesto es progresivo, debido a que la mayor parte de la población de deciles medios y bajos no posee automóvil. La afectación para esos sectores de la población provendría más bien de un aumento en los precios del transporte urbano.",
+          "pagina": 19
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "IV. El modelo",
+      "nivel": 1,
+      "paginas": "21-24",
+      "resumen": "Presenta el marco analítico de Parry y Small para determinar el impuesto óptimo, integrando una función de utilidad que descuenta el tiempo de manejo, la contaminación y los accidentes. La fórmula descompone el impuesto en tres componentes: el Pigouviano ajustado (costos externos), el de Ramsey (efficiency fiscal basada en elasticidades) y el efecto de la congestión sobre la oferta laboral, permitiendo una interpretación intuitiva de cada factor.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "Los ingresos del agente representativo provienen exclusivamente del trabajo que ofrece al mercado.",
+          "pagina": 22
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "V. Calibración",
+      "nivel": 1,
+      "paginas": "25-31",
+      "resumen": "Detalla la parametrización del modelo para la realidad guatemalteca, calculando una eficiencia de combustible inicial de 7.37 km/litro tras ajustar por la edad del parque vehicular (10.24 años). Estima costos marginales por congestión (3.6 centavos/km) y accidentes (2.1 centavos/km) utilizando datos de la Policía Nacional y el valor estadístico de la vida, y fija la elasticidad precio de la gasolina en -0.5 para el escenario central.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "la edad promedio del parque vehicular de Guatemala es de 10.24 años. El INE en México ha estimado que un vehículo pierde 30% de su eficiencia después de nueve años.",
+          "pagina": 26
+        },
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Siguiendo un procedimiento similar, la estimación final se reduce a 3.6 centavos de dólar/km.",
+          "pagina": 28
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "VI. Resultados",
+      "nivel": 1,
+      "paginas": "33-35",
+      "resumen": "Establece el impuesto óptimo en 27.5 centavos de dólar por litro, impulsado principalmente por el componente Pigouviano (internalización de congestión y accidentes). El análisis de bienestar indica que la tasa óptima generaría una ganancia del 0.4% sobre el gasto en gasolina, y las pruebas de sensibilidad confirman que el nivel óptimo se mantiene robusto entre 16 y 40 centavos/litro bajo diversas variaciones de parámetros.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "el impuesto óptimo se estima en 27.5 centavos de dólar por litro. Debido a que actualmente se cobra un impuesto de 16.1 centavos/litro, esto significa un incremento adicional de 11.4 centavos/litro respecto al impuesto vigente.",
+          "pagina": 33
+        },
+        {
+          "dimension": "tendencias",
+          "cita": "el análisis de sensibilidad sugiere que el nivel de impuesto en vigor probablemente se encuentra por debajo de su nivel óptimo.",
+          "pagina": 35
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "VII. Discusión y comentarios generales",
+      "nivel": 1,
+      "paginas": "37-38",
+      "resumen": "Concluye reafirmando la conveniencia de elevar el impuesto a la gasolina en Guatemala para corregir externalidades de salud y tráfico. Advierte que la viabilidad política de la reforma depende de atender los efectos de segundo orden sobre el transporte público, sugiriendo el uso de la recaudación para subsidiar servicios eficientes y reciclar ingresos hacia la protección social, evitando así impactos regresivos en los sectores vulnerables.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "debe considerarse que parte del ingreso derivado del impuesto debe utilizarse para subsidiar el transporte público y/o ofrecer un transporte público moderno y eficiente.",
+          "pagina": 38
+        },
+        {
+          "dimension": "desafios",
+          "cita": "dicho incremento es normalmente seguido de un aumento en el precio del transporte público, el cual impacta fundamentalmente a los deciles medios y bajos.",
+          "pagina": 38
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento propone un instrumento fiscal específico (impuesto a la gasolina) para internalizar externalidades negativas como las emisiones de GEI y la congestión. Sin embargo, no plantea un paquete coordinado de inversiones masivas ni se enfoca en sectores estratégicos industriales para la transformación del modelo de desarrollo, limitándose a una reforma tributaria sectorial.",
+      "citas": [
+        {
+          "cita": "Este impuesto a las gasolinas debe, sin embargo, considerar la economía política de su instrumentación, como lo muestra la experiencia reciente mexicana.",
+          "pagina": 38
+        }
+      ],
+      "nota": "La propuesta es una política de segundo óptimo fiscal, no un plan de inversión a gran escala del 'Big Push'."
+    },
+    "articulacion_actores": {
+      "veredicto": "No",
+      "evidencia": "El texto menciona la necesidad de coordinación con el Banco Central para el manejo inflacionario (p. 36) y la asignación presupuestaria a municipalidades (p. 12), pero no propone ni describe un mecanismo, plataforma o institución de articulación multiactor con nombre propio para la implementación de la política en el ámbito de aplicación.",
+      "citas": [
+        {
+          "cita": "las acciones del banco central deben garantizar que dicho impacto sea de una sola vez y que, al mismo tiempo, no contamine las expectativas de inflación de los agentes.",
+          "pagina": 8
+        }
+      ],
+      "nota": "Se identifica coordinación técnica interinstitucional, pero no un mecanismo de articulación multiactor."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "Menciona el potencial de utilizar la recaudación para financiar 'transporte urbano de calidad para disminuir el uso del automóvil' (p. 13) y 'obras de infraestructura vial' (p. 12), lo cual se vincula con la modernización de servicios. No obstante, no enumera sectores productivos o actividades económicas concretas ni desarrolla su vínculo con la creación de empleo o productividad de forma detallada.",
+      "citas": [
+        {
+          "cita": "la recaudación puede utilizarse para construir una nueva infraestructura vial favorable al transporte público, entre otras cosas.",
+          "pagina": 15
+        }
+      ],
+      "nota": "El vínculo con oportunidades productivas es periférico al objetivo fiscal del documento."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "La sección de discusión de cierre (VII) presenta una mezcla de orientaciones generales y propuestas instrumentales. De 4 recomendaciones principales, 2 identifican instrumentos específicos (subsidios al transporte y reciclaje para protección social), mientras que las otras 2 son orientaciones normativas sobre el Banco Central y la atención de efectos colaterales.",
+      "citas": [
+        {
+          "cita": "debe considerarse que parte del ingreso derivado del impuesto debe utilizarse para subsidiar el transporte público y/o ofrecer un transporte público moderno y eficiente.",
+          "pagina": 38
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Atender los potenciales efectos colaterales de un aumento en el precio a las gasolinas sobre la distribución del ingreso.",
+          "clasificacion": "GENERICO",
+          "pagina": 38
+        },
+        {
+          "item": "Utilizar parte del ingreso derivado del impuesto para subsidiar el transporte público y/o generar un transporte público moderno y eficiente.",
+          "clasificacion": "CONCRETO",
+          "pagina": 38
+        },
+        {
+          "item": "Reciclar los impuestos ambientales para mejorar los sistemas de protección social.",
+          "clasificacion": "CONCRETO",
+          "pagina": 38
+        },
+        {
+          "item": "Garantizar que el impacto inflacionario sea de una sola vez mediante acciones del banco central.",
+          "clasificacion": "GENERICO",
+          "pagina": 38
+        }
+      ],
+      "tally": "2 de 4 ítems pasan el test de concreción",
+      "nota": null
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 10,
+      "nombre": "Macroeconomía y fiscalidad",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento aborda la discrepancia entre el costo privado del consumo de combustibles y sus elevados costos sociales externos (emisiones, congestión, accidentes). Busca resolver esta falla de mercado mediante una reforma fiscal calibrada técnicamente.",
+      "filtro_categoria_primaria": "El objeto principal es el diseño, cálculo y calibración de un instrumento tributario (impuesto óptimo). Aunque el fin sea ambiental, el método y la estructura del documento son eminentemente de política fiscal y macroeconómica.",
+      "secundaria_obligatoria": "La sostenibilidad ambiental es la finalidad de la intervención fiscal, orientada a internalizar externalidades de cambio climático y contaminación local, además de promover la eficiencia en el transporte.",
+      "justificacion_anti_copia": "Utiliza la metodología de Parry y Small (2005) para estimar un impuesto óptimo de 27.5 centavos de dólar/litro para Guatemala, analizando elasticidades de demanda y calibrando el parque vehicular local de 3.38 millones de unidades.",
+      "validacion_anclas": "Se alinea con el ancla de Doc17 (Estudio Económico) donde lo fiscal/financiero estructura la propuesta de transición; a diferencia de Doc18, donde el objeto es la transición misma y lo fiscal es solo un medio."
+    },
+    "tipo_documento_climatico": "Documento de proyecto / Estudio técnico",
+    "nivel_aplicacion": "Nacional",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

@@ -1,0 +1,782 @@
+{
+  "documento": {
+    "num_muestra": 43725,
+    "titulo": "La economía del cambio climático en Guatemala • Documento técnico 2018",
+    "autoria": null,
+    "handle": "https://hdl.handle.net/11362/43725",
+    "simbolo": "LC/MEX/TS.2018/13",
+    "isbn": null,
+    "fecha": "2018",
+    "tipo_documento": "Documento técnico",
+    "paginas_cuerpo": 254,
+    "paginas_totales": 272,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cuáles son los impactos económicos proyectados del cambio climático en los sectores clave de Guatemala y qué estrategias institucionales y financieras se requieren para mitigar estos riesgos y fomentar la resiliencia?",
+    "alcance": {
+      "ambito_aplicacion": "Guatemala",
+      "referentes_dependencias": "IPCC, SICA, CARICOM",
+      "sectorial": "Multisectorial (Agua, Energía, Agricultura, Salud, Ecosistemas)",
+      "temporal": "Proyecciones a 2100"
+    },
+    "hallazgos_principales": [
+      "Pérdida neta de 613,000 hectáreas de bosque y reducción del 37% en los acervos de carbono para 2100 bajo tendencia actual (p. 50-51).",
+      "Aumento de temperatura media anual de hasta 4,9°C y reducción de precipitación del 28,1% en escenario A2 para finales de siglo (p. 65, 81).",
+      "Caída de la disponibilidad de agua de 12,197 m3/hab a 1,469 m3/hab en 2100, superando niveles críticos de estrés hídrico (p. 114).",
+      "Reducción de la capacidad de generación de la hidroeléctrica Chixoy en un 83% para el año 2100 en el escenario A2 (p. 129).",
+      "El rendimiento nacional promedio del maíz podría disminuir hasta un 22,43% para finales de siglo bajo el escenario A2 (p. 141).",
+      "Pérdida de biodiversidad potencial del 74,51% para final de siglo en el escenario A2, afectando la resiliencia productiva (p. 199).",
+      "El costo acumulado del cambio climático en Guatemala alcanzaría un máximo del 63,6% del PIB de 2008 a valor presente neto para 2100 (p. 250).",
+      "La demanda energética crece más rápido que el PIB (3,6% vs 3,5%), alejando al país de un modelo de desarrollo sostenible (p. 54)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El cambio climático es el mayor fracaso del mercado y un pasivo público contingente que amenaza la seguridad humana en Guatemala (p. 251, 254).",
+        "Se proyectan reducciones críticas en la disponibilidad de agua (88%) y en los rendimientos agrícolas, especialmente en granos básicos y café (p. 114, 141, 173).",
+        "Los costos económicos de la inacción climática podrían superar el 63% del PIB de 2008 hacia finales de siglo (p. 250)."
+      ],
+      "recomendaciones": [
+        "Adoptar instrumentos de aseguramiento agropecuario basados en índices climáticos para micros y pequeños productores (p. 252).",
+        "Recuperar y rehabilitar tierras degradadas mediante tecnologías apropiadas y manejo sostenible (p. 252).",
+        "Aumentar las áreas naturales protegidas y corredores biológicos para conservar la biodiversidad (p. 252).",
+        "Mejorar la gestión forestal y el control de incendios para proteger los sumideros de carbono (p. 252).",
+        "Incrementar la generación de energía limpia y mejorar el aprovechamiento de desechos (p. 253).",
+        "Fortalecer la coordinación intersectorial a través del Consejo Nacional de Cambio Climático (p. 255)."
+      ],
+      "nota": "Las recomendaciones enfatizan la necesidad de una gestión integral y transversal, anclada en la Ley Marco y el PANCC."
+    },
+    "resumen_narrativo": "Este documento técnico analiza exhaustivamente la vulnerabilidad de Guatemala ante el cambio climático, proyectando impactos severos en recursos hídricos, agricultura y biodiversidad hacia el año 2100. Utiliza escenarios de emisiones para cuantificar las pérdidas económicas potenciales, estimando que la inacción climática representa una carga fiscal masiva para el Estado. Propone una agenda de adaptación centrada en el ordenamiento territorial, la diversificación energética y mecanismos financieros innovadores como los seguros indexados, subrayando que la sostenibilidad ambiental es precondición para el desarrollo económico y la reducción de la pobreza."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "39-41",
+      "resumen": "Presenta el contexto de vulnerabilidad de Guatemala ante eventos hidrometeorológicos extremos y el cambio climático. Destaca los marcos institucionales como la Ley Marco de Cambio Climático de 2013 y el Plan de Acción Nacional de Cambio Climático de 2016. Define los compromisos internacionales de reducción de emisiones (11.2% incondicional y 22.6% condicionado) bajo el Acuerdo de París. El documento sistematiza los resultados de la iniciativa ECC CA para Guatemala, cubriendo escenarios de referencia, impactos sectoriales, biodiversidad, salud y costos económicos, con el fin de informar la política pública y la acción climática nacional.",
+      "dimensiones": [
+        {
+          "dimension": "avances_implementacion",
+          "cita": "el Gobierno de la República de Guatemala estableció su Ley Marco de Cambio Climático en 2013, que delinea acciones y responsabilidades de diversos actores y sectores",
+          "pagina": 39
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Escenarios de referencia",
+      "nivel": 1,
+      "paginas": "42-58",
+      "resumen": "Establece las bases demográficas y económicas para las proyecciones a largo plazo hasta 2100. Analiza la trayectoria del PIB real, proyectando un crecimiento anual de entre 2.67% y 3.78%. En el ámbito demográfico, prevé que la población alcance un máximo de 27 millones de habitantes hacia 2083 antes de iniciar un descenso. Describe el cambio de uso de tierra (CUT), proyectando que la superficie agropecuaria superará a la forestal hacia 2027. También examina la demanda energética, señalando que su crecimiento supera al del PIB, lo que plantea desafíos significativos para un modelo de desarrollo sostenible y bajo en emisiones.",
+      "dimensiones": [
+        {
+          "dimension": "tendencias",
+          "cita": "La trayectoria del PIB real de Guatemala ha reportado una tendencia creciente en las últimas décadas",
+          "pagina": 42
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Escenarios macroeconómicos",
+          "nivel": 2,
+          "paginas": "42-45",
+          "resumen": "Proyecta el crecimiento económico de Guatemala utilizando modelos econométricos de cointegración. Define escenarios base, bajo y alto, estimando tasas de variación del PIB de 3.18%, 2.67% y 3.78% respectivamente. Estos escenarios consideran la volatilidad histórica de los precios de alimentos y energía, así como la actividad estable del sector financiero.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Escenarios demográficos",
+          "nivel": 2,
+          "paginas": "45-47",
+          "resumen": "Analiza la transición demográfica de Guatemala basándose en datos del CELADE. Reporta un descenso en la tasa de fecundidad y un progresivo envejecimiento poblacional. Estima que la población alcanzará un pico máximo de 27 millones en 2083 antes de iniciar un descenso hacia los 26.3 millones a finales de siglo. Examina el cambio en la relación de dependencia demográfica.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Escenarios del PIB por habitante",
+          "nivel": 2,
+          "paginas": "47-49",
+          "resumen": "Estudia la evolución del PIB por habitante a precios constantes de 2010. Proyecta un crecimiento sostenido que podría pasar de 3,168 dólares en 2016 a 6,282 dólares en 2050, alcanzando los 26,354 dólares hacia 2100. Destaca que la reducción del crecimiento poblacional después de 2080 favorecerá mayores tasas de crecimiento del PIB per cápita.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "Hacia 2050 se podría generar un PIB por habitante de 6.282 dólares y llegar a 26.354 dólares en 2100",
+              "pagina": 48
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Escenarios de cambio de uso de tierra",
+          "nivel": 2,
+          "paginas": "49-52",
+          "resumen": "Utiliza el modelo CLUE-S para simular la dinámica del suelo hasta 2100. Proyecta una expansión masiva de la superficie agropecuaria, que superaría a la forestal hacia 2027. Estima una reducción neta de 613,000 hectáreas de bosque y una caída del 37% en los acervos de carbono forestal bajo la tendencia actual, afectando la capacidad de mitigación natural del país.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "ejercicio de simulación indica que la superficie de suelo agropecuario crecería de manera importante, ya que para 2027 superaría la superficie de bosque",
+              "pagina": 50
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "habría una disminución que podría llegar hasta los 439.050.000 t, es decir, una reducción del 37% para 2100",
+              "pagina": 51
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Escenarios de consumo de energía",
+          "nivel": 2,
+          "paginas": "53-58",
+          "resumen": "Analiza la matriz energética nacional, caracterizada por un alto consumo de leña (66%) y dependencia de hidrocarburos importados. Reporta que la demanda energética crece a una tasa anual del 3.6%, superando el crecimiento del PIB (3.5%). Advierte que esta trayectoria de consumo no es compatible con un modelo de desarrollo sostenible y exige una diversificación hacia fuentes renovables.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "El crecimiento de la demanda energética es mayor que el crecimiento del PIB",
+              "pagina": 54
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "II. Escenarios climáticos",
+      "nivel": 1,
+      "paginas": "59-108",
+      "resumen": "Analiza las proyecciones de temperatura y precipitación para Guatemala basadas en escenarios de emisiones del IPCC. Documenta un calentamiento histórico de 0.66°C y proyecta aumentos de hasta 4.9°C para finales de siglo en el escenario A2. Prevé reducciones significativas de la precipitación (hasta 28.1%) y cambios en los patrones intraanuales, como la expansión de la canícula y el retraso en el inicio del invierno. El capítulo utiliza modelos de circulación general (ensamble de HadCM3, GFDL y ECHAM) y escalas departamentales para identificar las regiones de mayor riesgo, destacando el aumento generalizado de la aridez y la extensión de los meses secos en el Altiplano y el Pacífico.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Temperatura",
+          "nivel": 2,
+          "paginas": "62-76",
+          "resumen": "Documenta un calentamiento histórico observado y proyecta incrementos térmicos hacia 2100 que oscilan entre 2,9°C y 4,9°C según los escenarios B2 y A2. El análisis espacial revela que las regiones del Atlántico y el Pacífico mantendrán las temperaturas más elevadas, mientras que el Altiplano Occidental experimentará los mayores incrementos relativos, alterando los nichos ecológicos y la productividad agrícola. Las proyecciones sugieren una transformación radical de la aptitud climática para el desarrollo humano, donde el aumento de las temperaturas mínimas nocturnas impactará severamente en la floración de cultivos sensibles como el café, obligando a una reubicación de los sistemas productivos hacia cotas más elevadas para mantener la viabilidad biológica de las especies. El calentamiento exacerbado actuará como un estresor térmico continuo sobre la biodiversidad y la salud pública, limitando las horas de trabajo al aire libre en las zonas costeras y aumentando el consumo de energía para enfriamiento en los centros urbanos en expansión.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "el incremento podría llegar a 2,9 °C y a 4,9 °C, respectivamente.",
+              "pagina": 65
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B: Precipitación",
+          "nivel": 2,
+          "paginas": "77-89",
+          "resumen": "Analiza la tendencia histórica a la baja en la pluviosidad, con reducciones proyectadas de hasta el 28.1% para finales de siglo en el escenario A2. Advierte sobre cambios profundos en los patrones intraanuales, incluyendo una disminución crítica en febrero y julio, lo que indica un cambio del patrón de lluvia interanual. Destaca que la variabilidad pluvial impactará la recarga de acuíferos y la disponibilidad de agua para cultivos de secano de los que depende la seguridad alimentaria rural. La alteración del ciclo hidrológico implica un desafío para la gestión del agua, donde la alternancia entre déficits hídricos extremos y avenidas torrenciales mermará la capacidad de regulación de las cuencas y aumentará los costos de mantenimiento de la infraestructura.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "Para final de siglo la precipitación disminuiría casi todos los meses, en particular en febrero y julio con ‒68% y ‒63%, respectivamente",
+              "pagina": 81
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Variabilidad climática y eventos extremos",
+          "nivel": 2,
+          "paginas": "90-94",
+          "resumen": "Estudia el incremento en la frecuencia e intensidad de tormentas, inundaciones y sequías. Reporta que Guatemala ocupa el onceavo lugar mundial en vulnerabilidad ante eventos extremos según German Watch. Detalla que entre 1931 y 2015 ocurrieron 61 desastres hidrometeorológicos, con una aceleración marcada desde la década de 2000, lo que genera altos costos económicos y pérdidas humanas.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Guatemala ocupó el onceavo lugar en el período 1997-2016, lo que lo coloca en una situación de alta vulnerabilidad",
+              "pagina": 90
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "En el país ocurrieron 61 eventos extremos por fenómenos hidrometeorológicos entre los años 1931 y 2015",
+              "pagina": 92
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Aridez y meses secos",
+          "nivel": 2,
+          "paginas": "95-108",
+          "resumen": "Estudia el aumento de la aridez y la extensión de los períodos de sequía, especialmente en el 'corredor seco'. Proyecta que el Altiplano Occidental será la región con mayor impacto en su índice de aridez, con reducciones de hasta el 35.5% para finales de siglo. Define los meses secos y propone recomendaciones para la protección de ecosistemas, manejo de cuencas y ordenamiento territorial basado en la vulnerabilidad hídrica departamental. El capítulo enfatiza la necesidad de tecnificar el riego y mejorar la infiltración en las zonas de recarga hídrica prioritarias para asegurar el abastecimiento de largo plazo ante el avance del calentamiento global y la pérdida de humedad de los suelos agrícolas en las zonas más vulnerables del país. El estudio concluye que la sostenibilidad de la agricultura de secano en Guatemala está en riesgo inminente, lo que exige una transición urgente hacia sistemas de producción más resilientes y menos dependientes de la precipitación directa.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "IA medio de 1,45, es decir, se considera región húmeda. El departamento con menor aridez es Quetzaltenango",
+              "pagina": 95
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "La región cuyos índices futuros serían más impactados es el Altiplano Occidental con 1,55 y 1,26 para 2100 en B2 y A2, equivalentes al 21,1% y al 35,5% respectivamente",
+              "pagina": 100
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Proteger los ecosistemas naturales y su biodiversidad: bosques, sistemas montañosos y fluviales, costas del Caribe",
+              "pagina": 107
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "III. Impactos potenciales en recursos hídricos e hidroelectricidad",
+      "nivel": 1,
+      "paginas": "109-134",
+      "resumen": "Evalúa la disponibilidad hídrica futura y sus efectos en la generación de energía. Proyecta una caída del 88% en la disponibilidad de agua renovable por habitante para 2100, superando niveles críticos de estrés hídrico. En el sector hidroeléctrico, utiliza el caso de la planta Chixoy para modelar reducciones de generación de hasta el 83% hacia finales de siglo en el escenario A2. Destaca que la combinación de menor precipitación y mayor evapotranspiración, sumada al crecimiento demográfico, compromete la seguridad hídrica y energética del país, requiriendo una transición hacia una matriz eléctrica más diversificada y resiliente.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Expandir los planes de generación eléctrica por fuentes renovables como la solar y la eólica        para diversificar la oferta futura.",
+          "pagina": 121
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Recursos hídricos",
+          "nivel": 2,
+          "paginas": "109-124",
+          "resumen": "Detalla la situación hídrica actual, señalando que aunque Guatemala cuenta con una disponibilidad de 12,197 m3/hab/año, existe una alta variabilidad estacional y espacial. Proyecta una reducción drástica de la disponibilidad debido a la combinación de menor oferta climática y mayor demanda, especialmente del sector agrícola que actualmente consume el 77% del total. El índice de intensidad de uso del agua pasaría del 3% actual a niveles críticos del 251% en el escenario A2. Destaca la vulnerabilidad de las 13 cuencas transfronterizas y propone una gestión integral basada en 'ciclos cerrados' que incluyan protección de fuentes, tratamiento de aguas residuales y tecnologías de ahorro en el riego. El análisis advierte que la competencia intersectorial por el agua se intensificará, lo que podría derivar en conflictos sociales si no se establecen marcos de gobernanza y priorización del consumo humano efectivos, especialmente en las cuencas compartidas donde la cooperación regional será precondición para la estabilidad hídrica.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Guatemala es el país de Centroamérica con más cuencas transfronterizas, 13",
+              "pagina": 110
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "DISPONIBILIDAD TOTAL DE AGUA RENOVABLE,                           ESCENARIOS BASE, B2 Y A2, 2000-2100                               (En millones de metros cúbicos por año con prome",
+              "pagina": 114
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Hidroelectricidad",
+          "nivel": 2,
+          "paginas": "125-134",
+          "resumen": "Utiliza la planta hidroeléctrica Chixoy como caso de estudio emblemático para modelar los impactos en el sector energético. Simula caudales de entrada y producción de energía bajo escenarios de calentamiento, estimando pérdidas de generación que van desde el 26% (B2) hasta un crítico 83% (A2) hacia finales de siglo. Identifica que la sedimentación acelerada de los embalses, agravada por eventos extremos de precipitación y erosión, actúa como un multiplicador de la vulnerabilidad no climática. Recomienda el ajuste de los diseños de ingeniería para las futuras represas considerando caudales ecológicos.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "La cuenca del río Chixoy fue simulada estableciendo la mejor relación entre precipitación y altitud",
+              "pagina": 127
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Impactos potenciales en agricultura: granos básicos y café, seguridad alimentaria y aseguramiento",
+      "nivel": 1,
+      "paginas": "135-196",
+      "resumen": "Analiza exhaustivamente la vulnerabilidad del sector agropecuario, pilar de la economía y la seguridad alimentaria nacional. Proyecta reducciones severas en los rendimientos de los principales cultivos: maíz (-22.4%), frijol (-17.1%), arroz (-42.1%) y café (-36.1%) para finales de siglo en el escenario A2. El capítulo propone la implementación de seguros indexados contra sequías, el fortalecimiento de la innovación tecnológica y la diversificación productiva como estrategias clave para mitigar los impactos en los medios de vida rurales y combatir la desnutrición crónica.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Panorama del sector agrícola",
+          "nivel": 2,
+          "paginas": "135-137",
+          "resumen": "Contextualiza la importancia del sector, que aporta el 13.5% del PIB y genera el 31% del empleo nacional. Describe los programas vigentes del MAGA para el fomento de la productividad y la resiliencia climática. Identifica las barreras estructurales, como la falta de crédito y la alta dependencia de la agricultura de secano, que exacerban la vulnerabilidad de los pequeños productores ante la variabilidad del clima.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "En su Plan Operativo Anual 2012, el Ministerio de Agricultura, Ganadería y Alimentación de  Guatemala (MAGA) estableció los siguientes programas para el sector agropecuario (MAGA, 2012a):     •   Polí",
+              "pagina": 137
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Maíz",
+          "nivel": 2,
+          "paginas": "138-146",
+          "resumen": "Analiza el cultivo más importante por superficie y valor cultural. Reporta un incremento histórico en la producción pero con rendimientos estancados. Proyecta caídas nacionales promedio de hasta el 22.4% en 2100, con impactos críticos en la costa sur. Advierte que la inviabilidad productiva en las tierras bajas desplazará la frontera agrícola hacia zonas montañosas, amenazando ecosistemas forestales y aumentando los costos de producción. El impacto en el maíz trasciende lo económico, afectando el tejido social y la soberanía alimentaria de las comunidades indígenas que dependen de este grano milenario para su subsistencia diaria, lo que exige políticas de protección específicas.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "superficie cosechada y de la producción de maíz en el período 1980-2015.",
+              "pagina": 138
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "Para finales de siglo, el rendimiento nacional promedio del maíz podría disminuir un 7,42% en B2 y un 22,43% en A2.",
+              "pagina": 141
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Frijol",
+          "nivel": 2,
+          "paginas": "147-155",
+          "resumen": "Analiza el frijol como pilar de la dieta nacional, reportando un crecimiento histórico impulsado por la expansión de la frontera agrícola. Proyecta impactos climáticos contrastantes según la altitud: mientras se prevén reducciones drásticas de rendimiento de hasta el 81% en zonas bajas como Suchitepéquez e Izabal, algunas áreas del altiplano podrían registrar ganancias marginales por el aumento térmico. Sin embargo, el balance nacional es negativo hacia finales de siglo, lo que compromete la seguridad alimentaria de las familias rurales de subsistencia.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "superficie cosechada tuvo una tasa de crecimiento promedio del 3,9%, y un crecimiento del 290%.",
+              "pagina": 147
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Arroz",
+          "nivel": 2,
+          "paginas": "156-165",
+          "resumen": "Describe la situación del arroz, marcado por una producción declinante y una dependencia de importaciones que alcanza el 79% del consumo nacional. Proyecta las caídas de rendimiento más severas de todo el sector agrícola guatemalteco, con pérdidas que superan el 70% en departamentos estratégicos como Escuintla y El Petén bajo el escenario A2 para finales de siglo. El documento concluye que la inviabilidad productiva en las zonas costeras, tradicionalmente arroceras, obligará a una reconfiguración total del mercado nacional y exacerbará la vulnerabilidad nutricional de la población urbana más pobre. El análisis destaca que el arroz es el cultivo con la mayor caída proyectada porcentualmente, lo que sugiere un riesgo inminente de desaparición de este rubro en amplias zonas del país si no se introducen variedades resistentes a la sequía y al calor extremo de forma inmediata.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "La producción de arroz promedio anual de Guatemala en el período 2001-2009 fue de 24.857 t (véase el cuadro IV.5).",
+              "pagina": 156
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "A diferencia de las proyecciones de rendimientos al alza del maíz y el frijol, las del arroz disminuyen en casi todos los departamentos desde el primer corte hasta 2100.",
+              "pagina": 157
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Café",
+          "nivel": 2,
+          "paginas": "166-180",
+          "resumen": "Examina la importancia socioeconómica del café, señalando su extrema sensibilidad a las variaciones de la temperatura nocturna y a la proliferación de plagas. Reporta que Guatemala ya sufrió una reducción del 17% en su producción exportadora tras la epidemia de roya de 2012-2013. Proyecta una reducción nacional del 36.1% en los rendimientos promedio para 2100, con impactos considerados 'catastróficos' en departamentos de baja altitud como El Petén y Escuintla, donde la producción podría volverse inviable. Destaca la necesidad de migrar los cultivos hacia mayores altitudes y adoptar variedades resistentes, además de promover nichos de mercado diferenciados para compensar la pérdida de volumen productivo. La fragilidad del sector cafetalero ante el calentamiento global pone en riesgo la generación de divisas y el empleo estacional de miles de familias jornaleras, evidenciando la necesidad de una transformación tecnológica y financiera del sector que integre seguros climáticos y diversificación de ingresos.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Guatemala redujo en 17% su producción exportadora después de la epidemia de roya de 2012-        2013 (FEWSNET, RUTA y PROMECAFE, 2014).",
+              "pagina": 166
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "La participación más elevada del valor de la producción del café fue en 1986 con el 5,3% del PIB nacional",
+              "pagina": 166
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "F. Seguridad alimentaria y nutricional",
+          "nivel": 2,
+          "paginas": "181-184",
+          "resumen": "Vincula el impacto agrícola con los indicadores de desnutrición crónica (46.5% nacional). Advierte que el cambio climático exacerba las 'trampas de pobreza' al reducir la disponibilidad local de alimentos y aumentar los precios. Detalla el aumento de la dependencia externa en granos básicos y la necesidad de integrar la adaptación climática en la Estrategia Nacional para la Prevención de la Desnutrición Crónica.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "la tasa de dependencia del exterior pasó del 5% (1980) al 1% en 2015 (véase el gráfico IV.",
+              "pagina": 182
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "G. Aseguramiento del sector agropecuario",
+          "nivel": 2,
+          "paginas": "185-187",
+          "resumen": "Describe los mecanismos de transferencia de riesgo en Guatemala, centrados en el fideicomiso GuateInvierte. Analiza la baja penetración de los seguros tradicionales y los desafíos para cubrir a los pequeños productores. Destaca que la gestión de riesgos debe ser una prioridad de política pública para evitar que los desastres climáticos descapitalicen a las familias rurales de forma permanente.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Los seguros y microseguros agropecuarios son de uso individual y/o colectivo, y forman parte de las estrategias de preve",
+              "pagina": 185
+            },
+            {
+              "dimension": "desafios",
+              "cita": "Esta situación está relacionada tanto con la frecuencia e intensidad de las amenazas hidrometeorológicas como con las co",
+              "pagina": 185
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "H. Situación de los seguros agropecuarios",
+          "nivel": 2,
+          "paginas": "188-190",
+          "resumen": "Presenta estadísticas recientes sobre el mercado de seguros agropecuarios, mostrando una alta volatilidad en las primas y coberturas. Señala que la mayoría de los seguros actuales cubren riesgos de crédito y no pérdidas directas de producción, lo que limita su efectividad como herramienta de resiliencia frente a sequías o inundaciones severas.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "generado 6.703 pólizas por un total de 7.806.944 dólares en respaldo de un capital de 87.087.738 dólares",
+              "pagina": 190
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "I. Seguro indexado contra sequías",
+          "nivel": 2,
+          "paginas": "192-196",
+          "resumen": "Detalla una propuesta técnica innovadora para un seguro indexado contra sequías a nivel macro, diseñado para proteger la seguridad alimentaria. El mecanismo se basa en el monitoreo del Índice de Precipitación Estandarizada (IPE) a través de la red de estaciones del INSIVUMEH, estableciendo umbrales disparadores claros (-1.5 IPE). Estima una suma asegurada total anual de 81 millones de dólares para financiar programas de asistencia alimentaria de emergencia. Propone un modelo de gobernanza que coordine al MAGA con reaseguradoras internacionales y sistemas de alerta temprana, permitiendo una respuesta financiera expedita ante eventos climáticos extremos que afecten a los pequeños productores.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "El diseño de un seguro indexado requiere identificar el evento a asegurar y su relación con sequías pasadas.",
+              "pagina": 192
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "V. Impactos potenciales en ecosistemas",
+      "nivel": 1,
+      "paginas": "197-219",
+      "resumen": "Evalúa las pérdidas de capital natural bajo escenarios climáticos extremos. Proyecta una caída del 74.5% en el índice de biodiversidad potencial (IBP) nacional para finales de siglo, afectando especialmente a los departamentos de Jalapa y El Progreso. Utilizando el modelo de zonas de vida de Holdridge, prevé una transición masiva hacia formaciones de bosque seco tropical (cubriendo el 61% del país), en detrimento de los bosques muy húmedos pluviales. Estima el valor económico de los servicios ecosistémicos perdidos en 2,722 millones de dólares, subrayando que la degradación ambiental actúa como un pasivo fiscal oculto que compromete la regulación hídrica y la resiliencia productiva nacional.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Índice de biodiversidad potencial (IBP)",
+          "nivel": 2,
+          "paginas": "198-203",
+          "resumen": "Aplica una métrica de integridad biológica basada en la abundancia de especies originales. Proyecta reducciones drásticas del IBP del 16% al 75% según el escenario. Identifica que la pérdida de biodiversidad es mayor en el escenario A2 debido a la incapacidad de las especies para migrar ante el rápido aumento térmico. Valora económicamente los servicios de polinización y control de plagas que se verán mermados.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "En el escenario más pesimista (A2), el IBP disminuiría un tercio para 2030 y más del doble que en B2 en 2100, con una pérdida de biodiversidad del 74,51%",
+              "pagina": 199
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Zonas de vida de Holdridge",
+          "nivel": 2,
+          "paginas": "204-219",
+          "resumen": "Simula el desplazamiento geográfico de los ecosistemas forestales utilizando el modelo de Zonas de Vida de Holdridge. Proyecta una transición masiva hacia formaciones de bosque seco tropical, que llegaría a cubrir el 61% del territorio para 2100, en detrimento de los bosques húmedos y muy húmedos megadiversos. Realiza una valoración económica de los servicios ecosistémicos perdidos, estimando una caída del 63,1% en su valor para el escenario A2, equivalente a 2,722 millones de dólares. Subraya que la desaparición de los bosques pluviales montanos representa una pérdida irreversible de capital natural y de capacidad de regulación hídrica para el país. El análisis incluye matrices de transición de cobertura vegetal detalladas por departamento, alertando que la simplificación de los ecosistemas forestales mermará la biodiversidad y aumentará la vulnerabilidad ante eventos climáticos extremos. La pérdida de estos activos biológicos compromete no solo el patrimonio natural sino también las bases productivas de actividades rurales fundamentales, mermando la capacidad de resiliencia del territorio nacional frente a choques ambientales externos de gran magnitud.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "En A2 el panorama resulta más negativo para los bosques húmedos",
+              "pagina": 210
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "la superficie de cobertura natural disminuye con el tiempo aun en el escenario base (sin cambio climático) por aumentos",
+              "pagina": 209
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "VI. Impactos potenciales en enfermedades sensibles al clima",
+      "nivel": 1,
+      "paginas": "220-231",
+      "resumen": "Sistematiza la evidencia epidemiológica vinculada a variables climáticas. Reporta que los inviernos tardíos y las sequías prolongadas favorecen brotes de enfermedades diarreicas agudas y enfermedades respiratorias. Analiza vectores de dengue, malaria, Chagas, leishmaniasis, Zika y Chikunguña, advirtiendo sobre el desplazamiento de sus nichos ecológicos hacia mayores altitudes. Destaca que la precariedad de los servicios de agua y saneamiento es el principal multiplicador de la vulnerabilidad en salud, y propone integrar el monitoreo meteorológico en los sistemas de vigilancia epidemiológica para generar alertas tempranas.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Efectos en la salud por cambios en la disponibilidad de alimentos",
+          "nivel": 2,
+          "paginas": "222-223",
+          "resumen": "Describe la sinergia negativa entre desnutrición e infección. Explica cómo la escasez de alimentos inducida por el clima debilita el sistema inmunológico de la población infantil, aumentando la mortalidad por causas prevenibles. Enfatiza la necesidad de una respuesta multisectorial que combine seguridad alimentaria con atención primaria en salud en las zonas del corredor seco.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Guatemala es el país con mayor prevalencia de desnutrición, con niveles de bajo peso severo del 3,7% y bajo peso moderad",
+              "pagina": 223
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Enfermedades diarreicas agudas",
+          "nivel": 2,
+          "paginas": "223-224",
+          "resumen": "Analiza la correlación entre las EDA y el acceso al agua segura, señalando que hasta el 80% de las enfermedades transmisibles en la región se vinculan al saneamiento. Advierte que las sequías reducen los caudales de dilución, aumentando la concentración de patógenos y disparando los brotes durante los meses de canícula extendida.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Entre el 60% y el 80% de las enfermedades transmisibles en Centroamérica se relacionan con el abastecimiento del agua y el saneamiento deficiente (OPS, 2007).",
+              "pagina": 224
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Dengue",
+          "nivel": 2,
+          "paginas": "223-225",
+          "resumen": "Documenta la expansión del nicho del mosquito Aedes aegypti debido al aumento térmico. Proyecta una mayor incidencia en zonas urbanas densas donde el almacenamiento inadecuado de agua y el aumento de las temperaturas mínimas facilitan el ciclo reproductivo del vector durante todo el año.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "En los últimos 20 años la epidemia del dengue ha tenido un crecimiento significativo en el continente americano, donde m",
+              "pagina": 225
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Malaria",
+          "nivel": 2,
+          "paginas": "224-226",
+          "resumen": "Reporta el desplazamiento geográfico de la malaria del sur al norte del país. A pesar de la reducción histórica de casos, señala que los cambios en los patrones de precipitación pueden crear nuevas zonas de anidamiento para el mosquito Anopheles, especialmente en las tierras bajas de Petén e Izabal.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Guatemala ocupó el segundo lugar en casos de malaria en 2008 pero la cantidad ha venido disminuyendo desde 2000 (53.311",
+              "pagina": 226
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Enfermedad de Chagas",
+          "nivel": 2,
+          "paginas": "224-227",
+          "resumen": "Describe los avances en la interrupción de la transmisión vectorial por Rhodnius prolixus. Sin embargo, advierte que la degradación ambiental y el cambio climático pueden alterar el comportamiento de otros vectores silvestres (Triatoma dimidiata), manteniendo el riesgo de infección en áreas rurales con viviendas precarias.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "La transmisión de Triatoma cruzi vía Rhodnius prolixus se declaró interrumpida en 2008 mediante certificado (OPS, 2010).",
+              "pagina": 227
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "F. Leishmaniasis",
+          "nivel": 2,
+          "paginas": "226-228",
+          "resumen": "Analiza la incidencia regionalizada de la enfermedad, concentrada en zonas boscosas de Alta Verapaz y Petén. Explica cómo la deforestación y los cambios microclimáticos alteran la dinámica de transmisión entre reservorios silvestres y humanos, planteando desafíos para el control vectorial en la frontera agrícola.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "El 95% de los casos fue notificado en Alta Verapaz, Petén Norte, Petén Suroriente, Huehuetenango y Petén Suroccidental.",
+              "pagina": 228
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "G. Zika",
+          "nivel": 2,
+          "paginas": "226-229",
+          "resumen": "Analiza la emergencia del virus Zika en Guatemala y su rápida propagación. Destaca la necesidad de fortalecer las capacidades de respuesta institucional y la vigilancia epidemiológica ante virus emergentes que encuentran condiciones climáticas favorables para su expansión territorial acelerada.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "autoridades sanitarias de Guatemala, a través del Ministerio de Salud Pública y Asistencia Social (MSPAS)",
+              "pagina": 229
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "H. Chikunguña",
+          "nivel": 2,
+          "paginas": "227-231",
+          "resumen": "Estudia el comportamiento del Chikunguña, señalando que la irregularidad de las lluvias y los períodos de sequía largos alteran los ciclos reproductivos de los vectores. Propone el uso de modelos de nicho ecológico para predecir las futuras zonas de riesgo ante el avance del calentamiento global.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "Los resultados sugieren que los períodos de sequía más largos están retrasando el inicio del invierno, lo que favorece l",
+              "pagina": 230
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "VII. Escenarios de emisiones de gases de efecto invernadero",
+      "nivel": 1,
+      "paginas": "232-246",
+      "resumen": "Cuantifica las emisiones nacionales por sectores y proyecta su trayectoria hasta 2100. Identifica al sector energía (39%) y agricultura (25%) como los principales emisores, mientras destaca que el cambio de uso de suelo (CUT) ha funcionado históricamente como un sumidero neto, ventaja que se está perdiendo por la deforestación. Detalla los compromisos de la INDC para reducir emisiones en un 22.6% hacia 2030, condicionados al apoyo internacional. Proyecta que, en un escenario tendencial, las emisiones per cápita crecerán hasta mediados de siglo, subrayando la urgencia de transitar hacia una economía baja en carbono mediante la eficiencia energética y la protección forestal.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Inventarios de emisiones en Guatemala",
+          "nivel": 2,
+          "paginas": "232-239",
+          "resumen": "Desglosa el perfil de emisiones de GEI para el año base 2005, identificando a la generación de energía (39%) y la agricultura (25%) como los principales emisores brutos. Reporta que, históricamente, Guatemala ha funcionado como un sumidero neto gracias a su capacidad de absorción forestal, aunque esta ventaja se erosiona rápidamente por el cambio de uso de suelo. Detalla los compromisos asumidos en la INDC para reducir las emisiones en un 22,6% hacia 2030, condicionados al apoyo técnico y financiero internacional. El capítulo enfatiza la necesidad de mejorar la precisión de los inventarios nacionales para acceder a mecanismos de financiamiento climático basados en resultados. El documento destaca que la gestión de las emisiones debe integrarse en la política económica nacional para asegurar un crecimiento compatible con los límites planetarios y los compromisos climáticos asumidos por el Estado.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "emisiones de GEI por sector, brutas y netas, en Guatemala.",
+              "pagina": 236
+            },
+            {
+              "dimension": "avances_implementacion",
+              "cita": "EMISIONES DE GEI, 2000                                                                                                 Intensidad de CO2e*   Intensidad de energía/PIB      Intensid",
+              "pagina": 237
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Escenarios prospectivos de acervos de carbono a 2100",
+          "nivel": 2,
+          "paginas": "240-240",
+          "resumen": "Estima la pérdida de biomasa y capacidad de captura de carbono forestal. Proyecta que el país perderá el 37% de sus acervos de carbono almacenado para finales de siglo si no se frena la deforestación y el cambio de uso de suelo. Esta pérdida representa no solo un daño ambiental sino un riesgo para la participación de Guatemala en mercados voluntarios de carbono.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "Para finales de siglo las reducciones de los acervos de carbono podrían ser del 37% en el escenario tendencia, 41% en el escenario B2 y del 54% en el escenario A2.",
+              "pagina": 240
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Escenarios prospectivos de emisiones de GEI a 2100",
+          "nivel": 2,
+          "paginas": "241-246",
+          "resumen": "Aplica la identidad de Kaya para proyectar las emisiones futuras basadas en el crecimiento económico y poblacional. Estima que las emisiones per cápita se estabilizarán hacia 2100 debido a la transición demográfica, pero advierte que se requiere una reducción del 1.49% anual en la intensidad de carbono para cumplir las metas climáticas globales.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "tasa de crecimiento de la intensidad CO2e/energía del ‒1,49% en 2020",
+              "pagina": 242
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "VIII. Escenario de costos económicos",
+      "nivel": 1,
+      "paginas": "247-250",
+      "resumen": "Cuantifica las pérdidas agregadas del cambio climático para la economía guatemalteca. Estima costos acumulados que alcanzan el 63.6% del PIB de 2008 hacia el año 2100 en el escenario A2, considerando impactos medibles en agricultura, agua, biodiversidad y eventos extremos. Advierte que los costos en el sector hídrico se acelerarán después de 2030 y los de biodiversidad tras 2050. El análisis subraya que el cambio climático representa un pasivo público contingente masivo y que la inacción climática es significativamente más costosa que las inversiones necesarias para la adaptación sostenible, planteando un desafío central para la sostenibilidad de las finanzas públicas a largo plazo.",
+      "dimensiones": [
+        {
+          "dimension": "tendencias",
+          "cita": "el costo acumulado del cambio climático en Guatemala, basado en los impactos en el sector agrícola, recursos hídricos, biodiversidad, huracanes, tormentas e inundaciones alcanzaría un máximo de 63,6% del PIB de 2008 a valor presente neto (VPN)",
+          "pagina": 250
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Los resultados iniciales de la iniciativa ECC CA indican que el cambio climático podría tener impactos negativos",
+          "pagina": 247
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Conclusiones",
+      "nivel": 1,
+      "paginas": "251-256",
+      "resumen": "Sintetiza los hallazgos y presenta la hoja de ruta normativa para la adaptación. Define al cambio climático como 'el mayor fracaso del mercado' y una amenaza existencial para el desarrollo de Guatemala. Propone una agenda de 'adaptación sostenible e incluyente' que vincule la respuesta climática con la reducción de la pobreza y el cumplimiento de los ODS. Enfatiza la necesidad de internalizar los costos ambientales en la política económica y fortalecer la coordinación intersectorial a través de la Ley Marco y el Consejo Nacional de Cambio Climático. Concluye que actuar de forma proactiva es imperativo ético y económico para proteger a las generaciones futuras y asegurar la viabilidad del estilo de desarrollo nacional.",
+      "dimensiones": [
+        {
+          "dimension": "tendencias",
+          "cita": "datos arrojados por la iniciativa ECC CA, reportados a lo largo del presente documento,       indican que el cambio climático podría traer impactos negativos directos, indirectos y crecientes       para Guatemala.",
+          "pagina": 251
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "disponibilidad promedio de agua del doble del promedio mundial, el aumento de la población y los efectos adversos del aumento de la temperatura y cambios en los regímenes de precip",
+          "pagina": 251
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "falla de mercado que expresa la insostenibilidad del actual estilo de desarrollo y que tiene profundos impactos en la economía, el cambio climático no puede ser tratado como responsabilidad exclusiva de las instituciones ambientales",
+          "pagina": 254
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "El documento propone una agenda de adaptación sostenible e incluyente que requiere la reorientación de inversiones hacia sectores estratégicos como energías renovables y gestión hídrica eficiente. Plantea la necesidad de un cambio estructural para desacoplar el crecimiento de las emisiones y la degradación ambiental.",
+      "citas": [
+        {
+          "cita": "se propone priorizar medidas y políticas públicas que impulsen la adaptación diseñada para lograr una mejor sostenibilidad e inclusión, integradas a acciones de reducción de la pobreza y de la vulnerabilidad",
+          "pagina": 31
+        }
+      ],
+      "nota": "Aunque es un documento técnico de impactos, su cierre normativo aboga claramente por una transformación del estilo de desarrollo."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "Menciona marcos institucionales de coordinación como la Ley Marco de Cambio Climático (Decreto 7-2013) y el Consejo Nacional de Cambio Climático (CNCC), que articulan a diversos actores y sectores.",
+      "citas": [
+        {
+          "cita": "A través de la Ley Marco de Cambio Climático se crea el Consejo Nacional de Cambio Climático (CNCC), que funciona como un ente regulador que supervisa la implementación de acciones y resolución de conflictos",
+          "pagina": 35
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Sí",
+      "evidencia": "Identifica oportunidades en la diversificación de la matriz eléctrica con fuentes renovables (solar, eólica) y en la implementación de seguros indexados para el sector agropecuario, vinculando esto con la reducción de la pobreza.",
+      "citas": [
+        {
+          "cita": "y acceso de instrumentos de aseguramiento agropecuario basados en índices climáticos dirigidos a los micros y pequeños productores agropecuarios y rurales.",
+          "pagina": 252
+        }
+      ],
+      "nota": null
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "El cierre normativo del documento presenta una lista de acciones operativas concretas en los sectores de agricultura, energía y gestión forestal, así como el fortalecimiento de instrumentos de ley.",
+      "citas": [],
+      "desglose_items": [
+        {
+          "item": "Adopción de instrumentos de aseguramiento agropecuario basados en índices climáticos",
+          "clasificacion": "CONCRETO",
+          "pagina": 252
+        },
+        {
+          "item": "Recuperar y rehabilitar tierras degradadas promoviendo su manejo sostenible con tecnologías apropiadas",
+          "clasificacion": "CONCRETO",
+          "pagina": 252
+        },
+        {
+          "item": "Aumentar las áreas naturales protegidas (ANP) y los corredores biológicos",
+          "clasificacion": "CONCRETO",
+          "pagina": 252
+        },
+        {
+          "item": "Implementación de un Plan de Acción Nacional de Cambio Climático (PANCC)",
+          "clasificacion": "CONCRETO",
+          "pagina": 255
+        },
+        {
+          "item": "Conformación del Sistema Nacional de Información sobre Cambio Climático (SNICC)",
+          "clasificacion": "CONCRETO",
+          "pagina": 255
+        }
+      ],
+      "tally": "5 de 5 ítems pasan el test de concreción",
+      "nota": "Se seleccionaron ítems de la sección de Conclusiones que cumplen con el test de verbo + objeto específico."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la contradicción entre la trayectoria actual de desarrollo insostenible (deforestación, alta demanda energética) y los riesgos existenciales que el cambio climático impone sobre la economía y la seguridad humana de Guatemala.",
+      "filtro_categoria_primaria": "La transformación primaria es la Sostenibilidad ambiental (#6) porque el objeto central es la adaptación y mitigación del cambio climático para asegurar la resiliencia de los sistemas naturales y productivos.",
+      "secundaria_obligatoria": "La secundaria es Capacidades del Estado (#11) ya que el documento enfatiza que la respuesta climática requiere un marco legal (Ley Marco), planificación territorial y coordinación intersectorial robusta.",
+      "justificacion_anti_copia": "Analiza la economía del cambio climático específicamente para Guatemala, proyectando caídas del 83% en la generación de Chixoy y del 22% en el maíz, vinculando estos datos con la Ley Marco de 2013.",
+      "validacion_anclas": "Se asemeja al ancla de 'Impactos económicos' (doc20) donde la sostenibilidad ambiental es el objeto y la institucionalidad el medio para la adaptación."
+    },
+    "tipo_documento_climatico": "Documento técnico",
+    "nivel_aplicacion": "Nacional",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

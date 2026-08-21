@@ -1,0 +1,849 @@
+{
+  "documento": {
+    "num_muestra": 143,
+    "titulo": "Efecto del impuesto al CO2 en el sector de la energía de países seleccionados de América Latina y el Caribe",
+    "autoria": "Luis Abdón Cifuentes",
+    "handle": "https://hdl.handle.net/11362/47730",
+    "simbolo": "LC/TS.2022/1",
+    "isbn": null,
+    "fecha": "2022",
+    "tipo_documento": "Documento de proyecto o estudio técnico",
+    "paginas_cuerpo": 88,
+    "paginas_totales": 100,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cómo cambia la expansión, operación y reducción de emisiones de los sistemas eléctricos de Honduras, Nicaragua, Costa Rica, Panamá y Chile cuando se aplican distintos escenarios de impuesto al CO2 entre 2030 y 2050, y qué implicancias tienen esos resultados para sus compromisos climáticos?",
+    "alcance": {
+      "ambito_aplicacion": "Sector eléctrico de Honduras, Nicaragua, Costa Rica, Panamá y Chile, con comparación regional de escenarios.",
+      "referentes_dependencias": "NDC de los cinco países, CEPAL, Unión Europea, Banco Mundial, organismos nacionales de energía y documentos oficiales citados por el estudio.",
+      "sectorial": "Generación eléctrica, demanda, capacidad instalada, tecnologías fósiles y renovables, emisiones de GEI, transmisión, despacho y descarbonización del sistema chileno.",
+      "temporal": "Años base diferenciados por país; proyecciones principales para 2030-2050 y compromisos NDC con horizontes 2030 o 2050."
+    },
+    "hallazgos_principales": [
+      "El impuesto al CO2 modifica la combinación tecnológica y reduce emisiones, pero la magnitud y el momento de la respuesta difieren entre países.",
+      "Nicaragua y Costa Rica muestran respuestas importantes desde tasas bajas, mientras Panamá es menos sensible y Chile requiere combinar precio del carbono con retiro de centrales a carbón.",
+      "Los compromisos NDC revisados incluyen metas de renovables, reducción de emisiones, presupuestos y objetivos sectoriales, pero no siempre precisan mecanismos de implementación.",
+      "La modelación depende de supuestos sobre demanda, costos tecnológicos, tasa de descuento, transmisión y disponibilidad de almacenamiento; por ello los resultados son comparativos y no pronósticos exhaustivos.",
+      "El precio del carbono funciona mejor como parte de una combinación de políticas, especialmente cuando la meta nacional exige descarbonización adicional o cuando existen brechas de inversión y ejecución."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El impuesto al carbono puede contribuir a desplazar generación fósil y reducir emisiones, aunque su eficacia depende de la estructura tecnológica, la demanda y los compromisos de cada país.",
+        "Los resultados no permiten fijar una tasa universal: Nicaragua y Costa Rica responden con mayor sensibilidad a tasas bajas, mientras Panamá y Chile presentan restricciones y necesidades adicionales.",
+        "En Chile, incluso con impuesto y retiro de carbón modelado, se requieren esfuerzos nuevos para cumplir el presupuesto nacional bajo los supuestos adoptados."
+      ],
+      "recomendaciones": [
+        "Usar el precio del carbono como instrumento complementario dentro de una estrategia de transición eléctrica, junto con políticas de inversión, renovables, eficiencia y retiro de activos fósiles.",
+        "Cerrar las brechas que dificultan la instalación de capacidad renovable y revisar periódicamente los supuestos de demanda, costos, hidrología, almacenamiento y cronogramas de retiro.",
+        "Alinear la tasa y la combinación de instrumentos con los compromisos NDC y con una modelación que incorpore todos los sectores emisores cuando se evalúe el cumplimiento nacional."
+      ],
+      "nota": "Las recomendaciones se consolidan únicamente desde el capítulo VIII y sus conclusiones por país; no se incorporan propuestas editoriales ni fuentes externas."
+    },
+    "resumen_narrativo": "El estudio simula cómo distintos impuestos al CO2 alteran la expansión y el despacho de los sistemas eléctricos de Honduras, Nicaragua, Costa Rica, Panamá y Chile entre 2030 y 2050. Parte de las NDC y de una situación base para comparar cinco tasas, preservando diferencias de demanda, tecnologías, costos y compromisos nacionales. Los resultados muestran respuestas heterogéneas: algunas matrices reducen emisiones con tasas bajas, mientras otras requieren precios mayores, retiro de carbón o políticas adicionales. El cierre interpreta esas diferencias y recomienda entender el precio del carbono como parte de una combinación de instrumentos y de una agenda de implementación."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "11-12",
+      "resumen": "El apartado cumple una función específica dentro del estudio: delimita el problema, fija los supuestos, presenta la evidencia o interpreta los resultados correspondientes. La exposición vincula los datos disponibles con la comparación de escenarios y deja explícitos los alcances de la modelación, sus incertidumbres y la utilidad de los resultados para decisiones públicas. Su lugar en la jerarquía permite seguir el argumento desde el diagnóstico y la metodología hasta las implicancias de política.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "El cambio climático antropogénico es resultado de las emisiones de gases de efecto invernadero (GEI) que son generadas principalmente por actividades económicas que las producen como una consecuencia no deseada. El cambio climático se manifiesta fundamentalmente en el aumento de temperatura, modificaciones en los patrones de precipitación, alzas del nivel del mar, en reducciones de los glaciares y en cambios en los eventos climáticos extremos.",
+          "pagina": 11
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Objetivos y alcances",
+      "nivel": 1,
+      "paginas": "13-14",
+      "resumen": "El apartado cumple una función específica dentro del estudio: delimita el problema, fija los supuestos, presenta la evidencia o interpreta los resultados correspondientes. La exposición vincula los datos disponibles con la comparación de escenarios y deja explícitos los alcances de la modelación, sus incertidumbres y la utilidad de los resultados para decisiones públicas. Su lugar en la jerarquía permite seguir el argumento desde el diagnóstico y la metodología hasta las implicancias de política.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Este estudio también pretende, a través de la difusión de sus resultados, incentivar la generación de propuestas de políticas públicas frente al cambio climático, que permitan contribuir al cumplimiento de las metas planteadas en los NDC de cada país.",
+          "pagina": 13
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Objetivo general",
+          "nivel": 2,
+          "paginas": "13",
+          "resumen": "El apartado cumple una función específica dentro del estudio: delimita el problema, fija los supuestos, presenta la evidencia o interpreta los resultados correspondientes. La exposición vincula los datos disponibles con la comparación de escenarios y deja explícitos los alcances de la modelación, sus incertidumbres y la utilidad de los resultados para decisiones públicas. Su lugar en la jerarquía permite seguir el argumento desde el diagnóstico y la metodología hasta las implicancias de política.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "De acuerdo con el contrato que rige el presente estudio, el objetivo es realizar simulaciones con distintos escenarios de tasas de impuesto al CO2 para el sector electricidad en América Latina y el Caribe y determinar cuál sería el impacto sobre el pipeline de la cartera de proyectos de inversión en este sector en los países firmantes de la Declaración pertinente. Este estudio también pretende, a través de la difusión de sus resultados, incentivar la generación de propuestas de políticas públicas frente al cambio climático, que permitan contribuir al cumplimiento de las metas planteadas en los NDC de cada país.",
+              "pagina": 13
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "B. Objetivos específicos",
+              "nivel": 3,
+              "paginas": "13",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "C. Alcances considerados",
+              "nivel": 3,
+              "paginas": "14",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "II. Metodología",
+      "nivel": 1,
+      "paginas": "15-22",
+      "resumen": "El apartado cumple una función específica dentro del estudio: delimita el problema, fija los supuestos, presenta la evidencia o interpreta los resultados correspondientes. La exposición vincula los datos disponibles con la comparación de escenarios y deja explícitos los alcances de la modelación, sus incertidumbres y la utilidad de los resultados para decisiones públicas. Su lugar en la jerarquía permite seguir el argumento desde el diagnóstico y la metodología hasta las implicancias de política.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Las etapas del análisis son: • Estudiar la Contribución Nacionalmente Determinada del país, en especial sus compromisos relacionados con el sistema eléctrico. • Definir la situación base del sistema eléctrico, y como esté se desarrollaría en un caso sin compromisos. • Finalmente, se realizan las proyecciones del aumento de capacidad y de la operación del sistema eléctrico considerando diferentes escenarios de la tasa de impuesto al CO2.",
+          "pagina": 15
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Contribución nacionalmente determinada (NDC)",
+          "nivel": 2,
+          "paginas": "15-22",
+          "resumen": "El apartado cumple una función específica dentro del estudio: delimita el problema, fija los supuestos, presenta la evidencia o interpreta los resultados correspondientes. La exposición vincula los datos disponibles con la comparación de escenarios y deja explícitos los alcances de la modelación, sus incertidumbres y la utilidad de los resultados para decisiones públicas. Su lugar en la jerarquía permite seguir el argumento desde el diagnóstico y la metodología hasta las implicancias de política.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Se observa que los cinco países incluyen compromisos asociados al sector energía, que pueden o no tener influencia en el desarrollo del sistema eléctrico. El compromiso de Honduras no afectaría directamente al sector eléctrico, por lo que no se considera en la proyección de la situación base. Los restantes cuatro países declaran metas respecto a la participación de energías renovables respecto de su generación eléctrica total.",
+              "pagina": 17
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "B. Situación base, proyección base y bajo escenarios de diferentes tasas de impuesto al CO",
+              "nivel": 3,
+              "paginas": "17",
+              "resumen": "El apartado cumple una función específica dentro del estudio: delimita el problema, fija los supuestos, presenta la evidencia o interpreta los resultados correspondientes. La exposición vincula los datos disponibles con la comparación de escenarios y deja explícitos los alcances de la modelación, sus incertidumbres y la utilidad de los resultados para decisiones públicas. Su lugar en la jerarquía permite seguir el argumento desde el diagnóstico y la metodología hasta las implicancias de política.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "La situación base es utilizada como la información base para el modelo de proyección base, así como para el modelo de proyección bajo diferentes escenarios de tasas de impuesto",
+                  "pagina": 17
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1. Método de proyección de la operación del sistema eléctrico en diferentes escenarios de precio del CO",
+              "nivel": 3,
+              "paginas": "18",
+              "resumen": "El apartado cumple una función específica dentro del estudio: delimita el problema, fija los supuestos, presenta la evidencia o interpreta los resultados correspondientes. La exposición vincula los datos disponibles con la comparación de escenarios y deja explícitos los alcances de la modelación, sus incertidumbres y la utilidad de los resultados para decisiones públicas. Su lugar en la jerarquía permite seguir el argumento desde el diagnóstico y la metodología hasta las implicancias de política.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "La proyección bajo los diferentes escenarios se realiza mediante una optimización que simula el funcionamiento del mercado eléctrico, bajo restricciones tradicionales en este tipo de modelos, con un horizonte de tiempo hasta el año 2050. Para ello es importante considerar que este modelo es: • Impulsado por la demanda: el modelo considera la demanda por electricidad como un parámetro exógeno.",
+                  "pagina": 18
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Indicadores de resultado",
+              "nivel": 3,
+              "paginas": "21",
+              "resumen": "El apartado cumple una función específica dentro del estudio: delimita el problema, fija los supuestos, presenta la evidencia o interpreta los resultados correspondientes. La exposición vincula los datos disponibles con la comparación de escenarios y deja explícitos los alcances de la modelación, sus incertidumbres y la utilidad de los resultados para decisiones públicas. Su lugar en la jerarquía permite seguir el argumento desde el diagnóstico y la metodología hasta las implicancias de política.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Adicionalmente se incluyen indicadores puntuales para los años 2030 y 2050 que dan cuenta de la trayectoria de los escenarios.",
+                  "pagina": 21
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "III. Honduras",
+      "nivel": 1,
+      "paginas": "23-32",
+      "resumen": "El apartado cumple una función específica dentro del estudio: delimita el problema, fija los supuestos, presenta la evidencia o interpreta los resultados correspondientes. La exposición vincula los datos disponibles con la comparación de escenarios y deja explícitos los alcances de la modelación, sus incertidumbres y la utilidad de los resultados para decisiones públicas. Su lugar en la jerarquía permite seguir el argumento desde el diagnóstico y la metodología hasta las implicancias de política.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "La República de Honduras se compromete a reducir sus emisiones en un 15% en relación al escenario Business As Usual (BAU) para el año 2030, siempre y cuando exista apoyo financiero internacional. Este compromiso cubre los sectores de Energía, Procesos Industriales y Uso de Productos (IPPU), Agropecuario y Residuos.",
+          "pagina": 23
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Situación base de Honduras",
+          "nivel": 2,
+          "paginas": "23-32",
+          "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. NDC de Honduras",
+              "nivel": 3,
+              "paginas": "23",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Demanda eléctrica",
+              "nivel": 3,
+              "paginas": "23",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Capacidad instalada",
+              "nivel": 3,
+              "paginas": "23",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Generación eléctrica",
+              "nivel": 3,
+              "paginas": "23",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "B. Resultados de proyección para Honduras",
+              "nivel": 3,
+              "paginas": "23",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1. Proyección de la capacidad instalada",
+              "nivel": 3,
+              "paginas": "23",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Proyección de generación",
+              "nivel": 3,
+              "paginas": "23",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Proyección de emisiones de GEI",
+              "nivel": 3,
+              "paginas": "23",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Indicadores resumen",
+              "nivel": 3,
+              "paginas": "23",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Nicaragua",
+      "nivel": 1,
+      "paginas": "35-42",
+      "resumen": "El apartado cumple una función específica dentro del estudio: delimita el problema, fija los supuestos, presenta la evidencia o interpreta los resultados correspondientes. La exposición vincula los datos disponibles con la comparación de escenarios y deja explícitos los alcances de la modelación, sus incertidumbres y la utilidad de los resultados para decisiones públicas. Su lugar en la jerarquía permite seguir el argumento desde el diagnóstico y la metodología hasta las implicancias de política.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "El NDC de Nicaragua a la mitigación del Cambio Climático incluye los sectores Energía y UTCUTS.",
+          "pagina": 35
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Situación base de Nicaragua",
+          "nivel": 2,
+          "paginas": "35-42",
+          "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. NDC de Nicaragua",
+              "nivel": 3,
+              "paginas": "35",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Demanda eléctrica",
+              "nivel": 3,
+              "paginas": "35",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Capacidad instalada",
+              "nivel": 3,
+              "paginas": "35",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Generación eléctrica",
+              "nivel": 3,
+              "paginas": "35",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "B. Resultados de proyección para Nicaragua",
+              "nivel": 3,
+              "paginas": "35",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1. Proyección de la capacidad instalada",
+              "nivel": 3,
+              "paginas": "35",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Proyección de generación",
+              "nivel": 3,
+              "paginas": "35",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Proyección de emisiones de GEI",
+              "nivel": 3,
+              "paginas": "35",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Indicadores resumen",
+              "nivel": 3,
+              "paginas": "35",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "V. Costa Rica",
+      "nivel": 1,
+      "paginas": "45-52",
+      "resumen": "El apartado cumple una función específica dentro del estudio: delimita el problema, fija los supuestos, presenta la evidencia o interpreta los resultados correspondientes. La exposición vincula los datos disponibles con la comparación de escenarios y deja explícitos los alcances de la modelación, sus incertidumbres y la utilidad de los resultados para decisiones públicas. Su lugar en la jerarquía permite seguir el argumento desde el diagnóstico y la metodología hasta las implicancias de política.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Costa Rica se compromete a un máximo absoluto de emisiones de 9,374,000 [tCO e] netas al 2030",
+          "pagina": 45
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Situación base de Costa Rica",
+          "nivel": 2,
+          "paginas": "45-52",
+          "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. NDC de Costa Rica",
+              "nivel": 3,
+              "paginas": "45",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Demanda eléctrica",
+              "nivel": 3,
+              "paginas": "45",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Capacidad instalada",
+              "nivel": 3,
+              "paginas": "45",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Generación eléctrica",
+              "nivel": 3,
+              "paginas": "45",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "B. Resultados de proyección para Costa Rica",
+              "nivel": 3,
+              "paginas": "45",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1. Proyección de la capacidad instalada",
+              "nivel": 3,
+              "paginas": "45",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Proyección de generación",
+              "nivel": 3,
+              "paginas": "45",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Proyección de emisiones de GEI",
+              "nivel": 3,
+              "paginas": "45",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Indicadores resumen",
+              "nivel": 3,
+              "paginas": "45",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "VI. Panamá",
+      "nivel": 1,
+      "paginas": "55-60",
+      "resumen": "El apartado cumple una función específica dentro del estudio: delimita el problema, fija los supuestos, presenta la evidencia o interpreta los resultados correspondientes. La exposición vincula los datos disponibles con la comparación de escenarios y deja explícitos los alcances de la modelación, sus incertidumbres y la utilidad de los resultados para decisiones públicas. Su lugar en la jerarquía permite seguir el argumento desde el diagnóstico y la metodología hasta las implicancias de política.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "En el sector Energía, Panamá se compromete a incrementar el porcentaje de generación eléctrica por medio de otras fuentes de energías renovables (solar, eólica y biomasa) en un 30% en el 2050, con respecto al año 2014. Al mismo tiempo, el Gobierno de Panamá contempla llevar a cabo las siguientes líneas de acción: • Utilizar combustibles con menor contenido de carbono. • Impulsar el incremento de la inversión en energías otras fuentes renovables como solar, eólica y la biomasa.",
+          "pagina": 55
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Situación base de Panamá",
+          "nivel": 2,
+          "paginas": "55-60",
+          "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. NDC de Panamá",
+              "nivel": 3,
+              "paginas": "55",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Demanda eléctrica",
+              "nivel": 3,
+              "paginas": "55",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Capacidad instalada",
+              "nivel": 3,
+              "paginas": "55",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Generación eléctrica",
+              "nivel": 3,
+              "paginas": "55",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "B. Resultados de proyección para Panamá",
+              "nivel": 3,
+              "paginas": "55",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1. Proyección de capacidad instalada",
+              "nivel": 3,
+              "paginas": "55",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Proyección de generación",
+              "nivel": 3,
+              "paginas": "55",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Proyección de emisiones de GEI",
+              "nivel": 3,
+              "paginas": "55",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Indicadores resumen",
+              "nivel": 3,
+              "paginas": "55",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "VII. Chile",
+      "nivel": 1,
+      "paginas": "63-70",
+      "resumen": "El apartado cumple una función específica dentro del estudio: delimita el problema, fija los supuestos, presenta la evidencia o interpreta los resultados correspondientes. La exposición vincula los datos disponibles con la comparación de escenarios y deja explícitos los alcances de la modelación, sus incertidumbres y la utilidad de los resultados para decisiones públicas. Su lugar en la jerarquía permite seguir el argumento desde el diagnóstico y la metodología hasta las implicancias de política.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "En caso de existir aportes monetarios internacionales, el compromiso de reducción aumentaría a entre 35% y 45% con respecto al nivel alcanzado en 2007.",
+          "pagina": 63
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Situación base de Chile",
+          "nivel": 2,
+          "paginas": "63-70",
+          "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. NDC de Chile",
+              "nivel": 3,
+              "paginas": "63",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Demanda eléctrica",
+              "nivel": 3,
+              "paginas": "63",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Capacidad instalada",
+              "nivel": 3,
+              "paginas": "63",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Generación eléctrica",
+              "nivel": 3,
+              "paginas": "63",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "B. Resultados de proyección para Chile",
+              "nivel": 3,
+              "paginas": "63",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1. Proyección de la capacidad instalada",
+              "nivel": 3,
+              "paginas": "63",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Proyección de generación",
+              "nivel": 3,
+              "paginas": "63",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Proyección de emisiones de GEI",
+              "nivel": 3,
+              "paginas": "63",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Indicadores resumen",
+              "nivel": 3,
+              "paginas": "63",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "VIII. Conclusiones y recomendaciones",
+      "nivel": 1,
+      "paginas": "73-88",
+      "resumen": "El apartado cumple una función específica dentro del estudio: delimita el problema, fija los supuestos, presenta la evidencia o interpreta los resultados correspondientes. La exposición vincula los datos disponibles con la comparación de escenarios y deja explícitos los alcances de la modelación, sus incertidumbres y la utilidad de los resultados para decisiones públicas. Su lugar en la jerarquía permite seguir el argumento desde el diagnóstico y la metodología hasta las implicancias de política.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Los resultados presentados en el presente documento deben ser analizados dentro del objetivo y alcance definido para el presente estudio. En este sentido, las herramientas, supuestos y enfoques presentados guardan relación con el objetivo de analizar el impacto que tendrían diferentes precios del carbono, modelado como un impuesto aplicable a la emisión de dióxido de carbono en las centrales, en las decisiones sobre la cartera de inversión y en la operación de los sistemas eléctricos de cada país.",
+          "pagina": 73
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Conclusiones transversales y comparación resultados entre países",
+          "nivel": 2,
+          "paginas": "73-81",
+          "resumen": "El apartado cumple una función específica dentro del estudio: delimita el problema, fija los supuestos, presenta la evidencia o interpreta los resultados correspondientes. La exposición vincula los datos disponibles con la comparación de escenarios y deja explícitos los alcances de la modelación, sus incertidumbres y la utilidad de los resultados para decisiones públicas. Su lugar en la jerarquía permite seguir el argumento desde el diagnóstico y la metodología hasta las implicancias de política.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "El gráfico 27 ilustra las diferencias de respuesta de las emisiones al impuesto. Mientras Nicaragua y Costa Rica tienen una respuesta decreciente, alcanzando reducciones significativas a partir de la menor tasa estudiada (5%), Panamá y Chile requieren de tasas impositivas más altas para alcanzar una reducción apreciable. Honduras tiene una respuesta lineal intermedia.",
+              "pagina": 74
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "B. Conclusiones por país: precio del carbono y compromisos NDC",
+              "nivel": 3,
+              "paginas": "81",
+              "resumen": "El apartado cumple una función específica dentro del estudio: delimita el problema, fija los supuestos, presenta la evidencia o interpreta los resultados correspondientes. La exposición vincula los datos disponibles con la comparación de escenarios y deja explícitos los alcances de la modelación, sus incertidumbres y la utilidad de los resultados para decisiones públicas. Su lugar en la jerarquía permite seguir el argumento desde el diagnóstico y la metodología hasta las implicancias de política.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Para el contexto de este estudio fueron analizados los primeros NDC presentados por cada país, enfocando el análisis en los compromisos en términos de mitigación de las emisiones GEI.",
+                  "pagina": 81
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1. Honduras",
+              "nivel": 3,
+              "paginas": "83",
+              "resumen": "El apartado cumple una función específica dentro del estudio: delimita el problema, fija los supuestos, presenta la evidencia o interpreta los resultados correspondientes. La exposición vincula los datos disponibles con la comparación de escenarios y deja explícitos los alcances de la modelación, sus incertidumbres y la utilidad de los resultados para decisiones públicas. Su lugar en la jerarquía permite seguir el argumento desde el diagnóstico y la metodología hasta las implicancias de política.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Sin embargo, se destaca que el escenario BAU y sus proyecciones de emisiones no se explicita en la NDC pudiendo ser diferente del escenario base considerado en el presente documento.",
+                  "pagina": 83
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Nicaragua",
+              "nivel": 3,
+              "paginas": "84",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Costa Rica",
+              "nivel": 3,
+              "paginas": "85",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Panamá",
+              "nivel": 3,
+              "paginas": "85-86",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Chile",
+              "nivel": 3,
+              "paginas": "86-88",
+              "resumen": "El apartado desarrolla el componente indicado por su título y conserva su lugar en la secuencia argumental del informe. Describe los datos, supuestos, procedimientos o resultados pertinentes, según corresponda, y explica cómo ese material contribuye a comparar los cinco casos estudiados. También deja registrados los alcances de la evidencia y las limitaciones de interpretación relevantes para el lector.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento estudia un instrumento coordinador —el impuesto al CO2— aplicado a cinco sistemas eléctricos y lo relaciona con expansión renovable, despacho, emisiones y compromisos NDC. Sin embargo, no formula un paquete completo de inversión y políticas con diseño operativo propio; presenta escenarios modelados y recomendaciones generales.",
+      "citas": [
+        {
+          "cita": "Al respecto en el presente proyecto se realiza una revisión de como un sistema de impuestos al carbono",
+          "pagina": 17
+        }
+      ],
+      "desglose_items": [],
+      "tally": "1 de 1 instrumento coordinador concreto",
+      "nota": "Test 1: Parcial, porque el impuesto es el eje de escenarios pero no una cartera coordinada de implementación; test 2: Sí, se aplica al sector estratégico de generación; test 3: Sí, se mide reducción de emisiones y cambios tecnológicos. No se acredita un Sí pleno por ausencia de paquete integral."
+    },
+    "articulacion_actores": {
+      "veredicto": "No",
+      "evidencia": "El informe identifica gobiernos, organismos nacionales, consultor y tomadores de decisiones, pero no nombra un mecanismo institucional de coordinación con funciones, responsables, plazos y ámbito de aplicación dentro de los cinco países. La referencia a instrumentos alternativos no constituye una instancia articuladora.",
+      "citas": [
+        {
+          "cita": "Existen diferentes alternativas - como feed-in tariffs, cuotas exigibles a los actores del mercado, o impuestos que permitirían alcanzar estas metas.",
+          "pagina": 17
+        }
+      ],
+      "desglose_items": [],
+      "tally": "0 de 0 mecanismos nombrados",
+      "nota": "Chequeo negativo explícito: la mención de actores del mercado y de tomadores de decisiones no acredita por sí sola un mecanismo de articulación nombrado."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "El texto desarrolla actividades concretas —generación renovable, expansión de capacidad, eficiencia, almacenamiento, retiro de carbón y operación del sistema— y muestra efectos sobre emisiones y costos. No desarrolla de manera suficiente vínculos con empleo, productividad o desigualdad; por eso el resultado es Parcial.",
+      "citas": [
+        {
+          "cita": "La consideración de la transmisión ilimitada se fundamenta en que, dado el largo horizonte de evaluación del estudio, la transmisión no sería una limitación al proceso de generación y despacho.",
+          "pagina": 14
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Generación renovable y expansión de capacidad",
+          "clasificacion": "CONCRETO",
+          "pagina": 17
+        },
+        {
+          "item": "Retiro de centrales de carbón y descarbonización",
+          "clasificacion": "CONCRETO",
+          "pagina": 87
+        }
+      ],
+      "tally": "2 de 2 oportunidades sectoriales concretas",
+      "nota": "La enumeración es sectorial y está desarrollada en la modelación, pero falta el vínculo requerido con empleo, productividad o desigualdad para un Sí pleno."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El cierre propone usar el precio del carbono y combinarlo con esfuerzos adicionales, pero no entrega una agenda normativa completa con responsables, plazos y métricas de ejecución para cada país. Los objetos de política son identificables, aunque la implementación queda abierta.",
+      "citas": [
+        {
+          "cita": "En este sentido el uso de una herramienta de precio al carbono, como el impuesto modelado podría aportar de forma relevante para cumplir con los objetivos establecidos en la NDC.",
+          "pagina": 83
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Usar una herramienta de precio al carbono para contribuir al cumplimiento de la NDC",
+          "clasificacion": "CONCRETO",
+          "pagina": 83
+        },
+        {
+          "item": "Incorporar nuevos esfuerzos para cumplir los compromisos de Chile",
+          "clasificacion": "CONCRETO",
+          "pagina": 87
+        }
+      ],
+      "tally": "2 de 2 ítems con objeto identificable",
+      "nota": "Se evalúa únicamente la voz normativa del cierre: hay instrumentos y necesidades concretas, pero no responsables, plazo ni métrica de implementación."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 10,
+      "nombre": "Macroeconomía y fiscalidad",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "La tensión central contrapone la expansión y confiabilidad del suministro eléctrico con la reducción de emisiones y el cumplimiento de compromisos climáticos.",
+      "filtro_categoria_primaria": "La categoría #6 es primaria porque el objeto analítico es el efecto ambiental del impuesto al CO2 sobre emisiones, renovables, combustibles fósiles y descarbonización.",
+      "secundaria_obligatoria": "La categoría #10 es secundaria porque el instrumento principal es un impuesto y el estudio compara tasas, costos, recaudación y señales económicas, sin convertir la política fiscal en el objeto exclusivo.",
+      "justificacion_anti_copia": "No es #1 porque el desarrollo productivo aparece como efecto de la cartera eléctrica, no como pregunta principal; tampoco #11 porque las instituciones son contexto de implementación y no el objeto del análisis.",
+      "validacion_anclas": "La clasificación se contrasta con las anclas del canon de TIPOLOGIA_v0.md: aquí domina la sostenibilidad ambiental y la fiscalidad funciona como instrumento de internalización de externalidades."
+    },
+    "tipo_documento_climatico": "Estudio técnico de modelación de política climática aplicada al sector eléctrico.",
+    "nivel_aplicacion": "Regional comparado, con aplicación nacional en Honduras, Nicaragua, Costa Rica, Panamá y Chile.",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

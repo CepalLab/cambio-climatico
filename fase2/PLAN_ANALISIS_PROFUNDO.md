@@ -293,6 +293,33 @@ ya aplicada: resumen de todo el índice; `dimensiones: []` en hojas sin señal c
 corpus. Regla escrita en [codebook_v0.md §1](codebook_v0.md) y [esquema_json_v1.md](esquema_json_v1.md)
 regla 6bis.
 
+### Ronda 10 (2026-08-05) — dimensiones obligatorias en hojas con señal climática
+
+Durante el procesamiento de `doc20_colombia` se detectó que el pipeline dejaba `dimensiones: []` en secciones hoja que sí contenían contenido climático/ambiental (sectores ganadero, agrícola, forestal, pesca, transporte, recurso hídrico, especies nativas de biocomercio dentro del Cap. 4). La regla 6bis del esquema ya establecía que las hojas sin señal climática llevan `dimensiones: []`, pero no documentaba la obligación inversa: cuando la hoja SÍ tiene señal climática, debe llevar al menos una dimensión con cita+página. Tampoco el validador lo detectaba automáticamente.
+
+| # | Observación | Decisión | Dónde quedó |
+| - | ----------- | -------- | ----------- |
+| 1 | El pipeline no extrae dimensiones de secciones hoja que tienen contenido climático, dejándolas con `dimensiones: []` | Se refuerza la regla 6bis en [esquema_json_v1.md](esquema_json_v1.md) con la obligación inversa explícita: hojas con señal climática → al menos una dimensión | [esquema_json_v1.md §2 regla 6bis](esquema_json_v1.md) |
+| 2 | La [Guía operativa](GUIA_OPERATIVA_PIPELINE.md) no advertía que dejar `dimensiones: []` en una hoja con contenido climático es un error del pipeline | Se agrega instrucción explícita en Etapa 3 con la lista de palabras-clave de señal climática y el patrón de error frecuente | [GUIA_OPERATIVA_PIPELINE.md §Etapa 3](GUIA_OPERATIVA_PIPELINE.md) |
+| 3 | El validador no detectaba dimensiones vacías en hojas con contenido climático | Se agrega chequeo heurístico en [pipeline/validar_esquema.py](pipeline/validar_esquema.py): regex `KEYWORDS_CLIMA` sobre el resumen de cada hoja; si tiene coincidencia y `dimensiones` vacía → observación | [pipeline/validar_esquema.py](pipeline/validar_esquema.py) |
+| 4 | `doc20_colombia` tenía hojas con dimensión vacía y contenido climático | Se corrigió y auditó el JSON completo de `doc20`, que se aceptó como publicación procesada para el escalamiento | `fase2/corpus/resultados/doc20_colombia.json` |
+
+**Impacto en el corpus existente**: el nuevo chequeo heurístico detectó observaciones en `doc08`, `doc14` y `doc17`. La auditoría posterior separó falsos positivos de omisiones reales y añadió dimensiones únicamente con cita verificable; los tres documentos pasan el validador sin pendientes.
+
+### Ronda 11 (2026-08-05) — cierre experto de ambigüedades tipológicas
+
+Antes del congelamiento definitivo para producción se resolvieron los dos casos fronterizos restantes. `doc13` pasa de #6/#9 a **#9 Integración económica / #6 Sostenibilidad ambiental**: el CBAM estructura la pregunta, el diagnóstico de exposición y las recomendaciones de acceso a mercados, mientras que la descarbonización es la respuesta. `doc17` pasa de #6/#10 a **#10 Macroeconomía y fiscalidad / #6 Sostenibilidad ambiental**: la unidad es el informe completo y tanto su primera parte como el método dominante de la monografía climática se organizan mediante crecimiento, deuda, fiscalidad, financiamiento y banca central.
+
+Ambos quedan con certeza Alta, `ambiguedad_pendiente_validacion: null` y razonamiento de cinco pasos reescrito. Se incorporan a [TIPOLOGIA_v0.md](TIPOLOGIA_v0.md) como anclas fronterizas; doc17 forma un par contrastivo explícito con doc18 (#6/#10).
+
+### Ronda 12 (2026-08-05) — limpieza y canonización pre-batch
+
+Se cerró la auditoría de `doc08`, `doc14` y `doc17` y se revisó `doc20` contra el texto fuente. En `doc20` se corrigieron rangos de páginas, secciones omitidas, resúmenes breves, dimensiones vacías y citas fuera de sección; el resultado se promovió a `fase2/corpus/resultados/doc20_colombia.json`. El validador ahora incluye resultados de producción, ignora referencias legítimas dentro de `validacion_anclas` y comprueba que la página de cada cita pertenezca al rango de su sección. La aplicación retrospectiva de este último control permitió corregir desajustes puntuales de rangos o evidencia en `doc04`, `doc12`, `doc14`, `doc15`, `doc16`, `doc17` y `doc19`.
+
+### Ronda 13 (2026-08-05) — ledger operativo para producción
+
+Se implementó un ledger SQLite local para separar el estado de ejecución de los JSON analíticos. `pipeline/ledger.py` inicializa las 244 publicaciones, reconoce los 18 resultados aceptados, reserva lotes de 15–20 sin duplicación, registra intentos y costos, y conserva checkpoints por etapa. Los leases permiten detectar ejecuciones interrumpidas y `resume` las devuelve a una cola reintentable desde el último artefacto; los manifiestos de lote se versionan y la base viva se excluye de Git. La operación completa queda especificada en `OPERACION_BATCH.md`.
+
 ### 4.3.2 Reconciliación de costo — Ronda 7 vs. procesamiento uno a la vez (2026-07-15, corregida 2026-07-15)
 
 Al armar el cierre de la muestra de 17 se reconstruyó el gasto real de ese período completo a partir de los

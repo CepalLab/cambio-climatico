@@ -1,0 +1,1281 @@
+{
+  "documento": {
+    "num_muestra": 169,
+    "titulo": "Diagnóstico situacional de los sistemas nacionales de inversión pública: Honduras 2020",
+    "autoria": "N. Zapata y M. C. Tejada",
+    "handle": "https://hdl.handle.net/11362/48736",
+    "simbolo": "LC/MEX/TS.2023/4",
+    "isbn": null,
+    "fecha": "2023",
+    "tipo_documento": "Documento técnico",
+    "paginas_cuerpo": 141,
+    "paginas_totales": 146,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Qué fortalezas, barreras y oportunidades tiene Honduras para incorporar la reducción del riesgo de desastres y la adaptación sostenible e incluyente al cambio climático en el ciclo de la inversión pública?",
+    "alcance": {
+      "ambito_aplicacion": "Honduras, con foco en el Sistema Nacional de Inversión Pública de Honduras (SNIPH).",
+      "referentes_dependencias": "SICA/COSEFIN, CEPREDENAC, organismos de cooperación y estándares multilaterales citados como apoyo técnico y financiero.",
+      "sectorial": "Inversión pública; agricultura, salud, educación, infraestructura vial, agua, bosques, información y formación de capacidades.",
+      "temporal": "Diagnóstico 2020 con instrumentos vigentes y antecedentes de 2004-2021."
+    },
+    "hallazgos_principales": [
+      "La inversión pública puede sostener bienes y servicios, empleo y actividades productivas, pero debe incorporar RRD y respuesta climática desde la formulación (p.23).",
+      "La NDC plantea reducir 15% de las emisiones respecto del BAU hacia 2030, reforestar un millón de hectáreas y disminuir 39% el consumo de leña con NAMA de fogones eficientes (p.46).",
+      "La fuente nacional representó 56,1% del financiamiento público del último año disponible; carreteras concentraron 38,5% de los recursos de inversión de 2020 (p.69-70).",
+      "La GMG y Blindaje de Proyectos contienen entradas para riesgo, pero necesitan guías sectoriales, criterios climáticos, información accesible y capacidades de aplicación (p.118-124)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "Honduras posee un marco normativo, institucional y metodológico que permite integrar RRD y ASICC en el SNIPH, pero su traducción operativa se debilita por brechas de información, herramientas sectoriales, coordinación y capacidades.",
+        "La sostenibilidad de la inversión depende de que el análisis de amenazas, vulnerabilidad, medidas y costos se incorpore desde la preinversión y no solo como requisito ambiental o de respuesta a emergencias."
+      ],
+      "recomendaciones": [
+        "Fortalecer la GMG, el método Blindaje y las guías sectoriales con criterios de riesgo prospectivo y correctivo, escenarios climáticos, evaluación costo-beneficio y medidas aplicables.",
+        "Acordar una agenda interinstitucional para interoperar plataformas y crear un módulo georreferenciado abierto a formuladores y evaluadores del SNIPH.",
+        "Establecer una estrategia permanente de capacitación para SEFIN, MiAmbiente+, COPECO, sectores, academia y profesionales que elaboran estudios de preinversión."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "El diagnóstico reconstruye cómo el SNIPH de Honduras puede convertir la reducción del riesgo y la adaptación climática en condiciones de viabilidad de los proyectos públicos. Encuentra una base institucional amplia —DGIP, COPECO, CICC, CTICC, OPEV y DNCC— y herramientas como la GMG y el método Blindaje, pero advierte que aún no bastan para aplicar de manera consistente medidas sectoriales. La revisión de agricultura, salud, educación y vialidad muestra experiencias utilizables, desde las MAP hasta el Índice de Seguridad Hospitalaria y los manuales SIECA. El cierre propone integrar datos georreferenciados, fortalecer guías y formar a quienes preparan y evalúan inversiones."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "23-24",
+      "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 23 y 24. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "región centroamericana es una de las más expuestas y vulnerables a los efectos adversos de las amenazas naturales y al cambio climático, dado que recurrentemente padece la afectación de sequías, lluvias intensas, tormentas tropicales, huracanes y ciclones, asociados con fenómenos hidrometereológicos, cuya mayor intensidad y frecuencia se atribuyen al cambio climático.",
+          "pagina": 23
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Presentación",
+      "nivel": 1,
+      "paginas": "25-26",
+      "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 25 y 26. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "presente documento, denominado Diagnóstico situacional del Sistema Nacional de Inversión Pública de Honduras (SNIPH) en 2020 contiene siete capítulos.",
+          "pagina": 25
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Marco Estratégico Institucional",
+      "nivel": 1,
+      "paginas": "27-50",
+      "resumen": null,
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Instrumentos de gestión y normativos",
+          "nivel": 2,
+          "paginas": "27-50",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Instrumentos de gestión del desarrollo",
+              "nivel": 3,
+              "paginas": "28-31",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 28 y 31. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Instrumentos de gestión y normativos de inversión pública",
+              "nivel": 3,
+              "paginas": "32-34",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 32 y 34. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Instrumentos de gestión y normativos de reducción del riesgo de desastres",
+              "nivel": 3,
+              "paginas": "35-38",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 35 y 38. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "El documento del Plan Nacional de Gestión Integral de Riesgos considera de manera directa la incorporación de la RRD en la inversión pública con la inclusión de la valoración económica de las pérdidas probables como parte del proceso de formulación.",
+                  "pagina": 38
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Instrumentos de gestión y normativos de cambio climático",
+              "nivel": 3,
+              "paginas": "39-47",
+              "resumen": "El apartado examina los instrumentos nacionales de cambio climático y su vínculo con la inversión pública. Describe la ENCC, el Plan Nacional de Adaptación, la Agenda Climática, la NDC y la Ley de Cambio Climático, que integran adaptación, mitigación, gestión del riesgo, información y prioridades sectoriales. La evidencia muestra compromisos para energía, agricultura, recursos hídricos, salud, infraestructura y ecosistemas, pero también la necesidad de convertir ese marco en orientaciones aplicables al SNIPH.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Fomentar el diseño, desarrollo, construcción y despliegue de infraestructura e instalaciones más apropiadas en términos de resistencia y versatilidad, a fin de adaptarlas mejor a los efectos actuales y proyectados del cambio climático.",
+                  "pagina": 40
+                },
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "La ENCC aborda un conjunto de elementos que aportan a la incorporación tanto de la ASICC como de la RRD en la inversión pública.",
+                  "pagina": 42
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Fortalezas, barreras y oportunidades",
+              "nivel": 3,
+              "paginas": "48-50",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 48 y 50. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "En ambos casos la disponibilidad de información se reconoce como parte de las prioridades pendientes.",
+                  "pagina": 48,
+                  "subtipo_brecha": "prospectiva"
+                },
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Las normas establecen espacios de articulación de los esfuerzos en RRD y cambio climático, como son el SINAGER, el CICC y el CTICC, los cuales se constituyen en una oportunidad para generar un efecto multiplicador en las acciones dirigidas a la incorporación de la RRD y ASICC en la inversión pública.",
+                  "pagina": 49
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "II. Institucionalidad",
+      "nivel": 1,
+      "paginas": "51-64",
+      "resumen": null,
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Institucionalidad para la planificación del desarrollo",
+          "nivel": 2,
+          "paginas": "51",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Consejo del Plan Nación",
+              "nivel": 3,
+              "paginas": "51",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 51 y 51. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Institucionalidad para la inversión pública",
+          "nivel": 2,
+          "paginas": "52-53",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Dirección General de Presupuesto Público",
+              "nivel": 3,
+              "paginas": "52-53",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 52 y 53. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Institucionalidad para la reducción del riesgo de desastres",
+          "nivel": 2,
+          "paginas": "54-55",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Comisión Permanente de Contingencias",
+              "nivel": 3,
+              "paginas": "54-55",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 54 y 55. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "La COPECO está trabajando en un grupo de reformas para la Ley del SINAGER, con la finalidad de lograr que su contenido contemple una visión integral del riesgo.",
+                  "pagina": 55
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "D. Institucionalidad para el cambio climático",
+          "nivel": 2,
+          "paginas": "56-62",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Comité Interinstitucional de Cambio Climático",
+              "nivel": 3,
+              "paginas": "56",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 56 y 56. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "El Comité Interinstitucional de Cambio Climático (CICC) 13 fue creado como instancia de diálogo y coordinación nacional sobre cambio climático.",
+                  "pagina": 56
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Consejo Presidencial de Cambio Climático",
+              "nivel": 3,
+              "paginas": "56-57",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 56 y 56. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Le corresponde al Consejo Presidencial revisar y actualizar el marco legal y las políticas públicas en materia de cambio climático, lo que comprende el marco de la planificación y ejecución de los proyectos de inversión pública y privada sobre cambio climático.",
+                  "pagina": 57
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Comité Técnico Interinstitucional de Cambio Climático",
+              "nivel": 3,
+              "paginas": "57",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 57 y 57. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "El Comité Técnico Interinstitucional de Cambio Climático (CTICC) 18 fue creado como órgano permanente de apoyo a la Dirección Nacional de Cambio Climático (DNCC) y es coordinado por MiAmbiente+.",
+                  "pagina": 57
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Secretaría de Recursos Naturales y Ambiente",
+              "nivel": 3,
+              "paginas": "57-62",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 57 y 57. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Desde la Dirección General de Recursos Hídricos de MiAmbiente+ y con la participación de la DNCC, se ha elaborado el Plan Nacional de Reducción de Riesgos por Sequía 2020-2038 (PNRRS- Honduras).",
+                  "pagina": 61
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Oficina Presidencial de Economía Verde",
+              "nivel": 3,
+              "paginas": "57-62",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 57 y 62. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "El establecimiento de la Política de Crecimiento Verde para Todos, contempla el desarrollo de tres programas: i) Programa Nacional de Recuperación de Ecosistemas Degradados, que surge en el marco de la Estrategia REDD+ y que contribuye al cumplimiento de la meta de reforestación de un millón de hectáreas; ii) Programa Nacional de Ecosistemas Terrestres con énfasis en áreas naturales protegidas y productoras de recursos hídricos con la finalidad de asegurar la provisión de este recursos, y iii) Programa de Ecosistemas Marino-Costeros.",
+                  "pagina": 58
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "E. Fortalezas, barreras y oportunidades",
+          "nivel": 2,
+          "paginas": "63-64",
+          "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 63 y 64. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+          "dimensiones": [
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "Se identifica la necesidad de definir indicadores que permitan conocer el avance en el cumplimiento de la NDC, a los cuales se puede contribuir con la inversión pública que incorpora la RRD y ASICC.",
+              "pagina": 64,
+              "subtipo_brecha": "prospectiva"
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "III. Funcionamiento del SNIPH",
+      "nivel": 1,
+      "paginas": "65-72",
+      "resumen": null,
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Organización del SNIPH",
+          "nivel": 2,
+          "paginas": "65",
+          "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 65 y 65. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+          "dimensiones": [
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Ámbito de aplicación",
+          "nivel": 2,
+          "paginas": "65",
+          "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 65 y 65. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Alcance de la inversión pública",
+          "nivel": 2,
+          "paginas": "66-68",
+          "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 66 y 68. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Inversión en desarrollo humano Comprende todos los recursos financieros utilizados para desarrollar proyectos de asistencia social, técnico-financiera y fortalecimiento institucional.",
+              "pagina": 66
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Ciclo de proyectos y procesos en cada fase",
+          "nivel": 2,
+          "paginas": "67-69",
+          "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 69 y 69. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "En este tramo se realiza el análisis de viabilidad técnica, económica, financiera, de impacto social, ambiental y de riesgos.",
+              "pagina": 68
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Fuentes de financiamiento",
+          "nivel": 2,
+          "paginas": "70",
+          "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 70 y 70. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "F. Evolución de la inversión pública",
+          "nivel": 2,
+          "paginas": "70-71",
+          "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 71 y 72. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Como se observa en el gráfico 2, en el caso de los sectores priorizados por el proyecto, el 38,5% de los recursos se destinaron a carreteras, mientras que los sectores de educación y salud recibieron solo 5% de los recursos cada uno.",
+              "pagina": 70
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "G. Fortalezas, barreras y oportunidades",
+          "nivel": 2,
+          "paginas": "71-72",
+          "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 73 y 73. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+          "dimensiones": [
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Instituciones claves para los sectores priorizados",
+      "nivel": 1,
+      "paginas": "73-100",
+      "resumen": null,
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Agricultura: Secretaría de Agricultura y Ganadería",
+          "nivel": 2,
+          "paginas": "73-83",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Funciones",
+              "nivel": 3,
+              "paginas": "73-77",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 73 y 77. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Una Honduras productiva, generadora de oportunidades y empleo digno, que aprovecha de manera sostenible sus recursos y reduce la vulnerabilidad ambiental",
+                  "pagina": 74
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Instrumentos de política",
+              "nivel": 3,
+              "paginas": "74-77",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 78 y 78. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "El objetivo general de este Plan se enfoca en brindar lineamientos generales para la implementación de medidas de adaptación al cambio climático por medio de los programas, proyectos y servicios de la SAG.",
+                  "pagina": 77
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Organización para la inversión pública",
+              "nivel": 3,
+              "paginas": "78-81",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 79 y 81. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Iniciativas para la incorporación de la RRD y ASICC",
+              "nivel": 3,
+              "paginas": "82-83",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 82 y 83. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Una de las experiencias destacables del ICF es el Programa Adaptación al Cambio Climático del Sector Forestal (CLIFOR), desarrollado en estrecha articulación con la SAG.",
+                  "pagina": 82
+                },
+                {
+                  "dimension": "oportunidades",
+                  "cita": "El ICF también ha participado en el Proyecto de Adaptación Basada en Ecosistemas – ADAPTARC, liderado por MiAmbiente+, con el objetivo de incrementar la resiliencia climática de comunidades vulnerables del Corredor Boscoso Central, al tiempo que se asegure la disponibilidad de sus medios de vida y la continuidad de la prestación de servicios ecosistémicos para la ciudad de Tegucigalpa.",
+                  "pagina": 82
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Fortalezas, barreras y oportunidades",
+              "nivel": 3,
+              "paginas": "84",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 84 y 84. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "El proceso de formulación de proyectos de inversión sigue lo establecido por la SEFIN en el marco del SNIPH, en particular la aplicación de la Guía metodológica general para la formulación y evaluación de proyectos de inversión pública, sin embargo son necesarias orientaciones específicas en función de los proyectos que requiere formular el sector.",
+                  "pagina": 84,
+                  "subtipo_brecha": "prospectiva"
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Salud: Secretaría de Salud (SESAL)",
+          "nivel": 2,
+          "paginas": "84-89",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Funciones",
+              "nivel": 3,
+              "paginas": "84-85",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 84 y 85. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Instrumentos de política",
+              "nivel": 3,
+              "paginas": "86-87",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 86 y 87. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Organización para la inversión pública",
+              "nivel": 3,
+              "paginas": "88",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 88 y 88. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "La SESAL cuenta con una Unidad de Vigilancia de la Salud y en su interior un Área de Gestión de Riesgos en Salud en Situaciones de Emergencia y Desastres (AGRSSED), entidad responsable de proponer políticas, programas y proyectos para la gestión y vigilancia de los riesgos en salud en situaciones de emergencia y desastres para evitar o reducir los efectos adversos y de pérdida de vidas humanas.",
+                  "pagina": 88
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Iniciativas para la incorporación de la RRD y ASICC",
+              "nivel": 3,
+              "paginas": "89",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 89 y 89. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "En establecimientos de salud de segundo nivel se aplica el Índice de Seguridad Hospitalaria, basado en una guía, que analiza elementos estructurales y no estructurales.",
+                  "pagina": 89
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Fortalezas, barreras y oportunidades",
+              "nivel": 3,
+              "paginas": "90",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 90 y 90. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Educación: Secretaría de Educación (SEDUC)",
+          "nivel": 2,
+          "paginas": "90-95",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Funciones",
+              "nivel": 3,
+              "paginas": "90-91",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 90 y 91. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Instrumentos de política",
+              "nivel": 3,
+              "paginas": "92",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 92 y 92. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Organización para la inversión pública",
+              "nivel": 3,
+              "paginas": "93-94",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 93 y 94. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "Sobre el segundo indicador, en el Ministerio de Educación (conoce e interviene la vulnerabilidad de la infraestructura administrativa existente frente a las amenazas a las cuales están expuestas) no se identifican avances.",
+                  "pagina": 93,
+                  "subtipo_brecha": "retrospectiva"
+                },
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Asimismo, la SEDUC está poniendo en marcha tres proyectos.",
+                  "pagina": 94
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Iniciativas para la incorporación de la RRD y ASICC",
+              "nivel": 3,
+              "paginas": "95",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 95 y 95. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "La SEDUC cuenta con una norma específica para transversalizar la gestión de riesgo y el cambio climático en el currículo educativo.",
+                  "pagina": 95
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Fortalezas, barreras y oportunidades",
+              "nivel": 3,
+              "paginas": "96",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 96 y 96. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "D. Infraestructura vial: Secretaría de Infraestructura y Servicios Públicos (INSEP)",
+          "nivel": 2,
+          "paginas": "96-100",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Funciones",
+              "nivel": 3,
+              "paginas": "96",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 96 y 96. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Instrumentos de política",
+              "nivel": 3,
+              "paginas": "97",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 97 y 97. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Organización para la inversión pública",
+              "nivel": 3,
+              "paginas": "98-99",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 98 y 99. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Iniciativas para la incorporación de la RRD y ASICC",
+              "nivel": 3,
+              "paginas": "100",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 100 y 100. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Fortalezas, barreras y oportunidades",
+              "nivel": 3,
+              "paginas": "101",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 101 y 101. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "V. Guías y otros instrumentos metodológicos",
+      "nivel": 1,
+      "paginas": "101-124",
+      "resumen": null,
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Instrumentos metodológicos generales",
+          "nivel": 2,
+          "paginas": "101-113",
+          "resumen": null,
+          "dimensiones": [
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "No se encuentran evidencias de la consideración de la RRD y ASICC. Las alternativas no considerarían medidas correctivas del riesgo.",
+              "pagina": 105,
+              "subtipo_brecha": "retrospectiva"
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "1. Guía metodológica general para la preparación y evaluación de programas y proyectos de inversión pública (GMG)",
+              "nivel": 3,
+              "paginas": "114",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 114 y 114. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Manual para la evaluación del riesgo del emplazamiento y del medio construido (2011)",
+              "nivel": 3,
+              "paginas": "114",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 114 y 114. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Instrumentos metodológicos sectoriales",
+          "nivel": 2,
+          "paginas": "114-121",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Instrumentos metodológicos para proyectos del sector agropecuario",
+              "nivel": 3,
+              "paginas": "122",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 122 y 122. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Herramientas de apoyo",
+          "nivel": 2,
+          "paginas": "122",
+          "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 122 y 122. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "Se han revisado otras herramientas disponibles para el diseño de infraestructura y que se aplicarían en los proyectos de inversión pública, en las que se han identificado referencias principalmente a la RRD, como se observa en el cuadro 30.",
+              "pagina": 122
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Aplicación práctica de los instrumentos",
+          "nivel": 2,
+          "paginas": "122-124",
+          "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 122 y 124. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+          "dimensiones": [
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "En los sectores priorizados (agropecuario, educación, salud y vialidad) la GMG es el instrumento metodológico que se aplica en la formulación y evaluación de proyectos.",
+              "pagina": 122,
+              "subtipo_brecha": "prospectiva"
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Fortalezas, barreras y oportunidades",
+          "nivel": 2,
+          "paginas": "123-124",
+          "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 125 y 125. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Se resalta la conveniencia de fortalecer la Guía Metodológica General considerando el enfoque RRD y ASICC, en la que se orientaría la inclusión de la gestión prospectiva y correctiva del riesgo en el proceso de elaboración de los estudios de preinversión.",
+              "pagina": 123
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "VI. Desarrollo de capacidades",
+      "nivel": 1,
+      "paginas": "125-132",
+      "resumen": null,
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Prácticas de fortalecimiento de capacidades",
+          "nivel": 2,
+          "paginas": "125-130",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Desde la DGIP del SEFIN",
+              "nivel": 3,
+              "paginas": "125-126",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 125 y 126. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Entre los temas que se tratan se hallan los Aspectos Ambientales y la de Gestión de Riesgos de Desastres (GRD).",
+                  "pagina": 125
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Desde la Secretaría de Educación (SEDUC)",
+              "nivel": 3,
+              "paginas": "126",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 127 y 127. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "La SEDUC, en consonancia con la realidad del país y como actor clave en el Sistema Nacional de Gestión de Riesgo (SINAGER), incorpora en el marco de sus competencias el tema de gestión del riesgo, de manera transversal en el currículo y la dotación de material docente y pedagógico de utilidad para conducir su desarrollo en el sistema educativo.",
+                  "pagina": 126
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Desde la Universidad Nacional Autónoma de Honduras (UNAH)",
+              "nivel": 3,
+              "paginas": "127-128",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 128 y 128. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Más de 800 personas capacitadas y 120 trabajos de investigación aplicada.",
+                  "pagina": 127
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Desde la Secretaría de Salud (SESAL)",
+              "nivel": 3,
+              "paginas": "128-129",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 128 y 129. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "En la UNAH se mencionó que existen postgrados en materia de proyectos de inversión, pero sin el enfoque de RRD y adaptación al CC.",
+                  "pagina": 128,
+                  "subtipo_brecha": "prospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Desde la Secretaría de Agricultura y Ganadería",
+              "nivel": 3,
+              "paginas": "129",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 130 y 130. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "En la SAG se cuenta con el Servicio de Educación Agrícola, Capacitación y Desarrollo Agroempresarial (SEDUCA), que articula los procesos de educación formal y no formal, capacitación y formación agroalimentaria y del medio rural dentro del país.",
+                  "pagina": 129
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "6. Desde la Secretaría de Recursos Naturales y Ambiente (MiAmbiente+)",
+              "nivel": 3,
+              "paginas": "130",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 130 y 130. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Como meta anual se planea capacitar 6.000 personas en los temas arriba mencionados, mediante talleres, capacitaciones, charlas, cursos y foros en temas de cambio climático, mitigación y adaptación, a nivel nacional.",
+                  "pagina": 130
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "7. Desde la Comisión Permanente de Contingencias (COPECO)",
+              "nivel": 3,
+              "paginas": "131",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 131 y 131. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "En la reunión virtual de consulta, la COPECO mencionó que han llevado a cabo capacitaciones coordinadas con la SEFIN sobre el Manual para la Evaluación de Riesgo del Emplazamiento y del Medio Construido en los sectores o tipos de proyectos priorizados.",
+                  "pagina": 131
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "8. Otras instituciones",
+              "nivel": 3,
+              "paginas": "131",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 131 y 131. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Requerimientos de capacitación",
+          "nivel": 2,
+          "paginas": "131-132",
+          "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 131 y 132. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Es necesario que se defina una estrategia de fortalecimiento permanente de capacidades en todo el ciclo de los proyectos de inversión, apoyándose en: i) una estructura institucional definida y acordada con la participación articulada de actores clave como la SEFIN, MiAmbiente+ y COPECO; ii) el fortalecimiento de guías metodológicas (general y sectoriales) y herramientas prácticas para la incorporación de la RRD y ASICC; iii) el diseño de una estructura curricular actualizada y flexible que pueda utilizarse en los programas de capacitación, tanto generales como sectoriales, y iv) insumos y materiales de capacitación, entre casos de aplicación práctica sobre la base de proyectos en formulación.",
+              "pagina": 132
+            },
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "El fortalecimiento de la inclusión de la RRD y ASICC resulta importante en los proyectos de desarrollo rural, teniendo en cuenta que las actividades agropecuarias dependen del clima e inciden en la seguridad alimentaria.",
+              "pagina": 132,
+              "subtipo_brecha": "prospectiva"
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Fortalezas, barreras y oportunidades",
+          "nivel": 2,
+          "paginas": "133",
+          "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 133 y 133. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+          "dimensiones": [],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "VII. Información para la inversión pública",
+      "nivel": 1,
+      "paginas": "133-143",
+      "resumen": null,
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Comisión Permanente de Contingencias de Honduras (COPECO)",
+          "nivel": 2,
+          "paginas": "134",
+          "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 134 y 134. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+          "dimensiones": [
+            {
+              "dimension": "oportunidades",
+              "cita": "Esta información puede ser útil como una primera referencia para la identificación de amenazas que pudiesen afectar a los proyectos de inversión.",
+              "pagina": 134
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Centro de Estudios Atmosféricos, Oceanográficos y Sísmicos (CENAOS)",
+          "nivel": 2,
+          "paginas": "134-135",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Datos generales",
+              "nivel": 3,
+              "paginas": "135",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 135 y 135. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "En la reunión virtual sostenida con COPECO, se reveló que por disposición legal el público no tiene acceso a la información de CENAOS, pero se está evaluando la incorporación de los mapas del CENAOS en el Geoportal o en la RMGIR.",
+                  "pagina": 135,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Información que produce",
+              "nivel": 3,
+              "paginas": "136",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 136 y 136. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Imágenes satelitales, en donde se encuentran imágenes satelitales de las últimas 3 horas, generadas por CENAOS-COPECO con datos del satélite GOES-16 de la NOAA.",
+                  "pagina": 136
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Observatorio Nacional de Cambio Climático y Desarrollo Sostenible de Honduras (ONCC-DS)",
+          "nivel": 2,
+          "paginas": "136",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Datos generales",
+              "nivel": 3,
+              "paginas": "137",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 137 y 137. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Gestionar información sobre el Cambio Climático y su impacto en los principales sectores del desarrollo en Honduras, que contribuya como coadyuvante de las instituciones obligadas al cumplimiento de los compromisos asumidos ante la Convención Marco de las Naciones Unidas sobre el Cambio Climático (CMNUCC), mediante el monitoreo, reporte y verificación de los resultados de políticas, medidas y acciones de mitigación y adaptación a fin de contribuir a reducir la vulnerabilidad climática y el mejoramiento de los medios de vida",
+                  "pagina": 137
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Información que proporciona",
+              "nivel": 3,
+              "paginas": "137",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 137 y 137. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Agua Honduras",
+              "nivel": 3,
+              "paginas": "138",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 138 y 138. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Identificación de sitio apto para “tomas/cosecha de agua” y su ruta de conducción hasta las parcelas.",
+                  "pagina": 138
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Centro de documentación",
+              "nivel": 3,
+              "paginas": "139",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 139 y 139. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Gestión de Riesgo – Cambio climático La economía del cambio climático Sistematización de experiencias en adaptacióna Agricultura, suelos y seguridad alimentaria Evaluación de cultivos (técnicas)a Guías de buenas prácticas para cultivos y conservación de sueloa",
+                  "pagina": 139
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Compromisos y metas de Honduras",
+              "nivel": 3,
+              "paginas": "139",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 139 y 139. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "D. Sistema de Información para la Gestión y Monitoreo Forestal (SIGMOF)",
+          "nivel": 2,
+          "paginas": "139",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Datos generales",
+              "nivel": 3,
+              "paginas": "140",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 140 y 140. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Información que proporciona",
+              "nivel": 3,
+              "paginas": "140",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 140 y 140. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "En esta sección se ubica un mapa de Honduras, en donde se visualiza la información por capas de cobertura forestal de los años 2014 y 2018.",
+                  "pagina": 140
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "E. Instituto Hondureño de Ciencias de la Tierra (IHCIT)",
+          "nivel": 2,
+          "paginas": "140-141",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Datos generales",
+              "nivel": 3,
+              "paginas": "141",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 141 y 141. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "La función primordial del Instituto Hondureño de Ciencias de la Tierra es estudiar todos los fenómenos relacionados con la estructura, condiciones físicas e historia evolutiva de la Tierra, en áreas tan importantes como la geología, hidrogeología y fenómenos naturales y atmosféricos.",
+                  "pagina": 141
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Productos",
+              "nivel": 3,
+              "paginas": "142",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 142 y 142. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Se puede hallar un mapa con información del clima de Honduras.",
+                  "pagina": 142
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "F. Secretaría de Agricultura y Ganadería – Servicio de Información Agroalimentaria (INFOAGRO)",
+          "nivel": 2,
+          "paginas": "142",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Información general",
+              "nivel": 3,
+              "paginas": "143",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 142 y 142. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Información que proporciona",
+              "nivel": 3,
+              "paginas": "143",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 143 y 143. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "G. Secretaría de Educación",
+          "nivel": 2,
+          "paginas": "143",
+          "resumen": null,
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Sistema de Administración de Centros Educativos (SACE)",
+              "nivel": 3,
+              "paginas": "143",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 143 y 143. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. El Sistema de Planificación de Infraestructura Educativa (SIPLIE)",
+              "nivel": 3,
+              "paginas": "144",
+              "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 144 y 144. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "La información custodiada en el SIPLIE es muy útil para la formulación y evaluación de proyectos de inversión para instituciones educativas, en particular para mejoramiento y ampliación, lo que posibilita además incluir, de ser el caso, medidas de RRD y ASICC.",
+                  "pagina": 144
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "H. Secretaría de Infraestructura y Servicios Públicos. Sistema de Información de Obras y Contratos de Supervisión (SISOCS)",
+          "nivel": 2,
+          "paginas": "144",
+          "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 144 y 144. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+          "dimensiones": [],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "I. Fortalezas, barreras y oportunidades en sistemas de información",
+      "nivel": 1,
+      "paginas": "144",
+      "resumen": "Este apartado documenta el papel de la unidad analizada dentro del diagnóstico del SNIPH y contrasta su diseño, funciones, instrumentos disponibles y limitaciones de aplicación entre las páginas 144 y 144. Su función argumental es identificar condiciones operativas para mejorar la formulación, evaluación y seguimiento de proyectos públicos, incluyendo responsabilidades institucionales, información y capacidades técnicas cuando el bloque las reporta.",
+      "dimensiones": [
+        {
+          "dimension": "brechas_implementacion",
+          "cita": "Aunque se han diseñados varios mapas de amenazas y vulnerabilidades, entre otros, por parte de la COPECO y otras instituciones de gobierno, pero no son accesibles ni difundidos.",
+          "pagina": 144,
+          "subtipo_brecha": "retrospectiva"
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El diagnóstico documenta un paquete de instrumentos y acciones de adaptación, mitigación, información y fortalecimiento del SNIPH, pero no formula una inversión masiva y coordinada propia a escala de transformación productiva. Sí identifica sectores y metas concretas, por lo que supera el lenguaje meramente aspiracional.",
+      "citas": [
+        {
+          "cita": "Honduras se propone reducir 15% hacia 2030 las emisiones respecto del escenario BAU en los sectores de energía, procesos industriales, agricultura y residuos.",
+          "pagina": 46
+        }
+      ],
+      "nota": "Es un diagnóstico técnico con recomendaciones operativas, no una propuesta autónoma de paquete de inversión a escala de modelo de desarrollo."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El CICC es un mecanismo nacional nombrado de diálogo y coordinación que reúne gobierno, empresa privada, sociedad civil, academia, comunidades indígenas, colegios profesionales y cooperantes; por tanto corresponde al ámbito hondureño y no solo enumera actores.",
+      "citas": [
+        {
+          "cita": "El Comité Interinstitucional de Cambio Climático (CICC) 13 fue creado como instancia de diálogo y coordinación nacional sobre cambio climático.",
+          "pagina": 56
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Sí",
+      "evidencia": "El documento enumera agricultura sostenible, riego, cadenas agroalimentarias, infraestructura y tecnologías de adaptación, y desarrolla su vínculo con productividad, competitividad, empleo e ingresos; la formulación sectorial no es una mención aislada.",
+      "citas": [
+        {
+          "cita": "la generación masiva de empleo y el incremento en el ingreso de divisas, que derive en un aporte significativo al desarrollo económico y social del país",
+          "pagina": 75
+        }
+      ],
+      "nota": null
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "La sección final propia de fortalezas, barreras y oportunidades en información formula tres medidas normativas con instrumentos y entregables identificables: acuerdos y agenda de coordinación, integración de plataformas y módulo georreferenciado para usuarios del SNIPH.",
+      "citas": [
+        {
+          "cita": "Se recomienda buscar acuerdos institucionales y una agenda de coordinación que permita aprovechar la gran diversidad de información disponible en las plataformas y sistemas de información existentes en Honduras, así como las capacidades técnicas para la integración de dichas plataformas y el desarrollo de un módulo que facilite información georreferenciada para los formuladores y evaluadores de proyectos de inversión pública.",
+          "pagina": 145
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Buscar acuerdos institucionales y establecer una agenda de coordinación para integrar plataformas y desarrollar un módulo georreferenciado de apoyo a formuladores y evaluadores del SNIPH.",
+          "clasificacion": "CONCRETO",
+          "pagina": 145
+        }
+      ],
+      "tally": "1 de 1 ítems pasan el test de concreción",
+      "nota": "La unidad es el ítem completo de la voz normativa del cierre; no se fragmenta en subcomponentes."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la distancia entre un marco climático y de gestión del riesgo relativamente amplio y la capacidad real del Estado para traducirlo en cada fase de la inversión pública. La contradicción central no es solo ambiental: es la falta de instrumentos operativos, información accesible, coordinación y capacidades para que el SNIPH proteja la continuidad de los servicios frente a amenazas y variabilidad climática.",
+      "filtro_categoria_primaria": "La primaria es #11 porque el objeto del diagnóstico es la arquitectura estatal del SNIPH: normas, DGIP, Nota de Prioridad, guías, información y capacitación. La adaptación y la reducción del riesgo definen el ámbito y la finalidad de esa arquitectura, por lo que #6 es secundaria; no se invierte objeto e instrumento solo porque el texto trate de clima.",
+      "secundaria_obligatoria": "La secundaria #6 expresa la finalidad sectorial de las capacidades analizadas: incorporar RRD y ASICC en inversiones de agricultura, salud, educación e infraestructura para reducir vulnerabilidad y sostener servicios. No es una referencia decorativa, pues orienta la revisión de guías, datos, mecanismos y medidas de cada capítulo.",
+      "justificacion_anti_copia": "El método combina revisión de instrumentos, reuniones virtuales con instituciones y diagnóstico de ciclo de proyectos. Examina la GMG, la Nota de Prioridad y el Blindaje de Proyectos; identifica CICC/CTICC, MAP, AGRSSED, SIPLIE, CENAOS y ONCC-DS; y culmina proponiendo integrar plataformas mediante un módulo georreferenciado para formuladores y evaluadores. Estos rasgos muestran que el trabajo evalúa capacidades públicas aplicadas a una finalidad climática.",
+      "validacion_anclas": "Se contrasta con el ancla #8, “Reflexiones sobre la gestión del agua...”: ambos sitúan la arquitectura institucional como objeto y el ambiente como ámbito. A diferencia de ese ancla de gobernanza hídrica, este caso organiza el análisis en torno al SNIPH, la preinversión, la evaluación y los sectores priorizados; la semejanza relevante mantiene el patrón #11/#6."
+    },
+    "tipo_documento_climatico": "Diagnóstico técnico institucional de inversión pública",
+    "nivel_aplicacion": "Nacional (Honduras)",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

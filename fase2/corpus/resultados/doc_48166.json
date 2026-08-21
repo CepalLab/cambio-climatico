@@ -1,0 +1,669 @@
+{
+  "documento": {
+    "num_muestra": 48166,
+    "titulo": "Lineamientos para la acción climática de Santo Domingo, Distrito Nacional, 2022-2030",
+    "autoria": "Indhira De Jesús",
+    "handle": "https://hdl.handle.net/11362/48166",
+    "simbolo": "LC/TS.2022/136",
+    "isbn": null,
+    "fecha": "2022",
+    "tipo_documento": "Documento de proyecto",
+    "paginas_cuerpo": 65,
+    "paginas_totales": 73,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cómo puede el Distrito Nacional convertir su diagnóstico de vulnerabilidad, emisiones y brechas institucionales en una cartera coordinada y financiable de acción climática urbana hacia 2030?",
+    "alcance": {
+      "ambito_aplicacion": "Distrito Nacional de Santo Domingo, República Dominicana (local/urbano)",
+      "referentes_dependencias": "República Dominicana, Gran Santo Domingo, CEPAL, UNDRR, CC35, CNCCMDL, MEPYD, INTRANT y CAASD",
+      "sectorial": "planificación urbana, energía, transporte, agua y saneamiento, residuos, infraestructura verde, gestión de riesgos y salud",
+      "temporal": "diagnóstico con datos principalmente 2010-2021; lineamientos y acciones con horizonte 2030"
+    },
+    "hallazgos_principales": [
+      {
+        "descripcion": "El Distrito Nacional concentra población, actividad económica y servicios, pero su urbanización y localización ribereña y costera amplifican la exposición a inundaciones, calor, sequías y marejadas.",
+        "cita": "El Distrito Nacional es una de las demarcaciones con más alta vulnerabilidad climática de la República Dominicana",
+        "pagina": 15
+      },
+      {
+        "descripcion": "Energía y transporte dominan el diagnóstico de emisiones y las oportunidades locales de mitigación, junto con residuos, construcción y captura vegetal.",
+        "cita": "las principales oportunidades de mitigación que se identifican a escala local son las relacionadas con el transporte, la industria de la construcción y la gestión de desechos sólidos.",
+        "pagina": 58
+      },
+      {
+        "descripcion": "La evaluación de resiliencia detecta una brecha financiera especialmente severa, además de déficits de coordinación, monitoreo, normativa y planificación de largo plazo.",
+        "cita": "La mayor brecha de resiliencia se identificó en el aspecto esencial 3, Fortalecer la capacidad financiera para la resiliencia.",
+        "pagina": 55
+      },
+      {
+        "descripcion": "El cierre traduce el diagnóstico en 11 acciones con responsables, plazos y fuentes de financiamiento, distribuidas entre mitigación, adaptación y acciones transversales.",
+        "cita": "En el documento, se proponen 5 medidas de mitigación, 3 medidas de adaptación y 3 medidas transversales.",
+        "pagina": 65
+      }
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "Santo Domingo enfrenta riesgos climáticos urbanos diferenciados por territorio y condición social; la exposición se relaciona con expansión urbana, déficits de infraestructura, presión sobre servicios y falta de planificación preventiva.",
+        "La ciudad cuenta con planes, unidades y acciones previas, pero requiere coordinación deliberada, información, financiamiento y capacidades para que los objetivos climáticos sean explícitos y verificables."
+      ],
+      "recomendaciones": [
+        "Establecer un equipo coordinador en la alcaldía y articular la implementación con el Consejo de Desarrollo, gobierno nacional, sector privado, academia y sociedad civil.",
+        "Completar el inventario local de GEI, fortalecer Siembra tu Ciudad, desarrollar el Plan Integral de Gestión de Riesgos, actualizar normas urbanas y construir perfiles de proyectos para acceder a financiamiento."
+      ],
+      "nota": "Las conclusiones y recomendaciones se mantienen diferenciadas y se basan en el cierre del documento."
+    },
+    "resumen_narrativo": "El documento formula lineamientos para que el Distrito Nacional de Santo Domingo gestione de forma integrada sus riesgos, emisiones y vulnerabilidades urbanas hacia 2030. El diagnóstico muestra que energía y transporte son fuentes centrales de emisiones, mientras la urbanización, los déficits de drenaje, agua, saneamiento y movilidad y la localización en zonas expuestas agravan los impactos. La evaluación de resiliencia identifica como principal brecha la capacidad financiera y reclama coordinación, monitoreo, normativa y planificación de largo plazo. El cierre propone cinco acciones de mitigación, tres de adaptación y tres transversales, con responsables, plazos y fuentes de financiamiento."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": {
+        "inicio": 13,
+        "fin": 14
+      },
+      "resumen": "La introducción presenta el propósito de los lineamientos y explica que las ciudades son actores clave para la mitigación y la adaptación. Sitúa el documento en la recuperación verde, la reducción de la huella de carbono y el aumento de la resiliencia, y anticipa la secuencia de diagnóstico, gobernanza, evaluación de riesgos, emisiones y acciones climáticas.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Las ciudades representan al menos un 60% de las emisiones de gases de efecto invernadero (GEI), al mismo tiempo que albergan más de un 50% de la población mundial (Naciones Unidas, 2021).",
+          "pagina": 13
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. La ciudad de Santo Domingo de Guzmán",
+      "nivel": 1,
+      "paginas": {
+        "inicio": 15,
+        "fin": 38
+      },
+      "resumen": "El documento formula lineamientos de acción climática para el Distrito Nacional de Santo Domingo mediante un diagnóstico urbano, un proceso participativo, la revisión de instrumentos existentes y una cartera priorizada de acciones. El análisis vincula emisiones, vulnerabilidad, infraestructura, gobernanza y capacidades institucionales, con atención a mitigación, adaptación y medidas transversales. La primera parte caracteriza territorio, población, servicios, ambiente e impactos climáticos de la capital.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Contexto geográfico",
+          "nivel": 2,
+          "paginas": {
+            "inicio": 15,
+            "fin": 17
+          },
+          "resumen": "Esta subsección ubica al Distrito Nacional dentro de la República Dominicana y del Gran Santo Domingo, describe su condición costera y su función como centro político, económico y urbano. También identifica la concentración de población y servicios en áreas expuestas, conectando la estructura territorial y la planificación urbana con la vulnerabilidad climática.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Al mismo tiempo, el Distrito Nacional es una de las demarcaciones con más alta vulnerabilidad climática de la República Dominicana, como resultado de debilidades en la planificación y regulación del crecimiento urbano que ha provocado que grandes concentraciones de población se ubiquen en las zonas con mayor riesgo de ser impactadas por los efectos del cambio climático.",
+              "pagina": 15
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Contexto socioeconómico",
+          "nivel": 2,
+          "paginas": {
+            "inicio": 18,
+            "fin": 26
+          },
+          "resumen": "El contexto socioeconómico reúne proyecciones demográficas, envejecimiento, dependencia, empleo, educación, salud, vulnerabilidad social y desarrollo humano. La sección muestra la concentración de oportunidades y servicios en la capital, pero también desigualdades internas entre circunscripciones y condiciones que pueden amplificar la exposición y la capacidad diferenciada de respuesta frente a riesgos climáticos.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Índice de envejecimiento",
+              "nivel": 3,
+              "paginas": {
+                "inicio": 18,
+                "fin": 19
+              },
+              "resumen": "La sección examina el envejecimiento de la población del Distrito Nacional y lo presenta como resultado de mejoras sanitarias y menor mortalidad. Esta estructura demográfica constituye una condición relevante para diseñar respuestas climáticas sensibles a grupos con necesidades específicas y para planificar servicios urbanos resilientes.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "En el Distrito Nacional, la proporción de envejecientes equivale a 36,77% (28,0% para el 2010) y en la provincia de Santo Domingo, 21.32% (ONE, 2021a).",
+                  "pagina": 19
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Índice de dependencia demográfica",
+              "nivel": 3,
+              "paginas": {
+                "inicio": 19,
+                "fin": 19
+              },
+              "resumen": "El índice de dependencia compara población potencialmente inactiva y activa, y sitúa al Distrito Nacional en un rango relativamente bajo respecto de otras demarcaciones. El indicador aporta contexto para valorar la composición demográfica y la capacidad social de absorber impactos y sostener servicios durante emergencias.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "El índice de dependencia demográfica relaciona las personas consideradas como potencialmente inactivas (0 a 4 años y 65 años o más) con relación a la población potencialmente activa (15 a 64 años).",
+                  "pagina": 19
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Empleo",
+              "nivel": 3,
+              "paginas": {
+                "inicio": 20,
+                "fin": 20
+              },
+              "resumen": "El empleo evidencia el peso económico del Distrito Nacional y la elevada concentración de puestos formales, junto con la vulnerabilidad de trabajadores informales y jóvenes. La pandemia profundizó pérdidas laborales y limitaciones de acceso a ayudas, factores que condicionan la distribución social de los impactos y de las oportunidades de transición.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "En un contexto previo a la pandemia de Covid-19, la República Dominicana mantuvo una tasa de desempleo estable, cercana al 6,2% en el 2019 (OIT, 2020).",
+                  "pagina": 20
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Educación",
+              "nivel": 3,
+              "paginas": {
+                "inicio": 21,
+                "fin": 21
+              },
+              "resumen": "La sección describe cobertura educativa, matrícula y efectos de la transición forzada a la enseñanza virtual durante la pandemia. La deserción, el bajo desempeño y la repitencia aparecen como desafíos sociales que deben considerarse al diseñar capacidades y respuestas inclusivas frente a crisis climáticas y sanitarias.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Tras la cuarentena obligatoria impuesta por el Gobierno para detener la propagación del Coronavirus (COVID-19), uno de los sectores más afectados ha sido el sector educación.",
+                  "pagina": 21
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Salud",
+              "nivel": 3,
+              "paginas": {
+                "inicio": 22,
+                "fin": 23
+              },
+              "resumen": "El Distrito Nacional concentra servicios sanitarios y soportó una fuerte demanda durante la pandemia. El texto advierte que el aumento de temperatura puede agravar enfermedades respiratorias, cardiovasculares y transmitidas por vectores o agua, vinculando salud pública y adaptación climática.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Los cambios en el clima aumentarán los riesgos actuales y los riesgos de daño a la salud de la población.",
+                  "pagina": 23
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "6. Vulnerabilidad social",
+              "nivel": 3,
+              "paginas": {
+                "inicio": 23,
+                "fin": 24
+              },
+              "resumen": "La vulnerabilidad social se examina mediante pobreza, calidad de vida, densidad y asentamientos informales. Las diferencias entre circunscripciones, especialmente la concentración de pobreza y densidad en la tercera, muestran que el riesgo climático se distribuye de manera desigual y requiere intervenciones territoriales focalizadas.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "En el territorio del Distrito Nacional se tienen localizadas 14 estaciones de bomberos y 30 unidades barriales con albergues (46.15% del DN), como parte del sistema de emergencia y alerta en caso de eventos que pongan en riesgo la vida de la población.",
+                  "pagina": 24
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "7. Índice de desarrollo humano",
+              "nivel": 3,
+              "paginas": {
+                "inicio": 25,
+                "fin": 26
+              },
+              "resumen": "El índice de desarrollo humano coloca al Distrito Nacional en la primera posición provincial, con mejores resultados de salud, educación e ingreso que la provincia de Santo Domingo. La ventaja agregada convive con brechas intraterritoriales y no elimina la exposición diferenciada de hogares y barrios frente a amenazas climáticas.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "La provincia de mayor nivel de desarrollo humano es el Distrito Nacional, reflejando resultados que combinan mejores indicadores educativos, de salud y de ingreso y de la concentración de las oportunidades en la ciudad capital.",
+                  "pagina": 25
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Infraestructura de los servicios sociales",
+          "nivel": 2,
+          "paginas": {
+            "inicio": 26,
+            "fin": 33
+          },
+          "resumen": "Esta sección analiza energía, agua y saneamiento, movilidad, vulnerabilidad territorial, infraestructura verde y uso del suelo. El diagnóstico muestra servicios expuestos a inundaciones, sequías, calor, tormentas y fallas de planificación, así como déficits de drenaje, tratamiento, permeabilidad y movilidad que incrementan daños y costos.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Energía eléctrica",
+              "nivel": 3,
+              "paginas": {
+                "inicio": 26,
+                "fin": 27
+              },
+              "resumen": "El sistema eléctrico depende principalmente de combustibles fósiles, aunque incorpora hidroelectricidad y renovables. La cobertura de hogares es alta, pero la dependencia energética y la exposición de servicios a eventos extremos hacen de la eficiencia, las renovables y la continuidad del suministro asuntos centrales de la acción climática urbana.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "El Sistema Eléctrico Nacional Interconectado (SENI) de la República Dominicana está compuesto por instalaciones alimentadas principalmente con combustibles fósiles, así como generación hidroeléctrica y otras fuentes de energía renovables.",
+                  "pagina": 26
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Agua potable y saneamiento",
+              "nivel": 3,
+              "paginas": {
+                "inicio": 27,
+                "fin": 29
+              },
+              "resumen": "El agua potable y el saneamiento presentan cobertura desigual, suministro discontinuo y baja conexión al alcantarillado y al tratamiento de aguas residuales. Sequías, pérdidas, deficiencias de red y contaminación de ríos y acuíferos conectan la gestión del servicio con la adaptación y la resiliencia urbana.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "Dentro de las razones para las fallas en el servicio se reportan sequías, malas condiciones en las redes y fallos en el servicio eléctrico.",
+                  "pagina": 28,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Movilidad y transporte",
+              "nivel": 3,
+              "paginas": {
+                "inicio": 29,
+                "fin": 31
+              },
+              "resumen": "La movilidad combina congestión, expansión del parque automotor, transporte informal y déficits de infraestructura peatonal y ciclista. El sector genera contaminación atmosférica y emisiones, mientras que la siniestralidad y la desigual calidad del espacio vial afectan salud, bienestar y acceso urbano.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Forma parte del sistema de transporte la modalidad de mototaxi (conocida localmente como moto-concho).",
+                  "pagina": 30
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Vulnerabilidad territorial",
+              "nivel": 3,
+              "paginas": {
+                "inicio": 31,
+                "fin": 32
+              },
+              "resumen": "La ciudad costera y ribereña concentra población e infraestructura en zonas expuestas a inundaciones, deslizamientos, calor y sequías. La urbanización informal, la ocupación de llanuras de inundación, la impermeabilización y la obstrucción del drenaje convierten amenazas climáticas en riesgos territoriales recurrentes.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "El territorio del Distrito Nacional, por su naturaleza de ciudad costera y al margen del Río Ozama, presenta altos niveles de vulnerabilidad en su territorio urbanizado.",
+                  "pagina": 31
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Infraestructura verde",
+              "nivel": 3,
+              "paginas": {
+                "inicio": 32,
+                "fin": 32
+              },
+              "resumen": "La infraestructura verde se define como una red de zonas naturales y seminaturales que presta servicios ecosistémicos, reduce inundaciones, captura carbono y disminuye la temperatura urbana. El área metropolitana conserva activos naturales relevantes, pero su gestión debe integrarse con el crecimiento urbano y la resiliencia.",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "El área metropolitana cuenta con un sistema natural de importantes dimensiones y diversidad de ecosistemas.",
+                  "pagina": 32
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "6. Uso de suelo",
+              "nivel": 3,
+              "paginas": {
+                "inicio": 33,
+                "fin": 33
+              },
+              "resumen": "El Distrito Nacional es predominantemente urbano y ha aumentado su superficie construida, sobre todo en la circunscripción 2. La escasez de suelo natural y la expansión horizontal reducen espacio para ecosistemas y servicios ambientales, reforzando la necesidad de ordenar el crecimiento y preservar áreas permeables.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Todo el territorio del Distrito Nacional ha sido considerado como zona urbana, con una superficie total de 91,58 Km2, en donde actualmente se registra el predominio del suelo urbano con una superficie total de 75,76 km2 (82,72%).",
+                  "pagina": 33
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "D. Aspectos ambientales",
+          "nivel": 2,
+          "paginas": {
+            "inicio": 33,
+            "fin": 34
+          },
+          "resumen": "La sección describe tendencias observadas y proyectadas de temperatura, precipitación, sequías, nivel del mar, infraestructura verde y calidad del aire. El aumento térmico, la reducción de lluvias, las marejadas y la falta de monitoreo permanente muestran brechas de información y planificación que condicionan la gestión climática.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "Al 2050, se prevé que la temperatura media anual aumente entre 1,4o C a 1,7o C.",
+              "pagina": 33
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Principales impactos y vulnerabilidades climáticas",
+          "nivel": 2,
+          "paginas": {
+            "inicio": 35,
+            "fin": 38
+          },
+          "resumen": "Esta subsección organiza los principales impactos climáticos: olas de calor, lluvias intensas e inundaciones, sequías y cambios de precipitación, y ascenso del nivel del mar. Relaciona escenarios futuros con exposición urbana, déficits de drenaje, ocupación informal y necesidad de planificar agua, infraestructura y protección costera.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Las olas de calor se encuentran entre los más peligrosos impactos del cambio climático, por la cantidad de muertes provocadas (IPCC, 2022).",
+              "pagina": 35
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "II. Proceso de formulación de los lineamientos para la acción climática",
+      "nivel": 1,
+      "paginas": {
+        "inicio": 41,
+        "fin": 42
+      },
+      "resumen": "La formulación fue impulsada por el Ayuntamiento del Distrito Nacional con apoyo de CEPAL, CC35 y UNDRR. Incluyó levantamiento de información, entrevistas, encuesta, talleres y validación de acciones, combinando diagnóstico documental y participación de actores para construir una propuesta complementaria a planes existentes.",
+      "dimensiones": [
+        {
+          "dimension": "avances_implementacion",
+          "cita": "En julio del 2021, el ADN solicitó el apoyo de CEPAL y CC35 para la formulación de los lineamientos para la acción climática.",
+          "pagina": 39
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "III. Gobernanza climática en la ciudad",
+      "nivel": 1,
+      "paginas": {
+        "inicio": 43,
+        "fin": 46
+      },
+      "resumen": "La gobernanza climática se distribuye entre ministerios, el Consejo Nacional para el Cambio Climático y mecanismos internos del ayuntamiento. El documento identifica unidades y acciones existentes, pero también la necesidad de transversalizar objetivos, establecer coordinación, seguimiento y evaluación, y fortalecer capacidades y recursos.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "El Consejo de Desarrollo del Distrito Nacional, el cual está conformado por la alcaldía, regidores, representantes del sector privado, la sociedad civil y la academia, debe jugar un papel de articulación entre los actores sociales para lograr los objetivos de los lineamientos para la acción climática.",
+          "pagina": 43
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "IV. Análisis de instrumentos de planificación existentes",
+      "nivel": 1,
+      "paginas": {
+        "inicio": 47,
+        "fin": 54
+      },
+      "resumen": "El análisis revisa el POT-Capital 2030, el Plan Estratégico 2020-2030 y el Plan Municipal de Desarrollo 2020-2024. Identifica numerosas acciones de mitigación y adaptación, pero observa que muchas no tienen objetivos climáticos explícitos; los lineamientos buscan articularlas, complementarlas y dar seguimiento a compromisos.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Los lineamientos facilitarán esta articulación y permitirán dar seguimiento a los compromisos climáticos de la ciudad.",
+          "pagina": 45
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "V. Resultados de la evaluación de la resiliencia frente a desastres a nivel local",
+      "nivel": 1,
+      "paginas": {
+        "inicio": 55,
+        "fin": 58
+      },
+      "resumen": "La evaluación mediante scorecard y taller virtual identifica brechas de resiliencia en autonomía, normativa, recursos, coordinación, monitoreo, infraestructura y planificación de largo plazo. La mayor brecha corresponde a capacidad financiera, y el documento incorpora como respuesta un plan integral de gestión de riesgos y arreglos institucionales.",
+      "dimensiones": [
+        {
+          "dimension": "brechas_implementacion",
+          "cita": "La mayor brecha de resiliencia se identificó en el aspecto esencial 3, Fortalecer la capacidad financiera para la resiliencia.",
+          "pagina": 55,
+          "subtipo_brecha": "retrospectiva"
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "VI. Emisiones de Gases de Efecto Invernadero (GEI)",
+      "nivel": 1,
+      "paginas": {
+        "inicio": 59,
+        "fin": 60
+      },
+      "resumen": "El inventario nacional de 2015 se usa como aproximación ante la ausencia de una cuantificación específica para la ciudad. Energía y transporte concentran las emisiones, mientras residuos, construcción y captura vegetal aparecen como ámbitos locales de mitigación y como oportunidades para contribuir a la meta nacional de reducción al 2030.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "A partir de estos datos, las principales oportunidades de mitigación que se identifican a escala local son las relacionadas con el transporte, la industria de la construcción y la gestión de desechos sólidos.",
+          "pagina": 58
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "VII. Acciones climáticas",
+      "nivel": 1,
+      "paginas": {
+        "inicio": 61,
+        "fin": 66
+      },
+      "resumen": "La sección convierte el diagnóstico en una cartera de acciones de mitigación, adaptación y carácter transversal. Define objetivos de reducción de emisiones, gobernanza climática y resiliencia inclusiva, y presenta actividades con descripciones, plazos, responsables y fuentes de financiamiento, además de su priorización participativa.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Acciones de mitigación",
+          "nivel": 2,
+          "paginas": {
+            "inicio": 62,
+            "fin": 63
+          },
+          "resumen": "Las cinco acciones de mitigación abarcan inventario local de GEI, arbolado urbano, movilidad baja en carbono, ahorro energético y renovables, y gestión integral de residuos. Cada actividad identifica responsables, plazos y financiamiento; la priorización coloca primero Siembra tu Ciudad y luego el inventario de GEI.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "M1. Desarrollar el inventario de GEI de la ciudad",
+              "pagina": 60
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Acciones de adaptación",
+          "nivel": 2,
+          "paginas": {
+            "inicio": 64,
+            "fin": 65
+          },
+          "resumen": "Las tres acciones de adaptación proponen proyectos para reducir vulnerabilidad en zonas inundables, un Plan de Gestión Integral de Riesgos de Desastres y normas urbanas y códigos de construcción. Se asignan plazos y responsables, y se reconoce la dependencia de coordinación e inversión nacional.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "A2. Desarrollar un Plan de Gestión Integral de Riesgos de Desastres para la ciudad.",
+              "pagina": 62
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Acciones transversales",
+          "nivel": 2,
+          "paginas": {
+            "inicio": 66,
+            "fin": 66
+          },
+          "resumen": "Las acciones transversales buscan crear condiciones habilitantes: capacidades institucionales, finanzas climáticas y acceso a datos. Incluyen evaluación de necesidades, protocolos, punto de coordinación, unidad de proyectos, red de sensores y nodo de información, con plazo corto y responsables identificados.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Diseño y puesta en marcha de red de sensores. Mapeo de fuentes de información. Desarrollo del nodo de información del ADN.",
+              "pagina": 64
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "VIII. Conclusiones y recomendaciones",
+      "nivel": 1,
+      "paginas": {
+        "inicio": 67,
+        "fin": 67
+      },
+      "resumen": "El cierre sintetiza riesgos climáticos, oportunidades y el resultado de la cartera de 11 medidas. Recomienda un equipo coordinador, presentación al Consejo de Desarrollo, alianzas, indicadores para Siembra tu Ciudad, apoyo académico para el inventario y perfiles de proyectos para captar recursos nacionales e internacionales.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Establecer un equipo coordinador dentro de la alcaldía, que articule la ejecución de los lineamientos y facilite el proceso de formulación del Plan Integral de Gestión de Riesgos.",
+          "pagina": 65
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "El cierre articula una cartera coordinada de 11 medidas con responsables, plazos y fuentes de financiamiento, cubriendo energía, transporte, residuos, arbolado, adaptación territorial, gestión de riesgos, normas, capacidades, finanzas y datos.",
+      "citas": [
+        {
+          "cita": "En el documento, se proponen 5 medidas de mitigación, 3 medidas de adaptación y 3 medidas transversales.",
+          "pagina": 65
+        }
+      ],
+      "desglose_items": null,
+      "tally": null,
+      "nota": "Pasa los tres tests: paquete coordinado de políticas e inversión; sectores estratégicos; y más de dos eficiencias o condiciones habilitantes."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El documento nombra al Consejo de Desarrollo del Distrito Nacional como mecanismo de articulación dentro del ámbito, con alcaldía, regidores, sector privado, sociedad civil y academia.",
+      "citas": [
+        {
+          "cita": "El Consejo de Desarrollo del Distrito Nacional, el cual está conformado por la alcaldía, regidores, representantes del sector privado, la sociedad civil y la academia, debe jugar un papel de articulación entre los actores sociales para lograr los objetivos de los lineamientos para la acción climática.",
+          "pagina": 43
+        }
+      ],
+      "desglose_items": null,
+      "tally": null,
+      "nota": "El mecanismo es propio del ámbito de aplicación, no una mera lista de actores."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "Se enumeran actividades y sectores concretos —transporte, construcción, residuos, energía y arbolado— y se desarrollan vínculos con emisiones, servicios, salud y resiliencia; sin embargo, el vínculo específico con empleo, productividad o desigualdad no queda desarrollado como resultado productivo-laboral.",
+      "citas": [
+        {
+          "cita": "las principales oportunidades de mitigación que se identifican a escala local son las relacionadas con el transporte, la industria de la construcción y la gestión de desechos sólidos.",
+          "pagina": 58
+        }
+      ],
+      "desglose_items": null,
+      "tally": null,
+      "nota": "Falla el segundo componente del test: no se desarrolla suficientemente empleo, productividad o desigualdad."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "La sección VII y el cierre contienen una unidad completa de recomendaciones con actividades, objetos identificables, responsables, plazos y financiamiento; no se fragmentan sub-bullets aislados.",
+      "citas": [
+        {
+          "cita": "A2. Desarrollar un Plan de Gestión Integral de Riesgos de Desastres para la ciudad.",
+          "pagina": 62
+        },
+        {
+          "cita": "Establecer un equipo coordinador dentro de la alcaldía, que articule la ejecución de los lineamientos y facilite el proceso de formulación del Plan Integral de Gestión de Riesgos.",
+          "pagina": 65
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Desarrollar el inventario de GEI de la ciudad",
+          "clasificacion": "CONCRETO",
+          "pagina": 60
+        },
+        {
+          "item": "Fortalecer y escalar el Plan de Arbolado Urbano de Santo Domingo “Siembra tu ciudad”",
+          "clasificacion": "CONCRETO",
+          "pagina": 60
+        },
+        {
+          "item": "Implementar planes de movilidad sostenible y baja en carbono en el DN",
+          "clasificacion": "CONCRETO",
+          "pagina": 60
+        },
+        {
+          "item": "Desarrollar un Plan de Gestión Integral de Riesgos de Desastres para la ciudad",
+          "clasificacion": "CONCRETO",
+          "pagina": 62
+        },
+        {
+          "item": "Diseño y aplicación de normas urbanas y códigos de construcción",
+          "clasificacion": "CONCRETO",
+          "pagina": 62
+        },
+        {
+          "item": "Fortalecer capacidades institucionales para la gestión de riesgos y cambio climático",
+          "clasificacion": "CONCRETO",
+          "pagina": 64
+        },
+        {
+          "item": "Mejora del acceso a datos climáticos para la toma de decisiones y la gestión de riesgo",
+          "clasificacion": "CONCRETO",
+          "pagina": 64
+        }
+      ],
+      "tally": "7 de 7",
+      "nota": "Todos los ítems seleccionados pertenecen a las unidades normativas de acciones y recomendaciones propias del cierre operativo; cada uno nombra instrumento, actividad, responsable, plazo o entregable."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "La tensión central no es solo reducir emisiones o adaptarse a amenazas, sino convertir un diagnóstico urbano fragmentado en capacidad municipal de coordinación, planificación, financiamiento, información y ejecución climática.",
+      "filtro_categoria_primaria": "El objeto operativo del documento son lineamientos e instrumentos de gestión para la Alcaldía del Distrito Nacional: equipo coordinador, plan de riesgos, normas, inventario, datos y proyectos. La sostenibilidad ambiental es el ámbito y finalidad sustantiva; la arquitectura institucional es el medio transformador dominante.",
+      "secundaria_obligatoria": "Sostenibilidad ambiental es secundaria porque organiza el contenido climático: reducción de GEI, resiliencia ante inundaciones, calor, sequías y nivel del mar, infraestructura verde y movilidad baja en carbono.",
+      "justificacion_anti_copia": "La clasificación se apoya en rasgos propios: el Consejo de Desarrollo como mecanismo de articulación; la brecha de 30% en capacidad financiera; el inventario local de GEI; el Plan Integral de Gestión de Riesgos; el punto de coordinación y el nodo de datos del ADN.",
+      "validacion_anclas": "Se contrasta con el ancla #19, “Panorama de la Gestión Pública 2023: un Estado preparado para la acción climática”, y con el ancla #16, “Acceso a la información, participación y justicia ambiental...”: en ambos, la capacidad institucional es el objeto y lo ambiental delimita el campo."
+    },
+    "tipo_documento_climatico": "Lineamientos de acción climática urbana y planificación municipal",
+    "nivel_aplicacion": "Subnacional: Distrito Nacional de Santo Domingo",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

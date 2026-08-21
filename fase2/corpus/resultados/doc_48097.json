@@ -1,0 +1,599 @@
+{
+  "documento": {
+    "num_muestra": 151,
+    "titulo": "Climate action guidelines 2022–2030: City of Belmopan, Belize",
+    "autoria": "Indhira De Jesús",
+    "handle": "https://hdl.handle.net/11362/48097",
+    "simbolo": "LC/TS.2022/129",
+    "isbn": null,
+    "fecha": "2022",
+    "tipo_documento": "Documento de proyecto o estudio técnico",
+    "paginas_cuerpo": 41,
+    "paginas_totales": 45,
+    "idioma": "en",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Qué hoja de ruta municipal puede permitir a Belmopan reducir sus emisiones y gestionar sus riesgos climáticos mediante capacidades, infraestructura, regulación y participación local?",
+    "alcance": {
+      "ambito_aplicacion": "Ciudad de Belmopan, Belize; con vínculos al nivel nacional de Belize",
+      "referentes_dependencias": "Belize NDC, Belize Climate Change Office, UN-ECLAC, MCR2030/UNDRR, CCCCC, BEL, fondos climáticos y cooperación bilateral/multilateral",
+      "sectorial": "Gobernanza municipal, energía, transporte, residuos, agua y drenaje, uso del suelo, infraestructura, educación y gestión de información",
+      "temporal": "2022–2030; incluye plazos de 3 meses a largo plazo y actualización periódica"
+    },
+    "hallazgos_principales": [
+      "Belmopan enfrenta crecimiento poblacional rápido y servicios e infraestructura tensionados, mientras carece de datos locales de emisiones y vulnerabilidad (p.11, p.27).",
+      "Los riesgos principales incluyen tormentas, inundaciones, cambios de precipitación, sequía, calor y migración climática, con efectos sobre agua, energía, agricultura, infraestructura y actividades económicas (p.29-31).",
+      "El plan propone una cartera de siete acciones de mitigación, siete de adaptación y cinco actividades transversales con responsables, plazos y fuentes de financiamiento (p.36-39)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La acción climática municipal es necesaria para cumplir la NDC de Belize y proteger el bienestar futuro de Belmopan.",
+        "La implementación depende de mejorar capacidades de City Hall, coordinación interinstitucional y evidencia local sobre vulnerabilidad y emisiones."
+      ],
+      "recomendaciones": [
+        "Establecer alianzas estratégicas con gobierno nacional, organizaciones no gubernamentales, sector privado y sociedad civil.",
+        "Capacitar personal, desarrollar procesos, actualizar zonificación y reforzar fiscalización y monitoreo.",
+        "Realizar una evaluación de vulnerabilidad climática y un estudio técnico riguroso de emisiones de GEI.",
+        "Revisar y actualizar las directrices cuando estén disponibles las evaluaciones y nueva información.",
+        "Evaluar y actualizar periódicamente las directrices como documento vivo."
+      ],
+      "nota": "Las recomendaciones sintetizan el cierre normativo del documento; las acciones sectoriales detalladas están en el capítulo VII."
+    },
+    "resumen_narrativo": "El documento presenta una hoja de ruta municipal para que Belmopan enfrente simultáneamente la reducción de emisiones y los riesgos climáticos asociados al crecimiento urbano. Su diagnóstico combina historia de adaptación, clima, servicios, gobernanza, emisiones y vulnerabilidad, pero advierte que faltan datos locales rigurosos. La respuesta es una cartera de acciones de mitigación, adaptación y capacidades transversales, con responsables, plazos y financiamiento potencial. El cierre deja la implementación en manos del City Council y City Hall, exige alianzas y capacidades, y plantea evaluaciones de vulnerabilidad y emisiones como insumos para actualizar periódicamente las directrices."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Presentation",
+      "nivel": 1,
+      "paginas": "7-8",
+      "resumen": "The presentation frames the guidelines as a city-led response to climate impacts in Belize, combining mitigation, adaptation and co-benefits with sustainable growth and community resilience. It notes the lack of disaggregated local data and identifies the City Council and international partners as contributors. The section establishes the political purpose of the document and its local scale.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Our guidelines emphasize no-regret actions and actions that have potential co-benefits.",
+          "pagina": 7
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Our guidelines emphasize no-regret actions and actions that have potential co-benefits.",
+          "pagina": 7
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Introduction",
+      "nivel": 1,
+      "paginas": "11-12",
+      "resumen": "The introduction defines the document as a strategic roadmap for a carbon-neutral and climate-resilient Belmopan. It explains that participatory planning identified impacts, vulnerabilities, risks and sustainable-development opportunities, and that the guidelines organize mitigation, adaptation and cross-cutting activities for the City Council and collaborating institutions. It also specifies periodic updating by future administrations. The section therefore links diagnosis, governance and an implementable municipal agenda.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "The Climate Action Guidelines document for Belmopan intends to be a strategic direction document",
+          "pagina": 11
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "The Climate Action Guidelines document for Belmopan intends to be a strategic direction document",
+          "pagina": 11
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. The city of Belmopan",
+      "nivel": 1,
+      "paginas": "13-21",
+      "resumen": "This chapter provides the city’s historical, geographic, climatic, socioeconomic and infrastructure baseline. Its parent-level function is to map the conditions that determine emissions, carbon capture, exposure and vulnerability; the detailed evidence is organized in the subsections below.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Geographic context",
+          "nivel": 2,
+          "paginas": "14-15",
+          "resumen": "This subsection locates Belmopan in the Belize River valley and Cayo District, describes elevations, rivers and surrounding ecological areas, and explains why central inland access mattered to the city siting. It establishes the physical context for later exposure, water and land-use analysis. The geographic description connects municipal boundaries with watersheds, parks and nearby settlements.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "The Belmopan area sits on land ranging between 14 meters (45 feet) elevation above sea level",
+              "pagina": 14
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "B. Climate",
+              "nivel": 3,
+              "paginas": "14-15",
+              "resumen": "The climate subsection characterizes Belmopan as a tropical monsoon environment with a long wet season and short dry season. It reports rainfall and temperature ranges and presents monthly climatic conditions, supplying the baseline for drought, heat, stormwater and adaptation concerns elsewhere in the guidelines. The evidence is descriptive and tied directly to the city climate profile.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "The Belmopan area sits on land ranging between 14 meters (45 feet) elevation above sea level",
+                  "pagina": 14
+                },
+                {
+                  "dimension": "tendencias",
+                  "cita": "The Belmopan area sits on land ranging between 14 meters (45 feet) elevation above sea level",
+                  "pagina": 14
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "C. Socio-economic context",
+              "nivel": 3,
+              "paginas": "15-16",
+              "resumen": "The subsection situates climate action within rapid population growth, migration, demographic diversity, employment, education and health conditions. It shows that municipal vulnerability is shaped by the city’s expanding population and uneven access to services, while identifying public institutions and communities that are relevant to implementation. The socioeconomic portrait provides the social context for equitable resilience planning.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Between 2000 and 2010, Belmopan experienced tremendous population growth of over 17% per year",
+                  "pagina": 15
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1. Population",
+              "nivel": 3,
+              "paginas": "15-15",
+              "resumen": "Population data show rapid expansion: Belmopan grew by over 17% per year between 2000 and 2010, reached 13,900 residents in the 2010 census, and was estimated at 23,038 in 2018. The change reflects expanded city limits and continuing migration, which increase demand for infrastructure and services.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Demographics",
+              "nivel": 3,
+              "paginas": "15-15",
+              "resumen": "The demographic profile records migration from Central America, a shift toward a mestizo majority, a substantial Maya population and multilingual residents. These characteristics matter for climate communication and inclusive participation because the city’s population is socially diverse and has different historical connections to risk and public services.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Employment",
+              "nivel": 3,
+              "paginas": "15-16",
+              "resumen": "Employment is reported at the Cayo urban level rather than separately for Belmopan, limiting municipal diagnosis. The section identifies unemployment and sectoral information as contextual constraints for planning a resilient city and for judging how climate activities may affect livelihoods.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Education",
+              "nivel": 3,
+              "paginas": "16-16",
+              "resumen": "Belmopan has four preschools, nine primary schools and seven high schools; primary enrolment was 102% in 2010 and youth literacy was 92%. The education network is relevant to the later climate-awareness and citizen-education activities, while the data provide a baseline for municipal planning.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Health",
+              "nivel": 3,
+              "paginas": "16-16",
+              "resumen": "The health profile describes the city’s hospital and health-service context and its role in the wider district. This information matters for climate resilience because storms, heat, flooding and service interruptions can affect access to essential care and the welfare of residents.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "6. Intangible cultural assets",
+              "nivel": 3,
+              "paginas": "16-16",
+              "resumen": "The subsection identifies cultural and community assets that form part of Belmopan’s social fabric. Protecting these assets is relevant to a resilience agenda that treats climate action as a city-development process rather than only an emissions or infrastructure programme.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "D. Urban services and infrastructure",
+              "nivel": 3,
+              "paginas": "17-21",
+              "resumen": "This subsection reviews electricity, water and sanitation, transport, waste, green infrastructure and land use. It identifies aging or incomplete services, uneven drainage and the potential of green systems to reduce exposure and emissions. The combined infrastructure diagnosis explains why the action tables later prioritize drainage, waste, mobility, vegetation and zoning. The section links municipal service gaps with climate vulnerability and mitigation opportunities.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "The original city and some subdivisions have a system of ditches and culverts to manage stormwater",
+                  "pagina": 18
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1. Electricity",
+              "nivel": 3,
+              "paginas": "17-17",
+              "resumen": "Belize imports refined petroleum products and relies on a national electricity system with exposure to fuel and generation choices. The subsection describes energy dependence and the policy context for cleaner electricity, which later supports renewable-energy incentives and emissions reduction.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "There are no local refineries in Belize, all refined petroleum products are imported into the country",
+                  "pagina": 17
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Drinking water, wastewater, and stormwater drainage",
+              "nivel": 3,
+              "paginas": "18-18",
+              "resumen": "Water and drainage services are uneven across Belmopan. Some areas lack piped water and sanitation, while the original city’s ditches and culverts are maintained but other areas depend on less reliable drainage. These gaps make flooding, wastewater contamination and service continuity central adaptation concerns.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "The original city and some subdivisions have a system of ditches and culverts to manage stormwater",
+                  "pagina": 18
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Transportation and mobility",
+              "nivel": 3,
+              "paginas": "19-19",
+              "resumen": "The transport subsection describes highway connections, the municipal airstrip and mobility patterns linking Belmopan with Belize City, Dangriga and surrounding communities. This network is the baseline for the later proposal to expand safe walking, cycling and lower-emission transport.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "The city of Belmopan is connected to Belize City by the Western Highway",
+                  "pagina": 19
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Solid waste management",
+              "nivel": 3,
+              "paginas": "19-20",
+              "resumen": "Waste services include collection and a municipal dump where waste is regularly burned. The subsection identifies burning and disposal practices as municipal problems with emissions and health implications, creating the rationale for transfer-station operation, collection improvements, composting and recycling.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "The city of Belmopan covers an area of about 33 square kilometers.",
+                  "pagina": 20
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Green infrastructure",
+              "nivel": 3,
+              "paginas": "20-21",
+              "resumen": "Belmopan’s original plan contains large green spaces that can moderate heat, support ecological connectivity and absorb stormwater. The subsection treats green infrastructure as an underused municipal asset and prepares the later focus on arborization, corridors and nature-based solutions.",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "The city has potential for further integration of green infrastructure into the built environment and the surrounding natural systems.",
+                  "pagina": 21
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "6. Land use",
+              "nivel": 3,
+              "paginas": "20-21",
+              "resumen": "The land-use discussion describes the city’s zoning plan and the need to guide growth while retaining green and blue systems. It recommends connecting green-space patches, improving riparian vegetation and developing stormwater retention basins, linking spatial planning to adaptation and resilience.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "The city has potential for further integration of green infrastructure into the built environment and the surrounding natural systems.",
+                  "pagina": 21
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "II. Developing a Climate Action Guideline",
+      "nivel": 1,
+      "paginas": "23-24",
+      "resumen": "The chapter explains how the City Council made climate change a priority and sought support to produce a municipal roadmap. It describes a participatory process involving workshops and stakeholders, and emphasizes the need to strengthen local capacities and awareness because climate governance has been concentrated nationally. The resulting guideline is positioned as a locally owned instrument for mitigation and adaptation.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "The City Council recognizes that climate change has been a subject mostly managed at the national level.",
+          "pagina": 23
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "The City Council recognizes that climate change has been a subject mostly managed at the national level.",
+          "pagina": 23
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "III. Climate governance",
+      "nivel": 1,
+      "paginas": "25-26",
+      "resumen": "This chapter maps national climate policies, the NDC, the Climate Change Office, sectoral adaptation plans and the local emergency-management system. It concludes that municipal action must connect with national institutions and commitments, while local capacity and coordination remain important implementation constraints. The governance discussion distinguishes national policy authority from the City Council’s operational role.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Most climate governance for Belize is enacted at the national level.",
+          "pagina": 25
+        },
+        {
+          "dimension": "desafios",
+          "cita": "The National Climate Change Office was established in 2014, under the Ministry of Sustainable Development, Climate Change, and Disaster Risk Management.",
+          "pagina": 26
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "IV. GHG inventory",
+      "nivel": 1,
+      "paginas": "27-28",
+      "resumen": "The inventory chapter reports that city-specific emissions data are unavailable, while Belize is nationally a net climate sink and land conversion still emits carbon. It identifies transport and electricity as municipal concerns and argues for cleaner electricity, local monitoring and an inventory that can guide policy evaluation. The central implementation gap is informational: without a city baseline, mitigation targets and monitoring are difficult to assess.",
+      "dimensiones": [
+        {
+          "dimension": "brechas_implementacion",
+          "cita": "Greenhouse gas emissions data for the city of Belmopan is not available.",
+          "pagina": 27,
+          "subtipo_brecha": "retrospectiva"
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "The recommendation is that Belize transitions to cleaner electricity sources.",
+          "pagina": 28
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "V. Climate related risks",
+      "nivel": 1,
+      "paginas": "29-31",
+      "resumen": "This chapter assesses the hazards and social, infrastructure and economic vulnerabilities facing Belmopan. The parent summarizes the risk framework; the detailed hazard and stakeholder evidence is contained in the mapping subsection.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Stakeholder vulnerability mapping",
+          "nivel": 2,
+          "paginas": "29-31",
+          "resumen": "The mapping identifies storm, rainfall, drought, heat and sea-level-rise-related impacts, then relates them to infrastructure, agriculture, energy, flooding and migration. It also records coordination weaknesses, emergency-management arrangements and a list of factors increasing vulnerability, including rapid growth, outdated zoning, limited enforcement, poverty and lack of data. The subsection turns climate hazards into a municipal vulnerability and governance diagnosis.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "The city of Belmopan is a direct response to climate risk.",
+              "pagina": 29
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "A challenge for disaster risk management in Belmopan is the coordination with the different institutions involved.",
+              "pagina": 30
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "VI. Belmopan City Council´s strategic vision",
+      "nivel": 1,
+      "paginas": "33-33",
+      "resumen": "The strategic-vision chapter presents the elected Council’s vision, mission and departmental planning role. It identifies climate funding, flood mitigation and disaster management as opportunities and priorities, while framing participation, accountability and service quality as municipal values. The section connects the city’s administrative strategy with climate-resilient infrastructure and implementation.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "The plan identifies climate change funding as an opportunity to improve storm drains & flood mitigation infrastructure.",
+          "pagina": 33
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "The plan identifies climate change funding as an opportunity to improve storm drains & flood mitigation infrastructure.",
+          "pagina": 33
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "VII. Climate actions",
+      "nivel": 1,
+      "paginas": "35-39",
+      "resumen": "This chapter translates the diagnosis into a municipal action portfolio. It states the city’s vision and objectives, then organizes measures under mitigation, adaptation and cross-cutting activities, with named responsibilities, timelines and financing sources in the tables below. The parent is a bridge; the operative proposals are carried by the three subsections.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Mitigation actions",
+          "nivel": 2,
+          "paginas": "36-37",
+          "resumen": "The mitigation table names seven activities with descriptions, timelines, responsible entities and possible financing sources. The package covers a GHG inventory, arborization, waste burning, circular-economy activity, wastewater, walking and cycling, and vehicle emissions; the text also points to collaboration with Belize Electricity Limited on renewable generation. The unit is a coordinated municipal mitigation portfolio rather than a single intervention.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "M1. Conduct GHG emission inventory for the city and develop monitoring plan.",
+              "pagina": 36
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "M1. Conduct GHG emission inventory for the city and develop monitoring plan.",
+              "pagina": 36
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "B. Adaptation actions",
+              "nivel": 3,
+              "paginas": "37-38",
+              "resumen": "The adaptation table proposes revised building regulations, infrastructure-risk assessment, a Climate Risk Management Plan, drainage improvements, permeable areas, watershed management and urban orchards. Each activity specifies an implementation horizon and responsible actors, and several identify climate or adaptation funds. The portfolio combines regulatory, infrastructural, watershed and food-security measures.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "A3. Develop a Climate Risk Management Plan.",
+                  "pagina": 38
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "A3. Develop a Climate Risk Management Plan.",
+                  "pagina": 38
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "C. Cross-cutting activities",
+              "nivel": 3,
+              "paginas": "38-39",
+              "resumen": "The cross-cutting table sets out citizen education, municipal capacity development, climate information and knowledge management, strategic partnerships and land-use planning. These activities assign responsibility and timelines and are designed to embed climate action in policy, data, participation and municipal management. The section supplies the enabling layer for implementation, monitoring and public engagement.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Train and equip city officials to be able to design, implement, monitor, and evaluate climate actions",
+                  "pagina": 39
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Train and equip city officials to be able to design, implement, monitor, and evaluate climate actions",
+                  "pagina": 39
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "VIII. Conclusions and next steps",
+      "nivel": 1,
+      "paginas": "41-41",
+      "resumen": "The conclusion states that Belmopan’s climate priority responds both to Belize’s NDC and to the need to protect residents’ future wellbeing. It assigns implementation, monitoring and evaluation to the City Council and City Hall, calls for partnerships and capacity improvements, and identifies a city vulnerability assessment and rigorous GHG study as missing inputs. It also requires the guidelines to be updated as evidence improves and to remain a living document. The closing combines institutional responsibility, evidence-building and an iterative implementation cycle.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "The climate action guidelines implementation, monitoring, and evaluation will be in the hands of the City Council and City Hall.",
+          "pagina": 41
+        },
+        {
+          "dimension": "desafios",
+          "cita": "The climate action guidelines implementation, monitoring, and evaluation will be in the hands of the City Council and City Hall.",
+          "pagina": 41
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "Sí: el cierre y el capítulo de acciones articulan un paquete coordinado de políticas e inversiones municipales (inventario, arborización, residuos, movilidad, drenaje, cuenca, regulación, datos y capacidades), cubren varios sectores estratégicos y combinan eficiencias ambiental, productiva y de demanda.",
+      "citas": [
+        {
+          "cita": "M1. Conduct GHG emission inventory for the city and develop monitoring plan.",
+          "pagina": 36
+        }
+      ],
+      "nota": "Supera los tres tests: paquete coordinado, sectores estratégicos múltiples y al menos dos eficiencias."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El documento nombra un mecanismo de articulación dentro del ámbito municipal: las alianzas estratégicas entre City Council/City Hall y gobierno nacional, ONG, sector privado y sociedad civil para implementar, monitorear y evaluar las directrices. También asigna responsabilidades a oficinas y ministerios en las tablas.",
+      "citas": [
+        {
+          "cita": "In order to implement the proposed guidelines, the city must establish strategic partnerships with national government institutions, non-governmental organization, private sector, and civil society organizations.",
+          "pagina": 41
+        }
+      ],
+      "nota": "La evidencia pertenece al cierre y al ámbito de aplicación de Belmopan."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Sí",
+      "evidencia": "Se enumeran actividades concretas —compostaje, valorización de residuos, reciclaje, arborización, agricultura urbana, movilidad peatonal y ciclista y energía renovable— y se desarrolla su vínculo con crecimiento sostenible, emprendimiento, empleo potencial, seguridad alimentaria, ahorro y resiliencia.",
+      "citas": [
+        {
+          "cita": "Promote green entrepreneurship based on separation and collection of biodegradable organic waste (as much as 60% of municipal waste in Belize is food waste), to produce compost as an agricultural and landscaping supply.",
+          "pagina": 36
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Valorización de residuos y compostaje",
+          "clasificacion": "CONCRETO",
+          "pagina": 36
+        },
+        {
+          "item": "Arborización y espacios verdes",
+          "clasificacion": "CONCRETO",
+          "pagina": 36
+        },
+        {
+          "item": "Transporte peatonal y ciclista",
+          "clasificacion": "CONCRETO",
+          "pagina": 37
+        },
+        {
+          "item": "Huertos urbanos y producción de alimentos",
+          "clasificacion": "CONCRETO",
+          "pagina": 38
+        }
+      ],
+      "tally": "4 de 4 ítems pasan el test de oportunidad productiva sostenible",
+      "nota": "El vínculo productivo y de bienestar se desarrolla en más de una frase y no se reduce a una mención aislada."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "El cierre normativo contiene cinco unidades completas: alianzas, capacidades, evaluaciones, actualización posterior a la evidencia y evaluación periódica. Cuatro nombran un entregable, responsable o ciclo de actualización identificable; la alianza queda genérica por no designar un instrumento o mecanismo operativo específico.",
+      "citas": [
+        {
+          "cita": "The climate action guidelines implementation, monitoring, and evaluation will be in the hands of the City Council and City Hall.",
+          "pagina": 41
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Establecer alianzas estratégicas con gobierno nacional, ONG, sector privado y sociedad civil",
+          "clasificacion": "GENERICO",
+          "pagina": 41
+        },
+        {
+          "item": "Mejorar capacidades mediante capacitación, procesos, zonificación, fiscalización y monitoreo",
+          "clasificacion": "CONCRETO",
+          "pagina": 41
+        },
+        {
+          "item": "Realizar evaluación de vulnerabilidad climática y estudio técnico de GEI",
+          "clasificacion": "CONCRETO",
+          "pagina": 41
+        },
+        {
+          "item": "Revisar y actualizar las directrices una vez completadas las evaluaciones",
+          "clasificacion": "CONCRETO",
+          "pagina": 41
+        },
+        {
+          "item": "Evaluar y actualizar periódicamente las directrices como documento vivo",
+          "clasificacion": "CONCRETO",
+          "pagina": 41
+        }
+      ],
+      "tally": "4 de 5 ítems pasan el test de concreción",
+      "nota": "La unidad de análisis es el cierre normativo completo; no se fragmentan sub-bullets del capítulo VII."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento debe convertir la vulnerabilidad y las emisiones de una ciudad en una agenda municipal ejecutable, bajo una arquitectura nacional de gobernanza y con capacidades locales insuficientes. La tensión central es ambiental —resiliencia y descarbonización— frente al instrumento institucional que permite implementarlas.",
+      "filtro_categoria_primaria": "La transformación primaria es #6 porque el objeto explícito del documento es una ciudad baja en emisiones y resiliente, con medidas de mitigación, adaptación, naturaleza, residuos, movilidad, agua y drenaje.",
+      "secundaria_obligatoria": "La secundaria es #11 porque el diagnóstico y el cierre identifican City Hall/City Council, datos, capacitación, procesos, regulación, fiscalización, monitoreo y coordinación como condiciones para que la acción ambiental funcione.",
+      "justificacion_anti_copia": "La clasificación se sostiene en la combinación específica de un inventario de GEI municipal, el plan de arborización, compostaje y valorización, rutas peatonales y ciclistas, drenaje, gestión de la cuenca Roaring Creek, evaluación de vulnerabilidad y estudio técnico de emisiones. La dimensión estatal no es el fin principal: es la capacidad operativa, informacional y regulatoria que el cierre exige a City Hall.",
+      "validacion_anclas": "La decisión sigue el patrón de documentos donde la transformación climática es el objeto y las capacidades públicas el medio, contrastado con las anclas de la tabla metodológica de TIPOLOGIA_v0.md; no se adopta #11 como primaria porque el cierre está orientado a resultados de mitigación y adaptación municipales."
+    },
+    "tipo_documento_climatico": "Documento técnico de acción climática municipal",
+    "nivel_aplicacion": "Subnacional (ciudad de Belmopan), con articulación nacional",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "documento": {
+    "num_muestra": 18,
+    "titulo": "Federalismo ambiental en América Latina: una revisión",
+    "autoria": "Fausto Hernández Trillo",
+    "handle": "https://hdl.handle.net/11362/39661",
+    "simbolo": "LC/W.681",
+    "isbn": null,
+    "fecha": "2015-12",
+    "tipo_documento": "Documento de Proyecto",
+    "paginas_cuerpo": 40,
+    "paginas_totales": 45,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": true,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "Qué nivel y diseño de gobierno permiten formular, financiar e implementar políticas ambientales y de cambio climático eficaces en sistemas federales y unitarios de América Latina.",
+    "alcance": {
+      "ambito_aplicacion": "América Latina; con análisis nacionales de Brasil, Argentina y México y un caso comparado de China.",
+      "referentes_dependencias": "Estados Unidos, Unión Europea y literatura comparada sobre federalismo fiscal y ambiental.",
+      "sectorial": "Política ambiental, cambio climático, recursos hídricos, contaminación, impuestos, regulación y gasto público.",
+      "temporal": "Revisión teórica e institucional con evidencia histórica y normativa hasta 2015."
+    },
+    "hallazgos_principales": [
+      "La política ambiental y climática combina bienes públicos globales, nacionales y locales; por ello la asignación de responsabilidades depende de externalidades, economías de escala y características territoriales.",
+      "La coordinación entre órdenes de gobierno aparece como el problema recurrente en Brasil, Argentina y México: hay competencias superpuestas, financiamiento insuficiente y mecanismos institucionales débiles.",
+      "En cambio climático, los compromisos internacionales solo pueden cumplirse si el federalismo interno define atribuciones, distribuye costos y beneficios y establece mecanismos efectivos de coordinación (p.20).",
+      "La centralización permite internalizar externalidades y uniformar estándares, mientras que la subsidiariedad preserva conocimiento local y adaptación territorial; el documento propone resolver la tensión mediante un marco de referencia y cooperación intergubernamental (pp.38-40)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "No existe una asignación universal entre gobierno central y gobiernos subnacionales: la solución debe distinguir externalidades, escalas, capacidades institucionales y heterogeneidad territorial.",
+        "El desempeño ambiental regional está limitado menos por la ausencia de legislación que por la coordinación inter e intragubernamental deficiente, la indefinición de competencias y la falta de financiamiento para implementar mandatos.",
+        "La acción climática nacional depende de un federalismo ambiental que articule responsabilidades y costos entre todos los órdenes de gobierno."
+      ],
+      "recomendaciones": [
+        "Establecer un marco legal armónico y simple, con reglas de juego y sanciones por incumplimiento.",
+        "Simplificar los procedimientos ambientales y homogeneizar las evaluaciones de impacto ambiental.",
+        "Coordinar los distintos órdenes de gobierno y las agencias dentro de cada orden.",
+        "Crear cláusulas de escape frente a la captura de un nivel inferior por grupos de interés.",
+        "Asegurar que el gobierno federal financie la implementación de los mandatos ambientales que impone a estados y municipios."
+      ],
+      "nota": "Las recomendaciones se reconstruyen del cierre formal y de la sección final; el documento no presenta una lista titulada Recomendaciones."
+    },
+    "resumen_narrativo": "El estudio examina cómo distribuir responsabilidades ambientales entre niveles de gobierno, partiendo de la teoría del federalismo fiscal y aplicándola al cambio climático y a casos de China, Brasil, Argentina y México. Su hallazgo central es que las externalidades y la escala global del cambio climático requieren coordinación supranacional y nacional, pero la heterogeneidad territorial exige conservar capacidades subnacionales. La revisión de los casos muestra que la legislación no basta cuando las competencias se superponen, faltan recursos o los mecanismos de coordinación son débiles. El cierre propone un marco legal simple, procedimientos comunes, evaluaciones de impacto, coordinación intergubernamental y financiamiento federal de los mandatos ambientales."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": 8,
+      "resumen": "Plantea la pregunta institucional del estudio: qué orden de gobierno debe encargarse de la política ambiental y climática en federaciones y gobiernos unitarios. Presenta el federalismo fiscal como marco para asignar responsabilidades según características geográficas, costos y preferencias, y anuncia la revisión de teoría, lecciones ambientales y casos comparados.",
+      "dimensiones": [
+        {"dimension": "contexto_antecedentes", "cita": "La pregunta natural que ha surgido desde entonces ha sido ¿qué nivel de gobierno debe estar a cargo de ella? ¿Debe ser nacional, estatal o municipal?", "pagina": 8},
+        {"dimension": "desafios", "cita": "Lo cierto es que la respuesta depende de muchos factores, los que se intentan examinar en este trabajo.", "pagina": 8}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. La teoría Federalismo Fiscal: breve revisión",
+      "nivel": 1,
+      "paginas": "10-17",
+      "resumen": "Este bloque construye el marco analítico para repartir funciones y fuentes de financiamiento entre niveles de gobierno. La teoría tradicional privilegia eficiencia y bienes públicos según alcance territorial, mientras la segunda generación incorpora incentivos políticos, restricciones presupuestarias e instituciones; el resultado prepara la aplicación al federalismo ambiental.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. La teoría tradicional del Federalismo Fiscal (FF)",
+          "nivel": 2,
+          "paginas": "10-13",
+          "resumen": "Explica que la asignación subnacional depende de si un bien público es local, regional o nacional, de las externalidades y de las economías de escala. También aplica el principio de correspondencia fiscal a impuestos y responsabilidades, mostrando por qué el gobierno central suele recaudar bases móviles y de alto potencial, mientras los gobiernos locales conservan bases territoriales.",
+          "dimensiones": [
+            {"dimension": "diagnostico_estructural", "cita": "Sin embargo, el más importante es el de las derramas o externalidades que la provisión del bien o servicio público produce.", "pagina": 11},
+            {"dimension": "propuestas_politica", "cita": "Aquí lo ideal sería asignar una fuente de financiamiento a cada función pública. A este concepto se le conoce como el Principio de Equivalencia o Correspondencia Fiscal", "pagina": 11}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. La segunda generación del Federalismo Fiscal",
+          "nivel": 2,
+          "paginas": "14-17",
+          "resumen": "Revisa la literatura que cuestiona la descentralización automática: los gobiernos subnacionales pueden acumular déficits, esperar rescates y responder a incentivos políticos locales. El argumento desplaza el foco desde la eficiencia abstracta hacia restricciones presupuestarias, instituciones y rendición de cuentas, elementos que condicionan la política ambiental.",
+          "dimensiones": [
+            {"dimension": "diagnostico_estructural", "cita": "los gobiernos sub-nacionales se comportan irresponsablemente en la espera de ser rescatados.", "pagina": 14},
+            {"dimension": "desafios", "cita": "la debilidad de las instituciones en dichos niveles de gobierno; el sistema político de algunos países; la ausencia o mal diseño de ciertos mercados", "pagina": 14}
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "II. El federalismo ambiental",
+      "nivel": 1,
+      "paginas": "18-23",
+      "resumen": "Traslada el marco fiscal a la asignación de competencias ambientales, distinguiendo contaminación local, externalidades interjurisdiccionales y cambio climático como bien público global. El capítulo concluye que la acción climática nacional requiere atribuciones claras, financiamiento y coordinación interna para cumplir acuerdos internacionales.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Elementos para guiar el diseño de una política ambiental entre distintas jurisdicciones",
+          "nivel": 2,
+          "paginas": "19-20",
+          "resumen": "Compara centralización y descentralización según el alcance de los daños ambientales. Propone combinar estándares federales e instrumentos locales, como impuestos a emisiones o permisos, para evitar el race to the bottom y adaptar la regulación a las condiciones territoriales; la capacidad institucional local determina el resultado.",
+          "dimensiones": [
+            {"dimension": "diagnostico_estructural", "cita": "descentralizar la política ambiental podría arrojar una competencia entre las jurisdicciones para atraer inversión —contaminante.", "pagina": 20},
+            {"dimension": "propuestas_politica", "cita": "impuestos sobre emisión o permisos de emisión establecidos por el gobierno federal (market-based approach) generan más incentivos a los estados a imponer sus propias regulaciones", "pagina": 20}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Cambio climático",
+          "nivel": 2,
+          "paginas": "21-23",
+          "resumen": "Define el cambio climático como un bien público global cuya mitigación excede la capacidad de cualquier jurisdicción individual. El argumento conecta compromisos internacionales con la implementación doméstica: si los niveles subnacionales no asumen costos o las atribuciones están mal definidas, las metas nacionales de reducción de gases de efecto invernadero no se cumplen.",
+          "dimensiones": [
+            {"dimension": "estado_de_situacion", "cita": "El cambio climático es un asunto que puede diferir, en tanto que su estabilización puede verse como un bien público global, es decir, sus efectos van más allá de las fronteras de los países.", "pagina": 21},
+            {"dimension": "brechas_implementacion", "subtipo_brecha": "prospectiva", "cita": "sin un Federalismo Ambiental bien diseñado, donde i) las atribuciones y obligaciones en materia ambiental estén bien definidas; ii) la distribución de costos y beneficios bien delimitados y debidamente financiados; y, iii) la coordinación entre los órdenes de gobierno se dé mediante mecanismos efectivos, entonces ningún acuerdo de estabilización o reducción de efecto invernadero a nivel nacional podrá cumplirse.", "pagina": 21}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "1. América Latina",
+          "nivel": 2,
+          "paginas": "22-23",
+          "resumen": "Caracteriza la región por contaminación, deforestación, emisiones, pobreza y heterogeneidad territorial, y señala que la literatura ha estudiado poco cómo repartir responsabilidades ambientales entre gobiernos latinoamericanos. La debilidad subnacional, la influencia de grupos locales y la diversidad de actividades extractivas dificultan una descentralización ambiental uniforme.",
+          "dimensiones": [
+            {"dimension": "estado_de_situacion", "cita": "La literatura al respecto se dirige en mayor medida a los países desarrollados.", "pagina": 22},
+            {"dimension": "diagnostico_estructural", "cita": "Para el caso de la región, la debilidad de las instituciones sobre todo a nivel Sub-Nacional es un hecho que debe tomarse en cuenta.", "pagina": 22}
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "III. Casos de estudio",
+      "nivel": 1,
+      "paginas": "24-36",
+      "resumen": "Compara China, Brasil, Argentina y México para observar cómo se distribuyen competencias, instrumentos y recursos ambientales. Los casos convergen en conflictos entre niveles, falta de coordinación y capacidades desiguales, pero también muestran arreglos como CONAMA, SISNAMA, COFEMA y evaluaciones de impacto que pueden sostener una gobernanza cooperativa.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. China",
+          "nivel": 2,
+          "paginas": "24-25",
+          "resumen": "El caso chino muestra el conflicto entre crecimiento económico, cierre de plantas contaminantes y resistencia de gobiernos locales que protegen empleo y bases gravables. La respuesta combina fortalecimiento del Ministerio de Protección del Ambiente, mecanismos de mercado, transparencia pública y cooperación entre órdenes de gobierno, aunque los resultados siguen siendo insuficientes.",
+          "dimensiones": [
+            {"dimension": "diagnostico_estructural", "cita": "los gobiernos locales se han resistido de aplicar las políticas dictadas desde el centro, principalmente porque estas compañías representan fuentes de trabajo y bases gravables importantes.", "pagina": 24},
+            {"dimension": "propuestas_politica", "cita": "en China existe un conflicto todavía presente entre las autoridades nacionales y las locales en materia de contaminación y medio ambiente.", "pagina": 25}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Brasil",
+          "nivel": 2,
+          "paginas": "25-28",
+          "resumen": "Brasil ofrece un arreglo institucional amplio: la Ley 6.938 crea CONAMA y SISNAMA, integra ministerios, gobiernos estaduales, municipios y sociedad civil, y distribuye instrumentos de regulación, información y sanción. El estudio identifica avances de capacitación y fondos ambientales, pero también conflictos de competencia, coordinación pobre y una estructura reactiva.",
+          "dimensiones": [
+            {"dimension": "avances_implementacion", "cita": "La Política Nacional de Medio Ambiente tiene como objetivo la preservación, mejoría y recuperación de la calidad ambiental propicia para la vida", "pagina": 25},
+            {"dimension": "propuestas_politica", "cita": "la Ley N° 6.938, constituyó el Consejo Nacional del Medio Ambiente (CONAMA), instancia decisoria colegiada", "pagina": 25},
+            {"dimension": "brechas_implementacion", "subtipo_brecha": "retrospectiva", "cita": "Una coordinación pobre entre el nivel federal y sub-nacional, lo que dificulta la articulación de las normas.", "pagina": 27}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Argentina",
+          "nivel": 2,
+          "paginas": "27-31",
+          "resumen": "Argentina ilustra cómo la diversidad provincial —desde la Ciudad de Buenos Aires hasta provincias con densidad inferior a dos habitantes por km²— complica estándares uniformes y distribución fiscal. El COFEMA y el Pacto Federal Ambiental intentan coordinar estrategias, pero la reforma constitucional, normas superpuestas y financiamiento insuficiente dejan una brecha entre competencias formales e implementación.",
+          "dimensiones": [
+            {"dimension": "estado_de_situacion", "cita": "Las provincias presentan una gran diversidad de tamaño poblacional, superficie, densidad de población, producto bruto geográfico (PBG) y nivel económico-social", "pagina": 27},
+            {"dimension": "propuestas_politica", "cita": "se constituyó en 1993 el Consejo Federal del medio Ambiente (COFEMA) y se firmó un Pacto Federal Ambiental.", "pagina": 29},
+            {"dimension": "brechas_implementacion", "subtipo_brecha": "retrospectiva", "cita": "De esta manera, aunado al desequilibrio fiscal vertical (entre órdenes de gobierno), la falta de coordinación intergubernamental ocasionan una escasa financiación presupuestaria para la conservación del medio ambiente.", "pagina": 30}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. México",
+          "nivel": 2,
+          "paginas": "31-36",
+          "resumen": "México presenta un sistema federal de coordinación fiscal y una distribución ambiental de competencias entre federación, estados y municipios. El análisis de la contaminación atmosférica del Distrito Federal y del caso del río Sonora muestra que las externalidades y responsabilidades cruzadas vuelven ineficaces las acciones aisladas; el cierre del caso reclama instrumentos, recursos y coordinación.",
+          "dimensiones": [
+            {"dimension": "propuestas_politica", "cita": "En los convenios que celebre la federación, las entidades federativas y los municipios para delimitar las zonas conurbadas contendrán, entre otros, la determinación de acciones e inversiones para la atención de requerimientos comunes en materia de reservas territoriales, preservación y equilibrio ecológico, infraestructura, equipamiento y servicios urbanos en la zona conurbada.", "pagina": 35},
+            {"dimension": "estado_de_situacion", "cita": "Este es un claro ejemplo de que las responsabilidades no son muy claras para la ciudadanía.", "pagina": 36},
+            {"dimension": "diagnostico_estructural", "cita": "Lo cierto es que este tipo de disputas se dan en el marco de la falta de una coordinación, problema que se ha identificado como el más importante en el federalismo ambiental", "pagina": 35}
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Consideraciones finales",
+      "nivel": 1,
+      "paginas": "38-41",
+      "resumen": "Cierra el argumento resolviendo la tensión entre subsidiariedad y externalidades: gobiernos locales fuertes aportan conocimiento territorial, pero el gobierno central debe intervenir cuando la contaminación cruza fronteras o existe captura local. La propuesta final exige un marco legal simple, procedimientos y evaluaciones comunes, coordinación multinivel, cláusulas de escape y financiamiento federal de los mandatos.",
+      "dimensiones": [
+        {"dimension": "desafios", "cita": "Así, el principal problema es la dualidad: subsidiaridad versus externalidades.", "pagina": 38},
+        {"dimension": "propuestas_politica", "cita": "En suma, la política ambiental y de cambio climático en particular debe diseñarse conjuntamente entre los distintos órdenes de gobierno, delimitando responsabilidades, diseñando salvaguardas y estableciendo estándares", "pagina": 40},
+        {"dimension": "brechas_implementacion", "subtipo_brecha": "retrospectiva", "cita": "En el estudio observamos que si bien los países de la región se encuentran legislados de acuerdo a los principios del FF, su regulación es compleja y la coordinación inter e intragubernamental es deficiente.", "pagina": 40}
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento propone instrumentos ambientales concretos —impuestos, permisos, estándares, evaluaciones de impacto y coordinación— y conecta la política ambiental con sectores agrícolas, industriales, energéticos y de transporte. Sin embargo, el argumento no configura un paquete masivo y coordinado de inversiones para transformar el modelo productivo; su unidad de análisis es la arquitectura institucional del federalismo ambiental.",
+      "citas": [
+        {"cita": "Tal vez la principal lección es que es necesario establecer un Marco de Referencia en el que se definan y delimiten de manera muy específica los principios y obstáculos en materia ambiental de manera que se incorporen en el proceso de diseño de política pública de todos los sectores: agrícolas, industriales, de generación de energía y de comunicaciones y transportes.", "pagina": 39}
+      ],
+      "nota": "Parcial por instrumentos y sectores identificables, pero sin inversión masiva coordinada ni programa autónomo de transformación productiva."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El documento identifica mecanismos institucionales con nombre propio y alcance multiactor dentro de los casos analizados. CONAMA integra ministerios, gobiernos estaduales, trabajadores, comercio y agricultura; SISNAMA articula órganos de la Unión, estados, Distrito Federal y municipios; y COFEMA coordina estrategias y programas ambientales de las provincias argentinas.",
+      "citas": [
+        {"cita": "Como mecanismo de formulación de la Política Nacional de Medio Ambiente, la Ley N° 6.938, constituyó el Consejo Nacional del Medio Ambiente (CONAMA), instancia decisoria colegiada, presidida por el Ministro de Estado del Medio Ambiente, de los Recursos Hídricos y de la Amazonia Legal (MMA) e integrada por representantes de los demás Ministerios sectoriales, Gobiernos estaduales, Distrito Federal, Confederaciones Nacionales de Trabajadores en la Industria, en el Comercio y en la Agricultura, entre otros.", "pagina": 25},
+        {"cita": "Para coordinarse, en el marco del federalismo ambiental argentino en el escenario previo a la reforma de 1994, se constituyó en 1993 el Consejo Federal del medio Ambiente (COFEMA) y se firmó un Pacto Federal Ambiental.", "pagina": 29}
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "Se realizó el chequeo de enumeración de sectores o actividades productivas sostenibles y del vínculo desarrollado con empleo, productividad o desigualdad. El documento menciona agricultura, industria, energía, transporte, cemento, petróleo y minería como sectores regulados o fuentes de externalidades, y menciona empleo cuando explica la resistencia local al cierre de plantas; no los presenta como oportunidades productivas de transición ni desarrolla un mecanismo que conecte esa enumeración con empleo, productividad o reducción de desigualdad.",
+      "citas": [],
+      "nota": "El foco es la asignación institucional y fiscal de competencias ambientales, no una agenda de oportunidades productivas sostenibles."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "El cierre formal ofrece cinco acciones normativas diferenciadas y ejecutables: marco legal con sanciones, procedimientos ambientales simples, evaluaciones de impacto homogéneas, coordinación multinivel y cláusulas de escape frente a captura local. Los cinco ítems tienen un objeto institucional identificable, por lo que pasan el test de concreción.",
+      "citas": [
+        {"cita": "Finalmente, debe reiterarse que la política ambiental debe darse de manera armónica entre los distintos órdenes de gobierno. Para ello es necesario i) Un marco legal armónico, simple y que especifique tanto las reglas del juego como las acciones y/o sanciones a aplicar en caso de incumplimiento. ii) Procedimientos simples para todo lo relacionado al medio ambiente, sea de contaminación atmosférica, de residuos tóxicos, de contaminación de aguas nacionales, etc. iii) Existencia homogénea de evaluaciones de impacto ambiental para cualquier proyecto que pueda dañarlo de alguna manera. iv) Una coordinación entre los distintos órdenes de gobierno y entre los integrantes de un mismo orden de gobierno (Shobe, 2012). v) Cláusulas de escape en caso de que algún nivel inferior de gobierno sea capturado por algún grupo de interés.", "pagina": 41}
+      ],
+      "desglose_items": [
+        {"item": "Establecer un marco legal armónico y simple con reglas y sanciones por incumplimiento", "clasificacion": "CONCRETO", "pagina": 41},
+        {"item": "Simplificar los procedimientos ambientales para contaminación atmosférica, residuos tóxicos y aguas nacionales", "clasificacion": "CONCRETO", "pagina": 41},
+        {"item": "Homogeneizar las evaluaciones de impacto ambiental para proyectos que puedan dañar el ambiente", "clasificacion": "CONCRETO", "pagina": 41},
+        {"item": "Coordinar los distintos órdenes de gobierno y las agencias dentro de cada orden", "clasificacion": "CONCRETO", "pagina": 41},
+        {"item": "Establecer cláusulas de escape cuando un nivel inferior sea capturado por grupos de interés", "clasificacion": "CONCRETO", "pagina": 41}
+      ],
+      "tally": "5 de 5 ítems pasan el test de concreción",
+      "nota": "La unidad es el cierre formal de la página 40, no las medidas descritas dentro de los casos nacionales."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {"numero": 11, "nombre": "Capacidades del Estado", "certeza": "Alta"},
+    "transformacion_secundaria": {"numero": 6, "nombre": "Sostenibilidad ambiental", "certeza": "Alta"},
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la contradicción entre subsidiariedad y externalidades: los gobiernos locales conocen mejor sus territorios, pero sus decisiones pueden trasladar contaminación a otras jurisdicciones. Esa tensión se vuelve institucional porque la acción climática es global, mientras la implementación depende de atribuciones, recursos y coordinación dentro de cada país.",
+      "filtro_categoria_primaria": "El objeto principal es diseñar la arquitectura de responsabilidades, financiamiento y coordinación entre órdenes de gobierno, no transformar directamente sectores productivos o matrices energéticas. Por eso la primaria es Capacidades del Estado; Sostenibilidad ambiental es la finalidad sectorial que orienta esa arquitectura, no la categoría que mejor describe el método y el cierre.",
+      "secundaria_obligatoria": "Sostenibilidad ambiental es la finalidad que da contenido a la distribución de competencias: el texto aplica el federalismo fiscal a contaminación, recursos hídricos y cambio climático, y exige estándares, evaluaciones de impacto y reducción de emisiones. La secundaria explica para qué se fortalecen las capacidades estatales y qué política deben implementar.",
+      "justificacion_anti_copia": "El método combina revisión de teoría fiscal, análisis de externalidades y estudio comparado de China, Brasil, Argentina y México. Los hallazgos de cierre identifican coordinación intergubernamental deficiente, regulación compleja y costos sin financiamiento. Los mecanismos propios —CONAMA/SISNAMA, COFEMA, marcos legales, evaluaciones de impacto y cláusulas de escape— muestran que la transformación buscada es institucional, aunque aplicada al problema ambiental.",
+      "validacion_anclas": "Se contrasta con el ancla de gestión hídrica y gobernanza ambiental #11/#6: en ambos casos el ambiente es el ámbito de aplicación y la arquitectura institucional es el objeto. A diferencia de un documento centrado en impactos o adaptación sectorial, aquí la pregunta, el método y las recomendaciones se organizan alrededor de federalismo, competencias, coordinación y financiamiento."
+    },
+    "tipo_documento_climatico": "Documento de Proyecto / estudio técnico comparado",
+    "nivel_aplicacion": "Regional (América Latina), con estudios nacionales comparados",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

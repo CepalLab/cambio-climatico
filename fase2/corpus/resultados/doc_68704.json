@@ -1,0 +1,293 @@
+{
+  "documento": {
+    "num_muestra": 181,
+    "titulo": "Criterios para la integración del cambio climático en la evaluación ambiental de proyectos de inversión",
+    "autoria": "Equipo de trabajo de la Red Latinoamericana de Sistemas de Evaluación de Impacto Ambiental (REDLASEIA) y la Comisión Económica para América Latina y el Caribe (CEPAL)",
+    "handle": "https://hdl.handle.net/11362/68704",
+    "simbolo": "LC/TS.2023/147",
+    "isbn": null,
+    "fecha": "2023",
+    "tipo_documento": "Documento técnico / guía metodológica",
+    "paginas_cuerpo": 41,
+    "paginas_totales": 63,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cómo pueden integrarse de manera sistemática los criterios de adaptación y mitigación del cambio climático en las distintas etapas de la evaluación de impacto ambiental de proyectos de inversión de los países miembros de la REDLASEIA?",
+    "alcance": {
+      "ambito_aplicacion": "Proyectos de inversión y sistemas de evaluación de impacto ambiental de Argentina, Brasil, Chile, Colombia, Costa Rica y Perú, en el marco regional de la REDLASEIA; la red también incluye a Ecuador y Uruguay.",
+      "referentes_dependencias": "Tratados climáticos internacionales y legislación, guías y herramientas de Alemania, Canadá, España, Estados Unidos, Nueva Zelanda, Reino Unido y la Unión Europea.",
+      "sectorial": "Evaluación ambiental transversal de proyectos, con atención a emisiones de GEI, recursos hídricos, infraestructura, ecosistemas, energía, transporte, agricultura y cadenas de suministro.",
+      "temporal": "Estado normativo y experiencias sistematizadas hasta 2023; considera tendencias observadas y proyecciones climáticas de corto, mediano y largo plazo."
+    },
+    "hallazgos_principales": [
+      "Las emisiones de la región representaron alrededor del 10% de las emisiones globales en 2019 y el mayor aporte provino de agricultura, silvicultura y otros usos de la tierra, seguido por el sector energético (p.17).",
+      "Entre 1991 y 2022 América Latina y el Caribe registró una tendencia de calentamiento medio de aproximadamente 0,2 °C por decenio, junto con cambios regionales en precipitación y aumento de eventos extremos (p.18).",
+      "La integración climática debe cubrir cuatro instancias de la EIA: descripción del proyecto, línea base socioambiental, evaluación de riesgos e impactos y Plan de Gestión Ambiental (pp.19-20).",
+      "La incorporación normativa es desigual: por ejemplo, Chile mandata considerar la variable climática en proyectos sometidos a EIA, mientras que en Perú la Ley Marco sobre Cambio Climático dispone expresamente el análisis de riesgo y vulnerabilidad en proyectos sujetos al SEIA (pp.35-40).",
+      "Los seis países estudiados cuentan con marcos, plataformas o herramientas climáticas, pero el documento señala diferencias en su nivel de detalle y en la forma de aplicación dentro de los sistemas de EIA (pp.19, 31-40)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La red alcanzó un consenso sobre la necesidad de integrar el cambio climático en la evaluación ambiental de futuros proyectos de inversión.",
+        "La línea de base de la EIA debe dejar de tratar los factores ambientales de forma estática y considerar dinámica, variabilidad e incertidumbre climática durante todo el ciclo del proyecto.",
+        "La Gestión Ambiental Adaptativa ofrece flexibilidad para ajustar medidas frente a escenarios cambiantes, avances tecnológicos y compromisos climáticos."
+      ],
+      "recomendaciones": [
+        "Incorporar criterios climáticos de forma iterativa en descripción, línea base, evaluación y Plan de Gestión Ambiental.",
+        "Explorar medidas fiscales y tributarias que impulsen inversiones en proyectos de mitigación y adaptación al cambio climático."
+      ],
+      "nota": "Las recomendaciones aparecen en el cierre narrativo, no como una lista numerada de acciones operativas."
+    },
+    "resumen_narrativo": "El documento sistematiza criterios comparados para que la EIA de proyectos de inversión incorpore adaptación y mitigación climática desde el diseño hasta la gestión ambiental. Su aporte central es trasladar la dinámica, variabilidad e incertidumbre del clima a cuatro momentos concretos: alternativas y proyecto ejecutivo, línea de base, análisis de riesgos e impactos y Plan de Gestión Ambiental. La comparación de Argentina, Brasil, Chile, Colombia, Costa Rica y Perú muestra avances normativos y herramientas diversas, pero también una aplicación desigual y brechas de especificidad. El cierre propone una integración iterativa y adaptativa, complementada por incentivos fiscales y tributarios para proyectos climáticos."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Reconocimientos",
+      "nivel": 1,
+      "paginas": "5",
+      "resumen": "Presenta el origen colaborativo del documento, reconoce el apoyo de CEPAL y detalla la participación de instituciones de Argentina, Brasil, Chile, Colombia, Costa Rica, Perú y Uruguay. También señala que la sistematización fue realizada por la unidad especializada de CEPAL y que el detalle de participantes se encuentra en el anexo 2.",
+      "dimensiones": [],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "13-14",
+      "resumen": "Plantea que el aumento de impactos climáticos y GEI exige rediseñar instrumentos ambientales y territorializar adaptación y mitigación. Define a la EIA y a REDLASEIA como espacios de intervención y cooperación, y explica que el informe sistematiza nueve sesiones y un taller de 2023 para comparar criterios y el estado de incorporación climática en seis países.",
+      "dimensiones": [
+        {"dimension": "diagnostico_estructural", "cita": "El aumento continuo de los impactos del cambio climático y el creciente nivel de emisiones de gases de efecto invernadero (GEI) requiere que los países rediseñen y generen sinergias entre sus variados instrumentos ambientales y con especificidades climáticas.", "pagina": 13},
+        {"dimension": "propuestas_politica", "cita": "Ante esta situación, los sistemas y políticas nacionales de Evaluación de Impacto Ambiental (EIA) se convierten en un campo necesario de intervención para integrar los efectos del cambio climático en la planificación y ejecución de proyectos de inversión, así como para considerar cómo éstos pueden afectar al sistema climático.", "pagina": 13}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. La Red Latinoamericana de Sistemas de Evaluación de Impacto Ambiental",
+      "nivel": 1,
+      "paginas": "15",
+      "resumen": "Describe la constitución de REDLASEIA el 20 de octubre de 2021, su objeto de mejorar la EIA mediante intercambio y colaboración técnica, su funcionamiento independiente y abierto, y las entidades gubernamentales que la integran.",
+      "dimensiones": [{"dimension": "contexto_antecedentes", "cita": "La REDLASEIA, constituida el 20 de octubre de 2021, es una organización conformada por entidades gubernamentales que ejercen funciones de evaluación de impacto ambiental en los países que representan.", "pagina": 15}],
+      "subsecciones": []
+    },
+    {
+      "seccion": "II. El cambio climático en América Latina y el Caribe",
+      "nivel": 1,
+      "paginas": "17-18",
+      "resumen": "Caracteriza la exposición regional mediante población, territorio, desigualdad y dependencia de recursos naturales; cuantifica emisiones y calentamiento; y detalla cambios en precipitación, sequías, caudales, seguridad alimentaria y riesgos futuros para proyectos, producción y población vulnerable.",
+      "dimensiones": [
+        {"dimension": "estado_de_situacion", "cita": "Las emisiones de GEI emitidas por la región en el año 2019 representaron un 10%8 de las emisiones globales, según el Sexto Informe de Evaluación (AR6, por sus siglas en inglés) del Grupo Intergubernamental de Expertos sobre el Cambio Climático (IPCC, por sus siglas en inglés).", "pagina": 17},
+        {"dimension": "diagnostico_estructural", "cita": "Esta situación se vincula fuertemente con la matriz productiva de los principales países de la región, la cual presenta una alta dependencia de la explotación de recursos naturales.", "pagina": 17},
+        {"dimension": "tendencias", "cita": "De acuerdo con el informe de “El estado del clima en América Latina y el Caribe 2022” 11 de la Organización Meteorológica Mundial (WMO, por sus siglas en inglés), la región se ha vuelto progresivamente más cálida con el tiempo, de modo que en el período comprendido entre 1991 y 2022 se observa una tendencia de calentamiento medio de aproximadamente 0,2 °C por decenio, la cual es la más acusada desde que se comenzaron a registrar las climatologías de 30 años en 1900.", "pagina": 18},
+        {"dimension": "desafios", "cita": "De aquí la importancia de conocer las tendencias asociadas al cambio climático para adaptar los sistemas urbanos y productivos a largo plazo, aunque reconociendo que la variabilidad del clima interanual representa desafíos inmediatos para las poblaciones y los medios de producción.", "pagina": 18}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "III. Criterios para incorporar el cambio climático en la Evaluación de Impacto Ambiental en el marco de la REDLASEIA",
+      "nivel": 1,
+      "paginas": "19-26",
+      "resumen": "Es el núcleo metodológico del documento: sistematiza criterios colaborativos, aclara que no son rígidos ni uniformes y los organiza en las etapas de descripción del proyecto, línea base, evaluación de riesgos e impactos y Plan de Gestión Ambiental.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Descripción del proyecto: análisis de alternativas y proyecto ejecutivo",
+          "nivel": 2,
+          "paginas": "20-22",
+          "resumen": "Mapa del bloque: primero orienta la prefactibilidad hacia alternativas de localización, temporalidad, factores sensibles, infraestructura sostenible y tecnologías verdes; luego exige describir emisiones, tecnologías de reducción, infraestructura de adaptación, localización y temporalidad del proyecto ejecutivo.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Descripción del proyecto: análisis de alternativas",
+              "nivel": 3,
+              "paginas": "20-21",
+              "resumen": "Propone evaluar desde la prefactibilidad alternativas de diseño y emplazamiento, emisiones, vínculo con NDC, estrategias y planes climáticos, riesgos de la cadena de suministros, vida útil, estacionalidad, recursos naturales sensibles, infraestructura adaptada y tecnologías verdes.",
+              "dimensiones": [
+                {"dimension": "propuestas_politica", "cita": "En este sentido, se deberá identificar y analizar el vínculo del proyecto con lo establecido en políticas y planes que hayan sido evaluados estratégicamente y que estén vinculados a la adaptación o mitigación del cambio climático.", "pagina": 20},
+                {"dimension": "desafios", "cita": "Por ende, un proyecto instalado en un lugar vulnerable deberá realizar sus acciones en aquellas épocas que configuren menores posibilidades de contingencia.", "pagina": 20}
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Descripción del proyecto: definición del proyecto ejecutivo",
+              "nivel": 3,
+              "paginas": "21-22",
+              "resumen": "Detalla la identificación y clasificación de fuentes directas e indirectas de GEI, el uso de Directrices del IPCC y del Estándar Corporativo de Contabilidad y Reporte, la comparación de tecnologías de reducción, la infraestructura para inundaciones y aguas pluviales, la cartografía de riesgos y el análisis temporal de obras mayores.",
+              "dimensiones": [
+                {"dimension": "propuestas_politica", "cita": "Se recomienda seguir el Estándar Corporativo de Contabilidad y Reporte 17 como protocolo de referencia para empresas proponentes que buscan cuantificar y reportar sus emisiones de GEI.", "pagina": 21},
+                {"dimension": "propuestas_politica", "cita": "Es fundamental describir la infraestructura incorporada para abordar los riesgos climáticos, como defensas contra inundaciones o sistemas de gestión de aguas pluviales.", "pagina": 21}
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Análisis y evolución de la línea de base",
+          "nivel": 2,
+          "paginas": "22-23",
+          "resumen": "Mapa del bloque: reemplaza la línea de base estática por una lectura dinámica de cambio, variabilidad e incertidumbre, y conduce a la identificación de factores, evolución socioambiental, escenarios climáticos y eventos extremos mediante herramientas interactivas.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Herramientas e instrumentos interactivos",
+              "nivel": 3,
+              "paginas": "22-23",
+              "resumen": "Recomienda combinar datos públicos y privados para decisiones y comunicación de la EIA, y enumera SIMARCC, el Portal de Proyecciones Climáticas de Brasil, ARClim de Chile y Ágil de Colombia, además de visores territoriales, biodiversidad y ecosistemas frágiles.",
+              "dimensiones": [
+                {"dimension": "propuestas_politica", "cita": "Para abordar el análisis del cambio climático en la línea de base, se recomienda utilizar diversas herramientas e instrumentos, basados en datos tanto públicos como privados, con el objetivo de comprender la evolución pasada y futura de las variables climáticas en un escenario en ausencia del proyecto.", "pagina": 22},
+                {"dimension": "oportunidades", "cita": "Estas herramientas no sólo simplifican la toma de decisiones en el contexto del proyecto, sino que también facilitan la interpretación de los resultados para los evaluadores y el público interesado.", "pagina": 22}
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Evaluación: análisis de riesgos climáticos e impactos",
+          "nivel": 2,
+          "paginas": "23-24",
+          "resumen": "Define criterios para integrar riesgos a lo largo de la vida útil, analizar dependencias ambientales, priorizar factores críticos y modelar impactos directos e indirectos. También exige considerar daños a instalaciones, trabajadores, redes, cadenas de suministro y puertos, e incorporar estrategias de adaptación en el proyecto y el PGA.",
+          "dimensiones": [
+            {"dimension": "propuestas_politica", "cita": "A partir de estos riesgos identificados, se deben promulgar estrategias de adaptación, integrándolas en la descripción del proyecto y en el plan de gestión ambiental.", "pagina": 24},
+            {"dimension": "desafios", "cita": "Esto incorporará un grado de incertidumbre en las valoraciones.", "pagina": 23}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Plan de Gestión Ambiental",
+          "nivel": 2,
+          "paginas": "24-26",
+          "resumen": "Organiza el PGA como instrumento de gestión adaptativa y seguimiento: integra medidas de adaptación y mitigación, indicadores, responsabilidades, comunicación, participación y revisión periódica, con énfasis en ajustar acciones durante el ciclo del proyecto frente a incertidumbre y nuevos datos.",
+          "dimensiones": [
+            {"dimension": "propuestas_politica", "cita": "El propósito fundamental del plan de gestión ambiental (PGA) es incorporar acciones adecuadas de adaptación y mitigación, utilizando un enfoque de gestión ambiental adaptativa como respuesta a las incertidumbres.", "pagina": 24},
+            {"dimension": "desafios", "cita": "La capacidad de incorporar medidas de adaptación a lo largo de todo el ciclo del proyecto subraya la resiliencia del proyecto a medida que evolucionan los efectos del cambio climático.", "pagina": 24}
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Contexto internacional: consideraciones del cambio climático en Evaluación de Impacto Ambiental",
+      "nivel": 1,
+      "paginas": "29-31",
+      "resumen": "Compara marcos de Canadá, España, Estados Unidos, California, Nueva Zelanda, Reino Unido y la Unión Europea. Muestra cómo distintas normas incorporan emisiones, vulnerabilidad, riesgos de desastres, temporalidad, conocimiento científico y consistencia con metas climáticas en la EIA.",
+      "dimensiones": [
+        {"dimension": "contexto_antecedentes", "cita": "El documento “Contexto de política: Considerando las obligaciones y compromisos ambientales con respecto al cambio climático según la Ley de Evaluación de Impacto” de 2020 establece los requisitos y expectativas para considerar en qué medida los efectos de un proyecto designado obstaculizarían o contribuirían con la posibilidad de que el Gobierno de Canadá cumpla con sus obligaciones ambientales y compromisos en materia de cambio climático.", "pagina": 30},
+        {"dimension": "contexto_antecedentes", "cita": "Un objetivo clave de la enmienda de 2014 ha sido mejorar la calidad de la EIA.", "pagina": 31}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "V. Marco normativo e instrumentos para el análisis de riesgos climáticos en países miembros de la REDLASEIA",
+      "nivel": 1,
+      "paginas": "33-40",
+      "resumen": "Mapa del bloque: presenta primero el marco común internacional y luego, para cada país, las normas ambientales y climáticas relevantes y las herramientas técnicas disponibles para incorporar riesgos climáticos en la EIA.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Argentina",
+          "nivel": 2,
+          "paginas": "33-34",
+          "resumen": "Contrasta una Ley General del Ambiente que no incorporaba clima en la EIA con la Ley 27.520, el Plan Nacional de Adaptación y Mitigación, la actualización de la guía de estudios y el Programa de Infraestructura Hidráulica; enumera SIMARCC, IGN y otros visores como herramientas.",
+          "dimensiones": [{"dimension": "brechas_implementacion", "cita": "En Argentina, la Ley General del Ambiente N°25.675 establece los presupuestos mínimos para el logro de una gestión sustentable y adecuada del ambiente, la preservación y protección de la diversidad biológica y la implementación del desarrollo sustentable, pero no incorpora la variable cambio climático en los procesos de evaluación ambiental.", "pagina": 33, "subtipo_brecha": "retrospectiva"}],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Brasil",
+          "nivel": 2,
+          "paginas": "34-35",
+          "resumen": "Describe el marco de EIA y licenciamiento compartido entre Unión y estados, la Política Nacional de Cambio Climático, sus instrumentos y la política de pago por servicios ambientales; identifica que falta un abordaje climático específico en la EIA y presenta un portal y un método participativo.",
+          "dimensiones": [{"dimension": "brechas_implementacion", "cita": "No obstante, las regulaciones mencionadas no consideran de manera específica el abordaje de los aspectos climáticos en la EIA de los proyectos de inversión o en sus procesos de licenciamiento.", "pagina": 35, "subtipo_brecha": "retrospectiva"}],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Chile",
+          "nivel": 2,
+          "paginas": "35-36",
+          "resumen": "Expone el SEIA, la rectoría técnica del SEA y la Ley Marco de Cambio Climático de 2022, que establece metas e instrumentos; destaca el mandato de considerar la variable climática en proyectos sometidos a EIA y la guía metodológica publicada por el SEA en 2023.",
+          "dimensiones": [{"dimension": "avances_implementacion", "cita": "En este contexto, cabe mencionar que en enero de 2023 el SEA publicó la “Guía Metodológica para la Consideración del Cambio Climático en el SEIA”44 y se espera contar con el desarrollo de criterios de evaluación del recurso hídrico en consideración del cambio climático en el corto plazo.", "pagina": 36}],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Colombia",
+          "nivel": 2,
+          "paginas": "36-37",
+          "resumen": "Presenta el SISCLIMA, la Comisión Intersectorial y los Nodos Regionales como arquitectura de coordinación, junto con PIGCCS y PIGCCT. Registra avances de acción climática, pero señala que la Ley 1931 no obligaba a incorporar clima en la evaluación ambiental; enumera plataformas y guías de apoyo.",
+          "dimensiones": [{"dimension": "diagnostico_estructural", "cita": "En 2016 se aprueba el Decreto 298 en el cual se adopta el Sistema Nacional del Cambio Climático (SISCLIMA). En este Decreto se crea la Comisión Intersectorial de Cambio Climático como órgano de coordinación y orientación de la implementación de la Política Nacional de Cambio Climático conformada por autoridades ministeriales.", "pagina": 36}, {"dimension": "brechas_implementacion", "cita": "No obstante, esta Ley no establece la obligatoriedad, para ninguno de estos instrumentos, de incorporar consideraciones vinculadas al cambio climático al momento de la evaluación ambiental en los proyectos de inversión.", "pagina": 36, "subtipo_brecha": "retrospectiva"}],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Costa Rica",
+          "nivel": 2,
+          "paginas": "37-38",
+          "resumen": "Describe la Ley Orgánica del Ambiente, SETENA, el reglamento de evaluación y el Manual de Instrumentos Técnicos, que permite considerar cambio climático y vulnerabilidad hídrica. Señala la ausencia de una ley climática específica y enumera planes nacionales, escenarios y análisis de vulnerabilidad como apoyos.",
+          "dimensiones": [{"dimension": "brechas_implementacion", "cita": "A diferencia del resto de los países de la REDLASEIA, Costa Rica no cuenta con una ley de cambio climático que norme los temas específicos de adaptación y mitigación.", "pagina": 38, "subtipo_brecha": "retrospectiva"}],
+          "subsecciones": []
+        },
+        {
+          "seccion": "F. Perú",
+          "nivel": 2,
+          "paginas": "39-40",
+          "resumen": "Expone el SEIA, SENACE y la ausencia inicial de aspectos climáticos en el marco ambiental; luego muestra la Ley Marco sobre Cambio Climático de 2018 y su reglamento, que incorporan riesgo, vulnerabilidad y medidas de adaptación y mitigación en proyectos, junto con mapas, visores y guías técnicas.",
+          "dimensiones": [{"dimension": "avances_implementacion", "cita": "En lo que respecta al objetivo de este documento, esta normativa dispone la incorporación del análisis del riesgo climático y vulnerabilidad, así como la identificación de medidas de mitigación y adaptación al cambio climático en la evaluación de los proyectos de inversión sujetos al Sistema Nacional de Evaluación de Impacto Ambiental.", "pagina": 39}],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "VI. Conclusiones",
+      "nivel": 1,
+      "paginas": "41",
+      "resumen": "Cierra con el consenso regional sobre integrar clima en la EIA, la advertencia de que zonas hoy sin riesgo pueden volverse riesgosas, la necesidad de una línea de base dinámica y una Gestión Ambiental Adaptativa, y la recomendación de explorar incentivos fiscales y tributarios.",
+      "dimensiones": [
+        {"dimension": "estado_de_situacion", "cita": "Este documento buscó plasmar un esfuerzo colaborativo entre los miembros de la red, permitiendo establecer un consenso de perspectivas en común en cuanto la necesidad de integrar el cambio climático en la evaluación ambiental de futuros proyectos de inversión.", "pagina": 41},
+        {"dimension": "propuestas_politica", "cita": "Por último, surge la oportunidad de explorar medidas fiscales y tributarias que impulsen inversiones en proyectos de mitigación y adaptación al cambio climático.", "pagina": 41}
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento propone un paquete coordinado de criterios e instrumentos a lo largo de las cuatro etapas de la EIA y nombra medidas de mitigación, adaptación, tecnologías verdes e incentivos fiscales. Sin embargo, no desarrolla una agenda de inversión productiva masiva con sectores estratégicos y dos eficiencias articuladas; su escala es la integración regulatoria y metodológica de la EIA.",
+      "citas": [{"cita": "Se considera fundamental la incorporación de criterios en las diversas instancias del proceso de evaluación de impacto ambiental, que son luego reflejadas dentro de los Estudios de Impacto Ambiental en las siguientes secciones", "pagina": 19}],
+      "nota": "Parcial por instrumento y coordinación inter-etapas, pero sin paquete autónomo de transformación productiva a escala de modelo de desarrollo."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "La REDLASEIA es un mecanismo nombrado dentro del ámbito regional del documento: reúne entidades gubernamentales de evaluación ambiental y opera mediante intercambio de información, colaboración técnica continua, sesiones y taller para producir criterios comparados.",
+      "citas": [{"cita": "Tiene por objeto mejorar y potenciar la evaluación de impacto ambiental en América Latina, fortaleciendo el rol de los organismos involucrados, por medio del intercambio de información y colaboración técnica continua en favor de una evaluación de impacto ambiental, actualizada, novedosa y acorde a las necesidades actuales.", "pagina": 15}],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "El documento no enumera oportunidades productivas sostenibles desarrolladas con vínculo explícito a empleo, productividad o desigualdad. Menciona sectores, proyectos, tecnologías y actividades económicas como contexto de la EIA, pero no construye una agenda de oportunidades productivas con ese vínculo.",
+      "citas": [],
+      "desglose_items": [],
+      "tally": "0 de 0 ítems pasan el test de oportunidades productivas",
+      "nota": "Chequeo negativo explícito: no se encontraron simultáneamente una enumeración de actividades concretas y un desarrollo de sus efectos sobre empleo, productividad o desigualdad."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El cierre contiene recomendaciones identificables —integración iterativa de criterios y exploración de medidas fiscales y tributarias—, pero no presenta una lista numerada completa con responsables, plazos o métricas. Por ello no es un caso de desglose ítem por ítem plenamente verificable.",
+      "citas": [{"cita": "Por último, surge la oportunidad de explorar medidas fiscales y tributarias que impulsen inversiones en proyectos de mitigación y adaptación al cambio climático.", "pagina": 41}],
+      "desglose_items": [],
+      "tally": "0 de 0 ítems enumerados en una lista formal de recomendaciones",
+      "nota": "El veredicto reconoce acciones normativas concretas en el cuerpo y el cierre, pero la unidad restrictiva del cierre formal no contiene una lista operativa numerada."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {"numero": 6, "nombre": "Sostenibilidad ambiental", "certeza": "Alta"},
+    "transformacion_secundaria": {"numero": 11, "nombre": "Capacidades del Estado", "certeza": "Alta"},
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "La tensión central está entre la urgencia de reducir vulnerabilidad, emisiones y daños climáticos en proyectos de inversión y la necesidad de convertir esa urgencia en capacidades regulatorias, metodologías y coordinación pública aplicables en la EIA.",
+      "filtro_categoria_primaria": "La sostenibilidad ambiental es el objeto principal: el documento analiza cambio climático, adaptación, mitigación, riesgos, emisiones, resiliencia y gestión ambiental, y formula criterios para integrar esos contenidos en proyectos.",
+      "secundaria_obligatoria": "Las capacidades del Estado son secundarias porque el instrumento de cambio depende de entidades de licenciamiento, marcos normativos, guías, plataformas de información, coordinación interinstitucional y aplicación iterativa de la EIA.",
+      "justificacion_anti_copia": "No se clasifica como Capacidades del Estado primaria porque la institucionalidad no es el fin sustantivo del documento: es el medio para incorporar la variable climática en la evaluación ambiental. Tampoco se clasifica como Macroeconomía y fiscalidad: los incentivos fiscales son una recomendación puntual, no el objeto analítico.",
+      "validacion_anclas": "La decisión contrasta con el ancla metodológica ID 19, “Panorama de la Gestión Pública 2023: un Estado preparado para la acción climática”: allí las capacidades públicas son el objeto agregador; aquí la sostenibilidad ambiental y la integración climática en la EIA son el objeto, mientras las capacidades estatales funcionan como medio de implementación."
+    },
+    "tipo_documento_climatico": "Guía metodológica y documento técnico comparado sobre integración de adaptación y mitigación climática en la EIA",
+    "nivel_aplicacion": "Regional, con comparación normativa y de herramientas en seis países miembros de REDLASEIA y referencias internacionales",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

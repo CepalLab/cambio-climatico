@@ -1,0 +1,574 @@
+{
+  "documento": {
+    "num_muestra": 11,
+    "titulo": "Identificación de instrumentos económicos, financieros, regulatorios y fiscales implementados por el Gobierno del Perú para un enfoque integrado del cambio climático",
+    "autoria": "Elsa Galarza Contreras | José Luis Ruíz Pérez",
+    "handle": "https://hdl.handle.net/11362/42057",
+    "simbolo": "LC/TS.2017/56",
+    "isbn": null,
+    "fecha": "2017-06",
+    "tipo_documento": "Documento de Proyectos",
+    "paginas_cuerpo": 45,
+    "paginas_totales": 57,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Qué instrumentos económicos, financieros, regulatorios y fiscales tiene el gobierno del Perú para incorporar un enfoque de adaptación al cambio climático, y cuáles podrían utilizarse para promover iniciativas de adaptación en gestión del recurso hídrico, agricultura y gestión del riesgo por desastres?",
+    "alcance": {
+      "ambito_aplicacion": "Perú (nacional), tres sectores: gestión del recurso hídrico, agricultura y gestión del riesgo por desastres",
+      "referentes_dependencias": "Experiencias internacionales de instrumentos económicos ambientales; clasificación de Panayotou (1998); experiencias de otros países en bonos CAT y seguros paramétricos",
+      "sectorial": "Gestión del recurso hídrico, agricultura, gestión del riesgo de desastres",
+      "temporal": "Enfoque en la situación alrededor de 2014-2015, con referencia a marcos normativos recientes"
+    },
+    "hallazgos_principales": [
+      "Los instrumentos económicos han demostrado ser efectivos para cambiar el comportamiento de los agentes económicos, aunque tienen mayor impacto junto con herramientas regulatorias (p. 49)",
+      "Los instrumentos financieros son los más utilizados en Perú, clasificados en mecanismos tradicionales del gasto público y fondos específicos (p. 49)",
+      "No existe una contabilización específica de las medidas de gestión del recurso hídrico desarrolladas con enfoque de cambio climático (p. 25)",
+      "Se estima que 478 distritos (37,65% del total analizado) tienen vulnerabilidad alta o muy alta en actividades agrícolas (p. 33)",
+      "El presupuesto del PP 0068 creció de 63 millones en 2011 a 820 millones en 2014, con distribución más equitativa entre niveles de gobierno (p. 42)"
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "Los instrumentos financieros son los más utilizados en Perú, mientras que otros como los de creación de mercados y depósito y reembolso apenas se implementan (p. 49-50)",
+        "En gestión del recurso hídrico, el Sistema Nacional de Gestión de Recursos Hídricos desarrolla sus políticas en coordinación con múltiples ministerios pero sin un enfoque transversal explícito de adaptación (p. 50)",
+        "La gestión de riesgos de desastres fue incorporada como política de Estado con el SINAGERD y el PLANAGERD, con avances significativos en el marco institucional (p. 50-51)"
+      ],
+      "recomendaciones": [
+        "Se necesita información sistematizada sobre instrumentos económicos y sus experiencias de aplicación para los tomadores de decisión (p. 51)",
+        "Se requiere sensibilizar a los ejecutores de medidas de adaptación sobre la existencia de instrumentos económicos complementados con guías metodológicas (p. 51)",
+        "Incorporar el enfoque de cambio climático en el análisis de los proyectos de inversión pública vinculados al desarrollo (p. 51)",
+        "En recursos hídricos: coordinar infraestructura gris (MINAGRI/PP0042) e infraestructura verde (MINAM) y potenciar retribuciones por servicios ecosistémicos hidrológicos (p. 52)",
+        "En agricultura: incorporar la visión del cambio climático no solo como prevención de riesgos sino como búsqueda de oportunidades (p. 52)",
+        "En gestión de riesgos: ampliar progresivamente acciones del PLANAGERD y promover una cultura de aseguramiento (p. 52)"
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "El documento identifica los instrumentos económicos, financieros y fiscales del gobierno de Perú para incorporar un enfoque de adaptación al cambio climático, limitándose a tres sectores: gestión del recurso hídrico, agricultura y gestión del riesgo por desastres. Clasifica los instrumentos en tres tipos según su potencial de adaptación y formula recomendaciones para ampliar su alcance. Destaca la importancia de contar con información sistematizada, sensibilizar a los ejecutores de medidas y ampliar el enfoque de cambio climático en los proyectos de inversión pública."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "10-12",
+      "resumen": "El capítulo introduce la necesidad de identificar instrumentos económicos, financieros, regulatorios y fiscales que contribuyan con la adaptación al cambio climático en Perú. Menciona el liderazgo del gobierno peruano en la COP20 y la participación en la COP21. Señala que el estudio considera los avances de la consultoría sobre INDCs de Perú y que el análisis se centra en gestión de recursos hídricos, agricultura y gestión del riesgo por desastres. El documento se divide en cuatro capítulos: descripción de medidas de adaptación, definición teórica de instrumentos, análisis de instrumentos en los sectores considerados, y conclusiones y recomendaciones.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "En los próximos años, uno de los grandes retos que enfrentará la humanidad será poner freno al cambio climático y desarrollar la capacidad de adaptación frente a los efectos de este fenómeno. La evidencia muestra que los orígenes del cambio climático son atribuibles a la actividad humana y que sus impactos no sólo afectan a los ecosistemas sino también a las actividades sociales y económicas.",
+          "pagina": 10
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "El gobierno de Perú ha mostrado su liderazgo y compromiso con la disminución del fenómeno del calentamiento global y con la protección de la naturaleza, facilitando procesos complejos de negociación internacional (como lo fue la organización de la Conferencia de Partes de la Convención Marco de las Naciones Unidas sobre el Cambio Climático –COP20– en Lima, y su participación en la reunión de la COP21) pero también, promoviendo investigaciones que contribuyan a desarrollar mejores políticas públicas y a profundizar el conocimiento científico sobre el problema.",
+          "pagina": 10
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "El objetivo de este estudio es identificar dichos instrumentos para así, elaborar un diagnóstico que presente algunas recomendaciones generales y definir los próximos pasos o etapas a seguir. Cabe mencionar, que el estudio consideró los avances de la consultoría “Apoyo en la elaboración de las Contribuciones Nacionales (INDCs) de Perú: Desarrollo de recomendaciones para la implementación político-financiera de medidas de reducción de GEI”.",
+          "pagina": 10
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Medidas de adaptación e instrumentos económicos",
+      "nivel": 1,
+      "paginas": "12-20",
+      "resumen": "Capítulo que establece los fundamentos conceptuales y metodológicos del estudio. Define las medidas de adaptación según el IPCC, distingue entre adaptación incremental y transformacional, y presenta una clasificación de acciones de adaptación por sectores. Describe la metodología de análisis en cuatro fases: definición de instrumentos, diagnóstico, evaluación del potencial y formulación de recomendaciones. Clasifica los instrumentos en tres categorías (A, B, C) según su relación con la adaptación.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Medidas de adaptación",
+          "nivel": 2,
+          "paginas": "12-16",
+          "resumen": "Define las medidas de adaptación según el IPCC como el proceso de ajuste al clima actual o proyectado. Distingue entre adaptación incremental (mantener la esencia del sistema) y transformacional (cambiar atributos fundamentales). Presenta la clasificación de Buchner et al. (2013) sobre actividades de adaptación por sectores y la de Galindo et al. (2013) con medidas por sector y ámbito. Menciona que los costos de adaptación no superan el 0,5% del PIB regional mientras que los impactos pueden alcanzar el 5%.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Según la definición del IPCC, publicada en la contribución del Grupo de Trabajo II al Quinto Informe de Evaluación (GTII IE5) es: el proceso de ajuste al clima actual o proyectado y a sus efectos. En los sistemas humanos, la adaptación busca moderar o evitar el daño o explotar oportunidades beneficiosas.",
+              "pagina": 12
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "A nivel regional, mientras los costos no superan el 0,5% del PIB, los impactos esperados rebasan en algunos casos, el 2 e incluso el 5% del PIB. Ello revela la importancia de implementar medidas de adaptación eficientes que permitan reducir los impactos negativos del cambio climático.",
+              "pagina": 13
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. La adaptación en la Estrategia Nacional de Cambio Climático y en los INDCs",
+          "nivel": 2,
+          "paginas": "14-16",
+          "resumen": "Revisa el tratamiento de la adaptación en la planificación nacional de Perú. Menciona el Plan de acción de adaptación y mitigación del MINAM con medidas como desarrollar escenarios climáticos, análisis sectorial de costos y estudios de riesgo. La ENCC plantea dos objetivos: incrementar conciencia y capacidad adaptativa, y conservar reservas de carbono. Las Contribuciones Nacionales identifican seis sectores de adaptación. Señala que existe una vinculación estrecha entre acciones de adaptación y desarrollo.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Bajo este contexto, dicha estrategia plantea dos objetivos principales: (i) que la población, los agentes económicos y el Estado incrementan su conciencia y capacidad adaptativa para la acción frente a los efectos adversos y oportunidades del CC y (ii) que conserven las reservas de carbono y contribuyan a la reducción de las emisiones de GEI.",
+              "pagina": 15
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "En este estudio, se hace referencia a las acciones de adaptación de acuerdo a los ejemplos presentados en los cuadros 1 y 2. A su vez, el análisis se centra en tres sectores: agricultura, recursos hídricos (de acuerdo al cuadro 3) y gestión de riesgo de desastres relacionados al cambio climático.",
+              "pagina": 16
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Metodología de análisis de los instrumentos",
+          "nivel": 2,
+          "paginas": "16-20",
+          "resumen": "Describe las cuatro fases metodológicas del estudio: (1) definición de instrumentos a considerar con base en criterios de utilizados y potenciales; (2) diagnóstico clasificando instrumentos en Tipo A (con enfoque de adaptación), Tipo B (utilizados sin enfoque pero modificables) y Tipo C (potenciales); (3) evaluación del potencial según la categoría; y (4) formulación de recomendaciones específicas por categoría. La metodología se basa en Galarza y Ruíz (2015).",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Como resultado del análisis de la información, se obtuvo un listado de instrumentos en los sectores identificados que contribuyen a la ejecución de medidas de adaptación al cambio climático (con o sin este enfoque) o que tienen el potencial de hacerlo y sólo necesitan algunas modificaciones.",
+              "pagina": 18
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "La experiencia con las medidas de mitigación muestra, que la implementación pasa por diferentes fases (desarrollo de condiciones habilitantes, puesta en marcha y operación) y que cada una de ellas, puede ser apoyada por un instrumento diferente.",
+              "pagina": 18
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "II. Instrumentos económicos para la política ambiental",
+      "nivel": 1,
+      "paginas": "20-24",
+      "resumen": "Capítulo que define el concepto de instrumento económico y presenta su tipología. Establece la diferencia entre instrumentos de comando y control e instrumentos económicos. Presenta la tipología de Panayotou (1998) con siete categorías: derechos de propiedad, creación de mercados, instrumentos fiscales, sistemas de cargo, instrumentos financieros, sistemas de responsabilidad, y depósito y reembolso. Identifica nueve criterios para la selección de instrumentos y describe los instrumentos existentes en Perú, señalando que los financieros son los más utilizados.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Definición de instrumento económico",
+          "nivel": 2,
+          "paginas": "20-21",
+          "resumen": "Define los instrumentos económicos como aquellos que buscan inducir un cambio en el comportamiento de los agentes económicos al internalizar los costos de la degradación ambiental. Los instrumentos de comando y control refieren a regulaciones con cumplimiento de estándares, mientras que los económicos generan incentivos a través de mecanismos de mercado. Ambos suelen ser complementarios en la regulación ambiental.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Los instrumentos económicos se caracterizan por generar los incentivos económicos necesarios para lograr un cambio en el comportamiento de los agentes (consumidores o productores) hacia acciones más sostenibles o ambientalmente amigables los cuales, se producen a través de mecanismos de mercado (Panayotou, 1998).",
+              "pagina": 20
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Tipología de instrumentos económicos",
+          "nivel": 2,
+          "paginas": "21-22",
+          "resumen": "Presenta la tipología de Panayotou (1998) con siete categorías de instrumentos económicos. Los derechos de propiedad se basan en la definición de derechos de uso; la creación de mercados aplica a bienes públicos con precio libre; los instrumentos fiscales (impuestos y subsidios) internalizan externalidades; los sistemas de cargo pagan por uso de recursos públicos; los instrumentos financieros están fuera del presupuesto regular; los sistemas de responsabilidad establecen obligaciones legales; y los de depósito y reembolso transfieren responsabilidad del control.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Los instrumentos fiscales (como impuestos y subsidios), pueden utilizarse para evitar la brecha entre los costos y los beneficios privados y sociales. Dado que los precios de mercado no reflejan las externalidades (positivas o negativas) derivadas del consumo o la producción de los bienes, los impuestos o subsidios permiten que estos se incluyan en el precio.",
+              "pagina": 21
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Criterios para la selección de instrumentos",
+          "nivel": 2,
+          "paginas": "21-22",
+          "resumen": "Presenta nueve criterios de selección de instrumentos económicos según Panayotou (1998): efectividad ambiental, costo-efectividad, flexibilidad, eficiencia dinámica, equidad, facilidad de introducción, facilidad de monitoreo y cumplimiento, predictibilidad, y aceptabilidad. La selección dependerá de las condiciones de cada país o sector y del nivel de desarrollo institucional.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "La selección de instrumentos económicos dependerá de las condiciones de cada país o sector. Muchos, requieren del desarrollo de determinadas capacidades o de cierto nivel de desarrollo institucional. Por ello, la evaluación en conjunto es necesaria para determinar el más apropiado.",
+              "pagina": 22
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Instrumentos existentes en Perú",
+          "nivel": 2,
+          "paginas": "22-24",
+          "resumen": "Resume los instrumentos económicos existentes en Perú según la clasificación establecida. Los instrumentos financieros (programas presupuestales, proyectos de inversión, fondos) son los más utilizados. Los derechos de propiedad se aplican a la titulación agrícola y forestal. Los de creación de mercados solo se han aplicado en pesquería. Los fiscales se introducen gradualmente. Los cargos financian fiscalización ambiental. Los seguros se aplican ampliamente incluyendo seguros indexados para El Niño. Los de depósito y reembolso no se han implementado.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Si analizamos los instrumentos de acuerdo al tipo, el uso de instrumentos económicos es muy reducido, a excepción de los financieros. Aquellos que promueven los derechos de propiedad, básicamente están siendo aplicados a la titulación de la tierra agrícola y forestal.",
+              "pagina": 22
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "III. Aplicación de instrumentos económicos para las medidas de adaptación al cambio climático",
+      "nivel": 1,
+      "paginas": "24-49",
+      "resumen": "Capítulo central que presenta el análisis de instrumentos en los tres sectores estudiados. Aplica las categorías analíticas (A, B, C) a cada sector: gestión del recurso hídrico, agricultura y gestión del riesgo de desastres. Para cada sector describe las medidas identificadas, los instrumentos utilizados y los potenciales, con detalle de montos y fuentes de financiamiento.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Gestión del recurso hídrico",
+          "nivel": 2,
+          "paginas": "24-33",
+          "resumen": "Analiza la gestión del recurso hídrico en Perú incluyendo oferta (fuentes) y demanda (usos). El SNGRH fue creado en 2008 con cuatro pilares de planificación. Los recursos se canalizan a través de cuatro programas presupuestales. La inversión en adaptación al CC apenas representa el 3% del PNRH. Se detallan instrumentos utilizados (programas presupuestales, FONCOMUN, Plan de Incentivos, retribución por servicios ecosistémicos, PROFONANPE, depreciación acelerada, obras por impuestos) y potenciales (FONIE, líneas de financiamiento).",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Medidas identificadas",
+              "nivel": 3,
+              "paginas": "24-26",
+              "resumen": "La GRH fue incorporada como política de Estado. El SNGRH articula acciones de instituciones del sector público y usuarios. Los instrumentos de gestión tienen cuatro pilares que van desde el nivel nacional (Política Nacional del Ambiente) hasta la cuenca (Planes de Gestión de Recursos Hídricos). Las principales normas incluyen la Ley de Recursos Hídricos, el D.S. de Política y Estrategia Nacional, y el D.S. del Plan Nacional de Recursos Hídricos. Cinco ejes de política incluyen la adaptación al cambio climático.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "El principio 7 de la Ley de Recursos Hídricos (descentralización de la gestión pública del agua y de autoridad única) señala que para una efectiva gestión pública del recurso, el Sistema Nacional de Gestión de los Recursos Hídricos debe ser responsabilidad de una autoridad única y desconcentrada.",
+                  "pagina": 25
+                },
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "El Sistema Nacional de Gestión de los Recursos Hídricos desarrolla sus políticas en coordinación con los Ministerios de: Ambiente, Agricultura, Energía y Minas, Salud, Producción y Vivienda, Construcción y Saneamiento, así como con los gobiernos regionales y locales, dentro del marco de la política y estrategia nacional de recursos hídricos.",
+                  "pagina": 25
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "Un aspecto que no está explícito en los instrumentos de gestión es la necesidad de adoptar un enfoque transversal, con respecto a la adaptación al cambio climático. Cualquiera de los programas (relacionado a la cantidad, calidad, oportunidad o cultura del agua) debe considerar el cambio previsible en las condiciones climáticas y su efecto sobre los recursos hídricos.",
+                  "pagina": 25,
+                  "subtipo_brecha": "prospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Instrumentos económicos utilizados",
+              "nivel": 3,
+              "paginas": "26-33",
+              "resumen": "No existe contabilización específica de medidas con enfoque de cambio climático. Se detallan programas presupuestales (PP0042, PP0035, PP0057, PP0068), FONCOMUN, Plan de Incentivos, retribución por servicios ecosistémicos (SUNASS), PROFONANPE (proyecto de PSA en Reserva Salinas y Aguada Blanca), depreciación acelerada (20% anual en obras hidráulicas) y obras por impuestos. El monto total de GRH para 2014 fue de 1,684 millones de soles y otras fuentes de financiamiento disponibles.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "El monto girado durante el 2014 fue de 1 474 millones de soles (1,15% del presupuesto total). Como se aprecia en el gráfico 1, la inversión en esta línea ha crecido en los últimos años y la ejecución se encuentra distribuida entre el gobierno nacional y los gobiernos regionales y locales (véase el gráfico 2).",
+                  "pagina": 26
+                },
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Otros instrumentos que incorporan un enfoque de cambio climático son la retribución por servicios ecosistémicos hidrológicos liderada por la SUNASS y los proyectos financiados por el PROFONANPE.",
+                  "pagina": 33
+                },
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Las empresas agrícolas pueden depreciar a razón del 20% anual el monto de las inversiones en obras de infraestructura hidráulica y de riego. Este beneficio, puede aplicarse hasta el 31 de diciembre de 2021.",
+                  "pagina": 31
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Instrumentos económicos potenciales",
+              "nivel": 3,
+              "paginas": "32-33",
+              "resumen": "Se identifican el FONIE (302.6 millones de nuevos soles en 2014) como fuente subutilizada para gestión del recurso hídrico en áreas rurales, y las líneas de financiamiento como alternativa para promover participación del sector privado en reforestación de cabeceras de cuenca. Los instrumentos se clasifican en Tipo A (programas presupuestales, retribución por servicios ecosistémicos, PROFONANPE), Tipo B (canon, FONCOMUN, Plan de Incentivos, depreciación acelerada, obras por impuestos) y Tipo C (FONIE, líneas de financiamiento).",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Dado que el foco de atención son las áreas rurales, sorprende que no se haya aprovechado esta fuente de recursos como para iniciativas de gestión del recurso hídrico que beneficien las actividades productivas de la población.",
+                  "pagina": 32
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Agricultura",
+          "nivel": 2,
+          "paginas": "33-40",
+          "resumen": "Analiza la adaptación de la agricultura al cambio climático en Perú. El sector es altamente vulnerable con 478 distritos en alta vulnerabilidad agrícola. Los LPA incluyen 10 lineamientos de política. El PLANGRACC-A tiene fuerte presencia de gestión de riesgo pero no identifica oportunidades de desarrollo. Se detallan instrumentos utilizados (derechos de propiedad/PETT, presupuesto público, MIRIEGO, FONIPREL, FOCAM, FONCODES-Haku Wiñay, FINCyT) y potenciales (AGROIDEAS, PROCOMPITE, FONDOEMPLEO, instrumentos de promoción, líneas de financiamiento).",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Medidas identificadas",
+              "nivel": 3,
+              "paginas": "33-34",
+              "resumen": "La agricultura atrae alta proporción de población económicamente activa y sustenta a población vulnerable. El marco normativo incluye la Política 23 del Acuerdo Nacional y los Lineamientos de Política Agraria (LPA) de 2014. El PLANGRACC-A (2012) tiene como objetivo reducir riesgos y vulnerabilidades. Sus ejes estratégicos incluyen técnicas agroecológicas, variedades nativas, manejo del agua y conservación de suelos. Se identifica una fuerte presencia de gestión de riesgo pero no de oportunidades de desarrollo.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Se estima que 478 distritos (37,65% del total analizado) tienen una vulnerabilidad alta o muy alta en sus actividades agrícolas y que 818 distritos (46,59% del total analizado) tienen una vulnerabilidad alta o muy alta en sus actividades pecuarias (Ministerio de Agricultura, 2012).",
+                  "pagina": 33
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "El cambio climático, se menciona en el lineamiento relativo a la prevención y atención de riesgos. Sin embargo, no existe una mención específica de las oportunidades que pueden derivarse de la adaptación de un enfoque de desarrollo en un contexto de cambio climático, más allá de la incorporación del concepto de sostenibilidad en el manejo de agua, suelos y desarrollo forestal.",
+                  "pagina": 33,
+                  "subtipo_brecha": "prospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Instrumentos económicos utilizados",
+              "nivel": 3,
+              "paginas": "34-38",
+              "resumen": "No existe identificación específica de proyectos con enfoque de adaptación. Se detallan: derechos de propiedad (PETT desde 1991, transferido a gobiernos regionales en 2009), presupuesto público (3,602 millones en función agropecuaria), MIRIEGO (99.77% al PP0042), FONIPREL (39.9 millones para recursos hídricos), FOCAM (2.4 millones para recursos naturales), FONCODES-Haku Wiñay (13,509 sistemas de riego, 30,552 huertos, 1,800 ha cultivos andinos entre 2012-2014), y FINCyT (proyectos de innovación productiva con enfoque climático).",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "El yachachiq tiene el rol de transmitir las mejores prácticas, aprovechando los conocimientos y hábiles ancestrales e incorporando elementos de agricultura familiar, seguridad alimentaria y adaptación al cambio climático.",
+                  "pagina": 36
+                },
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Los recursos de FONIPREL tienen como objeto, cubrir las brechas de infraestructura en poblaciones priorizadas para la acción del gobierno. En ese sentido, las inversiones consideradas en este estudio compiten con infraestructura educativa, vial, entre otras.",
+                  "pagina": 36
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Instrumentos económicos potenciales",
+              "nivel": 3,
+              "paginas": "38-40",
+              "resumen": "Se identifican AGROIDEAS (126 millones a 648 asociaciones entre 2011-2015), PROCOMPITE (389 millones en financiamiento 2009-2012), FONDOEMPLEO (proyectos productivos sostenibles), instrumentos de promoción y mercadeo (para facilitar comercialización de productos de agricultura adaptable), y líneas de financiamiento (modelos como Agricultura Baja en Carbono de Brasil). Los instrumentos se clasifican en Tipo A (programas presupuestales y FONCODES), Tipo B (derechos de propiedad, FONIPREL, FOCAM, FINCyT) y Tipo C (AGROIDEAS, PROCOMPITE, FONDOEMPLEO, líneas de financiamiento).",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Adicionalmente, existe la tendencia a analizar la adaptación al cambio climático únicamente como la prevención de riesgos de desastres que tienen su origen en el incremento de la variabilidad climática. No obstante, se debe analizar que el cambio climático puede generar cambios en la oferta y demanda de alimentos y materias primas a nivel mundial",
+                  "pagina": 39
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "Actualmente la evaluación de los perfiles de negocio se centra en la sostenibilidad financiera de las iniciativas. Los autores consideran que, sin sacrificar esa idea, sería oportuno aprovechar los concursos para difundir y/o incentivar la adopción de tecnologías/variedades de cultivo que tengan mejores capacidades para adaptarse al cambio climático.",
+                  "pagina": 38,
+                  "subtipo_brecha": "prospectiva"
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Gestión del riesgo de desastres",
+          "nivel": 2,
+          "paginas": "40-49",
+          "resumen": "Analiza la gestión del riesgo de desastres en un contexto de cambio climático. El SINAGERD (Ley 29664) integra la gestión de riesgo con el desarrollo. El PLANAGERD (2014-2021) establece 6 objetivos estratégicos. Se detallan instrumentos utilizados (PP0068, reserva de contingencia, líneas de crédito contingente, obras por impuestos, seguros paramétricos) y potenciales (bonos catastróficos, endeudamiento de largo plazo, regulación). Los seguros paramétricos contra El Niño son pioneros en el país.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Medidas identificadas",
+              "nivel": 3,
+              "paginas": "40-42",
+              "resumen": "La GRD fue incorporada como Política de Estado (Política 32). El SINAGERD se integra con políticas de desarrollo nacional. El PLANAGERD (2014-2021) establece como objetivo reducir la vulnerabilidad con 6 objetivos principales, 14 específicos y 47 acciones estratégicas. El diagnóstico identifica peligros relacionados con cambio climático: Fenómeno de El Niño, precipitaciones extremas, inundaciones, sequías. En 2003-2012, el 43.87% de damnificados fueron por lluvias e inundaciones, y el 50.62% por bajas temperaturas.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Según PLANAGERD, durante el período 2003-2012 del total de la población damnificada (1 412 671 personas), el 43,87% fueron por lluvias intensas e inundaciones. Asimismo, del total de personas afectadas (9 610 999), los perjudicados por bajas temperaturas representan el 50,62% del total y por lluvias intensas e inundaciones el 33,36%.",
+                  "pagina": 41
+                },
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "En mayo de 2014, se aprobó el Plan Nacional de Gestión de Riesgo de Desastres (PLANAGERD 2014–2021) el cual, está orientado a lograr una sociedad segura y resiliente ante los riesgos. Establece como objetivo nacional el reducir la vulnerabilidad de la población y sus medios de vida, ante el riesgo de desastres.",
+                  "pagina": 41
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Instrumentos económicos utilizados",
+              "nivel": 3,
+              "paginas": "42-48",
+              "resumen": "El PLANAGERD establece estrategia de gestión financiera con tres componentes: estimación/prevención, preparación/respuesta, y reconstrucción. El PP0068 creció de 63 millones en 2011 a 820 millones en 2014, con ejecución del 74%. La reserva de contingencia alcanzó 50 millones en 2015 para INDECI. Perú cuenta con líneas de crédito contingentes por 1,200 millones de dólares. Se detallan instrumentos privados: seguros paramétricos (La Positiva Seguros), obras por impuestos (1 proyecto de vulnerabilidad), y seguros agrícolas catastróficos (750 soles/ha, producción menor al 40%).",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Al cierre de 2014, se contaba con 73 Programas Presupuestales con diseños de intervención definidos bajo objetivos de política nacional prioritarios. Algunos PP involucran su implementación a nivel de los gobiernos sub nacionales y el 62,1% del presupuesto total programable cuenta con un enfoque de resultados para el 2014 (MEF).",
+                  "pagina": 42
+                },
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Perú cuenta con líneas de crédito contingentes con organismos multilaterales como BIRF, BID y JICA, por 1 200 millones de dólares, para atender exclusivamente desastres naturales.",
+                  "pagina": 45
+                },
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "El seguro agrícola catastrófico es un seguro indexado al rendimiento del cultivo de una determinada zona. Protege frente a pérdidas catastróficas de impacto regional. Los riesgos cubiertos son: sequía, exceso de humedad, helada, bajas temperaturas, inundación, avalancha, granizo, incendio, vientos fuertes, altas temperaturas, falta de piso para cosechar, enfermedades plagas y depredadores.",
+                  "pagina": 46
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Instrumentos económicos potenciales",
+              "nivel": 3,
+              "paginas": "48-49",
+              "resumen": "Se identifican instrumentos de transferencia de riesgo: bonos catastróficos (VPE que reasegura eventos catastróficos), endeudamiento de largo plazo, y regulación para diversificar sectores. Standard and Poor's señala que la incorporación alta de seguros puede reducir impactos potenciales de desastres. Los instrumentos se clasifican en Tipo A (PP0068, FONCOMUN, reserva contingente, créditos contingentes, seguros paramétricos), Tipo B (Plan de Incentivos, FONIPREL, FOCAM, microseguros, obras por impuestos) y Tipo C (bonos catastróficos, préstamos largo plazo, regulación).",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Los seguros indexados y los bonos CAT son los que generan mayores beneficios, especialmente en situación post desastre y para la inclusión de acciones de reducción de riesgo. No obstante, al ser nuevos, casi no son implementados debido a su poca difusión y a la necesidad de un conocimiento especializado para su diseño y operación.",
+                  "pagina": 48
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Finalmente, la tercera columna, incluye los instrumentos potenciales, donde se incluyen los bonos catastróficos y endeudamiento de largo plazo y los de regulación para diversos sectores con el fin de adecuar el enfoque de adaptación a las decisiones de inversión y gestión del territorio.",
+                  "pagina": 48
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Conclusiones y recomendaciones",
+      "nivel": 1,
+      "paginas": "50-54",
+      "resumen": "Capítulo final que presenta conclusiones generales y sectoriales sobre los instrumentos económicos, así como recomendaciones agrupadas por tipo de instrumento para cada sector. Destaca que los instrumentos financieros son los más utilizados, que los fondos ofrecen diversas modalidades, y que la experiencia con El Niño ha sensibilizado a las instituciones.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Conclusiones",
+          "nivel": 2,
+          "paginas": "50-52",
+          "resumen": "Las conclusiones generales señalan que los instrumentos económicos han demostrado ser efectivos, que los financieros son los más utilizados, y que otros como los de creación de mercados apenas se implementan. Por sector: en recursos hídricos hay necesidad de enfoque transversal de adaptación; en agricultura existe potencial pero las oportunidades no se identifican explícitamente; en gestión de riesgos el PLANAGERD y el PP0068 han tenido éxito por su coordinación política de alto nivel.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Los instrumentos financieros son los más utilizados. Se pueden clasificar en dos: los que provienen del gasto público (mecanismos tradicionales como pliegos presupuestales, inversión pública) y los fondos (creados con fines específicos). Los últimos, se pueden categorizan como generales, sectoriales y para la participación de los gobiernos subnacionales.",
+              "pagina": 50
+            },
+            {
+              "dimension": "avances_implementacion",
+              "cita": "El programa presupuestal 0068, bajo el marco del presupuesto por resultados, es el instrumento que tiene mayor impacto en el desarrollo de las medidas de gestión de riesgos de desastres. Dado su carácter transversal, incluye a otros instrumentos y aunque su implementación es un proceso, ha tenido relativo éxito porque se basa en el PLANAGERD, previamente coordinado desde el nivel político más alto.",
+              "pagina": 52
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Recomendaciones",
+          "nivel": 2,
+          "paginas": "52-54",
+          "resumen": "Las recomendaciones generales incluyen: información sistematizada sobre instrumentos, sensibilización a ejecutores con guías metodológicas, incorporar cambio climático en proyectos de inversión pública, y aprovechar lecciones aprendidas. Las recomendaciones sectoriales por tipo de instrumento (A, B, C) abordan: coordinación infraestructura gris-verde en recursos hídricos; búsqueda de oportunidades en agricultura; y ampliación del PLANAGERD con cultura de aseguramiento en gestión de riesgos.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Se necesita tener información sistematizada sobre los instrumentos económicos, sus alcances y experiencias de aplicación en otros países, para que los tomadores de decisión puedan considerar su implementación, en los diferentes niveles de gobierno.",
+              "pagina": 52
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Un aspecto relacionado es el de incorporar el enfoque de cambio climático en el análisis de los proyectos de inversión pública vinculados al desarrollo. Si bien, la última guía para formulación de perfiles de proyectos de inversión pública integra el análisis del riesgo tradicional con los escenarios de cambio climático, resulta crucial que el cambio climático sea tomado en cuenta en el análisis de las condiciones en que se va a desarrollar el proyecto para los próximos años",
+              "pagina": 53
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Instrumentos tipo A: Requieren la coordinación de las acciones entre infraestructura gris (primordialmente dirigida por el MINAGRI a través del PP0042) y la infraestructura verde (dirigida por el MINAM), para que la acción permita una mejor gestión del recurso hídrico frente a la variación en la disponibilidad y calidad del recurso debido al cambio climático.",
+              "pagina": 53
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento identifica instrumentos existentes y potenciales pero no cuantifica el impacto ambiental neto de su implementación conjunta. No establece metas concretas de reducción de vulnerabilidad ni indicadores de resultado. La visión es más diagnóstica que propositiva en términos de big push ambiental. Falta un plan de inversión agregado con cifras de alcance nacional que muestre la magnitud del impulso requerido.",
+      "citas": [
+        {
+          "cita": "El análisis, destaca la importancia de contar con información sistematizada sobre los instrumentos económicos y de sensibilizar a los potenciales ejecutores de medidas de adaptación respecto a la existencia de herramientas económicas que les puedan ayudar a la implementación de las medidas.",
+          "pagina": 8
+        }
+      ],
+      "nota": "El documento es más un mapeo de instrumentos existentes que una propuesta de big push concreto"
+    },
+    "articulacion_actores": {
+      "veredicto": "Parcial",
+      "evidencia": "Reconoce la necesidad de articulación transversal pero no propone mecanismos concretos de coordinación interinstitucional más allá de mencionar la coordinación existente entre ministerios. El SNGRH y el SINAGERD son marcos institucionales que ya existen; el documento no avanza en cómo fortalecer su articulación efectiva con la adaptación climática. Falta un diseño institucional específico para la articulación.",
+      "citas": [
+        {
+          "cita": "Un aspecto que no está explícito en los instrumentos de gestión es la necesidad de adoptar un enfoque transversal, con respecto a la adaptación al cambio climático. Cualquiera de los programas (relacionado a la cantidad, calidad, oportunidad o cultura del agua) debe considerar el cambio previsible en las condiciones climáticas y su efecto sobre los recursos hídricos.",
+          "pagina": 25
+        }
+      ],
+      "nota": "Menciona transversalidad pero no diseña los mecanismos concretos de coordinación"
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "El documento se enfoca predominantemente en la reducción de riesgos y la gestión de la vulnerabilidad. Aunque menciona que existen oportunidades que podrían generarse con el cambio climático (especialmente en agricultura), no las desarrolla ni propone instrumentos específicos para aprovecharlas. La visión es defensiva (prevención de pérdidas) más que proactiva (creación de valor).",
+      "citas": [
+        {
+          "cita": "Se tiene una fuerte presencia de la gestión del riesgo de desastres (incluida en los demás ejes estratégicos). Si bien, este enfoque es importante para proteger a las poblaciones más vulnerables (agricultores en zonas rurales de extrema pobreza), no se toma en consideración la necesidad de identificar las oportunidades que también se pueden generar con el cambio climático, bajo una óptica integradora de desarrollo",
+          "pagina": 34
+        }
+      ],
+      "nota": "Reconoce la brecha pero no la cierra; el enfoque es predominantemente de prevención"
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "Identifica instrumentos existentes y potenciales con nivel de detalle razonable (montos, fuentes de financiamiento, programas específicos). Sin embargo, carece de una hoja de ruta de implementación con cronograma, responsables y secuenciación. Las recomendaciones son generales (sensibilizar, incorporar enfoque) sin especificar pasos concretos. Falta desglose de ítems con clasificación de concreción.",
+      "citas": [
+        {
+          "cita": "Se requiere sensibilizar a los potenciales ejecutores de medidas de adaptación respecto a la existencia de instrumentos económicos que puedan ayudar a la implementación de las medidas. Este trabajo debe ser complementado con guías metodológicas que faciliten la aplicación de instrumentos económicos que atiendan la problemática del cambio climático.",
+          "pagina": 52
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Información sistematizada sobre instrumentos económicos",
+          "clasificacion": "GENERICO",
+          "pagina": 52
+        },
+        {
+          "item": "Sensibilización a ejecutores con guías metodológicas",
+          "clasificacion": "GENERICO",
+          "pagina": 52
+        },
+        {
+          "item": "Incorporar enfoque de cambio climático en proyectos de inversión pública",
+          "clasificacion": "GENERICO",
+          "pagina": 52
+        },
+        {
+          "item": "Coordinación entre infraestructura gris y verde en recursos hídricos",
+          "clasificacion": "CONCRETO",
+          "pagina": 53
+        },
+        {
+          "item": "Ampliación progresiva del PLANAGERD",
+          "clasificacion": "GENERICO",
+          "pagina": 53
+        }
+      ],
+      "tally": "1 de 5 ítems pasan el test de concreción",
+      "nota": "Las recomendaciones son en su mayoría genéricas; solo la coordinación gris-verde tiene concreción operativa"
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Media"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento aborda la tensión entre la necesidad de incorporar un enfoque de adaptación al cambio climático en las políticas públicas y la limitación de los instrumentos existentes, que fueron diseñados sin considerar los efectos del cambio climático. La tensión se manifiesta en que los instrumentos financieros son abundantes pero no incorporan el enfoque, mientras que los instrumentos con enfoque son escasos.",
+      "filtro_categoria_primaria": "El documento se centra en fortalecer las capacidades institucionales del Estado para incorporar el enfoque de adaptación: identificar instrumentos, clasificarlos según su potencial, diagnosticar brechas y formular recomendaciones. Es un ejercicio de diagnóstico de capacidades estatales para enfrentar un desafío nuevo (cambio climático) con herramientas existentes.",
+      "secundaria_obligatoria": "La sostenibilidad ambiental es la dimensión que articula todo el análisis: los tres sectores estudiados (agua, agricultura, desastres) son dimensiones ambientales clave. El enfoque de adaptación es esencialmente ambiental aunque abordado con herramientas económicas.",
+      "justificacion_anti_copia": "El documento no es un listado genérico de instrumentos ambientales sino un análisis contextualizado de la situación peruana, con cifras específicas de montos, programas y normativas nacionales. La tipología A/B/C es una originalidad metodológica del estudio que clasifica instrumentos por su potencial de adaptación, no por su naturaleza.",
+      "validacion_anclas": "Ancla en la tabla de anclas de TIPOLOGIA_v0.md: #11 Capacidades del Estado se verifica porque el estudio evalúa y propone fortalecer las capacidades institucionales del Estado peruano para implementar la adaptación climática con instrumentos existentes. #6 Sostenibilidad ambiental se verifica porque el objeto del estudio es la adaptación al cambio climático en sectores ambientales estratégicos."
+    },
+    "tipo_documento_climatico": "Diagnóstico de instrumentos para adaptación",
+    "nivel_aplicacion": "Nacional (Perú), sectorial (agua, agricultura, desastres)",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

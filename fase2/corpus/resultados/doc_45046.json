@@ -1,0 +1,637 @@
+{
+  "documento": {
+    "num_muestra": 93,
+    "titulo": "Study on trends in energy efficiency in selected Caribbean countries",
+    "autoria": "Bruno Lapillone",
+    "handle": "https://hdl.handle.net/11362/45046",
+    "simbolo": "LC/TS.2019/71",
+    "isbn": null,
+    "fecha": "2019",
+    "tipo_documento": "Project Documents",
+    "paginas_cuerpo": 42,
+    "paginas_totales": 56,
+    "idioma": "en",
+    "tiene_resumen_ejecutivo": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cuáles son las tendencias y patrones sectoriales de consumo, intensidad y eficiencia energética en cuatro países seleccionados del Caribe (Barbados, Guyana, Santa Lucía, y Trinidad y Tabago) durante el período 2000-2015, y qué brechas de información y factores estructurales condicionan el monitoreo y mejora de la productividad energética subregional?",
+    "alcance": {
+      "ambito_aplicacion": "Regional (Caribe: Barbados, Guyana, Santa Lucía, y Trinidad y Tabago)",
+      "referentes_dependencias": "CEPAL (División de Recursos Naturales e Infraestructura y Sede Subregional para el Caribe), ADEME (Agencia de Medio Ambiente y Gestión de la Energía de Francia), GIZ, Enerdata y agencias nacionales participantes (Division of Energy and Telecommunications de Barbados, Guyana Energy Agency, Renewable Energy Division de Santa Lucía, Ministry of Energy Industries de Trinidad y Tabago)",
+      "sectorial": "Energía (sector energético y transformación eléctrica, transporte terrestre, industria manufacturera y petroquímica, sector servicios y turismo, alumbrado público, residencial y agricultura)",
+      "temporal": "2000-2015 (con datos hasta 2016 para Barbados y Guyana, y series puntuales 2010-2012 para Santa Lucía)"
+    },
+    "hallazgos_principales": [
+      "El consumo de energía primaria creció más lentamente que el PIB en los países analizados entre 2000 y 2015, registrándose un desacoplamiento significativo en Guyana (aumento del consumo inferior al 1% anual frente a un alto crecimiento económico) y en Barbados (p. 13).",
+      "La estructura del consumo energético final presenta fuertes divergencias: la industria absorbe el 80% del consumo final en Trinidad y Tabago debido a los sectores petroquímico e intensivo en gas, mientras que el transporte domina en Santa Lucía (65%) y Barbados (50%), y la agricultura representa el 21% solo en Guyana (p. 14).",
+      "La intensidad energética primaria disminuyó a tasas moderadas en Barbados y Trinidad y Tabago (menos de 1% anual) y con rapidez en Guyana (-2.5% anual), donde las transformaciones estructurales hacia los servicios explicaron el 20% de dicha reducción y la mitigación de pérdidas de transmisión y distribución aportó más de 35 puntos porcentuales de mejora (p. 15, p. 19, p. 23).",
+      "En el sector de generación eléctrica, la eficiencia térmica promedio permaneció estancada o con avances acotados (salvo en Barbados con +3 puntos porcentuales explicados en un 85% por mejoras térmicas y un aporte marginal de 0.4 puntos por 19 MW solares), manteniendo una elevada dependencia de combustibles fósiles en los cuatro sistemas (p. 22, p. 23).",
+      "El transporte por carretera explica más del 90% del consumo del sector transporte, observándose que en Trinidad y Tabago las ganancias de eficiencia vehicular fueron contrarrestadas por la expansión del parque automotor, sumando un incremento neto de 70 ktep de consumo entre 2010 y 2015 (p. 33, p. 37).",
+      "En los hogares, la penetración de electrodomésticos y la electrificación rural (que aumentó más de 25 puntos en Guyana explicando dos tercios del aumento del consumo eléctrico por hogar) impulsaron el consumo unitario, mientras la sustitución de biomasa por GLP redujo el consumo específico de cocción a un ritmo de 3% anual en Guyana (p. 27, p. 29).",
+      "El sector servicios registró incrementos acelerados de intensidad eléctrica en Barbados (1.6% anual), donde el turismo y la hotelería demandan una proporción intensiva de energía y explican junto a las oficinas privadas el 50% del consumo eléctrico terciario (p. 45, p. 46, p. 47)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El informe demuestra que la productividad energética en el Caribe ha mejorado de manera heterogénea entre 2000 y 2015, impulsada en parte por el cambio estructural hacia actividades de servicios menos intensivas y mejoras puntuales en pérdidas de red o sustitución de biomasa.",
+        "La dependencia de combustibles fósiles para la generación eléctrica térmica y el transporte carretero continúa siendo la principal vulnerabilidad macroenergética y ambiental de la subregión, requiriendo un desacoplamiento más profundo de la demanda.",
+        "La disponibilidad y centralización de estadísticas energéticas subregionales a través de la plantilla BIEE evidenció que la información existe pero está dispersa entre múltiples actores públicos y privados, con severos vacíos en el parque automotor y tráfico vehicular."
+      ],
+      "recomendaciones": [
+        "Institucionalizar el proceso de recolección de datos energéticos en los ministerios y agencias nacionales para sostener la actualización sistemática de las bases de datos de indicadores de eficiencia energética (p. 11).",
+        "Cerrar las brechas de información crítica en el sector transporte mediante el levantamiento de estadísticas regulares sobre el parque vehicular activo y los patrones de tráfico (p. 11).",
+        "Complementar el enfoque estadístico top-down de medición de ahorros energéticos mediante la vinculación sistemática con evaluaciones bottom-up de programas y políticas implementadas por los países (p. 11)."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "El estudio analiza las tendencias y patrones sectoriales de eficiencia e intensidad energética en cuatro economías del Caribe (Barbados, Guyana, Santa Lucía, y Trinidad y Tabago) durante el período 2000-2015, utilizando la base de datos BIEE desarrollada por la CEPAL, ADEME y Enerdata. Los resultados evidencian un desacoplamiento entre el crecimiento del PIB y el consumo primario de energía, junto con mejoras diferenciadas de intensidad primaria impulsadas por cambios estructurales hacia los servicios en Barbados y Guyana, y por usos no energéticos en la industria petroquímica de Trinidad y Tabago. A nivel sectorial, persisten fuertes vulnerabilidades asociadas a la alta dependencia de generación térmica fósil, elevadas pérdidas de transmisión y distribución en Guyana, y una creciente intensidad eléctrica en servicios y turismo en Barbados. Finalmente, el documento enfatiza la necesidad de institucionalizar la recopilación de datos energéticos en los ministerios nacionales, subsanar los vacíos críticos de información en transporte y articular los indicadores estadísticos macro con evaluaciones bottom-up de políticas de ahorro de energía."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introduction",
+      "nivel": 1,
+      "paginas": "9-11",
+      "resumen": "Sección introductoria que presenta el contexto del proyecto BIEE en el Caribe, la metodología y fuentes de recolección de datos sectoriales, y los principales resultados y recomendaciones del estudio.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Objectives and content",
+          "nivel": 2,
+          "paginas": "9-10",
+          "resumen": "(a) Expone el objetivo de describir y comparar las tendencias de eficiencia energética en Barbados, Guyana, Santa Lucía y Trinidad y Tabago mediante el proyecto BIEE de la CEPAL y ADEME. (b) Detalla los antecedentes del proyecto basados en la iniciativa europea ODYSSEE-MURE y su extensión progresiva desde Sudamérica y Centroamérica hasta el Caribe. (c) Identifica las agencias gubernamentales participantes de los cuatro países caribeños y las bases de datos interactivas desarrolladas.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "The objective of this report is to describe and compare energy efficiency trends in four countries in\nthe Caribbean region: Barbados, Guyana, St Lucia and Trinidad. The report is based on data and\nindicators prepared under the BIEE project (“Base de Indicadores de Eficiencia Energética”) on\nenergy efficiency indicators developed by the Division of Natural Resources and Infrastructure of\nECLAC, in close cooperation with ADEME, the French governmental agency on Energy Efficiency\nand Environment.",
+              "pagina": 9
+            },
+            {
+              "dimension": "avances_implementacion",
+              "cita": "The BIEE project gathered participants from 23 countries, in different phases, starting with\n6 countries of South America (Argentina, Bolivia, Brazil, Chile, Paraguay and Uruguay). It was then\nextended to 8 Central American countries (Costa  Rica, Dominican Republic,  El Salvador,\nGuatemala, Honduras, Mexico, Nicaragua, Panama), later to 5 other countries (Cuba, Ecuador,\nColombia, Peru and Venezuela) and finally to 4 countries in the Caribbean region in 2017-2018.",
+              "pagina": 9
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Data sources",
+          "nivel": 2,
+          "paginas": "10-10",
+          "resumen": "(a) Describe la adaptación de la plantilla de datos de Excel organizada en siete sectores: macroeconómico, energía, industria, hogares, servicios, transporte y agricultura. (b) Explica el proceso de recolección de información a través de contrapartes nacionales, empresas de servicios públicos, compañías petroleras e institutos de estadística con asistencia de la coordinación técnica. (c) Constata que, si bien existe abundante información en los países, los datos se encuentran difusos y dispersos entre diversos actores institucionales.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "The data template is organised in 7 main sheets corresponding each to a sector: macro (for\ngeneral macro-economic and energy balance data), energy, industry, households, services, transport\nand agriculture.",
+              "pagina": 10
+            },
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "The project has demonstrated that there is a lot of data available in the different countries, but\nthat the information is diffuse and scattered among different actors.",
+              "pagina": 10,
+              "subtipo_brecha": "retrospectiva"
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Main results",
+          "nivel": 2,
+          "paginas": "11-11",
+          "resumen": "(a) Sintetiza los productos y entregables del proyecto BIEE, incluyendo materiales de capacitación, bases de datos regionales y reportes nacionales. (b) Recomienda institucionalizar el proceso de recolección de datos en los ministerios de energía para garantizar la actualización continua de los indicadores. (c) Destaca la necesidad de cerrar las brechas estadísticas en transporte y complementar la medición estadística con evaluaciones bottom-up de programas de eficiencia energética.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "A regional database on energy efficiency indicators with data for 13 Latin American\n           countries containing around 80 different energy efficiency indicators by country with the\n          data used to calculate them.",
+              "pagina": 11
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "In order to sustain the project and the calculation of energy efficiency indicators, the data\ncollection process should be institutionalized, to simplify the updating of the data base.",
+              "pagina": 11
+            },
+            {
+              "dimension": "desafios",
+              "cita": "There are serious data gaps in the transport sector (stock of vehicles and traffic).",
+              "pagina": 11
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "The work done so far focused on a statistical approach to measure energy savings: efforts\n           should be done to link these measures to a bottom-up evaluation of programmes, so as to\n          have an extended evaluation of the observed indicators and to relate them with the energy\n           savings from the programmes implemented by the countries.",
+              "pagina": 11
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "I. Energy consumption and intensity trends",
+      "nivel": 1,
+      "paginas": "13-19",
+      "resumen": "Capítulo dedicado al análisis macroeconómico de los patrones de consumo primario y final de energía, la evolución de las intensidades energéticas globales y sectoriales, y el efecto del cambio estructural del PIB sobre la intensidad final.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Trends in energy consumption",
+          "nivel": 2,
+          "paginas": "13-15",
+          "resumen": "Subcapítulo que examina la evolución y estructura del consumo de energía primaria y del consumo final por sectores económicos en los cuatro países caribeños.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Primary energy consumption",
+              "nivel": 3,
+              "paginas": "13-14",
+              "resumen": "(a) Define el consumo de energía primaria y analiza su desacoplamiento frente al crecimiento económico, observando aumentos inferiores al 1% anual en Guyana y un crecimiento dos veces más lento que el PIB en Barbados. (b) Examina la composición del consumo primario, donde el sector de transformación y energía absorbe cerca del 70% en Trinidad y Tabago y el 40% en Santa Lucía. (c) Contrasta la participación de los edificios y la industria en Guyana y Barbados.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "As in most Latin American countries, primary energy consumption is also growing slower than GDP\nin our sample of Caribbean countries",
+                  "pagina": 13
+                },
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Transformations (i.e. energy industries such as power and hydrocarbons sectors) absorb a high\nshare of total energy consumption in Trinidad and Tobago (around 70%), as well as in St Lucia (40%).",
+                  "pagina": 14
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Final consumption",
+              "nivel": 3,
+              "paginas": "14-15",
+              "resumen": "(a) Analiza la distribución sectorial del consumo final de energía, destacando la preponderancia del transporte en Santa Lucía (65%) y Barbados (50%), y de la industria en Trinidad y Tabago (80%). (b) Identifica el peso de los hogares en Santa Lucía (30%), de los servicios en Barbados (24%) y de la agricultura en Guyana (21%). (c) Examina la creciente penetración de la electricidad en el consumo final, impulsada por la electrificación rural, el equipamiento del hogar y la climatización.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Transport accounts for the highest share of final energy consumption in St Lucia (65%) and Barbados\n50%)(Figure 3). Industry has a very important contribution in Trinidad and Tobago, one of the highest in\nthe world (80%).",
+                  "pagina": 14
+                },
+                {
+                  "dimension": "tendencias",
+                  "cita": "This\nincreasing trend is linked to demographic change, industrialization, development of ICTs (Information\nand Communication Technologies) and air conditioning in services, as well as to the increasing\nownership of households appliances (refrigerators, TV and air conditioning) and, in the case of Guyana,\nto the electrification of rural areas.",
+                  "pagina": 15
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Trends in primary and final energy intensities",
+          "nivel": 2,
+          "paginas": "15-17",
+          "resumen": "(a) Examina la intensidad energética primaria como indicador agregado de productividad energética y discute las limitaciones de comparar países a tipo de cambio frente a paridades de poder adquisitivo. (b) Analiza las reducciones observadas en intensidad primaria entre 2000 y 2015, con descensos de -2.5% anual en Guyana y menores a -1% anual en Barbados y Trinidad y Tabago. (c) Explica las diferencias entre intensidad primaria y final a partir de las pérdidas del sector energético en Guyana y los usos no energéticos en Trinidad y Tabago.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "The most common indicator used to evaluate the overall energy efficiency performance of countries is\nthe primary energy intensity, i.e. the total amount of energy required to produce one unit of GDP.",
+              "pagina": 15
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "The primary energy intensity has been decreasing in Barbados, Guyana and Trinidad and Tobago\n(Figure 6). The reduction was quite rapid in Guyana (-2.5%/year) but moderate in Barbados and Trinidad\nand Tobago (less than -1%/year).",
+              "pagina": 17
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "In Guyana, this trend is explained by lower T&D\npower losses, while in Trinidad and Tobago, non-energy uses in the petrochemical industry are\nresponsible for the faster decrease in the primary energy intensity.",
+              "pagina": 17
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Trends in sectoral energy intensities",
+          "nivel": 2,
+          "paginas": "18-19",
+          "resumen": "(a) Compara las intensidades energéticas sectoriales en industria, servicios y agricultura, mostrando que la industria es entre 3 y 60 veces más intensiva que los servicios. (b) Evalúa la evolución temporal de las intensidades sectoriales, destacando el incremento de la intensidad en servicios en Barbados (1.6% anual). (c) Cuantifica el impacto del cambio estructural hacia actividades terciarias en el PIB, demostrando que en Guyana el 20% de la reducción en intensidad final se debe a esta reconfiguración.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Sectoral industry intensities can be defined for industry, agriculture and services as the energy\nconsumption of the sector over its value added. Industry far more energy intensive than services, by a\nfactor 3 to 60 depending on the country (Figure 8).",
+              "pagina": 18
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "The industry intensity has been decreasing in all countries between 2000 and 2015",
+              "pagina": 18
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "The intensity of services increased rapidly in Barbados (by 1.6%/year) as well as in Trinidad and\nTobago, however at a lower rate.",
+              "pagina": 18
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "In Guyana and Barbados structural changes in the GDP to less\nenergy intensive sectors (mainly services) contributed to decrease the final energy intensity. In Guyana,\n20% of the final intensity decrease is explained by structural changes.",
+              "pagina": 19
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "II. Energy efficiency trends in the energy sector",
+      "nivel": 1,
+      "paginas": "21-24",
+      "resumen": "(a) Analiza el consumo y pérdidas del sector de transformación energética, donde la generación térmica representa del 85% al 90% del consumo sectorial en Barbados, Guyana y Santa Lucía, mientras en Trinidad y Tabago el sector de hidrocarburos absorbe el 60%. (b) Evalúa la eficiencia de generación termoeléctrica y el impacto de tecnologías emergentes, observando en Barbados un incremento de 3 puntos porcentuales explicado en un 85% por mejoras térmicas y solo 0.4 puntos por 19 MW solares. (c) Revisa las pérdidas en transmisión y distribución eléctrica, resaltando que mientras Barbados, Santa Lucía y Trinidad y Tabago están bajo el 10%, Guyana presenta un nivel cercano al 30% tras una reducción histórica de más de 35 puntos.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "In countries, with no major production of fuels and with a high share of thermal power, the\nconsumption of the energy sector mainly corresponds to losses in thermal power plants: this is the case\nof Barbados, Guyana and St Lucia, where power generation represents 85 to 90% of the consumption\nof the sector.",
+          "pagina": 21
+        },
+        {
+          "dimension": "tendencias",
+          "cita": "In Barbados the increase in power generation efficiency between 2000 and 2015 (+3 points) is\nmainly explained by the increase in the efficiency of thermal generation, which explains 85% of this\nincrease (Figure 15). The penetration of solar power plants is still too low (19 MW in 2016) to have a\nsignificant effect and only contributed to raise efficiency by 0.4 percentage points.",
+          "pagina": 23
+        },
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "The rate of electricity transport and distribution (T&D) losses is below the Latin American’s\naverage in Barbados, Trinidad and Tobago and St Lucia (less than 10% compared to 15% for Latin\nAmerica).",
+          "pagina": 23
+        },
+        {
+          "dimension": "avances_implementacion",
+          "cita": "It is very high in Guyana (around 30%) but has been decreasing significantly in Guyana since\n2000 (by more than 35 points)(Figure 17).",
+          "pagina": 23
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "III. Energy efficiency trends for households",
+      "nivel": 1,
+      "paginas": "25-29",
+      "resumen": "Capítulo enfocado en la dinámica del consumo residencial de energía, la canasta de combustibles en los hogares y los usos finales energéticos como cocción, refrigeración y climatización.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Overall trends",
+          "nivel": 2,
+          "paginas": "26-27",
+          "resumen": "(a) Analiza la estructura energética de los hogares, donde la electricidad supera el 70% en Barbados y Trinidad y Tabago, mientras en Guyana disminuye el uso de biomasa (de 57% a 35%) sustituida por GLP. (b) Examina el consumo medio de energía y electricidad por hogar, variando desde 1.200 kWh en Guyana hasta 6.400 kWh en Trinidad y Tabago. (c) Evalúa el impacto de la electrificación rural, destacando que en Guyana el avance de 25 puntos en cobertura explica dos tercios del aumento del consumo eléctrico unitario.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "The average energy consumption per household (“specific consumption”) varies between 0.48 toe in\nBarbados and 0.69 toe in Trinidad and Tobago (Figure 20).",
+              "pagina": 26
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "Biomass is only used in Guyana but its market share is diminishing rapidly\n(from 57% in 2010 to 35% in 2015) and is replaced by LPG (progression from 7% to 20%).",
+              "pagina": 26
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "The electrification rate increased significantly in Guyana, by more than 25 points between 2002\nand 2015; this explained two third of the growth in electricity consumption per household from 2002 to\n2015.",
+              "pagina": 27
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Energy consumption by end-use",
+          "nivel": 2,
+          "paginas": "28-29",
+          "resumen": "(a) Detalla el consumo por uso final, mostrando que la cocción representa el 50% o más en Guyana y Santa Lucía, mientras el calentamiento de agua aporta el 30% en Trinidad y Tabago. (b) Constata que los electrodomésticos y la iluminación constituyen el principal uso eléctrico, sumando el aire acondicionado un 10% en Trinidad y Tabago. (c) Cuantifica el efecto sustitución de combustibles en la cocción, explicando un descenso de 3% anual en el consumo específico de los hogares en Guyana por el paso de leña a GLP.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Cooking is the dominant end-use in Guyana and St Lucia (equal or above 50%). In Trinidad and Tobago,\nwater heating represents around 30% of the consumption of households (Figure 23).",
+              "pagina": 28
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Appliances and lighting is the dominant electricity end-use (Figure 24). In Trinidad and Tobago,\nair Cooling represents around 10% of the average electricity consumption per household.",
+              "pagina": 28
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "The effect of substitution from biomass to modern fuels was the greatest in Guyana, with a\nsubstitution from biomass to LPG. In Guyana, most of the rapid decrease in the specific consumption\n(around 3%/year) is explained by this substitution (Figure 26)",
+              "pagina": 29
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Energy efficiency trends in transport",
+      "nivel": 1,
+      "paginas": "31-37",
+      "resumen": "Capítulo dedicado a las tendencias energéticas del sector transporte, la preponderancia absoluta del modo carretero, la intensidad de transporte y los factores de eficiencia frente a parque automotor.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Trends in consumption",
+          "nivel": 2,
+          "paginas": "31-33",
+          "resumen": "(a) Revisa la participación del transporte en el consumo final, oscilando entre el 15% en Trinidad y Tabago y el 65% en Santa Lucía. (b) Analiza la evolución de la intensidad de transporte respecto al PIB, registrando descensos de 1% anual en Trinidad y Tabago y Guyana frente a un leve aumento en Barbados (+0.4% anual). (c) Subraya que el transporte por carretera representa más del 90% del consumo del sector en todos los países estudiados.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "The share of transport sector in final energy consumption ranges from around 15% (Trinidad and\nTobago) to 65% (St Lucia) (Figure 27).",
+              "pagina": 31
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "In Trinidad and Tobago and in Guyana transport consumption grew less rapidly than GDP from\n2000 to 2015 (Figure 28).",
+              "pagina": 32
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Road transport is the main transport mode: it accounts for over 90% of the consumption in all\ncountries by 2015. The share of road transport remained relatively stable since 2000 (Figure 30).",
+              "pagina": 33
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Road transport",
+          "nivel": 2,
+          "paginas": "33-37",
+          "resumen": "(a) Analiza el consumo de transporte carretero per cápita y las tasas de motorización, donde Trinidad y Tabago y Barbados exhiben los niveles más altos de tenencia de automóviles por habitante. (b) Examina el consumo específico por vehículo y el consumo por auto equivalente para aislar las mejoras técnicas de eficiencia frente a cambios en la flota. (c) Descompone la variación del consumo carretero entre efecto actividad y eficiencia, demostrando que en Trinidad y Tabago el aumento del parque automotor superó las ganancias de eficiencia generando un alza de 70 ktep entre 2010 y 2015.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Trinidad and Tobago and Barbados are by far the countries with the highest number of cars per\ncapita (Figure 33).",
+              "pagina": 34
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "The average fuel consumption per vehicle has been generally decreasing in most countries as\nshown in Figure 36. This trends reflects the improved efficiency of vehicles but also change in the\ncomposition of the stock of vehicles (share of light vehicles, and in particular cars).",
+              "pagina": 35
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "For Trinidad and Tobago, the increase in efficiency of road transport has been largely offset by\nthe increase in the stock of vehicles, resulting in a 70 ktoe increase in road transport consumption\nbetween 2010 and 2015 (Figure 8).",
+              "pagina": 37
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "V. Energy efficiency trends in industry",
+      "nivel": 1,
+      "paginas": "39-41",
+      "resumen": "Capítulo que examina los patrones de consumo de energía en la industria manufacturera y extractiva, las fuentes energéticas dominantes y la trayectoria de la intensidad energética industrial.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Energy consumption patterns",
+          "nivel": 2,
+          "paginas": "39-40",
+          "resumen": "(a) Contrasta la participación de la industria en el consumo final, variando desde un marginal 3% en Santa Lucía hasta un 80% en Trinidad y Tabago. (b) Analiza las fuentes de energía utilizadas, destacando el predominio del gas natural en Trinidad y Tabago (90%), la biomasa en Guyana (75%) y los derivados de petróleo en Barbados y Santa Lucía (55%). (c) Observa una tendencia descendente en la participación del consumo industrial en Barbados y Guyana.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "The share of industry varies between 3% of final consumption (St Lucia) and 80% in Trinidad and Tobago\nwhere it is by far the largest energy consuming sector (Figure 39).",
+              "pagina": 39
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Natural gas dominates the energy consumption of industry in Trinidad and Tobago (around 90%)\n(Figure 39). Biomass is important in Guyana (almost 75% in 2015). In Barbados and St Lucia, oil is the\nmain source of energy (around 55%).",
+              "pagina": 40
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Energy intensity trends",
+          "nivel": 2,
+          "paginas": "40-41",
+          "resumen": "(a) Evalúa la evolución de la intensidad energética de la industria respecto a su valor agregado, registrando descensos en la mayoría de los países durante el período 2000-2015. (b) Identifica una reversión de tendencia en Trinidad y Tabago a partir de 2010 con un incremento de la intensidad industrial. (c) Señala la escasez de datos desglosados por ramas industriales, disponible únicamente para acero y cemento en Trinidad y Tabago.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "The energy intensity of industry, calculated as the ratio between the energy consumption and the value\nadded has decreased in most of the countries for the period 2000-2015, with a faster decrease for\nBarbados and Guyana since 2010 (Figure 41).",
+              "pagina": 40
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "A reverse trend was observed for Trinidad and Tobago since 2010 with an increase in the\nenergy intensity.",
+              "pagina": 40
+            },
+            {
+              "dimension": "desafios",
+              "cita": "Generally, few information is available on the breakdown of the energy use by industrial branch,\nespecially in countries where this sector is marginal.",
+              "pagina": 41
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "VI. Energy efficiency trends in services",
+      "nivel": 1,
+      "paginas": "43-48",
+      "resumen": "Capítulo enfocado en el sector servicios o terciario, analizando su peso en el PIB y en la demanda eléctrica, la intensidad energética vinculada al turismo y la evolución del alumbrado público.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Energy consumption patterns",
+          "nivel": 2,
+          "paginas": "43-45",
+          "resumen": "(a) Caracteriza la composición del sector servicios y su peso en la economía, alcanzando casi el 80% del PIB en Santa Lucía y Barbados. (b) Analiza el crecimiento del consumo final de energía en servicios, destacando un avance acelerado en Barbados (del 18% al 24%). (c) Examina la participación de los servicios en la demanda eléctrica, incrementándose en casi 10 puntos en Guyana y Barbados hasta rozar el 60% en este último.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "The share of services in the GDP varies between 20% in Guyana, 50% in Trinidad and Tobago and\nalmost 80% in St Lucia and Barbados (Figure 43).",
+              "pagina": 43
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "The share of services in the final energy consumption has been increasing since 2000 except in\nTrinidad and Tobago (Figure 44). The progression was especially rapid in Barbados (from 18 to 24%).",
+              "pagina": 44
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "The share of services in electricity consumption has increased by almost 10 points since 2000 in\nGuyana and Barbados. It is now close to 60% in Barbados (Figure 45).",
+              "pagina": 44
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Energy intensity trends",
+          "nivel": 2,
+          "paginas": "45-46",
+          "resumen": "(a) Analiza la intensidad energética en servicios, señalando que Barbados tiene la mayor intensidad subregional debido a la actividad turística y hotelera. (b) Evalúa la evolución temporal, observando descensos en Guyana (-1.7% anual) frente a un incremento de 1.6% anual en Barbados para el consumo total. (c) Constata un crecimiento más rápido de la intensidad eléctrica frente a la intensidad total debido a la penetración de tecnologías de información y aire acondicionado.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Barbados has the\nhighest intensity in services, partly because the importance of tourism. In Barbados, this intensity has\nincreased significantly since 2010, implying that energy consumption grew faster than the economic\nactivity (Figure 46).",
+              "pagina": 45
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "The\nelectricity intensity increased more rapidly than the total intensity for Barbados and Trinidad and\nTobago, reflecting a higher growth of electricity uses, such as ICTs and air conditioning.",
+              "pagina": 46
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Consumption by branch and for public lighting",
+          "nivel": 2,
+          "paginas": "47-48",
+          "resumen": "(a) Desagrega el consumo eléctrico de servicios por ramas, destacando que hoteles y oficinas privadas absorben alrededor del 50% en Barbados y Trinidad y Tabago. (b) Analiza el consumo eléctrico per cápita para alumbrado público, que ha aumentado en Guyana y Trinidad y Tabago por la expansión de las redes. (c) Constata que el consumo para alumbrado público per cápita ha crecido en todos los países evaluados pese a las políticas aplicadas, registrándose en Trinidad y Tabago un nivel de 90 kWh/habitante.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Hotels and private offices represent around 50% of the electricity consumption of services in Barbados\nand Trinidad and Tobago (Figure 50).",
+              "pagina": 47
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "The electricity consumption for public lighting per capita has been increasing in Guyana and\nTrinidad and Tobago due to the spread of the public lighting network. The highest level is observed in\nTrinidad and Tobago: around 90 kWh/capita (Figure 51).",
+              "pagina": 48
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "This consumption has increased everywhere despite the policies\nimplemented, mainly because of the extension of the public lighting services (Figure 52).",
+              "pagina": 48
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "VII. Energy efficiency in agriculture",
+      "nivel": 1,
+      "paginas": "49-50",
+      "resumen": "(a) Examina la participación de la agricultura, silvicultura y pesca en el consumo final de energía, siendo inferior al 5% en Barbados y Trinidad y Tabago pero alcanzando el 20% en Guyana. (b) Analiza la contribución del sector primario al PIB, donde el valor agregado agrícola representa cerca del 20% en Guyana con una trayectoria descendente en todos los países. (c) Evalúa la intensidad energética agrícola, manteniéndose elevada en Guyana (0.09 kep/dólar de 2000) y en Barbados a pesar de que la agricultura representa solo el 2% de su economía.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "The share of agriculture, fisheries and forests in the final energy consumption is usually less than 5% in\nmost Latin American countries: this is the case of Barbados and Trinidad and Tobago. In Guyana, this\nshare is much higher (around 20%) (Figure 53).",
+          "pagina": 49
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "The value added of the sector is quite significant for the economy in Guyana, with a share of the\nvalue added of the sector in the GDP around 20% (Figure 54). In all countries this share of is decreasing.",
+          "pagina": 50
+        },
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "The energy intensity of agriculture is usually high in the countries with high share of agriculture\nin the GDP (case of Guyana with around 0,09 koe/$2000p) but is also the case of Barbados where the\nshare of agriculture in the GDP is only 2% (Figure 55).",
+          "pagina": 50
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "No",
+      "evidencia": "El documento es un estudio técnico de diagnóstico estadístico e indicadores macro y sectoriales de eficiencia energética elaborado a partir de la base de datos BIEE. No formula ni propone un paquete coordinado de inversiones públicas y privadas, ni un programa estructurado de políticas sectoriales para un Gran Impulso Ambiental en el Caribe. Chequeo negativo: no contiene planes de inversión de capital verde, no diseña instrumentos de financiamiento coordinado, ni articula sectores estratégicos de reconversión industrial o de transición energética integral; sus recomendaciones normativas finales se restringen exclusivamente a la institucionalización de la recopilación estadística y a la evaluación bottom-up de programas existentes.",
+      "citas": [
+        {
+          "cita": "The objective of this report is to describe and compare energy efficiency trends in four countries in\nthe Caribbean region: Barbados, Guyana, St Lucia and Trinidad. The report is based on data and\nindicators prepared under the BIEE project (“Base de Indicadores de Eficiencia Energética”) on\nenergy efficiency indicators developed by the Division of Natural Resources and Infrastructure of\nECLAC, in close cooperation with ADEME, the French governmental agency on Energy Efficiency\nand Environment.",
+          "pagina": 9
+        },
+        {
+          "cita": "The work done so far focused on a statistical approach to measure energy savings: efforts\n           should be done to link these measures to a bottom-up evaluation of programmes, so as to\n          have an extended evaluation of the observed indicators and to relate them with the energy\n           savings from the programmes implemented by the countries.",
+          "pagina": 11
+        }
+      ],
+      "nota": null
+    },
+    "articulacion_actores": {
+      "veredicto": "Parcial",
+      "evidencia": "El informe describe con claridad los actores participantes en el marco de gobernanza del proyecto BIEE (CEPAL, ADEME, GIZ, Enerdata, ministerios de energía de Barbados, Guyana, Santa Lucía y Trinidad y Tabago, empresas de electricidad y gas, compañías petroleras e institutos de estadística). Sin embargo, en cuanto a la articulación para la ejecución de políticas nacionales de eficiencia energética en el territorio caribeño, constata que la información y la coordinación se encuentran difusas y fragmentadas entre actores, recomendando la institucionalización de puntos focales estadísticos sin formalizar un mecanismo operativo o mesa intersectorial vinculante de gobernanza de política energética.",
+      "citas": [
+        {
+          "cita": "The participants of the four Caribbean countries that participated to the project presented in this\nreport are the following organizations:\n      •    Division of Energy and Telecommunications, Office of the Prime Minister, Barbados.\n      •   Guyana Energy Agency, Guyana.\n      •   Renewable Energy Division, Sustainable Development Department, Saint Lucia.\n      •    Ministry of Energy Industries, Trinidad and Tobago.",
+          "pagina": 10
+        },
+        {
+          "cita": "The project has demonstrated that there is a lot of data available in the different countries, but\nthat the information is diffuse and scattered among different actors. Thus the project has contributed\nto identify the existing data sources and to centralise them in the data template.",
+          "pagina": 10
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "El estudio analiza la productividad y la intensidad energética en sectores productivos clave de las cuatro economías (industria petroquímica y gas natural en Trinidad y Tabago, minería de bauxita y agricultura en Guyana, hotelería y turismo en Barbados, transporte carretero y generación eléctrica). Asimismo, señala que la alta dependencia de combustibles fósiles y los costos de la energía merman la competitividad caribeña, y que la eficiencia energética puede reducir consumos y costos. No obstante, no desarrolla una estrategia económica articulada que cuantifique ni vincule la adopción de tecnologías limpias con la generación de empleo o la reducción de la desigualdad social.",
+      "citas": [
+        {
+          "cita": "Sectoral industry intensities can be defined for industry, agriculture and services as the energy\nconsumption of the sector over its value added. Industry far more energy intensive than services, by a\nfactor 3 to 60 depending on the country (Figure 8).",
+          "pagina": 18
+        },
+        {
+          "cita": "High energy  costs and  fossil  fuel dependancy  contribute  to\ndampening Caribbean competitiveness and potential growth. In\nthis scenario, energy efficiency has the potential to reduce energy\nconsumtion, ensure an adequate supply of energy, increase energy\nsecurity, reduce negative environmental impacts and, at the global\nlevel, reduce emissions of greenhouse gases (GHGs).",
+          "pagina": 56
+        }
+      ],
+      "nota": null
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "La voz normativa propia del cierre institucional del documento se concentra en los tres párrafos/bullets de la sección C de la Introducción (p. 11), donde se proponen directrices para la sostenibilidad del sistema de indicadores energéticos. De los 3 ítems analizados de manera exhaustiva, 2 pasan el test de concreción al especificar instrumentos operativos precisos (institucionalización del proceso de recolección en ministerios para alimentar la base de datos BIEE, y complementación metodológica mediante vinculación con evaluaciones bottom-up de programas), mientras que 1 ítem se califica como genérico al limitarse a un diagnóstico de brecha informativa sin definir instrumento, plazo ni responsable.",
+      "citas": [
+        {
+          "cita": "In order to sustain the project and the calculation of energy efficiency indicators, the data\ncollection process should be institutionalized, to simplify the updating of the data base.",
+          "pagina": 11
+        },
+        {
+          "cita": "There are serious data gaps in the transport sector (stock of vehicles and traffic).",
+          "pagina": 11
+        },
+        {
+          "cita": "The work done so far focused on a statistical approach to measure energy savings: efforts\n           should be done to link these measures to a bottom-up evaluation of programmes, so as to\n          have an extended evaluation of the observed indicators and to relate them with the energy\n           savings from the programmes implemented by the countries.",
+          "pagina": 11
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "In order to sustain the project and the calculation of energy efficiency indicators, the data collection process should be institutionalized, to simplify the updating of the data base.",
+          "clasificacion": "CONCRETO",
+          "pagina": 11
+        },
+        {
+          "item": "There are serious data gaps in the transport sector (stock of vehicles and traffic).",
+          "clasificacion": "GENERICO",
+          "pagina": 11
+        },
+        {
+          "item": "The work done so far focused on a statistical approach to measure energy savings: efforts should be done to link these measures to a bottom-up evaluation of programmes, so as to have an extended evaluation of the observed indicators and to relate them with the energy savings from the programmes implemented by the countries.",
+          "clasificacion": "CONCRETO",
+          "pagina": 11
+        }
+      ],
+      "tally": "2 de 3 ítems pasan el test de concreción",
+      "nota": null
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la contradicción entre la severa vulnerabilidad macroenergética del Caribe (altos costos de la energía, intensa dependencia de combustibles fósiles importados y emisiones de GEI) y la carencia histórica de sistemas estandarizados de información para medir, monitorear y guiar la eficiencia energética sectorial.",
+      "filtro_categoria_primaria": "El objetivo sustantivo principal del texto es evaluar y promover la sostenibilidad ambiental a través de la mejora de la eficiencia energética, la reducción de intensidades energéticas sectoriales y la transición hacia menores pérdidas térmicas y eléctricas en los países del Caribe.",
+      "secundaria_obligatoria": "La transformación secundaria obligatoria es #11 Capacidades del Estado, dado que el vehículo operativo central del estudio es la creación de capacidades estadísticas y metodológicas en los ministerios de energía, la estandarización de plantillas BIEE y la recomendación de institucionalizar los procesos públicos de recolección de datos.",
+      "justificacion_anti_copia": "El documento analiza indicadores BIEE desagregados para Barbados, Guyana, Santa Lucía y Trinidad y Tabago, evaluando la intensidad primaria a paridad de poder adquisitivo versus tipo de cambio, pérdidas de transmisión y distribución eléctrica (con reducciones de 35 puntos en Guyana), descomposición del consumo de transporte en efecto parque y consumo unitario por vehículo, consumo por rama de servicios y hotelería, y la sustitución de biomasa por GLP en cocción.",
+      "validacion_anclas": "Se alinea plenamente con el caso ancla Doc 9 (Building a climate resilient power sector in the Caribbean, #6 Primaria / #11 Secundaria), donde el sector eléctrico y la eficiencia ambiental constituyen el objeto sustantivo, mientras que el fortalecimiento de capacidades técnicas e institucionales actúa como medio habilitador. Se contrasta con Doc 12 (PLACA, #11 Primaria / #6 Secundaria), donde el objeto central es el inventario de leyes y gabinetes institucionales."
+    },
+    "tipo_documento_climatico": "Documento de proyecto o estudio técnico (diagnóstico sectorial de eficiencia energética e indicadores BIEE)",
+    "nivel_aplicacion": "Regional / Subregional (Caribe: Barbados, Guyana, Santa Lucía, y Trinidad y Tabago)",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

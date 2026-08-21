@@ -1,0 +1,448 @@
+{
+  "documento": {
+    "num_muestra": 48156,
+    "titulo": "Gobernanza corporativa en América Latina y el Caribe: el uso de instrumentos de deuda ambientales, sociales y de gobernanza para financiar proyectos de inversión sostenible",
+    "autoria": "Georgina Núñez; Helvia Velloso; Filipe Da Silva",
+    "handle": "https://hdl.handle.net/11362/48156",
+    "simbolo": "LC/TS.2022/23",
+    "isbn": null,
+    "fecha": "2022",
+    "tipo_documento": "Documento de proyecto o estudio técnico",
+    "paginas_cuerpo": 66,
+    "paginas_totales": 66,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cómo se están utilizando los instrumentos de deuda ambientales, sociales y de gobernanza, especialmente los bonos vinculados a la sostenibilidad, por emisores empresariales de América Latina y el Caribe para financiar inversiones sostenibles, fortalecer la gobernanza corporativa y contribuir a una recuperación sostenible, y qué brechas de divulgación, medición y comparabilidad limitan su expansión?",
+    "alcance": {
+      "ambito_aplicacion": "América Latina y el Caribe, con énfasis en los mercados internacionales y en Brasil, Chile y México; incluye emisores soberanos, corporativos, cuasisoberanos y supranacionales, y seis estudios de caso empresariales.",
+      "referentes_dependencias": "International Capital Market Association (ICMA), Acuerdo de París, Agenda 2030 y ODS, TCFD, IFRS/Consejo Internacional de Normas de Sostenibilidad, IPSF, CDP, Science Based Targets, bancos de desarrollo, calificadoras y revisores externos.",
+      "sectorial": "Mercados de capitales y deuda sostenible; gobernanza corporativa; sectores forestal y papel, alimentos y bebidas, repuestos y equipos para automóviles, energía, financiero, químico, telecomunicaciones, transporte e inmobiliario.",
+      "temporal": "Evolución de emisiones internacionales entre diciembre de 2014 y septiembre de 2021; análisis de marcos y seis casos empresariales, principalmente 2020-2021, con metas que llegan a 2025, 2030, 2040 y 2050."
+    },
+    "hallazgos_principales": [
+      "Las emisiones VSSS de América Latina y el Caribe en mercados internacionales alcanzaron 39.000 millones de dólares en enero-septiembre de 2021, equivalentes al 31,5% de las emisiones internacionales regionales del período (p.21).",
+      "Entre diciembre de 2014 y septiembre de 2021 la región emitió 73.000 millones de dólares en bonos VSSS; Chile, Brasil y México concentraron el 86% del total, mientras Brasil lideró las emisiones corporativas (p.22, p.24, p.26).",
+      "Los bonos vinculados a la sostenibilidad crecieron con rapidez después de la publicación de los Principios SLB de la ICMA en 2020 y permiten vincular el costo financiero a indicadores clave de desempeño sin restringir necesariamente el uso de fondos a un proyecto específico (p.9, p.16).",
+      "Los seis estudios de caso muestran compromisos alineados con los Principios SLB y los ODS, pero también información ASG no siempre cuantificable, comparable o verificable, además de métricas sectoriales divergentes y falta de datos históricos o de pares (p.56-57).",
+      "La ausencia de un marco claro y acordado para divulgar, medir y comparar el impacto empresarial sobre el clima obstaculiza la expansión de las estrategias ASG; el cierre identifica como respuestas la divulgación obligatoria, indicadores comunes por sector y país, orientación de cálculo y taxonomías de actividades sostenibles (p.39, p.57-60)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "Los instrumentos VSSS y SLB se expandieron rápidamente en América Latina y el Caribe y ofrecen una vía para ampliar la participación privada en el financiamiento del desarrollo sostenible, la transición baja en carbono y objetivos sociales.",
+        "La gobernanza corporativa y los directorios participan cada vez más en decisiones sobre riesgo climático, pero la información ASG sigue siendo difícil de comparar entre períodos, sectores y empresas.",
+        "La normalización es lenta: faltan métricas armonizadas, objetivos internacionales, datos brutos, referencias de pares y taxonomías adaptadas a las necesidades de desarrollo de los países de la región."
+      ],
+      "recomendaciones": [
+        "Avanzar hacia normas e indicadores ASG comunes por sector y país para definir indicadores pertinentes y puntos de referencia razonables (p.57).",
+        "Hacer obligatoria la divulgación ASG y complementarla con indicadores clave de desempeño determinados por los gobiernos y orientación clara sobre su cálculo (p.57-58).",
+        "Crear taxonomías de actividades sostenibles congruentes con las políticas, necesidades y objetivos de los países en desarrollo, incorporando dimensiones sociales y un lenguaje común para los compromisos climáticos y los ODS (p.60)."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "El documento examina el crecimiento de los instrumentos de deuda ambientales, sociales y de gobernanza en los mercados internacionales de América Latina y el Caribe, con especial atención a los bonos vinculados a la sostenibilidad y a su relación con la gobernanza corporativa. Describe los marcos voluntarios y nacionales, cuantifica las emisiones regionales y analiza seis empresas de Brasil, Chile y México de los sectores forestal y papel, alimentos y bebidas y autopartes. Los casos muestran metas ambientales y sociales cada vez más específicas, pero también problemas de comparabilidad, verificación, datos históricos y referencias sectoriales. El cierre sostiene que la expansión del financiamiento sostenible requiere normalizar métricas, fortalecer la divulgación y construir indicadores y taxonomías adaptados a la región."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "11-14",
+      "resumen": "Presenta la brecha de financiamiento para los ODS y la transición climática, el papel creciente del sector corporativo y el propósito del informe: estudiar bonos ASG, especialmente SLB, como instrumentos para financiar inversión, fortalecer la gobernanza empresarial y apoyar la recuperación sostenible regional.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Lo más importante es que ese compromiso ahora exige aplicar políticas concretas y movilizar más capital privado.",
+          "pagina": 11
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "La promoción de una estrategia de financiamiento sostenible basada en los mercados de capitales puede contribuir a obtener fondos del sector privado para fomentar el desarrollo sostenible en la región.",
+          "pagina": 11
+        },
+        {
+          "dimension": "tendencias",
+          "cita": "En efecto, los instrumentos de deuda ASG se están convirtiendo en una estrategia cada vez más fiable para los emisores soberanos y empresariales de la región.",
+          "pagina": 12
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Emisiones internacionales de bonos ambientales, sociales y de gobernanza de América Latina y el Caribe",
+      "nivel": 1,
+      "paginas": "15-36",
+      "resumen": "Describe los instrumentos ASG, los marcos nacionales y la evolución de sus emisiones regionales; el bloque pasa de definiciones y reglas de mercado a la distribución por emisores, países, sectores, monedas y características de los SLB. El bloque conecta la evolución cuantitativa del mercado con sus instrumentos, emisores, sectores y condiciones de desempeño, y prepara el análisis institucional y empresarial posterior. El bloque conecta la evolución cuantitativa del mercado con sus instrumentos, emisores, sectores y condiciones de desempeño, y prepara el análisis institucional y empresarial posterior.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Definiciones y tipos de instrumentos",
+          "nivel": 2,
+          "paginas": "15-17",
+          "resumen": "Distingue bonos verdes, sociales, sostenibles y vinculados a la sostenibilidad. Explica que los SLB se vinculan a indicadores y objetivos de desempeño, incorporan informes y verificación y permiten financiar actividades corporativas generales, mientras el incumplimiento puede elevar el costo para el emisor. El bloque conecta la evolución cuantitativa del mercado con sus instrumentos, emisores, sectores y condiciones de desempeño, y prepara el análisis institucional y empresarial posterior.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Los participantes del mercado han reconocido los principios de la International Capital Market Association (ICMA) como norma a la hora de emitir bonos ASG en los mercados internacionales de capitales.",
+              "pagina": 15
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Los cinco componentes básicos para aplicar los Principios de los Bonos Vinculados a la Sostenibilidad son los siguientes: 1) selección de los indicadores clave del desempeño; 2) calibración de los objetivos de desempeño de sostenibilidad; 3) características de los bonos, que pueden variar en función de si los indicadores clave del desempeño seleccionados alcanzan (o no) los objetivos de desempeño de sostenibilidad predefinidos; 4) presentación de informes, y 5) verificación",
+              "pagina": 17
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "B. Marcos nacionales de América Latina y el Caribe",
+              "nivel": 3,
+              "paginas": "17-20",
+              "resumen": "Revisa guías y marcos de Brasil, Chile, México, Colombia, Perú, Uruguay, Argentina, Panamá y Paraguay, mostrando la adopción de principios ICMA, revisiones externas, bonos soberanos y mecanismos de selección, asignación y reporte de gastos sostenibles.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "En 2018, Chile publicó la Guía del Segmento de Bonos Verdes y Bonos Sociales en la Bolsa de Comercio de Santiago",
+                  "pagina": 17
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "El Gobierno federal de México espera impulsar el desarrollo de los mercados financieros hacia la sostenibilidad",
+                  "pagina": 18
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "C. Emisiones de bonos ambientales, sociales y de gobernanza latinoamericanos y caribeños en el mercado internacional: 2014-2021",
+              "nivel": 3,
+              "paginas": "21-28",
+              "resumen": "Cuantifica el crecimiento de las emisiones VSSS y caracteriza emisores, países, sectores y monedas. La región llegó a 73.000 millones de dólares acumulados hasta septiembre de 2021; Chile, Brasil y México dominaron la emisión, con creciente diversificación sectorial. El bloque conecta la evolución cuantitativa del mercado con sus instrumentos, emisores, sectores y condiciones de desempeño, y prepara el análisis institucional y empresarial posterior.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "Las emisiones de bonos VSSS de América Latina y el Caribe en los mercados internacionales de capital también alcanzaron un máximo sin precedentes",
+                  "pagina": 21
+                },
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Los emisores empresariales lideraron los volúmenes de bonos VSSS en el período",
+                  "pagina": 23
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1. Tipos de emisores",
+              "nivel": 3,
+              "paginas": "23-23",
+              "resumen": "Muestra la importancia del sector corporativo, que lideró los volúmenes VSSS, aunque también participaron emisores soberanos, cuasisoberanos, supranacionales y bancarios. El análisis aporta evidencia y límites metodológicos relevantes para interpretar este resultado en el conjunto del documento.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Las emisiones de bonos corporativos VSSS representaron el 12% de todas las emisiones de bonos corporativos de América Latina y el Caribe en el período y el 4% del importe total (incluidos todos los tipos de emisores).",
+                  "pagina": 23
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Distribución por país, sector y moneda",
+              "nivel": 3,
+              "paginas": "24-27",
+              "resumen": "Identifica a Chile, Brasil y México como los principales países emisores y registra la expansión desde sectores tradicionales hacia automóviles, tecnología, químicos, telecomunicaciones, consumo, inmobiliario, transporte y azúcar y etanol; predominan dólar y euro.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Los tres principales emisores de este tipo de bonos en América Latina y el Caribe son Chile (41% del total), el Brasil (25%) y México (21%).",
+                  "pagina": 24
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Tipos de instrumentos",
+              "nivel": 3,
+              "paginas": "27-34",
+              "resumen": "Compara bonos verdes, sociales, sostenibles y SLB y destaca el aumento de estos últimos y de objetivos asociados a emisiones, energía renovable, desechos, biodiversidad y plástico reciclado. El análisis aporta evidencia y límites metodológicos relevantes para interpretar este resultado en el conjunto del documento. El apartado compara el uso de fondos con los objetivos de desempeño, el seguimiento de indicadores, la presentación de informes, la verificación y las consecuencias financieras del incumplimiento; también registra los indicadores ambientales y sociales que empiezan a incorporarse en las emisiones regionales.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "Aunque los bonos vinculados a la sostenibilidad son más recientes que los de uso de los fondos",
+                  "pagina": 34
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "D. El aumento de las emisiones de bonos latinoamericanos y caribeños vinculados a la sostenibilidad en el mercado internacional",
+              "nivel": 3,
+              "paginas": "29-36",
+              "resumen": "Analiza la distribución y condiciones de los SLB, sus emisores empresariales más activos y su potencial para ampliar sectores e inversores, financiar estrategias corporativas y reforzar la descarbonización. El bloque conecta la evolución cuantitativa del mercado con sus instrumentos, emisores, sectores y condiciones de desempeño, y prepara el análisis institucional y empresarial posterior. El bloque conecta la evolución cuantitativa del mercado con sus instrumentos, emisores, sectores y condiciones de desempeño, y prepara el análisis institucional y empresarial posterior.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "Los niveles de emisión de bonos SLB en América Latina y el Caribe han sido muy intensos durante 2021",
+                  "pagina": 34
+                },
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Al complementar los bonos VSS, los SLB han abierto las puertas a un grupo más diverso de emisores y sectores",
+                  "pagina": 34
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1. Distribución por país, sector y moneda",
+              "nivel": 3,
+              "paginas": "29-30",
+              "resumen": "Describe la concentración de SLB en Brasil, México y Chile, la distribución sectorial y la predominancia del dólar y el euro. El análisis aporta evidencia y límites metodológicos relevantes para interpretar este resultado en el conjunto del documento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Principales características: calificación crediticia, cupón, vencimiento e indicadores clave del desempeño preferidos",
+              "nivel": 3,
+              "paginas": "30-31",
+              "resumen": "Examina calificaciones, cupones, vencimientos y los indicadores de desempeño utilizados para vincular la financiación a objetivos ASG. El análisis aporta evidencia y límites metodológicos relevantes para interpretar este resultado en el conjunto del documento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Los emisores empresariales más activos",
+              "nivel": 3,
+              "paginas": "32-36",
+              "resumen": "Identifica a Suzano, FEMSA, Orbia, Nemak, JBS y Natura como los emisores corporativos más activos y explica que los SLB conservan flexibilidad de uso de fondos mientras intensifican la sostenibilidad. El análisis aporta evidencia y límites metodológicos relevantes para interpretar este resultado en el conjunto del documento.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Aunque los bonos vinculados a la sostenibilidad son más recientes que los de uso de los fondos, los niveles de emisión de bonos SLB en América Latina y el Caribe han sido muy intensos durante 2021",
+                  "pagina": 34
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "II. Gobernanza empresarial e indicadores ambientales, sociales y de gobernanza en América Latina y el Caribe",
+      "nivel": 1,
+      "paginas": "37-58",
+      "resumen": "Estudia cómo la sostenibilidad, los indicadores ASG y la evaluación de riesgos se integran en la gobernanza corporativa y revisa seis empresas emisoras de SLB, con énfasis en transparencia, comparabilidad, metas y verificación. El bloque conecta la evolución cuantitativa del mercado con sus instrumentos, emisores, sectores y condiciones de desempeño, y prepara el análisis institucional y empresarial posterior. El bloque conecta la evolución cuantitativa del mercado con sus instrumentos, emisores, sectores y condiciones de desempeño, y prepara el análisis institucional y empresarial posterior.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. La sostenibilidad como parte de las estrategias y las decisiones de las empresas",
+          "nivel": 2,
+          "paginas": "37-39",
+          "resumen": "Explica que la gobernanza corporativa, la transparencia y la información ASG influyen en decisiones de inversión, gestión de riesgos y valor empresarial, pero que la multiplicidad de normas voluntarias dificulta comparar empresas y períodos. El bloque conecta la evolución cuantitativa del mercado con sus instrumentos, emisores, sectores y condiciones de desempeño, y prepara el análisis institucional y empresarial posterior. El bloque conecta la evolución cuantitativa del mercado con sus instrumentos, emisores, sectores y condiciones de desempeño, y prepara el análisis institucional y empresarial posterior.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Hasta ahora, al no existir una norma única sobre la presentación de informes ASG, es difícil utilizar la información proporcionada en los informes de ese tipo que las empresas han presentado para hacer comparaciones directas entre las inversiones.",
+              "pagina": 39
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "B. Normas que se aplican a la información empresarial en materia ambiental, social y de gobernanza: la necesidad de armonizar",
+              "nivel": 3,
+              "paginas": "39-43",
+              "resumen": "Analiza la ausencia de un marco común para divulgar, medir y comparar impactos climáticos, revisa taxonomías, métricas, TCFD y la iniciativa de normas internacionales de sostenibilidad, y sostiene que la armonización es necesaria. También identifica la fragmentación de marcos voluntarios y la necesidad de una base internacional comparable para inversores, reguladores y empresas.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "la ausencia de un marco claro y acordado para divulgar, medir y comparar el impacto que la actividad empresarial tiene sobre el clima ha sido un obstáculo importante a la hora de ampliar las estrategias ASG en el sector empresarial.",
+                  "pagina": 39,
+                  "subtipo_brecha": "retrospectiva"
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "El TCFD recomienda que en las declaraciones de información climática se haga referencia a cuatro aspectos",
+                  "pagina": 42
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "C. Las empresas latinoamericanas y el uso de instrumentos ambientales, sociales y de gobernanza: seis estudios de caso",
+              "nivel": 3,
+              "paginas": "43-58",
+              "resumen": "Presenta seis estudios de caso de Brasil, México y Chile en sectores forestal y papel, alimentos y bebidas y autopartes. Compara objetivos, indicadores, marcos de bonos, dictámenes independientes y prácticas de divulgación, y concluye que persisten limitaciones de comparabilidad y transparencia. La comparación cubre compromisos, indicadores clave, metas, referencias, dictámenes independientes, divulgación, impactos y límites de comparabilidad; de ella se derivan las propuestas de estandarización del cierre. La comparación cubre compromisos, indicadores clave, metas, referencias, dictámenes independientes, divulgación, impactos y límites de comparabilidad; de ella se derivan las propuestas de estandarización del cierre. La comparación cubre compromisos, indicadores clave, metas, referencias, dictámenes independientes, divulgación, impactos y límites de comparabilidad; de ella se derivan las propuestas de estandarización del cierre.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Todos los compromisos que las empresas de la muestra asumieron en relación con la sostenibilidad eran congruentes con los Principios de los Bonos Vinculados a la Sostenibilidad de la ICMA y los ODS de las Naciones Unidas.",
+                  "pagina": 56
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "A pesar de que los indicadores clave del desempeño en materia ambiental, social y de gobernanza se han divulgado y cuantificado durante años, a veces la información extraída no es cuantificable, comparable o verificable externamente",
+                  "pagina": 56,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "1. Estudios de caso",
+              "nivel": 3,
+              "paginas": "43-56",
+              "resumen": "Describe seis empresas y sus metas de emisiones, agua, energía renovable, desechos, biodiversidad y otros objetivos ASG; examina la estructura de los bonos y las limitaciones de los indicadores seleccionados. La evidencia empresarial se presenta con datos de emisiones, agua, energía, residuos, biodiversidad, plazos, cupones y umbrales, y se contrasta con criterios sectoriales y estándares internacionales para valorar su ambición y verificabilidad. La evidencia empresarial se presenta con datos de emisiones, agua, energía, residuos, biodiversidad, plazos, cupones y umbrales, y se contrasta con criterios sectoriales y estándares internacionales para valorar su ambición y verificabilidad. La evidencia empresarial se presenta con datos de emisiones, agua, energía, residuos, biodiversidad, plazos, cupones y umbrales, y se contrasta con criterios sectoriales y estándares internacionales para valorar su ambición y verificabilidad.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Suzano se convirtió en la primera empresa de América Latina y el Caribe en emitir un bono SLB en el mercado internacional",
+                  "pagina": 44
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Análisis de los resultados y de cómo estandarizar la evaluación de los riesgos podría fomentar la sostenibilidad",
+              "nivel": 3,
+              "paginas": "56-58",
+              "resumen": "Sintetiza los resultados de los casos y propone avanzar en normas e indicadores comunes por sector y país, divulgación obligatoria, orientación de cálculo y mayor transparencia sobre pares y datos brutos. El análisis aporta evidencia y límites metodológicos relevantes para interpretar este resultado en el conjunto del documento.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "A medida que aumente la emisión de bonos SLB, es importante avanzar hacia la creación de normas e indicadores comunes, por sector y por país.",
+                  "pagina": 57
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "El IPSF (2021) sostiene que, además de hacer que la divulgación sea obligatoria, se podrían aplicar medidas referidas a la adopción de determinados indicadores clave del desempeño",
+                  "pagina": 58
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "III. Conclusiones",
+      "nivel": 1,
+      "paginas": "59-60",
+      "resumen": "Concluye que los VSSS y SLB pueden ampliar el financiamiento sostenible, pero que su expansión está limitada por métricas no comparables, falta de normas comunes y taxonomías insuficientes; recomienda normalización, divulgación, indicadores y taxonomías adaptadas a la región.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "A medida que aumente la emisión de bonos SLB, es importante avanzar hacia la creación de normas e indicadores comunes, por sector y por país.",
+          "pagina": 60
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "La creación de una taxonomía de actividades sostenibles en el marco de los 17 ODS podría ayudar a los emisores de bonos soberanos y empresariales de América Latina y el Caribe a ampliar y fortalecer el financiamiento para el desarrollo sostenible.",
+          "pagina": 60
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento propone instrumentos financieros y marcos de divulgación que pueden movilizar capital hacia actividades sostenibles, pero el foco es el mercado de deuda y la gobernanza corporativa, no un paquete coordinado de inversión pública y privada para transformar el modelo productivo. Cumple con un paquete de políticas/instrumentos financieros y con eficiencias ambiental y productiva, pero no presenta un portafolio propio de sectores estratégicos e inversiones coordinadas; por eso queda en Parcial.",
+      "citas": [
+        {
+          "cita": "La promoción de una estrategia de financiamiento sostenible basada en los mercados de capitales puede contribuir a obtener fondos del sector privado para fomentar el desarrollo sostenible en la región.",
+          "pagina": 11
+        },
+        {
+          "cita": "La creación de una taxonomía de actividades sostenibles en el marco de los 17 ODS podría ayudar a los emisores de bonos soberanos y empresariales de América Latina y el Caribe a ampliar y fortalecer el financiamiento para el desarrollo sostenible.",
+          "pagina": 60
+        }
+      ],
+      "nota": "No es Sí porque no articula un programa propio de inversión coordinada con sectores estratégicos y metas de transformación productiva."
+    },
+    "articulacion_actores": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento identifica una estructura de gobernanza multipartita en México y coordinación entre directorios, comités corporativos, inversores, reguladores y revisores externos. Sin embargo, el mecanismo se desarrolla como parte de un caso nacional y la mayor parte del análisis tipifica actores y estándares, sin un mecanismo regional de gobernanza climática claramente operativo.",
+      "citas": [
+        {
+          "cita": "En 2020, antes de que se emitieran los bonos mencionados, la Secretaría de Hacienda y Crédito Público (SHCP) de México comenzó a crear una estructura de gobernanza multipartita destinada a abordar la sostenibilidad como agenda.",
+          "pagina": 18
+        },
+        {
+          "cita": "Esta coordinación es muy importante cuando se trata de la estrategia ASG, o en materia de sostenibilidad.",
+          "pagina": 39
+        }
+      ],
+      "nota": "El mecanismo nombrado existe dentro del ámbito regional, pero su alcance es acotado y no se generaliza como arquitectura regional."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "Enumera sectores y actividades concretas —energía renovable, transporte limpio, gestión hídrica, economía circular, alimentos, papel, autopartes, tecnología y agricultura— y muestra vínculos con descarbonización, inversión y sostenibilidad empresarial. No desarrolla de manera suficiente el vínculo con empleo, productividad o reducción de desigualdad para cada conjunto de oportunidades; por tanto falta uno de los dos componentes exigidos.",
+      "citas": [
+        {
+          "cita": "Después de 2019, se incorporaron nuevos sectores, como el de los automóviles y afines, el tecnológico, el químico, el de las telecomunicaciones, el de los productos de consumo, el inmobiliario, el del transporte, y el del azúcar y el etanol.",
+          "pagina": 27
+        },
+        {
+          "cita": "Bonos verdes: en los Principios de los Bonos Verdes que la ICMA publicó en junio de 2021 se establece que estos son todo tipo de instrumento de renta fija cuyos fondos o una cantidad equivalente se han de usar de forma exclusiva para financiar o refinanciar, de forma total o parcial, proyectos que ofrezcan claros beneficios ambientales",
+          "pagina": 16
+        }
+      ],
+      "nota": "Chequeo negativo: la enumeración sectorial no basta para acreditar por sí sola empleo, productividad o desigualdad desarrollados."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "La voz normativa propia del cierre propone cuatro unidades completas: crear normas e indicadores comunes por sector y país; hacer obligatoria la divulgación ASG; adoptar indicadores clave de desempeño con orientación de cálculo; y crear taxonomías de actividades sostenibles con dimensiones sociales. Tres unidades nombran entregables o instrumentos identificables; la incorporación de aspectos sociales formula objetivos de contenido sin instrumento operativo adicional.",
+      "citas": [
+        {
+          "cita": "A medida que aumente la emisión de bonos SLB, es importante avanzar hacia la creación de normas e indicadores comunes, por sector y por país.",
+          "pagina": 60
+        },
+        {
+          "cita": "La creación de una taxonomía de actividades sostenibles en el marco de los 17 ODS podría ayudar a los emisores de bonos soberanos y empresariales de América Latina y el Caribe a ampliar y fortalecer el financiamiento para el desarrollo sostenible.",
+          "pagina": 60
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Crear normas e indicadores ASG comunes por sector y país.",
+          "clasificacion": "CONCRETO",
+          "pagina": 60
+        },
+        {
+          "item": "Incorporar aspectos sociales a las actividades sostenibles pertinentes para los países en desarrollo.",
+          "clasificacion": "GENERICO",
+          "pagina": 60
+        },
+        {
+          "item": "Crear una taxonomía de actividades sostenibles congruente con las políticas y necesidades de los países en desarrollo.",
+          "clasificacion": "CONCRETO",
+          "pagina": 60
+        }
+      ],
+      "tally": "2 de 3 ítems pasan el test de concreción",
+      "nota": "Se evaluó únicamente el cierre normativo del documento; metas y medidas descritas en estudios de caso no se contaron como recomendaciones propias."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 10,
+      "nombre": "Macroeconomía y fiscalidad",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la tensión entre la necesidad de financiar la transición sostenible y la expansión de los mercados de capitales, por una parte, y la ausencia de información ASG comparable, verificable y armonizada, por otra. La gobernanza corporativa y los instrumentos financieros son el objeto analizado; la sostenibilidad ambiental define su finalidad.",
+      "filtro_categoria_primaria": "La transformación primaria es macroeconómica y financiera porque el documento estudia mercados internacionales de deuda, emisiones VSSS y SLB, movilización de capital privado, costos financieros, inversores y marcos de financiamiento. La sostenibilidad ambiental funciona como destino y condición de esos instrumentos, no como el objeto institucional principal.",
+      "secundaria_obligatoria": "La sostenibilidad ambiental es la intención secundaria porque los bonos y las métricas se orientan a reducir emisiones, gestionar agua y desechos, aumentar energía renovable, proteger biodiversidad y financiar actividades alineadas con el Acuerdo de París y los ODS.",
+      "justificacion_anti_copia": "El documento reúne evidencia específica sobre 39.000 millones de dólares emitidos en la región en los primeros nueve meses de 2021, el predominio de Chile, Brasil y México, la penalización de 25 puntos básicos por incumplimiento de metas en varios SLB y la brecha entre indicadores corporativos no comparables. Su propuesta de divulgación obligatoria, indicadores por sector y país y taxonomías de actividades sostenibles confirma que el canal central es la arquitectura del financiamiento, con finalidad ambiental.",
+      "validacion_anclas": "Se aproxima al ancla Doc03 (*The rise of green bonds...*), clasificada #10/#6, porque el instrumento y el mercado financiero organizan la pregunta y la sostenibilidad define el destino. Se diferencia de Doc18, #6/#10, porque aquí el objeto empírico y normativo son las emisiones, los inversores, los marcos de deuda y la gobernanza corporativa, no la transición climática financiada como objetivo principal."
+    },
+    "tipo_documento_climatico": "Documento de proyecto o estudio técnico sobre mercados de deuda sostenible, gobernanza corporativa e indicadores ASG.",
+    "nivel_aplicacion": "Regional — América Latina y el Caribe, con análisis concentrado en los mercados internacionales y casos empresariales de Brasil, Chile y México.",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

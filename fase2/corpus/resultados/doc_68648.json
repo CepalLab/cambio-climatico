@@ -1,0 +1,351 @@
+{
+  "documento": {
+    "num_muestra": 178,
+    "titulo": "Análisis de vulnerabilidad agrícola al cambio climático para la región del Sistema de la Integración Centroamericana (SICA)",
+    "autoria": "Jorge Rodríguez Rubí",
+    "handle": "https://hdl.handle.net/11362/68648",
+    "simbolo": "LC/MEX/TS.2023/38",
+    "isbn": null,
+    "fecha": "2023",
+    "tipo_documento": "Documento técnico",
+    "paginas_cuerpo": 90,
+    "paginas_totales": 119,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cuál es la vulnerabilidad agrícola actual y futura ante el cambio climático en los municipios de la región SICA, y qué líneas regionales de adaptación permite orientar un índice comparable?",
+    "alcance": {
+      "ambito_aplicacion": "Belice, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panamá y República Dominicana, con análisis municipal y aplicaciones regionales, nacionales y locales.",
+      "referentes_dependencias": "IPCC, CMIP6, CMNUCC y fuentes nacionales de información climática, territorial y socioeconómica.",
+      "sectorial": "Agricultura, seguridad alimentaria y nutricional; cultivos de maíz, frijol, arroz, café, cacao, plátano, yuca y sorgo.",
+      "temporal": "Condiciones climáticas 1989-2018 y escenarios SSP2-4.5 y SSP5-8.5 para 2021-2040 (2030) y 2041-2060 (2050)."
+    },
+    "hallazgos_principales": [
+      "Los tres granos básicos aportaron 33% de la energía y 36% de las proteínas en la región SICA en 2020 (PDF p.48).",
+      "El índice combina nueve indicadores: tres de exposición, tres de sensibilidad y tres de capacidad adaptativa (PDF p.51).",
+      "La vulnerabilidad proyectada aumenta con la temperatura, los cambios de precipitación y el horizonte temporal; la relación entre los escenarios pesimistas de 2030 y 2050 tiene R²=0,9874 (PDF p.89)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El índice municipal comparable identifica alta vulnerabilidad donde convergen sequía, menor idoneidad climática y baja capacidad adaptativa, y muestra que el cambio climático amplía las zonas de vulnerabilidad media y alta hacia 2050.",
+        "El resultado es conservador porque mantiene constantes la exposición y la capacidad adaptativa futuras y no incorpora medidas de adaptación adicionales."
+      ],
+      "recomendaciones": [
+        "Impulsar ordenamiento territorial agrícola, prácticas de agricultura sostenible adaptada al clima y mesas técnicas agroclimáticas en zonas críticas.",
+        "Desarrollar seguros de cosecha, microreservorios y gestión del conocimiento climático, y aumentar capacidad adaptativa mediante empleo rural, servicios, educación e indicadores de género.",
+        "Actualizar continuamente el índice con mejor información de capacidad adaptativa, criterios de ministerios de agricultura y participación multisectorial."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "El estudio construye un índice municipal comparable para localizar la vulnerabilidad de la agricultura y la seguridad alimentaria en los países del SICA. Integra amenazas de sequía, inundación y ciclones con idoneidad agrícola, cobertura forestal, pobreza, agua y accesibilidad, y contrasta condiciones 1989-2018 con escenarios CMIP6 para 2030 y 2050. Los escenarios reducen la idoneidad de cultivos y elevan la sensibilidad y la vulnerabilidad, aunque la proyección mantiene constantes exposición y capacidad adaptativa por falta de información futura comparable. El cierre traduce los mapas en ocho lineamientos regionales, entre ellos ordenamiento territorial, prácticas ASAC, seguros, microreservorios, mesas técnicas y fortalecimiento de capacidades rurales."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "19-23",
+      "resumen": "Presenta el objetivo de analizar la vulnerabilidad agrícola al cambio climático con una metodología y variables comunes para Centroamérica y la República Dominicana. Justifica la escala municipal para vincular mapas y datos con decisiones de política y adaptación, en una agricultura mayormente de secano y dependiente de granos básicos. Documenta el peso del sector primario y del empleo agrícola en varios países, la concentración de pequeños productores con pobreza y servicios limitados, y las pérdidas asociadas a huracanes y sequías. Sitúa el índice como insumo del trabajo CEPAL-CAC para discutir estrategias de adaptación regionales, nacionales y locales.",
+      "dimensiones": [
+        {"dimension": "propuestas_politica", "cita": "La información georreferenciada de las diferentes variables y componentes de la vulnerabilidad ayuda a la toma de decisiones de política pública así como del diseño de las acciones de adaptación para responder de una forma informada a las necesidades de la población, principalmente aquella que depende del sector agropecuario, ante el cambio climático.", "pagina": 19}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Revisión de la literatura",
+      "nivel": 1,
+      "paginas": "25-46",
+      "resumen": "Define riesgo y vulnerabilidad desde el IPCC y reúne evidencia sobre impactos agrícolas, ecosistémicos y alimentarios en la región SICA. Sus dos apartados revisan, primero, pérdidas y cambios esperados en rendimientos, agua e idoneidad de cultivos; segundo, los métodos e indicadores usados en evaluaciones nacionales. El capítulo muestra que la heterogeneidad de escalas, amenazas y variables dificulta comparar prioridades de adaptación, lo que fundamenta el índice regional propuesto.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Impactos del cambio climático en la agricultura y ecosistemas en los países de la región SICA",
+          "nivel": 2,
+          "paginas": "27-29",
+          "resumen": "Sintetiza la evidencia sobre pérdidas de rendimiento, reducción de superficies aptas y aumento de precios de granos, con impactos más intensos para productores rurales pobres y el Corredor Seco Centroamericano. Describe proyecciones de menor aptitud para maíz, frijol, café, cacao y caña de azúcar, junto con presiones sobre agua, humedales y bosques. La función del apartado es establecer que el cambio climático compromete simultáneamente producción, medios de vida y seguridad alimentaria, justificando una medición territorial de vulnerabilidad.",
+          "dimensiones": [
+            {"dimension": "estado_de_situacion", "cita": "Los países de la región se encuentran en zonas altame nte vulnerables frente a fenómenos meteorológicos, tales como huracanes, inundaciones y sequías, que tienen un gran impacto en la agricultura y la población rural (CEPAL, 2011).", "pagina": 27},
+            {"dimension": "tendencias", "cita": "Se calcula que la duración del crecimiento del cultivo del maíz se redujo al menos un 5% entre 1981-2010 y 2015-2019 (Castellanos y otros, 2022).", "pagina": 27}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Medición de vulnerabilidad en los países de la región SICA",
+          "nivel": 2,
+          "paginas": "29-46",
+          "resumen": "Compara los análisis de vulnerabilidad presentes en comunicaciones nacionales y estudios sectoriales de los países SICA. Identifica que se emplean indicadores biofísicos y sociales con alcances, amenazas, escalas y escenarios distintos; la mayoría observa vulnerabilidad actual y pocos casos incorporan clima futuro. Recupera el precedente regional de mapeo municipal de medios de vida agrícolas y capacidad adaptativa, y concluye que la comparabilidad exige homogeneizar componentes, fuentes y resolución territorial. Describe comunicaciones nacionales con análisis de exposición, sensibilidad y capacidad adaptativa, pero también objetos disímiles: vulnerabilidad social, económica, física, sectorial o general. Registra que solo El Salvador y Panamá incorporaban escenarios climáticos en sus índices y que las amenazas priorizadas varían entre nivel del mar, tormentas, inundaciones, temperatura, precipitación, deslizamientos, incendios, sequías y degradación de tierras. La revisión fundamenta que el ejercicio regional debe mantener transparencia metodológica y distinguir sectores y escalas sin perder comparabilidad municipal.",
+          "dimensiones": [
+            {"dimension": "brechas_implementacion", "cita": "La mayoría de los países realiza un análisis de la vulnerabilidad actual y solo El Salvador y Panamá incluyen en su índice los escenarios de cambio climático.", "pagina": 30, "subtipo_brecha": "retrospectiva"}
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "II. Vulnerabilidad agrícola en la región SICA",
+      "nivel": 1,
+      "paginas": "47-77",
+      "resumen": "Desarrolla el marco empírico del índice de vulnerabilidad actual y sus resultados municipales. Parte de la dependencia alimentaria y productiva de granos y pequeños productores, justifica la escala municipal y considera el vínculo de género con recursos y capacidad adaptativa. Luego especifica indicadores, tratamiento de datos y fórmula para combinar exposición, sensibilidad y capacidad adaptativa, y presenta patrones territoriales por componente y país.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Sector agrícola y seguridad alimentaria",
+          "nivel": 2,
+          "paginas": "47-48",
+          "resumen": "Vincula la vulnerabilidad climática de la agricultura con la seguridad alimentaria y nutricional de productores rurales. Muestra la centralidad de maíz, frijol y arroz: aportaron 33% de las calorías y 36% de las proteínas regionales en 2020, mientras el maíz ocupaba cerca de 28% de la superficie agrícola cosechada. Añade la relevancia comercial de café, cacao y plátano, de los que dependen pequeños, medianos y grandes productores y trabajadores agrícolas.",
+          "dimensiones": [
+            {"dimension": "estado_de_situacion", "cita": "El maíz, el frijol y el arroz suministraron el 33% del total de energía (medida en calorías) en los países de la región SICA en 2020.", "pagina": 48}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. La escala del estudio",
+          "nivel": 2,
+          "paginas": "48-49",
+          "resumen": "Argumenta que la escala nacional sirve para orientar políticas, pero que el nivel subnacional permite distinguir población vulnerable y variables que explican la vulnerabilidad local. El estudio calcula el índice a nivel municipal y publica mapas por país, como primer ejercicio regional comparable. Esta resolución busca reconocer zonas climáticamente semejantes con grados distintos de vulnerabilidad y facilitar intercambio de experiencias y mejores medidas de adaptación.",
+          "dimensiones": [
+            {"dimension": "propuestas_politica", "cita": "Como parte de la propuesta metodológica para el análisis de la vulnerabilidad climática en Centroamérica y la República Dominicana, en el presente documento se realizó el cálculo del índice de vulnerabilidad a nivel municipal con salidas cartográficas a nivel de países.", "pagina": 48}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. El abordaje de los temas de género en el análisis de la vulnerabilidad climática",
+          "nivel": 2,
+          "paginas": "49-50",
+          "resumen": "Explica que desigualdades de género en acceso a medios de producción, tecnología, crédito, capacitación e información pueden aumentar vulnerabilidad y dificultar la recuperación de medios de vida. Reconoce falta de evidencia e indicadores comparables para incorporar género de forma completa en mediciones técnicas. Incluye la cobertura de agua potable como proxy vinculado a vulnerabilidad de mujeres e infantes y advierte que otros indicadores biofísicos no permiten una atribución directa.",
+          "dimensiones": [
+            {"dimension": "diagnostico_estructural", "cita": "Aun no existe un consenso global sobre las áreas o indicadores que puedan tenerse en cuenta en los estudios y diagnósticos que ayuden a determinar cuál es la situación y cuáles las prioridades de acción.", "pagina": 49}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Metodología",
+          "nivel": 2,
+          "paginas": "50-59",
+          "resumen": "Presenta el procedimiento para construir, tratar y combinar los indicadores municipales del índice. Sus tres subapartados fijan criterios de selección de indicadores, su estandarización y la fórmula de vulnerabilidad. El diseño privilegia variables claras, medibles, pertinentes y disponibles a escala municipal para permitir comparación regional, reconociendo restricciones de información sobre capacidad adaptativa.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Sistema de indicadores para el análisis de la vulnerabilidad",
+              "nivel": 3,
+              "paginas": "50-55",
+              "resumen": "Define nueve indicadores, repartidos en tres componentes: exposición, sensibilidad y capacidad adaptativa. Para exposición usa inundaciones, ciclones o tormentas y sequías; para sensibilidad, idoneidad climática de cultivos y cobertura forestal; para capacidad adaptativa, pobreza, acceso a caminos y cobertura de agua rural. Explica rangos de temperatura y precipitación que afectan cultivos y muestra que la disponibilidad, actualización y resolución de datos limita ampliar los indicadores sociales y productivos.",
+              "dimensiones": [
+                {"dimension": "estado_de_situacion", "cita": "En total se utilizaron nueve indicadores distribuidos de la siguiente forma: tres para caracterizar la exposición, tres para caracterizar la sensibilidad y tres indicadores para caracterizar la capacidad adaptativa.", "pagina": 51}
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Tratamiento de los datos",
+              "nivel": 3,
+              "paginas": "56-56",
+              "resumen": "Explica la preparación de los datos municipales para integrar variables de distinta procedencia y escala en categorías comparables. El tratamiento asigna puntajes y rangos a los indicadores, preservando la dirección de cada componente: mayor amenaza o sensibilidad eleva el índice, mientras condiciones favorables de acceso, agua y menor pobreza fortalecen capacidad adaptativa. Esta fase hace posible sumar los componentes en un indicador regional homogéneo.",
+              "dimensiones": [
+                {"dimension": "contexto_antecedentes", "cita": "La accesibilidad fue estimada con las facilidades del sistema de información geográfica y a partir de la red de caminos que se pudo obtener para los diferentes países.", "pagina": 56}
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Cálculo del índice de vulnerabilidad",
+              "nivel": 3,
+              "paginas": "57-59",
+              "resumen": "Establece el cálculo agregado del índice a partir de exposición, sensibilidad y capacidad adaptativa, con categorías de mayor a menor vulnerabilidad. Aclara que las distintas fuentes de información y la escasez de datos comparables condicionan la robustez del componente adaptativo. La fórmula se usa como puente entre indicadores municipales y los mapas de resultados del capítulo.",
+              "dimensiones": [
+                {"dimension": "desafios", "cita": "El índice de vulnerabilidad se elaboró a partir de tres índices compuestos: índice de exposición, índice de sensibilidad e índice de capacidad adaptativa.", "pagina": 57}
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "E. Resultados",
+          "nivel": 2,
+          "paginas": "60-77",
+          "resumen": "Presenta el alcance del índice y los resultados espaciales de exposición, sensibilidad, capacidad adaptativa y vulnerabilidad actual. Explica qué combinaciones de sequía, idoneidad, bosque, pobreza, agua y accesibilidad producen cada categoría, y luego las detalla por país. Los subapartados separan las precauciones interpretativas, los componentes y la clasificación final para orientar identificación territorial de riesgos y adaptación.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Alcances de los resultados",
+              "nivel": 3,
+              "paginas": "60-60",
+              "resumen": "Delimita el alcance de los mapas e índices como una herramienta comparativa regional, no como un reemplazo de diagnósticos locales. Explica que los resultados sintetizan los indicadores disponibles a escala municipal y deben leerse con las particularidades de fuentes, fechas y escalas nacionales. Su papel es ofrecer una base común para identificar factores y priorizar análisis y medidas de adaptación más específicas.",
+              "dimensiones": [
+                {"dimension": "contexto_antecedentes", "cita": "Los resultados presentados en el presente informe fueron calculados a partir de la información disponible de las diferentes variables que intervienen en el análisis de vulne rabilidad.", "pagina": 60}
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Exposición, sensibilidad y capacidad adaptativa",
+              "nivel": 3,
+              "paginas": "60-71",
+              "resumen": "Describe los mapas de exposición, sensibilidad y capacidad adaptativa. La sequía domina la exposición en el corredor seco; la baja cobertura forestal y la menor idoneidad elevan sensibilidad; y pobreza, brechas de agua y escasa accesibilidad reducen capacidad de respuesta. El apartado también explica las combinaciones territoriales por país y la relación entre déficit de agua, pobreza y mayor desventaja de mujeres y niños. Expone que la exposición reúne riesgos municipales de ciclones, inundaciones y sequías, mientras la sensibilidad incorpora idoneidad por temperatura y precipitación y cobertura forestal. Para la capacidad adaptativa compara pobreza, agua potable rural y distancia a caminos. Los mapas no sustituyen la lectura territorial: sirven para ubicar combinaciones de amenazas y capacidades que exigen respuestas de adaptación diferenciadas en cada país.",
+              "dimensiones": [
+                {"dimension": "estado_de_situacion", "cita": "Los valores más altos de capacidad adaptativa se tienen en zonas de mayor accesibilidad, menor brecha al suministro de agua y menor pobreza.", "pagina": 68}
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Í ndice de vulnerabilidad actual",
+              "nivel": 3,
+              "paginas": "72-77",
+              "resumen": "Clasifica la vulnerabilidad agrícola actual en cinco niveles y ubica sus patrones por país. Los municipios de mayor vulnerabilidad combinan alta exposición, especialmente a sequía, con sensibilidad por temperatura y precipitación; los de menor vulnerabilidad presentan baja exposición y sensibilidad, aunque su capacidad adaptativa pueda ser limitada. Detalla zonas críticas en Guatemala, Honduras, Nicaragua, Costa Rica, Belice, Panamá y República Dominicana, enfatizando el corredor seco.",
+              "dimensiones": [
+                {"dimension": "estado_de_situacion", "cita": "Los municipios categorizados con vulnerabilidad mayor (en rojo), tienen valores promedios del índice de exposición cerca de 2,7 (el índice va de 1 bajo a 5 mayor), este valor de muy alta exposición se debe principalmente a los altos riesgos de ocurrencia de sequía.", "pagina": 72}
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "III. Vulnerabilidad agrícola con cambio climático en la región SICA",
+      "nivel": 1,
+      "paginas": "79-90",
+      "resumen": "Proyecta cambios de sensibilidad y vulnerabilidad agrícola para 2030 y 2050 bajo escenarios moderado y pesimista de CMIP6. Define los escenarios y el ensamble de modelos, evalúa la idoneidad climática de cultivos y calcula la sensibilidad futura manteniendo constantes exposición y capacidad adaptativa. El capítulo concluye que se contraen áreas de baja vulnerabilidad y crecen las categorías media y alta, con una estimación que representa impactos sin adaptación adicional.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Escenarios de cambio climático",
+          "nivel": 2,
+          "paginas": "79-82",
+          "resumen": "Describe los escenarios SSP2-4.5 y SSP5-8.5 para 2030 y 2050 y sus supuestos de trayectorias socioeconómicas, emisiones y forzamiento radiativo. Usa condiciones 1989-2018 y un ensamble de MIROC6, EC-Earth3-Veg, ACCESS-CM2, MPI-ESM1-2-L3 y CNRM-CM6-1, seleccionado por desempeño regional e incertidumbre. Promedia precipitación y temperaturas mensuales y anuales para generar capas climáticas comparables a escala de un kilómetro cuadrado.",
+          "dimensiones": [
+            {"dimension": "tendencias", "cita": "El cambio climático está magnificando las vulnerabilidades y se espera que incida cada vez más sobre la producción agrícola.", "pagina": 79}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Idoneidad de los cultivos bajo escenarios de cambio climático",
+          "nivel": 2,
+          "paginas": "83-85",
+          "resumen": "Compara la idoneidad climática actual y el escenario pesimista de 2050 para plátano, arroz, maíz y café. Los mapas distinguen áreas óptimas, marginales y no aptas y muestran una fuerte reducción de tierras idóneas para todos los cultivos. Aclara que el indicador no incorpora pendiente ni suelos, ni excluye completamente áreas protegidas, forestales o urbanas; aun así, se considera pertinente para estimar el cambio de vulnerabilidad climática a escala regional.",
+          "dimensiones": [
+            {"dimension": "estado_de_situacion", "cita": "Todos los cultivos muestran una fuerte reducción de las tierras con idoneidad para su producción.", "pagina": 83}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Índice de sensibilidad bajo escenarios climáticos",
+          "nivel": 2,
+          "paginas": "86-86",
+          "resumen": "Explica que no es posible inferir con suficiente precisión la geografía futura de sequías, inundaciones, ciclones o capacidad adaptativa, por lo que esos componentes permanecen constantes. Proyecta en cambio la sensibilidad porque la idoneidad depende de variables climáticas con escenarios disponibles. Los resultados representan el impacto del cambio climático sin nuevas medidas de adaptación ni cambios futuros de pobreza, acceso o recursos hídricos, y detectan aumentos más visibles en 2050 pesimista.",
+          "dimensiones": [
+            {"dimension": "desafios", "cita": "Resulta bastante difícil poder inferir los cambios de los indicadores de exposición ante escenarios de cambio climático, sobre todo al momento de querer atribuirle una expresión geográfica a los cambios en sequías, inundaciones y las trayectorias de los huracanes y tormentas.", "pagina": 86}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Í ndice de vulnerabilidad bajo escenarios climáticos",
+          "nivel": 2,
+          "paginas": "87-90",
+          "resumen": "Calcula el índice futuro con la sensibilidad proyectada y compara vulnerabilidad actual, 2030 y 2050 bajo el escenario pesimista. Encuentra relaciones fuertes entre los índices y un incremento adicional hacia 2050: los municipios inicialmente menos vulnerables son los que aumentan más. Los mapas muestran menos municipios de vulnerabilidad baja o menor y más municipios en categorías media y alta; el texto advierte que el resultado puede subestimar el efecto al omitir cambios en capacidad adaptativa y amenazas.",
+          "dimensiones": [
+            {"dimension": "tendencias", "cita": "En conclusión, se puede afirmar que el índice de vulnerabilidad sería mayor a medida que aumenta la temperatura y cambia la precipitación bajo los escenarios pesimistas y también a medida que es mayor el corte temporal.", "pagina": 89}
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Conclusiones y recomendaciones",
+      "nivel": 1,
+      "paginas": "91-94",
+      "resumen": "Recapitula el patrón regional de vulnerabilidad actual y su agravamiento con cambio climático, y convierte el diagnóstico en lineamientos de adaptación. La primera subsección formula ocho acciones regionales completas; la segunda precisa aportes y límites del índice, la necesidad de información comparable y de actualización continua. El cierre sitúa la herramienta dentro de la estrategia regional de agricultura sostenible adaptada al clima y propone participación de ministerios y sectores vinculados a agricultura y seguridad alimentaria.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Propuesta de algunos lineamientos estratégicos",
+          "nivel": 2,
+          "paginas": "91-92",
+          "resumen": "Propone ocho lineamientos regionales: ordenamiento territorial agrícola; prácticas ASAC y mesas técnicas agropecuarias; seguros de cosecha para cultivos de secano; microreservorios y obras de almacenamiento; información y alianzas de conocimiento; aumento de capacidad adaptativa; indicadores de género; y empleos alternativos en zonas críticas. Aterriza instrumentos como seguros indexados por precipitación, MTA, pronósticos climáticos y alianzas entre universidades, extensión y productores. Conecta las acciones con reducción de riesgo, protección de suelos y bosques, seguridad alimentaria e ingresos rurales estables.",
+          "dimensiones": [
+            {"dimension": "propuestas_politica", "cita": "Implementar seguros de cosecha para producir cultivos anuales de secano (arroz, frijol, sorgo, maíz, entre otros), es una buena medida en la región.", "pagina": 92},
+            {"dimension": "oportunidades", "cita": "Reducir los niveles de pobreza generando empleos alternativos para aumentar los ingresos rurales.", "pagina": 92}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Conclusiones claves",
+          "nivel": 2,
+          "paginas": "93-94",
+          "resumen": "Concluye que el estudio es un primer índice regional comparable que combina exposición, sensibilidad y capacidad adaptativa, con información más escasa para este último componente. Identifica sequías y menor idoneidad como factores centrales de la vulnerabilidad y muestra que reforzar capacidad adaptativa y prácticas agrícolas adaptadas puede reducirla. Recomienda que ministerios de agricultura aporten datos y juicio experto, que el índice se actualice con nuevos indicadores y que las políticas articulen múltiples sectores para disminuir impactos en agricultura y seguridad alimentaria.",
+          "dimensiones": [
+            {"dimension": "propuestas_politica", "cita": "Los índices de vulnerabilidad no son estáticos en el tiempo, por lo que debe la vulnerabilidad debe medirse de manera continua y mejorada, incluyendo m ás indicadores .", "pagina": 94}
+          ],
+          "subsecciones": []
+        }
+      ]
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "Propone un conjunto coordinable de ocho lineamientos de adaptación agrícola, con instrumentos concretos en agua, seguros, asistencia técnica y capacidad rural. Sin embargo, no formula un paquete masivo y simultáneo de inversión y políticas a escala de transformación del modelo de desarrollo; los sectores se limitan a agricultura y actividades rurales, aunque conecta empleo y ambiente. Cumple parcialmente los tests: hay medidas concretas sectoriales, pero no el test de inversión coordinada requerido para Sí.",
+      "citas": [
+        {"cita": "Gestionar el agua para la agricultura. En la zona seca se puede impulsar el establecimiento de micro rreservorios para irrigar de una a dos hectáreas en fincas de pequeños agricultores y obras de mayor dimensión en aquellas zonas que presenten las condiciones para el almacenamiento de agua y con la oferta hídrica suficiente para abastecer estas obras.", "pagina": 92},
+        {"cita": "Aumentar la capacidad adaptativa de la población. Reducir los niveles de pobreza generando empleos alternativos para aumentar los ingresos rurales.", "pagina": 92}
+      ],
+      "desglose_items": [],
+      "tally": null,
+      "nota": "La naturaleza principal es un estudio de vulnerabilidad y adaptación agrícola, no un programa integral de transformación productiva."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El documento nombra mecanismos vigentes dentro del ámbito SICA: el programa de trabajo técnico CEPAL-CAC, la Secretaría Ejecutiva, el GTCCGIR y el Grupo Interagencial de Apoyo. Además, recomienda alianzas operativas entre universidades, investigación, extensión y productores para acceder a tecnología y conocimiento. No se basa solo en actores tipificados, sino en instancias identificadas y aplicables al ámbito regional.",
+      "citas": [
+        {"cita": "A partir de 2012 se estableció un programa de trabajo técnico entre la CEPAL y el Consejo Agropecuario Centroamericano (CAC) de los Ministerios de Agricultura de los países miembros del SICA, ejecutado con su Secretaría Ejecutiva (SE -CAC) y su Grupo Técnico de Cambio Climático y Gestión Integral de Riesgo (GTCCGIR) y con una colaboración estrecha con el Grupo Interagencial de Apoyo, que incluye a la FAO, IICA, CCAFS -CIAT y CATIE, entre otras instituciones.", "pagina": 22},
+        {"cita": "Promover alianzas entre universidades, centros de investigación, centros de extensión y productores, para poder acceder a la información más reciente de tecnologías innovadoras que puedan disminuir los riesgos de la producción agropecuaria.", "pagina": 92}
+      ],
+      "desglose_items": [],
+      "tally": null,
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Sí",
+      "evidencia": "El cierre enumera actividades concretas —prácticas ASAC, mesas técnicas agropecuarias, seguros de cosecha, microreservorios y empleos alternativos— y desarrolla el vínculo con ingresos rurales, seguridad alimentaria y reducción de pobreza. La oportunidad no queda en una frase aislada: se sitúa en zonas críticas, productores pequeños y cultivos de secano, e incluye herramientas para estabilizar inversiones y producción.",
+      "citas": [
+        {"cita": "Las prácticas de agricultura sostenible adaptada al clima han dado buenos resultados en la zona seca. Prácticas como manejo de rastrojos, selección de variedades adecuadas y uso de fechas optimas de siembra han permitido obtener cosechas en condiciones climáticas poco favorables.", "pagina": 92},
+        {"cita": "Los pequeños productores podrían ver sus existencias agotadas de forma más constante por lo que requerirán de ingresos estables para adquirir alimentos.", "pagina": 92}
+      ],
+      "desglose_items": [],
+      "tally": null,
+      "nota": null
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "Se evalúa únicamente la lista normativa propia de ocho lineamientos de la sección A. Cada ítem nombra una acción y un objeto o instrumento identificable: ordenamiento territorial, prácticas ASAC y MTA, seguros, microreservorios, pronósticos y alianzas, políticas y servicios, indicadores de género y empleos alternativos. Los ocho pasan el test; no se fragmentaron sub-bullets para elevar el tally.",
+      "citas": [
+        {"cita": "Fomentar el ordenamiento territorial de la agricultura . Ante la variabilidad y cambio climático es imperante que la actividad agrícola está situada en las zonas más idóneas para el desarrollo de cada rubro.", "pagina": 91},
+        {"cita": "Generar indica dores de género . Incluir indicadores socioeconómicos en el componente de capacidad adaptativa para identificar los municipios que aumentan su vulnerabilidad agrícola en aquellos donde las mujeres son las jefas de familia y son las encargadas de la producción sin importar el tamaño de la finca.", "pagina": 92}
+      ],
+      "desglose_items": [
+        {"item": "Fomentar el ordenamiento territorial de la agricultura.", "clasificacion": "CONCRETO", "pagina": 91},
+        {"item": "Usar prácticas ASAC.", "clasificacion": "CONCRETO", "pagina": 92},
+        {"item": "Impulsar seguros de cosecha.", "clasificacion": "CONCRETO", "pagina": 92},
+        {"item": "Gestionar el agua para la agricultura.", "clasificacion": "CONCRETO", "pagina": 92},
+        {"item": "Gestionar el conocimiento.", "clasificacion": "CONCRETO", "pagina": 92},
+        {"item": "Aumentar la capacidad adaptativa de la población.", "clasificacion": "CONCRETO", "pagina": 92},
+        {"item": "Generar indicadores de género.", "clasificacion": "CONCRETO", "pagina": 92},
+        {"item": "Promover empleos alternativos en las zonas críticas.", "clasificacion": "CONCRETO", "pagina": 92}
+      ],
+      "tally": "8 de 8 ítems pasan el test de concreción",
+      "nota": "La unidad evaluada es la lista completa de ocho lineamientos de la sección A; los ejemplos internos solo especifican cada ítem."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {"numero": 6, "nombre": "Sostenibilidad ambiental", "certeza": "Alta"},
+    "transformacion_secundaria": {"numero": 11, "nombre": "Capacidades del Estado", "certeza": "Alta"},
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la contradicción entre una agricultura y seguridad alimentaria dependientes del clima y el aumento de amenazas, sensibilidad e insuficiente capacidad adaptativa. Los mapas y escenarios no son un fin cartográfico: ordenan dónde y cómo reducir vulnerabilidad ante sequías, cambios de temperatura y precipitación.",
+      "filtro_categoria_primaria": "El objetivo de cambio es disminuir vulnerabilidad agrícola y sostener la adaptación climática; el índice, los escenarios y los lineamientos se organizan por ese objeto ambiental. La coordinación, datos, ministerios y plataformas son instrumentos para adaptar agricultura, no el objeto sustantivo que reemplaza el foco climático.",
+      "secundaria_obligatoria": "#11 es secundaria porque el cierre requiere información continua, criterios de ministerios, participación de diversos sectores, mesas técnicas, alianzas de conocimiento e indicadores para usar y actualizar la herramienta pública de adaptación.",
+      "justificacion_anti_copia": "Sus rasgos propios son la escala municipal comparable en ocho países, la suma de nueve indicadores de exposición-sensibilidad-capacidad adaptativa, las proyecciones SSP2-4.5 y SSP5-8.5 para 2030 y 2050, y lineamientos como microreservorios, seguros de cosecha y MTA. Estos elementos muestran que el clima y la agricultura organizan el diagnóstico, mientras la capacidad estatal habilita su aplicación.",
+      "validacion_anclas": "Se compara con el ancla #20, Impactos económicos del cambio climático en Colombia. Síntesis: en ambos la vulnerabilidad y adaptación climática son el objeto y la información, planificación y regulación estatal operan como medios; por ello corresponde #6 primaria y #11 secundaria."
+    },
+    "tipo_documento_climatico": "Documento de proyecto o estudio técnico",
+    "nivel_aplicacion": "Regional con resolución municipal, aplicación nacional y local",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

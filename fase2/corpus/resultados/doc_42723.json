@@ -1,0 +1,284 @@
+{
+  "documento": {
+    "num_muestra": 42723,
+    "titulo": "Estimación del valor económico de la captura de carbono por efecto de la forestación en el Uruguay",
+    "autoria": "Marcelo Caffera | Natalia D'Agosti",
+    "handle": "https://hdl.handle.net/11362/42723",
+    "simbolo": "LC/TS.2017/100",
+    "isbn": null,
+    "fecha": "2017-12",
+    "tipo_documento": "Documento de proyecto",
+    "paginas_cuerpo": 15,
+    "paginas_totales": 21,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cuál fue el valor económico de la captura de CO2 por efecto de la forestación en Uruguay en los años en que el país tuvo emisiones netas negativas?",
+    "alcance": {
+      "ambito_aplicacion": "Uruguay",
+      "referentes_dependencias": null,
+      "sectorial": "Forestería, cambio climático, economía ambiental",
+      "temporal": "1990-2010"
+    },
+    "hallazgos_principales": [
+      "Uruguay tuvo emisiones netas negativas de CO2 durante siete años consecutivos (1998-2010) debido a la captura de carbono por la forestación, habiendo forestado 689 000 hectáreas entre 1990 y 2010 (p.8)",
+      "El valor económico de la captura de CO2 alcanzó 32 millones de dólares a precios de 2005, medido como ahorro de costos de abatimiento para el resto del mundo (p.15)",
+      "La tasa de control marginal implícita de la captura uruguaya osciló entre 0,432×10⁻³ y 1,608×10⁻³ respecto de las emisiones industriales globales de CO2 (p.15)",
+      "Uruguay representa apenas el 0,05% de las emisiones totales de origen antropogénico, pero su reforma en la matriz energética hacia fuentes eólicas y solares ha generado una reducción notable de la generación térmica a partir de 2012 (p.16)"
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La forestación uruguaya constituye una externalidad positiva para el resto del mundo cuyo valor económico puede ser cuantificado mediante un Modelo de Evaluación Integrada, proporcionando al gobierno uruguayo una herramienta de negociación en la estrategia de financiamiento de reducciones adicionales de GEI post-acuerdo de París",
+        "El ejercicio demuestra que, aunque la cifra de 32 millones de dólares es pequeña en términos relativos por el peso de Uruguay en las emisiones globales, resulta significativa para el sector forestal y valida la metodología de evaluación integrada como primer paso hacia modelos más complejos"
+      ],
+      "recomendaciones": [],
+      "nota": "El documento no formula recomendaciones de política; es un ejercicio metodológico de estimación económica que busca informar la posición negociadora de Uruguay"
+    },
+    "resumen_narrativo": "Uruguay forestó 689 000 hectáreas entre 1990 y 2010, lo que generó emisiones netas negativas de CO2 durante siete años consecutivos y constituye una externalidad positiva para el resto del mundo. Utilizando el Modelo de Evaluación Integrada MLIAM de Tol (2014), los autores estiman que el valor económico de esta captura alcanzó 32 millones de dólares a precios de 2005, medido como ahorro de costos de abatimiento. El documento plantea que este cálculo puede servir al gobierno uruguayo como herramienta de negociación en su estrategia de financiamiento de reducciones adicionales de GEI en el contexto posterior al acuerdo de París, donde el país presentó dos niveles de Contribuciones Intencionales y Nacionalmente Determinadas."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "7-9",
+      "resumen": "Encuadra el problema: Uruguay tuvo emisiones netas negativas de CO2 por la captura forestal en la década de los noventa y primera década del siglo XXI, con 689 000 hectáreas forestadas entre 1990 y 2010. Presenta el objetivo (estimar el valor económico de las remociones de CO2), el estado del arte (no existían ejercicios previos de este tipo en Uruguay) y el método (MLIAM de Tol, 2014). Explica la relevancia del cálculo para la estrategia negociadora de Uruguay en el contexto de sus INDC ante la CMNUCC, donde compromete remover 12 500 Gg anuales de CO2 por silvicultura en 2030.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "En varios años de la década de los noventa y primera década del siglo XXI, las emisiones netas de CO2 por parte de Uruguay fueron negativas.",
+          "pagina": 8
+        },
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "De acuerdo a las proyecciones de emisiones que Uruguay presentó en la vigésimo primera Conferencia de  las Partes (COP21) de  la CMNUCC en  París, como parte del documento de presentación de sus Contribuciones Intencionales y Nacionalmente Determinadas (INDCs, por sus siglas en inglés), en 2030 Uruguay removerá 12 500 Gg (gigagramos) anuales de CO2 por concepto de secuestro de carbono por silvicultura (Metas Uruguay 2030, 2015).",
+          "pagina": 9
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Uruguay presentó dos niveles de INDCs. El primero es menos ambicioso, en éste el país se compromete sin condiciones. El segundo es más ambicioso, aunque el país se compromete a una meta sólo en caso de conseguir financiamiento externo.",
+          "pagina": 9
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Modelo",
+      "nivel": 1,
+      "paginas": "9-13",
+      "resumen": "Describe los cinco módulos del MLIAM de Tol (2014) utilizado para la estimación: (A) ciclo del carbono (cinco cajas que modelan la concentración atmosférica de CO2), (B) módulo de clima (forzamiento radiativo y respuesta de temperatura), (C) modelo de emisiones (identidad de Kaya), (D) modelo de crecimiento (función de producción Cobb-Douglas con tasa de ahorro 0,2) y (E) abatimiento (tasa de control y costos asociados). El documento justifica la elección del MLIAM por su sencillez, como primer paso hacia modelos más complejos en el marco de la agenda de investigación en economía ambiental de la Universidad de Montevideo.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "El principal método para estimar el valor económico de la remoción neta de CO2 en la atmosfera se basa en la utilización de un Modelo de Evaluación Integrada (Integrated Assessment Model; IAM por sus siglas en inglés). El modelo elegido es el MLIAM de Tol (2014).",
+          "pagina": 9
+        },
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "El modelo de Tol (2014) consta de varios módulos interconectados. En el primero, se modela el “ciclo del carbono”, dónde el input son las emisiones totales de dióxido de carbono en todo el mundo. El output es la concentración atmosférica de CO2.",
+          "pagina": 10
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Módulo del ciclo del carbono",
+          "nivel": 2,
+          "paginas": "10-10",
+          "resumen": "Describe el modelo de cinco cajas que representa simplificadamente el ciclo del carbono, donde cada caja recibe un porcentaje de las emisiones anuales y un porcentaje sobrevive de un año al siguiente. La concentración total de CO2 se obtiene sumando las cinco cajas, con parámetros específicos de supervivencia (0,9972 a 0,6065) y distribución (0,13 a 0,32).",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Con el primer componente se trabaja como un modelo de “cinco cajas”, que no son más que una representación simplificada del verdadero ciclo del carbono. En cada una hay un porcentaje de las emisiones de ese año.",
+              "pagina": 10
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Módulo de clima",
+          "nivel": 2,
+          "paginas": "10-11",
+          "resumen": "Modela la respuesta climática al forzamiento radiativo del CO2, calculando primero la energía extra en la atmósfera y luego el incremento de temperatura de equilibrio. Incluye la sensibilidad del clima (4,26°C al duplicar CO2) y la dinámica de respuesta oceánica con parámetros de velocidad de ajuste.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "El output del modelo de “ciclo del carbono” sirve como input para el “módulo de clima”, el cual toma como insumo la concentración atmosférica de CO2 y arroja el incremento medio de la temperatura de la superficie.",
+              "pagina": 11
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Modelo de emisiones",
+          "nivel": 2,
+          "paginas": "12-12",
+          "resumen": "Utiliza la identidad de Kaya para descomponer las emisiones industriales de CO2 en cuatro factores: población, PIB per cápita, intensidad de uso de energía por unidad de producto e intensidad de emisiones por unidad de energía. Esta descomposición permite rastrear el origen de las emisiones y su relación con el crecimiento económico.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Modelo de crecimiento",
+          "nivel": 2,
+          "paginas": "12-12",
+          "resumen": "Emplea una función de producción Cobb-Douglas para calcular el PIB como función de capital, población y tecnología, con tasa de ahorro fija de 0,2 y factor de productividad inicial ajustado a datos de 1960.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Abatimiento",
+          "nivel": 2,
+          "paginas": "12-13",
+          "resumen": "Completa el modelo con una tasa de abatimiento y sus costos, calculando el costo de la política de cambio climático como reducción del PIB. Explicita que los impactos del cambio climático sobre la temperatura no se modelan porque la silvicultura uruguaya no tiene efectos significativos a nivel planetario, por lo que el beneficio se mide por costos de abatimiento ahorrados.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Se calcula el beneficio de la disminución de emisiones de Uruguay en base a los costos de abatimiento ahorrados para el resto del mundo, más que en los daños evitados.",
+              "pagina": 13
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "II. El valor económico de la captura de CO2 por la forestación uruguaya",
+      "nivel": 1,
+      "paginas": "13-15",
+      "resumen": "Presenta los resultados cuantitativos del ejercicio de estimación. Calcula la tasa de control de emisiones implícita de la captura uruguaya (división de toneladas capturadas entre emisiones globales) y aplica las ecuaciones del modelo para obtener el valor económico. Los siete años de emisiones negativas (1998-2010) arrojan un valor total de 32 974 miles de dólares a precios de 2005, con un pico de 9 219 miles en 2002. Los autores reconocen que la cifra es pequeña por el peso relativo de Uruguay en las emisiones mundiales, pero puede ser relevante para el sector y como herramienta negociadora.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Durante siete años consecutivos, Uruguay tuvo emisiones negativas de dióxido de carbono (CO2) en el sector de cambio de uso de la tierra y silvicultura (véase el cuadro 1).",
+          "pagina": 14
+        },
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "El valor total (la suma de los años medidos) asciende a 32 millones de dólares de 2005. La cifra puede parecer pequeña, pero obedece al peso relativo de las emisiones de CO2 uruguayas en el total mundial.",
+          "pagina": 15
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Se puede argumentar que aunque pequeña, la cifra puede resultar importante para el sector.",
+          "pagina": 15
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "III. Extensión del estudio al cambio de la matriz energética uruguaya",
+      "nivel": 1,
+      "paginas": "15-17",
+      "resumen": "Amplía el análisis presentando la evolución de la generación de energía por fuente en Uruguay (2000-2015), mostrando el crecimiento de la energía eólica y solar en detrimento de la térmica a partir de 2012. Señala que Uruguay representa el 0,05% de las emisiones totales antropogénicas, pero ha adquirido fama mundial por su reforma energética. Plantea que estimar el valor de esta reforma para el resto del mundo en términos de abatimiento ahorrado sería la extensión natural del trabajo, aunque no se cuenta con datos de impacto de la reforma en emisiones de CO2.",
+      "dimensiones": [
+        {
+          "dimension": "tendencias",
+          "cita": "Tanto el cuadro 4 como el gráfico 2 buscan ilustrar como aumenta la generación de energía eólica en detrimento de la generación de energía térmica a partir de 2012 y en especial en 2014.",
+          "pagina": 17
+        },
+        {
+          "dimension": "oportunidades",
+          "cita": "Estimar el valor de esta reforma para el resto del mundo en términos de abatimiento ahorrado sería la extensión natural de este trabajo.",
+          "pagina": 17
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "IV. Conclusiones",
+      "nivel": 1,
+      "paginas": "18-18",
+      "resumen": "Sintetiza que la forestación uruguaya ha sido una fuente importante de captación de CO2 que constituye una externalidad positiva para el resto del mundo. Reafirma que el ejercicio de estimación, con un valor de 32 millones de dólares a precios de 2005, puede ser útil al gobierno uruguayo como herramienta de negociación en su estrategia de financiamiento de reducciones adicionales de GEI en el contexto post-acuerdo de París. Enfatiza que más allá de las cifras puntuales (derivadas de parámetros exógenos al modelo), se ilustra el tipo de ejercicio que puede apoyar la posición negociadora del país.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "La forestación en Uruguay ha sido una fuente importante de captación de CO2, lo que constituye una externalidad positiva para el resto del mundo.",
+          "pagina": 18
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "El modelo arroja que la captura de CO2 por parte de la forestación uruguaya alcanzó los 32 millones de dólares a precios de 2005. Más allá de las cifras puntuales, que salen de la aplicación de un modelo y valores puntuales (parámetros exógenos al modelo), se ilustra el tipo de ejercicio que el gobierno uruguayo puede usar como herramienta de negociación en su estrategia de financiamiento de reducciones adicionales de gases de efecto invernadero.",
+          "pagina": 18
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "No",
+      "evidencia": "El documento es un ejercicio de estimación económica que aplica un modelo existente (MLIAM de Tol, 2014) para cuantificar el valor de la captura de carbono ya ocurrida por forestación. No propone un paquete coordinado de inversiones o políticas simultáneas, ni nombra sectores estratégicos para una transformación productiva, ni articula eficiencias schumpeteriana, keynesiana y ambiental. Es un estudio de diagnóstico y cuantificación, no una propuesta de transformación del modelo de desarrollo.",
+      "citas": [
+        {
+          "cita": "En este trabajo se estima el valor económico de la captura de carbono por parte de la forestación en Uruguay como una forma de empezar a cerrar esta brecha de conocimiento.",
+          "pagina": 9
+        },
+        {
+          "cita": "El presente trabajo trata de dar un primer paso hacia la construcción de un modelo más complejo en el marco de la agenda de investigación en economía ambiental de la Universidad de Montevideo.",
+          "pagina": 9
+        }
+      ],
+      "nota": "El No es por diseño del documento: es un ejercicio metodológico de estimación económica, no una propuesta de transformación productiva o de inversión coordinada. El documento no aborda la reorientación de inversiones, los sectores estratégicos ni las tres eficiencias del Big Push Ambiental."
+    },
+    "articulacion_actores": {
+      "veredicto": "No",
+      "evidencia": "El documento no nombra ningún mecanismo, plataforma, consejo o instrumento de coordinación entre actores. Menciona actores institucionales (CEPAL, Unión Europea, Universidad de Montevideo, gobierno uruguayo) pero en el contexto de producción del estudio o de actores individuales, no de articulación multiactor para la acción climática.",
+      "citas": [
+        {
+          "cita": "Este documento fue preparado por Marcelo Caffera y Natalia D’Agosti, Consultores de la Unidad de Cambio Climático de la División de Desarrollo Sostenible y Asentamientos Humanos de la Comisión Económica para América Latina y el Caribe (CEPAL), en el marco de las actividades del programa EUROCLIMA (CEC/14/001), y contó con el financiamiento de la Unión Europea.",
+          "pagina": 3
+        }
+      ],
+      "nota": "El documento es un ejercicio técnico individual de estimación económica; no tiene componente de gobernanza multiactor ni propone mecanismos de articulación. La ausencia es por diseño, no por omisión."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento menciona la forestación como fuente de captura de carbono con valor económico y presenta la reforma de la matriz energética uruguaya como tendencia positiva. Sin embargo, no enumera sectores productivos concretos de oportunidad ni desarrolla vínculo explícito con empleo, productividad o desigualdad. La sección III plantea la extensión del estudio a la matriz energética como oportunidad futura de investigación, pero sin detallar sectores ni vínculos laborales.",
+      "citas": [
+        {
+          "cita": "Estimar el valor de esta reforma para el resto del mundo en términos de abatimiento ahorrado sería la extensión natural de este trabajo.",
+          "pagina": 17
+        },
+        {
+          "cita": "Se puede argumentar que aunque pequeña, la cifra puede resultar importante para el sector.",
+          "pagina": 15
+        }
+      ],
+      "nota": "El Parcial refleja que el documento identifica implícitamente la forestación y la transición energética como áreas de valor, pero sin enumerar sectores concretos ni conectar con empleo/productividad/desigualdad. Es un estudio de cuantificación, no de oportunidades productivas."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "No",
+      "evidencia": "El documento no contiene sección de recomendaciones ni lista de acciones propias. El cierre (IV. Conclusiones) es una síntesis diagnóstica que reafirma la utilidad del ejercicio para la negociación, sin formular ítems operativos. No hay verbo de acción + objeto específico en ninguna parte del documento que constituya una recomendación de política.",
+      "citas": [
+        {
+          "cita": "este ejercicio puede ser útil para el gobierno uruguayo a la hora de reforzar la estrategia con la que se posiciona en la arena internacional referente a la negociación del cambio climático posterior al acuerdo de París.",
+          "pagina": 18
+        }
+      ],
+      "desglose_items": [],
+      "tally": "0 de 0 ítems (no hay lista de recomendaciones)",
+      "nota": "El documento no formula recomendaciones. Es un ejercicio de estimación económica con cierre diagnóstico. La unidad de cierre (Conclusiones, p.18) no trae lista operativa de acciones."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Media"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la contradicción entre que Uruguay, por su pequeño tamaño económico y poblacional, tiene emisiones insignificativas a nivel global pero, paradójicamente, su forestación genera una externalidad positiva (captura de carbono) que tiene valor económico verificable. La tensión es cómo convertir esta contribución ambiental desproporcionadamente pequeña en una herramienta de negociación internacional concreta para acceder a financiamiento climático.",
+      "filtro_categoria_primaria": "El objeto del documento es la estimación del valor económico de la captura de carbono (un ejercicio de cuantificación ambiental), no la transformación productiva ni la capacidad institucional. Sin embargo, el hilo conductor es la sostenibilidad ambiental: la forestación como fuente de captura de CO2 y su valor para la mitigación climática. Se descarta #11 Capacidades del Estado como primaria porque el documento no analiza ni propone arquitectura institucional, leyes o capacidades públicas — el Estado uruguayo aparece solo como sujeto negociador, no como objeto de transformación.",
+      "secundaria_obligatoria": "La secundaria #11 Capacidades del Estado cumple una función habilitadora: el documento sugiere que el gobierno uruguayo puede usar el ejercicio de estimación como herramienta de negociación en la arena internacional, lo que implica capacidades estatales de posicionamiento y acceso a financiamiento climático. El vínculo es indirecto pero verificable — la capacidad del Estado para traducir hallazgos técnicos en ventajas negociadoras es la dimensión institucional subyacente.",
+      "justificacion_anti_copia": "El documento aplica el MLIAM de Tol (2014), un modelo de evaluación integrada de cinco módulos (ciclo del carbono, clima, emisiones, crecimiento, abatimiento), para cuantificar el ahorro de costos de abatimiento de 32 millones de dólares derivado de la forestación uruguaya entre 1998 y 2010. El ejercicio es específico de Uruguay (689 000 hectáreas forestadas, emisiones netas negativas) y se vincula directamente con las INDC del país ante la CMNUCC (12 500 Gg/año de remoción para 2030).",
+      "validacion_anclas": "Se compara con doc09 (Building a climate resilient power sector, Caribe): ambos son documentos técnicos de CEPAL que cuantifican un aspecto de la sostenibilidad ambiental (resiliencia energética vs. captura de carbono). La diferencia relevante es que doc09 tiene recomendaciones concretas de capacidad institucional (IRRP/CCREEE), mientras que este documento es puramente metodológico sin agenda de acción — por eso la secundaria tiene certeza Media y no Alta."
+    },
+    "tipo_documento_climatico": "Estudio técnico / Documento de proyecto",
+    "nivel_aplicacion": "Nacional (Uruguay)",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

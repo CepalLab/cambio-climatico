@@ -1,0 +1,738 @@
+{
+  "documento": {
+    "num_muestra": 0,
+    "titulo": "Impactos macroeconómicos del cambio climático en América Latina y el Caribe: revisión de la literatura, 2010-2021",
+    "autoria": "José Eduardo Alatorre e Ignacio Fernández Sepúlveda",
+    "handle": "https://hdl.handle.net/11362/48524",
+    "simbolo": "LC/TS.2022/182",
+    "isbn": null,
+    "fecha": "2022",
+    "tipo_documento": "Documento de Proyecto / estudio técnico",
+    "paginas_cuerpo": 54,
+    "paginas_totales": 58,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Qué impactos económicos del cambio climático se han estimado para América Latina y el Caribe, por qué canales se transmiten, qué metodologías permiten medirlos y qué magnitud alcanzan en la región?",
+    "alcance": {
+      "ambito_aplicacion": "América Latina y el Caribe, con resultados regionales y desagregación para el Caribe, Centroamérica y México, y América del Sur; algunos estudios cubren países específicos de la región.",
+      "referentes_dependencias": "Literatura y modelos globales; IPCC, Climate Analytics/Climate Impact Explorer, NGFS, Swiss Re Institute, IMF y estudios para Estados Unidos, India, África Subsahariana y otros países.",
+      "sectorial": "Macroeconomía, PIB y crecimiento; salud; oferta y productividad laboral; agricultura; turismo; desastres hidrometeorológicos, ciclones y desbordes de ríos.",
+      "temporal": "Revisión de literatura 2010-2021; evidencia histórica principalmente 1960-2020; proyecciones para 2030, 2050 y 2100 bajo escenarios RCP/NGFS y compromisos climáticos."
+    },
+    "hallazgos_principales": [
+      "La literatura revisada muestra impactos significativos sobre el nivel y la tasa de crecimiento del PIB, incluso bajo escenarios compatibles con el Acuerdo de París; en el agregado regional de Burke et al. se estima una pérdida de 6,3% del PIB per cápita en 2030, 23% en 2050 y 74% en 2100 bajo RCP 8.5 (p.32).",
+      "Los canales económicos pasan por salud, oferta laboral, productividad, agricultura y eventos extremos: por ejemplo, una semana con más de cinco días sobre 32°C reduce 8% la producción semanal de la industria automotriz estadounidense y un día adicional sobre 32°C eleva 0,11% la mortalidad anual (pp.16-17).",
+      "Los resultados regionales son heterogéneos: Kahn et al. estima para América Latina y el Caribe pérdidas de PIB per cápita de 0,8% en 2030 y 6,7% en 2100 bajo RCP 8.5, mientras Swiss Re estima caídas regionales de 4% con el Acuerdo de París, 10%-12% con las NDC y 17% en un escenario extremo (pp.34-35).",
+      "La revisión encuentra escasa evidencia de adaptación significativa: para Burke et al. los países que experimentan pérdidas no recuperan sus tasas de crecimiento, y los impactos afectan también a países ricos, aunque golpean más a los países pobres y pueden profundizar la desigualdad (pp.30-32).",
+      "Las proyecciones sectoriales bajo políticas vigentes muestran pérdidas de productividad laboral, mayores costos de ciclones y desbordes, menor humedad del suelo y pérdidas agrícolas; en Centroamérica y México el trigo y el maíz son especialmente afectados, con pérdidas superiores a 18% y 9%, respectivamente (p.44)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La evidencia disponible converge en que el cambio climático ya tiene y tendrá efectos macroeconómicos sustantivos en América Latina y el Caribe, tanto por pérdidas de nivel como por menor crecimiento del PIB, y que la magnitud aumenta con la temperatura y con la exposición a eventos extremos.",
+        "La literatura no permite sostener una adaptación espontánea suficiente: existen diferencias importantes entre países y sectores, pero los estudios revisados encuentran poca recuperación de las pérdidas y una incidencia desproporcionada sobre poblaciones con menor capacidad de respuesta.",
+        "La comparación metodológica muestra que los enfoques bottom-up, IAM y econométricos ofrecen información complementaria, aunque cada uno enfrenta problemas de agregación, supuestos, incertidumbre o identificación causal que limitan la precisión de las estimaciones."
+      ],
+      "recomendaciones": [],
+      "nota": "El cierre no formula una lista de recomendaciones normativas dirigidas a gobiernos; plantea líneas para futuras investigaciones sobre adaptación, empleo, pobreza, esperanza de vida, eventos extremos, agua, salud y biodiversidad."
+    },
+    "resumen_narrativo": "El documento revisa la literatura reciente sobre cómo el aumento de la temperatura, los cambios de precipitación y los eventos extremos se transmiten al PIB, al trabajo, la agricultura y el bienestar en América Latina y el Caribe. Compara enfoques bottom-up, modelos IAM y técnicas econométricas, y luego contrasta tres estimaciones regionales: Burke et al. proyecta pérdidas de PIB per cápita de 6,3% en 2030 y 74% en 2100 bajo RCP 8.5, Kahn et al. estima 0,8% y 6,7% para esos mismos hitos, y Swiss Re incorpora riesgos físicos y transicionales. La revisión concluye que la adaptación observada es escasa y que los impactos recaen con mayor fuerza sobre países y poblaciones con menor capacidad de respuesta. El análisis sectorial añade pérdidas de productividad, costos crecientes de ciclones y desbordes y deterioro de rendimientos agrícolas bajo el escenario de políticas vigentes."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "11-14",
+      "resumen": "La introducción sitúa el problema en el aumento observado de la temperatura media —1,1°C entre 2011-2020 respecto de 1850-1900— y advierte que la inercia climática puede llevar a 1,5°C a mediados de siglo y superar 2°C sin descarbonización acelerada. Explica que las temperaturas extremas, sequías, precipitaciones intensas y ciclones afectan el bienestar y justifican estimar sus costos económicos. También define el propósito del estudio: revisar canales de transmisión, metodologías y estimaciones recientes, con foco en América Latina y el Caribe y atención a los sectores prioritarios para adaptación.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Para la década de 2011 a 2020, la temperatura media de la superficie terrestre fue 1,1°C superior a la prevaleciente en el periodo 1850–1900",
+          "pagina": 11
+        },
+        {
+          "dimension": "tendencias",
+          "cita": "independientemente de las acciones de reducción de emisiones que se realicen en el futuro próximo se espera que la temperatura promedio aumente 1,5°C con respecto al periodo preindustrial para mediados de este siglo",
+          "pagina": 11
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Las distintas manifestaciones del cambio climático afectan y continuarán afectando las actividades humanas impactando en última instancia el bienestar de la población",
+          "pagina": 11
+        },
+        {
+          "dimension": "desafios",
+          "cita": "Conocer los potenciales impactos económicos del cambio climático, además de señalar la urgencia para la acción, ofrece una estimación para la valoración económica de las emisiones de gases de efecto invernadero",
+          "pagina": 11
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Canales de transmisión del cambio climático",
+      "nivel": 1,
+      "paginas": "15-22",
+      "resumen": "Este capítulo organiza la cadena causal entre cambios físicos del clima y resultados macroeconómicos. Presenta el aumento de temperatura, las alteraciones de precipitación, la pérdida de hielo, el alza del nivel del mar y los eventos extremos como entradas que afectan salud, trabajo, agricultura, productividad y PIB. Las subsecciones revisan evidencia empírica y muestran que los efectos pueden ocurrir simultáneamente, por lo que la evaluación sectorial debe considerar impactos sobre bienestar y crecimiento en conjunto.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Salud",
+          "nivel": 2,
+          "paginas": "15-16",
+          "resumen": "La sección explica los mecanismos fisiológicos y sociales por los que el calor y los cambios de precipitación afectan la salud. Describe mayor riesgo de fiebre, fatiga, daños cardiovasculares y respiratorios, deterioro de salud mental, mortalidad y enfermedades transmitidas por vectores; aporta como referencia que cada día adicional sobre 32°C eleva 0,11% la mortalidad anual en Estados Unidos y que los menores de 5 y mayores de 65 años son los grupos más expuestos. El resultado vincula el estrés térmico con pérdidas de bienestar y con costos económicos distributivos.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "La exposición a niveles altos de temperatura y los cambios en los patrones de precipitación provocan un incremento en las tasas de mortalidad, mayor riesgo de enfermedades diarreicas y de enfermedades causadas por vectores.",
+              "pagina": 16
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "siendo los grupos de población más afectados aquellos con edades por debajo de los 5 años y por encima de los 65",
+              "pagina": 16
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Adicionalmente, existe una relación inversa entre la salud mental y la temperatura, señalando que mayores niveles de temperatura están relacionados con peores niveles de salud mental, aumentando las tasas de suicidios e índices de salud mental auto reportados por los pacientes.",
+              "pagina": 15
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Oferta laboral y niveles de salario",
+          "nivel": 2,
+          "paginas": "16-17",
+          "resumen": "La sección muestra que el calor modifica la decisión de trabajar mediante el salario de reserva, la duración de la jornada y las condiciones del empleo. La evidencia citada indica que con temperaturas alrededor de 30°C los trabajadores reducen una hora, equivalente al 14% de la oferta laboral diaria, y que un aumento anual de 2°C reduce 4,56% las nóminas de los sectores más expuestos, que abarcan entre 25 y 40 millones de trabajadores en Estados Unidos. El mecanismo conecta estrés térmico, ingresos laborales y producción agregada.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "También las condiciones climáticas afectan esta decisión, mayores niveles de temperatura pueden provocar un aumento del salario de reserva (monto mínimo por el cual se está dispuesto a trabajar) de los individuos, por lo cual habría una menor oferta laboral.",
+              "pagina": 16
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "los días con temperaturas alrededor de los 30°C, los trabajadores reducen su oferta laboral en 1 hora, alrededor del 14% de la oferta laboral diaria",
+              "pagina": 16
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "A nivel estatal, también se ha encontrado evidencia de que un aumento de +2°C en la temperatura promedio de un año provoca una reducción de -4,56% en las nóminas de sueldos para los sectores más expuestos, es decir, entre 25-40 millones de trabajadores de los Estados Unidos",
+              "pagina": 16
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Productividad laboral, tasas de crecimiento y niveles de PIB",
+          "nivel": 2,
+          "paginas": "17-18",
+          "resumen": "La sección desarrolla el canal que transforma estrés térmico en menor productividad, menores retornos del capital y del trabajo, menor productividad total de factores y finalmente menor PIB. Reúne resultados micro y macro: sobre 25°C la productividad cae cerca de 2% por grado adicional, una semana automotriz con más de cinco días sobre 32°C reduce 8% la producción y las alzas de temperatura redujeron 1,69% las tasas de crecimiento estadounidenses entre 1960 y 2011. La conclusión analítica es que el efecto puede ser permanente y no solo una perturbación transitoria.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Alzas en niveles de temperaturas medias provocan caídas en productividad, lo cual hace que el retorno tanto del capital como del trabajo sean menores, dado que estos factores son los necesarios para la producción, esta también disminuye.",
+              "pagina": 17
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Por ejemplo, para el caso de Estados Unidos se estima que en días con temperatura sobre los 25°C la pérdida media de productividad es del orden del 2% por cada grado de temperatura adicional",
+              "pagina": 17
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "en una semana con temperaturas sobre los 32°C por más de cinco días, se reduce la producción semanal en un 8%",
+              "pagina": 17
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "para el caso de Estados Unidos, para el periodo 1960–2011 las alzas de temperaturas disminuyeron las tasas de crecimiento en un 1,69%",
+              "pagina": 17
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. R endimientos agrícolas",
+          "nivel": 2,
+          "paginas": "17-18",
+          "resumen": "La sección revisa cómo temperatura, precipitación, disponibilidad de agua, eventos extremos, CO2, tecnología, fertilizantes, irrigación y suelo interactúan en los rendimientos agropecuarios. Explica una relación cóncava con un punto de inflexión aproximado de 26,8°C: por debajo de ese umbral algunos cultivos pueden mejorar y por encima disminuyen. La evidencia comparada registra pérdidas de maíz y trigo en Estados Unidos, una caída de 5,7% en arroz en India y proyecciones de fuertes descensos de cultivos en África Subsahariana, mostrando la sensibilidad productiva del sector.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "En general para los rendimientos de los cultivos existe un punto de inflexión aproximadamente en los 26.8 °C",
+              "pagina": 18
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "La estimación de los impactos debe tener en consideración que la producción o el rendimiento del sector agropecuario también depende de la combinación de la tecnología, el uso de fertilizantes y pesticidas, la irrigación, el suelo, entre otros factores",
+              "pagina": 17
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Eventos extremos",
+          "nivel": 2,
+          "paginas": "18-22",
+          "resumen": "La sección vincula el aumento observado y esperado de olas de calor, precipitaciones fuertes, sequías y ciclones con daños inmediatos, migración, costos fiscales y caídas de crecimiento. Define el criterio de desastre utilizado por EM-DAT y resume evidencia internacional, incluida una pérdida de 22%-77% del PIB regional al 2100 bajo RCP 8.5 en Acevedo y menores probabilidades de fuertes caídas cuando existen planes de acción y menor deuda fiscal. El argumento es que la resiliencia macroeconómica depende de exposición física y de capacidad financiera preventiva.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Los eventos extremos generan un impacto inmediato en los habitantes del epicentro del fenómeno, causando muertes y arrasando con viviendas.",
+              "pagina": 19
+            },
+            {
+              "dimension": "desafios",
+              "cita": "Ante un evento extremo los países, en general, establecen un plan de ayuda para las familias y negocios afectados. Estas políticas tienen un costo fiscal o privado, por lo cual, dado que los desastres naturales impactan negativamente las tasas medias de crecimiento y niveles de PIB, ello provoca que las economías pequeñas se vean particularmente afectadas.",
+              "pagina": 19
+            },
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "Son una forma de tener menor probabilidad de sufrir fuertes caídas en las tasas de crecimiento ante eventos de pequeña, mediana y gran intensidad, es poseer planes de acción bien establecidos, tales como alertas tempranas y sistemas de aseguramiento ante eventos extremos.",
+              "pagina": 19,
+              "subtipo_brecha": "prospectiva"
+            },
+            {
+              "dimension": "desafios",
+              "cita": "Ante un evento extremo los países, en general, establecen un plan de ayuda para las familias y negocios afectados. Estas políticas tienen un costo fiscal o privado, por lo cual, dado que los desastres naturales impactan negativamente las tasas medias de crecimiento y niveles de PIB, ello provoca que las economías pequeñas se vean particularmente afectadas.",
+              "pagina": 19
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Para el futuro se espera un aumento en la frecuencia e intensidad tanto de sequías agrícolas y ecológicas en algunas regiones, como también en la proporción de ciclones tropicales de alta magnitud",
+              "pagina": 18
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "II. Tipos de modelos",
+      "nivel": 1,
+      "paginas": "23-28",
+      "resumen": "El capítulo compara tres familias metodológicas para estimar impactos económicos: aproximaciones bottom-up que agregan estudios sectoriales, modelos IAM que conectan economía, tecnología y clima, y técnicas econométricas que identifican relaciones empíricas entre variables climáticas y económicas. Señala que no son excluyentes y que sus resultados pueden complementarse, pero también que difieren en detalle sectorial, supuestos, intensidad de datos e identificación causal. Las subsecciones presentan ventajas y límites concretos para interpretar las estimaciones.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Metodología de abajo para arriba (bottom-up )",
+          "nivel": 2,
+          "paginas": "23-24",
+          "resumen": "La aproximación bottom-up parte de sectores o actividades específicas y suma sus efectos para obtener un impacto agregado. Su principal debilidad es que debe tratar covarianzas entre sectores y exige datos y métodos costosos, pero permite conservar detalle de variables productivas y contabilizar impactos fuera del mercado, como biodiversidad y salud humana. El capítulo la relaciona con el Informe Stern y con estudios regionales de la economía del cambio climático de CEPAL.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "la aproximación (bottom-up), también conocida como aproximación enumerativa (Hsiang, 2016), a través de un proceso inductivo (particular a lo general)",
+              "pagina": 23
+            },
+            {
+              "dimension": "desafios",
+              "cita": "La mayor ventaja de este enfoque es tener estimaciones sectoriales específicas, tomando en cuenta las diversas variables que determinan las actividades del sector",
+              "pagina": 24
+            },
+            {
+              "dimension": "desafios",
+              "cita": "La mayor ventaja de este enfoque es tener estimaciones sectoriales específicas, tomando en cuenta las diversas variables que determinan las actividades del sector",
+              "pagina": 24
+            },
+            {
+              "dimension": "oportunidades",
+              "cita": "La mayor ventaja de este enfoque es tener estimaciones sectoriales específicas, tomando en cuenta las diversas variables que determinan las actividades del sector.",
+              "pagina": 24
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Modelos de e valuación integrada (IAMs)",
+          "nivel": 2,
+          "paginas": "24-26",
+          "resumen": "La sección describe los IAM como modelos que enlazan desarrollo económico, social y tecnológico con evolución climática y permiten evaluar mitigación, adaptación y costo social del carbono. Distingue modelos de política exógena y de optimización endógena, y enumera DICE, FUND, PAGE, GCAM, MERGE, WITCH y MAGICC con sus escalas y variables. También identifica incertidumbres en sensibilidad climática, tasa de descuento y función de daño, de modo que distintos supuestos producen precios sociales del carbono y abatimientos muy diferentes.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Este tipo de modelos fueron los pioneros en explorar la relación entre los efectos del cambio climático y sus impactos económicos",
+              "pagina": 24
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Hay dos formatos de IAMs: los modelos de evaluación de políticas y los modelos de optimización",
+              "pagina": 24
+            },
+            {
+              "dimension": "desafios",
+              "cita": "Tanto el parámetro de sensibilidad climática como la tasa de descuento involucran altos niveles de incertidumbre",
+              "pagina": 25
+            },
+            {
+              "dimension": "desafios",
+              "cita": "La diferencia entre estos dos enfoques es crucial ya que ofrecen diversas estimaciones del precio social del carbono y, por tanto, diversos niveles de abatimiento óptimos, desde los muy laxos hasta los más taxativos.",
+              "pagina": 25
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. T écnicas econométricas",
+          "nivel": 2,
+          "paginas": "26-28",
+          "resumen": "El bloque econométrico busca establecer empíricamente efectos causales entre variables climáticas y crecimiento económico. Presenta tres estructuras de información —sección cruzada, datos panel y diferencias de largo plazo— y prepara la comparación de sus ventajas y límites en las entradas siguientes. Su función es fijar el marco metodológico para interpretar las estimaciones regionales posteriores.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "los modelos econométricos buscan establecer de forma empírica los efectos causales entre variables climáticas y crecimiento económico",
+              "pagina": 26
+            },
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Los estudios pueden categorizarse dependiendo de la estructura de la información en (Auffhammer, 2018; Dell, Jones y Olken, 2014; Hsiang, 2016; Kolstad y Moore, 2020).",
+              "pagina": 26
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Modelos de sec ción cruzada",
+          "nivel": 2,
+          "paginas": "26-27",
+          "resumen": "Los modelos de sección cruzada comparan individuos, empresas, países o sectores en un momento específico y controlan características geográficas, productivas y de insumos. El modelo ricardiano aplica esta lógica a valor de la tierra, ingresos netos y productividad agrícola, aprovechando variación climática entre unidades. Su límite es la vulnerabilidad a variables omitidas y la incapacidad de representar efectos dinámicos, por lo que ofrece una fotografía parcial del impacto.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Los modelos de sección cruzada permiten identificar el efecto de las variables climáticas sobre el crecimiento económico, los rendimientos agrícolas u otra variable de interés",
+              "pagina": 26
+            },
+            {
+              "dimension": "desafios",
+              "cita": "La aproximación de sección cruzada tiene la desventaja de ser vulnerable a posibles errores por omisión de variables relevantes, así como no contemplar efectos dinámicos",
+              "pagina": 27
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Datos panel",
+          "nivel": 2,
+          "paginas": "27",
+          "resumen": "Los datos panel siguen diversos agentes en dos o más momentos y usan efectos fijos individuales y temporales para controlar factores invariantes y tendencias comunes. El texto destaca que esta estructura reduce el riesgo de variables omitidas y permite estudiar respuestas de corto plazo, como menor uso de fertilizante en un año seco. Sin embargo, puede captar mal la adaptación de largo plazo, como la instalación de infraestructura de riego, y sigue expuesta a shocks correlacionados con variables climáticas.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "La mayor ventaja de esta metodología es que permite controlar por los factores no observables entre unidades poblaciones a comparar",
+              "pagina": 27
+            },
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "este modelo captura las respuestas de los agricultores al mal tiempo en el corto plazo, como una menor aplicación de fertilizante en un año más seco, pero no para el largo plazo, como la instalación de infraestructura de riego",
+              "pagina": 27,
+              "subtipo_brecha": "prospectiva"
+            },
+            {
+              "dimension": "desafios",
+              "cita": "La principal desventaja de este modelo se encuentra en que puede ser muy eficiente para captar efectos en el corto plazo, pero no así en el largo plazo.",
+              "pagina": 27
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Enfoque híbrido: diferencias de largo plazo (“long-differences” )",
+          "nivel": 2,
+          "paginas": "27-28",
+          "resumen": "El enfoque híbrido compara cambios de producto, clima y observables entre dos períodos separados por décadas. Permite estimar la asociación entre tendencias climáticas y evolución de PIB, productividad o rendimientos agrícolas en el mediano y largo plazo, y fue aplicado por estudios sobre crecimiento y cultivos. Su beneficio es capturar aumentos paulatinos de la variable climática; su debilidad es que debe asumir los supuestos de la sección cruzada.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "Regularmente τ1 y τ2, se encuentran separados por un período de tiempo considerable (décadas), para así poder obtener los efectos estadísticos de la variación media de las variables climáticas",
+              "pagina": 27
+            },
+            {
+              "dimension": "desafios",
+              "cita": "La debilidad, es que se requiere asumir que cumple los supuestos de sección cruzada",
+              "pagina": 27
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "III. Algunas estimaciones del impacto global del cambio climático",
+      "nivel": 1,
+      "paginas": "29-30",
+      "resumen": "El capítulo compara estimaciones globales, principalmente bajo RCP 8.5, y muestra un rango de pérdidas de PIB per cápita de 4,6% a 30% hacia 2100, con pérdidas ya visibles de 0,8%-5% en 2030. El recuadro explica cómo Burke, Swiss Re, Kalkuhl y Wenz, IMF, Dell, Roson y Kahn combinan paneles, secciones cruzadas, diferencias de largo plazo e IAM. El resultado común es que el calentamiento afecta producto, productividad, agricultura, salud y estabilidad, aunque la magnitud depende de escenarios y supuestos.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "La evidencia muestra que, en un escenario con altas emisiones, los efectos del cambio climático sobre el PIB per cápita van desde el 4.6% a 30%",
+          "pagina": 29
+        },
+        {
+          "dimension": "tendencias",
+          "cita": "Las estimaciones para 2030 ya muestran una pérdida de entre 0.8% y 5% del PIB per cápita",
+          "pagina": 29
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "bajo un escenario RCP 8.5, que el calentamiento global afectará a la economía global reduciendo el PIB Agregado en un 23% para el año 2100, aumentando de manera sustancial los niveles de desigualdad",
+          "pagina": 30
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "IV. R esultados específicos para América Latina y el Caribe",
+      "nivel": 1,
+      "paginas": "31-36",
+      "resumen": "El capítulo selecciona tres estudios con resultados por país o región y compara paneles con un IAM ampliado para incertidumbre, cadenas de suministro, comercio, migración y biodiversidad. El padre organiza la evidencia en Burke et al., Kahn et al. y Swiss Re, mostrando que las estimaciones son significativas incluso con metas climáticas cumplidas y que varían según temperatura histórica, exposición y modelo. Las subsecciones permiten seguir por separado la lógica, cobertura y magnitud de cada estimación.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Burk e, M., Hsiang, S., & Miguel, E., 2015: efectos globales no lineales de la temperatura en la actividad económica",
+          "nivel": 2,
+          "paginas": "31-32",
+          "resumen": "El estudio de Burke et al. usa 166 países y datos 1960-2010 para reconciliar evidencia micro y macro mediante una relación no lineal entre temperatura y crecimiento. El crecimiento cae sobre 13°C, con efectos en actividades agrícolas y no agrícolas, y no se observa recuperación de tasas entre países que sufrieron pérdidas, lo que sugiere adaptación limitada. Para 26 países de América Latina y el Caribe, proyecta impactos agregados de 6,3% en 2030, 23% en 2050 y 74% en 2100 bajo RCP 8.5, con heterogeneidad nacional.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Los autores encuentran una relación no lineal entre temperatura y crecimiento, donde el crecimiento decrece a partir de temperaturas mayores de 13°C",
+              "pagina": 31
+            },
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "El estudio no encuentra evidencia de que los países que experimentan pérdidas recuperen sus tasas de crecimiento, por lo que no hay evidencia de adaptación significativa desde 1960",
+              "pagina": 32,
+              "subtipo_brecha": "retrospectiva"
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "Los impactos agregados por población son de 6.3% para 2030, 23% para 2050 y de 74% en 2100",
+              "pagina": 32
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Kahn,M. et al,",
+          "nivel": 2,
+          "paginas": "33-34",
+          "resumen": "El bloque presenta el estudio de Kahn et al. como respuesta a problemas de endogeneidad, sesgo de efectos fijos, regresión espuria y ausencia de fundamento teórico en estimaciones anteriores. La propuesta combina un modelo estocástico, una especificación de largo plazo y un estimador half-panel Jackknife FE, y utiliza 174 países entre 1960 y 2014. El resultado para la región es una pérdida de PIB per cápita de 0,8% en 2030 y 6,7% en 2100 bajo RCP 8.5, con Sudamérica y Centroamérica entre las más afectadas.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "019. Efectos macroeconómicos del cambio climático: un análisis a nivel país",
+              "nivel": 3,
+              "paginas": "33-34",
+              "resumen": "Esta subsección detalla que los efectos negativos persisten aun cumpliendo un escenario similar a RCP 2.5: el PIB per cápita mundial se reduciría 1% al 2100, frente a 7% bajo RCP 8.5. Un aumento persistente de 0,01°C sobre el promedio histórico reduce el crecimiento del PIB per cápita en 0,058 puntos porcentuales anuales en el largo plazo. Para 27 países de América Latina y el Caribe, el impacto alcanza 0,8% en 2030 y 6,7% en 2100, con Bahamas como excepción no significativa.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "aun cumpliendo con el Acuerdo de París (similar al escenario RCP 2.5), el PIB per cápita se reduciría en 1% al 2100",
+                  "pagina": 33
+                },
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Estos resultados difieren por país según la variabilidad de la temperatura con respecto a su promedio histórico",
+                  "pagina": 34
+                },
+                {
+                  "dimension": "tendencias",
+                  "cita": "Para el caso de América Latina y el Caribe, el estudio incorpora 27 países, para los cuáles el impacto del cambio climático sobre su PIB per cápita es del orden de 0.8% en 2030, alcanzando el 6.7% en 2100",
+                  "pagina": 34
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Swiss R e Institute, 2021. La economía del cambio climático: sin acción, no hay opción",
+          "nivel": 2,
+          "paginas": "35-36",
+          "resumen": "Swiss Re utiliza un IAM para estimar riesgo físico crónico y riesgo transicional, y escala los daños para incluir disrupciones de cadenas de suministro y migración. El estudio estima pérdidas globales de 4% con el Acuerdo de París, 11%-13% con NDC y 18% bajo calentamiento extremo a mediados de siglo; para siete países regionales calcula 4%, 10%-12% y 17%, respectivamente. También simula un impuesto global al carbono de 100 dólares por tonelada y observa fuertes pérdidas de ganancias en utilities y materiales, aunque el documento no convierte esa simulación en recomendación propia.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "El estudio encuentra que si el mundo cumple con el Acuerdo de París experimentará una pérdida de 4%",
+              "pagina": 35
+            },
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Para estimar el riesgo transicional, se simula la imposición de un impuesto al carbono de $100 por tonelada de CO2 a nivel global",
+              "pagina": 35
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "Para el caso de la región los impactos es una caída de 4% si se cumple el Acuerdo de París, entre 10%-12% si se cumplen los compromisos de las NDC y 17% en el caso extremo",
+              "pagina": 35
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "V. Impactos para América Latina y el Caribe: análisis sectorial",
+      "nivel": 1,
+      "paginas": "37-52",
+      "resumen": "El capítulo aplica proyecciones del Climate Impact Explorer al Caribe, Centroamérica y México, y América del Sur bajo el escenario Current Policies de NGFS, cercano a RCP 6.0 y con más de 3°C al 2100. Compara productividad laboral, costos de desbordes y ciclones, humedad del suelo y rendimientos de maíz, arroz, trigo y soya. El mapa sectorial muestra que la vulnerabilidad depende de geografía, estructura productiva, exposición a desastres y peso de agricultura, turismo y biodiversidad.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. El Caribe",
+          "nivel": 2,
+          "paginas": "38-42",
+          "resumen": "El bloque caracteriza al Caribe como economías pequeñas, dependientes del turismo, cálidas, expuestas a fenómenos extremos y con estrechez fiscal. Sus dos subsecciones muestran pérdidas de productividad laboral, aumentos de costos de ríos y ciclones, caída de humedad del suelo y daños al maíz, junto con mejoras leves del arroz en algunos países. La combinación de alta exposición y limitada capacidad fiscal explica por qué el mismo shock climático puede traducirse en daños macroeconómicos persistentes.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "vuelve más intensos los impactos por cada +1°C adicional",
+              "pagina": 38
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Los países del Caribe se caracterizan por ser economías pequeñas, altamente dependientes del turismo, y por tener altos niveles de temperaturas medias.",
+              "pagina": 38
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Impactos económicos",
+          "nivel": 2,
+          "paginas": "38-40",
+          "resumen": "La subsección proyecta pérdidas transversales de productividad laboral de 2,4%-15,9% en el Caribe y aumentos de costos de desbordes y ciclones hacia 2100. Bahamas, Haití y República Dominicana presentan alzas de 17,3, 39,9 y 30,6 puntos porcentuales en costos de ríos, mientras los daños por ciclones aumentan entre 27,5% y 36,7%. El resultado identifica turismo, actividad laboral y finanzas públicas como canales de vulnerabilidad regional.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "los países del Caribe se verán afectados por una pérdida de productividad laboral de manera transversal, la cual varía desde -2,4% hasta -15,9%",
+              "pagina": 38
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "los daños anuales, en términos monetarios, atribuibles a ciclones, aumentan de manera sostendida a lo largo del tiempo",
+              "pagina": 40
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Impactos en agricultura",
+          "nivel": 2,
+          "paginas": "40-42",
+          "resumen": "La subsección estima que la humedad del suelo del Caribe disminuirá entre 2,5% y 8,3% al 2100 y que el maíz perderá hasta 14,6% de rendimiento en República Dominicana, con caídas también en Haití y San Vicente y las Granadinas. El arroz presenta impactos levemente positivos en Haití y República Dominicana, por lo que la respuesta no es homogénea entre cultivos. La evidencia muestra que temperatura, humedad y características locales pueden generar ganadores y perdedores dentro del mismo sector agrícola.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "los niveles de humedad del suelo disminuirán, desde un -2,5% hasta -8,3% al año 2100",
+              "pagina": 40
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "Cayendo en 13,9 en San Vicente y las Granadinas, 12,3 en el caso de Haití, y 14,6% para la República Dominicana al año 2100",
+              "pagina": 40
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Centroamérica y México",
+          "nivel": 2,
+          "paginas": "42-47",
+          "resumen": "El bloque describe una subregión con gran actividad económica, producción agrícola, diversidad de ecosistemas y exposición recurrente a sequías y ciclones. Las subsecciones cuantifican daños laborales, costos de ríos y ciclones y pérdidas de humedad y cultivos. El peso de la agricultura —9% del PIB regional y 30% de la población ocupada— hace que los impactos físicos tengan consecuencias directas sobre ingresos, seguridad alimentaria y vulnerabilidades sociales.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Impactos económicos",
+              "nivel": 3,
+              "paginas": "42-44",
+              "resumen": "La subsección proyecta pérdidas de productividad laboral de 12,3%-17,2% al 2100 en Centroamérica y México. Los costos de desbordes aumentan especialmente en México y Belice, 120,8% y 166,7%, y los costos de ciclones llegan a 247,8% en México frente a 2020. El argumento es que el calentamiento amplifica vulnerabilidades laborales y fiscales en una zona ya expuesta a extremos hidrometeorológicos.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Las alzas en temperaturas disminuirán de manera transversal la productividad laboral",
+                  "pagina": 42
+                },
+                {
+                  "dimension": "tendencias",
+                  "cita": "El valor esperado del costo anual de los ciclones al año 2100 en relación con el 2020, va desde un 26,5% hasta un 247,8%",
+                  "pagina": 43
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Impactos en agricultura",
+              "nivel": 3,
+              "paginas": "44-47",
+              "resumen": "La subsección conecta agricultura, seguridad alimentaria, empleo y agroindustria: el sector genera 9% del PIB regional y emplea 30% de la población ocupada. Las proyecciones indican menor humedad del suelo, pérdidas de más de 18% en trigo y 9% en maíz y efectos heterogéneos en arroz y soya; Belice registra pérdidas de 19,6% y 12,8% en esos cultivos al 2100. El resultado es un riesgo productivo y distributivo, no solo ambiental.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "el sector agropecuario de Centroamérica y México es fundamental para la seguridad alimentaria, en él se genera el 9% del PIB regional, se emplea al 30% de la población ocupada",
+                  "pagina": 44
+                },
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "los cultivos del trigo y maíz son los sectores más afectados, reduciendo su productividad en más de un 18% y 9%, respectivamente",
+                  "pagina": 44
+                },
+                {
+                  "dimension": "tendencias",
+                  "cita": "Los menores niveles de humedad del suelo impactan los rendimientos de los diversos cultivos en distintas magnitudes.",
+                  "pagina": 44
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. América del Sur",
+          "nivel": 2,
+          "paginas": "47-51",
+          "resumen": "El bloque presenta a Sudamérica como 64% del PIB regional y territorio de la Amazonia, cuya biodiversidad y disponibilidad de agua hacen estratégicos sus impactos climáticos. Las subsecciones proyectan pérdidas de productividad laboral superiores a 13% para buena parte de los países, aumentos importantes de costos de ríos y ciclones y deterioro de humedad y cultivos. La heterogeneidad agrícola responde a diferencias de temperatura media y a la dependencia rural de los rendimientos.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Impactos económicos",
+              "nivel": 3,
+              "paginas": "47-48",
+              "resumen": "La subsección estima que un aumento de temperatura sobre 3°C al 2100 generará pérdidas de productividad laboral superiores a 13% en la mayoría de los países sudamericanos. También proyecta costos de desbordes más de 50% superiores a 2020 y aumentos de costos de ciclones de 41,1% en Venezuela, 48,3% en Colombia y 201,7% en Guyana. El canal macroeconómico pasa de productividad y daños directos a menores producción, competitividad y PIB.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "existirán perdidas en la productividad laboral por sobre el 13% para la mayor parte de los países sudamericanos",
+                  "pagina": 47
+                },
+                {
+                  "dimension": "tendencias",
+                  "cita": "Venezuela, Colombia, y Guyana, se verán afectados por un aumento en los costos anuales de 41,1%, 48,3% y 201,7%, respectivamente",
+                  "pagina": 47
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Impactos en agricultura",
+              "nivel": 3,
+              "paginas": "48-51",
+              "resumen": "La subsección muestra que la agricultura es una fuente importante de ingresos rurales y que la disminución de humedad del suelo reduce especialmente los rendimientos de maíz. Arroz, trigo y soya presentan respuestas heterogéneas por país, incluyendo pérdidas severas de soya y trigo en algunos casos y mejoras en otros. La conclusión sectorial es que la temperatura media local condiciona la dirección y tamaño del impacto, por lo que los promedios regionales ocultan riesgos nacionales diferenciados.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "esta situación vuelve particularmente vulnerable a los países ante los distintos impactos del cambio climático al sector agrícola, como la disminución en el nivel de humedad del suelo",
+                  "pagina": 48
+                },
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "los rendimientos, reaccionan de diversas maneras dependiendo del nivel de temperatura media de cada país",
+                  "pagina": 49
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "VI. Comentarios finales",
+      "nivel": 1,
+      "paginas": "53-54",
+      "resumen": "El cierre sintetiza que el cambio climático afecta nivel y tasa de crecimiento del PIB, que existe escasa evidencia de adaptación y que las poblaciones con menor capacidad de respuesta soportarán efectos distributivos mayores. Propone como agenda de investigación estudiar determinantes y obstáculos de adaptación y ampliar la cuantificación hacia empleo, pobreza, esperanza de vida, extremos, agua, salud y biodiversidad. Su última conclusión vincula el riesgo climático con un modelo de desarrollo alto en carbono y presenta la transición sostenible como una oportunidad de bienestar y dinamización económica, sin convertirla en un paquete normativo propio.",
+      "dimensiones": [
+        {
+          "dimension": "brechas_implementacion",
+          "cita": "La revisión de la literatura revela escasa evidencia de adaptación ante los cambios en el clima y, por tanto, la baja probabilidad de una recuperación ante futuros impactos",
+          "pagina": 53,
+          "subtipo_brecha": "retrospectiva"
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "los impactos suelen afectar de forma desproporcionada a las poblaciones con menos capacidad de respuesta",
+          "pagina": 53
+        },
+        {
+          "dimension": "oportunidades",
+          "cita": "el tránsito hacia un estilo de desarrollo más sostenible a nivel global no solamente atenuará los efectos negativos sino también, para el caso de la región, ofrece una alternativa que permite aumentar el bienestar de las personas y dinamizar la economía",
+          "pagina": 53
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "No",
+      "evidencia": "El documento es una revisión de literatura y proyecciones, no una propuesta de paquete coordinado de inversión y políticas. El cierre menciona una transición sostenible como alternativa, pero no identifica un paquete propio que combine inversiones, políticas y sectores estratégicos o dos eficiencias; el único instrumento concreto destacado es una simulación de terceros sobre un impuesto al carbono global. Chequeo negativo explícito: no hay paquete normativo de inversión coordinada propio, ni diseño de sectores estratégicos articulados, ni combinación verificable de eficiencia productiva, de demanda y ambiental.",
+      "citas": [
+        {
+          "cita": "El tránsito hacia un estilo de desarrollo más sostenible a nivel global no solamente atenuará los efectos negativos sino también, para el caso de la región, ofrece una alternativa que permite aumentar el bienestar de las personas y dinamizar la economía",
+          "pagina": 53
+        }
+      ],
+      "nota": "La frase final es aspiracional y no supera el test de big_push.md; las medidas e instrumentos descritos pertenecen a estudios revisados o simulaciones de terceros."
+    },
+    "articulacion_actores": {
+      "veredicto": "No",
+      "evidencia": "El documento menciona organismos, autores, bases y fuentes metodológicas, pero no propone ni acredita un mecanismo nombrado de coordinación entre actores dentro del ámbito de aplicación de América Latina y el Caribe. Climate Analytics, NGFS, IPCC y Swiss Re son fuentes o referentes de la revisión, no mecanismos regionales de gobernanza implementados por el documento. Chequeo negativo explícito: no aparece un consejo, plataforma, proceso o instrumento de articulación regional con nombre propio que organice la acción climática en el ámbito analizado.",
+      "citas": [
+        {
+          "cita": "En este apartado revisaremos las proyecciones, disponibles en el Climate Impact Explorer, elaborado por Climate Analytics",
+          "pagina": 38
+        }
+      ],
+      "nota": "La referencia al Climate Impact Explorer identifica una fuente de proyecciones, no un mecanismo de articulación de actores."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "El texto enumera sectores y variables —agricultura, turismo, trabajo, energía y agua— principalmente como canales de impacto, pérdidas o vulnerabilidades. El cierre afirma que un desarrollo sostenible podría dinamizar la economía y aumentar el bienestar, pero no desarrolla una enumeración de actividades productivas sostenibles vinculada simultáneamente con empleo, productividad o reducción de desigualdad. Chequeo negativo explícito: no hay cartera concreta de sectores/actividades de transición con vínculo desarrollado a empleo, productividad o desigualdad.",
+      "citas": [
+        {
+          "cita": "La evidencia resumida en este documento destaca los riesgos que supone mantener el modelo de desarrollo actual, alto en carbono, con elevada degradación ambiental y generador de desigualdad",
+          "pagina": 53
+        }
+      ],
+      "nota": "Los sectores aparecen como objetos de impacto o variables de modelización, no como oportunidades productivas sostenibles desarrolladas."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "No",
+      "evidencia": "El cierre propio no contiene una sección normativa con lista de recomendaciones de implementación; formula una agenda de investigación y una valoración general de la transición sostenible. Por ello no existe un ítem normativo completo que nombre instrumento, entregable, responsable, plazo o métrica. Chequeo negativo explícito: 0 de 0 ítems de recomendaciones propias pasan el test de concreción; los planes de acción, alertas tempranas, seguros, impuesto al carbono y otras medidas aparecen como evidencia, propuestas de terceros o escenarios de la literatura, no como voz normativa del cierre.",
+      "citas": [
+        {
+          "cita": "A partir de esta revisión, se pone de manifiesto la necesidad de estudiar con mayor detalle los determinantes de los procesos de adaptación y sus obstáculos",
+          "pagina": 53
+        }
+      ],
+      "desglose_items": [],
+      "tally": "0 de 0 ítems pasan el test de concreción",
+      "nota": "No se fragmenta la agenda de investigación ni se acreditan medidas sectoriales de casos revisados como recomendaciones propias."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 10,
+      "nombre": "Macroeconomía y fiscalidad",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la tensión entre un modelo de desarrollo que genera emisiones, degradación y desigualdad y la necesidad de sostener bienestar y actividad económica frente a impactos climáticos crecientes. La revisión no diseña una reforma productiva, sino que hace visible la magnitud macroeconómica de esa contradicción mediante canales físicos, estimaciones de PIB y escenarios regionales.",
+      "filtro_categoria_primaria": "La transformación central es ambiental porque el objeto analizado es el impacto del cambio climático y la transición hacia un desarrollo sostenible; la macroeconomía funciona como lenguaje de medición y como canal de consecuencias. Se descarta #10 como primaria porque el documento no tiene como sujeto la política fiscal, la deuda o el sistema financiero: los usa para cuantificar pérdidas, riesgos y capacidad de respuesta.",
+      "secundaria_obligatoria": "#10 cumple una función secundaria porque el documento organiza sus hallazgos alrededor de PIB, crecimiento, productividad, salarios, costos de desastres, impuesto al carbono y estabilidad fiscal. Esa dimensión traduce el problema ambiental en pérdidas económicas y en restricciones de política macroeconómica, sin desplazar al cambio climático como objeto.",
+      "justificacion_anti_copia": "La clasificación se ancla en tres rasgos propios: compara bottom-up, IAM y técnicas econométricas; presenta resultados regionales de Burke, Kahn y Swiss Re con pérdidas de PIB per cápita hasta 2100; y desagrega proyecciones para Caribe, Centroamérica-México y Sudamérica, incluyendo productividad, ciclones, ríos y cultivos. El cierre además vincula el modelo alto en carbono con desigualdad y plantea una transición sostenible como alternativa.",
+      "validacion_anclas": "Se contrasta con el ancla #18, La economía del cambio climático, 2023: necesidades de financiamiento, porque ambos colocan el cambio climático como objeto y usan variables macroeconómicas como soporte. La diferencia es que este documento es una revisión metodológica y de impactos, no una cuantificación de necesidades financieras ni una agenda fiscal; por eso #10 es secundaria y no primaria."
+    },
+    "tipo_documento_climatico": "Revisión de literatura y estudio técnico de impactos macroeconómicos con proyecciones sectoriales y regionales",
+    "nivel_aplicacion": "Regional (América Latina y el Caribe), con desagregación subregional y nacional",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

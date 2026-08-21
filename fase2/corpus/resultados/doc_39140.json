@@ -1,0 +1,272 @@
+{
+  "documento": {
+    "num_muestra": 13,
+    "titulo": "Impactos y vulnerabilidad al cambio climático de los principales ríos de Mendoza y San Juan a partir de la evolución de los glaciares cordilleranos. La economía del cambio climático en la Argentina",
+    "autoria": "José Boninsegna y Armando Llop",
+    "handle": "https://hdl.handle.net/11362/39140",
+    "simbolo": "LC/L.4089",
+    "isbn": null,
+    "fecha": "2015-11",
+    "tipo_documento": "Estudio técnico sectorial",
+    "paginas_cuerpo": 64,
+    "paginas_totales": 67,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": true,
+    "tiene_anexos": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cómo alterará el cambio climático la disponibilidad y el valor social del agua en las cuencas de Mendoza y San Juan, considerando la evolución de glaciares, caudales, oferta, demanda y usos sectoriales?",
+    "alcance": {
+      "ambito_aplicacion": "Provincias de Mendoza y San Juan, región de Cuyo, Argentina; cuencas de los ríos Jachal, San Juan, Mendoza, Tunuyán, Diamante y Atuel",
+      "referentes_dependencias": "Chile, Brasil, Estados Unidos y modelos climáticos del IPCC/INPE usados como fuentes o referencias metodológicas",
+      "sectorial": "Recursos hídricos cordilleranos, glaciares, agua potable, riego, generación hidroeléctrica, usos industriales y ambientales",
+      "temporal": "Registros instrumentales históricos y línea base 1961-1990; proyecciones bajo escenarios A2 y B2 hasta 2100, con cortes 2020, 2030, 2050, 2070 y 2100"
+    },
+    "hallazgos_principales": [
+      "Los ríos cuyanos dependen de la precipitación nival y de la fusión regulada por la temperatura; el calentamiento adelanta el pico de caudal y reduce los caudales estivales.",
+      "Bajo el escenario A2, la reducción estimada de los derrames hacia 2100 alcanza 14,42% en Mendoza-Tunuyán norte, 10,46% en Tunuyán superior, 14,02% en Diamante-Atuel y 19,06% en San Juan (p.31).",
+      "Las cuencas meridionales, de menor altura, son las más expuestas: la superficie sobre la isoterma de 0°C puede reducirse entre 75% y 80% hacia fines de siglo respecto de la actual (p.28).",
+      "El modelo de oferta y demanda usa el valor marginal social del agua como indicador de escasez; los costos sociales se concentran en la cuenca norte de Mendoza y, en menor medida, en la cuenca centro (p.63).",
+      "Las simulaciones muestran que la combinación de reducción de caudales, aumento de demanda y sobreexplotación de acuíferos puede elevar fuertemente el costo social del agua, aunque algunas cuencas mantienen robustez bajo los supuestos evaluados."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El cambio climático modifica de manera importante el ciclo hidrológico de Cuyo: reduce caudales, eleva la línea de 0°C, disminuye superficies de acumulación nival y amenaza la función reguladora de los glaciares.",
+        "La vulnerabilidad económica no es homogénea: la cuenca norte de Mendoza concentra los costos sociales, mientras las cuencas centro, sur y San Juan resultan robustas bajo varias corridas, aunque el escenario A2 acelera la escasez.",
+        "Los resultados son órdenes de magnitud indicativos y deben leerse como señal de cambio estructural en una región altamente dependiente del agua, no como pronósticos exactos."
+      ],
+      "recomendaciones": [],
+      "nota": "El documento no presenta una sección formal de recomendaciones ni una lista de acciones propias; solo señala implicaciones para la planificación y el manejo del agua."
+    },
+    "resumen_narrativo": "El documento evalúa la vulnerabilidad climática de los principales ríos y cuencas de Mendoza y San Juan, donde la oferta hídrica depende de la nieve y los glaciares cordilleranos. Combina series hidrológicas y climáticas, modelos de circulación y escenarios A2/B2 con un modelo de oferta-demanda que estima el valor marginal social del agua. Sus resultados proyectan disminuciones de caudales, adelanto del hidrograma y contracción de las superficies nivales, con impactos particularmente fuertes en las cuencas bajas del sur y en la cuenca norte de Mendoza. El cierre concluye que el ciclo hidrológico se modificará significativamente y que la planificación del riego, las presas, la hidroelectricidad y el abastecimiento debe considerar esa nueva trayectoria."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "9-10",
+      "resumen": "La introducción define el problema territorial: Mendoza y San Juan dependen del agua cordillerana para consumo, riego y energía. Explica que el capítulo I estudia los condicionantes físicos y la vulnerabilidad del sistema, mientras el capítulo II cuantifica el impacto socioeconómico mediante la reducción de derrames y el valor marginal social del agua; así conecta la señal climática con decisiones de escasez y gestión.",
+      "dimensiones": [
+        {"dimension": "contexto_antecedentes", "cita": "Mendoza y San Juan son provincias altamente dependientes del recurso agua y con recursos hídricos de origen netamente cordilleranos.", "pagina": 10},
+        {"dimension": "estado_de_situacion", "cita": "En este capítulo se cuantifica el valor social del agua como el indicador de su escasez.", "pagina": 10}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Impactos esperados y vulnerabilidad al cambio climático de los principales ríos de Mendoza y San Juan",
+      "nivel": 1,
+      "paginas": "11-28",
+      "resumen": "Este capítulo reconstruye la relación entre clima, nieve, glaciares y caudales, y luego proyecta cambios hidrológicos mediante modelos y escenarios. El recorrido va desde las características de las cuencas y las fuentes de información hasta las estimaciones de caudales, superficies nivales e hidrogramas; las conclusiones traducen esos resultados en vulnerabilidad de la reserva hídrica y del ciclo anual del agua.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Características hidrológicas de Mendoza y San Juan",
+          "nivel": 2,
+          "paginas": "11-12",
+          "resumen": "Caracteriza Cuyo como una región de recursos hídricos cordilleranos y contrasta la concentración de población, agricultura e industria en apenas 3% del territorio con la dependencia del agua. La sección establece la base física y productiva desde la que la pérdida de nieve o hielo se convierte en vulnerabilidad regional.",
+          "dimensiones": [{"dimension": "contexto_antecedentes", "cita": "En las provincias de Mendoza y San Juan, el agua potable así como la utilizada para regadío y generación de energía eléctrica se origina casi exclusivamente a partir de la nieve y de los cuerpos de hielo que se encuentran en las altas cumbres de la Cordillera de los Andes.", "pagina": 12}],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Los condicionantes climáticos",
+          "nivel": 2,
+          "paginas": "12-16",
+          "resumen": "Describe cómo precipitación nival, relación nieve-caudal, glaciares, temperatura y variabilidad de caudales organizan el sistema hidro-nival. El retroceso glaciar observado desde comienzos del siglo XX reduce una reserva estratégica, mientras el aumento térmico adelanta la fusión y desplaza el máximo de caudal hacia la primavera; el apartado convierte esos mecanismos en señales de estado y tendencia climática.",
+          "dimensiones": [
+            {"dimension": "estado_de_situacion", "cita": "En la región de Cuyo, como en la mayoría de las montañas del mundo, se observa una sostenida disminución de los glaciares cuyo retroceso se manifiesta por lo menos desde principios del siglo XX.", "pagina": 14},
+            {"dimension": "tendencias", "cita": "En la actualidad la tendencia al aumento de la temperatura está alterando el hidrograma de los ríos andinos ya que el proceso de fusión de la nieve comienza más temprano, incrementando el caudal en los meses de primavera, con el pico de máximo que se traslada más temprano en el ciclo hidrológico y la disminución de los caudales de verano por agotamiento de la masa de nieve de ablación.", "pagina": 16}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Los condicionantes geográficos",
+          "nivel": 2,
+          "paginas": "15-16",
+          "resumen": "Explica que altura, orientación y topografía determinan el almacenamiento de nieve, la velocidad de fusión y el momento del máximo caudal. La diferencia entre cuencas altas del norte y cuencas progresivamente más bajas hacia el sur anticipa por qué la exposición climática no será uniforme.",
+          "dimensiones": [{"dimension": "diagnostico_estructural", "cita": "La altura influye en la mayor o menor capacidad de almacenamiento de nieve y la topografía de las cuencas, en especial la orientación relativa de los valles, en la mayor o menor velocidad de fusión de la nieve, originando diferencias en los tiempos en que los ríos alcanzan su máximo caudal.", "pagina": 16}],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Fuentes de información",
+          "nivel": 2,
+          "paginas": "15-17",
+          "resumen": "Presenta estaciones de aforo, series climáticas, imágenes satelitales y herramientas geoespaciales usadas para delimitar cuencas y estimar la isoterma de 0°C. La escasez de estaciones cordilleranas obliga a combinar información argentina con registros de Chile, y limita la capacidad de observar directamente la señal climática en altura.",
+          "dimensiones": [{"dimension": "brechas_implementacion", "subtipo_brecha": "retrospectiva", "cita": "Esta situación se observa especialmente en las estaciones que estaban ubicadas en la cordillera de los andes, en donde prácticamente no se encuentra en este momento ninguna estación oficial en operaciones, con excepción de la Estación Meteorológica de Punta de Vacas en la cuenca del río Mendoza.", "pagina": 17}],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Metodología para el estudio de los caudales futuros",
+          "nivel": 2,
+          "paginas": "17-18",
+          "resumen": "Detalla el procedimiento de modelación: grillas de precipitación y temperatura, corrección con series observadas, regresiones entre nieve y caudal, promedios por décadas y escenarios A2/B2 hasta 2100. La metodología permite pasar de variables climáticas regionales a caudales proyectados por cuenca, haciendo explícitos los supuestos que sostienen la evaluación de vulnerabilidad.",
+          "dimensiones": [{"dimension": "propuestas_politica", "cita": "La estructura de los datos generados por el modelo y elaborados por INPE (Instituto Nacional de Pesquisas Espaciais–Sao Jose dos Campos, Sao Pablo, Brazil) consiste en series de precipitación media mensual, temperatura máxima, mínima y media mensual en puntos de una grilla geográfica con resolución de 0,5° x 0,5° de latitud x longitud.", "pagina": 18}],
+          "subsecciones": []
+        },
+        {
+          "seccion": "F. Resultados de la estimación de caudales futuros",
+          "nivel": 2,
+          "paginas": "18-22",
+          "resumen": "Muestra que la tendencia de la precipitación depende de la longitud, con disminución en meridianos occidentales y aumento en el meridiano oriental, y valida la relación nieve-caudal con el caso del río Diamante. Las regresiones se usan para proyectar caudales de seis ríos y comparar escenarios; el apartado transforma la incertidumbre climática en magnitudes hidrológicas espacialmente diferenciadas.",
+          "dimensiones": [
+            {"dimension": "tendencias", "cita": "Aquellas de los meridianos 70,5 y 70°W muestran una marcada tendencia a la disminución de la precipitación mientras que, la precipitación sobre el meridiano de los 69,5° W, tiene una tendencia positiva.", "pagina": 19},
+            {"dimension": "estado_de_situacion", "cita": "Como ejemplo ilustrativo se analiza el caso del río Diamante en donde la relación entre los caudales emergentes y la cantidad de nieve medida en la estación nivométrica de la Laguna llega al valor r2=0,57, o sea que la relación explica casi el 60% de la varianza total.", "pagina": 19}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "G. Metodología para la estimación de las superficies de almacenaje",
+          "nivel": 2,
+          "paginas": "23-24",
+          "resumen": "Explica cómo se estima la superficie capaz de almacenar nieve a partir de la altura de la isoterma de 0°C y de la topografía de cada cuenca. El procedimiento vincula temperatura, cota de congelamiento y reserva hídrica, por lo que prepara una medida espacial de la pérdida de almacenamiento bajo escenarios futuros.",
+          "dimensiones": [{"dimension": "diagnostico_estructural", "cita": "Para estimar la pérdida de capacidad de almacenaje de las cuencas por aumento de la temperatura y consiguiente elevación de la isoterma de 0°C.", "pagina": 24}],
+          "subsecciones": []
+        },
+        {
+          "seccion": "H. Resultados de la estimación de superficies de almacenaje",
+          "nivel": 2,
+          "paginas": "24-27",
+          "resumen": "Cuantifica el ascenso futuro de la isoterma de 0°C y la contracción de las superficies nivales para Jachal, San Juan, Mendoza, Tunuyán, Diamante y Atuel. El hidrograma proyectado para Punta de Vacas adelanta el pico, aumenta caudales primaverales y reduce los estivales, con implicaciones directas para riego, presas, centrales y abastecimiento humano.",
+          "dimensiones": [
+            {"dimension": "brechas_implementacion", "subtipo_brecha": "prospectiva", "cita": "Las consecuencias de este fenómeno deberían tenerse en cuenta en la planificación del riego, en el manejo de las presas y centrales hidroeléctricas y sobre la provisión de agua para el consumo humano.", "pagina": 27},
+            {"dimension": "estado_de_situacion", "cita": "Claramente se observa que a mayor temperatura, el pico del caudal se adelanta y que los caudales de primavera se ven incrementados con respecto al año de menor temperatura media.", "pagina": 27}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "I. Conclusiones",
+          "nivel": 2,
+          "paginas": "27-28",
+          "resumen": "Integra los resultados físicos: disminución de caudales, adelanto del hidrograma, ascenso de la isoterma de 0°C, pérdida de superficies nivales y retroceso de glaciares. Identifica mayor impacto en San Juan y Mendoza y en las cuencas bajas del sur, y advierte que la modificación del ciclo hidrológico afecta una región altamente dependiente del recurso hídrico.",
+          "dimensiones": [{"dimension": "desafios", "cita": "Si bien los resultados expresados en este informe son valores indicativos de tendencias y de órdenes de magnitud más que datos exactos, en su conjunto revelan una modificación importante del ciclo hidrológico para una región que es altamente dependiente del recurso hídrico y altamente vulnerable a cualquier alteración del mismo.", "pagina": 28}],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "II. Evaluación de los impactos esperados y vulnerabilidad al cambio climático en la oferta y demanda de agua en la provincia de Mendoza",
+      "nivel": 1,
+      "paginas": "29-64",
+      "resumen": "Este capítulo convierte la reducción climática de los derrames en una evaluación socioeconómica de la escasez hídrica. Construye un modelo de oferta y demanda para usos domésticos, agrícolas, industriales, públicos y ambientales, simula cuencas y escenarios alternativos y termina estimando costos sociales totales; el argumento muestra que la exposición económica depende de la trayectoria conjunta de caudal, demanda, eficiencia y acuíferos.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Un breve anticipo metodológico",
+          "nivel": 2,
+          "paginas": "29-31",
+          "resumen": "Define el valor marginal social del agua como indicador económico de escasez y vulnerabilidad, calculado desde la oferta porque sus datos son más accesibles. El modelo proyecta oferta y demanda hasta 2100 bajo A2/B2 y compara no hacer nada, manejo sectorial mediante cobro medido y políticas para aumentar eficiencia, haciendo explícitos los caminos de respuesta social.",
+          "dimensiones": [{"dimension": "propuestas_politica", "cita": "El estudio abarca a cada una de las cuencas de Mendoza y a la del río San Juan.", "pagina": 31}],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Los componentes del modelo",
+          "nivel": 2,
+          "paginas": "30-37",
+          "resumen": "Descompone la oferta superficial y subterránea, los costos de captación, las externalidades por sobreexplotación y los determinantes de la demanda. El cuadro de reducción de derrames bajo A2/B2 alimenta la curva de oferta, mientras población, riego, industria, uso público y eficiencia determinan la presión futura; la sección ofrece el mecanismo económico que conecta cambio climático con escasez. También explica cómo el agotamiento superficial desplaza la presión hacia acuíferos, donde el bombeo, el descenso piezométrico y la salinización agregan costos sociales.",
+          "dimensiones": [
+            {"dimension": "diagnostico_estructural", "cita": "Al incrementarse la demanda, se agotan las fuentes superficiales y se avanza en el uso del agua subterránea hasta que, tarde o temprano, se inicia la sobreexplotación de este recurso.", "pagina": 31},
+            {"dimension": "brechas_implementacion", "subtipo_brecha": "prospectiva", "cita": "Ante el crecimiento sostenido de la demanda, se recurre en primer lugar a las fuentes de agua superficial, cuyos costos de captación y transporte resulten ser comparativamente los menores.", "pagina": 32}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Cuenca norte de Mendoza - río Mendoza y Tunután inferior",
+          "nivel": 2,
+          "paginas": "38-45",
+          "resumen": "Aplica el modelo a la cuenca norte, donde la concentración de población, agricultura y actividades económicas vuelve crítica la interacción entre agua superficial, bombeo y salinización. Las corridas muestran aumentos importantes del costo marginal bajo crecimiento de demanda, por lo que esta cuenca concentra la vulnerabilidad económica del estudio y exige atención a eficiencia y fuentes alternativas. La sección además cuantifica consumos urbanos y productivos, y contrasta tarifas, demanda per cápita y cobro volumétrico como variables de escenario.",
+          "dimensiones": [{"dimension": "estado_de_situacion", "cita": "No existe información fidedigna respecto a la demanda de agua insatisfecha, ya que los sistemas de información en la cuenca norte de Mendoza han tenido problemas interpretativos entre la empresa, Obras Sanitarias Mendoza y el Ente Regulador.", "pagina": 39}],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Cuenca centro de Mendoza - el Valle de Uco",
+          "nivel": 2,
+          "paginas": "46-48",
+          "resumen": "Evalúa una cuenca agrícola con excedentes de agua y menor presión inmediata que la cuenca norte. Las corridas indican robustez frente a varios escenarios, pero muestran que el aumento de superficie irrigada y cambios de eficiencia pueden activar costos hacia 2050 o 2070; el cierre orienta el esfuerzo hacia conservación de recursos y bienes ambientales.",
+          "dimensiones": [{"dimension": "oportunidades", "cita": "La caracterización del sistema hídrico es de gran importancia en esta cuenca, muy pródiga en calidad y disponibilidad de agua subterránea.", "pagina": 48}],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Cuenca sur de Mendoza - ríos Diamante y Atuel",
+          "nivel": 2,
+          "paginas": "49-52",
+          "resumen": "Analiza una cuenca con buena dotación de agua, aunque de calidad inferior y con limitaciones ecológicas para la agricultura. Las simulaciones muestran excedentes suficientes para amortiguar la reducción climática durante buena parte del horizonte; con mayor riego, la escasez aparece más tarde bajo B2 y antes bajo A2, revelando la importancia de los supuestos de demanda.",
+          "dimensiones": [{"dimension": "estado_de_situacion", "cita": "No obstante, antes de iniciar el análisis, es importante considerar que la cuenca sur ha sido históricamente una cuenca con excesos de agua, pero con importantes condiciones que tienden a limitar su desarrollo económico.", "pagina": 50}],
+          "subsecciones": []
+        },
+        {
+          "seccion": "F. Cuenca del río San Juan",
+          "nivel": 2,
+          "paginas": "52-57",
+          "resumen": "Examina una cuenca con excedentes actuales, pero con caída de caudal especialmente rápida bajo A2. Las primeras corridas no muestran escasez económica; al combinar micromedición, aumento del consumo de riego y escenario severo, el costo comienza a crecer desde 2070 y se acelera hacia 2100, mostrando cómo la demanda puede convertir una reserva aparente en vulnerabilidad futura.",
+          "dimensiones": [{"dimension": "tendencias", "cita": "Nótese en el cuadro 14 que de los 1.874 hm3 que pasan por el Dique Ignacio de la Rosa, aproximadamente un tercio sale de la cuenca por El Encón.", "pagina": 56}],
+          "subsecciones": []
+        },
+        {
+          "seccion": "G. Análisis de los resultados",
+          "nivel": 2,
+          "paginas": "58",
+          "resumen": "Compara las corridas y permite distinguir el efecto de los escenarios climáticos, el crecimiento poblacional, la micromedición, el riego y la eficiencia. Su función es separar el impacto físico del cambio climático del efecto amplificador o amortiguador de las decisiones de uso del agua, preparando la lectura diferenciada de las conclusiones por cuenca.",
+          "dimensiones": [{"dimension": "diagnostico_estructural", "cita": "Esta columna mide la externalidad para aquellos productores que realizan un uso exclusivo del agua subterránea.", "pagina": 58}],
+          "subsecciones": []
+        },
+        {
+          "seccion": "H. Conclusiones",
+          "nivel": 2,
+          "paginas": "59-61",
+          "resumen": "Sintetiza los resultados por cuenca: la norte de Mendoza concentra costos crecientes, el Valle de Uco es robusto, la cuenca sur posterga los efectos y San Juan mantiene excedentes pero se vuelve sensible bajo A2. El cierre muestra que la exposición económica depende tanto de la reducción de caudales como de las trayectorias de población, riego y eficiencia.",
+          "dimensiones": [{"dimension": "desafios", "cita": "El caso de la cuenca norte de Mendoza es el más crítico de Cuyo, pues literalmente carece de recursos superficiales o subterráneos ociosos.", "pagina": 59}],
+          "subsecciones": []
+        },
+        {
+          "seccion": "I. Estimación de los costos sociales totales del efecto del cambio climático sobre el ciclo hidrológico en Mendoza y San Juan",
+          "nivel": 2,
+          "paginas": "62-64",
+          "resumen": "Agrega los costos sociales del cambio climático ponderando costos por hectárea según uso de agua superficial, subterránea o conjunto. Los resultados atribuyen los costos principalmente a la cuenca norte y, en mínima proporción, a la centro; para 2100 el cuadro reporta 682 millones de pesos bajo B2 y 2.003 millones bajo A2, haciendo visible la magnitud económica del riesgo hídrico.",
+          "dimensiones": [{"dimension": "estado_de_situacion", "cita": "De acuerdo a los resultados obtenidos para las corridas de los modelos utilizados en este trabajo, las únicas cuencas que aportan a estos costos son la cuenca norte, y en mínima proporción, la cuenca centro, ambas de Mendoza.", "pagina": 63}],
+          "subsecciones": []
+        }
+      ]
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "No",
+      "evidencia": "El documento diagnostica impactos y cuantifica costos, pero no propone un paquete propio de inversiones coordinadas ni un cambio estructural productivo a escala regional. El cierre ofrece implicaciones de planificación, no una agenda ejecutable con actores, instrumentos, recursos y secuencia; por tanto, no supera el test de gran impulso ambiental concreto.",
+      "citas": [{"cita": "Si bien los resultados expresados en este informe son valores indicativos de tendencias y de órdenes de magnitud más que datos exactos, en su conjunto revelan una modificación importante del ciclo hidrológico para una región que es altamente dependiente del recurso hídrico y altamente vulnerable a cualquier alteración del mismo.", "pagina": 28}],
+      "nota": "Diagnóstico y modelación de vulnerabilidad, sin paquete de inversión coordinada propio."
+    },
+    "articulacion_actores": {
+      "veredicto": "No",
+      "evidencia": "El texto nombra organismos que producen datos o ejecutan inventarios, pero no identifica un mecanismo vigente o propuesto de coordinación multiactor para la acción climática y la gestión de las cuencas. La referencia a IANIGLA es una asignación institucional de inventario, no una plataforma de gobernanza entre actores; tampoco se encuentra un consejo, mesa o proceso multiactor desarrollado para el ámbito de aplicación.",
+      "citas": [{"cita": "El Instituto de Nivología, Glaciología y Ciencias Ambientales (IANIGLA) del CONICET es el encargado de coordinar la realización de este inventario.", "pagina": 14}],
+      "nota": "La coordinación citada corresponde a la producción del inventario, no a la gobernanza multiactor de la acción climática."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "Se buscó una enumeración de sectores o actividades productivas de transición vinculada explícitamente con empleo, productividad o desigualdad y no se encontró. El documento describe agua potable, riego, industria, energía y actividades agropecuarias como usos, exposición o demanda, pero no los desarrolla como oportunidades productivas sostenibles con vínculo laboral o distributivo; por ello falla ambos componentes del test.",
+      "citas": [{"cita": "La elevación de la línea de 0°C en el invierno implicara la disminución de superficies aptas para la práctica de deportes invernales.", "pagina": 28}],
+      "nota": "La mención productiva más cercana describe una pérdida de aptitud, no una oportunidad de transición con empleo, productividad o desigualdad."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "No",
+      "evidencia": "El cierre formal no contiene una lista de recomendaciones propias ni imperativos operativos; solo señala que las consecuencias deberían considerarse en planificación y manejo. Al no existir una unidad de recomendaciones con ítems ejecutables, el tally es 0 de 0 y el criterio queda en No.",
+      "citas": [{"cita": "Las consecuencias de este fenómeno deberían tenerse en cuenta en la planificación del riego, en el manejo de las presas y centrales hidroeléctricas y sobre la provisión de agua para el consumo humano.", "pagina": 27}],
+      "desglose_items": [],
+      "tally": "0 de 0 ítems pasan el test de concreción",
+      "nota": "No hay sección formal de recomendaciones; la frase citada es una consideración general, no una lista normativa propia."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {"numero": 6, "nombre": "Sostenibilidad ambiental", "certeza": "Alta"},
+    "transformacion_secundaria": {"numero": 11, "nombre": "Capacidades del Estado", "certeza": "Alta"},
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la tensión entre una economía regional dependiente de un recurso hídrico aparentemente renovable y un ciclo hidro-nival que se contrae y se desplaza por el calentamiento. La modelación muestra que la misma escasez física se vuelve un problema económico e institucional cuando afecta riego, agua potable, energía, acuíferos y decisiones de planificación.",
+      "filtro_categoria_primaria": "La transformación principal es climática-ambiental: el objeto del estudio son impactos, vulnerabilidad, glaciares, caudales y disponibilidad de agua bajo escenarios futuros. Se descarta #11 como primaria porque la institucionalidad, los modelos y la planificación aparecen como medios para comprender y gestionar la adaptación hídrica, no como el objeto que el documento busca transformar.",
+      "secundaria_obligatoria": "#11 es secundaria porque el estudio convierte sus resultados en necesidades de información, modelación, regulación del uso y planificación de riego, presas, centrales y abastecimiento. La capacidad pública habilita la respuesta: sin estaciones, inventarios, escenarios y decisiones de asignación, la señal climática no puede traducirse en manejo de cuencas.",
+      "justificacion_anti_copia": "La clasificación se apoya en rasgos propios: la dependencia casi exclusiva de nieve y hielo para agua potable, riego y energía; la estimación de caudales con regresiones y escenarios A2/B2; y el valor marginal social del agua como indicador de escasez. También son decisivos el retroceso glaciar, el adelanto del pico del hidrograma y la concentración de costos en la cuenca norte de Mendoza, elementos que hacen ambiental al objeto y estatal a la capacidad habilitadora.",
+      "validacion_anclas": "Se contrasta con el ancla 20, Impactos económicos del cambio climático en Colombia, porque en ambos casos la vulnerabilidad climática de recursos o sectores es el objeto y la información, planificación y regulación estatal son medios, por lo que corresponde #6/#11. Se diferencia del ancla 8, Reflexiones sobre la gestión del agua, donde la arquitectura institucional de gobernanza hídrica domina; aquí dominan las proyecciones físicas, los glaciares, los caudales y la economía de la escasez."
+    },
+    "tipo_documento_climatico": "Estudio técnico de impactos, vulnerabilidad y modelación hidroeconómica",
+    "nivel_aplicacion": "Nacional/subnacional: Argentina, con análisis provincial y por cuenca en Mendoza y San Juan",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

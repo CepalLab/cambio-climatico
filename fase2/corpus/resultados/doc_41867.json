@@ -1,0 +1,245 @@
+{
+  "documento": {
+    "num_muestra": null,
+    "titulo": "Efectos potenciales de un impuesto al carbono sobre el producto interno bruto en los países de América Latina",
+    "autoria": "Luis Miguel Galindo | Allan Beltrán | Jimy Ferrer Carbonell | José Eduardo Alatorre",
+    "handle": "https://hdl.handle.net/11362/41867",
+    "simbolo": "LC/TS.2017/58",
+    "isbn": null,
+    "fecha": "2017-06",
+    "tipo_documento": "Documento de proyecto",
+    "paginas_cuerpo": 30,
+    "paginas_totales": 48,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cuáles serían los efectos potenciales de la aplicación de un impuesto al carbono sobre el Producto Interno Bruto en los países de América Latina, considerando las diferencias estructurales entre economías de la región y los esquemas de reutilización de ingresos fiscales?",
+    "alcance": {
+      "ambito_aplicacion": "América Latina (18 países: Argentina, Bolivia, Brasil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Honduras, México, Nicaragua, Panamá, Paraguay, Perú, Uruguay, Venezuela)",
+      "referentes_dependencias": "Países miembros de la OCDE (principalmente europeos: Finlandia, Noruega, Suecia, Dinamarca, Suiza) y otros países con impuesto al carbono (Japón, Australia, Sudáfrica)",
+      "sectorial": "Macroeconómico-fiscal; análisis de impuestos ambientales y su impacto sobre el PIB",
+      "temporal": "Estimaciones de largo plazo (promedio 40 años según modelos GEM); datos de calibración 2010-2014"
+    },
+    "hallazgos_principales": [
+      "El meta-análisis de 262 estimaciones de 35 estudios en 31 países muestra que el efecto del impuesto al carbono sobre el PIB oscila entre -51% y +52%, con un valor medio de -0,01% por cada dólar de impuesto (p.6).",
+      "El efecto es negativo para países miembros de la OCDE (-0,036% por dólar) y positivo para los no miembros (0,006% por dólar), diferencia estadísticamente significativa según test K-S (p.6).",
+      "Un impuesto promedio de 69 dólares/tCO2e resultaría en una disminución del PIB de -0,62% asumiendo impacto lineal (p.6).",
+      "Sin reutilización de ingresos, un impuesto de 50 dólares/tCO2e reduciría el PIB en -2% para la muestra total, pero produciría una variación positiva del 2,5% en países en desarrollo no miembros de la OCDE (p.27).",
+      "La reducción de impuestos sobre el capital disminuye el impacto negativo en 0,08 unidades porcentuales y la reducción de impuestos al trabajo en 0,06 unidades porcentuales (p.26).",
+      "Para varios países de la región (Argentina, Brasil, Colombia, Honduras, Nicaragua, Perú, Uruguay) un nivel bajo de impuesto de 5-10 dólares/tCO2e sería óptimo incluso sin reutilización, con efectos positivos de 0,01-0,23% del PIB (p.29).",
+      "Bolivia, Ecuador y Venezuela destacan con nivel óptimo de 20-50 dólares/tCO2e y beneficios de 1,16-3,01% del PIB por su alta intensidad energética (p.29).",
+      "Chile, México y Panamá muestran impacto negativo persistente aun con reutilización de ingresos, asociado a pertenencia a la OCDE (Chile, México) y alto volumen comercial (Panamá) (p.29)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La aplicación de un impuesto al carbono en América Latina tendría impactos positivos en el PIB al generar incentivos para la implementación de tecnologías más eficientes en el uso de energía y para el desarrollo de sectores menos intensivos energéticamente, incluso sin considerar esquemas de reutilización de ingresos fiscales.",
+        "Los esquemas de reutilización de ingresos fiscales asociados a la reducción de impuestos sobre factores productivos (capital y trabajo) permiten reducir significativamente los costos macroeconómicos del impuesto y pueden generar un doble dividendo, con beneficios que oscilan entre 0,01-8,26% del PIB dependiendo del país y del esquema de reutilización.",
+        "La aplicación del impuesto al carbono debe considerarse fundamentalmente en el contexto de una Reforma Fiscal Ambiental (RFA), donde el diseño del instrumento impositivo y el esquema de reutilización de impuestos son cruciales para maximizar los beneficios."
+      ],
+      "recomendaciones": [],
+      "nota": "El documento es de naturaleza analítica y de estimación preliminar, no de recomendación de política. Las 'recomendaciones' del cierre son de carácter general: complementar con análisis detallado por país y considerar la RFA como marco. No formula una agenda de acción operativa concreta."
+    },
+    "resumen_narrativo": "Este estudio de la CEPAL aplica un meta-análisis de 262 estimaciones provenientes de 35 modelos de equilibrio general computable para simular los efectos de un impuesto al carbono sobre el PIB en 18 países latinoamericanos. Los resultados muestran que los efectos están condicionados por el nivel de desarrollo, la intensidad energética y los esquemas de reciclaje fiscal: mientras la OCDE enfrenta impactos negativos, los países en desarrollo no miembros podrían beneficiarse incluso sin reutilización de ingresos. Las simulaciones indican que un impuesto de 50 dólares/tCO2e con reducción de impuestos al capital o al trabajo generaría un doble dividendo en la mayoría de los países de la región, con beneficios de hasta 8,26% del PIB en el caso más favorable."
+    },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "7-8",
+      "resumen": "Encuadra el cambio climático como externalidad negativa global y falla de mercado que requiere instrumentos fiscales como impuestos pigouvianos al CO2. Plantea que, aunque el uso de impuestos al carbono crece internacionalmente, persisten debates sobre sus efectos sobre el producto, la distribución y la competitividad. Señala que en América Latina solo México y Chile aplican este impuesto, por lo que se recurre al meta-análisis y la función de transferencia de beneficios para una evaluación preliminar e hipotética. El objetivo principal es estimar los impactos de un impuesto al carbono con y sin reciclaje fiscal en el PIB de los países de la región.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "El cambio climático puede considerarse, desde una óptica económica, como la consecuencia de una externalidad negativa global que pone en riesgo la preservación de un bien público global como el clima",
+          "pagina": 8
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "persisten debates intensos, sobre los efectos finales y colaterales sobre variables como la trayectoria de emisiones de CO2, el producto, la distribución del ingreso o la competitividad internacional de un país",
+          "pagina": 8
+        },
+        {
+          "dimension": "desafios",
+          "cita": "el análisis de los efectos potenciales en América Latina es particularmente complejo; ya que no existe evidencia directa de su uso, con excepción de México y Chile",
+          "pagina": 8
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Marco general y evidencia de los efectos macroeconómicos de un impuesto al carbono",
+      "nivel": 1,
+      "paginas": "9-16",
+      "resumen": "Capítulo teórico-revisional que describe los mecanismos de transmisión del impuesto al carbono a la economía. La subsección A analiza el impuesto en el marco del análisis macroeconómico: sus efectos directos (aumento de precios relativos), indirectos (estimulo a energías renovables) y colaterales sobre empleo, inversión, competitividad y distribución del ingreso. Revisa la hipótesis del doble dividendo y la evidencia internacional heterogénea. La subsección B sitúa el impuesto al carbono en el marco de la Reforma Fiscal Ambiental (RFA), documentando la experiencia europea desde 1990 (Finlandia, Noruega, Suecia, Dinamarca) y las estrategias de reutilización de ingresos.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. El impuesto al carbono en el análisis macroeconómico",
+          "nivel": 2,
+          "paginas": "9-14",
+          "resumen": "Desarrolla el marco teórico del impuesto al carbono como instrumento de política pública. Define el impuesto como una tasa sobre combustibles fósiles trasladada a precios de electricidad y productos intensivos en energía. Describe seis efectos: (i) aumento de precios relativos, (ii) estímulo a energías limpias, (iii) incertidumbre sobre la sensibilidad precio-demanda, (iv) efectos colaterales sobre empleo e inversión vía costos primarios y de interacción, (v) impacto sobre competitividad internacional y carbon leakage, y (vi) efectos heterogéneos sobre distribución del ingreso. Revisa la literatura sobre el doble dividendo (Pearce 1991, Repetto 1992, Goulder 1995) y cinco usos alternativos de los ingresos tributarios. Incluye el Diagrama 1 sobre canales de transmisión de impactos macroeconómicos.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Un impuesto al carbono (CO2) consiste fundamentalmente en aplicar una tasa impositiva sobre el precio de todas las formas de combustibles fósiles",
+              "pagina": 10
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "un impuesto al carbono genera costos económicos adicionales que pueden clasificarse en primarios y de interacción",
+              "pagina": 12
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "La evidencia internacional disponible sobre los efectos de un impuesto al carbono aún es incipiente y heterogénea",
+              "pagina": 11
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "el objetivo de una reforma fiscal ambiental o verde busca disminuir los impuestos en el empleo o el capital para amortiguar los impactos económicos negativos asociados a la implementación del impuesto",
+              "pagina": 14
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. El impuesto al carbono y la reforma fiscal ambiental",
+          "nivel": 2,
+          "paginas": "14-16",
+          "resumen": "Define la Reforma Fiscal Ambiental (RFA) como un cambio en la estructura impositiva —no un incremento de impuestos— que desplaza la carga del trabajo y el capital hacia actividades que dañan el medio ambiente (EEA, 2005). Documenta la experiencia internacional de impuestos al carbono en Europa desde 1990, con el Cuadro 1 que resume las tasas y características de Finlandia, Noruega, Suecia, Dinamarca, Suiza y otros países. Menciona la experiencia de Chile y México en América Latina.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "una reforma del sistema nacional de impuestos donde existe un cambio en la carga fiscal de impuestos convencionales",
+              "pagina": 15
+            },
+            {
+              "dimension": "avances_implementacion",
+              "cita": "Finlandia introdujo un impuesto al carbono a partir de 1990; más adelante (1991–1992) fue introducido en Noruega, Suecia y Dinamarca",
+              "pagina": 16
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "II. Meta-análisis de los efectos de un impuesto al carbono en América Latina",
+      "nivel": 1,
+      "paginas": "17-32",
+      "resumen": "Núcleo empírico del documento. Presenta la metodología de meta-análisis con 262 estimaciones de 35 estudios en 31 países, y una meta-regresión que identifica los factores que condicionan el impacto del impuesto al carbono sobre el PIB. El Cuadro 3 reporta el efecto agregado (-0,01% por dólar de impuesto), con diferencia significativa entre OCDE (-0,036%) y no OCDE (0,006%). La meta-regresión (Cuadro 7) muestra que los modelos dinámicos GEM tienen menor impacto negativo, que la reducción de impuestos al capital disminuye el impacto en 0,08 unidades porcentuales y la de impuestos al trabajo en 0,06, y que la intensidad energética y la carga fiscal inciden significativamente. El Cuadro 8 presenta simulaciones bajo tres niveles de impuesto (20, 50, 100 dólares/tCO2e) y tres escenarios de reutilización. Las simulaciones de transferencia de beneficios (Cuadro 9, Gráfico 4) estiman impactos por país: sin reutilización, un impuesto de 50 dólares/tCO2e tendría efecto positivo en Bolivia, Ecuador y Venezuela (1,16-3,01%), efecto modesto en Argentina, Brasil, Colombia y otros (0,01-0,23%), y efecto negativo en Chile, México y Panamá. Con reciclaje fiscal vía reducción de impuestos al capital, la mayoría de los países alcanzaría un nivel óptimo de 20-50 dólares/tCO2e con beneficios de hasta 8,26% del PIB.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "los estudios con modelos dinámicos GEM tienen un menor impacto negativo sobre el PIB de un impuesto al carbono",
+          "pagina": 26
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "el coeficiente asociado a la variable OCDE es positivo y estadísticamente significativo; lo que sugiere que el impacto sobre el PIB de un impuesto al carbono es mayor en las economías desarrolladas",
+          "pagina": 26
+        },
+        {
+          "dimension": "oportunidades",
+          "cita": "existe un amplio potencial para la mejora de procesos productivos y la adaptación de nuevas tecnologías",
+          "pagina": 27
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "III. Conclusiones",
+      "nivel": 1,
+      "paginas": "33-36",
+      "resumen": "Sintetiza los hallazgos del meta-análisis: el efecto promedio es de -0,01% por dólar de impuesto, con diferencia significativa entre OCDE y no OCDE. Reitera que los modelos dinámicos GEM muestran menor impacto negativo, y que la reducción de impuestos al capital y al trabajo reduce significativamente los costos económicos. Reafirma que para varios países de América Latina el impuesto podría generar un doble dividendo, incluso sin reutilización de ingresos. Enmarca la aplicación del impuesto en una Reforma Fiscal Ambiental con diseño adecuado del instrumento y del esquema de reutilización. Señala que los resultados son una primera aproximación y recomienda complementarlos con análisis detallado por país.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "la distribución de las estimaciones de un dólar de impuesto presenta un notable sesgo a la izquierda, con un valor medio de -0,01%, y una dispersión en el rango de -0,1 a +0,04%",
+          "pagina": 34
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "el coeficiente asociado a la variable OCDE es positivo y estadísticamente significativo lo que sugiere que el costo macroeconómico de la aplicación de un impuesto al carbono es mayor en las economías desarrolladas",
+          "pagina": 35
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "la aplicación de un impuesto al carbono debe considerarse, fundamentalmente, en el contexto de una reforma fiscal ambiental",
+          "pagina": 36
+        },
+        {
+          "dimension": "oportunidades",
+          "cita": "sería importante complementar los resultados de esta investigación con un análisis detallado por país",
+          "pagina": 36
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "No",
+      "evidencia": "El documento es un estudio de estimación econométrica (meta-análisis y transferencia de beneficios) que no propone un paquete coordinado de inversión o transformación productiva. No nombra sectores estratégicos con instrumentos identificables ni presenta un programa de acción a escala de modelo de desarrollo. La propuesta se limita a un marco analítico de Reforma Fiscal Ambiental sin desglose de inversiones, sectores ni eficiencias. Chequeo negativo: no hay enumeración de sectores estratégicos del tipo transición energética, electromovilidad, bioeconomía, economía circular o salud/cuidados; no hay inversión masiva y coordinada; no se conecta con las tres eficiencias (schumpeteriana, keynesiana, ambiental). El carácter preliminar e hipotético del estudio (declarado explícitamente en p.7 y p.35) refuerza la ausencia de propuesta concreta.",
+      "citas": [
+        {
+          "cita": "este estudio no pretende sustituir a un análisis posterior que utilice información real sobre la implementación del impuesto",
+          "pagina": 8
+        },
+        {
+          "cita": "los resultados de este documento únicamente se deben considerar como una primera aproximación al impacto que podría tener un impuesto al carbono sobre el PIB",
+          "pagina": 36
+        }
+      ],
+      "nota": "El No es por diseño del documento (estudio de estimación preliminar), no por omisión descuidada. El documento no se propone como propuesta de transformación productiva sino como ejercicio de cuantificación hipotética."
+    },
+    "articulacion_actores": {
+      "veredicto": "No",
+      "evidencia": "El documento no aborda la articulación de actores, sectores o niveles de gobierno. No propone mecanismos de coordinación, plataformas, consejos ni procesos multiactor. El análisis es puramente econométrico y no incluye dimensiones de gobernanza. Chequeo negativo: no se nombran actores específicos (gobiernos, sector privado, sociedad civil), no se propone ningún mecanismo de coordinación, no se describen instancias vigentes de articulación dentro del ámbito de aplicación.",
+      "citas": [],
+      "nota": "El No responde a la naturaleza del documento (estudio econométrico), no a una omisión dentro de un documento que aborde gobernanza."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento menciona que el impuesto al carbono 'generaría incentivos para la implementación de nuevas tecnologías, más eficientes en el uso de energía y generaría incentivos para el desarrollo de otros sectores de la economía menos intensivos en el uso de energía' (p.27). Sin embargo, no enumera sectores o actividades productivas concretas (solo habla genéricamente de 'nuevas tecnologías' y 'otros sectores'), y no conecta explícitamente con empleo, productividad o desigualdad. Falta el vínculo desarrollado con empleo/productividad/desigualdad que exige el criterio.",
+      "citas": [
+        {
+          "cita": "los resultados sugieren que la aplicación de un impuesto al carbono para los países de América Latina podría tener impactos positivos en el PIB ya que generaría incentivos para la implementación de nuevas tecnologías",
+          "pagina": 28
+        }
+      ],
+      "nota": "Parcial porque enumera el tipo de oportunidad (tecnologías eficientes, sectores menos intensivos) pero no concreta sectores específicos ni vincula con empleo, productividad o desigualdad."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "No",
+      "evidencia": "El documento no tiene una sección de recomendaciones ni una lista de acciones operativas. El cierre (sección III, Conclusiones) reitera hallazgos analíticos y enmarca la política en una Reforma Fiscal Ambiental genérica. Las formulaciones son de voz analítica, no normativa: 'la aplicación de un impuesto al carbono debe considerarse, fundamentalmente, en el contexto de una reforma fiscal ambiental' (p.35). No hay ítems desglosables con verbo + objeto específico.",
+      "desglose_items": [],
+      "tally": "0 de 0 ítems (no hay sección de recomendaciones desglosable)",
+      "citas": [],
+      "nota": "El No se debe a que el documento no formula recomendaciones operativas. El cierre es sintético y diagnóstico, con una sola sugerencia general (complementar con análisis por país). No hay lista de acciones que someter al test de concreción."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 10,
+      "nombre": "Macroeconomía y fiscalidad",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la tensión entre los potenciales costos macroeconómicos de un impuesto al carbono (reducción del PIB, pérdida de competitividad, regresividad) y los beneficios potenciales de una Reforma Fiscal Ambiental que sustituya impuestos distorsivos por gravámenes ambientales, generando un doble dividendo. La contradicción estructural es que un instrumento diseñado para corregir una falla de mercado ambiental puede generar新的 distorsiones económicas, pero el reciclaje fiscal puede resolver esa paradoja.",
+      "filtro_categoria_primaria": "El objeto del documento es el impacto macroeconómico de un instrumento fiscal (impuesto al carbono) sobre el PIB, medido mediante meta-análisis econométrico. El instrumento es el impuesto al carbono; el objeto es su efecto sobre la variable macroeconómica. Se descarta #6 Sostenibilidad ambiental como primaria porque el clima/ambiente es el contexto o restricción sobre la que se analiza el instrumento fiscal, no el sujeto de transformación. El hilo conductor es fiscal-macroeconómico: cómo diseñar un impuesto para minimizar costos y maximizar beneficios económicos.",
+      "secundaria_obligatoria": "La sostenibilidad ambiental (#6) cumple la función de ámbito de aplicación y finalidad implícita del instrumento: el impuesto al carbono se analiza porque busca reducir emisiones de GEI y corregir externalidades ambientales. Sin ese propósito ambiental, el impuesto no existiría. Es la dimensión que da sentido al objeto fiscal.",
+      "justificacion_anti_copia": "El documento aplica meta-análisis de 262 estimaciones de modelos de equilibrio general computable para cuantificar el efecto de un impuesto al carbono sobre el PIB en 18 países latinoamericanos (p.17-19). Usa la función de transferencia de beneficios para simular impactos por país con coeficientes de meta-regresión (p.19-20). El Cuadro 7 reporta la meta-regresión con variables de reciclaje fiscal, estructura productiva y nivel de desarrollo (p.26). El Cuadro 9 presenta resultados por país bajo tres escenarios de reutilización de ingresos (p.29). El enfoque es econométrico y de simulación, no de propuesta normativa.",
+      "validacion_anclas": "Se asemeja al ancla doc3 (#10 Macroeconomía y fiscalidad / #6 Sostenibilidad ambiental) en que el instrumento financiero-fiscal es el objeto de análisis y la dimensión ambiental define la finalidad. Se diferencia en que doc3 analiza bonos verdes (mercado financiero) mientras este documento analiza un impuesto al carbono (instrumento fiscal), pero la lógica objeto/instrumento es la misma: el mercado o instrumento fiscal como sujeto, la transición verde como contexto."
+    },
+    "tipo_documento_climatico": "Estudio de estimación econométrica (meta-análisis y transferencia de beneficios)",
+    "nivel_aplicacion": "Regional (18 países de América Latina)",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

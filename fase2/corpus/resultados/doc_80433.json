@@ -1,0 +1,394 @@
+{
+  "documento": {
+    "num_muestra": 193,
+    "titulo": "Reversing direction in the used clothing crisis: Global, European, and Chilean perspectives",
+    "autoria": "Luca Brunello, Lorena Palomo y Beatriz O’Brien",
+    "handle": "https://hdl.handle.net/11362/80433",
+    "simbolo": "ECE/TRADE/484 LC/TS.2024/52",
+    "isbn": "978-92-1-106514-5",
+    "fecha": "2024",
+    "tipo_documento": "Estudio técnico / informe conjunto UNECE-ECLAC",
+    "paginas_cuerpo": 61,
+    "paginas_totales": 92,
+    "idioma": "en",
+    "tiene_resumen_ejecutivo": true,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cómo pueden reorientarse los flujos globales de ropa de segunda mano para reducir la exportación de residuos textiles y mejorar sus resultados económicos, sociales y ambientales, especialmente en Europa como origen y Chile como destino?",
+    "alcance": {
+      "ambito_aplicacion": "Global, con la Unión Europea como origen y Chile —en particular Tarapacá, Iquique, ZOFRI y Alto Hospicio— como destino.",
+      "referentes_dependencias": "UNECE, ECLAC/UNECLAC, UN Comtrade, WITS, UN/CEFACT, Unión Europea, acuerdos UE-Chile y experiencias de Francia, Kenya y África Oriental.",
+      "sectorial": "Comercio de ropa usada y residuos textiles; cadenas de moda, clasificación, reutilización, reciclaje, gestión de residuos, economía circular, diseño, trazabilidad y empleo.",
+      "temporal": "Evolución desde la liberalización textil y el fast fashion; estadísticas principalmente 1992–2022, trabajo de campo de marzo-abril de 2023 y recomendaciones situadas hasta 2024."
+    },
+    "hallazgos_principales": [
+      "El comercio mundial de ropa descartada aumentó casi siete veces en tres décadas; en 2021 la Unión Europea representó 30% del valor exportado, China 16% y Estados Unidos 15% (p.11 y p.65).",
+      "En Alto Hospicio hay vertederos ilegales que cubren aproximadamente 300 hectáreas y contienen unas 30.000 toneladas; la quema libera metales pesados, gases ácidos, partículas y dioxinas (p.21–22).",
+      "ZOFRI recibió en promedio 64.876 toneladas anuales entre 2019 y 2022; 73,1% permaneció en la extensión de Iquique, 21,4% fue al resto de Chile y 5,4% se reexportó (p.26).",
+      "En Europa, la clasificación es costosa y la capacidad de reciclaje baja: solo 1% de los textiles recogidos vuelve a ropa nueva, mientras cerca de la mitad se downcyclea (p.52).",
+      "El fast fashion combina rotación rápida, fibras sintéticas baratas y deslocalización; las fibras sintéticas pasaron de 16 a 42 millones de toneladas entre 1992 y 2010 (p.59).",
+      "Las recomendaciones combinan criterios internacionales, trazabilidad, EPR, infraestructura de clasificación y reciclaje, estrategia circular y alianzas público-privadas (p.66–70)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La crisis resulta de una cadena global: el fast fashion genera prendas de bajo valor, Europa no tiene capacidad suficiente para clasificarlas y reciclarlas, y los destinos absorben los residuos que no pueden vender ni recuperar.",
+        "En Chile, la entrada liberal, los bultos heterogéneos, los mercados limitados y la infraestructura insuficiente explican que parte importante termine en el desierto de Atacama, aunque existan iniciativas circulares y de coordinación ampliables.",
+        "La respuesta debe actuar simultáneamente sobre diseño, comercio, trazabilidad, responsabilidad del productor, clasificación, reciclaje y gestión territorial; ninguna medida única basta."
+      ],
+      "recomendaciones": [
+        "Modificar acuerdos comerciales para fijar criterios internacionales de calidad, definiciones compartidas y seguimiento de flujos.",
+        "En Chile, reforzar aduanas y trazabilidad, integrar ZOFRI a SICEX, crear una estrategia circular, establecer alianzas y fondos, y acelerar responsabilidad del productor, control de residuos, remediación y evaluación.",
+        "En la Unión Europea, impulsar diseño circular, EPR, plantas de clasificación y reciclaje, pasaportes digitales, campañas y medidas frente al fast fashion."
+      ],
+      "nota": "La agenda normativa está organizada por acuerdos comerciales, países importadores —con foco en Chile— y países exportadores —con foco en la Unión Europea—."
+    },
+    "resumen_narrativo": "El informe sigue la ropa de segunda mano desde el fast fashion y las cadenas europeas hasta ZOFRI y los vertederos de Alto Hospicio. Chile recibió aproximadamente 124.000 toneladas en 2022, mientras unos vertederos ilegales cubren 300 hectáreas del desierto de Atacama. La baja calidad, las fibras mezcladas, la clasificación costosa y la falta de reciclaje convierten el comercio en una transferencia de residuos, aunque existan iniciativas locales de recuperación y empleo. Por eso propone coordinar acuerdos UE-Chile, trazabilidad, responsabilidad ampliada del productor, infraestructura circular y remediación territorial."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introduction",
+      "nivel": 1,
+      "paginas": "20-20",
+      "resumen": "La introducción sitúa el problema en el ODS 12 y contrapone el potencial del comercio para reutilizar materiales con su función actual de transportar residuos en una economía lineal. Define el objetivo del estudio: conocer flujos, cadenas de valor y realidades socioeconómicas, con la UE como origen y Chile como destino. Presenta el trabajo de campo de 2023, las fuentes estadísticas y regulatorias, y el recorrido por Chile, Europa, el sistema global y las recomendaciones.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "In the current linear ‘take-make-waste’ economy, however, trade is a vehicle for transporting waste.",
+          "pagina": 20
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Adopting these principles leads to implementing measures such as encouraging the reuse of products and materials, increasing efficiency in production processes, promoting recycling, and minimising waste.",
+          "pagina": 20
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Chapter 1. The Chilean perspective",
+      "nivel": 1,
+      "paginas": "21-44",
+      "resumen": "El capítulo reconstruye con entrevistas, trabajo de campo y estadísticas la cadena chilena desde ZOFRI hasta mercados, reexportación y vertederos. Documenta 124.000 toneladas recibidas en 2022, unos 300 hectáreas de vertederos en Alto Hospicio y efectos sobre aire, salud, suelo y aguas; describe la clasificación manual de hasta 120 categorías y la división laboral por género. Examina El Agro, la feria itinerante y La Quebradilla, además de tarifas, certificados, aduanas y vacíos de gestión. Cierra con la Ley 20.920, los APL, AGEC, Tarapacá Circular y Casa de Oficios como bases para prevención, reutilización, empleo y remediación. El argumento muestra que la regulación de entrada, la organización de los comerciantes y las capacidades locales determinan si la ropa conserva valor o se transforma en residuo. También contrasta la entrada por ZOFRI con otros puertos, identifica la ausencia de infraestructura autorizada y destaca la necesidad de medir impactos en aire, suelo y agua antes de diseñar remedios. Las iniciativas locales no eliminan el problema, pero muestran cómo la recuperación de prendas puede sostener emprendimientos, capacitación y empleos para grupos con menor acceso al mercado laboral. El capítulo, por tanto, conecta regulación, comercio, salud pública y economía circular en una misma cadena territorial y ofrece la base empírica para las recomendaciones dirigidas a Chile.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "In 2021 and 2022, the Atacama Desert in Chile drew the international community’s attention due to the pollution caused by textile waste",
+          "pagina": 21
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Since there are no authorised places to dispose of second-hand textiles and clothing, the only solution has been to burn them, which can cause air pollution for up to 10 days and negatively impact the health of individuals in the surrounding area.",
+          "pagina": 22
+        },
+        {
+          "dimension": "brechas_implementacion",
+          "cita": "The lack of a dedicated regulatory framework for soil management and remediation has had a significant impact.",
+          "pagina": 37,
+          "subtipo_brecha": "retrospectiva"
+        },
+        {
+          "dimension": "avances_implementacion",
+          "cita": "The working group comprises the Regional Director of Customs, ZOFRI, the SEREMI of transport, the SEREMI of Health and the municipalities of Iquique and Alto Hospicio.",
+          "pagina": 38
+        },
+        {
+          "dimension": "oportunidades",
+          "cita": "The work model of Casa de Oficios integrates people with disabilities, the unemployed, and the elderly.",
+          "pagina": 43
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Chapter 2. The European perspective",
+      "nivel": 1,
+      "paginas": "45-56",
+      "resumen": "El capítulo analiza a Europa como gran región exportadora mediante entrevistas y literatura. Explica que las exportaciones crecieron 31% entre 2020 y 2021 y que cinco hubs concentran 75% del volumen exportado en la UE, mientras Alemania recolectó un millón de toneladas en 2022 pero recicló menos de una cuarta parte. La clasificación manual, las fibras mezcladas y la baja valorización explican que solo 1% vuelva a ropa nueva. Examina CEAP, la Estrategia de Textiles, el pasaporte digital y EPR, incluida la experiencia francesa, y concluye que diseño circular y trazabilidad deben reducir la transferencia de residuos. La experiencia de Francia muestra cómo una organización de responsabilidad del productor puede financiar reciclaje, investigación, puntos de recogida y empleo inclusivo, aunque persistan los flujos hacia África.",
+      "dimensiones": [
+        {
+          "dimension": "tendencias",
+          "cita": "In 2021, the United Kingdom and Germany were Europe’s major exporters, ranking as the third and fourth largest exporters in the world respectively just after the United States and China (ibid).",
+          "pagina": 48
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Low recycling capacity: the recycling capacity in Europe is far below the volume of discarded clothes, thus creating excess clothing that is exported.",
+          "pagina": 49
+        },
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "One of the main building blocks of the European Green Deal is the updated Circular Economy Action Plan (CEAP), adopted in March 2020 by the European Commission.",
+          "pagina": 53
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "The DPP will help consumers make informed choices and give repairers, refurbishers, and upcyclers access to relevant information.",
+          "pagina": 55
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Chapter 3. The Global Perspective",
+      "nivel": 1,
+      "paginas": "57-65",
+      "resumen": "El capítulo conecta liberalización, deslocalización, fibras sintéticas y fast fashion con la expansión de la ropa usada. Identifica un comercio de 9.300 millones de dólares en 2021, casi siete veces mayor en volumen que tres décadas antes, y examina exportadores e importadores. Muestra que la producción sintética pasó de 16 a 42 millones de toneladas entre 1992 y 2010, que la moda emitió unos 2.100 millones de toneladas de gases de efecto invernadero en 2018 y que menos de 1% se recicla en textiles de igual o mayor valor. Concluye que la economía circular debe orientar las recomendaciones comerciales y domésticas.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "The textile industry has evolved from a production model based on natural fibres and protectionist policies for local industry to a model where synthetic fibres have become pervasive, production has been offshored, and the speed of manufacturing and distribution of products has increased rapidly.",
+          "pagina": 57
+        },
+        {
+          "dimension": "tendencias",
+          "cita": "The volume of this trade grew almost sevenfold over the past three decades",
+          "pagina": 61
+        },
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "In 2018, the fashion industry emitted around 2. 1 billion tones of greenhouse gases (GHG), equivalent to 4% of the global total.",
+          "pagina": 60
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "The fashion industry must move from its current linear approach (take-make-waste) to a circular economy.",
+          "pagina": 60
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Recommendations",
+      "nivel": 1,
+      "paginas": "66-70",
+      "resumen": "La sección final convierte el diagnóstico en una agenda multinivel organizada por acuerdos comerciales, países importadores —con foco en Chile— y países exportadores —con foco en la UE—. Propone criterios y definiciones internacionales, estándares de seguimiento, trazabilidad digital desde Iquique y una estrategia circular que mantenga textiles como factor productivo. Para Chile añade alianzas, fondos, empleo, EPR, inspecciones, remediación y evaluación; para la UE añade diseño circular, plantas, pasaportes digitales, campañas y medidas sobre fast fashion. El cierre sostiene que se requiere coordinación entre países, autoridades, comunidades y actores de toda la cadena.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Develop minimum international criteria for second-hand clothing exports to ensure that Chile and other importing countries only receive garments that have a market value, or that can be recycled.",
+          "pagina": 66
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Set up public-private alliances to undertake recycling projects and other circular economy activities through tax-extension schemes and funds to support entrepreneurship, innovation, and job creation for vulnerable groups",
+          "pagina": 68
+        },
+        {
+          "dimension": "oportunidades",
+          "cita": "Support for circular economy enterprises in the area would help generate jobs",
+          "pagina": 68
+        },
+        {
+          "dimension": "desafios",
+          "cita": "No single solution can reduce the massive volume of used garments, most of which have little economic value, that end up as textile waste around the developing world, including in the Atacama Desert.",
+          "pagina": 70
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "La sección final articula un paquete coordinado de acuerdos comerciales, políticas domésticas, diseño, EPR, trazabilidad, reciclaje y gestión territorial. Combina instrumentos regulatorios, inversión e innovación con economía circular, empleo y reducción de impactos ambientales.",
+      "citas": [
+        {
+          "cita": "Chile recognises that addressing the harmful effects of second-hand clothing imports, particularly in the Atacama Desert, requires action at home and abroad.",
+          "pagina": 66
+        },
+        {
+          "cita": "Set up public-private alliances to undertake recycling projects and other circular economy activities through tax-extension schemes and funds to support entrepreneurship, innovation, and job creation for vulnerable groups",
+          "pagina": 68
+        }
+      ],
+      "nota": "Cumple el test de paquete coordinado y el de sectores/eficiencias."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "Nombra mecanismos de coordinación dentro del ámbito: APL entre empresas y autoridades, alianzas público-privadas y grupos de trabajo con socios gubernamentales y actores de la cadena. No se limita a enumerar tipos de actores.",
+      "citas": [
+        {
+          "cita": "Clean Production Agreements (APL by its acronym in Spanish) are voluntary agreements between the private sector (a group of firms within an industry) and public authorities responsible for matters such as the environment, health, labour safety, energy, water efficiency and productive development.",
+          "pagina": 41
+        },
+        {
+          "cita": "UNECE and UNECLAC will engage with government partners in the EU and Chile on the issues raised in this report, reach out to stakeholders across the value chain to convene working groups on systemic solutions, and seek to align legislation in the EU and Chile.",
+          "pagina": 70
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Sí",
+      "evidencia": "Enumera reutilización, reparación, upcycling, reciclaje, clasificación, innovación y trazabilidad, y desarrolla sus vínculos con empleo, emprendimiento e innovación para mujeres, personas con discapacidad, desempleados y migrantes en Tarapacá.",
+      "citas": [
+        {
+          "cita": "The thirty ventures that are part of AGEC are mainly from Iquique and Alto Hospicio.",
+          "pagina": 42
+        },
+        {
+          "cita": "The work model of Casa de Oficios integrates people with disabilities, the unemployed, and the elderly.",
+          "pagina": 43
+        },
+        {
+          "cita": "Support for circular economy enterprises in the area would help generate jobs",
+          "pagina": 68
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Reutilización, reciclaje, upcycling y revalorización de residuos",
+          "clasificacion": "CONCRETO",
+          "pagina": 42
+        },
+        {
+          "item": "Reparación y rediseño de prendas mediante Casa de Oficios",
+          "clasificacion": "CONCRETO",
+          "pagina": 43
+        },
+        {
+          "item": "Clasificación automatizada por fibra y color",
+          "clasificacion": "CONCRETO",
+          "pagina": 51
+        },
+        {
+          "item": "Trazabilidad e intercambio de información de cadenas textiles",
+          "clasificacion": "CONCRETO",
+          "pagina": 50
+        }
+      ],
+      "tally": "4 de 4 ítems pasan el test de concreción",
+      "nota": null
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "La voz normativa del cierre contiene instrumentos identificables: criterios y definiciones internacionales, trazabilidad, SICEX, controles aduaneros, estrategia circular, alianzas y fondos, EPR, planes de residuos, ley de suelos, plantas, pasaportes digitales, campañas y medidas frente al fast fashion.",
+      "citas": [
+        {
+          "cita": "Improve customs procedures at ZOFRI and mandate their integration into the Foreign Trade Single Window (SICEX).",
+          "pagina": 68
+        },
+        {
+          "cita": "Evaluate the environmental impacts of textile dumps.",
+          "pagina": 69
+        },
+        {
+          "cita": "Introduce an Extended Producer Responsibility (EPR) system that holds companies that put products on the market responsible for those products after use, incentivising improvements in quality, and increases in rates of repair, reuse, and recycling.",
+          "pagina": 69
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Desarrollar criterios internacionales mínimos de calidad",
+          "clasificacion": "CONCRETO",
+          "pagina": 66
+        },
+        {
+          "item": "Acordar definiciones legales y restricciones de calidad",
+          "clasificacion": "CONCRETO",
+          "pagina": 66
+        },
+        {
+          "item": "Usar el acuerdo UE-Chile como plantilla",
+          "clasificacion": "CONCRETO",
+          "pagina": 66
+        },
+        {
+          "item": "Establecer estándares y mecanismos de seguimiento",
+          "clasificacion": "CONCRETO",
+          "pagina": 67
+        },
+        {
+          "item": "Adoptar trazabilidad digital en Iquique y ZOFRI",
+          "clasificacion": "CONCRETO",
+          "pagina": 67
+        },
+        {
+          "item": "Integrar ZOFRI a SICEX",
+          "clasificacion": "CONCRETO",
+          "pagina": 68
+        },
+        {
+          "item": "Crear una Estrategia de Economía Circular para Textiles",
+          "clasificacion": "CONCRETO",
+          "pagina": 68
+        },
+        {
+          "item": "Establecer alianzas, esquemas tributarios y fondos",
+          "clasificacion": "CONCRETO",
+          "pagina": 68
+        },
+        {
+          "item": "Acelerar responsabilidad del productor y legislación de reciclaje",
+          "clasificacion": "CONCRETO",
+          "pagina": 68
+        },
+        {
+          "item": "Implementar un plan regional de control de residuos",
+          "clasificacion": "CONCRETO",
+          "pagina": 68
+        },
+        {
+          "item": "Acelerar la ley de suelos y aportar recursos de remediación",
+          "clasificacion": "CONCRETO",
+          "pagina": 69
+        },
+        {
+          "item": "Evaluar impactos ambientales y sanitarios de vertederos",
+          "clasificacion": "CONCRETO",
+          "pagina": 69
+        },
+        {
+          "item": "Fijar objetivos obligatorios de diseño y reciclabilidad",
+          "clasificacion": "CONCRETO",
+          "pagina": 69
+        },
+        {
+          "item": "Introducir EPR",
+          "clasificacion": "CONCRETO",
+          "pagina": 69
+        },
+        {
+          "item": "Desarrollar plantas de clasificación y reciclaje",
+          "clasificacion": "CONCRETO",
+          "pagina": 69
+        },
+        {
+          "item": "Ampliar pasaportes digitales, etiquetado y datos",
+          "clasificacion": "CONCRETO",
+          "pagina": 69
+        },
+        {
+          "item": "Ejecutar campañas y medidas contra fast fashion",
+          "clasificacion": "CONCRETO",
+          "pagina": 70
+        }
+      ],
+      "tally": "17 de 17 ítems pasan el test de concreción",
+      "nota": "La unidad cubre la lista completa del cierre; no cuenta como recomendación separada cada lugar o actor mencionado dentro de un ítem."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 9,
+      "nombre": "Integración económica",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la contradicción entre una moda que abarata y acelera el consumo y una cadena de ropa usada que desplaza costos ambientales y sociales hacia territorios con poca capacidad de recuperación. Convierte esa tensión en flujos concretos —exportación europea, clasificación chilena y vertederos de Atacama— y busca circuitos de reutilización, reparación y reciclaje.",
+      "filtro_categoria_primaria": "La primaria es ambiental porque el cierre busca reducir residuos, contaminación y emisiones mediante diseño, reciclaje, reutilización y remediación. Integración económica es secundaria: el comercio transfronterizo organiza el problema y exige acuerdos, definiciones y trazabilidad, pero funciona como canal regulatorio para cambiar resultados ambientales.",
+      "secundaria_obligatoria": "La integración económica conecta exportadores e importadores, acuerdos UE-Chile, SICEX, estándares y cadenas de valor; permite intervenir el flujo transfronterizo y repartir información y responsabilidades en ambos extremos.",
+      "justificacion_anti_copia": "La clasificación se apoya en datos y mecanismos propios: 124.000 toneladas recibidas por Chile en 2022; unos 300 hectáreas de vertederos en Alto Hospicio; clasificación de hasta 120 categorías en ZOFRI; solo 1% de textiles europeos recogidos convertido en ropa; y recomendaciones de calidad, pasaportes digitales, EPR, SICEX, alianzas y remediación.",
+      "validacion_anclas": "Se aproxima al ancla #13, Comercio, cambio climático y el impuesto fronterizo al carbono, porque un flujo y una regulación internacional estructuran la pregunta. Se diferencia en que aquí el cierre se concentra en residuos textiles, circularidad, EPR y clasificación, por lo que sostenibilidad ambiental es primaria e integración económica secundaria."
+    },
+    "tipo_documento_climatico": "Estudio técnico aplicado sobre comercio, economía circular y gestión de residuos textiles",
+    "nivel_aplicacion": "Global, con estudios de caso y recomendaciones para la Unión Europea y Chile, especialmente Tarapacá",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

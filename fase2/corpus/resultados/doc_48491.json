@@ -1,0 +1,906 @@
+{
+  "documento": {
+    "num_muestra": 2,
+    "titulo": "Diagnóstico situacional de los sistemas nacionales de inversión pública: Panamá 2020",
+    "autoria": null,
+    "handle": "https://hdl.handle.net/11362/48491",
+    "simbolo": null,
+    "isbn": null,
+    "fecha": "2020",
+    "tipo_documento": "Documento de proyecto o estudio técnico",
+    "paginas_cuerpo": 143,
+    "paginas_totales": 150,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Qué fortalezas, barreras y oportunidades presenta el sistema nacional de inversión pública de Panamá para incorporar la reducción del riesgo de desastres y la adaptación sostenible e incluyente en el ciclo de los proyectos?",
+    "alcance": {
+      "ambito_aplicacion": "Panamá, con referencias regionales al SICA/COSEFIN",
+      "referentes_dependencias": "CMNUCC, ODS, Marco de Sendai, CEPREDENAC y Euroclima+",
+      "sectorial": "Sistema Nacional de Inversión Pública; agua y saneamiento, educación, agropecuario, salud e información territorial e hidrometeorológica",
+      "temporal": "Diagnóstico 2020; instrumentos vigentes y en preparación con horizontes 2024, 2030 y 2050"
+    },
+    "hallazgos_principales": [
+      "Panamá cuenta con diez sectores, 29 contribuciones, seis planes sectoriales, cuatro guías técnicas y 17 indicadores en la actualización 2020 de su NDC (p.21).",
+      "La Plataforma Nacional de Gestión Integral de Riesgo de Desastres articula instituciones públicas, sociedad civil, empresa privada y ONG, y coordina actividades con CEPREDENAC (p.51).",
+      "La guía general y el protocolo ARD ofrecen puntos de entrada para el análisis de amenazas, vulnerabilidad y costo-beneficio, pero el diagnóstico encuentra insuficiente explicitación de costos, beneficios y adaptación en evaluaciones financieras y sociales (p.101).",
+      "La ETESA opera una red hidrometeorológica nacional de 214 estaciones meteorológicas y 98 hidrométricas, un insumo para decisiones sectoriales y alertas (p.130)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El principal activo de Panamá es una arquitectura institucional y normativa amplia, con entidades sectoriales, instrumentos de planificación, guías y productores de información que pueden insertar riesgo y resiliencia en la inversión pública.",
+        "El obstáculo central no es la ausencia total de instrumentos, sino su integración todavía desigual y poco explícita en los procedimientos de preinversión, evaluación, financiamiento y seguimiento de proyectos."
+      ],
+      "recomendaciones": [
+        "Institucionalizar y precisar en guías, protocolos y dictámenes técnicos la incorporación de amenazas, vulnerabilidades, medidas y costos de reducción de riesgo y respuesta climática durante todo el ciclo del proyecto.",
+        "Fortalecer la coordinación entre DPI-MEF, MiAMBIENTE, SINAPROC y los sectores priorizados, y mejorar el acceso y uso de información geográfica, hidrometeorológica y de vulnerabilidad para evaluar proyectos."
+      ],
+      "nota": "Las recomendaciones se reconstruyen de oportunidades y recomendaciones distribuidas en el diagnóstico; el índice no contiene un capítulo final autónomo de conclusiones o recomendaciones."
+    },
+    "resumen_narrativo": "El documento diagnostica cómo el SINIP de Panamá puede incorporar la reducción del riesgo de desastres y la adaptación sostenible e incluyente en proyectos públicos. Combina revisión normativa y de instrumentos con consultas a DPI-MEF, MiAMBIENTE, SINAPROC y los sectores de agua, salud, educación y agricultura. Identifica activos concretos, como la NDC actualizada, el protocolo ARD, la Plataforma Nacional de Gestión Integral de Riesgo de Desastres y la red de ETESA de 214 estaciones meteorológicas y 98 hidrométricas. Su conclusión es que el desafío consiste en volver explícitos y operativos esos activos dentro de la preparación, evaluación financiera, decisión y seguimiento de las inversiones."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Reconocimientos",
+      "nivel": 1,
+      "paginas": "1-20",
+      "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes.",
+      "dimensiones": [],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "21-22",
+      "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+      "dimensiones": [],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Presentación",
+      "nivel": 1,
+      "paginas": "23-24",
+      "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+      "dimensiones": [],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Marco estratégico institucional",
+      "nivel": 1,
+      "paginas": "25-46",
+      "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Instr umentos de gestión y normativos",
+          "nivel": 2,
+          "paginas": "25-46",
+          "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Instr umentos de gestión del desarrollo",
+              "nivel": 3,
+              "paginas": "26-28",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Instr umentos de gestión y normativos de inversión pública",
+              "nivel": 3,
+              "paginas": "29-30",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Instr umentos de gestión y normativos para la reducción del riesgo de desastres",
+              "nivel": 3,
+              "paginas": "31-34",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Instr umentos de gestión de cambio climático",
+              "nivel": 3,
+              "paginas": "35-41",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Fortalezas, barr eras y oportunidades",
+              "nivel": 3,
+              "paginas": "42-46",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento. El vínculo climático se expresa en la incorporación de riesgo, resiliencia o información ambiental dentro de la decisión pública.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Los instrumentos de gestión de inversión pública contemplan intervenciones dirigidas a prevenir y reducir el riesgo de los impactos del cambio climático, pese a que aún no se manifiesta de manera explícita la inclusión de la reducción de riesgo de desastres y la adaptación sostenible e incluyente al cambio climático en la inversión pública.",
+                  "pagina": 43
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "Los instrumentos de gestión de inversión pública contemplan intervenciones dirigidas a prevenir y reducir el riesgo de los impactos del cambio climático, pese a que aún no se manifiesta de manera explícita la inclusión de la reducción de riesgo de desastres y la adaptación sostenible e incluyente al cambio climático en la inversión pública.",
+                  "pagina": 43,
+                  "subtipo_brecha": "prospectiva"
+                },
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Los instrumentos de gestión de inversión pública contemplan intervenciones dirigidas a prevenir y reducir el riesgo de los impactos del cambio climático, pese a que aún no se manifiesta de manera explícita la inclusión de la reducción de riesgo de desastres y la adaptación sostenible e incluyente al cambio climático en la inversión pública.",
+                  "pagina": 43
+                },
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Los instrumentos de gestión de inversión pública contemplan intervenciones dirigidas a prevenir y reducir el riesgo de los impactos del cambio climático, pese a que aún no se manifiesta de manera explícita la inclusión de la reducción de riesgo de desastres y la adaptación sostenible e incluyente al cambio climático en la inversión pública.",
+                  "pagina": 43
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "II. Institucionalidad",
+      "nivel": 1,
+      "paginas": "47-58",
+      "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Institucionalidad para la planificación del desarr ollo",
+          "nivel": 2,
+          "paginas": "47",
+          "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Consejo de la Concertación Nacional para el Desarr ollo",
+              "nivel": 3,
+              "paginas": "47",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Institucionalidad para la inversión pública",
+          "nivel": 2,
+          "paginas": "48-49",
+          "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Ministerio de Economía y Finanzas",
+              "nivel": 3,
+              "paginas": "48-49",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Dir ección de Programación de Inversiones",
+              "nivel": 3,
+              "paginas": "48-49",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Dir ección de Inversiones, Concesiones y Riesgos del Estado",
+              "nivel": 3,
+              "paginas": "50",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Institucionalidad para la gestión de riesgo",
+          "nivel": 2,
+          "paginas": "50",
+          "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Sistema Nacional de Pr otección Civil (SINAPROC)",
+              "nivel": 3,
+              "paginas": "50",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Plataforma Nacional de Gestión Integral de Riesgo de Desastr es",
+              "nivel": 3,
+              "paginas": "50",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "D. Institucionalidad para el cambio climático",
+          "nivel": 2,
+          "paginas": "51-55",
+          "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Comité Nacional de Cambio Climático",
+              "nivel": 3,
+              "paginas": "51",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento. El vínculo climático se expresa en la incorporación de riesgo, resiliencia o información ambiental dentro de la decisión pública.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "La Plataforma Nacional de Gestión Integral de Riesgo de Desastres coordina actividades con el CEPREDENAC, además de que representa un foro de consulta multisectorial para la gestión integral de riesgo de desastres.",
+                  "pagina": 51
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "La Plataforma Nacional de Gestión Integral de Riesgo de Desastres coordina actividades con el CEPREDENAC, además de que representa un foro de consulta multisectorial para la gestión integral de riesgo de desastres.",
+                  "pagina": 51
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Comité Nacional de Lucha contra la Sequía y la Desertificación en Panamá",
+              "nivel": 3,
+              "paginas": "52-54",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Ministerio de Ambiente",
+              "nivel": 3,
+              "paginas": "52-54",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Dir ección de Cambio Climático",
+              "nivel": 3,
+              "paginas": "55",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "E. Fortalezas, barr eras y oportunidades",
+          "nivel": 2,
+          "paginas": "56-58",
+          "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+          "dimensiones": [],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "III. Funcionamiento del SNIP",
+      "nivel": 1,
+      "paginas": "59-118",
+      "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Or ganización del SINIP",
+          "nivel": 2,
+          "paginas": "59",
+          "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Ámbito de aplicación",
+          "nivel": 2,
+          "paginas": "60",
+          "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Alcance de la inversión pública",
+          "nivel": 2,
+          "paginas": "60",
+          "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Ciclo de pr oyectos y procesos en cada fase",
+          "nivel": 2,
+          "paginas": "61-63",
+          "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Fuentes de financiamiento",
+          "nivel": 2,
+          "paginas": "64-65",
+          "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "F. Evolución de la inversión pública",
+          "nivel": 2,
+          "paginas": "66-67",
+          "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "G. Fortalezas, barr eras y oportunidades",
+          "nivel": 2,
+          "paginas": "68",
+          "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "IV . Sectores priorizados",
+          "nivel": 2,
+          "paginas": "69-75",
+          "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "A. Agua y saneamiento: Instituto de Acueductos y Alcantarillados Nacionales",
+          "nivel": 2,
+          "paginas": "69-75",
+          "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Funciones",
+              "nivel": 3,
+              "paginas": "69",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Instr umentos de política",
+              "nivel": 3,
+              "paginas": "70-71",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Or ganización para la inversión pública",
+              "nivel": 3,
+              "paginas": "72-73",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Iniciativas para la incorporación de la r educción de riesgos de desastres y adaptación sostenible e incluyente al cambio climático",
+              "nivel": 3,
+              "paginas": "74",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Fortalezas, barr eras y oportunidades",
+              "nivel": 3,
+              "paginas": "75",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Sector educación: Ministerio de Educación",
+          "nivel": 2,
+          "paginas": "76-79",
+          "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Funciones",
+              "nivel": 3,
+              "paginas": "76",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento. El vínculo climático se expresa en la incorporación de riesgo, resiliencia o información ambiental dentro de la decisión pública.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Las acciones dirigidas a la incorporación de la reducción de riesgo de desastres y adaptación sostenible e incluyente al cambio climático en la inversión pública deben fortalecerse con aquellas que contribuyan a la sensibilización de las autoridades para respaldar y apoyar estos procesos.",
+                  "pagina": 76
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Instr umentos de política",
+              "nivel": 3,
+              "paginas": "77",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Or ganización para la inversión pública",
+              "nivel": 3,
+              "paginas": "78",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Iniciativas para la incorporación de la r educción de riesgos de desastres y adaptación sostenible e incluyente al cambio climático",
+              "nivel": 3,
+              "paginas": "79",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento. El vínculo climático se expresa en la incorporación de riesgo, resiliencia o información ambiental dentro de la decisión pública.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "El Ministerio de Educación ha trabajado en algunas iniciativas para cosechar agua de lluvia en establecimientos educativos que no cuentan con un suministro adecuado, ubicados por lo general en zonas rurales alejadas.",
+                  "pagina": 79
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Fortalezas, barr eras y oportunidades",
+              "nivel": 3,
+              "paginas": "79",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Sector agr opecuario: Ministerio de Desarrollo Agropecuario (MIDA)",
+          "nivel": 2,
+          "paginas": "80-87",
+          "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Funciones",
+              "nivel": 3,
+              "paginas": "80",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Instr umentos de política",
+              "nivel": 3,
+              "paginas": "81-82",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Or ganización para la inversión pública",
+              "nivel": 3,
+              "paginas": "83",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Iniciativas para incorporar la r educción de riesgos de desastres y adaptación sostenible e incluyente al cambio climático",
+              "nivel": 3,
+              "paginas": "84-86",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Fortalezas, barr eras y oportunidades",
+              "nivel": 3,
+              "paginas": "87",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "D. Sector salud: Ministerio de Salud (MINSA)",
+          "nivel": 2,
+          "paginas": "88-94",
+          "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Funciones",
+              "nivel": 3,
+              "paginas": "88",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Instr umentos de política",
+              "nivel": 3,
+              "paginas": "89",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Or ganización para la inversión pública",
+              "nivel": 3,
+              "paginas": "90-91",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Iniciativas para incorporar la r educción de riesgos de desastres y adaptación sostenible e incluyente al cambio climático",
+              "nivel": 3,
+              "paginas": "92-94",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Fortalezas, barr eras y oportunidades",
+              "nivel": 3,
+              "paginas": "92-94",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "V . Guías y otros instrumentos metodológicos",
+          "nivel": 2,
+          "paginas": "95-109",
+          "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "A. Instr umentos metodológicos generales",
+          "nivel": 2,
+          "paginas": "95-109",
+          "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Guía metodológica general para la pr eparación y evaluación de proyectos de inversiones públicas (2019)",
+              "nivel": 3,
+              "paginas": "95-101",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El vínculo climático se expresa en la incorporación de riesgo, resiliencia o información ambiental dentro de la decisión pública.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "No es evidente cómo se incorporan los costos y los beneficios asociados con las medidas de reducción de riesgo en los flujos financieros.",
+                  "pagina": 101,
+                  "subtipo_brecha": "prospectiva"
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "No es evidente cómo se incorporan los costos y los beneficios asociados con las medidas de reducción de riesgo en los flujos financieros.",
+                  "pagina": 101,
+                  "subtipo_brecha": "prospectiva"
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Según las orientaciones sobre el análisis costo/beneficio de las medidas de reducción de riesgo, se recomienda explicitar cómo se tratarán e incorporarán en los flujos financieros del Proyecto, los costos y beneficios financieros de las medidas de reducción de riesgo de desastres y adaptación sostenible e incluyente al cambio climático.",
+                  "pagina": 101
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "Según las orientaciones sobre el análisis costo/beneficio de las medidas de reducción de riesgo, se recomienda explicitar cómo se tratarán e incorporarán en los flujos financieros del Proyecto, los costos y beneficios financieros de las medidas de reducción de riesgo de desastres y adaptación sostenible e incluyente al cambio climático.",
+                  "pagina": 101,
+                  "subtipo_brecha": "prospectiva"
+                },
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Según las orientaciones sobre el análisis costo/beneficio de las medidas de reducción de riesgo, se recomienda explicitar cómo se tratarán e incorporarán en los flujos financieros del Proyecto, los costos y beneficios financieros de las medidas de reducción de riesgo de desastres y adaptación sostenible e incluyente al cambio climático.",
+                  "pagina": 101
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Revisión y actualización del pr otocolo para la incorporación de criterios de análisis de riesgo en la planificación de la inversión pública en Panamá (protocolo ARD) (2015)",
+              "nivel": 3,
+              "paginas": "102-104",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento. El vínculo climático se expresa en la incorporación de riesgo, resiliencia o información ambiental dentro de la decisión pública.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "El protocolo ARD instruye al formulador de proyectos mediante explicaciones de los pasos a seguir en el análisis de riesgo durante el proceso de formulación de proyectos de inversión pública, específicamente en la etapa de preinversión.",
+                  "pagina": 102
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Se indica que se debe consultar mapas de amenazas, estudios especializados, posibles escenarios de mediano y largo plazo del cambio climático y de ocurrencia de amenazas, de acuerdo con el tipo de proyecto.",
+                  "pagina": 103
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Guía técnica de cambio climático para pr oyectos de infraestructura de inversión pública (Guía técnica de cambio climático), 2020",
+              "nivel": 3,
+              "paginas": "105-109",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Instr umentos metodológicos sectoriales",
+          "nivel": 2,
+          "paginas": "110-113",
+          "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Guía para la formulación de pr oyectos de inversión de salud",
+              "nivel": 3,
+              "paginas": "110-112",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Instr umentos metodológicos para proyectos del sector agropecuario",
+              "nivel": 3,
+              "paginas": "113",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Herramientas de apoyo",
+          "nivel": 2,
+          "paginas": "114-115",
+          "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Aplicación práctica de los instr umentos",
+          "nivel": 2,
+          "paginas": "116-118",
+          "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Fortalezas, barr eras y oportunidades",
+          "nivel": 2,
+          "paginas": "116-118",
+          "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+          "dimensiones": [],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "VI. Desarrollo de capacidades",
+      "nivel": 1,
+      "paginas": "119-124",
+      "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Prácticas de fortalecimiento de capacidades",
+          "nivel": 2,
+          "paginas": "119-122",
+          "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Desde la DPI del MEF",
+              "nivel": 3,
+              "paginas": "119-120",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Desde el MINSA",
+              "nivel": 3,
+              "paginas": "121",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Desde IDAAN",
+              "nivel": 3,
+              "paginas": "121",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Desde el MIDA",
+              "nivel": 3,
+              "paginas": "122",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Desde MiAMBIENTE",
+              "nivel": 3,
+              "paginas": "122",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "6. Desde el SINAPROC",
+              "nivel": 3,
+              "paginas": "122",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "7. Otras instituciones",
+              "nivel": 3,
+              "paginas": "123",
+              "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Requerimientos de capacitación",
+          "nivel": 2,
+          "paginas": "123",
+          "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Fortalezas, barr eras y oportunidades",
+          "nivel": 2,
+          "paginas": "124",
+          "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento.",
+          "dimensiones": [],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "VII. Información para la inversión pública",
+      "nivel": 1,
+      "paginas": "125-150",
+      "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. El Instituto Geográfico Nacional T ommy Guardia",
+          "nivel": 2,
+          "paginas": "125-150",
+          "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El vínculo climático se expresa en la incorporación de riesgo, resiliencia o información ambiental dentro de la decisión pública.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "La Red Hidrometeorológica Nacional, con 214 estaciones meteorológicas y 98 hidrométricas. Dichas funciones se ejecutan por medio de la Dirección de Hidrometeorología (DH‑ETESA).",
+              "pagina": 130
+            },
+            {
+              "dimension": "avances_implementacion",
+              "cita": "Realizar estudios de variabilidad climática y de cambio climático.",
+              "pagina": 131
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Instalar sistema de alerta temprana en cuencas hidrográficas propensas a inundaciones, en coordinación con el Sistema Nacional de Protección Civil, con lo que se contribuye a las alertas para inundaciones y a la mitigación de los daños y pérdidas de vida y bienes.",
+              "pagina": 131
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Diagnóstico situacional de los sistemas nacionales de inversión pública: Panamá",
+          "nivel": 2,
+          "paginas": "125-150",
+          "resumen": "El apartado aporta al diagnóstico del SNIP mediante la identificación de responsabilidades, instrumentos, procedimientos o fuentes de información de la institución examinada en Panamá. Sitúa ese componente dentro del ciclo de inversión pública y permite reconocer sus puntos de coordinación, uso técnico y necesidades de fortalecimiento. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes. El registro ordena la evidencia disponible para que la programación, la evaluación y el seguimiento institucional puedan identificar responsabilidades y decisiones pendientes.",
+          "dimensiones": [],
+          "subsecciones": []
+        }
+      ]
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "No",
+      "evidencia": "Chequeo negativo explícito: el documento diagnostica instrumentos y brechas del SINIP; no propone un paquete coordinado de inversiones y políticas simultáneas ni una agenda sectorial propia que cumpla los tests del Gran Impulso Ambiental. La evidencia reconoce intervenciones existentes, pero también que la inclusión explícita en la inversión pública aún no está generalizada.",
+      "citas": [
+        {
+          "cita": "Los instrumentos de gestión de inversión pública contemplan intervenciones dirigidas a prevenir y reducir el riesgo de los impactos del cambio climático, pese a que aún no se manifiesta de manera explícita la inclusión de la reducción de riesgo de desastres y la adaptación sostenible e incluyente al cambio climático en la inversión pública.",
+          "pagina": 43
+        }
+      ],
+      "nota": "El No se debe a la naturaleza diagnóstica e institucional del estudio, no a una omisión de lectura."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "La Plataforma Nacional de Gestión Integral de Riesgo de Desastres es un mecanismo nombrado, vigente y situado en Panamá; integra sectores y actores, funciona como foro multisectorial y coordina con CEPREDENAC. Cumple el requisito de mecanismo dentro del ámbito de aplicación.",
+      "citas": [
+        {
+          "cita": "La Plataforma Nacional de Gestión Integral de Riesgo de Desastres coordina actividades con el CEPREDENAC, además de que representa un foro de consulta multisectorial para la gestión integral de riesgo de desastres.",
+          "pagina": 51
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "Chequeo negativo explícito: aunque el texto reconoce el efecto multiplicador de la inversión y su relación con empleo, no desarrolla una enumeración de sectores o actividades sostenibles como oportunidades productivas con vínculo desarrollado a empleo, productividad o desigualdad. Los sectores priorizados se revisan como ámbitos institucionales de inversión y resiliencia.",
+      "citas": [
+        {
+          "cita": "La Plataforma Nacional de Gestión Integral de Riesgo de Desastres coordina actividades con el CEPREDENAC, además de que representa un foro de consulta multisectorial para la gestión integral de riesgo de desastres.",
+          "pagina": 51
+        }
+      ],
+      "nota": "La mención general de empleo e inversión no satisface conjuntamente la enumeración y el vínculo desarrollado exigidos."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "No",
+      "evidencia": "Chequeo negativo explícito: el índice no contiene una sección final de recomendaciones de voz normativa propia. El texto formula recomendaciones técnicas dispersas en cuadros y apartados, como precisar flujos financieros, pero esas oportunidades diagnósticas no constituyen la unidad de cierre requerida para acreditar el criterio.",
+      "citas": [
+        {
+          "cita": "Según las orientaciones sobre el análisis costo/beneficio de las medidas de reducción de riesgo, se recomienda explicitar cómo se tratarán e incorporarán en los flujos financieros del Proyecto, los costos y beneficios financieros de las medidas de reducción de riesgo de desastres y adaptación sostenible e incluyente al cambio climático.",
+          "pagina": 101
+        }
+      ],
+      "desglose_items": [],
+      "tally": "0 de 0 ítems de una sección final normativa; el documento no presenta esa unidad de cierre.",
+      "nota": "No se usan como tally recomendaciones distribuidas en el cuerpo del diagnóstico."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El problema no es únicamente la exposición de Panamá a amenazas y cambios ambientales, sino la distancia entre ese riesgo y las decisiones ordinarias de inversión pública. El documento procesa la contradicción mediante un diagnóstico de reglas, entidades, guías, datos y coordinación que permitirían volver operable la incorporación de riesgo y resiliencia en proyectos.",
+      "filtro_categoria_primaria": "El objeto es la arquitectura estatal del SINIP: sus procedimientos de preinversión, dictamen técnico, capacidades, entidades y sistemas de información. La sostenibilidad ambiental es la finalidad y restricción que debe integrarse; no es el instrumento de organización del estudio. Por ello se descarta #6 como primaria y se asigna #11.",
+      "secundaria_obligatoria": "#6 cumple una función sustantiva de orientación: reducción de riesgo, adaptación, mitigación, seguridad hídrica y continuidad de servicios determinan qué capacidades y criterios deben desarrollar las instituciones.",
+      "justificacion_anti_copia": "El estudio revisa el protocolo ARD y la guía de proyectos, identifica la DPI-MEF, MiAMBIENTE y SINAPROC como nodos del sistema, examina agua, educación, agropecuario y salud, y conecta la decisión de inversión con la red de ETESA y la cartografía nacional. Esos rasgos muestran un diagnóstico operativo de capacidades públicas, no una estrategia ambiental sectorial aislada.",
+      "validacion_anclas": "Se contrasta con el ancla #8, Reflexiones sobre la gestión del agua, y con el ancla #12, Acción climática en la agricultura (PLACA): comparte que la arquitectura institucional es el objeto y el ambiente el ámbito. Se diferencia porque su unidad analítica es el SINIP panameño y el ciclo de proyectos, con revisión de guías, datos y sectores priorizados."
+    },
+    "tipo_documento_climatico": "Documento de proyecto o estudio técnico de diagnóstico institucional",
+    "nivel_aplicacion": "Nacional",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

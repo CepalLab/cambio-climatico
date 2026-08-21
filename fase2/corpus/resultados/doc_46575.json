@@ -1,0 +1,678 @@
+{
+  "documento": {
+    "num_muestra": 125,
+    "titulo": "Amenazas de cambio climático, métricas de mitigación y adaptación en ciudades de América Latina y el Caribe",
+    "autoria": "Paola Gabriela Siclari Bravo",
+    "handle": "https://hdl.handle.net/11362/46575",
+    "simbolo": "LC/TS.2020/185",
+    "isbn": null,
+    "fecha": "2020",
+    "tipo_documento": "Documentos de Proyectos",
+    "paginas_cuerpo": 78,
+    "paginas_totales": 87,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cuáles son las principales amenazas del cambio climático en las ciudades de América Latina y el Caribe, qué métodos y herramientas se emplean para medir emisiones de GEI y planes de mitigación y adaptación a escala urbana, y cómo pueden articularse estas métricas locales con las Contribuciones Determinadas a Nivel Nacional (CDN)?",
+    "alcance": {
+      "ambito_aplicacion": "América Latina y el Caribe (con análisis detallado en Ciudad de México, Medellín, Guayaquil, Región Puno y Recife)",
+      "referentes_dependencias": "IPCC, ONU-Hábitat, Banco Mundial, C40 Cities Climate Leadership Group, ICLEI, CAF, GIZ/BMZ",
+      "sectorial": "Desarrollo urbano, energía estacionaria, transporte y movilidad, gestión integral de residuos sólidos, agua y saneamiento, gestión del riesgo de desastres",
+      "temporal": "2010-2020 (con proyecciones y metas climáticas al 2030, 2040 y 2050)"
+    },
+    "hallazgos_principales": [
+      "De 116 ciudades de ALC que declararon amenazas climáticas en la base C40, los eventos más reportados son olas de calor (67%, 78 ciudades), inundaciones (57%, 67 ciudades), tormentas (51%, 60 ciudades) y estrés hídrico/sequía (47%, 55 ciudades) (p.12, p.45).",
+      "Existe una marcada disparidad entre la percepción local de las amenazas y los datos científicos: la contaminación del aire solo es reportada como amenaza por 28 de 116 ciudades (24%), a pesar de que urbes como Lima, La Paz, San Salvador, Santiago, Tegucigalpa y Bogotá cuadruplican o superan ampliamente los límites seguros de material particulado fijados por la OMS (p.12, p.45).",
+      "Se constata una multiplicidad fragmentada de herramientas e instituciones para elaborar inventarios y planes (IPCC, GPC Básico/Básico+, Huella de Ciudades CAF, Urban LEDS ICLEI), lo que genera heterogeneidad metodológica y dificulta la agregación y comparabilidad de datos (p.12, p.66).",
+      "En los planes de adaptación urbanos prevalece la medición de productos o avance de actividades sobre la medición de resultados efectivos en reducción de vulnerabilidad y construcción de resiliencia (p.13, p.66).",
+      "Persiste una brecha estructural de integración interescalar: los inventarios urbanos se construyen con lógicas territoriales locales mientras que las CDN se elaboran con balances sectoriales nacionales, limitando el reconocimiento y reporte de las contribuciones urbanas (p.14, p.77)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La conceptualización y definición de tipologías de ciudades con enfoque climático en América Latina y el Caribe es aún incipiente, predominando una visión sectorial y centralizada que desacopla la formulación de políticas urbanas de las estrategias nacionales de cambio climático.",
+        "La dispersión metodológica en inventarios de GEI y métricas de vulnerabilidad exige establecer lineamientos y protocolos estandarizados para garantizar la comparabilidad, escalabilidad e integración efectiva de las acciones locales en los informes nacionales y las CDN.",
+        "Existe un amplio repertorio de instrumentos e incentivos normativos, económicos y fiscales (como Zonas de Bajas Emisiones, Pagos por Servicios Ambientales, Líneas de Crédito Ambiental y modelos ESCO), pero se requiere transitar hacia un paradigma integral de urbanismo climático."
+      ],
+      "recomendaciones": [
+        "Establecer una posición y lineamientos directrices concretos que estandaricen los métodos de cálculo de inventarios de GEI y evaluaciones de vulnerabilidad urbana para permitir su comparabilidad y agregación.",
+        "Aprovechar los ciclos de actualización de las CDN e Informes Nacionales para formalizar espacios de coordinación y homologación interescalar entre gobiernos subnacionales y ministerios sectoriales.",
+        "Profundizar en el diseño y aplicación de incentivos fiscales, económicos (como PSA y líneas de crédito ambiental) y normativos (zonificación de bajas emisiones y restricción de áreas de riesgo).",
+        "Documentar, evaluar y escalar de forma sistemática las soluciones y prácticas locales y comunitarias de adaptación (como presupuestos participativos climáticos e infraestructura ancestral/resiliente)."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "El estudio analiza la intersección entre cambio climático y dinámicas urbanas en América Latina y el Caribe a partir del examen de 116 urbes de la red C40 y el estudio en profundidad de Ciudad de México, Medellín, Guayaquil, Región Puno y Recife. Identifica las principales amenazas climáticas diferenciando eventos extremos de eventos lentos y contrasta la percepción de riesgo local con la evidencia científica sobre emisiones y material particulado. Asimismo, evalúa la heterogeneidad de métodos e instrumentos utilizados en inventarios de GEI y planes de mitigación y adaptación, exponiendo la desconexión existente entre las métricas locales y las Contribuciones Determinadas a Nivel Nacional (CDN). Finalmente, propone avanzar hacia el urbanismo climático mediante la estandarización metodológica, el fortalecimiento de la articulación multinivel y el aprovechamiento de incentivos normativos, económicos y fiscales."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "11-16",
+      "resumen": "Presenta los objetivos, estructura y principales hallazgos del informe sobre la relación entre dinámicas urbanas y cambio climático en América Latina y el Caribe. (a) Define tres áreas de trabajo: tipologías climáticas de ciudades, análisis de métricas e instrumentos de mitigación y adaptación, y evaluación de su articulación con las CDN. (b) Sintetiza los hallazgos relativos a la autodeclaración de amenazas en 116 ciudades de la base C40, la dispersión metodológica en inventarios de GEI, el estudio focalizado en cinco ciudades (Ciudad de México, Medellín, Guayaquil, Región Puno y Recife), y los incentivos normativos, económicos y fiscales existentes. (c) Destaca la brecha de integración entre los inventarios territoriales locales y los informes sectoriales nacionales de cambio climático.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "A partir de un análisis de la base de datos C40, donde a la fecha han declarado amenazas de cambio climático 116 ciudades ALC (100%) de un total de 497 a nivel global, fue posible identificar que los eventos más sentidos a nivel de ciudad son los siguientes: olas de calor (78 ciudades en 13 países; 67%), inundación (67 ciudades en 12 países; 57%), tormenta (60 ciudades en 11 países; 51%), estrés hídrico y sequía (55 ciudades en 11 países; 47%), incendio (45 ciudades en 10 países; 39%), enfermedades (41 ciudades en 9 países; 35%), deslizamiento de masa (33 ciudades en 8 países; 28%).",
+          "pagina": 12
+        },
+        {
+          "dimension": "brechas_implementacion",
+          "cita": "La tendencia es a construir informes nacionales sectoriales no territoriales. Los instrumentos se construyen a nivel territorial local, todos de forma distinta obstaculizando comparabilidad y agregación, mientras que los Informes Nacionales se elaboran por sectores, a escala nacional.",
+          "pagina": 14,
+          "subtipo_brecha": "retrospectiva"
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Antecedentes",
+      "nivel": 1,
+      "paginas": "17-20",
+      "resumen": "Establece el marco institucional, objetivos, actividades y metodología del estudio en el contexto del Programa CEPAL-BMZ/GIZ Sendas de Desarrollo Sostenible.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Antecedentes y contexto",
+          "nivel": 2,
+          "paginas": "17",
+          "resumen": "Describe el contexto del Programa Sendas ejecutado por CEPAL y GIZ en nueve países piloto sobre tres clústeres temáticos: planificación, gran impulso ambiental y cambio digital. (a) Plantea que las capacidades institucionales de los países de la región para implementar la Agenda 2030 de manera holística siguen siendo limitadas. (b) Argumenta la necesidad de profundizar en respuestas normativas e incentivos económicos frente a las amenazas climáticas para transformarlas en oportunidades de desarrollo sostenible interurbano y regional.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Para apoyar la implementación de la Agenda 2030 y el Acuerdo de París de manera coherente, intersectorial y holística, el Programa CEPAL‐BMZ/GIZ 2018‐2020, llamado “Sendas de desarrollo sostenible para países de ingresos medios en el marco de la Agenda 2030 para el desarrollo sostenible en América Latina y el Caribe” (en adelante “Sendas”), ha trabajado en 9 países pilotos (Argentina, Brasil, Chile Costa Rica, Ecuador, México, Paraguay, República Dominicana y Uruguay).",
+              "pagina": 17
+            },
+            {
+              "dimension": "desafios",
+              "cita": "A pesar de estos esfuerzos, las capacidades de los países de ALC para implementar la Agenda 2030 de una forma holística y coherente, que permita formular y poner en práctica estrategias de desarrollo sostenible, son todavía limitadas.",
+              "pagina": 17
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Objetivo del estudio",
+          "nivel": 2,
+          "paginas": "17-18",
+          "resumen": "Formula el objetivo general del documento. (a) Busca definir una tipología de amenazas vinculadas al cambio climático para ciudades de América Latina y el Caribe. (b) Se propone avanzar en la estandarización de respuestas normativas e instrumentos de gestión urbana.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Definir una tipología de amenazas vinculadas al cambio climático para ciudades de América Latina y el Caribe, y avanzar en una estandarización de respuestas normativas.",
+              "pagina": 17
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Actividades",
+          "nivel": 2,
+          "paginas": "18",
+          "resumen": "Enumera las cinco actividades centrales ejecutadas en la investigación. (a) Creación de tipología de amenazas climáticas y descripción en profundidad con foco en al menos cinco ciudades. (b) Análisis de métricas de mitigación y adaptación, examen de la aportación urbana a las CDN y sistematización de catálogos de medidas globales y regionales.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Identificar y analizar experiencias en América Latina y el Caribe, en las que se haya discutido o acordado, así como medido, la aportación urbana a las Contribuciones Nacionalmente Determinadas del Acuerdo de París ya sea mediante acciones sectoriales o a través de compromisos circunscritos a territorios delimitados.",
+              "pagina": 18
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Metodología",
+          "nivel": 2,
+          "paginas": "18-19",
+          "resumen": "Detalla el enfoque metodológico, fuentes de información y procedimientos analíticos aplicados en cada componente del estudio.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Crear una tipología de amenazas vinculadas al cambio climático para ciudades de América Latina y el Caribe",
+              "nivel": 3,
+              "paginas": "18",
+              "resumen": "Describe las fuentes utilizadas para construir la tipología de amenazas climáticas urbanas. (a) Combina consulta a paneles de expertos y revisión exhaustiva de literatura especializada de IPCC, ONU-Hábitat, C40, ICLEI, CAF y BID. (b) Revisa planes gubernamentales subregionales, nacionales y locales de mitigación y adaptación.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Revisión de literatura: Agenda 2030, Agenda de París, Reporte regional HAB III (capítulo medioambiental); Panel Intergubernamental sobre Cambio Climático (IPCC, por sus siglas en inglés); Global Resiliance Partnership; Proyecto ‘Sendas’; CAF y BID; Climate Center Red Cross Red Crescent; Cities 100; C40 Cities Climate Leadership Group; IIED, ICLEI; Planes Gubernamentales de Mitigación y Adapación sub‐regionales, nacionales y urbanos; y otros documentos sugeridos por la contraparte.",
+                  "pagina": 18
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Descripción de las amenazas de cambio climático más representativas con foco en al menos cinco ciudades",
+              "nivel": 3,
+              "paginas": "18",
+              "resumen": "Explica el criterio para caracterizar causas y efectos de las amenazas climáticas en el ámbito urbano. (a) Distingue factores climáticos de factores no climáticos que exacerban la vulnerabilidad, como la materialidad de las edificaciones y el concreto. (b) Selecciona cinco casos urbanos representativos de la diversidad geográfica y socioeconómica regional.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Las amenazas vinculadas al cambio climático en ciudades son descritas diferenciando causas y efectos, teniendo presente que existen factores no climáticos que incrementan los efectos del mismo; por ejemplo, la materialidad del stock construido en ciudades (de cemento en su mayoría), aumenta la temperatura en episodios de olas de calor.",
+                  "pagina": 18
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Realizar análisis de métricas de mitigación y adaptación",
+              "nivel": 3,
+              "paginas": "18-19",
+              "resumen": "Describe el análisis comparado de instrumentos métricos y revisión de aportaciones urbanas a las CDN. (a) Realiza entrevistas a actores clave y revisa iniciativas de redes como ICLEI, RAMCC y CAF. (b) Analiza catálogos de respuestas normativas, regulatorias, fiscales y tecnológicas considerando la producción social del riesgo urbano.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Esta actividad se lleva a cabo a partir de la revisión de literatura y del análisis comparado de inventarios, y de planes de mitigación y de adaptación en cinco ciudades LAC.",
+                  "pagina": 18
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "E. Limitaciones del estudio",
+          "nivel": 2,
+          "paginas": "19-20",
+          "resumen": "Expone las restricciones temporales y metodológicas de la investigación. (a) Señala que el estudio se ejecutó entre diciembre de 2019 y febrero de 2020. (b) Reconoce que la amplitud temática impidió formular una metodología exhaustiva de homologación entre inventarios urbanos y nacionales, concentrándose en consideraciones generales para la comparabilidad y agregación.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "La amplitud de los temas a abordar junto con las restricciones de tiempo, no permitieron el desarrollo exhaustivo de una metodología de homologación de inventarios urbanos y nacionales; en este ámbito fueron desarrolladas consideraciones generales, relativas a metodologías de medición y sectores a considerar que favorecen comparabilidad y agregación.",
+              "pagina": 19
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "II. Amenazas de cambio climático y emisiones de GEI en ciudades LAC",
+      "nivel": 1,
+      "paginas": "21-46",
+      "resumen": "Analiza conceptual y empíricamente las amenazas climáticas, eventos extremos y lentos, autodeclaración de riesgos en la red C40 y perfiles de emisiones de GEI en las ciudades de la región.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Cambio climático en ciudades: aspectos generales",
+          "nivel": 2,
+          "paginas": "21-25",
+          "resumen": "Examina la doble condición de las ciudades como fuentes primarias de emisiones y como nodos concentradores de vulnerabilidad climática. (a) Detalla cómo el crecimiento urbano desordenado, la impermeabilización del suelo y los patrones de movilidad intensivos en carbono aumentan la exposición al riesgo. (b) Expone cifras sobre la participación urbana en el consumo de energía global y emisiones de GEI, así como el impacto económico acumulado de desastres.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "El hombre ejercita una influencia creciente sobre el clima y sobre las variaciones de la temperatura terrestre, en particular a través de actividades tales como la combustión de combustibles fósiles, desforestación y crianza de ganado.",
+              "pagina": 21
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Los efectos del cambio climático son particularmente importantes en ciudades, puesto en ellas se expresan con fuerza y es en ellas donde se originan mayormente: las ciudades son responsables de más de 70% de la producción de gases de efecto invernadero; al mismo tiempo en ellas se juega el tránsito hacia un modelo sostenible de producción y consumo (UN‐HABITAT: 2011).",
+              "pagina": 22
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Conceptos y marco analítico",
+          "nivel": 2,
+          "paginas": "26-28",
+          "resumen": "Desarrolla las definiciones operativas y el marco conceptual utilizado para analizar la acción climática en el ámbito urbano.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Riesgo ambiental",
+              "nivel": 3,
+              "paginas": "26",
+              "resumen": "Define el riesgo climático como el producto de la interacción entre amenaza, exposición y vulnerabilidad. (a) Explica que el nivel de riesgo depende de la probabilidad del evento físico y del grado de susceptibilidad de la población y la infraestructura. (b) Destaca la necesidad de abordar los determinantes subyacentes de la exposición urbana.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Se refiere a la “interferencia antropogénica peligrosa con el sistema climático” (Artículo 2 de la Convención Marco de Naciones Unidas sobre el Cambio Climático).",
+                  "pagina": 26
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Vulnerabilidad y resiliencia",
+              "nivel": 3,
+              "paginas": "26-27",
+              "resumen": "Examina los conceptos de vulnerabilidad social y resiliencia en sistemas urbanos. (a) Define la vulnerabilidad como la propensión a ser afectado negativamente, condicionada por factores socioeconómicos, institucionales y físicos. (b) Conceptualiza la resiliencia como la capacidad de absorber perturbaciones y transformarse positivamente ante crisis.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "IPCC define vulnerabilidad como el grado de susceptibilidad o de incapacidad de un sistema para afrontar los efectos adversos del cambio climático y, en particular, la variabilidad del clima y los fenómenos extremos.",
+                  "pagina": 26
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Adaptación",
+              "nivel": 3,
+              "paginas": "27-28",
+              "resumen": "Analiza las modalidades y enfoques de adaptación urbana frente al cambio climático. (a) Distingue entre adaptación incremental y transformación adaptativa estructural en sistemas urbanos. (b) Subraya la importancia de integrar infraestructura verde, soluciones basadas en la naturaleza y gobernanza comunitaria.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "La capacidad de adaptación es \"la capacidad de los sistemas, instituciones, humanos y otros organismos para adaptarse al daño potencial, aprovechar las oportunidades o responder a las consecuencias\" (IPCC: AR5, 2014).",
+                  "pagina": 27
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Mitigación",
+              "nivel": 3,
+              "paginas": "28",
+              "resumen": "Presenta el concepto y alcance de la mitigación en el entorno urbano. (a) Define la mitigación como la intervención humana orientada a reducir las fuentes de emisión o mejorar los sumideros de GEI. (b) Enfatiza la necesidad de articular medidas sectoriales de energía, transporte y residuos en las políticas locales.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "La mitigación frente al Cambio Climático es toda intervención humana orientada a reducir las emisiones de gases de efecto invernadero o mejorar las fuentes de captura de carbono.",
+                  "pagina": 28
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Amenazas vinculadas al cambio climático en ciudades: tipos, causas y efectos",
+          "nivel": 2,
+          "paginas": "28-42",
+          "resumen": "Desarrolla una taxonomía de amenazas climáticas clasificándolas en eventos extremos y eventos de evolución lenta, y analiza los datos de autodeclaración de riesgos en ciudades de ALC.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Eventos extremos",
+              "nivel": 3,
+              "paginas": "29-41",
+              "resumen": "Analiza en detalle las principales amenazas climáticas extremas que impactan a las ciudades de América Latina y el Caribe: frío extremo, calor extremo (islas de calor), incendios urbanos y de interfaz forestal, tormentas con precipitaciones torrenciales, inundaciones superficiales y subterráneas, y proliferación de vectores de enfermedades. (a) Examina las causas físicas de cada evento extremo y los multiplicadores urbanos de riesgo, tales como la alta densidad de edificación en concreto, la impermeabilización de cuencas, la ocupación informal de planicies de inundación y la carencia de drenaje pluvial adecuado. (b) Evalúa los impactos socioeconómicos y en salud pública, destacando el estrés térmico en población vulnerable y los elevados costos presupuestarios para los municipios. (c) Revisa las medidas de mitigación y adaptación implementadas en la región, incluyendo programas habitacionales con subsidios de eficiencia energética, planes de forestación urbana y sistemas de alerta temprana.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Las olas de frío tienen un efecto en salud, stress e incremento de la mortalidad especialmente de niños y adultos mayores. Éstos imponen a las ciudades mayores costos en atención a población vulnerable en situación de calle, con impacto en el presupuesto público.",
+                  "pagina": 30
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Entre las medidas de adaptación, para afrontar las olas de calor y frío, se desarrollan programas habitacionales con eficiencia energética (en algunos casos, como el caso chileno basado en subsidios), planes de forestación y planes de prevención de incendios.",
+                  "pagina": 31
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Eventos de evolución lenta",
+              "nivel": 3,
+              "paginas": "41",
+              "resumen": "Analiza las amenazas climáticas de desarrollo paulatino que afectan de forma acumulativa a las urbes. (a) Examina deslizamientos de laderas, procesos de aluvión, estrés hídrico crónico y aumento del nivel medio del mar en zonas costeras. (b) Destaca que estos procesos suelen recibir menor atención inmediata en la planificación local a pesar de su severidad a mediano y largo plazo.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "IPCC ha definido como eventos de esta naturaleza los siguientes: aumento del nivel del mar, acidificación de los océanos, retirada de los glaciares, salinización, degradación de suelo y de bosques, pérdida de biodiversidad y desertificación (IPCC: 2012). En este caso ponemos atención en el aumento del nivel del mar y en la erosión de suelos por ser los más significativos para las ciudades ALC.",
+                  "pagina": 41
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Amenazas de cambio climático auto‐declaradas en ciudades ALC",
+              "nivel": 3,
+              "paginas": "41-42",
+              "resumen": "Contrasta los datos empíricos de autodeclaración de amenazas en la plataforma C40/CDP con los diagnósticos científicos. (a) Muestra que las olas de calor, inundaciones y sequías son las amenazas más reportadas por las autoridades municipales. (b) Identifica una subdeclaración significativa de la contaminación atmosférica como amenaza climática local.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "En un esfuerzo por establecer cómo las ciudades perciben las amenazas hasta aquí descritas, fue analizada la base de datos C40, la mayor base de datos para ciudades en esta materia, donde a la fecha han declarado amenazas de cambio climático 116 ciudades ALC (100%) de un total de 497 a nivel global.",
+                  "pagina": 41
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "D. GEI en ciudades ALC",
+          "nivel": 2,
+          "paginas": "42-45",
+          "resumen": "Analiza la estructura sectorial de emisiones de gases de efecto invernadero en ciudades latinoamericanas y la cobertura de inventarios urbanos. (a) Señala que el transporte automotor, el consumo de energía en edificaciones e industrias y la gestión de residuos sólidos constituyen las principales fuentes urbanas de GEI. (b) Examina el estado de los inventarios nacionales y urbanos en los países de la región y su vinculación con las metas de las CDN.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Según la Comisión Económica de las Naciones Unidas para América Latina y el Caribe (CEPAL), América Latina en su conjunto contribuye con el 9% de las emisiones de GEI (2014), siendo los mayores contaminadores Brasil, México y Venezuela, contribuyendo con el 80% de las emisiones totales en la región.",
+              "pagina": 42
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Hallazgos",
+          "nivel": 2,
+          "paginas": "45-46",
+          "resumen": "Sintetiza los hallazgos principales del capítulo II sobre tipología de amenazas climáticas, riesgo ambiental y polución atmosférica. (a) Identifica los siete eventos extremos, tres lentos y la amenaza de contaminación atmosférica. (b) Resalta la divergencia entre la percepción de riesgo de los municipios y la evidencia científica sobre polución y material particulado, así como el escaso análisis de interacciones multirriesgo.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "A partir de un análisis de la base de datos C40, donde a la fecha han declarado amenazas de cambio climático 116 ciudades ALC (100%) de un total de 497 a nivel global, fue posible identificar que los eventos más sentidos a nivel de ciudad son los siguientes: olas de calor (78 ciudades en 13 países; 67%), inundación (67 ciudades en 12 países; 57%), tormenta (60 ciudades en 11 países; 51%), stress hídrico y sequía (55 ciudades en 11 países; 47%), incendio (45 ciudades en 10 países; 39%), enfermedades (41 ciudades en 9 países; 35%), deslizamiento de masa (33 ciudades en 8 países; 28%).",
+              "pagina": 45
+            },
+            {
+              "dimension": "desafios",
+              "cita": "Se constata escaso análisis en la literatura de la interacción entre amenazas ambientales; y entre amenazas y factores multidimensionales que pueden incrementar el riesgo.",
+              "pagina": 46
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "III. Análisis de cinco ciudades ALC desde las amenazas por cambio climático, emisiones de GEI, mitigación y adaptación",
+      "nivel": 1,
+      "paginas": "47-68",
+      "resumen": "Examina en detalle cinco casos de estudio urbanos (Ciudad de México, Medellín, Guayaquil, Región Puno y Recife) evaluando sus amenazas climáticas, inventarios de GEI, planes de mitigación y adaptación e integración en las CDN.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Criterios de selección de ciudades",
+          "nivel": 2,
+          "paginas": "47-52",
+          "resumen": "Describe los criterios técnicos y geográficos empleados para seleccionar las cinco ciudades analizadas. (a) Considera exposición diferencial a eventos extremos (huracanes, inundaciones, olas de calor) y lentos (subida del nivel del mar, sequías, deslizamientos). (b) Evalúa la diversidad en tamaño poblacional, localización geográfica, nivel de emisiones y grado de madurez institucional en planificación climática.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Las amenazas ambientales impactan de forma diferenciada a las ciudades puesto que en ellas una serie de factores pueden incrementar o disminuir sus efectos. Al mismo tiempo, las emisiones de GEI y los SLCP (short‐live climate pollutants) afectan el bienestar en las ciudades, y determinan las eventuales medidas de mitigación.",
+              "pagina": 47
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Análisis de cinco ciudades ALC",
+          "nivel": 2,
+          "paginas": "52-66",
+          "resumen": "Desarrolla el diagnóstico pormenorizado de cada una de las cinco experiencias urbanas analizadas en profundidad. (a) En Ciudad de México analiza el Programa de Acción Climática (PACCM 2014-2020), la actualización metodológica de inventarios bajo IPCC 2016 con recalculo de series históricas y las metas de mitigación en energía y transporte. (b) En Medellín examina el inventario GPC Básico+ elaborado con CAF y los instrumentos de adaptación como el Sistema de Alertas Tempranas (SIATA), las Líneas de Crédito Ambiental y el esquema de Pagos por Servicios Ambientales (PSA). (c) En Guayaquil evalúa el Plan de Reducción de Riesgos ante amenazas de inundación y deslave, junto con la aplicación de la metodología Huella de Ciudades CAF para emisiones y huella hídrica. (d) En la Región Puno analiza la Estrategia Regional de Cambio Climático, la alta exposición a heladas y sequías en el altiplano andino y el proceso de articulación 'Dialoguemos sobre las NDCs'. (e) En Recife examina el Plan de Mitigación Urban LEDS con 20 medidas sectoriales a corto, mediano y largo plazo, y el Plan de Adaptación basado en la modelación MOVE® y la delimitación de Zonas de Desarrollo Bajo Carbono.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "Recife elabora plan de mitigación en 2014 con ICLEI Urban Leds. Es por cierto el plan de mitigación más completo de las cinco ciudades analizadas. Establece 20 medidas con definición de implementación y estimación de impacto a corto, mediano y largo plazo en trasporte, desarrollo urbano, energía y residuos para los años: 2017, 2020, 2030 y 2040.",
+              "pagina": 66
+            },
+            {
+              "dimension": "avances_implementacion",
+              "cita": "Medellín cuenta con medidas de adaptación en cuatro instrumentos de planificación urbana local, uno metropolitano y uno regional. Entre las medidas de adaptación destaca la extensa experiencia en manejo de desplazamiento de masa, con dispositivos técnico‐normativos‐participativos como el Sistema de Alertas Tempranas (SIATA).",
+              "pagina": 66
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Hallazgos",
+          "nivel": 2,
+          "paginas": "66-68",
+          "resumen": "Consolida las lecciones transversales derivadas de los cinco casos de estudio. (a) Constata la heterogeneidad de protocolos en inventarios (IPCC, GPC, Huella CAF) y la falta de metas temporales homogéneas en mitigación. (b) Evidencia el predominio de indicadores de producto sobre resultados en adaptación y analiza buenas prácticas de gobernanza multinivel (Dialoguemos sobre las CDN en Perú) e incentivos económicos (PSA y LCA en Medellín).",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "En Inventarios. Fue posible constatar la diversidad de metodologías y de herramientas utilizadas para la construcción de inventarios en las ciudades analizadas. Sobre la base de los lineamientos IPCC 2016, Ciudad de México reelabora el inventario en 2018 y recalcula los inventarios de 2016, 2014, 2012 y de 2010, para hacerlos comparables. Medellín elabora inventario en 2015 con el apoyo de CAF, utiliza el protocolo GPC Básico+; Guayaquil, elabora inventario en 2016, utiliza la metodología Huella de Ciudades CAF que mide emisiones de GEI y huella hídrica; Región Puno (región) utiliza como referencia el inventario nacional actualizado en 2016 siguiendo las directrices IPCC 2006. La ciudad no cuenta con inventario. Recife realiza el inventario en 2012, con el apoyo de Urban Leds I (ICLEI); utiliza el protocolo GPC Básico.",
+              "pagina": 66
+            },
+            {
+              "dimension": "oportunidades",
+              "cita": "En Medellín, cabe destacar los incentivos consignados en los Estatutos Tributarios que ofrece el Ministerio de Ambiente y Desarrollo Sostenible, las Líneas de Crédito Ambiental (LCA) son opciones que promueven inversiones en reconversión tecnológica que contribuyan al desarrollo sostenible y representen ventajas competitivas para las empresas. Además, los Pagos por Servicios Ambientales (PSA), un sistema que entrega un incentivo económico a las personas que prestan servicios ambientales como conservar una cuenca hídrica o un bosque.",
+              "pagina": 67
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Métricas y contribuciones urbanas en las CDN en América Latina y el Caribe",
+      "nivel": 1,
+      "paginas": "69-78",
+      "resumen": "Analiza los marcos institucionales de medición, las intervenciones de mitigación y adaptación, los indicadores métricos urbanos y las vías de articulación con las CDN nacionales.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. ¿Quién mide?",
+          "nivel": 2,
+          "paginas": "69-70",
+          "resumen": "Mapea las instituciones nacionales, subnacionales, redes internacionales y agencias de cooperación que realizan inventarios y mediciones climáticas urbanas. (a) Identifica el rol de ministerios de medio ambiente, secretarías municipales, C40, ICLEI, CAF y agencias bilaterales. (b) Destaca la fragmentación institucional y la necesidad de contar con un catastro unificado de iniciativas de medición.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Con frecuencia a nivel de ciudad construye el inventario el organismo local competente por medio de una empresa, agencia técnica u ONG especializada en el tema. A nivel nacional los ministerios son los encargados de elaborar el inventario, y de desarrollar e implementar los planes de mitigación y de adaptación al Cambio Climático, quienes a su vez se coordinan con el resto de los ministerios para la recopilación de información propia de cada sector.",
+              "pagina": 69
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. ¿Para qué se mide?",
+          "nivel": 2,
+          "paginas": "70",
+          "resumen": "Analiza las distintas finalidades y usos de las métricas climáticas a nivel urbano. (a) Identifica tres objetivos principales: diseño de políticas locales de reducción de emisiones, reporte a redes globales y acceso a financiamiento climático. (b) Señala la tensión entre los requerimientos de reporte internacional y las necesidades de gestión territorial local.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "La capacidad de una ciudad para implementar medidas eficaces para mitigar y adaptarse ante los efectos adversos del cambio climático dependerá en gran medida del acceso a datos de calidad y veracidad sobre sus emisiones de GEI. El punto de partida de una planificación adecuada comienza con la elaboración de un inventario de GEI, y es que, un inventario permite a las ciudades comprender la distribución de las emisiones provenientes de las diferentes fuentes y actividades en la comunidad.",
+              "pagina": 70
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Intervenciones urbanas de mitigación",
+          "nivel": 2,
+          "paginas": "70-72",
+          "resumen": "Examina las medidas sectoriales de mitigación implementadas en las ciudades de la región y sus indicadores de avance. (a) Revisa intervenciones en eficiencia energética en edificaciones, alumbrado público eficiente, transporte masivo limpio y valorización energética de residuos. (b) Analiza modelos de financiamiento como ESCO y esquemas de ahorros garantizados.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Desde la perspectiva urbana en eficiencia energética los proyectos más usuales son los de alumbrado público y proyectos en establecimientos públicos o de uso público, priorizando grandes consumidores como hospitales, que en general utilizan calderas a carbón o a leña para la producción de energía térmica para el servicio de agua caliente sanitaria y agua caliente de calefacción.",
+              "pagina": 70
+            },
+            {
+              "dimension": "oportunidades",
+              "cita": "En transporte urbano, la electro‐movilidad del transporte público está adquiriendo gran importancia en la región.",
+              "pagina": 71
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Intervenciones urbanas de adaptación: métricas",
+          "nivel": 2,
+          "paginas": "72-74",
+          "resumen": "Analiza los métodos y desafíos para medir la efectividad de las medidas de adaptación urbana. (a) Expone la dificultad intrínseca de monitorear resultados frente a eventos extremos de baja frecuencia o efectos climáticos lentos. (b) Aborda la naturaleza del capital social y de infraestructura fija (social overhead capital) y su resistencia a la estandarización métrica paramétrica.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "En comparación con la mitigación del cambio climático, la adaptación no se puede medir con una sola métrica, como la reducción de emisiones de gases de efecto invernadero. Cada acción de CCA tiene sus propios productos y resultados específicos, que requieren indicadores específicos",
+              "pagina": 73
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "La evaluación de las medidas de adaptación puede ser compleja por dos motivos: porque el evento para el que fueron implementadas corresponde a un evento extremo infrecuente, o porque el proyecto ha sido concebido para abordar efectos lentos.",
+              "pagina": 74
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Contribuciones urbanas al cambio climático en las CDN en ALC",
+          "nivel": 2,
+          "paginas": "74-76",
+          "resumen": "Examina el estado de integración de las acciones urbanas en las metas de las CDN de los países de América Latina y el Caribe. (a) Constata la desconexión metodológica entre los enfoques territoriales de las ciudades y los modelos contables sectoriales a nivel nacional. (b) Destaca experiencias incipientes de articulación multinivel y los lineamientos de ONU-Hábitat para incorporar asentamientos humanos en planes nacionales de adaptación.",
+          "dimensiones": [
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "Desafío 3. Inexistencia de protocolo y procedimiento para incorporar los inventarios de ciudad en el inventario nacional.",
+              "pagina": 76,
+              "subtipo_brecha": "prospectiva"
+            },
+            {
+              "dimension": "oportunidades",
+              "cita": "La acción simultánea de diversas instituciones apoyando la elaboración de inventarios y de planes de mitigación reafirma el tema cambio climático en la agenda política urbana y nacional.",
+              "pagina": 76
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "F. Hallazgos",
+          "nivel": 2,
+          "paginas": "76-78",
+          "resumen": "Sintetiza los cuatro desafíos y cuatro oportunidades identificadas en materia de métricas urbanas y articulación con las CDN. (a) Señala la falta de taxonomías oficiales, protocolos de homologación multiescala y catastros unificados. (b) Resalta la convergencia de actores en redes intersectoriales y la disposición técnica para ensayar pilotos de inventarios multiescala.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "Desafío 1. Inexistencia de una taxonomía oficial de ciudades según perfil de emisión.",
+              "pagina": 76
+            },
+            {
+              "dimension": "oportunidades",
+              "cita": "Durante entrevista, autoridades ecuatorianas nacionales de medio ambiente señalaron positiva disposición para iniciar taller piloto de construcción de inventarios multiescala.",
+              "pagina": 76
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "V. Conclusiones",
+      "nivel": 1,
+      "paginas": "79-80",
+      "resumen": "Presenta las reflexiones finales del estudio y formula la agenda hacia un nuevo paradigma de urbanismo climático en América Latina y el Caribe. (a) Reafirma la necesidad de superar la visión sectorial fragmentada y establecer lineamientos que aseguren comparabilidad y escalabilidad en inventarios y planes locales. (b) Insta a aprovechar los procesos de actualización de las CDN para profundizar el diálogo interescalar y homologar instrumentos de política. (c) Aboga por documentar y escalar las prácticas comunitarias e innovaciones locales de adaptación, proponiendo el urbanismo climático como eje estructurador del desarrollo urbano sostenible y justo.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Considerando la situación climática actual, los desafíos de desarrollo de la región, y los compromisos internacionales adquiridos sobre estas áreas, es momento de comenzar a pensar y a concebir el desarrollo de las ciudades desde el urbanismo climático. Ciertamente no es todo, pero corresponde a un capítulo importante del desarrollo urbano sostenible y justo.",
+          "pagina": 80
+        },
+        {
+          "dimension": "oportunidades",
+          "cita": "Ha sido posible constatar la inmensa creatividad local en acciones de mitigación y de adaptación, formales e informales, sub‐documentadas y de cierto modo sub‐legitimadas en ciertos sectores; ellas ameritan ser sistemáticamente documentadas, evaluadas, reconocidas y adoptadas masivamente cuando cumplen principios de desarrollo sostenible y justo.",
+          "pagina": 79
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento se enmarca institucionalmente en el programa CEPAL-BMZ/GIZ Sendas de Desarrollo Sostenible, el cual define el 'Gran impulso ambiental' como una de sus tres áreas temáticas (p. 17). Asimismo, identifica sectores estratégicos clave a escala urbana como la eficiencia energética en edificaciones, alumbrado público, movilidad masiva baja en emisiones, valorización de residuos y modelos de negocio ESCO (p. 14, p. 77), e introduce incentivos económicos y normativos (PSA, LCA y Zonas de Bajas Emisiones). No obstante, el estudio no formula una propuesta autónoma de paquete masivo y coordinado de inversiones y políticas macroeconómicas simultáneas a escala de modelo de desarrollo (Test 1 de big_push.md), concentrándose en el diagnóstico y la revisión comparada de instrumentos, métricas y planes locales sectoriales.",
+      "citas": [
+        {
+          "cita": "Para apoyar la implementación de la Agenda 2030 y el Acuerdo de París de manera coherente, intersectorial y holística, el Programa CEPAL‐BMZ/GIZ 2018‐2020, llamado “Sendas de desarrollo sostenible para países de ingresos medios en el marco de la Agenda 2030 para el desarrollo sostenible en América Latina y el Caribe” (en adelante “Sendas”), ha trabajado en 9 países pilotos (Argentina, Brasil, Chile Costa Rica, Ecuador, México, Paraguay, República Dominicana y Uruguay). A lo largo de su ejecución se ha enfocado en tres áreas temáticas: 1) Planificación, estadísticas y financiamiento; 2) Gran impulso ambiental y; 3) Cambio Digital.",
+          "pagina": 17
+        },
+        {
+          "cita": "Las medidas de mitigación más comunes dicen relación con eficiencia energética en los sectores residencial, público, industrial, transporte, y con la producción de energías limpias en residuos.",
+          "pagina": 77
+        }
+      ],
+      "nota": null
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El documento documenta y analiza mecanismos, plataformas y procesos con nombre propio de articulación multinivel y multiactor vigentes o en implementación dentro de América Latina y el Caribe. Entre ellos destacan el espacio institucional 'Dialoguemos sobre las NDCs' en el Perú, que vincula al gobierno nacional con gobiernos regionales y locales como Puno para definir compromisos climáticos; el Sistema de Alertas Tempranas (SIATA) en Medellín como dispositivo técnico-normativo-participativo de adaptación; el Sistema de Estimación de Emisiones de Gases de Efecto Invernadero coordinado por ICLEI en Brasil a escala subnacional; el Registro Nacional de Reducción de Emisiones (RENARE) en Colombia; y la articulación técnica de redes de ciudades como C40, ICLEI (Urban LEDS) y RAMCC con autoridades locales y nacionales.",
+      "citas": [
+        {
+          "cita": "En el caso de Perú, la región y ciudad de Puno han estrechado la relación con el nivel nacional a través de los espacios ‘Dialoguemos sobre las NDCs’, una instancia que permite, entre otros, definir qué y cuánto asumen las regiones en términos de mitigación y adaptación con respecto a los compromisos nacionales.",
+          "pagina": 13
+        },
+        {
+          "cita": "Medellín cuenta con medidas de adaptación en cuatro instrumentos de planificación urbana local, uno metropolitano y uno regional. Entre las medidas de adaptación destaca la extensa experiencia en manejo de desplazamiento de masa, con dispositivos técnico‐normativos‐participativos como el Sistema de Alertas Tempranas (SIATA).",
+          "pagina": 66
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento enumera sectores, actividades e instrumentos concretos de oportunidad económica y ambiental en ciudades, tales como la reconversión tecnológica y eficiencia energética en edificaciones e industrias, modelos de negocio de empresas de servicios energéticos (ESCO) y esquemas de ahorros garantizados, certificación CAPE de proyectos de ahorro energético, esquemas de Pago por Servicios Ambientales (PSA) para cuencas y bosques, Líneas de Crédito Ambiental (LCA) y Zonas de Desarrollo Urbano de Baja Emisión (p. 13-14, p. 67, p. 77). Sin embargo, el vínculo de estas oportunidades con la generación masiva de empleo, la productividad agregada o la reducción de la desigualdad social queda enunciado en términos conceptuales generales (migrar la matriz para riqueza sostenible y justicia social) sin un desarrollo analítico cuantitativo, modelización empírica ni metas de empleo vinculadas.",
+      "citas": [
+        {
+          "cita": "Los modelos de negocio mayormente utilizados son el modelo Energy Service Company (ESCO), y el de Ahorros Garantizados.",
+          "pagina": 14
+        },
+        {
+          "cita": "En Medellín, cabe destacar los incentivos consignados en los Estatutos Tributarios que ofrece el Ministerio de Ambiente y Desarrollo Sostenible, las Líneas de Crédito Ambiental (LCA) son opciones que promueven inversiones en reconversión tecnológica que contribuyan al desarrollo sostenible y representen ventajas competitivas para las empresas. Además, los Pagos por Servicios Ambientales (PSA), un sistema que entrega un incentivo económico a las personas que prestan servicios ambientales como conservar una cuenca hídrica o un bosque.",
+          "pagina": 67
+        }
+      ],
+      "nota": null
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "No",
+      "evidencia": "La evaluación del 'cómo hacerlo' sobre la sección de cierre formal del documento (V. Conclusiones, pp. 79-80) muestra que las orientaciones formuladas operan como recomendaciones y reflexiones generales de política (establecer lineamientos, profundizar en incentivos normativos, consensuar en las CDN, documentar prácticas comunitarias e impulsar el urbanismo climático) sin desglosarse en un listado operativo con acciones individualmente ejecutables dotadas de instrumento normativo, responsable directo, cronograma o métrica de entrega. El documento constituye primordialmente una investigación de diagnóstico, caracterización de amenazas y mapeo de metodologías métricas.",
+      "citas": [
+        {
+          "cita": "A lo largo de esta investigación, se ha hecho evidente la multiplicidad de instituciones, metodologías y herramientas ofrecidas a las ciudades para la construcción de inventarios, evaluaciones de vulnerabilidad, y para la elaboración de planes de mitigación y de adaptación. Es altamente recomendable establecer una posición y lineamientos concretos en esta línea, para garantizar comparabilidad y escalabilidad de las acciones.",
+          "pagina": 79
+        },
+        {
+          "cita": "Considerando la situación climática actual, los desafíos de desarrollo de la región, y los compromisos internacionales adquiridos sobre estas áreas, es momento de comenzar a pensar y a concebir el desarrollo de las ciudades desde el urbanismo climático. Ciertamente no es todo, pero corresponde a un capítulo importante del desarrollo urbano sostenible y justo.",
+          "pagina": 80
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Establecer una posición y lineamientos concretos para la construcción de inventarios, evaluaciones de vulnerabilidad y planes de mitigación y adaptación que garanticen comparabilidad y escalabilidad de las acciones (p.79)",
+          "clasificacion": "GENERICO",
+          "pagina": 79
+        },
+        {
+          "item": "Profundizar en el conocimiento y aplicación de incentivos normativos, económicos y fiscales frente a las amenazas climáticas por su especificidad técnica (p.79)",
+          "clasificacion": "GENERICO",
+          "pagina": 79
+        },
+        {
+          "item": "Aprovechar el período de actualización de los Informes Nacionales para el diálogo, consenso y homologación interescalar entre gobiernos locales y nacionales en el marco de las CDN (p.79)",
+          "clasificacion": "GENERICO",
+          "pagina": 79
+        },
+        {
+          "item": "Documentar, evaluar, reconocer y adoptar masivamente las prácticas comunitarias locales de reducción de vulnerabilidad y presupuestos participativos climáticos (p.79)",
+          "clasificacion": "GENERICO",
+          "pagina": 79
+        },
+        {
+          "item": "Concebir e impulsar el desarrollo de las ciudades de la región desde el paradigma del urbanismo climático orientado a la sostenibilidad y la justicia urbana (p.80)",
+          "clasificacion": "GENERICO",
+          "pagina": 80
+        }
+      ],
+      "tally": "0 de 5 ítems pasan el test de concreción",
+      "nota": null
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento aborda la desconexión estructural entre la magnitud de los riesgos climáticos en las ciudades latinoamericanas y la fragmentación técnica y metodológica de las respuestas locales. Procesa la tensión entre la proliferación de inventarios y planes urbanos dispares y la necesidad de integrar las contribuciones locales en los compromisos climáticos nacionales (CDN), evidenciando que la acción climática territorial requiere tanto rigor científico en la identificación de amenazas como estandarización métrica e institucionalidad multinivel.",
+      "filtro_categoria_primaria": "El objetivo transformador primario es la sostenibilidad ambiental (#6), enfocado en la mitigación de emisiones de GEI, la adaptación frente a eventos climáticos extremos y lentos, y la resiliencia en sistemas urbanos de América Latina y el Caribe para avanzar hacia el urbanismo climático.",
+      "secundaria_obligatoria": "La categoría secundaria obligatoria es Capacidades del Estado (#11), ya que el instrumento analítico y la palanca operativa central residen en el fortalecimiento de las capacidades institucionales de gobiernos locales y nacionales, la estandarización técnica de protocolos e inventarios, la coordinación intergubernamental multinivel y el diseño de incentivos normativos y fiscales.",
+      "justificacion_anti_copia": "La publicación examina taxonomías de eventos extremos y lentos en urbes de la red C40, contrasta inventarios de GEI elaborados bajo directrices IPCC 2016, protocolos GPC y Huella de Ciudades CAF, y analiza la integración de compromisos urbanos en las CDN a partir de casos como el PACCM de Ciudad de México, el SIATA y PSA en Medellín, y el Plan de Adaptación MOVE® en Recife.",
+      "validacion_anclas": "Se alinea con el ancla de Doc 09 (Building a climate resilient power sector...), clasificado como #6 Primaria / #11 Secundaria, donde la sostenibilidad y resiliencia sectorial-territorial constituyen el objeto principal y las capacidades técnicas e institucionales funcionan como medio habilitador. Se diferencia de Doc 08 y Doc 12 (#11 Primaria / #6 Secundaria) porque su estructura analítica central está organizada por amenazas físicas, emisiones urbanas y métricas de mitigación/adaptación, y no por un inventario estrictamente jurídico-institucional."
+    },
+    "tipo_documento_climatico": "Documento de proyecto / estudio técnico",
+    "nivel_aplicacion": "Regional (con estudios de caso a nivel de ciudad y subnacional)",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

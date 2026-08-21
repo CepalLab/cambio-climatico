@@ -1,0 +1,36 @@
+{
+  "version": "promocion-v1",
+  "created_at": "2026-08-20T17:16:41+00:00",
+  "result_path": "corpus/intermedios/11362/68712/borrador_preprueba.json",
+  "result_sha256": "2caf96e79ffca6a12630401705b45382ff8af7461127ffd8b2c3095ee1fdf1ad",
+  "indice_sha256": "7d44d671d6c6056e6a65b076639cf34f959de1af73c2c6d1e6bae6660df6dc6f",
+  "page_source_sha256": "7a34b7ca1d092c640e76f4a3916bb7d6ab1be6b327446f7e6348f5d71fe03ecf",
+  "checks": [
+    {
+      "name": "esquema",
+      "exit_code": 0,
+      "report": "corpus/intermedios/11362/68712/reporte_validacion_esquema.txt"
+    },
+    {
+      "name": "indice",
+      "exit_code": 0,
+      "report": "corpus/intermedios/11362/68712/reporte_validacion_indice.txt"
+    },
+    {
+      "name": "orden",
+      "exit_code": 0,
+      "report": "corpus/intermedios/11362/68712/reporte_validacion_orden.txt"
+    },
+    {
+      "name": "citas",
+      "exit_code": 0,
+      "report": "corpus/intermedios/11362/68712/reporte_validacion_citas.txt"
+    },
+    {
+      "name": "titulos_cobertura",
+      "exit_code": 0,
+      "report": "corpus/intermedios/11362/68712/reporte_validacion_titulos_cobertura.txt"
+    }
+  ],
+  "ok": true
+}

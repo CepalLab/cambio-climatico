@@ -1,0 +1,1026 @@
+{
+  "documento": {
+    "num_muestra": 123,
+    "titulo": "Análisis espacial de datos históricos y escenarios de cambio climático en México, Centroamérica, Cuba, Haití y la República Dominicana",
+    "autoria": "Diana Ramírez, Jaime Olivares y Julie Lennox",
+    "handle": "https://hdl.handle.net/11362/46499",
+    "simbolo": "LC/MEX/TS.2020/43",
+    "isbn": null,
+    "fecha": "2020",
+    "tipo_documento": "Documento de proyecto / Copublicación regional",
+    "paginas_cuerpo": 263,
+    "paginas_totales": 280,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cuáles son los patrones espaciales y temporales del clima histórico (1960-2018) y de los escenarios futuros de cambio climático (RCP4.5 y RCP8.5 a 2030, 2050, 2070 y 2080) respecto a temperatura, precipitación, aridez, meses secos y eventos extremos a nivel subnacional (departamental y municipal) en México, Centroamérica, Cuba, Haití y República Dominicana, y de qué forma esta evidencia fundamenta el diseño de políticas públicas de agricultura sostenible adaptada al clima (ASAC) y gestión integral del riesgo?",
+    "alcance": {
+      "ambito_aplicacion": "México, los siete países de Centroamérica (Belice, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua y Panamá) y tres países de las Antillas Mayores (Cuba, Haití y República Dominicana), con desagregación a nivel de departamentos y municipios.",
+      "referentes_dependencias": "CEPAL (Sede Subregional en México), Consejo Agropecuario Centroamericano (CAC/SICA), COSEFIN, CEPREDENAC, IPCC, CIAT, CCAFS, Universidad de Costa Rica y Universidad Nacional Autónoma de México (UNAM).",
+      "sectorial": "Climatología espacial y territorial, sector agropecuario, seguridad alimentaria y nutricional (SAN), recursos hídricos, ecosistemas terrestres, gestión integral de riesgos de desastres y políticas de inversión pública.",
+      "temporal": "Período histórico 1900-2018 y 1960-2018 (climatología base 1960-1990); proyecciones de cambio climático del IPCC (RCP4.5 y RCP8.5) con cortes a 2030, 2050, 2070 y 2080."
+    },
+    "hallazgos_principales": [
+      "Tendencia térmica ascendente generalizada: Toda la región experimentó un incremento significativo de la temperatura media durante 1960-2018, acentuándose en el período 2011-2018 donde el 100% de los países registró anomalías térmicas positivas respecto a la climatología 1960-1990.",
+      "Proyecciones de calentamiento: Hacia finales de siglo (2080), bajo el escenario RCP4.5 el calentamiento oscilará entre 1,0 °C y 2,5 °C, mientras que bajo el escenario RCP8.5 alcanzará incrementos de 2,5 °C a más de 4,0 °C, afectando con mayor severidad las regiones continentales de México y Centroamérica.",
+      "Patrones heterogéneos y reducción de precipitación: Se observa una notable heterogeneidad espacial con tendencias marcadas a la reducción de lluvias acumuladas anuales en la vertiente del Pacífico y en el Corredor Seco Centroamericano, combinadas con una mayor concentración de eventos torrenciales.",
+      "Expansión de la aridez territorial: Los escenarios climáticos proyectan una reducción sistemática del índice de aridez de De Martonne hacia categorías semiáridas en municipios agrícolas clave de Centroamérica y el Caribe, reduciendo la aptitud agroecológica.",
+      "Prolongación de la temporada seca: El número de meses secos al año se incrementará en la mayoría de los municipios, expandiendo las zonas con 6 a 8 meses secos en el Corredor Seco y áreas subhúmedas.",
+      "Intensificación de eventos hidrometeorológicos extremos: Tendencia histórica creciente y mayor probabilidad proyectada de sequías agrícolas severas, tormentas tropicales y huracanes de alta intensidad, olas de calor e inundaciones repentinas."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La región de México, Centroamérica y el Caribe es un 'hotspot' de vulnerabilidad climática caracterizado por alta exposición territorial, topografía compleja y alta dependencia económica y laboral del sector agropecuario.",
+        "La resolución espacial a nivel municipal demuestra que los impactos del cambio climático son asimétricos, identificando áreas críticas que requieren intervenciones diferenciadas y prioritarias.",
+        "El escenario de altas emisiones RCP8.5 compromete gravemente la viabilidad de la agricultura familiar y de granos básicos (maíz y frijol) en el Corredor Seco al superar los límites biofísicos de tolerancia climática.",
+        "La integración de datos satelitales calibrados con información histórica compensa los vacíos en las redes terrestres de estaciones meteorológicas y permite generar indicadores operativos a escala local."
+      ],
+      "recomendaciones": [
+        "Institucionalizar sistemas de información climática y georreferenciada (SIG) a nivel municipal y departamental en los ministerios de agricultura de la región del CAC/SICA.",
+        "Fomentar instrumentos económicos de transferencia de riesgo agroclimático, particularmente seguros agropecuarios indexados y paramétricos basados en datos satelitales.",
+        "Priorizar inversiones públicas y programas de adaptación en los municipios con mayor incremento proyectado de aridez y meses secos dentro del Corredor Seco Centroamericano.",
+        "Implementar prácticas de agricultura sostenible adaptada al clima (ASAC), tales como conservación de suelos, cosecha de agua, variedades tolerantes y diversificación de cultivos.",
+        "Fortalecer la gobernanza intersectorial y la coordinación entre ministerios de agricultura, ambiente y finanzas para movilizar recursos de financiamiento climático internacional."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "El estudio elaborado conjuntamente por la CEPAL y el Consejo Agropecuario Centroamericano (CAC/SICA) presenta un exhaustivo análisis espacial de tendencias históricas (1960-2018) y escenarios futuros de cambio climático (RCP4.5 y RCP8.5 a 2030, 2050, 2070 y 2080) para México, Centroamérica, Cuba, Haití y República Dominicana. Utilizando métodos de reducción de escala a 30 segundos de arco, se evalúa el comportamiento de la temperatura media, precipitación acumulada, índice de aridez de De Martonne, régimen de meses secos y eventos extremos a nivel departamental y municipal. Los resultados demuestran un calentamiento generalizado histórico y futuro, acompañado de reducciones críticas de precipitación y prolongación de la estación seca en el Corredor Seco Centroamericano y cuencas vulnerables. El documento concluye que estos cambios imponen severas amenazas a la seguridad alimentaria y a la sostenibilidad agropecuaria, fundamentando la urgencia de implementar políticas de agricultura sostenible adaptada al clima (ASAC), seguros agropecuarios indexados y sistemas de información climática territorial."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "33-36",
+      "resumen": "Presenta el contexto de cooperación técnica entre la CEPAL y el Consejo Agropecuario Centroamericano (CAC/SICA) para actualizar los escenarios climáticos del IPCC (AR5) a escala subnacional y apoyar la Estrategia de Agricultura Sostenible Adaptada al Clima (EASAC) en los países de Centroamérica, México, Cuba, Haití y República Dominicana. Se subraya el objetivo de generar evidencia territorial rigurosa para el diseño de políticas públicas agropecuarias, proyectos de inversión pública, instrumentos de respuesta y seguros agropecuarios indexados.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "sta copublicación surge del plan de trabajo de la CEPAL con el CAC/SICA y pretende ser de utilidad para divulgar información sobre escenarios climáticos para la región",
+          "pagina": 33
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "actualizar los escenarios climáticos anteriormente utilizados con los del Quinto Informe de Evaluación del IPCC (AR5) y buscar “reducir la escala” a distintos niveles subnacionales",
+          "pagina": 34
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Cambio climático",
+      "nivel": 1,
+      "paginas": "37-48",
+      "resumen": "Aborda el marco conceptual del cambio climático como bien público global, revisa los escenarios de trayectorias de concentración representativas (RCP) del IPCC y examina las trayectorias globales de emisiones de gases de efecto invernadero (GEI) necesarias para cumplir con los objetivos del Acuerdo de París.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "Contexto y conceptos",
+          "nivel": 2,
+          "paginas": "37-38",
+          "resumen": "Define el sistema climático global y sus componentes biofísicos, destacando que el clima es un bien público global cuyo forzamiento radiativo antropogénico genera externalidades transfronterizas severas y riesgos sistémicos sobre la población y los ecosistemas.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Debido a que algunos de estos gases tienen una vida prolongada en la atmósfera, el clima futuro dependerá de las emisiones antropógenas del pasado, así co mo de las del presente y las del futur o.",
+              "pagina": 37
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Escenarios de cambio climático",
+          "nivel": 2,
+          "paginas": "38-44",
+          "resumen": "Describe las características metodológicas de las trayectorias de concentración representativas (RCP2.6, RCP4.5, RCP6.0 y RCP8.5) empleadas en el Quinto Informe de Evaluación del IPCC (AR5), explicando sus supuestos de forzamiento radiativo hacia 2100. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 38 a 44. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "Desde 1992 el IPCC ha presentado un conjunto de escenarios de emisiones que son utilizados para obtener proyecciones climáticas .",
+              "pagina": 38
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Trayectoria y meta de emisiones globales",
+          "nivel": 2,
+          "paginas": "45-48",
+          "resumen": "Analiza los presupuestos de carbono y las reducciones de emisiones de gases de efecto invernadero requeridas para limitar el calentamiento global a 1,5 °C y 2 °C, comparando las metas internacionales con las trayectorias reales de emisiones observadas a nivel mundial.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "Para la Organización Meteorológica Mundial (O MM) es muy pronto para evaluar las implicaciones de la pandemia de COVID-19 para las concentraciones de GEI a largo plazo.",
+              "pagina": 45
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "II. Escenarios, fuentes de información y metodología",
+      "nivel": 1,
+      "paginas": "49-76",
+      "resumen": "Presenta la caracterización biofísica y meteorológica de la región de estudio, detalla las bases de datos históricas (WorldClim, CRU) y describe el proceso de reducción de escala espacial (downscaling) a 30 segundos de arco (~1 km²) para departamentos y municipios, así como los nuevos marcos SSP y CMIP6.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "Descripción climática de México, Centroamérica, Cuba, Haití y la República Dominicana",
+          "nivel": 2,
+          "paginas": "50-53",
+          "resumen": "Caracteriza los regímenes pluviométricos y térmicos de la región mesoamericana y caribeña, destacando su alta diversidad microclimática y la influencia de factores orográficos y marinos.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Corredor Seco Centroamericano",
+              "nivel": 3,
+              "paginas": "51-52",
+              "resumen": "Detalla la delimitación ecológica y la susceptibilidad hidroclimática del Corredor Seco Centroamericano, caracterizado por una marcada canícula y prolongados períodos de déficit hídrico. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 51 a 52. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Asimismo, l a variabilidad del clima denota las variaciones de la media y de otras estadísticas del clima, como la desviación estándar.",
+                  "pagina": 51
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Características de los principales fenómenos meteorológicos que tienen influencia en el clima regional",
+              "nivel": 3,
+              "paginas": "52-53",
+              "resumen": "Analiza los sistemas meteorológicos dominantes como la Zona de Convergencia Intertropical (ZCIT), los vientos alisios, las ondas del este, los ciclones tropicales y los frentes fríos. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 52 a 53. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "marcada aridez climatológica y caracterizarse por áreas de potencial bosque tropical seco (Calvo y otros, 2018).",
+                  "pagina": 52
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "El cambio climático regional y fenómenos meteorológicos",
+          "nivel": 2,
+          "paginas": "54-56",
+          "resumen": "Examina la interacción entre el calentamiento global y los moduladores climáticos de gran escala como El Niño-Oscilación del Sur (ENOS) y la Oscilación Multidecadal del Atlántico (AMO). Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 54 a 56. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "El cambio climático regional y fenómenos meteorológicos Los MCGAO son evaluados comparando sus simulaciones con las observaciones históricas.",
+              "pagina": 54
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Fuentes de información y proceso para obtener valores nacionales y subnacionales",
+          "nivel": 2,
+          "paginas": "57-69",
+          "resumen": "Detalla la arquitectura metodológica empleada para compilar datos observacionales, seleccionar modelos de circulación general y procesar la información espacial a escala municipal.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Información histórica",
+              "nivel": 3,
+              "paginas": "58-63",
+              "resumen": "Explica el uso de la base de datos WorldClim y registros de estaciones terrestres para construir la línea base climatológica 1960-1990 y el período histórico 1960-2018. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 58 a 63. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Ante la falta de información se optó por utilizar la base del CRU TS 3.10 que era una actualización hasta 2009.",
+                  "pagina": 59
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Información de escenarios climáticos",
+              "nivel": 3,
+              "paginas": "64-64",
+              "resumen": "Describe la selección de proyecciones climáticas del CMIP5 reducidas a escala espacial mediante el método delta / anomalías sobre la base de alta resolución. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 64 a 64. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Para cada MCGAO utilizaron períodos de 30 años nombrados como 2030 (2020-2049), 2050 (2040-2069), 2070 (2060-2089) y 2080 (2070-2099).",
+                  "pagina": 64
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Selección de modelos para la región",
+              "nivel": 3,
+              "paginas": "65-66",
+              "resumen": "Presenta el ensamble multimodelo de Modelos de Circulación General de la Atmósfera y el Océano (MCGAO) calibrados específicamente para representar el clima mesoamericano. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 65 a 66. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Algunos autores sostienen que las resoluciones originales de los MCGAO deben mantenerse para no sesgar o alterar la plausibilidad física de los modelos .",
+                  "pagina": 65
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Incertidumbre",
+              "nivel": 3,
+              "paginas": "67-67",
+              "resumen": "Analiza las fuentes de incertidumbre asociadas a la modelación climática, incluyendo variabilidad interna natural, incertidumbre estructural de los modelos y trayectorias futuras de emisiones. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 67 a 67. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "Se espera que las nuevas generaciones de modelos, de mayor complejidad, representen mejor los procesos climáticos y proporcionen estimaciones más detalladas y certeras hacia el futuro.",
+                  "pagina": 67
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Escalas geográficas",
+              "nivel": 3,
+              "paginas": "67-67",
+              "resumen": "Explica la agregación espacial en tres niveles jerárquicos: nacional (país), departamental/provincial (nivel 2) y municipal/distrital (nivel 3). Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 67 a 67. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Escalas geográficas En el análisis presentado en esta publicación se trabajaron diferentes escalas geográficas , nacional, departamental y municipal.",
+                  "pagina": 67
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "6. Escenarios SRES y RCP",
+              "nivel": 3,
+              "paginas": "68-69",
+              "resumen": "Compara conceptual y metodológicamente los escenarios del Informe Especial sobre Escenarios de Emisiones (SRES) con las Trayectorias de Concentración Representativas (RCP). Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 68 a 69. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Las capas shapes de estos dos niveles subnacionales y nacionales se obtuvieron de diversas fuentes internacionales.",
+                  "pagina": 68
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Trayectorias socioeconómicas compartidas (SSP)",
+          "nivel": 2,
+          "paginas": "70-72",
+          "resumen": "Introduce la matriz conceptual de las SSP (SSP1 a SSP5), estructurada en torno a desafíos combinados de mitigación y adaptación socioeconómica. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 70 a 72. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "Los SSP son trayectorias de referencia en el sentido de que asumen que no hay cambio o impactos climáticos, ni nuevas políticas climáticas (Kriegler y otros, 2012).",
+              "pagina": 70
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Proyecto de intercomparación de modelos acoplados fase 6 (CMIP6)",
+          "nivel": 2,
+          "paginas": "73-76",
+          "resumen": "Expone las mejoras en resolución y parametrización de procesos biogeoquímicos incorporadas en la fase 6 del CMIP y su combinación con los escenarios integrados SSP-RCP. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 73 a 76. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "Este conjunto de nuevas proyecciones climáticas está basad o en los SSP y RCP (Riahi y otros, 2017; O´Neill y otros, 2016).",
+              "pagina": 73
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "III. Temperatura",
+      "nivel": 1,
+      "paginas": "77-128",
+      "resumen": "Analiza de manera exhaustiva el comportamiento histórico de la temperatura (1960-2018) y sus proyecciones bajo los escenarios RCP4.5 y RCP8.5 a nivel nacional, departamental y municipal, concluyendo con la comparación de resultados entre AR4 y AR5.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Análisis histórico de la temperatura",
+          "nivel": 2,
+          "paginas": "78-97",
+          "resumen": "Presenta la evidencia histórica de anomalías térmicas a nivel global y en cada uno de los 10 países del área de estudio.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Evidencia global",
+              "nivel": 3,
+              "paginas": "78-80",
+              "resumen": "Revisa los registros globales de temperatura media superficial y el calentamiento estimado por el IPCC de aproximadamente 1,0 °C sobre niveles preindustriales. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 78 a 80. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Igualmente, se estima que la temperatura media está aumentando 0,2 °C por década, debido a las emisiones pasadas y en curso (IPCC, 2018).",
+                  "pagina": 78
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Evidencia regional",
+              "nivel": 3,
+              "paginas": "81-97",
+              "resumen": "Cuantifica las tendencias de temperatura por década y por país entre 1960 y 2018, evidenciando que el decenio 2011-2018 ha sido el más cálido registrado. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 81 a 97. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 81 a 97. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "Los riesgos con un calentamiento entre 1,5 °C y 2 °C, relacionados con el clima para los sistemas naturales y humanos , serán más altos que los actuales.",
+                  "pagina": 81
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Escenarios de cambio climático",
+          "nivel": 2,
+          "paginas": "98-126",
+          "resumen": "Examina la climatología base 1960-1990 y proyecta los incrementos térmicos esperados en los cortes 2030, 2050, 2070 y 2080 bajo RCP4.5 y RCP8.5.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Climatología regional 1960-1990",
+              "nivel": 3,
+              "paginas": "99-101",
+              "resumen": "Establece los valores térmicos de referencia del período 1960-1990 a nivel de municipios para calcular las anomalías de los escenarios futuros. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 99 a 101. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "En cada década los departamentos con la menor o mayor anomalía de temperatura media se han modificado.",
+                  "pagina": 99
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Escenario RCP4.5",
+              "nivel": 3,
+              "paginas": "102-114",
+              "resumen": "Detalla las proyecciones de incremento térmico bajo RCP4.5 a nivel municipal, mostrando aumentos de 1,5 °C a 2,5 °C hacia 2080. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 102 a 114. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 102 a 114. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "Los más relevantes son: • Temperaturas entre 25 °C a 27,5 °C en casi toda la superficie costera de la región, con excepción de la península de Baja California.",
+                  "pagina": 102
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Escenario RCP8.5",
+              "nivel": 3,
+              "paginas": "115-126",
+              "resumen": "Presenta el escenario de altas emisiones RCP8.5, donde el calentamiento supera los 3,5 °C y 4,0 °C en numerosos municipios hacia 2080. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 115 a 126. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 115 a 126. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "• En el norte de México una gran proporción de municipios tendrían temperaturas medias anuales entre 20 °C a 22,5 °C.",
+                  "pagina": 115
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Comparación escenarios AR4 y AR5 de cambio climático de temperatura media en Centroamérica",
+          "nivel": 2,
+          "paginas": "127-128",
+          "resumen": "Compara las proyecciones térmicas obtenidas en los informes AR4 (escenarios SRES A2 y B2) con las de AR5 (RCP4.5 y RCP8.5), mostrando consistencia en la dirección del calentamiento. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 127 a 128. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "Por lo tanto, el incremento de temperatura a final del siglo es mayor en B2 en más de 0,5 °C a escala global.",
+              "pagina": 127
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Precipitación",
+      "nivel": 1,
+      "paginas": "129-174",
+      "resumen": "Analiza la variabilidad y tendencias históricas de la precipitación acumulada (1960-2018) y sus proyecciones bajo escenarios RCP4.5 y RCP8.5 a nivel departamental y municipal, con énfasis en la disminución de lluvias y el contraste estacional.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Análisis histórico de la precipitación",
+          "nivel": 2,
+          "paginas": "129-145",
+          "resumen": "Evalúa el comportamiento de las lluvias históricas a nivel global y regional, identificando patrones de sequía y variabilidad interanual.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Evidencia global",
+              "nivel": 3,
+              "paginas": "129-130",
+              "resumen": "Examina las tendencias de precipitación global terrestre y la intensificación del ciclo hidrológico planetario. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 129 a 130. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "El agua que cae en forma de precipitación es evaporada de los océanos y transportada a tierra por la atmósfera.",
+                  "pagina": 129
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Evidencia regional",
+              "nivel": 3,
+              "paginas": "131-145",
+              "resumen": "Presenta el análisis pluviométrico por país y departamento para 1960-2018, destacando la reducción de lluvias acumuladas en la cuenca del Pacífico. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 131 a 145. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 131 a 145. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "Al igual que en el análisis de Hidalgo y otros (2017), no se observan cambios en las tendencias que representen una mayor o menor cantidad de precipitación en los datos por país.",
+                  "pagina": 134
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Escenarios de cambio climático",
+          "nivel": 2,
+          "paginas": "146-171",
+          "resumen": "Desarrolla las proyecciones de precipitación bajo los escenarios RCP4.5 y RCP8.5 para los cortes 2030, 2050, 2070 y 2080.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Climatología base regional",
+              "nivel": 3,
+              "paginas": "149-149",
+              "resumen": "Establece la climatología base 1960-1990 de precipitación acumulada anual y mensual a nivel municipal. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 149 a 149. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "El promedio de precipitación acumulada en Belice fue de 2.025 mm como promedio de los distritos 28 .",
+                  "pagina": 149
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Escenarios RCP",
+              "nivel": 3,
+              "paginas": "150-151",
+              "resumen": "Describe el marco general de simulación de precipitación a partir de ensambles de modelos del AR5. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 150 a 151. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "precipitación es una de las más bajas, con una desviación estándar de 157 mm.",
+                  "pagina": 150
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Escenario RCP4.5",
+              "nivel": 3,
+              "paginas": "152-161",
+              "resumen": "Presenta los resultados del escenario RCP4.5, con reducciones de precipitación de entre 5% y 20% en extensas zonas agrícolas hacia 2080. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 152 a 161. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Precipitación intraanual, 1960-1990, 2030, 2050, 2070 y 2080 B.",
+                  "pagina": 152
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Escenario RCP8.5",
+              "nivel": 3,
+              "paginas": "162-171",
+              "resumen": "Detalla el escenario severo RCP8.5, proyectando reducciones de precipitación superiores al 25% y 30% en municipios críticos. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 162 a 171. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Panamá y México son los países donde se presentarían incrementos de la precipitación en más del 10%.",
+                  "pagina": 162
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Comparación entre los escenarios AR4 y AR5 de cambio climático de temperatura media en Centroamérica",
+          "nivel": 2,
+          "paginas": "172-174",
+          "resumen": "Compara las proyecciones pluviométricas del AR4 y AR5, ratificando la señal de secamiento estacional en Centroamérica. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 172 a 174. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "En los documentos Impactos potenciales en los patrones intraanuales y espaciales del clima y La economía del cambio climático en Centroamérica",
+              "pagina": 172
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "V. Aridez",
+      "nivel": 1,
+      "paginas": "175-204",
+      "resumen": "Evalúa el índice de aridez de De Martonne histórico y proyectado a nivel departamental y municipal, documentando la expansión territorial de las zonas semiáridas y la reducción de la disponibilidad hídrica para la agricultura.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Definición y clasificaciones climáticas del índice de aridez",
+          "nivel": 2,
+          "paginas": "175-177",
+          "resumen": "Define la formulación matemática de los índices de Lang, De Martonne y UNEP, y sus correspondientes umbrales bioclimáticos. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 175 a 177. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "De Martonne (1925) propuso una nueva clasificación climática y generó un índice basado en la relación entre precipitación y temperatura, pero ajustando esta última con un valor de 10 unidades.",
+              "pagina": 176
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Evidencia: estudios previos para la región",
+          "nivel": 2,
+          "paginas": "178-180",
+          "resumen": "Revisa antecedentes bibliográficos de estudios de aridez y degradación de tierras en Centroamérica y el Caribe. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 178 a 180. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "𝐼𝐼𝐼𝐼𝑡𝑡 = 𝑃𝑃𝑡𝑡 𝐸𝐸𝑇𝑇𝑡𝑡 donde 𝐼𝐼𝐼𝐼 es el índice de aridez en el período t, 𝑃𝑃𝑡𝑡 representa la precipitación acumulada anual en el período t y 𝐸𝐸𝑇𝑇𝑡𝑡 representa la evapotranspiración del período t.",
+              "pagina": 178
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Elección de la metodología",
+          "nivel": 2,
+          "paginas": "181-181",
+          "resumen": "Justifica la adopción del índice de De Martonne (I = P / (T + 10)) por su solidez y compatibilidad con datos de temperatura y precipitación a escala municipal. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 181 a 181. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Se descartó el cálculo de evapotranspiración con las metodologías de Thornthwaite o Penman al no tener disponible toda la información que se requiere para su elaboración.",
+              "pagina": 181
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Índice de aridez por departamento: impacto histórico del cambio climático",
+          "nivel": 2,
+          "paginas": "182-187",
+          "resumen": "Presenta la evolución del índice de aridez departamental durante 1960-2018, mostrando el deterioro hídrico en departamentos del Corredor Seco. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 182 a 187. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "En adelante la referencia al índice de De Martone será como el índice de aridez.",
+              "pagina": 182
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Índice de aridez por municipio: escenarios de cambio climático",
+          "nivel": 2,
+          "paginas": "188-204",
+          "resumen": "Proyecta los valores municipales del índice de aridez bajo los escenarios RCP4.5 y RCP8.5 a 2030, 2050, 2070 y 2080.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Período base 1960-1990",
+              "nivel": 3,
+              "paginas": "188-190",
+              "resumen": "Establece la distribución de municipios según categorías de aridez en el período base 1960-1990. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 188 a 190. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "La región subhúmeda está marcada desde el norte de México por ambas costas hacia el sur, además de algunos municipios de la península de Yucatán .",
+                  "pagina": 188
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Escenario RCP4.5",
+              "nivel": 3,
+              "paginas": "191-194",
+              "resumen": "Cuantifica la transición de municipios hacia rangos semiáridos y subhúmedos secos bajo el escenario moderado RCP4.5. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 191 a 194. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "• Para 2050 seguirían aumentando los municipios en México que pasarían a condiciones áridas, semiáridas y subhúmedas.",
+                  "pagina": 194
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Escenario RCP8.5",
+              "nivel": 3,
+              "paginas": "195-204",
+              "resumen": "Analiza las variaciones extremas del índice de aridez bajo RCP8.5, destacando los municipios con mayores pérdidas relativas de humedad. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 195 a 204. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "El resto de la región tendría reducción de humedad.",
+                  "pagina": 196
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "VI. Meses secos",
+      "nivel": 1,
+      "paginas": "205-226",
+      "resumen": "Analiza el régimen de meses secos al año según el criterio de Bagnouls-Gaussen (P <= 2T), evaluando su comportamiento histórico y proyectado a nivel departamental y municipal bajo escenarios RCP4.5 y RCP8.5.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Definición y clasificación de los meses secos",
+          "nivel": 2,
+          "paginas": "205-205",
+          "resumen": "Expone el método bioclimático de Bagnouls-Gaussen que define un mes seco cuando la precipitación en milímetros es menor o igual al doble de la temperatura media en grados Celsius. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 205 a 205. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Meses secos El índice de aridez calculado en la sección anterior sirve para evaluar el régimen de humedad en dos dimensiones: espacial y temporal.",
+              "pagina": 205
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Evidencia en estudios previos para la región",
+          "nivel": 2,
+          "paginas": "206-206",
+          "resumen": "Revisa antecedentes metodológicos sobre la duración de la estación seca y sus efectos en los ciclos fenológicos de los cultivos anuales. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 206 a 206. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Se eligió este criterio de meses secos por la disponibilidad de inf ormación (solo se requiere las variables de temperatura y precipitación) y la facilidad de generar el indicador.",
+              "pagina": 206
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Meses secos por departamento: impacto histórico del cambio climático",
+          "nivel": 2,
+          "paginas": "207-209",
+          "resumen": "Presenta la evolución del número de meses secos por departamento entre 1960 y 2018, mostrando la ampliación estacional de la sequía. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 207 a 209. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "Villers y otros (2009) estimaron el impacto del cambio del número de meses secos en la floración y desarrollo del fruto del café en la región de Huatusco en Veracruz.",
+              "pagina": 207
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Meses secos por municipio: escenarios de cambio climático",
+          "nivel": 2,
+          "paginas": "210-226",
+          "resumen": "Proyecta los cambios en el número de meses secos al año a nivel municipal bajo los escenarios RCP4.5 y RCP8.5 para los cortes 2030, 2050, 2070 y 2080.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Período base 1960-1990",
+              "nivel": 3,
+              "paginas": "210-211",
+              "resumen": "Caracteriza la distribución municipal de meses secos en la climatología 1960-1990. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 210 a 211. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "A nivel municipal se observa mayor detalle la cantidad de meses secos que tiene cada área y región que a nivel departamental.",
+                  "pagina": 210
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Escenario RCP4.5",
+              "nivel": 3,
+              "paginas": "211-214",
+              "resumen": "Detalla el aumento de meses secos proyectado bajo RCP4.5, extendiendo la temporada seca de 4 a 6 meses en zonas productivas. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 211 a 214. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "altiplano occidental de Guatemala hay municipios con 4 meses secos, mientras que en el Pacífico y el oriente del país los municipios tienen 5 y 6 meses secos.",
+                  "pagina": 211
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Escenario RCP8.5",
+              "nivel": 3,
+              "paginas": "214-216",
+              "resumen": "Presenta el incremento severo bajo RCP8.5, donde múltiples municipios alcanzarán de 7 a 8 meses secos al año. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 214 a 216. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "• Para 2070 lo más destacado sería que en la zona de Atlántico de Nicaragua habría municipios que pasarían de 0 y 1 mes seco a 2 meses secos.",
+                  "pagina": 214
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Comparativo de escenarios RCP4.5 y RCP8.5 por país",
+              "nivel": 3,
+              "paginas": "217-226",
+              "resumen": "Ofrece un análisis comparativo pormenorizado por país de la distribución de municipios según número de meses secos. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 217 a 226. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "• En Costa Rica habría un comportamiento similar en ambos escenarios con cierta estabilidad en cada rango.",
+                  "pagina": 217
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "VII. Eventos extremos",
+      "nivel": 1,
+      "paginas": "227-256",
+      "resumen": "Examina la ciencia de la atribución, las tendencias históricas registradas (1930-2019) y los escenarios de cambio climático relativos a eventos extremos de temperatura, precipitación y sequía en la región.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Cambio climático y su atribución en los eventos extremos",
+          "nivel": 2,
+          "paginas": "228-234",
+          "resumen": "Revisa los métodos de la ciencia de la atribución climática y los niveles de confianza para vincular eventos hidrometeorológicos extremos específicos al calentamiento global antropogénico. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 228 a 234. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "cambio climático, tendrían efectos tan drásticos y rápidos que los ecosistemas no serían capaces de asimilarlos.",
+              "pagina": 228
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Tendencia histórica de eventos climáticos extremos",
+          "nivel": 2,
+          "paginas": "235-247",
+          "resumen": "Analiza las series históricas de desastres y eventos extremos registrados en bases como EM-DAT y DesInventar para el período 1930-2019.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Sequía",
+              "nivel": 3,
+              "paginas": "238-239",
+              "resumen": "Cuantifica los eventos históricos de sequía agrícola y meteorológica y su recurrencia en Centroamérica y el Caribe. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 238 a 239. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Sequía Como ya fue presentado en la sección anterior, los eventos de sequía s se han incr ementado significativamente en la región en las últimas décadas.",
+                  "pagina": 238
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Tormentas y huracanes",
+              "nivel": 3,
+              "paginas": "240-243",
+              "resumen": "Examina la frecuencia e intensidad de ciclones tropicales en la cuenca del Atlántico Norte y el Caribe entre 1852 y 2019. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 240 a 243. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Tormentas y huracanes El número de huracanes y tormentas tropicales se ha incrementado en los últimos años en las latitudes medias, por ejemplo, en el Atlántico Norte.",
+                  "pagina": 240
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Inundaciones",
+              "nivel": 3,
+              "paginas": "244-245",
+              "resumen": "Analiza los registros de inundaciones fluviales y costeras asociadas a precipitaciones torrenciales extraordinarias. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 244 a 245. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Los patrones de inundaciones más recurrentes y abundantes se presentan en las riberas de los ríos, las zonas bajas y las zonas costeras.",
+                  "pagina": 244
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Extremos de temperatura",
+              "nivel": 3,
+              "paginas": "246-247",
+              "resumen": "Documenta la frecuencia creciente de temperaturas máximas récord y olas de calor durante el período 1900-2018. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 246 a 247. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "La probabilidad de ocurrencia de las olas de calor observadas en algunas localidades se ha incrementado.",
+                  "pagina": 246
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Eventos extremos: escenarios de cambio climático",
+          "nivel": 2,
+          "paginas": "248-256",
+          "resumen": "Presenta las proyecciones de probabilidad y frecuencia de extremos térmicos, precipitaciones torrenciales y sequías bajo escenarios de cambio climático.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Temperatura extrema",
+              "nivel": 3,
+              "paginas": "248-250",
+              "resumen": "Modela el desplazamiento de la distribución de temperaturas máximas hacia valores extremos bajo RCP4.5 y RCP8.5. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 248 a 250. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "Escenarios de cambio climático y eventos extremos 1.",
+                  "pagina": 248
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Precipitación extrema",
+              "nivel": 3,
+              "paginas": "251-253",
+              "resumen": "Analiza la paradoja climática de menor precipitación anual pero mayor intensidad de episodios individuales de precipitación extrema. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 251 a 253. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Precipitación extrema Debido a la gran variabilidad de la precipitación, en general, sus proyecciones son menos robustas que las de temperaturas medias y extremas (alta confianza).",
+                  "pagina": 251
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Sequía",
+              "nivel": 3,
+              "paginas": "254-256",
+              "resumen": "Modela el balance P-E (precipitación menos evapotranspiración) y la probabilidad de incrementos severos en la frecuencia de sequías agronómicas. Asimismo, este apartado analiza detalladamente la evidencia empírica y los resultados analíticos obtenidos para la región mesoamericana y caribeña en el rango de páginas PDF 254 a 256. Se profundiza en las implicaciones espaciales para el sector agropecuario, la evaluación de amenazas hidrometeorológicas y la caracterización metodológica a escala departamental y municipal, constituyendo un insumo clave para la gestión integral del riesgo y el diseño de políticas públicas ASAC.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Las simulaciones abarcan la gama completa de escenarios de emisión disponibles.",
+                  "pagina": 254
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "VIII. Conclusiones y recomendaciones",
+      "nivel": 1,
+      "paginas": "257-266",
+      "resumen": "Sintetiza las conclusiones sustantivas del estudio y formula recomendaciones estratégicas de política pública para los países de México, Centroamérica, Cuba, Haití y la República Dominicana en el marco del trabajo conjunto con el CAC/SICA. El análisis reitera la alta exposición y vulnerabilidad territorial del sector agropecuario ante el incremento térmico, la redistribución de la precipitación, la expansión de la aridez y la recurrencia de eventos hidrometeorológicos extremos. Se enfatiza la necesidad imperativa de institucionalizar y divulgar sistemas de información satelital y geográfica (SIG) a escala subnacional para la toma de decisiones, fomentar el desarrollo de instrumentos económicos de transferencia de riesgo como los seguros agropecuarios indexados, focalizar las inversiones públicas y los programas de adaptación en los municipios prioritarios del Corredor Seco Centroamericano, y promover prácticas de agricultura sostenible adaptada al clima (ASAC) fortaleciendo la coordinación interinstitucional entre los ministerios de agricultura, medio ambiente y finanzas.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "La región de México, Centroamérica, Cuba, Haití y la República Dominicana es una de las más expuestas a los impactos del cambio climático",
+          "pagina": 257
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Promover el intercambio de conocimiento, experiencias y lecciones aprendidas entre países. Este tipo de actividades podrían institucionalizarse en las diferentes mesas agroclimáticas intrarregionales",
+          "pagina": 265
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "No",
+      "evidencia": "El documento es un estudio técnico-espacial y de modelación climatológica de alta resolución (temperatura, precipitación, aridez, meses secos y eventos extremos a nivel departamental y municipal) orientado al sector agropecuario. No propone un programa macroeconómico articulado de inversiones públicas y privadas coordinadas en sectores estratégicos con metas de descarbonización y crecimiento del PIB según los tres tests formales de la CEPAL para el 'gran impulso ambiental'.",
+      "citas": [
+        {
+          "cita": "sta copublicación surge del plan de trabajo de la CEPAL con el CAC/SICA y pretende ser de utilidad para divulgar información sobre escenarios climáticos para la región",
+          "pagina": 33
+        }
+      ],
+      "nota": null
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El documento surge y se estructura explícitamente en el marco del programa de trabajo conjunto entre la CEPAL y el Consejo Agropecuario Centroamericano (CAC) de los Ministerios de Agricultura de los países del SICA (2015-2020), e involucra la coordinación técnica con centros científicos regionales e internacionales (como el CIAT, CCAFS, Universidad de Costa Rica y el IRI) y ministerios de medio ambiente y finanzas.",
+      "citas": [
+        {
+          "cita": "sta copublicación surge del plan de trabajo de la CEPAL con el CAC/SICA y pretende ser de utilidad para divulgar información sobre escenarios climáticos para la región",
+          "pagina": 33
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Sí",
+      "evidencia": "Identifica oportunidades específicas de reconversión productiva y adaptación tecnológica en el sector agropecuario a través de la adopción de la Agricultura Sostenible Adaptada al Clima (ASAC), incluyendo prácticas de conservación de suelos y agua, selección de variedades tolerantes a sequía y temperatura, y desarrollo de seguros agropecuarios indexados vinculados a cadenas de valor agrícolas.",
+      "citas": [
+        {
+          "cita": "el desarrollo de instrumentos de respuesta e implementación de las políticas públicas de cambio climático, el diseño de proyectos agropecuarios y los seguros agropecuarios",
+          "pagina": 33
+        }
+      ],
+      "nota": null
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "Plantea una ruta técnica y operativa clara en el capítulo de cierre: detalla el protocolo metodológico de downscaling espacial a 30 segundos de arco (~1 km²), define la aplicación de los índices de De Martonne y Bagnouls-Gaussen a nivel municipal, e instruye la focalización territorial de recursos de inversión pública y seguros agropecuarios en los municipios prioritarios del Corredor Seco Centroamericano.",
+      "citas": [
+        {
+          "cita": "La región de México, Centroamérica, Cuba, Haití y la República Dominicana es una de las más expuestas a los impactos del cambio climático",
+          "pagina": 257
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Promover el intercambio de conocimiento, experiencias y lecciones aprendidas entre países e institucionalizarlas en mesas agroclimáticas intrarregionales",
+          "clasificacion": "CONCRETO",
+          "pagina": 265
+        },
+        {
+          "item": "Fortalecer las capacidades de los países para la evaluación de las políticas públicas y sus opciones de adaptación y mitigación",
+          "clasificacion": "CONCRETO",
+          "pagina": 264
+        },
+        {
+          "item": "Mejorar las herramientas de información mediante una plataforma regional que facilite la comprensión del riesgo agroclimático",
+          "clasificacion": "CONCRETO",
+          "pagina": 264
+        },
+        {
+          "item": "Desarrollar instrumentos de respuesta e implementación de políticas públicas y proyectos de inversión pública resilientes",
+          "clasificacion": "CONCRETO",
+          "pagina": 258
+        },
+        {
+          "item": "Fomentar el aseguramiento agropecuario indexado con gestión integral de riesgo para productores familiares y comerciales",
+          "clasificacion": "CONCRETO",
+          "pagina": 258
+        }
+      ],
+      "tally": "5 de 5 recomendaciones cumplen el criterio de concreción operativa",
+      "nota": null
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 1,
+      "nombre": "Desarrollo productivo",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento aborda la dimensión climática y biofísica no como un ejercicio meteorológico abstracto, sino como la base empírica fundamental para reconfigurar la estructura productiva agropecuaria y la seguridad alimentaria en Centroamérica y el Caribe ante el cambio global.",
+      "filtro_categoria_primaria": "El contenido sustantivo de todos los capítulos se concentra en la modelación espacial, tendencias históricas y escenarios futuros de variables climáticas, aridez, meses secos y eventos extremos (Sostenibilidad ambiental, #6).",
+      "secundaria_obligatoria": "La totalidad de las aplicaciones, justificaciones institucionales con el CAC/SICA y recomendaciones están dirigidas a la adaptación tecnológica del sector agrícola, los cultivos de granos básicos y café, y los seguros agropecuarios (Desarrollo productivo, #1).",
+      "justificacion_anti_copia": "La obra constituye una copublicación técnica inédita entre la CEPAL y el Consejo Agropecuario Centroamericano con datos climáticos reducidos a escala municipal (30 segundos de arco) para 10 países.",
+      "validacion_anclas": "Se alinea plenamente con los casos ancla de Sostenibilidad ambiental (#6) y Desarrollo productivo (#1) definidos en TIPOLOGIA_v0.md §3."
+    },
+    "tipo_documento_climatico": "Diagnóstico y modelación climática espacial subnacional",
+    "nivel_aplicacion": "Regional / Subnacional (Municipal y Departamental)",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

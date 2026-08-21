@@ -1,0 +1,557 @@
+{
+  "documento": {
+    "num_muestra": 225,
+    "titulo": "Financiamiento del cambio climático en el Caribe: análisis desde una perspectiva de género",
+    "autoria": "Mariama Williams; Ayesha Constable",
+    "handle": "https://hdl.handle.net/11362/84510",
+    "simbolo": "LC/TS.2024/104",
+    "isbn": null,
+    "fecha": "2025",
+    "tipo_documento": "Documento de proyecto o estudio técnico",
+    "paginas_cuerpo": 56,
+    "paginas_totales": 74,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cómo se distribuye y puede mejorarse el financiamiento climático en el Caribe para integrar de manera efectiva la igualdad de género y la autonomía de las mujeres?",
+    "alcance": {
+      "ambito_aplicacion": "Caribe, con atención a los PEID del Caribe, CARICOM y países y proyectos caribeños específicos.",
+      "referentes_dependencias": "CMNUCC, FVC, FIC, Fondo de Adaptación, BID, CDB, ONU-Mujeres y experiencias de América Latina, Asia y otras regiones.",
+      "sectorial": "Financiamiento climático público y privado; adaptación, mitigación, agua, energía, transporte, agricultura, pesca, infraestructura, servicios financieros y economía del cuidado.",
+      "temporal": "Principalmente 2003-2023, con proyecciones y necesidades hasta 2030 y 2050."
+    },
+    "hallazgos_principales": [
+      "En el Caribe Oriental, el financiamiento climático público internacional promedió 84 millones de dólares anuales; 62% fueron subvenciones, 38% préstamos, 48% mitigación, 32% adaptación y 20% ambas, mientras 85% provino de fuentes bilaterales y 77% se entregó mediante proyectos (p. 21).",
+      "Los fondos climáticos han incorporado políticas y planes de género, pero la calidad de las evaluaciones y planes varía, los indicadores suelen ser escasos y la inclusión de género puede quedar en una referencia genérica para cumplir requisitos de donantes (p. 29).",
+      "El acceso local es muy reducido: de 2.400 millones de dólares anuales de ayuda climática con igualdad de género canalizados por ONG en 2018-2019, solo 43 millones llegaron a organizaciones feministas, lideradas por mujeres o defensoras de sus derechos; solo 10% del financiamiento climático llega a las bases (p. 46).",
+      "El FRC de la CEPAL se concibe como un fondo regional y mecanismo de coordinación para canalizar recursos hacia resiliencia, infraestructura, adaptación, diversificación productiva e inversión verde, pero todavía no está claro cómo funcionará la entrega de fondos (pp. 40-41).",
+      "Las recomendaciones finales vinculan datos desglosados por sexo, acceso mediante pequeñas subvenciones, participación multiactor, presupuestación de género y exámenes climáticos, financiamiento sectorial y economía del cuidado (pp. 53-56)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El financiamiento climático disponible para el Caribe es insuficiente, difícil de medir y desigualmente accesible; la arquitectura vigente incorpora el género formalmente, pero no garantiza que los recursos lleguen a mujeres, organizaciones de mujeres ni comunidades con impactos diferenciados.",
+        "La integración efectiva del género exige pasar de requisitos administrativos e indicadores básicos a mecanismos de acceso, participación, seguimiento y asignación que conecten los fondos con las necesidades productivas, sociales y climáticas de las mujeres caribeñas.",
+        "El FRC y los instrumentos innovadores pueden ampliar la resiliencia y diversificar la economía, pero sus efectos sobre la autonomía económica de las mujeres dependerán de incorporar desde el diseño evaluaciones, recursos, formación, representación y salvaguardas de género."
+      ],
+      "recomendaciones": [
+        "Mejorar la recolección y el monitoreo de datos cuantitativos y cualitativos desglosados por sexo.",
+        "Integrar de manera significativa el género en políticas, planes e instrumentos climáticos y reforzar instituciones financieras regionales y mecanismos nacionales para la promoción de la mujer.",
+        "Crear pequeñas subvenciones, productos financieros para mipymes de mujeres, ventanillas especiales, consultas participativas y vías de acceso directo para organizaciones comunitarias y de mujeres.",
+        "Vincular la presupuestación con perspectiva de género con los exámenes institucionales y del gasto público para el clima, y asegurar financiamiento sectorial y de la economía del cuidado.",
+        "Simplificar criterios y condicionalidades, mejorar la comunicación y potenciar la participación equilibrada e informada de las mujeres en la toma de decisiones climáticas."
+      ],
+      "nota": "Las recomendaciones corresponden a la sección final de recomendaciones del documento; los instrumentos y mecanismos descritos en el análisis se trataron como evidencia contextual, no como recomendaciones adicionales."
+    },
+    "resumen_narrativo": "El documento examina cómo los fondos climáticos llegan al Caribe y qué tan eficazmente incorporan la igualdad de género, combinando revisión documental, datos secundarios y ocho entrevistas semiestructuradas. Encuentra que el Caribe Oriental recibe en promedio 84 millones de dólares anuales de financiamiento climático público internacional, pero que solo una fracción mínima llega a organizaciones de mujeres y comunidades. El análisis del FVC, los FIC, el Fondo de Adaptación, el CCCCC y el propuesto Fondo de Resiliencia del Caribe muestra avances institucionales junto con indicadores débiles, participación irregular y acceso local muy limitado. El cierre propone pequeñas subvenciones, datos desglosados, consultas participativas, presupuestación con perspectiva de género y financiamiento de sectores y cuidados para que la transición climática no reproduzca desigualdades."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "I. Metodología",
+      "nivel": 1,
+      "paginas": "17-17",
+      "resumen": "Define un examen documental sobre entidades financieras climáticas, propuestas gubernamentales y el papel de las mujeres como agentes de cambio en el Caribe. El diseño combina literatura, evaluaciones de fondos, datos secundarios y ocho entrevistas semiestructuradas.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "En este documento analítico se presenta principalmente un examen documental",
+          "pagina": 17
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Examen documental",
+          "nivel": 2,
+          "paginas": "17-18",
+          "resumen": "Detalla la revisión de FVC, Fondo de Adaptación, FIC, BID, CDB y CCCCC, además de bonos sociales, verdes y de género, canje de deuda y entrevistas a partes interesadas. El método busca evaluar rigor, inclusión, resultados y sinergias con igualdad de género.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Se incluye también una revisión semidetallada de los principales fondos climáticos de la CMNUCC y sus dimensiones de género.",
+              "pagina": 17
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Limitaciones",
+          "nivel": 2,
+          "paginas": "18-18",
+          "resumen": "Aclara que el informe no analiza en profundidad PNAD, CDN ni estrategias bajas en emisiones y que los datos de flujos climáticos rara vez están desglosados por género. La escasez de información limita la medición actualizada de distribución e impactos.",
+          "dimensiones": [
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "Los datos primarios y secundarios sobre flujos y distribución de financiamiento climático no siempre están desglosados por género.",
+              "pagina": 18
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "II. Volumen y distribución del financiamiento climático público en el Caribe",
+      "nivel": 1,
+      "paginas": "19-19",
+      "resumen": "Abre el examen empírico de fuentes, receptores, adaptación, mitigación, sectores, modalidades de entrega e intermediarios. Contrasta la promesa mundial de 100.000 millones de dólares con 83.300 millones movilizados en 2020 y la caída del financiamiento para adaptación.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "En 2020, el financiamiento climático total proporcionado y movilizado por los países desarrollados para los países en desarrollo ascendió a 83.300 millones de dólares.",
+          "pagina": 19
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Financiamiento climático en el Caribe",
+          "nivel": 2,
+          "paginas": "21-21",
+          "resumen": "Cuantifica compromisos y modalidades para los PEID caribeños: 1.480 millones de dólares en 2010-2015, 84 millones anuales en el Caribe Oriental, 62% en subvenciones, 48% para mitigación y 85% de origen bilateral. Señala insuficiencia, marginación de la adaptación y promesas incumplidas.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Alrededor del 62% del financiamiento se ha concedido en forma de subvenciones, mientras que el 38% restante han sido préstamos.",
+              "pagina": 21
+            },
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "Expertos y partes interesadas del Caribe sostienen que los países desarrollados no han cumplido sus promesas.",
+              "pagina": 21
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. En género en las fuentes y usos de los flujos de financiamiento climático hacia el Caribe",
+          "nivel": 2,
+          "paginas": "22-22",
+          "resumen": "Delimita el análisis del financiamiento público de adaptación y presenta FVC, FIC y Fondo de Adaptación como fondos principales. Introduce la relación entre instrumentos concesionarios, arquitectura de género, acceso directo y necesidades de proyectos caribeños.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Esta sección se centra principalmente en el financiamiento del sector público a través de canales multilaterales",
+              "pagina": 22
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "1. El Fondo Verde para el Clima (FVC)",
+              "nivel": 3,
+              "paginas": "22-26",
+              "resumen": "Examina mandato, cartera regional, política de género, planes de acción, entidades acreditadas y proyectos caribeños del FVC. Detalla evaluaciones, indicadores, presupuestos, plazos y responsabilidades, pero también la distancia entre cumplimiento formal y beneficios directos para organizaciones de mujeres.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "El FVC es el primer fondo multilateral que integra perspectivas de género como elemento central de su proceso de toma de decisiones",
+                  "pagina": 22
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "que existan no implica que los proyectos tengan una base sólida para una implementación con perspectiva de género",
+                  "pagina": 25
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Fondos de Inversión en el Clima",
+              "nivel": 3,
+              "paginas": "26-27",
+              "resumen": "Describe los FIC, sus fondos fiduciarios, políticas de género y Grupo de Trabajo de Género de bancos multilaterales. El Programa Piloto de Resiliencia al Cambio Climático combina planes de inversión, agricultura, agua, pesca, recursos marinos y salud, pero consulta poco a mujeres y grupos de mujeres.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Los FIC están financiados por los Gobiernos, el sector privado, organizaciones de la sociedad civil y seis bancos multilaterales de desarrollo",
+                  "pagina": 26
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "no siempre se consultó a las mujeres o grupos de mujeres en la fase de diseño.",
+                  "pagina": 27
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. El Fondo de Adaptación",
+              "nivel": 3,
+              "paginas": "27-29",
+              "resumen": "Presenta el acceso directo y la política de género del Fondo de Adaptación y revisa proyectos en Jamaica y Antigua y Barbuda. Identifica agricultura, reducción de riesgos, alerta temprana, agua y capacidad institucional, junto con indicadores de género incompletos.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Una característica única del FA es su mecanismo de acceso directo",
+                  "pagina": 27
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "no se incluyeron indicadores de género articulados en el marco de resultados.",
+                  "pagina": 29
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Análisis y resumen",
+          "nivel": 2,
+          "paginas": "29-29",
+          "resumen": "Sintetiza que los principales fondos cuentan con políticas de género, pero la cobertura y la calidad de implementación varían. El género aparece de forma genérica, la consulta carece de particularidades y los fondos aún no demuestran capacidad para involucrar exitosamente a mujeres y grupos de género.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "La ausencia de particularidades en torno a la naturaleza del proceso de consulta y la inclusión puede dar lugar a una interpretación ambigua de lo que se considera una participación significativa.",
+              "pagina": 29
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "1. Estudio de caso regional: género y distribución del financiamiento climático en el Centro para el Cambio Climático de la Comunidad del Caribe (CCCCC)",
+              "nivel": 3,
+              "paginas": "29-34",
+              "resumen": "Analiza al CCCCC como institución CARICOM acreditada ante el FVC, con más de 38 millones de dólares movilizados y proyectos de agua, residuos, energía y resiliencia. El caso muestra mecanismos regionales y asociaciones con sociedad civil, pero también brechas de datos, capacidad, participación y seguimiento de resultados de género.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "El Centro para el Cambio Climático de la Comunidad del Caribe es una institución intergubernamental de la Comunidad del Caribe (CARICOM) a la que los Jefes de Gobierno de la Comunidad han encomendado la coordinación de la respuesta regional al cambio climático.",
+                  "pagina": 29
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "se recomienda que los recursos del FVC se utilicen para apoyar a las organizaciones de la sociedad civil",
+                  "pagina": 30
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "III. Iniciativas de financiamiento innovadoras desde una perspectiva de género",
+      "nivel": 1,
+      "paginas": "35-35",
+      "resumen": "Introduce combinaciones de deuda, subvenciones, garantías, líneas verdes, bonos y financiamiento de riesgo compartido. Sostiene que el sector privado ha avanzado más en instrumentos de género, mientras las herramientas climáticas todavía integran poco las preocupaciones de género.",
+      "dimensiones": [
+        {
+          "dimension": "oportunidades",
+          "cita": "Actores públicos, de las finanzas privadas y del desarrollo sostenible están ideando cada vez más sus propios enfoques y combinaciones creativas de instrumentos clásicos",
+          "pagina": 35
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Productos financieros del sector privado impulsados por el género y la igualdad de género y el financiamiento para el clima",
+          "nivel": 2,
+          "paginas": "35-39",
+          "resumen": "Explica bonos de género, inversión de impacto y economía del cuidado, con ejemplos de Colombia, Panamá, Ecuador, Chile, México y la serie Women’s Livelihood Bond. Identifica un mercado emergente, pero limitado: no hay emisiones nacionales o regionales de bonos de género en el Caribe y solo 10% del capital de impacto regional llega a empresas dirigidas por mujeres.",
+          "dimensiones": [
+            {
+              "dimension": "oportunidades",
+              "cita": "La emisión de bonos de género está aumentando en la región",
+              "pagina": 37
+            },
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "Sin embargo, hasta la fecha no existen en la región fondos de inversión cotizados en bolsa, bonos ETN (Exchange Traded Notes) ni fondos mutuos centrados en la igualdad de género.",
+              "pagina": 37
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Análisis de género de la iniciativa de la CEPAL de canje de deuda por acción climática y el Fondo de Resiliencia del Caribe Fund",
+          "nivel": 2,
+          "paginas": "39-42",
+          "resumen": "Examina deuda, canje climático y el FRC como vehículo regional de financiamiento a gran escala, coordinación y transformación productiva. Relaciona modernización, turismo, agricultura nutracéutica, electrónica, aeroespacial y farmacéutica con riesgos de exclusión laboral y financiera para mujeres.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "El FRC se concibe como un vehículo para el financiamiento a gran escala basado en proyectos",
+              "pagina": 40
+            },
+            {
+              "dimension": "oportunidades",
+              "cita": "se prevé un crecimiento en la participación en las tecnologías de la información y las comunicaciones (TIC), las finanzas y los negocios.",
+              "pagina": 42
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Políticas nacionales y financiación climática con perspectiva de género en el Caribe",
+      "nivel": 1,
+      "paginas": "43-43",
+      "resumen": "Sirve de transición desde instrumentos innovadores hacia políticas nacionales y regionales. El documento sitúa al CCCCC, los marcos de resiliencia y los mecanismos de seguros como arquitectura para coordinar adaptación, gestión de riesgos y financiamiento con enfoque de género.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "Como complemento al enfoque climático nacional, la CARICOM ha establecido algunos mecanismos regionales para abordar los retos del cambio climático en la región.",
+          "pagina": 43
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Género y clima en las políticas y planes nacionales",
+          "nivel": 2,
+          "paginas": "43-45",
+          "resumen": "Revisa CCCCC, CARICOM, seguros paramétricos, gestión de desastres y CDN de 15 países. Muestra avances como hojas de ruta y puntos focales de género, pero también ausencia de referencias, políticas coherentes y análisis de género en mecanismos regionales.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "la versión actualizada de 2022 incluye una hoja de ruta para la integración de la perspectiva de género en la CDN.",
+              "pagina": 45
+            },
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "el CCCCC no disponía de una política de género coherente ni de un plan de acción sobre cuestiones de género",
+              "pagina": 43
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Análisis resumido sobre el financiamiento climático y género en el Caribe",
+          "nivel": 2,
+          "paginas": "46-46",
+          "resumen": "Resume receptores, canales y obstáculos de acceso al financiamiento. Destaca que solo 43 millones de dólares de 2.400 millones canalizados por ONG llegaron a organizaciones feministas y que los procesos de solicitud son onerosos para organizaciones comunitarias y de mujeres.",
+          "dimensiones": [
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "solo 43 millones de dólares se destinaron a organizaciones y movimientos e instituciones feministas, lideradas por mujeres y de defensa de los derechos de la mujer",
+              "pagina": 46
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Participación de mujeres y niñas en el diseño, la implementación y el monitoreo y evaluación de proyectos",
+          "nivel": 2,
+          "paginas": "46-47",
+          "resumen": "Evalúa participación en diseño, talleres, empleo técnico, indicadores y monitoreo. Encuentra esfuerzos crecientes pero desiguales, con participación limitada por presupuesto y tiempo y con indicadores reducidos al número de personas beneficiarias.",
+          "dimensiones": [
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "No resultó obvio desde un primer momento que todos los proyectos contaran con la participación de mujeres y otros grupos de género en su diseño.",
+              "pagina": 47
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "V. Desafíos, oportunidades y recomendaciones",
+      "nivel": 1,
+      "paginas": "49-56",
+      "resumen": "Cierra con una agenda para corregir datos incompletos, acceso desigual y baja participación. Sus recomendaciones finales combinan información, pequeñas subvenciones, instituciones, consultas, presupuestación de género, financiamiento sectorial, economía del cuidado, simplificación de condicionalidades y representación equilibrada.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Desafíos",
+          "nivel": 2,
+          "paginas": "49-51",
+          "resumen": "Identifica falta de desgloses subregionales y por género, propuestas de infraestructura poco ajustadas, métodos incompatibles, ausencia de un marco caribeño de seguimiento presupuestario y financiamiento insuficiente. Pide datos más fiables y procesos flexibles para organizaciones locales, comunitarias y de mujeres.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "Se necesitan datos más fiables, precisos y detallados.",
+              "pagina": 50
+            },
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "todavía no existe un marco coherente para hacer un seguimiento del gasto público en el Caribe",
+              "pagina": 50
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Oportunidades",
+          "nivel": 2,
+          "paginas": "51-53",
+          "resumen": "Propone conectar organizaciones de mujeres, puntos focales, ministerios, fondos y redes mediante bases de datos regionales y asociaciones tempranas. Detalla ventanillas especiales, primas de seguro, subvenciones administrativas, presupuestación de género, bonos verdes y capacidades para mujeres.",
+          "dimensiones": [
+            {
+              "dimension": "oportunidades",
+              "cita": "Existen oportunidades para que los nuevos mecanismos de financiamiento y las entidades de implementación se comprometan de manera activa con sus partes interesadas",
+              "pagina": 51
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Dichas acciones podrían incluir la puesta en marcha de la provisión de financiamiento a grupos de mujeres",
+              "pagina": 52
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+        "seccion": "C. Recomendaciones",
+          "nivel": 2,
+          "paginas": "53-56",
+          "resumen": "Formula once líneas de acción propias: mejorar datos; integrar género; reforzar instituciones; ampliar acceso; fomentar participación; comunicar; vincular presupuestación y CPIER; financiar sectores y cuidados; suavizar condicionalidades; y equilibrar decisiones. La lista traduce el diagnóstico en instrumentos, actores y procedimientos identificables.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Mejorar la recolección de datos: programas, políticas y planes de acción para mejorar la recolección y el monitoreo de datos",
+              "pagina": 53
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "ofrecer mecanismos de pequeñas subvenciones diseñados específicamente para atender las necesidades de organizaciones pequeñas",
+              "pagina": 54
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "La propuesta del FRC y el canje de deuda articula financiamiento, inversión verde, resiliencia y transformación de sectores productivos; además conecta la modernización y diversificación con turismo, agricultura, electrónica, aeroespacial y farmacéutica. Cumple el test de paquete coordinado y el de sectores estratégicos, y desarrolla efectos macroeconómicos, productivos, laborales y ambientales.",
+      "citas": [
+        {
+          "cita": "El FRC también canalizará los montos de descontados de la deuda de la Iniciativa hacia la transformación estructural de la economía y la inversión verde en apoyo a la diversificación de las exportaciones, los productos y los procesos de producción.",
+          "pagina": 41
+        },
+        {
+          "cita": "Se proponen dos pilares: i) modernización (de los sectores existentes) y ii) desarrollo de nuevos sectores (diversificación de las exportaciones).",
+          "pagina": 41
+        }
+      ],
+      "nota": "El paquete es analizado y propuesto como arquitectura regional en evolución; el veredicto se apoya en sus instrumentos y sectores explícitos, no en la etiqueta gran impulso ambiental."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El documento identifica mecanismos regionales dentro de su ámbito de aplicación: el CCCCC coordina la respuesta climática de CARICOM, el FRC actuaría como mecanismo de coordinación y consolidación, y se prevé una alianza público-privada. No se trata solo de la colaboración de autoría del estudio.",
+      "citas": [
+        {
+          "cita": "El Centro para el Cambio Climático de la Comunidad del Caribe es una institución intergubernamental de la Comunidad del Caribe (CARICOM) a la que los Jefes de Gobierno de la Comunidad han encomendado la coordinación de la respuesta regional al cambio climático.",
+          "pagina": 29
+        },
+        {
+          "cita": "También actuaría como mecanismo de coordinación y consolidación de la afluencia de financiamiento climático.",
+          "pagina": 41
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Sí",
+      "evidencia": "Se enumeran actividades concretas —turismo ecológico, patrimonial y de buceo, agricultura nutracéutica, electrónica, aeroespacial, farmacéutica, TIC, finanzas y negocios— y se desarrolla su vínculo con empleo, capacitación, productividad, mipymes de mujeres y acceso a financiamiento. El vínculo productivo-laboral no es una mención aislada.",
+      "citas": [
+        {
+          "cita": "Por lo tanto, esto repercutirá en los productos turísticos (destacan más el turismo ecológico, patrimonial y de buceo de arqueología marina) y en la expansión de la agricultura basada en nichos, como los productos nutracéuticos",
+          "pagina": 41
+        },
+        {
+          "cita": "Esto puede abrir oportunidades para las mujeres en tanto que empleadas y empresarias.",
+          "pagina": 42
+        }
+      ],
+      "nota": null
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "La unidad correcta es la sección final C. Recomendaciones, que contiene once bullets de voz normativa propia. Nueve tienen un instrumento, procedimiento, destinatario o entregable identificable; dos permanecen genéricos por formular fortalecimiento o participación sin precisar un entregable adicional.",
+      "citas": [
+        {
+          "cita": "Mejorar la recolección de datos: programas, políticas y planes de acción para mejorar la recolección y el monitoreo de datos",
+          "pagina": 53
+        },
+        {
+          "cita": "ofrecer mecanismos de pequeñas subvenciones diseñados específicamente para atender las necesidades de organizaciones pequeñas",
+          "pagina": 54
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Mejorar la recolección de datos mediante metodologías cuantitativas y cualitativas y datos desglosados por sexo.",
+          "clasificacion": "CONCRETO",
+          "pagina": 53
+        },
+        {
+          "item": "Aplicar una integración significativa del género en instrumentos, políticas y planes nacionales sobre el clima.",
+          "clasificacion": "CONCRETO",
+          "pagina": 53
+        },
+        {
+          "item": "Reforzar el papel de las instituciones financieras regionales y de los mecanismos nacionales para la promoción de la mujer.",
+          "clasificacion": "GENERICO",
+          "pagina": 53
+        },
+        {
+          "item": "Ofrecer mecanismos de pequeñas subvenciones y productos financieros específicos para mipymes propiedad de mujeres.",
+          "clasificacion": "CONCRETO",
+          "pagina": 54
+        },
+        {
+          "item": "Fomentar consultas participativas rápidas sobre cuestiones de género con grupos de mujeres y puntos focales sectoriales.",
+          "clasificacion": "CONCRETO",
+          "pagina": 54
+        },
+        {
+          "item": "Mejorar la comunicación con mensajes y canales adecuados para organizaciones de la sociedad civil.",
+          "clasificacion": "CONCRETO",
+          "pagina": 54
+        },
+        {
+          "item": "Vincular la presupuestación con perspectiva de género con los exámenes institucionales y del gasto público para el clima.",
+          "clasificacion": "CONCRETO",
+          "pagina": 55
+        },
+        {
+          "item": "Asegurar financiamiento sectorial y tecnologías de adaptación y mitigación para agricultoras y mipymes.",
+          "clasificacion": "CONCRETO",
+          "pagina": 55
+        },
+        {
+          "item": "Incluir financiamiento climático para actividades sostenibles de la economía del cuidado y mejorar encuestas de uso del tiempo.",
+          "clasificacion": "CONCRETO",
+          "pagina": 55
+        },
+        {
+          "item": "Suavizar criterios y condicionalidades mediante procesos simplificados y acelerados y costos iniciales reducidos.",
+          "clasificacion": "CONCRETO",
+          "pagina": 55
+        },
+        {
+          "item": "Potenciar la participación efectiva y equilibrada de las mujeres en la toma de decisiones en materia de financiamiento climático.",
+          "clasificacion": "GENERICO",
+          "pagina": 56
+        }
+      ],
+      "tally": "9 de 11 ítems pasan el test de concreción",
+      "nota": null
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 5,
+      "nombre": "Igualdad de género",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la contradicción entre una región altamente expuesta a huracanes, deuda y pérdidas climáticas y una arquitectura financiera insuficiente y poco accesible para quienes más necesitan resiliencia. También tensiona la formalización institucional del género en los fondos con resultados locales débiles, participación irregular y recursos que no alcanzan a organizaciones de mujeres.",
+      "filtro_categoria_primaria": "El objeto de cambio es orientar financiamiento e inversión hacia adaptación, mitigación, resiliencia y transformación verde del Caribe; por eso la sostenibilidad ambiental es primaria. La igualdad de género es una condición de diseño, distribución y justicia del financiamiento, pero funciona como finalidad distributiva y criterio de implementación, no como el único objeto sectorial del informe.",
+      "secundaria_obligatoria": "La igualdad de género habilita la transformación climática al corregir quién accede a fondos, quién participa en proyectos y quién se beneficia de sectores, infraestructura y empleo verdes. La secundaria se concreta en políticas de género del FVC y FIC, datos desglosados, bonos de género, pequeñas subvenciones, autonomía económica y economía del cuidado.",
+      "justificacion_anti_copia": "La clasificación se ancla en rasgos propios: el análisis cuantifica 84 millones de dólares anuales para el Caribe Oriental y su composición; compara FVC, FIC y Fondo de Adaptación; examina al CCCCC y el FRC de canje de deuda; y cierra con instrumentos concretos como ventanillas especiales, CPIER con género, financiamiento sectorial y economía del cuidado. La perspectiva de género atraviesa el acceso y la distribución, pero el hilo conductor sigue siendo la arquitectura de financiamiento de la acción climática.",
+      "validacion_anclas": "Se aproxima al ancla #18, La economía del cambio climático, 2023: necesidades de financiamiento, porque el financiamiento es el medio para una transición climática; se diferencia porque aquí la lente de género y autonomía de las mujeres organiza el diagnóstico, los casos de fondos y las recomendaciones. No es el patrón #3, The rise of green bonds, porque los bonos son solo una parte de una arquitectura climática regional más amplia."
+    },
+    "tipo_documento_climatico": "Documento de proyecto o estudio técnico sobre financiamiento climático y género",
+    "nivel_aplicacion": "Subregional (Caribe) y regional (CARICOM/PEID del Caribe)",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

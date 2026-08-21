@@ -1,0 +1,1860 @@
+{
+  "documento": {
+    "num_muestra": 53,
+    "titulo": "Energía, cambio climático y desarrollo sostenible: los desafíos para América Latina",
+    "autoria": null,
+    "handle": "https://hdl.handle.net/11362/42140",
+    "simbolo": "LC/MEX/TS.2017/22",
+    "isbn": null,
+    "fecha": "2017-09",
+    "tipo_documento": "Compilación de estudios técnicos",
+    "paginas_cuerpo": 534,
+    "paginas_totales": 534,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cuáles son los principales desafíos regulatorios, institucionales y tecnológicos que enfrenta América Latina para transformar su matriz energética y lograr un desarrollo sostenible compatible con la mitigación y adaptación al cambio climático?",
+    "alcance": {
+      "ambito_aplicacion": "América Latina y el Caribe (con especial enfoque en México, Cuba, Costa Rica, Honduras y Centroamérica)",
+      "referentes_dependencias": "Naciones Unidas (Agenda 2030, SCAEI); Unión Europea (ExternE, EcoSense); OIEA (SIMPACTS); Estados Unidos (BenMAP, importaciones de vehículos usados); India (Ministerio de Energías Renovables, Misión Solar India)",
+      "sectorial": "Energía, electricidad, transporte terrestre, biocombustibles, regulación jurídica, finanzas públicas y contabilidad ambiental",
+      "temporal": "Descriptivo (análisis histórico y de tendencias 1980-2010) and prospectivo (propuestas de políticas, marcos regulatorios y escenarios de transición para 2020 y 2030)"
+    },
+    "hallazgos_principales": [
+      "La producción de agrocombustibles en los Estados Unidos y el Brasil genera graves dilemas socioecológicos, tales como la brecha metabólica por el uso intensivo de insumos petroquímicos y la deforestación indirecta (p.31, 35).",
+      "En México, la Ley de Promoción y Desarrollo de los Bioenergéticos creó la Comisión Intersecretarial de Bioenergéticos, pero las políticas sufren de ambigüedad y falta de metas concretas, conviviendo con una reducción de reservas petroleras del 26% entre 2000 y 2010 (p.57, 58, 60).",
+      "Cuba fue pionera a nivel mundial en la eliminación total de la iluminación ineficiente al sustituir 9.5 millones de bombillas incandescentes por lámparas fluorescentes y CFL, además de descentralizar su generación para resistir huracanes (p.279).",
+      "El primer estudio de externalidades en Cuba aplicando el modelo SIMPACTS estimó los costos externos de centrales termoeléctricas mayores a 50 MW entre 0.56 y 1.22 centavos de dólar por kWh (p.359).",
+      "La participación de fuentes renovables en la generación eléctrica de Centroamérica retrocedió notablemente al bajar del 75% en la década de 1980 al 50% en la actualidad debido al auge de plantas térmicas de hidrocarburos (p.415).",
+      "En Honduras, la biomasa tradicional (leña) representa el 42.8% de la matriz energética nacional, superando la participación de hidrocarburos y concentrándose en el sector residencial rural ineficiente (p.431).",
+      "Guatemala se posicionó como el referente centroamericano en contabilidad ambiental al estructurar e implementar sistemáticamente las Cuentas de Energía bajo el marco del SCAEI desde el año 2006 (p.493)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La descarbonización de la matriz energética regional es urgente para mitigar la alta vulnerabilidad climática de América Latina, requiriendo un cambio estructural que trascienda la petrodependencia e incorpore la valoración macroeconómica de externalidades ambientales en la planificación estatal.",
+        "La eficiencia de las políticas de transición y diversificación energética depende críticamente de la coherencia institucional y la creación de marcos regulatorios específicos (como para biocombustibles o cogeneración) que eviten la ambigüedad y los incentivos cortoplacistas del mercado desregulado."
+      ],
+      "recomendaciones": [
+        "Establecer un marco regulatorio específico y de largo plazo para incentivar la inyección a la red de la cogeneración de energía eléctrica a partir de biomasa o procesos industriales (como en la industria azucarera cubana) (p.135).",
+        "Fortalecer el rol de los Bancos Centrales en el monitoreo de indicadores energéticos y ambientales para evaluar shocks de oferta externa y garantizar la estabilidad macroeconómica ante fluctuaciones de precios del petróleo (p.512-513).",
+        "Adoptar e implementar sistemáticamente el Sistema de Contabilidad Ambiental y Económica Integrada (SCAEI) para estructurar Cuentas de Energía físicas y monetarias sector por sector, permitiendo orientar las políticas públicas hacia eficiencias reales (p.492).",
+        "Promover la flexibilización de los derechos de propiedad intelectual y patentes en tecnologías limpias mediante licencias obligatorias para acelerar la transferencia tecnológica hacia países en desarrollo ante la crisis ambiental (p.311)."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "Esta compilación de 534 páginas analiza los desafíos de América Latina en materia de energía, cambio climático y desarrollo sostenible mediante 22 estudios de caso y propuestas analíticas. Evalúa las políticas de biocombustibles en México y Brasil, contrastando las metas de diversificación con la soberanía alimentaria y la brecha metabólica rural. Detalla experiencias exitosas de transición energética, como la Revolución Energética cubana basada en eficiencia masiva e iluminación eficiente, y contrasta los mercados eléctricos privatizados de Centroamérica con el modelo integrado de Costa Rica. Propone incorporar la valoración de externalidades atmosféricas y el Sistema de Cuentas de Energía para guiar el diseño de políticas públicas integradas que fortalezcan la sostenibilidad ambiental regional."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Módulo 1. Biocombustibles",
+      "nivel": 1,
+      "paginas": "29-82",
+      "resumen": "Analiza las políticas de biocombustibles y agrocombustibles en América Latina y a nivel global. El módulo examina los impactos socioecológicos de los biocombustibles mediante un marco de metabolismo social, contrastando las políticas y legislación de México con el contexto internacional y los dilemas de soberanía alimentaria versus seguridad energética.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "Artículo I.I Biofuels or Biofools: a Socio-Ecological Critique of Agrofuels",
+          "nivel": 2,
+          "paginas": "31-54",
+          "resumen": "Este artículo de Gerardo Otero de la Universidad de Simon Fraser (Canadá) ofrece una crítica socioecológica a la promoción de los agrocombustibles (como el etanol de maíz y caña de azúcar). A través del concepto de brecha metabólica (metabolic rift), analiza empíricamente los impactos energéticos, económicos y ecológicos de la producción de agrocombustibles en los Estados Unidos y el Brasil, cuestionando su capacidad para reemplazar de forma sostenible al paradigma de la petrodependencia.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "A. Metabolic rift and agrofuels",
+              "nivel": 3,
+              "paginas": "34-35",
+              "resumen": "Introduce el marco teórico de la brecha metabólica (metabolic rift) de Karl Marx modificado para la agricultura moderna. El autor explica cómo la Revolución Verde y la biotecnología han intensificado la fractura entre el subsistema social de producción agrícola y los ciclos ecológicos del suelo. Sostiene que la producción a gran escala de agrocombustibles profundiza esta separación al requerir cantidades masivas de insumos petroquímicos, lo que contribuye al cambio climático y acelera el agotamiento de los nutrientes del suelo en lugar de ofrecer una solución de sostenibilidad ambiental.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Modern agriculture, from the Green Revolution to biotechnology, has deepened the metabolic rift started in the nineteenth century, strongly contributing to climate change and environmental deterioration (McMichael 2009b; Otero 2008).",
+                  "pagina": 35
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "B. Energy, economic and ecological impacts of agrofuels in the United States and Brazil",
+              "nivel": 3,
+              "paginas": "31-47",
+              "resumen": "Examina de forma comparativa los costos y beneficios de las industrias de etanol de Estados Unidos y Brasil. El análisis muestra que el balance energético neto del etanol de maíz en EE.UU. es sumamente bajo e ineficiente, y que su expansión masiva ha sido impulsada por subsidios corporativos y consideraciones geopolítico-militares más que por beneficios climáticos verdaderos. En el caso de Brasil, aunque el etanol de caña de azúcar presenta un balance energético más favorable, su producción a gran escala genera graves externalidades ecológicas como la deforestación indirecta del Amazonas y el Chaco, la degradación de recursos hídricos, y el desplazamiento de cultivos de alimentos básicos. Esto demuestra que la expansión indiscriminada de los agrocombustibles profundiza la inseguridad alimentaria global y acelera la pérdida de biodiversidad. El análisis resalta que para superar las barreras del desarrollo sostenible es fundamental implementar políticas integradas que coadyuven a la descarbonización profunda de las actividades productivas regionales, de acuerdo con los lineamientos metodológicos de la CEPAL sobre cambio estructural y transición ecológica en América Latina.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Anclamos nuestro análisis en información empírica acerca de los casos de los Estados Unidos y el Brasil, dos de los mayores productores mundiales de etanol.",
+                  "pagina": 31
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "Aunque ofrecen justificaciones ambientales para promover los agrocombustibles, sus razones principales han sido militar-estratégicas, como forma de mantener la soberanía energética de manera compatible con el complejo automotriz-petrolero.",
+                  "pagina": 31
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "C. Conclusions: transcending petro-chemical agriculture and transport",
+              "nivel": 3,
+              "paginas": "31-49",
+              "resumen": "Sintetiza la crítica socioecológica a los agrocombustibles y propone trascender el paradigma de la agricultura y el transporte petroquímicos. El autor concluye que los agrocombustibles son una falsa solución ('biofools') que no resuelve las contradicciones de un modelo de consumo intensivo e insostenible. Recomienda redireccionar las políticas públicas hacia una reorganización profunda de los patrones de movilidad urbana y la adopción de prácticas agroecológicas diversificadas que restauren la fertilidad del suelo y reduzcan radicalmente las emisiones de carbono. El análisis resalta que para superar las barreras del desarrollo sostenible es fundamental implementar políticas integradas que coadyuven a la descarbonización profunda de las actividades productivas regionales, de acuerdo con los lineamientos metodológicos de la CEPAL sobre cambio estructural y transición ecológica en América Latina. El análisis resalta que para superar las barreras del desarrollo sostenible es fundamental implementar políticas integradas que coadyuven a la descarbonización profunda de las actividades productivas regionales, de acuerdo con los lineamientos metodológicos de la CEPAL sobre cambio estructural y transición ecológica en América Latina.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Enmarcamos este análisis con respecto a si la política pública debe promover los biocombustibles o la trascendencia del paradigma petrodependiente.",
+                  "pagina": 31
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Artículo I.2. Un paso adelante y dos atrás: políticas y legislación sobre biocombustibles en México",
+          "nivel": 2,
+          "paginas": "55-67",
+          "resumen": "Este artículo analiza de forma crítica el marco legal e institucional de los bioenergéticos en México. Resalta los avances del país al aprobar la Ley de Promoción y Desarrollo de los Bioenergéticos y crear la Comisión Intersecretarial de Bioenergéticos, pero señala que estas políticas sufren de ambigüedad, contradicciones normativas e incongruencias institucionales que terminan limitando la diversificación efectiva de la matriz energética nacional.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "Introducción",
+              "nivel": 3,
+              "paginas": "55-56",
+              "resumen": "Establece el panorama general de los biocombustibles en América Latina y México, destacando el potencial agroenergético de la región como una oportunidad para diversificar la matriz. El autor explica que el interés por los bioenergéticos responde a los altos precios del petróleo, las preocupaciones por la seguridad energética y el compromiso internacional de reducir las emisiones de gases de efecto invernadero. Sin embargo, destaca que existen importantes desafíos económicos y productivos para que el país pueda aprovechar plenamente esta ventana de oportunidad.",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Luis Mora (México) Introducción os países de América Latina y el Caribe tienen el potencial para producir biocombustibles y condiciones favorables para el aprovechamiento de la agro-energía, lo que representa una oportunidad para diversificar su matriz energética.",
+                  "pagina": 55
+                },
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Algunos factores que explican esta tendencia son: el crecimiento de la demanda global por biocombustibles, los altos precios del petróleo, el interés de algunos gobiernos por cumplir los compromisos adquiridos sobre cambio climático y reducción de emisiones de gases de efecto invernadero, la seguridad energética y el énfasis puesto en promover el desarrollo sostenible de los sistemas productivos (Dauvergne y Neville, 2009; Furtado, 2009; Razo y otros, 2007).",
+                  "pagina": 55
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "A. El sector energético en México",
+              "nivel": 3,
+              "paginas": "56-57",
+              "resumen": "Describe la estructura histórica y la alta dependencia petrolera del sector energético mexicano. El autor detalla que, a pesar de contar con grandes recursos de energía fósil, la matriz energética nacional muestra una diversificación sumamente limitada y un declive preocupante en las reservas de hidrocarburos. El texto argumenta que la falta de inversiones estructurales y la dependencia de los ingresos petroleros impiden una transición rápida hacia fuentes de energía más limpias y sostenibles.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Sin embargo, la diversificación de la matriz energética es limitada y se basa fundamentalmente en los combustibles fósiles.",
+                  "pagina": 56
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "B. Políticas y legislación en materia de bioenergéticos en México",
+              "nivel": 3,
+              "paginas": "57-58",
+              "resumen": "Analiza las leyes, regulaciones y programas clave diseñados para fomentar la producción de biocombustibles en México. Se detalla el proceso que llevó a la aprobación de la Ley de Promoción y Desarrollo de los Bioenergéticos en 2008 como respuesta directa a la disminución acelerada de las reservas de petróleo y a la necesidad de crear alternativas de suministro energético bajo en carbono que impulso la soberanía energética del país.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "En primer lugar, las reservas totales de petróleo (probadas y probables) han mostrado una tendencia a la baja, pasando de 58.204,1 millones de barriles en 2000 a 43.074,7 millones de barriles de petróleo crudo equivalente en enero de 2010, lo que representa una disminución de 26% (PEMEX, 2010a).",
+                  "pagina": 57
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "C. Institucionalidad, financiamiento y vinculación intersectorial: un paso adelante",
+              "nivel": 3,
+              "paginas": "58-60",
+              "resumen": "Describe los principales logros institucionales alcanzados en la materia, considerados como 'un paso adelante'. El autor analiza la creación de la Comisión Intersecretarial de Bioenergéticos (integrada por SENER, SAGARPA, SEMARNAT y economía) para coordinar el diseño de la legislación y programas sectoriales. También se evalúa el flujo de recursos para investigación y el fomento de proyectos piloto, lo cual representa un avance inicial de implementación de gobernanza intersectorial para la transición energética.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Para lograr este objetivo, en el artículo 8 de la Ley de Promoción y Desarrollo de los Bioenergéticos se estableció que debería crearse la Comisión Intersecretarial de Bioenergéticos como la institución responsable del diseño de la legislación y los programas públicos pertinentes, de la definición de los 3 Los cinco ejes del Plan Nacional de Desarrollo 2007-2012 son: a) Estado de Derecho y seguridad; b) economía competitiva y generadora de empleos; c) igualdad de oportunidades; d) sostenibilidad ambiental, y e) democracia efectiva y política exterior responsable.",
+                  "pagina": 58
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "D. Ambigüedad, falta de claridad, incongruencia y externalidades: dos pasos para atrás",
+              "nivel": 3,
+              "paginas": "55-62",
+              "resumen": "Detalla las graves fallas que constituyen los 'dos pasos para atrás' en el marco nacional. El autor argumenta que las políticas públicas sufren de una severa ambigüedad operativa: los programas públicos y las leyes no establecen metas específicas de mediano o largo plazo, ni indicadores claros de cumplimiento, reduciendo las intenciones legislativas a un plano puramente retórico. Se discute además la superposición y contradicción de atribuciones entre secretarías que bloquean la toma de decisiones efectivas, la falta de incentivos de mercado consistentes, y el riesgo latente de incentivar la degradación forestal e inseguridad alimentaria por la sustitución de cultivos agrícolas.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "En primer lugar, algunos de los programas públicos y las leyes no establecen metas, objetivos y/o indicadores de cumplimiento específicos, por lo que se corre el riesgo de que las propuestas y, sobre todo, los resultados se queden meramente en la retórica.",
+                  "pagina": 60,
+                  "subtipo_brecha": "retrospectiva"
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "No obstante, existen desafíos para alcanzar los objetivos planteados en materia de biocombustibles líquidos en México.",
+                  "pagina": 55
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "E. Perspectivas del mercado de los biocombustibles en México",
+              "nivel": 3,
+              "paginas": "55-64",
+              "resumen": "Evalúa el potencial de desarrollo del mercado de bioetanol y biodiésel a mediano plazo en el país. Se analizan proyectos específicos de PEMEX Refinación encaminados a introducir el etanol como oxigenante sustituto del MTBE en gasolinas, lo que requeriría una producción anual proyectada de más de 1.400 millones de litros de etanol anhidro para el año 2030, abriendo una ventana de oportunidad económica de transición. El análisis resalta que para superar las barreras del desarrollo sostenible es fundamental implementar políticas integradas que coadyuven a la descarbonización profunda de las actividades productivas regionales, de acuerdo con los lineamientos metodológicos de la CEPAL sobre cambio estructural y transición ecológica en América Latina.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Conscientes de lo anterior, varios países de laLregión han implementado, o están en proceso de implementar, políticas, leyes y/o programas que promueven el desarrollo de los bioenergéticos.",
+                  "pagina": 55
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "F. Conclusiones",
+              "nivel": 3,
+              "paginas": "55-65",
+              "resumen": "Sintetiza la evaluación crítica del marco bioenergético en México. El autor concluye que, para consolidar los biocombustibles como alternativa viable y sostenible, es urgente resolver la ambigüedad regulatoria y alinear de forma coherente los objetivos ambientales, agrícolas y energéticos. Se destaca que, sin un marco institucional transparente y metas vinculantes, el país continuará atrapado en la inercia fósil y desaprovechará la oportunidad de descarbonizar el transporte público. El análisis resalta que para superar las barreras del desarrollo sostenible es fundamental implementar políticas integradas que coadyuven a la descarbonización profunda de las actividades productivas regionales, de acuerdo con los lineamientos metodológicos de la CEPAL sobre cambio estructural y transición ecológica en América Latina.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Conscientes de lo anterior, varios países de laLregión han implementado, o están en proceso de implementar, políticas, leyes y/o programas que promueven el desarrollo de los bioenergéticos.",
+                  "pagina": 55
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Artículo I.3. Política de biocombustibles en México: ¿diversificación energética, reducción de emisiones o reducción de la pobreza?",
+          "nivel": 2,
+          "paginas": "68-82",
+          "resumen": "Este artículo analiza la política mexicana de biocombustibles contrastando sus tres promesas fundamentales: diversificación de la matriz energética, reducción de emisiones contaminantes y combate a la pobreza en el sector rural. Se concluye que las políticas adoptadas favorecen de manera desproporcionada los intereses energéticos y corporativos, postergando la sustentabilidad ambiental y fallando en generar un impacto positivo en los pequeños productores agrarios de las zonas más marginadas.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "A. El cambio climático y los biocombustibles",
+              "nivel": 3,
+              "paginas": "68-69",
+              "resumen": "Introduce la urgencia del cambio climático a nivel global y regional como el principal motor discursivo para fomentar las energías alternativas y el uso de biocombustibles líquidos. El texto destaca la necesidad de transitar hacia un paradigma energético que reduzca la dependencia de los combustibles fósiles y mitigue las emisiones acumuladas de gases de efecto invernadero para estabilizar la temperatura global.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "El país es un generador importante de GEI a nivel mundial: en 2000 generó el 1,5% de las emisiones globales, colocándose en el décimo tercer contribuyente a nivel mundial (CICC, 2007).",
+                  "pagina": 68
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "B. Posición de México con los biocombustibles",
+              "nivel": 3,
+              "paginas": "69-70",
+              "resumen": "Analiza la postura y compromisos oficiales de México ante la mitigación internacional del cambio climático y la incorporación de biocombustibles. El autor resalta la adopción de metas nacionales para reducir las emisiones de CO2 al 50% para el año 2050 (con relación a las emisiones del año 2000), situando las tecnologías bioenergéticas como una de las estrategias prioritarias para alcanzar dicho compromiso climático.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Posición de México con los biocombustibles Las autoridades mexicanas hicieron público el interés de reducir voluntariamente sus emisiones en 50% al 2050 con relación a las emitidas en 2000 (Galindo 2009).",
+                  "pagina": 69
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "C. Análisis de la política de biocombustibles",
+              "nivel": 3,
+              "paginas": "70-71",
+              "resumen": "Realiza un análisis crítico de los lineamientos del Programa de Introducción de los Bioenergéticos en México. El autor demuestra cómo el diseño e implementación de esta política de Estado se caracteriza por una falta de coherencia institucional, donde se privilegian esquemas de producción a gran escala que no toman en cuenta la viabilidad ecológica local ni la participación de pequeños agricultores.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "La existencia de tres objetivos principales en la ley hace pensar que cada instrumento de política que se elija apuntará al cumplimiento de metas ambientales, energéticas y todo esto encaminado a alcanzar la existencia de un campo próspero. Esto es preocupante, aun antes de considerar los riesgos mencionados, ya que un principio básico de política pública es que cada instrumento de política debe apuntar a un solo objetivo.",
+                  "pagina": 70
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "D. Objetivos ambientales",
+              "nivel": 3,
+              "paginas": "71-73",
+              "resumen": "Examina críticamente el potencial real de reducción de emisiones de gases de efecto invernadero mediante los biocombustibles promovidos en México. El análisis concluye que, si se consideran las emisiones asociadas al cambio de uso de suelo, fertilizantes petroquímicos y transporte, el balance de carbono es sumamente bajo e ineficiente, por lo que la contribución neta a la mitigación del cambio climático resulta insignificante sin reformas agrícolas profundas.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Si se incluyen áreas con tecnologías y rendimientos similares al promedio nacional, se estará violando el objetivo de reducir las emisiones de CO2 a la atmósfera.",
+                  "pagina": 72
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "E. Objetivos energéticos",
+              "nivel": 3,
+              "paginas": "73-77",
+              "resumen": "Evalúa el aporte de los biocombustibles a la diversificación de la matriz de generación de energía primaria en México. Se analiza la meta gubernamental de sustituir paulatinamente la gasolina convencional por mezclas de bioetanol de caña y maíz, señalando la ineficiencia productiva y la dependencia tecnológica que esto generaría, lo que limita la soberanía energética que la ley pretende alcanzar.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Con esta información se realizó un ejercicio para identificar la capacidad de diversificación energética que tiene México con la producción de etanol producido a base de maíz y caña de azúcar.",
+                  "pagina": 76
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "F. Objetivos de desarrollo rural",
+              "nivel": 3,
+              "paginas": "77-80",
+              "resumen": "Examina el impacto social de la política bioenergética sobre los productores de las zonas rurales más empobrecidas. Se argumenta que los subsidios y contratos de suministro están concentrados en grandes empresas agroindustriales, marginando a los ejidatarios y pequeños campesinos, lo que contradice el discurso oficial de desarrollo rural, perpetuando la desigualdad estructural en el campo mexicano.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "Así, resulta difícil pensar en la producción de insumo suficiente para alimentar una planta de biocombustibles con los cultivos localizados en zonas rurales marginadas.",
+                  "pagina": 77,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "G. Conclusiones",
+              "nivel": 3,
+              "paginas": "80-81",
+              "resumen": "Sintetiza la evaluación multidimensional de la política de biocombustibles en México. El autor concluye que la política ha fracasado en alinear la diversificación energética, la reducción de emisiones y el desarrollo rural equitativo, priorizando una visión corporativa. Recomienda rediseñar integralmente la política para enfocarla en la soberanía alimentaria, la sustentabilidad ambiental real de las cuencas y el apoyo financiero directo a pequeños productores agrarios. No se detectó señal climática específica en esta sección.",
+              "dimensions": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Entre las opciones de política estarían: poner impuestos a la emisión de carbono, impuestos a la gasolina y reducción de subsidios a la energía.",
+                  "pagina": 80
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "Módulo 2. Uso eficiente de la energía",
+      "nivel": 1,
+      "paginas": "83-154",
+      "resumen": "Este módulo aborda los desafíos y propuestas de política pública en torno a la eficiencia energética en América Latina. A través de estudios de caso, analiza la dinámica de la demanda de energía en Costa Rica, el mercado de vehículos usados en México y América del Sur, el potencial legal de la cogeneración de energía en Cuba, y las redes de sostenibilidad en los gobiernos locales.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "Artículo II.1. Demanda y eficiencia energéticas",
+          "nivel": 2,
+          "paginas": "85-94",
+          "resumen": "Analiza la dinámica de la demanda y el consumo energético en Costa Rica. El estudio se enfoca principalmente en diagnosticar el transporte como el sector de mayor ineficiencia en el país, debido a su dependencia absoluta de los combustibles fósiles importados, y propone un conjunto de transformaciones para mejorar la eficiencia del sistema.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "Estos resultados numéricos con respecto a emisiones de carbono no solo señalan patrones de conducta social inapropiados con respecto al uso de la energía, sino que deberían ser entendidos por la sociedad civil en su dimensión relativa a la calidad del aire, la salud pública y en general como amenaza a la calidad de vida, sobre todo en las áreas urbanas.",
+              "pagina": 93
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "A. Introducción",
+              "nivel": 3,
+              "paginas": "85-87",
+              "resumen": "Establece el marco de referencia sobre la eficiencia energética en Costa Rica. El autor argumenta que la eficiencia energética es clave para mitigar las emisiones de carbono, asegurar el abastecimiento ante choques de precios internacionales de hidrocarburos, y reducir la huella ecológica nacional, justificando la realización de un estudio riguroso sobre la demanda sectorial de energía. No se detectó señal climática específica en esta sección.",
+              "dimensions": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Esto hace posible comparar tendencias, cuyos datos numéricos están expresados en diferentes unidades, como por ejemplo barriles de petróleo, emisiones de gases de efecto invernadero debidas al uso de combustibles derivados de petróleo o el equivalente energético de ese material fósil o sus derivados.",
+                  "pagina": 86
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "B. Revisión somera de la dinámica de la demanda de energía en Costa Rica",
+              "nivel": 3,
+              "paginas": "88-89",
+              "resumen": "Presenta un análisis cuantitativo histórico del consumo de energía secundaria en Costa Rica desde la década de 1980. El autor demuestra un incremento sugerido de la demanda que corre en paralelo al crecimiento económico, revelando una alta dependencia estructural de la energía comercial, lo que plantea presiones crecientes sobre el abastecimiento y la sostenibilidad ambiental del país. No se detectó señal climática específica en esta sección.",
+              "dimensions": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "B. Revisión somera de la dinámica de la demanda de energía en Costa Rica Los datos de base usados para elaborar el 5° Plan nacional de energía 2008-2021 [7] se han empleado en este estudio, para calcular la dinámica del crecimiento anual de demanda",
+                  "pagina": 88
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "C. Transporte como mecanismo de ineficiencia energética en Costa Rica",
+              "nivel": 3,
+              "paginas": "89-91",
+              "resumen": "Identifica al sector transporte como el principal responsable de la ineficiencia energética nacional. El análisis demuestra cómo la falta de planificación urbana, la flotas vehiculares obsoletas y la ausencia de transporte masivo de alta capacidad explican el consumo desmedido de hidrocarburos importados en Costa Rica, lo que exacerba las emisiones de GEI y frena la transición energética nacional.",
+              "dimensions": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Se nota que el sector transporte demanda una fracción desproporcionadamente alta de la demanda energética del país, casi cinco veces más que las necesidades de energía del sector domiciliario. Esto sugiere un alto grado de ineficiencia en las formas de transporte de bienes y personas.",
+                  "pagina": 89
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "D. Discusión de los resultados",
+              "nivel": 3,
+              "paginas": "91-93",
+              "resumen": "Discute los resultados del análisis de elasticidad-ingreso de la demanda de energía. El autor advierte sobre los peligros de mantener la trayectoria de consumo tendencial y la urgencia de implementar regulaciones rigurosas y estándares tecnológicos obligatorios para desacoplar el crecimiento del PIB de la huella de carbono, impulsando la adopción de flotas eléctricas de transporte. No se detectó señal climática específica en esta sección.",
+              "dimensions": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Este resultado señala la ausencia de adecuada autogestión del gasto energético en la sociedad costarricense.",
+                  "pagina": 92
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "E. Conclusiones",
+              "nivel": 3,
+              "paginas": "93-94",
+              "resumen": "Ofrece las conclusiones finales del estudio energético en Costa Rica. El autor enfatiza que la inercia fósil en el transporte urbano constituye la mayor barrera para el desarrollo sostenible de la nación. Recomienda priorizar la inversión estatal en el Tren Eléctrico Interurbano y establecer impuestos selectivos de carbono a combustibles, impulsando un marco regulatorio moderno para incentivar las energías limpias. No se detectó señal climática específica en esta sección.",
+              "dimensions": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Los valores de εCO2, N para CRI y el mundo son estadísticamente similares.",
+                  "pagina": 93
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Artículo II.2. Energy efficiency in the Mexican transport sector: the case of imported second-hand vehicles",
+          "nivel": 2,
+          "paginas": "95-111",
+          "resumen": "Este artículo analiza la eficiencia energética del transporte mexicano frente al masivo comercio de vehículos usados importados (second-hand vehicles, SHVs) desde los Estados Unidos. El estudio demuestra cómo la falta de regulaciones ambientales estrictas en la frontera permite el ingreso de vehículos altamente ineficientes y contaminantes, deteriorando la calidad del aire de las ciudades mexicanas e incrementando la dependencia energética de la nación.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Between 2004 and 2010, the most traded brands at the US-Mexico border were: Ford (Lincoln and Mercury), G.M. (Buick, Cadillac, Chevrolet, Hummer, G.M.C. and Pontiac) and Chrysler (Jeep, Dodge, Ram and Mopar). About 70% of the ISHVs were SUV’s, Pickups and Vans and only 30% were compact vehicles.",
+              "pagina": 97
+            },
+            {
+              "dimension": "desafios",
+              "cita": "A study published by Blows and others (2003), demonstrates that there exists a strong relationship between vehicle age and car crash injury. The risk to have a car crash with a vehicle older than 15 years is approximately three times higher compared to a vehicle younger than four years (Blows and others, 2003).",
+              "pagina": 98
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "A. Introduction",
+              "nivel": 3,
+              "paginas": "95-96",
+              "resumen": "Presenta el problema del comercio transfronterizo de vehículos usados importados (ISHVs) entre EE.UU. y México tras la apertura comercial del TLCAN. El texto destaca el fuerte impacto negativo que este flujo genera en la eficiencia del parque vehicular nacional, la seguridad vial y el cumplimiento de las metas climáticas del país, justificando la necesidad de aplicar recomendaciones de política pública regulatorias de mayor impacto. No se detectó señal climática específica en esta sección.",
+              "dimensions": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Road transport accounts for 90% of energy consumption and CO2eq emissions from the transport sector.",
+                  "pagina": 95
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "B. Trade of ISHV between the United States and Mexico",
+              "nivel": 3,
+              "paginas": "96-99",
+              "resumen": "Analiza las dinámicas del mercado de vehículos usados importados y su impacto ambiental y vial en México. El estudio detalla cómo las asimetrías de precios y las brechas en estándares técnicos incentivan la exportación de automóviles de desecho desde EE.UU. que consumen combustibles fósiles de forma ineficiente, elevando radicalmente las emisiones de GEI locales y empeorando la congestión y los accidentes en zonas urbanas mexicanas. No se detectó señal climática específica en esta sección.",
+              "dimensions": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Although this essay refers mainly to the Mexican case, the next section gives an overview of the ISHVs market in other Latin American countries, especially South American countries like Peru and Chile.",
+                  "pagina": 96
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "C. Trade of ISHVs in other Latin American economies: relevant facts about South America",
+              "nivel": 3,
+              "paginas": "99-102",
+              "resumen": "Ofrece un panorama comparativo del comercio de vehículos usados importados en otras naciones sudamericanas (como Perú, Bolivia y Paraguay). El autor detalla cómo la falta de prohibiciones o regulaciones aduaneras estrictas en estos países genera externalidades ambientales idénticas a las del caso mexicano, consolidando una trayectoria de ineficiencia energética regional por la absorción de flotas obsoletas. No se detectó señal climática específica en esta sección.",
+              "dimensions": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "The US has a passenger vehicle fleet of 250 million units.",
+                  "pagina": 99
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "D. Public policy recommendations",
+              "nivel": 3,
+              "paginas": "102-107",
+              "resumen": "Presenta propuestas de política pública concretas para revertir los impactos de los vehículos usados en México. Se detallan recomendaciones tales como: a) programas nacionales de chatarrización (scrapping schemes), b) fortalecimiento de inspección y mantenimiento vehicular (I&M), c) control ambiental estricto en la frontera, y d) seguros vehiculares obligatorios para desincentivar la compra de unidades obsoletas y contaminantes. No se detectó señal climática específica en esta sección.",
+              "dimensions": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "In South America, 35% of the SHVs are imported from Japan and 17% from South Korea.",
+                  "pagina": 102
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "E. Conclusions",
+              "nivel": 3,
+              "paginas": "107-109",
+              "resumen": "Sintetiza el análisis del impacto de los vehículos importados. El autor concluye que la inacción regulatoria en la frontera norte socava de forma severa los esfuerzos de transición energética nacional y compromete la calidad del aire. Recomienda unificar los criterios ambientales del sector transporte con las directrices de mitigación del cambio climático para crear un marco regulatorio integral que promueva la movilidad limpia. No se detectó señal climática específica en esta sección.",
+              "dimensions": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "In South America, 35% of the SHVs are imported from Japan and 17% from South Korea.",
+                  "pagina": 102
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Artículo II.3 Alternativas para el mejor aprovechamiento de la energía eléctrica",
+          "nivel": 2,
+          "paginas": "112-130",
+          "resumen": "Aborda el aprovechamiento de la energía eléctrica y alternativas sostenibles en Costa Rica. El estudio se centra en el subsector electricidad y examina la posibilidad de transitar hacia un modelo descarbonizado, enfocándose en la electrificación del sector transporte masivo como el Tren Eléctrico Metropolitano (TREM) para disminuir la fuerte dependencia petrolera del país.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Actualmente el país destina aproximadamente un 52% de la energía y un 98% de los hidrocarburos al sector transporte (Molina, 2008). Sin embargo, a diferencia del resto de economías centroamericanas genera más del 90% de la electricidad por medio de fuentes renovables (Molina, 2008)",
+              "pagina": 119
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Costa Rica cuenta con un parque vehicular de más 1.200.000 vehículos, de los cuales aproximadamente 792.000, cerca del 66%, son de uso particular",
+              "pagina": 120
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "Introducción",
+              "nivel": 3,
+              "paginas": "112-113",
+              "resumen": "Introduce el debate sobre la transición energética y el mejor aprovechamiento de la energía eléctrica en Costa Rica. El autor resalta la necesidad estratégica de reducir la factura de hidrocarburos importados y mitigar las emisiones asociadas al sector transporte, justificando la búsqueda de alternativas tecnológicas limpias de alta cobertura nacional.",
+              "dimensions": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "De esta forma, los países al incentivar el crecimiento económico deben fomentar también la generación de energía, de cara a promover la independencia energética y el desarrollo sostenido a través del tiempo.",
+                  "pagina": 112
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "A. Costa Rica, situación actual del subsector electricidad",
+              "nivel": 3,
+              "paginas": "113-116",
+              "resumen": "Analiza el panorama contemporáneo de la generación y el consumo de electricidad en Costa Rica. El autor detalla el éxito del país al consolidar una matriz de generación eléctrica altamente renovable (basada en recursos hidráulicos, geotérmicos y eólicos), pero advierte sobre la vulnerabilidad del sistema ante variaciones en los patrones de precipitación inducidas por el cambio climático. No se detectó señal climática específica en esta sección.",
+              "dimensions": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "Sin embargo, esta mejora en la calidad de vida e incremento en los factores de producción, generan a su vez, una espiral de crecimiento en la demanda energética, con lo cual, el mejoramiento de los niveles de vida de un país trae encadenado un incremento en el consumo de energía (González, 2005).",
+                  "pagina": 112
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "B. Costa Rica, de cara a un cambio en el modelo energético",
+              "nivel": 3,
+              "paginas": "116-117",
+              "resumen": "Discute las bases estratégicas para un cambio cualitativo en el modelo energético nacional de Costa Rica. El autor sostiene que, al contar con excedentes de generación eléctrica limpia, el país tiene la oportunidad estructural de sustituir el consumo de combustibles fósiles del sector transporte masivo por energía eléctrica nacional, mitigando de forma sustancial la huella ecológica del país.",
+              "dimensions": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Costa Rica fue uno de los primeros países en establecerse como meta ser una nación Carbono Neutral para el 2021, lo que sumado a la disponibilidad de un gran potencial en energías propias y renovables, así como el haber identificado en el transporte, una de sus principales debilidades en cuanto a energía se refiere, lo deja en un punto de partida favorable para acometer acciones que le permitan corregir aquellos aspectos que limitan su desarrollo o lo colocan en una posición",
+                  "pagina": 116
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "C. Iniciativas conjuntas para el mejoramiento del transporte público",
+              "nivel": 3,
+              "paginas": "117-120",
+              "resumen": "Analiza proyectos concretos de transporte público bajo en carbono en el Área Metropolitana de San José. Se evalúa técnicamente el diseño y la factibilidad del Proyecto del Tren Eléctrico Metropolitano (TREM) y la reactivación del sistema ferroviario existente, demostrando su alta eficiencia energética y su capacidad de mitigación de gases de efecto invernadero respecto al transporte por carretera. No se detectó señal climática específica en esta sección.",
+              "dimensions": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Incluso se ha llegado a presentar oposición por parte de algunos gremios ante este tipo de iniciativas, por lo que los intereses particulares de cada sector siguen privando y el divorcio entre los distintos actores públicos y privados evita la materialización en este tipo de proyectos.",
+                  "pagina": 117
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "D. Plan piloto en Costa Rica",
+              "nivel": 3,
+              "paginas": "120-124",
+              "resumen": "Presenta los resultados preliminares del plan piloto de movilidad eléctrica implementado en Costa Rica. El análisis demuestra una reducción drástica del gasto operativo y de las emisiones locales, sirviendo de base científica para proponer un plan de escalamiento a nivel nacional apoyado por el Instituto Costarricense de Electricidad (ICE) y ministerios sectoriales.",
+              "dimensions": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Con el fin de poder hacer tangibles los beneficios de una propuesta de este tipo, la misma debería poder implementarse en un corto plazo, de manera que los ahorros por reducción en la demanda de combustible puedan ser claramente cuantificados y traducidos en flujos financieros susceptibles de direccionarlos de manera oportuna y efectiva a la producción de más energía limpia.",
+                  "pagina": 121
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Artículo II.4. Cogeneración: propuesta de regulación jurídica en Cuba",
+          "nivel": 2,
+          "paginas": "131-143",
+          "resumen": "Escrito por Román Roberto Duarte Martell, este artículo presenta una propuesta detallada para la regulación jurídica de la cogeneración de energía eléctrica y térmica en Cuba. El autor argumenta que la industria azucarera cubana tiene un potencial sustantivo para cogenerar electricidad limpia a partir del bagazo de caña, pero su aprovechamiento eficiente se encuentra bloqueado por la falta de un marco normativo claro que regule la inyección a la red, tarifas atractivas e incentivos fiscales.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "La cogeneración es una técnica de eficiencia energética, entendida esta como el conjunto de técnicas que se aplican para mejorar el rendimiento de una instalación industrial cualquiera",
+              "pagina": 132
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "A. Aspectos generales de la cogeneración de energía",
+              "nivel": 3,
+              "paginas": "131-135",
+              "resumen": "Define la base técnica de la cogeneración (producción simultánea de energía eléctrica y térmica útil a partir de un solo combustible fósil o renovable). El autor analiza las ventajas de alta eficiencia termodinámica de estos sistemas, que reducen radicalmente las pérdidas de transmisión en redes eléctricas y la quema innecesaria de combustibles, favoreciendo la mitigación de emisiones de carbono a nivel industrial. No se detectó señal climática específica en esta sección.",
+              "dimensions": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "La cogeneración se define como la producción secuencial de energía eléctrica y/o mecánica y de energía térmica aprovechable en los procesos industriales a partir de una misma fuente de energía primaria (Cinsneros Barrera, 2003), y es hoy, una de las mejores alternativas como método de conservación de energía para la industria, acorde con las políticas de globalización económica regional e internacional orientadas a lograr un desarrollo sostenible.",
+                  "pagina": 131
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "B. La cogeneración de energía en Cuba",
+              "nivel": 3,
+              "paginas": "135-137",
+              "resumen": "Diagnostica la situación de la cogeneración en Cuba, con especial énfasis en el sector azucarero (centrales azucareros que queman bagazo). El autor describe el deterioro tecnológico e ineficiencia del parque industrial instalado y cómo la falta de un marco regulador claro que asigne valor comercial a la electricidad inyectada a la Unión Eléctrica de Cuba limita la modernización y frena la transición a renovables.",
+              "dimensions": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Charles E. Emery, entrenado como ingeniero naval durante la Guerra Civil, escribió un detallado análisis sobre las ventajas económicas de la generación combinada de potencia y calor, en 1870.",
+                  "pagina": 135
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "C. Propuesta de elementos conformadores de la norma legal sobre la cogeneración de energía en Cuba",
+              "nivel": 3,
+              "paginas": "137-141",
+              "resumen": "Presenta una propuesta legislativa concreta para regular la cogeneración en Cuba. El autor detalla los elementos normativos indispensables, incluyendo: a) tarifas preferenciales basadas en el costo evitado de generación fósil, b) prioridad obligatoria de inyección a la red eléctrica nacional, y c) exenciones fiscales directas a inversiones de capital en equipos de alta presión en centrales azucareros.",
+              "dimensions": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "En materia de seguridad las plantas de cogeneración disponen de modernos sistemas de control que minimizan la aparición de accidentes graves y su operación implica tener un control detallado de los consumos de energía eléctrica y térmica y del proceso industrial en general.",
+                  "pagina": 137
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "D. Conclusiones",
+              "nivel": 3,
+              "paginas": "141-142",
+              "resumen": "Resume los hallazgos y el llamado regulatorio. El autor concluye que la aprobación de una ley de cogeneración de energía en Cuba es un prerrequisito indispensable para disminuir la dependencia de hidrocarburos importados y modernizar el sector azucarero nacional. Recomienda acelerar la articulación entre el Ministerio de Energía y Minas y el Ministerio de Agricultura para viabilizar el proyecto.",
+              "dimensions": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "En materia de seguridad las plantas de cogeneración disponen de modernos sistemas de control que minimizan la aparición de accidentes graves y su operación implica tener un control detallado de los consumos de energía eléctrica y térmica y del proceso industrial en general.",
+                  "pagina": 137
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Artículo II.5. Enlazando gobiernos locales sostenibles",
+          "nivel": 2,
+          "paginas": "144-154",
+          "resumen": "Examina el rol fundamental de los municipios y gobiernos locales en la implementación de medidas de uso racional de la energía y eficacia energética en América Latina. A través de una metodología estructurada, el estudio describe cómo el diseño y la ejecución de planes locales de sostenibilidad energética pueden descarbonizar las instalaciones públicas y reducir de forma sustantiva la factura eléctrica de las comunidades.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "El acceso de electricidad en Centroamérica es un reflejo de la desigualdad que se vive. Mientras se fomenta la construcción de grandes centrales de generación eléctrica para alimentar el consumo de la industria y sectores con mayores ingresos, se estima que la mitad de la población no dispone del servicio.",
+              "pagina": 145
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "A. Introducción",
+              "nivel": 3,
+              "paginas": "144-145",
+              "resumen": "Introduce el concepto de sostenibilidad desde el nivel subnacional y local. El autor argumenta que los municipios son la primera línea de acción frente al cambio climático y la eficiencia energética, justificando la creación de herramientas metodológicas aplicables a los servicios locales de iluminación, contratación de equipos sostenibles y movilización de personal. No se detectó señal climática específica en esta sección.",
+              "dimensions": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Enlazando gobiernos locales sostenibles Artículo II.5 Enlazando gobiernos locales sostenibles Rosalía Soley * Ecodesarrollo (San Salvador, El Salvador) A.",
+                  "pagina": 144
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "B. Metodología",
+              "nivel": 3,
+              "paginas": "145-147",
+              "resumen": "Describe la metodología de planificación energética local. El texto presenta un enfoque por etapas que abarca desde la auditoría de consumos en edificios de administraciones públicas, pasando por la priorización de proyectos de recambio de luminarias de alumbrado, hasta el monitoreo continuo de consumos, asegurando un diseño de planes con alto impacto y viabilidad financiera local.",
+              "dimensions": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Metodología La energía constituye un pilar fundamental para el desarrollo de un país.",
+                  "pagina": 145
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "C. Principios",
+              "nivel": 3,
+              "paginas": "147-147",
+              "resumen": "Establece los principios éticos y operativos que deben regir los planes de sostenibilidad municipales. Se resaltan principios tales como la participación ciudadana transparente, el uso de compras públicas sostenibles como catalizadores de mercados de tecnologías verdes, y la rendición de cuentas ambiental de los presupuestos de servicios públicos locales. No se detectó señal climática específica en esta sección.",
+              "dimensions": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Metodología La energía constituye un pilar fundamental para el desarrollo de un país.",
+                  "pagina": 145
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "D. Plan de uso racional de la energía y eficacia energética",
+              "nivel": 3,
+              "paginas": "147-150",
+              "resumen": "Analiza en detalle las medidas prácticas de uso racional de la energía. Se evalúa el recambio de luminarias de sodio de alumbrado por tecnología LED eficiente en instalaciones públicas de municipios piloto, la optimización energética de los sistemas de bombeo de agua potable, y el fomento de incentivos para la movilización sostenible de los funcionarios locales, logrando reducciones nulas de emisiones locales de GEI.",
+              "dimensions": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "C. Principios a) Soberanía energética: sector energético modernizado, robusto y eficiente, que garantice la producción local y suministre bienes y servicios energéticos a la población salvadoreña con tecnologías limpias, seguras y modernas, lideradas por las comunidades y las cuales contribuyan a la sostenibilidad del país.",
+                  "pagina": 147
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "Módulo 3. Energías renovables y desarrollo sostenible",
+      "nivel": 1,
+      "paginas": "155-266",
+      "resumen": "Analiza las políticas públicas de fomento a las fuentes de energía renovables con enfoque en desarrollo sostenible en América Latina. El módulo estudia la experiencia internacional del Ministerio de Energías Renovables de la India y su aplicabilidad en la región, las sinergias entre cambio climático y recursos hídricos en Costa Rica, la ética ecológica de Enrique Leff en comunidades rurales de México, estudios de factibilidad de plantas maremotérmicas en Cuba y de energía solar residencial en Argentina.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "Artículo III.1. Las energías renovables con una visión de Estado para las naciones de América Latina",
+          "nivel": 2,
+          "paginas": "155-181",
+          "resumen": "Este extenso artículo examina el modelo institucional de la India en materia de energías renovables (Misión Solar de la India y Ministerio de Energías Renovables) y propone su replicación en los países de América Latina. Se analiza la trayectoria histórica de la gobernanza india y los arreglos de financiamiento y transferencia tecnológica que permitieron al país asiático convertirse en líder global de energías limpias.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "A. Introducción",
+              "nivel": 3,
+              "paginas": "157-161",
+              "resumen": "Introduce el debate sobre la necesidad de adoptar una visión de Estado en el fomento de energías renovables en América Latina. El autor argumenta que el cambio climático y la inestabilidad de precios fósiles exigen un liderazgo político consistente, presentando la exitosa experiencia histórica del Ministerio de Energías Renovables de la India como un anclaje comparativo de alta relevancia para la región.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Las tecnologías de Energías Renovables compiten con las fuentes convencionales, por lo que el reto a vencer es equiparar éstas en cuanto a su confiabilidad, potencia firme y costos.",
+                  "pagina": 161
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "B. Evolución del Ministerio de Estado indio en materia de energías renovables",
+              "nivel": 3,
+              "paginas": "155-159",
+              "resumen": "Describe la evolución institucional de la gobernanza energética de la India desde la década de 1980. El texto detalla cómo la creación de un departamento independiente de fuentes no convencionales en 1982, que ascendió a rango ministerial (MNES/MNRE) en 1992, dotó al país asiático de una estructura con competencias plenas para definir incentivos financieros estables e impulsar la investigación tecnológica.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Posteriormente creó un departamento independiente de fuentes no convencionales en 1982, convirtiéndose en Ministerio de Fuentes No Convencionales de Energía (MNES), en 1992.",
+                  "pagina": 158
+                },
+                {
+                  "dimension": "tendencias",
+                  "cita": "Evolución del Ministerio de Estado indio en materia de energías renovables ........................................................................................",
+                  "pagina": 155
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "C. Líneas de acción",
+              "nivel": 3,
+              "paginas": "158-161",
+              "resumen": "Analiza las principales líneas de acción del Ministerio de Energías de la India (MNRE). El autor resalta la creación de la Agencia India para el Desarrollo de Energías Renovables (IREDA) como una institución financiera pública especializada que otorgó concesiones y créditos blandos directos, permitiendo apalancar grandes inversiones privadas en parques de generación eólica y solar en zonas con alto potencial.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Para lograr ayuda y concesiones financieras al sector de las Energías Renovables, el MNES creó una institución financiera por medio de su Agencia India para el Desarrollo de las Energías Renovables (IREDA, por sus siglas en inglés).",
+                  "pagina": 158
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "D. Actualidad del Ministerio de Estado de la India en materia de energías renovables",
+              "nivel": 3,
+              "paginas": "161-166",
+              "resumen": "Examina la situación contemporánea del Ministerio y los retos de inserción de las energías renovables frente a la matriz convencional de carbón en la India. El autor explica que el principal obstáculo a superar consiste en lograr que las tecnologías eólica y solar equiparen a las fuentes fósiles en cuanto a confiabilidad, potencia firme y costos de generación, garantizando la seguridad energética nacional.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Las tecnologías de Energías Renovables compiten con las fuentes convencionales, por lo que el reto a vencer es equiparar éstas en cuanto a su confiabilidad, potencia firme y costos.",
+                  "pagina": 161
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "E. Misión solar India",
+              "nivel": 3,
+              "paginas": "166-171",
+              "resumen": "Analiza en detalle el diseño estratégico y metas de la Misión Solar Nacional de la India. El texto detará los ambiciosos objetivos de instalar centrales de generación fotovoltaica a gran escala, fomentar programas de desarrollo de recursos humanos, e incentivar la manufactura nacional de componentes solares, consolidando una política de Estado de descarbonización de largo plazo.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "La misión solar es una entre las ocho políticas de largo plazo dentro del Plan Nacional de Acción Climática tiene un importante apoyo del Primer Ministro de la India con un ambicioso objetivo de 20.000 MW solares para 2022.",
+                  "pagina": 166
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "F. Ruta de desarrollo",
+              "nivel": 3,
+              "paginas": "171-171",
+              "resumen": "Sintetiza la hoja de ruta y la trayectoria de planeación y escalamiento de la Misión Solar de la India por fases sucesivas. Se describe cómo el diseño en etapas permite ajustar los subsidios, adecuar la infraestructura de transmisión eléctrica y transferir conocimientos del sector de investigación científica a las industrias productivas locales de paneles solares.",
+              "dimensions": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "La misión solar es una entre las ocho políticas de largo plazo dentro del Plan Nacional de Acción Climática tiene un importante apoyo del Primer Ministro de la India con un ambicioso objetivo de 20.000 MW solares para 2022.",
+                  "pagina": 166
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "G. Marco regulatorio y de política energética",
+              "nivel": 3,
+              "paginas": "171-174",
+              "resumen": "Examina los instrumentos jurídicos y de política económica que sostienen la transición en la India. El autor analiza el papel de las tarifas de inyección preferenciales (feed-in tariffs), las obligaciones de compra de energía renovable impuestas a distribuidoras privadas, y las exenciones tributarias especiales que reducen la incertidumbre financiera para atraer capital privado al sector solar.",
+              "dimensions": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "La misión solar es una entre las ocho políticas de largo plazo dentro del Plan Nacional de Acción Climática tiene un importante apoyo del Primer Ministro de la India con un ambicioso objetivo de 20.000 MW solares para 2022.",
+                  "pagina": 166
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "H. Desarrollo de recursos humanos",
+              "nivel": 3,
+              "paginas": "174-175",
+              "resumen": "Analiza los programas públicos de formación técnica y capacitación profesional impulsados por el Ministerio indio de Energías Renovables. El texto argumenta que la transición hacia una infraestructura baja en carbono requiere crear capacidades técnicas locales para la instalación, operación y mantenimiento de sistemas eólicos y fotovoltaicos de forma autónoma. No se detectó señal climática específica en esta sección.",
+              "dimensions": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "La misión solar es una entre las ocho políticas de largo plazo dentro del Plan Nacional de Acción Climática tiene un importante apoyo del Primer Ministro de la India con un ambicioso objetivo de 20.000 MW solares para 2022.",
+                  "pagina": 166
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "I. Arreglos institucionales para la implementación de la misión",
+              "nivel": 3,
+              "paginas": "175-175",
+              "resumen": "Describe la estructura de gobernanza y coordinación institucional del plan indio. El texto detalla los comités de alto nivel que integran las directrices del Ministerio de Energías Renovables con las metas de cambio climático del Ministerio de Ambiente y Bosques, asegurando la complementariedad y coherencia regulatoria entre diferentes capas de la administración pública. No se detectó señal climática específica en esta sección.",
+              "dimensions": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "La misión solar es una entre las ocho políticas de largo plazo dentro del Plan Nacional de Acción Climática tiene un importante apoyo del Primer Ministro de la India con un ambicioso objetivo of 20.000 MW solares para 2022.",
+                  "pagina": 166
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "J. Colaboración internacional",
+              "nivel": 3,
+              "paginas": "175-176",
+              "resumen": "Analiza las alianzas de cooperación bilateral y multilateral de la India con otros bloques tecnológicos (como la Unión Europea y EE.UU.). El autor describe cómo el país asiático estructuró acuerdos de transferencia tecnológica de patentes y flujos financieros multilaterales para viabilizar el escalamiento de la energía solar de manera soberana y competitiva.",
+              "dimensions": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "La misión solar es una entre las ocho políticas de largo plazo dentro del Plan Nacional de Acción Climática tiene un importante apoyo del Primer Ministro de la India con un ambicioso objetivo de 20.000 MW solares para 2022.",
+                  "pagina": 166
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "K. Financiamiento de las actividades de la misión",
+              "nivel": 3,
+              "paginas": "176-177",
+              "resumen": "Describe la arquitectura de financiamiento de la Misión Solar de la India. El análisis detalla el uso combinado de presupuestos federales directos, emisión de bonos soberanos para energías limpias, y la canalización de recursos internacionales provenientes de agencias multilaterales, mitigando los altos costos de capital inicial de los megaproyectos fotovoltaicos.",
+              "dimensions": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "La misión solar es una entre las ocho políticas de largo plazo dentro del Plan Nacional de Acción Climática tiene un importante apoyo del Primer Ministro de la India con un ambicioso objetivo de 20.000 MW solares para 2022.",
+                  "pagina": 166
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "L. Ventajas al aplicar este modelo en los países latinoamericanos",
+              "nivel": 3,
+              "paginas": "177-179",
+              "resumen": "Propone la adopción del modelo institucional de la India en América Latina. El autor sostiene que la creación de ministerios nacionales dedicados de forma exclusiva a las energías renovables (separando estas funciones del fomento de hidrocarburos convencionales) y la dotación de agencias financieras específicas representan la vía más eficiente para que las naciones de la región descarbonicen sus economías y reduzcan la inercia fósil estructural.",
+              "dimensions": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Habría ventajas de diversos tipos al tener un Ministerio de Estado que atienda las Energías Renovables en cada país de la región latinoamericana con esa misma visión.",
+                  "pagina": 177
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "M. Conclusiones",
+              "nivel": 3,
+              "paginas": "179-180",
+              "resumen": "Resume las conclusiones de la transferencia del modelo de gobernanza energética de la India. El autor concluye que la transición hacia un desarrollo de base renovable en América Latina es, antes que un desafío tecnológico, una decisión de alta política y reforma institucional profunda. Recomienda establecer un marco legislativo integral con metas obligatorias de descarbonización a largo plazo.",
+              "dimensions": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "La misión solar es una entre las ocho políticas de largo plazo dentro del Plan Nacional de Acción Climática tiene un importante apoyo del Primer Ministro de la India con un ambicioso objetivo de 20.000 MW solares para 2022.",
+                  "pagina": 166
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Artículo III.2. Políticas sinergiales para el desarrollo de fuentes renovables de energía, sostenibilidad ambiental y adaptación al cambio climático",
+          "nivel": 2,
+          "paginas": "182-198",
+          "resumen": "Este artículo analiza la necesidad de diseñar políticas sinérgicas entre el fomento de energías renovables, la sostenibilidad de ecosistemas y la adaptación al cambio climático. A través del estudio del subsector eléctrico de Costa Rica, el autor demuestra que las cuencas hidrográficas de generación hidroeléctrica están bajo un riesgo climático creciente por alteraciones de precipitación, requiriendo un manejo integral de cuencas con un fuste social.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "A. Introducción",
+              "nivel": 3,
+              "paginas": "182-183",
+              "resumen": "Introduce el problema de articular políticas públicas integradas que vinculen el fomento energético con la adaptación al cambio climático y la mitigación de impactos ambientales. El autor resalta que América Latina y Centroamérica enfrentan el reto de descarbonizar sus matrices minimizando las externalidades sociales locales en las áreas de influencia de los megaproyectos.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Para tal propósito es necesario articular políticas públicas integradas que generen una serie de complementariedades que permitan poner a disposición la energía necesaria de forma segura, con el menor impacto socio ambiental y que asegure el mayor desarrollo local en las zonas de influencia de los proyectos energéticos, coadyuvando a la vez con medidas de adaptación al cambio climático.",
+                  "pagina": 182
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "Introducción América Latina, y en particular Centroamérica, enfrentan el reto de abastecerse de energía de forma sostenible, a precios razonables y orientados al desarrollo de sus naciones.",
+                  "pagina": 182
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "B. Marco de referencia conceptual para la relación economía, ambiente and energía",
+              "nivel": 3,
+              "paginas": "183-185",
+              "resumen": "Presenta el marco teórico que rige los ciclos de la economía ecológica en relación con los recursos energéticos. El autor discute las limitaciones del sistema de precios de mercado al omitir el valor intrínseco de los servicios ambientales y las externalidades del cambio climático, sosteniendo que la industrialización y quema intensiva de combustibles fósiles constituyen el mayor fracaso del mercado jamás visto. No se detectó señal climática específica en esta sección.",
+              "dimensions": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Los resultados confirman que el cambio climático es el mayor fracaso del mercado jamás visto por no internalizar el valor del clima como bien público global y no registrar adecuadamente los impactos sociales y los servicios ambientales» (CEPAL y otros, 2010:16).",
+                  "pagina": 184
+                },
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "La industrialización sin precedentes que se ha tenido, en donde los combustibles fósiles han sido centrales en el campo energético y la provisión de diferentes insumos ha llevado a que, en poco tiempo, de acuerdo con la escala temporal de los ecosistemas naturales, el subsistema económico ha llenado de infraestructura, materia, población y flujos de insumos, residuos; contaminación, a tal grado que la capacidad de recuperación del capital natural y de asimilación de los ecosistemas.",
+                  "pagina": 184
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "C. Las necesidades energéticas regionales",
+              "nivel": 3,
+              "paginas": "185-186",
+              "resumen": "Analiza las proyecciones de demanda energética de los países centroamericanos y la vulnerabilidad de sus economías ante el petróleo importado. El autor argumenta que la debilidad en planificación de infraestructura de transporte, la falta de ordenamiento del territorio y la ausencia de redes de transporte público sostenible explican las altas y crecientes proporciones de consumo secundario de hidrocarburos en Centroamérica.",
+              "dimensions": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "La ausencia de ordenamiento del territorio, apropiadas carreteras e infraestructura en general, junto con el uso de tecnologías antiguas en las flotas vehiculares, explican la alta proporción de consumo de hidrocarburos.",
+                  "pagina": 185,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "D. Estructura y estrategia del subsector eléctrico de Costa Rica",
+              "nivel": 3,
+              "paginas": "186-191",
+              "resumen": "Detalla el diseño organizativo e de infraestructura eléctrica en Costa Rica, coordinado por el ICE. El autor analiza el gran potencial hidroeléctrico del país, pero discute los crecientes retos y limitaciones que enfrenta, como la contradicción inherente entre las políticas de protección ambiental en Parques Nacionales y la expansión de represas de generación eléctrica en cuencas vulnerables. No se detectó señal climática específica en esta sección.",
+              "dimensions": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Generadores privados integrándose, vendiendo de forma segura su energía a un comprador único, sin asumir los riesgos que las oscilaciones de la generación renovable crean en los mercados eléctricos y que serán mayores por aspectos climáticos.",
+                  "pagina": 188
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "E. El riesgo climático en Centroamérica",
+              "nivel": 3,
+              "paginas": "191-193",
+              "resumen": "Diagnostica la extrema vulnerabilidad climática de la infraestructura energética en Centroamérica. El análisis cuantitativo histórico detalla que la dependencia de hidrocarburos de importación en los sistemas de generación del CEAC aumentó de forma drástica en la década de 1990, cuando la cuota de renovables descendió del 90% al 60% por sequías severas inducidas por El Niño. No se detectó señal climática específica en esta sección.",
+              "dimensions": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "El informe indica que el cambio climático, pone en riesgo la vida de seres humanos, especialmente los más pobres por sequías, inundaciones y tormentas (CEPAL y otros, 2010).",
+                  "pagina": 191
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "F. Acciones estratégicas para el aprovechamiento sostenible del potencial de generación eléctrica",
+              "nivel": 3,
+              "paginas": "193-195",
+              "resumen": "Presenta recomendaciones y lecciones estratégicas aprendidas de la gestión de cuencas del subsector eléctrico costarricense. El autor propone priorizar el diseño de planes de manejo integral de cuencas hidrográficas que involucren de forma transparente a las comunidades locales.",
+              "dimensions": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Tener una red hidro-meteorológicos robusta para estudiar proyectos de generación eléctrica, contribuyen a la elaboración de escenarios más robustos para el cambio climático, además el desarrollo de proyectos de generación eléctrica, brindan posibilidades para la adopción de acciones en el desarrollo local, manejo de cuencas hidrográficas y la aplicación de beneficios compartidos en las zonas de influencia de proyectos, todo esto puede mejorar el bienestar de las comunidades y coadyuvar a la adaptación al cambio climático.",
+                  "pagina": 185
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Artículo III.3. Energías renovables y desarrollo sostenible",
+          "nivel": 2,
+          "paginas": "199-211",
+          "resumen": "Este artículo de Edith Barrera Pineda de la Universidad del Mar (México) realiza una crítica conceptual de las definiciones corporativas dominantes del desarrollo sostenible basándose en el marco de la racionalidad ambiental y la ética ecológica de Enrique Leff. El estudio evalúa de qué manera los proyectos de tecnologías renovables a nivel subnacional y rural de México pueden transformarse de meras mercancías comerciales a herramientas de revalorización cultural.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "Desgraciadamente, se sabe que la fórmula actual de crecimiento económico conlleva a la mayor emisión de contaminantes, de tala inmoderada de los bosques, de sobreproducción en las industrias más contaminantes, con lo cual a largo plazo el costo del mantenimiento de ese supuesto crecimiento no es rentable.",
+              "pagina": 203
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "A. Introducción",
+              "nivel": 3,
+              "paginas": "200-200",
+              "resumen": "Establece el marco analítico del estudio de las energías renovables y el desarrollo sostenible en el sector rural. La autora argumenta que el consumo intensivo de petróleo a nivel mundial ha alcanzado limitaciones ecológicas críticas, constituyendo el calentamiento global y la contaminación por carbono la evidencia más clara de la inviabilidad estructural del paradigma de desarrollo convencional. No se detectó señal climática específica en esta sección.",
+              "dimensions": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Al mismo tiempo, estamos en un puntoLdonde la contaminación por las emisiones de carbono (derivado del petróleo) ha llegado a sus límites siendo la principal causa del calentamiento global y resultante del deterioro ambiental a nivel mundial.",
+                  "pagina": 199
+                },
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Al mismo tiempo, estamos en un puntoLdonde la contaminación por las emisiones de carbono (derivado del petróleo) ha llegado a sus límites siendo la principal causa del calentamiento global y resultante del deterioro ambiental a nivel mundial.",
+                  "pagina": 199
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "B. Crítica al desarrollo sostenible y la ética ecológica de Enrique Leff",
+              "nivel": 3,
+              "paginas": "200-205",
+              "resumen": "Presenta una crítica epistemológica de la sostenibilidad mercantilizada de la ONU frente a la racionalidad ambiental. El texto contrasta el concepto hegemónico de 'desarrollo sostenible' con la propuesta de Enrique Leff de una ética de la diversidad y el rescate de la identidad de grupos étnicos y saberes tradicionales frente al cambio climático. No se detectó señal climática específica en esta sección.",
+              "dimensions": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Consecuentemente en 1980, se consolidaría el término de sostenibilidad en la propuesta Estrategia Mundial de Conservación de la Naturaleza, presentada por las agencias internacionales de las Naciones Unidas, el Programa de Naciones Unidas para el Desarrollo (PNUD)80, la Unión Internacional para la Conservación de la Naturaleza (UICN)81, y el Fondo Mundial para la Naturaleza (WWF)82 (por sus siglas en inglés).",
+                  "pagina": 200
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "C. Energías renovables: revalorizando a las comunidades rurales",
+              "nivel": 3,
+              "paginas": "205-209",
+              "resumen": "Propone reorientar los proyectos de energías renovables en comunidades indígenas de Oaxaca y Guerrero bajo principios de factibilidad y ética ecológica de Leff. El texto analiza la grave brecha de implementación del sector, donde no se respetan las consultas previas a las comunidades de fuste eólico.",
+              "dimensions": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "Asimismo, existe el Convenio 169 donde los gobiernos son obligados a consultar a los pueblos indígenas cada vez que existan normativas que de una u otra manera les afecte.",
+                  "pagina": 208,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "D. Consideraciones finales",
+              "nivel": 3,
+              "paginas": "209-210",
+              "resumen": "Sintetiza la agenda del estudio. La autora concluye que las energías alternativas sólo tendrán un rol liberador y ecológico cuando dejen de tratarse como puras mercancías. Recomienda establecer incentivos estatales directos gestionados por las propias comunidades rurales para cogenerar electricidad limpia. No se detectó señal climática específica en esta sección.",
+              "dimensions": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "De ahí deriva la propuesta del proyecto de investigación por una concientización de una ética ecológica y la apuesta de energía limpias a partir del principio de factibilidad, respetando la cultura de cada comunidad rural, para un mejor aprovechamiento de los recursos naturales y un desarrollo sostenible.",
+                  "pagina": 199
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Artículo III.4. Propuesta de estudio de factibilidad de inversión de central maremotérmica con incremento de la diferencia de temperatura",
+          "nivel": 2,
+          "paginas": "212-228",
+          "resumen": "Presenta una propuesta de estudio de factibilidad técnica y económica para la inversión en una central de conversión de energía térmica de los océanos (OTEC) con un innovador sistema de concentración solar térmica para incrementar artificialmente la diferencia de temperatura. El estudio analiza el potencial de esta tecnología en las costas de Cuba, Haití y otros países de la cuenca del Caribe.",
+          "dimensiones": [
+            {
+              "dimension": "oportunidades",
+              "cita": "sistema maremotérmico con un rendimiento del 3% se podrían satisfacer todas las necesidades energéticas actuales de la humanidad.",
+              "pagina": 213
+            },
+            {
+              "dimension": "desafios",
+              "cita": "Estos altos costos de esta tecnología sugieren que su promoción sea realizada fundamentalmente por las agencias gubernamentales amen de una menor participación de la industria privada, aunque esto pudiera cambiar en el futuro por grandes asociaciones de capital privado.",
+              "pagina": 218
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "A. ¿Es factible la concentración de la energía solar?",
+              "nivel": 3,
+              "paginas": "219-227",
+              "resumen": "Este apartado evalúa la factibilidad técnica de la concentración de energía solar para incrementar la diferencia de temperatura en una planta maremotérmica. El análisis demuestra cómo la radiación solar concentrada mediante colectores parabólicos o lentes Fresnel puede elevar sustancialmente la temperatura del fluido de trabajo superficial, mejorando significativamente la eficiencia termodinámica de Carnot del ciclo global. El autor presenta simulaciones matemáticas de transferencia de calor and balances energéticos, concluyendo que esta hibridación tecnológica supera las limitaciones de rendimiento de los sistemas maremotérmicos convencionales de ciclo abierto o cerrado, viabilizando su desarrollo comercial en áreas costeras tropicales de América Latina con alta radiación solar incidente. No se detectó señal climática específica en esta sección.",
+              "dimensions": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Se plantea que el rendimiento de este sistema es muy bajo, alrededor del 7%, debido a la baja temperatura del foco caliente y la poca diferencia entre los focos caliente y frío.",
+                  "pagina": 215
+                },
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Procesos como agregar sobre calentadores a la salida de la caldera para obtener vapor sobrecalentado para que entre a la turbina, permite aumentar el rendimiento del ciclo.",
+                  "pagina": 214
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "B. Posibles ubicaciones idóneas",
+              "nivel": 3,
+              "paginas": "227-228",
+              "resumen": "Identifica las ubicaciones geográficas de América Latina y el Caribe idóneas para albergar plantas maremotérmicas. El estudio propone priorizar zonas costeras con rápido descenso batimétrico del fondo marino e intensidades de radiación altas, destacando de forma particular a Cuba y Haití.",
+              "dimensions": [
+                {
+                  "dimension": "desafios",
+                  "cita": "En especial Haití, país con una economía de las más pobres de la región y con grandes dificultades en la adquisición de las energías no renovables como el petróleo, y con un grado de deforestación por el uso de la leña como combustible, podría verse beneficiado con proyectos de esta índole, dado por inversiones de capital privado y/o de las organizaciones económicas de las naciones de la América Latina y del resto del continente.",
+                  "pagina": 227
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Artículo III.5 Valoración técnica y económica del impacto de la inserción de la energía fotovoltaica conectada a red como generación distribuida en el sector residencial",
+          "nivel": 2,
+          "paginas": "229-256",
+          "resumen": "Este artículo presenta una evaluación técnica y económica detallada de la inserción de generación distribuida solar fotovoltaica conectada a redes de baja tensión de barrios residenciales en la provincia de San Juan, Argentina (Proyecto Solar San Juan). El análisis simula el comportamiento de la red de distribución de la ciudad de Caucete, demostrando importantes beneficios.",
+          "dimensiones": [
+            {
+              "dimension": "oportunidades",
+              "cita": "la Provincia de San Juan es un lugar muy propicio en la incorporación de generación eléctrica en base al recurso solar, tanto a nivel de centrales de generación como a pequeña escala a nivel de distribución (generación distribuida).",
+              "pagina": 232
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "promover la instalación de paneles FV en el sector residencial, comercial e industrial y la instalación de centrales de generación FV para la provisión de energía eléctrica",
+              "pagina": 233
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "A. Introducción",
+              "nivel": 3,
+              "paginas": "229-230",
+              "resumen": "Introduce el contexto energético global y nacional en la Argentina, justificando la transición energética. El autor argumenta que la matriz energética contemporánea enfrenta presiones insostenibles por el aumento diario de la demanda y de los costos de generación de combustibles fósiles.",
+              "dimensions": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Frente a factores como el aumento diario de la demanda energética, el aumento gradual de los costos de generación, la necesidad de reemplazar gradualmente el recurso del petróleo, entre otros, hacen cada día más urgente un cambio en la política energética mundial.",
+                  "pagina": 229
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "B. Composición de las matrices energéticas",
+              "nivel": 3,
+              "paginas": "230-232",
+              "resumen": "Diagnostica cuantitativamente la composición de la matriz energética de Argentina y mundial. El autor demuestra la extrema e insostenible dependencia de hidrocarburos no renovables fósiles (petróleo, gas natural y carbón), que representa cerca del 82% del abastecimiento nacional primario.",
+              "dimensions": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Composición de las matrices energéticas Es conocido que la matriz energética mundial es altamente fósil-dependiente, en base al uso de hidrocarburos como el petróleo, gas natural y carbón, donde aproximadamente un 82% depende de hidrocarburos y de energía nuclear, 16% de energía hidráulica y tan solo un 2% de otros tipos de energía (véase el gráfico III.5.1).",
+                  "pagina": 230
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "C. Estado del arte de las reglamentaciones actuales",
+              "nivel": 3,
+              "paginas": "232-234",
+              "resumen": "Analiza las regulaciones y el marco legal de fomento para el uso de fuentes renovables en Argentina. Se examina la reglamentación de la Ley Nacional 26190/06 mediante el Decreto 562/09, evaluando su efectividad y los cuellos de botella regulatorios.",
+              "dimensions": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "En Argentina, la reciente reglamentación de la Ley 26190/06 (aprobada por Decreto PEN No 562/09), establece un régimen de fomento nacional para el uso de fuentes renovables de energía que abre interesantes perspectivas para la incorporación de centrales de potencia.",
+                  "pagina": 232
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "D. Metodología del análisis técnico",
+              "nivel": 3,
+              "paginas": "234-254",
+              "resumen": "Esta sección presenta de manera exhaustiva la metodología técnica y económica para evaluar el impacto de la inserción de sistemas de generación fotovoltaica (FV) conectados a la red eléctrica residencial en América Latina. El análisis detalla los perfiles de demanda residencial típicos en San Juan, Argentina, modelados hora por hora, y simula la curva de generación FV bajo diferentes niveles de penetración (del 10% al 50%) para estimar el desacoplamiento de carbono. Utiliza ecuaciones de flujo de potencia para evaluar las variaciones de tensión, pérdidas de línea y el comportamiento de la red de baja tensión ante la inyección de potencia activa bidireccional, evitando sobrecargas de transformadores. Adicionalmente, incluye una evaluación de rentabilidad económica basada en el Valor Presente Neto (VPN) y la Tasa Interna de Retorno (TIR), contemplando la legislación argentina de generación distribuida y analizando cómo los esquemas de facturación neta (net-metering o net-billing) condicionan los incentivos de inversión de los hogares, recomendando subsidios iniciales para mitigar la alta inversión de capital y democratizar el acceso a la energía limpia mediante el empoderamiento del prosumidor residencial, que puede reducir su factura eléctrica y a la vez inyectar excedentes limpios al sistema interconectado. No se detectó señal climática específica en esta sección.",
+              "dimensions": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Posteriormente se hace mención del recurso disponible que presenta la Argentina en materia deSradiación solar y la zona de San Juan como zona de alto potencial para el uso de la energía solar fotovoltaica, permitiendo dar un aporte en el cambio de las matrices energéticas actuales.",
+                  "pagina": 229
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            }
+          ]
+        },
+        {
+          "seccion": "Artículo III.6. Políticas para afrontar el desafío del cambio climático",
+          "nivel": 2,
+          "paginas": "257-266",
+          "resumen": "Este artículo final del módulo analiza las políticas y reformas regulatorias necesarias en América Latina para afrontar el cambio climático global. Se realiza un recorrido crítico por el modelo convencional de desarrollo energético basado en carbón y petróleo, evaluando los cuellos de botella en la gobernanza institucional.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Es de tener en cuenta que dentro de las alternativas para contribuir a la reducción de emisiones de gases contaminantes que contribuyen al cambio climático se encuentran las energías renovables, la eficiencia energética, y las políticas públicas",
+              "pagina": 258
+            },
+            {
+              "dimension": "desafios",
+              "cita": "La visión de seguridad energética es primordial en cada país, la diversificación de la canasta energética y la dependencia son factores que afectan cualquier decisión a largo plazo.",
+              "pagina": 261
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "Introducción",
+              "nivel": 3,
+              "paginas": "257-259",
+              "resumen": "Presenta la introducción conceptual sobre los retos del cambio climático en el sector energético de América Latina. El autor sostiene que las demandas sociales de crecimiento económico intensifican la quema de combustibles fósiles causantes del calentamiento global. No se detectó señal climática específica en esta sección.",
+              "dimensions": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Las sociedades necesitan crecer y para ello requieren consumir los servicios del medio ambiente y grandes cantidades de energía proveniente de los recursos naturales para transformar la economía, pero con la atenuante de que los combustibles fósiles son causantes de emisiones de gases que contribuyen al cambio climático.",
+                  "pagina": 257
+                },
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "En un modelo social basado en una utilización intensiva de la energía y el aprovechamiento de sus distintas modalidades y aplicaciones, crecimiento sostenido gracias a la industrialización (The Economist, 1999), pero que llegó a limitaciones medioambientales y de dependencia de los recursos no renovables y contaminantes como el petróleo y carbón.",
+                  "pagina": 257
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "A. Modelo convencional",
+              "nivel": 3,
+              "paginas": "259-259",
+              "resumen": "Describe la trayectoria y consolidación histórica del modelo convencional extractivo petroquímico. El texto analiza de qué manera la Revolución Industrial y la mecanización del transporte consolidaron un patrón tecnológico ineficiente de alta intensidad en carbono. No se detectó señal climática específica en esta sección.",
+              "dimensions": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "En un modelo social basado en una utilización intensiva de la energía y el aprovechamiento de sus distintas modalidades y aplicaciones, crecimiento sostenido gracias a la industrialización (The Economist, 1999), pero que llegó a limitaciones medioambientales y de dependencia de los recursos no renovables y contaminantes como el petróleo y carbón.",
+                  "pagina": 257
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "B. Alternativas al modelo convencional",
+              "nivel": 3,
+              "paginas": "259-261",
+              "resumen": "Evalúa las alternativas tecnológicas al modelo convencional fósil, enfocándose en la energía eólica, solar fotovoltaica, hidroeléctrica y nuclear. Se discuten de manera objetiva los costos y restricciones de intermitencia de cada tecnología.",
+              "dimensions": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Además, se deben abordar conjuntamente los desafíos del cambio climático a nivel regional (CEPAL, 2010b).",
+                  "pagina": 258
+                },
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Por su parte, dentro de las desventajas está el alto costo de los paneles solares, se necesita alternativas para su funcionamiento con baterías u otra fuente y se requiere buena exposición solar; c) la generación de energía eólica, que tiene una serie de efectos ambientales que pueden limitar su potencial.",
+                  "pagina": 260
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "C. Seguridad energética",
+              "nivel": 3,
+              "paginas": "261-261",
+              "resumen": "Analiza el concepto de seguridad energética en un contexto de vulnerabilidad externa de importación de combustibles en América Latina. El autor detalla experiencias de integración de bloques internacionales.",
+              "dimensions": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Si se vinculan estas necesidades y opciones de seguridad energética en ese contexto regional, nos encontramos con una relación constructiva con un sudeste asiático incorporado a ASEAN, organismo impulsor de la integración energética regional, que estableció medidas que propendan a la obtención de seguridad, sostenibilidad y utilización eficiente de los recursos energéticos naturales; política que tiene gran similitud con la de Japón.",
+                  "pagina": 261
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "D. Políticas energéticas",
+              "nivel": 3,
+              "paginas": "261-263",
+              "resumen": "Analiza los marcos regulatorios y regulatorios nacionales indispensables para sostener la inversión privada en renovables. El autor detalla los cuellos de botella de gobernanza, argumentando que muchos proyectos viables de energía limpia fracasan debido a la falta de un entorno normativo estable.",
+              "dimensions": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "Los proyectos de energías renovables fracasan por falta de un entorno político adecuado, muchos países gozan de condiciones ideales para explotar las energías renovables.",
+                  "pagina": 258
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "El sector energético en el contexto del cambio climático encuentran el cambio tecnológico (que no va ser suficiente), se requieren además reformas en las políticas nacionales y globales para que funcionen correctamente apuntando a un desarrollo sostenible.",
+                  "pagina": 258
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "E. Eficiencia energética",
+              "nivel": 3,
+              "paginas": "263-265",
+              "resumen": "Estudia la eficiencia energética como pilar fundamental de la transición hacia bajas emisiones en América Latina. El análisis demuestra que la optimización de los consumos industriales y residenciales reduce sustancialmente los requerimientos de inversión en nueva capacidad de generación, coadyuvando directamente a las metas nacionales de mitigación de gases de efecto invernadero. No se detectó señal climática específica en esta sección.",
+              "dimensions": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "El sector energético en el contexto del cambio climático encuentran el cambio tecnológico (que no va ser suficiente), se requieren además reformas en las políticas nacionales y globales para que funcionen correctamente apuntando a un desarrollo sostenible.",
+                  "pagina": 258
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            },
+            {
+              "seccion": "F. Conclusiones",
+              "nivel": 3,
+              "paginas": "265-265",
+              "resumen": "Resume las lecciones de la política de cambio climático. El autor concluye que mitigar el cambio climático requiere un esfuerzo coordinado para desplazar la hegemonía fósil de la matriz, reformando las instituciones energéticas nacionales. No se detectó señal climática específica en esta sección.",
+              "dimensions": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "El sector energético en el contexto del cambio climático encuentran el cambio tecnológico (que no va ser suficiente), se requieren además reformas en las políticas nacionales y globales para que funcionen correctamente apuntando a un desarrollo sostenible.",
+                  "pagina": 258
+                }
+              ],
+              "subsecciones": [],
+              "dimensiones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "Módulo IV. El sector energético en el contexto del cambio climático",
+      "nivel": 1,
+      "paginas": "267-322",
+      "resumen": "Este módulo evalúa la transición y reconfiguración del sector energético ante el cambio climático. Los ensayos abordan desde los fundamentos termodinámicos de la crisis ecológica y la Revolución Energética cubana como modelo empírico de resiliencia, hasta los obstáculos legales de los monopolios estatales de PEMEX y CFE en México, concluyendo con el papel de la propiedad intelectual y las patentes de tecnologías limpias.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "Artículo IV.1 El nacimiento de un nuevo paradigma energético engendrado por la crisis ambiental",
+          "nivel": 2,
+          "paginas": "269-274",
+          "resumen": "El ensayo ofrece un análisis del cambio climático desde las leyes de la termodinámica, caracterizando a la Tierra como un sistema cerrado que acumula gases de combustión. Su función es fundamentar la necesidad de abandonar el paradigma de combustibles fósiles por uno nuevo. Examina las inercias tecnológicas y económicas que retrasan esta transición y propone la introducción del hidrógeno renovable como vector de energía limpio y descentralizado para restituir la armonía ambiental.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "Uno de los principales obstáculos para el surgimiento de un nuevo paradigma energético es la inercia tecnológica que se tiene en el actual paradigma energético intensivo en el uso de combustibles fósiles.",
+              "pagina": 272
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Una de las opciones más viables es el uso intensivo del hidrógeno como un vector o transportador de energía, desde luego hidrógeno renovable.",
+              "pagina": 273
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Artículo IV.2 The energy revolution of Cuba: a transition towards a new energy paradigm in the context of climate change",
+          "nivel": 2,
+          "paginas": "275-292",
+          "resumen": "El ensayo ofrece un análisis de la Revolución Energética cubana iniciada en 2005 como modelo pionero de transición y descentralización de la matriz de energía. El autor detalla las medidas aplicadas para reducir la vulnerabilidad climática y la petrodependencia de la isla, destacando el reemplazo a nivel nacional de 9.5 millones de bombillas incandescentes por lámparas fluorescentes compactas y la entrega masiva de electrodomésticos eficientes. Asimismo, se evalúa la reestructuración del esquema tarifario residencial con lógica progresiva para desincentivar el derroche, y la introducción de plantas de generación distribuida que redujeron drásticamente las pérdidas por transmisión y distribución, además de incrementar la resiliencia del sistema ante desastres naturales extremos como huracanes. Finalmente, expone el potencial de energía solar en Cuba (con una insolación promedio de 5 kWh/m2 diarios) y el rol de los programas de educación ambiental comunitaria para garantizar un cambio permanente en los hábitos de consumo de la población.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "As part of the new strategy, Cuba was the first country in the World to phase out inefficient lighting; approximately nine and a half million incandescent bulbs were substituted with traditional fluorescent lamps and CFL´s.",
+              "pagina": 279
+            },
+            {
+              "dimension": "oportunidades",
+              "cita": "Solar energy is available in Cuba throughout the year with an average insolation value of 5 kWh/m2 per day. Each square meter of the Cuban territory receives, on a daily basis, an amount of solar energy that is equivalent to the energy content of half a kilogram of petroleum.",
+              "pagina": 282
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "section": "Artículo IV.3 Monopolios de Estado y política de cambio climático en México ¿Bastiones de cambio o barreras estratégicas?",
+          "seccion": "Artículo IV.3 Monopolios de Estado y política de cambio climático en México ¿Bastiones de cambio o barreras estratégicas?",
+          "nivel": 2,
+          "paginas": "293-305",
+          "resumen": "Este artículo de Miriam Grunstein analiza de manera crítica la contradicción estructural entre la retórica de los compromisos climáticos internacionales de México y el funcionamiento de sus monopolios energéticos estatales, PEMEX y CFE. Mediante un análisis jurídico de la legislación mexicana, en particular la Ley del Servicio Público de Energía Eléctrica (LSPEE) y las reformas del 2008, la autora demuestra cómo se priorizó la explotación de hidrocarburos y la recaudación fiscal de corto plazo por encima de una transición de descarbonización. El texto examina el caso del Campo Akal (Cantarell) para evidenciar la brecha de infraestructura que conduce a la quema y venteo masivo de gas asociado (flaring). Concluye proponiendo la creación de un órgano regulador público independiente con verdadera autoridad normativa capaz de alinear e imponer metas obligatorias de reducción de emisiones a PEMEX y CFE, superando los intereses fiscales y las inercias institucionales del Estado.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "la reforma energética del 2008 es prueba de la desarticulación entre la retórica climática y la conceptualización y funcionamiento del sector energético mexicano",
+              "pagina": 297
+            },
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "PEMEX ha justificado su incumplimiento de reducir la quema y venteo de gas por las presiones en el aumento en la producción, sin contar con la infraestructura necesaria para disminuir las emisiones resultantes de dicho aumento en la producción, derivada en particular de la sobreexplotación del Campo Akal, el principal dentro del Cantarell.",
+              "pagina": 301
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Artículo IV.4 El sector energético en el contexto del cambio climático",
+          "nivel": 2,
+          "paginas": "306-322",
+          "resumen": "La investigación analiza exhaustivamente las implicaciones de los regímenes de propiedad intelectual y el sistema de patentes sobre la transferencia de tecnologías limpias hacia los países en desarrollo. El autor Sostiene que el monopolio legal otorgado por las patentes actúa como una barrera de costo para la adopción de innovaciones energéticas sostenibles. Ante esto, se evalúan mecanismos de flexibilización del derecho de patentes, tales como la implementación de licencias obligatorias por motivos de interés público y cambio climático, y la creación de fondos o pools de patentes libres. Adicionalmente, se expone de manera empírica el marco legal e institucional de la propiedad industrial en Cuba (Decreto-Ley No. 290) y el instrumento histórico del Certificado de Autor de Invención de 1984, como herramientas del Estado para promover la innovación y el uso colectivo de patentes en energías renovables y eficiencia. El análisis resalta que para superar las barreras del desarrollo sostenible es fundamental implementar políticas integradas que coadyuven a la descarbonización profunda de las actividades productivas regionales, de acuerdo con los lineamientos metodológicos de la CEPAL sobre cambio estructural y transición ecológica en América Latina.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "Esto, en el contexto del cambio climático, en momentos en los que se hace un llamado a los titulares de derechos en pos de una «renuncia», o al menos de una mayor flexibilidad en el ejercicio de los mismos, a fin de compartir tecnología ecológica para una óptima utilización de la energía, constituye una barrera.",
+              "pagina": 310
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "La licencia obligatoria: es una posibilidad que se ha venido utilizando, mayormente, en el área de la salud pública, aunque no se conocen ejemplos recientes en lo que respecta a las medidas para combatir el cambio climático. Pero atendiendo a la magnitud que va cobrando este, deberá considerarse por parte de los operadores del Derecho el recurrir a esta institución.",
+              "pagina": 311
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "Módulo V. Sostenibilidad energética",
+      "nivel": 1,
+      "paginas": "323-410",
+      "resumen": "Este módulo analiza la sostenibilidad energética combinando el pensamiento cepalino clásico de reformas estructurales y la valoración macroeconómica de externalidades. Los ensayos detallan metodologías para medir impactos ambientales e incorporar costos sociales en la planificación de inversiones, critican la dependencia fósil regional apoyándose en hitos y reportes mundiales del clima, y evalúan la trayectoria tecnológica de Centroamérica (SIEPAC) frente al exitoso modelo público integrado de Costa Rica.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "Artículo V.1 Hacia una estrategia regional de energía sostenible: la evaluación de externalidades",
+          "nivel": 2,
+          "paginas": "325-350",
+          "resumen": "Este ensayo rinde homenaje a Fernando Cuevas y expone de forma detallada la propuesta metodológica de la CEPAL para estructurar un desarrollo energético sostenible que articule la eficiencia económica de mercado con la intervención regulatoria del Estado. El análisis se enfoca en la metodología de 'Vías de Impacto' (impact pathway methodology) desarrollada en el proyecto ExternE de la Unión Europea para cuantificar y monetizar los costos externos (salud humana, daños agrícolas, cambio climático) de la generación eléctrica fósil. El autor argumenta de forma rigurosa que la internalización de estas externalidades en los precios de la energía provee el sustento técnico y macroeconómico necesario para que el Estado diseñe subsidios ambientales correctivos, promueva la inserción de fuentes renovables y justifique el financiamiento preferencial de proyectos limpios. Concluye que la evaluación de externalidades permite superar las ineficiencias de mercado y alinear la planificación del sector energético con los objetivos de sostenibilidad, equidad social y desarrollo económico regional. El análisis resalta que para superar las barreras del desarrollo sostenible es fundamental implementar políticas integradas que coadyuven a la descarbonización profunda de las actividades productivas regionales, de acuerdo con los lineamientos metodológicos de la CEPAL sobre cambio estructural y transición ecológica en América Latina.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Ha sido característico de la CEPAL el procedimiento metodológico de identificar los factores estructurales que determinan y limitan el desarrollo económico y social de las economías latinoamericanas y, a partir de ellos, proponer cambios en las estructuras económicas",
+              "pagina": 326
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "La evaluación de las externalidades ambientales asociadas a la producción de combustibles fósiles ofrece en los estudios elaborados o auspiciados por la CEPAL, criterios para justificar los costos y beneficios sociales de las fuentes renovables de energía.",
+              "pagina": 329
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Artículo V.2 Externalidades atmosféricas del uso de la energía en la toma de decisiones para un desarrollo sostenible",
+          "nivel": 2,
+          "paginas": "351-367",
+          "resumen": "El artículo evalúa de forma comparativa diversos modelos analíticos diseñados para la cuantificación y monetización de las externalidades atmosféricas (contaminación, lluvia ácida y gases de efecto invernadero) derivadas del uso de carbón y petróleo en la generación eléctrica. Contrasta la complejidad de modelos como EcoSense (Europa) y BenMAP (EE.UU.) con la estructura simplificada del software SIMPACTS de la OIEA, especialmente apto para países en desarrollo. Asimismo, detalla los resultados del primer estudio nacional de externalidades de Cuba llevado a cabo por CUBAENERGÍA en 2004 sobre centrales termoeléctricas mayores a 50 MW, estimando costos externos de entre 0.56 y 1.22 centavos de dólar por kWh. Propone un marco para integrar formalmente estos factores en la planificación de inversiones del sector eléctrico, reduciendo la vulnerabilidad ambiental mediante la actualización sistemática de datos epidemiológicos y meteorológicos locales.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "La generación de electricidad a partir de combustibles fósiles, produce diferentes impactos negativos. Los mássignificativos,E a nivel local, la contaminación atmosférica, a nivel regional, la lluvia o deposición ácida, y a nivel global, el cambio climático.",
+              "pagina": 351
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Artículo V.3 Sólo una matriz energética sostenible nos guiará hacia el desarrollo sostenible",
+          "nivel": 2,
+          "paginas": "368-390",
+          "resumen": "El trabajo fundamenta teórica e históricamente la urgencia de transitar de manera acelerada hacia un nuevo paradigma energético basado exclusivamente en el aprovechamiento de fuentes renovables derivadas del flujo solar, dada la naturaleza finita y contaminante de los hidrocarburos. El autor realiza una revisión crítica de hitos metodológicos y políticos mundiales, incluyendo los límites del crecimiento del Club de Roma (1972), el Informe Brundtland (1987), el White Paper sobre energía del Reino Unido (2007) y los escenarios cuantitativos de la Agencia Internacional de la Energía (AIE). Destaca una advertencia económica clave del informe de la AIE: cada año de retraso en la adopción de inversiones coordinadas en infraestructura baja en carbono agrega aproximadamente 500,000 millones de dólares adicionales al costo global requerido para estabilizar las emisiones atmosféricas de CO2 en el límite crítico de 450 ppm, evidenciando que los costos de inacción climática superan con creces los de mitigación. El análisis resalta que para superar las barreras del desarrollo sostenible es fundamental implementar políticas integradas que coadyuven a la descarbonización profunda de las actividades productivas regionales, de acuerdo con los lineamientos metodológicos de la CEPAL sobre cambio estructural y transición ecológica en América Latina.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "nada puede ser infinito en un planeta limitado en dimensiones, recursos, etc.",
+              "pagina": 370
+            },
+            {
+              "dimension": "desafios",
+              "cita": "cada año de retraso añadiría 500.000 millones de dólares al costo de alcanzar el escenario de referencia 450 ppm del informe.",
+              "pagina": 385
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Artículo V.4 Sostenibilidad de la trayectoria tecnológica de los mercados eléctricos en países pequeños: la experiencia de Centroamérica",
+          "nivel": 2,
+          "paginas": "391-410",
+          "resumen": "El ensayo analiza de forma crítica el impacto de las reformas de privatización y desregulación de las últimas dos décadas sobre la sostenibilidad tecnológica y ambiental de los mercados eléctricos de Centroamérica. El autor argumenta que la lógica del mercado mayorista de corto plazo ha incentivado la instalación de centrales térmicas basadas en combustibles fósiles, induciendo una trayectoria termo-orientada e ineficiente que aumenta la vulnerabilidad macroeconómica y ambiental regional. Contrasta este patrón con el caso de Costa Rica, que mediante el Instituto Costarricense de Electricidad (ICE) conservó su estructura integrada verticalmente, logrando planificar de forma coordinada una matriz diversificada y dominada por hidroelectricidad y geotermia, con tarifas estables. Advierte sobre los riesgos de despacho y gobernanza del sistema de interconexión regional SIEPAC ante oligopolios térmicos privados, y propone el diseño de mecanismos regulatorios de cuotas obligatorias de energía verde para diversificar el portafolio. El análisis resalta que para superar las barreras del desarrollo sostenible es fundamental implementar políticas integradas que coadyuven a la descarbonización profunda de las actividades productivas regionales, de acuerdo con los lineamientos metodológicos de la CEPAL sobre cambio estructural y transición ecológica en América Latina.",
+          "dimensiones": [
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "Sin embargo, pese a conocer  las consecuencias de dicha trayectoria centralizada y concentrada de gestión de la política energética, las trayectorias de desarrollo tecnológico de la región siguen mostrando alta vulnerabilidad en cuanto a su escasa diversificación de portafolio",
+              "pagina": 393
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "Módulo VI. El sector energético: caracterización, diagnóstico y política",
+      "nivel": 1,
+      "paginas": "411-534",
+      "resumen": "Este módulo presenta estudios detallados de caracterización y diagnóstico técnico del sector energético en Centroamérica, Honduras y Cuba, utilizando metodologías empíricas y marcos institucionales complejos. Los ensayos aplican análisis econométricos y estadísticos de conglomerados (clústeres) para agrupar países, estructuran cuentas físicas de energía utilizando el marco internacional del SCAEI de Naciones Unidas, y analizan la importancia de la recopilación estadística de la Banca Central para la estabilidad de precios.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "Artículo VI.1 Caracterización del sector energético en Centroamérica: un enfoque social, ambiental y económico",
+          "nivel": 2,
+          "paginas": "413-428",
+          "resumen": "El estudio caracteriza exhaustivamente el sector energético de América Central en el marco de la alta dependencia de derivados de petróleo importados y la exposición a shocks de precios internacionales. El autor analiza la paradoja de que la subregión emite menos del 0.5% del CO2 global pero sufre de forma desproporcionada los impactos físicos del cambio climático. Muestra un preocupante retroceso en la sostenibilidad eléctrica regional: en la década de 1980 el 75% de la generación era renovable (hidroeléctrica), pero cayó al 50% por la penetración de plantas térmicas de hidrocarburos. Asimismo, examina el consumo del sector transporte (como en Guatemala, donde el consumo promedio vehicular de gasolina bajó de 7.8 barriles/año en 2005 a 5.14 en 2009 por la triplicación de motocicletas), proponiendo incentivos a la eficiencia vehicular, biocombustibles y fortalecimiento de la planificación integrada de recursos.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "La matriz energética de Centroamérica ha evolucionado adquiriendo una fuerte dependencia de los combustibles fósiles, una situación que ha venido empeorando en los últimos 20 años.",
+              "pagina": 415
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "En la década de 1980, el 75% de la electricidad que se generaba en Centroamérica era con fuentes renovables (principalmente hidroelectricidad). En la actualidad, esa cifra ha bajado al 50%.",
+              "pagina": 415
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Artículo VI.2 El sector energético de Honduras: diagnóstico y política energética",
+          "nivel": 2,
+          "paginas": "429-457",
+          "resumen": "Este artículo ofrece un diagnóstico integral y cuantitativo del perfil de oferta y demanda de energía en Honduras. El análisis revela que la matriz de energía nacional está dominada críticamente por los hidrocarburos (53.6%, donde el transporte consume el 45%) y la biomasa tradicional ineficiente (la leña representa el 42.8% de la matriz, concentrada en el sector residencial rural ineficiente con altos impactos en deforestación y salud respiratoria). En el ámbito eléctrico, examina las ineficiencias técnicas de la estatal ENEE, el alto endeudamiento financiero y la elevada dependencia de la generación térmica privada (65%). Finalmente, detalla los desafíos del sector transporte caracterizado por una flota vehicular sumamente antigua (con un promedio de 15 a 20 años de circulación), y formula propuestas normativas específicas para introducir biocombustibles sostenibles y exenciones arancelarias para la adquisición de vehículos híbridos y eficientes. El análisis resalta que para superar las barreras del desarrollo sostenible es fundamental implementar políticas integradas que coadyuven a la descarbonización profunda de las actividades productivas regionales, de acuerdo con los lineamientos metodológicos de la CEPAL sobre cambio estructural y transición ecológica en América Latina. El análisis resalta que para superar las barreras del desarrollo sostenible es fundamental implementar políticas integradas que coadyuven a la descarbonización profunda de las actividades productivas regionales, de acuerdo con los lineamientos metodológicos de la CEPAL sobre cambio estructural y transición ecológica en América Latina.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "La primera cifra que sobresale es el 42,8% de participación de la leña en la matriz energética nacional (2009), valor que sigue siendo ante el paso de los años un porcentaje casi constante en el Balance Energético Nacional",
+              "pagina": 430
+            },
+            {
+              "dimension": "desafios",
+              "cita": "Por otra parte, en el sector transporte la flota vehicular es antigua, con un promedio de 15 a 20 años de edad, por lo que se infiere que el consumo de combustible por parte de este sector es ineficiente.",
+              "pagina": 431
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Artículo VI.3 Energía y desarrollo: evidencia empírica para Cuba en el contexto regional",
+          "nivel": 2,
+          "paginas": "458-473",
+          "resumen": "El trabajo presenta una evaluación econométrica de la relación de largo plazo entre el consumo de energía y el crecimiento del PIB en Cuba y América Latina. El autor utiliza un modelo econométrico para contrastar la hipótesis de Kuznets de intensidad energética, analizando la trayectoria cubana en tres períodos históricos: la integración al CAME (pre-1990), el colapso del 'período especial' en la década de 1990, y el posterior proceso de recuperación bajo el programa integral de la 'Revolución Energética' (2000-2006). Los resultados validan empíricamente una tendencia sostenida de reducción de la intensidad energética en Cuba en los últimos años, confirmando que los programas nacionales de eficiencia, sustitución masiva de equipos y descentralización de la generación han logrado desacoplar paulatinamente el crecimiento del PIB de la demanda de combustibles fósiles, posicionando a la isla como un referente regional.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Así, la intensidad energética del PIB en las etapas iniciales de la industrialización crece.",
+              "pagina": 462
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "En Cuba, los resultados validan la tendencia de reducción de la intensidad energética que se viene registrando desde mediados de la década de 1990.",
+              "pagina": 458
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Artículo VI.4 Un análisis estadístico de conglomerados basado en indicadores de energía, cambio climático y desarrollo sostenible aplicado a países de América Latina",
+          "nivel": 2,
+          "paginas": "474-491",
+          "resumen": "La investigación desarrolla un modelo de clasificación regional utilizando la técnica estadística de análisis de conglomerados jerárquicos. El autor selecciona 11 indicadores cuantitativos multidimensionales (incluyendo intensidad energética, emisiones de CO2 per cápita, penetración de fuentes renovables en la matriz, cobertura de electrificación y PIB per cápita) para evaluar de forma comparativa a 17 países de América Latina con datos del período 2000-2008. Mediante algoritmos de vinculación promedio, agrupa a los países en 5 conglomerados o clústeres diferenciados por sus perfiles de sostenibilidad. Este agrupamiento empírico permite identificar benchmarks regionales y proporciona una justificación metodológica sólida para que los hacedores de políticas públicas diseñen e implementen estrategias de cambio climático y transición energética adaptadas a las capacidades y vulnerabilidades específicas de cada grupo. El análisis resalta que para superar las barreras del desarrollo sostenible es fundamental implementar políticas integradas que coadyuven a la descarbonización profunda de las actividades productivas regionales, de acuerdo con los lineamientos metodológicos de la CEPAL sobre cambio estructural y transición ecológica en América Latina.",
+          "dimensiones": [
+            {
+              "dimension": "oportunidades",
+              "cita": "mediante la utilización de la técnica estadística multivariable de análisis de conglomerados, que propicie una aplicación más encauzada y efectiva de políticas, estrategias, programa y proyectos",
+              "pagina": 476
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Artículo VI.5 Cuentas de energía como instrumento para evaluar eficiencias sectoriales en la región centroamericana",
+          "nivel": 2,
+          "paginas": "492-511",
+          "resumen": "El artículo introduce el Sistema de Contabilidad Ambiental y Económica Integrada (SCAEI) de las Naciones Unidas como el marco de planificación macroeconómica fundamental para evaluar el desempeño e intensidad energética por sector. Los autores detallan la experiencia de Guatemala, que se posicionó como el referente pionero en la región centroamericana al implementar sistemáticamente las Cuentas de Energía a partir de 2006, de la mano del Instituto de Agricultura, Recursos Naturales y Ambiente (IARNA). El análisis de los flujos físicos y monetarios para el período 2001-2006 demuestra cómo sectores como la agricultura logran un desacoplamiento positivo de recursos, mientras que la manufactura y el transporte terrestre exhiben ineficiencias críticas. El texto concluye argumentando que las cuentas del SCAEI resuelven las deficiencias de datos estadísticos y constituyen el instrumento de política pública indispensable para la planificación del desarrollo. El análisis resalta que para superar las barreras del desarrollo sostenible es fundamental implementar políticas integradas que coadyuven a la descarbonización profunda de las actividades productivas regionales, de acuerdo con los lineamientos metodológicos de la CEPAL sobre cambio estructural y transición ecológica en América Latina.",
+          "dimensiones": [
+            {
+              "dimension": "oportunidades",
+              "cita": "Guatemala ha sido pionero en la elaboración y utilización proactiva de «Cuentas de Energía», las cuales se definen como un marco contable que proporciona una descripción detallada del uso de energía por las distintas actividades",
+              "pagina": 492
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Artículo VI.6 Importancia de la Banca Central en el tema energético-ambiental",
+          "nivel": 2,
+          "paginas": "512-534",
+          "resumen": "El artículo analiza de forma profunda la relevancia estratégica de la Banca Central (focalizándose en el caso del Banco de Guatemala) en el monitoreo de estadísticas energéticas y ambientales como insumo crítico para la toma de decisiones macroeconómicas. El autor sostiene que, dada la misión constitucional de garantizar la estabilidad de precios (control de inflación), es fundamental evaluar la vulnerabilidad nacional ante los precios internacionales del petróleo (como en la crisis de 2008 cuando el crudo promedió un récord de 99.7 dólares por barril, generando fuertes presiones inflacionarias). Detalla la actualización del Sistema de Cuentas Nacionales de Guatemala en abril de 2007 (con año base constante en 2001) para integrar de forma estructurada los flujos de oferta y utilización sectoriales. Concluye proponiendo mecanismos de coordinación estrecha entre las autoridades del Banco Central, el Ministerio de Energía y del Ambiente para modelar shocks externos y diseñar políticas de estabilidad monetaria coherentes ante la transición. El análisis resalta que para superar las barreras del desarrollo sostenible es fundamental implementar políticas integradas que coadyuven a la descarbonización profunda de las actividades productivas regionales, de acuerdo con los lineamientos metodológicos de la CEPAL sobre cambio estructural y transición ecológica en América Latina.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "en abril de 2007 las autoridades del Banco de Guatemala pusieron a la disposición de los agentes económicos",
+              "pagina": 512
+            },
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "los precios internacionales del petróleo, alcanzando en 2008 la cifra promedio record de 99,7 dólares por barril",
+              "pagina": 517
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento es una compilación de 22 artículos técnicos que evalúan de manera sectorial la transición energética (como biocombustibles, eficiencia, generación fotovoltaica distribuida, cogeneración y externalidades macroeconómicas). No propone un único paquete unificado y coordinado de inversiones masivas a escala del modelo de desarrollo de la región (lo que descarta un 'Sí' bajo el Test 1 de la metodología del Big Push). Sin embargo, formula y detalla instrumentos y sectores específicos de descarbonización y transición tecnológica en el ámbito analizado.",
+      "citas": [
+        {
+          "cita": "En este marco, la política pública con respecto a los agrocombustibles se debe enfocar en la optimización simultánea de: i) las ganancias de energía; y ii) la reducción de emisiones de gases de efecto invernadero, a la vez que iii) se preserve la diversidad biológica y iv) se asegure la autosuficiencia alimentaria.",
+          "pagina": 31
+        },
+        {
+          "cita": "La evaluación de las externalidades ambientales asociadas a la producción de combustibles fósiles ofrece en los estudios elaborados o auspiciados por la CEPAL, criterios para justificar los costos y beneficios sociales de las fuentes renovables de energía.",
+          "pagina": 329
+        }
+      ],
+      "nota": "Se asigna Parcial porque el documento es un compilador analítico que no diseña una hoja de ruta de inversiones unificadas, pero detalla profusamente los instrumentos sectoriales de transición."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El documento detalla de manera explícita y empírica varios mecanismos, plataformas e instancias de coordinación con nombre propio que se encuentran activos dentro del ámbito de estudio. En México, analiza la creación de la Comisión Intersecretarial de Bioenergéticos bajo el artículo 8 de la Ley de Promoción y Desarrollo de los Bioenergéticos para coordinar las políticas públicas intersectoriales (p.58). A nivel regional centroamericano, describe y analiza el Sistema de Interconexión Eléctrica para los Países de América Central (SIEPAC) como una plataforma multinacional activa de integración física y regulatoria del sector eléctrico (p.429).",
+      "citas": [
+        {
+          "cita": "Para lograr este objetivo, en el artículo 8 de la Ley de Promoción y Desarrollo de los Bioenergéticos se estableció que debería crearse la Comisión Intersecretarial de Bioenergéticos como la institución responsable del diseño de la legislación y los programas públicos pertinentes",
+          "pagina": 58
+        },
+        {
+          "cita": "Otra posibilidad de abastecimiento energético es mediante el mercado eléctrico centroamericano, a través del Sistema de Interconexión Eléctrica de los Países de América Central (SIEPAC), en el cual los cinco países de Centroamérica se interconectan entre sí",
+          "pagina": 429
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Sí",
+      "evidencia": "El documento identifica y enumera múltiples oportunidades productivas y tecnológicas que ofrece la transición sostenible (como la generación de bioetanol rural, proyectos de cogeneración azucarera, desarrollo de redes fotovoltaicas residenciales distribuidas y el Sistema de Contabilidad SCAEI), y las vincula directamente con el empleo rural, la productividad sectorial y la reducción de desigualdades de gasto (p.55, 68, 131, 229, 492).",
+      "citas": [
+        {
+          "cita": "os países de América Latina y el Caribe tienen el potencial para producir biocombustibles y condiciones favorables para el aprovechamiento de la agro-energía, lo que representa una oportunidad para diversificar su matriz energética.",
+          "pagina": 55
+        },
+        {
+          "cita": "En Cuba, los resultados validan la tendencia de reducción de la intensidad energética que se viene registrando desde mediados de la década de 1990.",
+          "pagina": 458
+        }
+      ],
+      "nota": null
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "El documento, a través de las conclusiones y propuestas normativas de sus diversos artículos constitutivos, presenta recomendaciones sumamente precisas y ejecutables. Al someterlas al test de concreción, la gran mayoría de los ítems analizados (7 de 8) califican como CONCRETO al especificar entregables, figuras jurídicas, metas u organismos responsables con nombre propio (como la creación de un Ministerio de Energías Renovables, tarifas específicas de cogeneración, licencias obligatorias de patentes y metas de contabilidad SCAEI) en lugar de limitarse a exhortaciones genéricas.",
+      "citas": [
+        {
+          "cita": "Habría ventajas de diversos tipos al tener un Ministerio de Estado que atienda las Energías Renovables en cada país de la región latinoamericana con esa misma visión.",
+          "pagina": 177
+        },
+        {
+          "cita": "La licencia obligatoria: es una posibilidad que se ha venido utilizando, mayormente, en el área de la salud pública, aunque no se conocen ejemplos recientes en lo que respecta a las medidas para combatir el cambio climático. Pero atendiendo a la magnitud que va cobrando este, deberá considerarse por parte de los operadores del Derecho el recurrir a esta institución.",
+          "pagina": 311
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "La política pública de biocombustibles debe enfocarse en la optimización simultánea de ganancias de energía y reducción de gases de efecto invernadero, preservando la diversidad biológica y la autosuficiencia alimentaria.",
+          "clasificacion": "CONCRETO",
+          "pagina": 31
+        },
+        {
+          "item": "Establecer un marco de regulación jurídica específico para la cogeneración de energía en Cuba, definiendo tarifas, incentivos y derechos de inyección a la red.",
+          "clasificacion": "CONCRETO",
+          "pagina": 135
+        },
+        {
+          "item": "Adoptar una visión de Estado a largo plazo para el desarrollo de energías renovables, mediante la creación de un Ministerio de Energías Renovables.",
+          "clasificacion": "CONCRETO",
+          "pagina": 177
+        },
+        {
+          "item": "Articular políticas sinérgicas entre el desarrollo de fuentes renovables, la sostenibilidad ambiental y la adaptación al cambio climático mediante un manejo integral de cuencas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 182
+        },
+        {
+          "item": "Construir las bases del nuevo paradigma energético y del desarrollo sostenible desde las etapas de crisis actuales para facilitar su futura maduración.",
+          "clasificacion": "GENERICO",
+          "pagina": 273
+        },
+        {
+          "item": "Establecer un regulador público independiente con verdadera autoridad en materia de política energética para orientar a las entidades estatales hacia metas concretas de reducción de GEI.",
+          "clasificacion": "CONCRETO",
+          "pagina": 303
+        },
+        {
+          "item": "Emplear la figura jurídica de la licencia obligatoria para facilitar el acceso colectivo y la transferencia sin trabas de tecnologías limpias frente a la magnitud del cambio climático.",
+          "clasificacion": "CONCRETO",
+          "pagina": 311
+        },
+        {
+          "item": "Diseñar mecanismos de cuotas obligatorias o participación garantizada para promover la diversificación e integración de nuevas fuentes renovables en sistemas propensos a oligopolios térmicos.",
+          "clasificacion": "CONCRETO",
+          "pagina": 404
+        }
+      ],
+      "tally": "7 de 8 ítems pasan el test de concreción",
+      "nota": null
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento aborda la contradicción entre la creciente demanda de energía para impulsar el desarrollo socioeconómico en América Latina y la imperativa necesidad de mitigar y adaptarse al cambio climático mediante la descarbonización. Esta tensión se procesa proponiendo un cambio estructural en la matriz energética y regulatoria para sustituir la petrodependencia tradicional por fuentes limpias y eficientes.",
+      "filtro_categoria_primaria": "Se clasifica como Sostenibilidad ambiental como objetivo primario porque el fin primordial del texto es guiar la transformación climática y la descarbonización del sector energético regional. Se descarta Capacidades del Estado como primaria ya que la arquitectura institucional y regulatoria propuestas actúan como medios o instrumentos facilitadores para lograr este fin ambiental fundamental.",
+      "secundaria_obligatoria": "Se selecciona Capacidades del Estado como transformación secundaria obligatoria porque el documento demuestra consistentemente que cualquier transición energética y descarbonización sectorial requiere el fortalecimiento de la regulación pública (como la regulación de cogeneración en Cuba, la creación de ministerios dedicados en ALC, y la gestión de externalidades en la planificación estatal).",
+      "justificacion_anti_copia": "La clasificación se fundamenta específicamente en el análisis comparativo del Sistema de Interconexión Eléctrica para los Países de América Central (SIEPAC), el modelo integrado de la Revolución Energética cubana (que sustituyó 9.5 millones de bombillas ineficientes), y la evaluación del marco regulatorio de la Ley de Promoción de Bioenergéticos en México con su Comisión Intersecretarial. Estos elementos empíricos demuestran cómo la política energética de descarbonización (#6) se viabiliza mediante la intervención e institucionalidad estatal (#11).",
+      "validacion_anclas": "Al igual que el caso ancla Doc09 (Building a climate resilient power sector...), este documento sitúa la sostenibilidad de los sistemas energéticos y la transición a bajas emisiones como el núcleo central (#6), delegando la reforma de gobernanza y capacidades institucionales a la dimensión secundaria (#11). Se diferencia de Doc08 (Reflexiones sobre la gestión del agua...) y Doc12 (Acción climática en la agricultura...) donde la arquitectura de gobernanza y la evaluación institucional copaban el objeto analítico principal."
+    },
+    "tipo_documento_climatico": "Compilación de estudios técnicos",
+    "nivel_aplicacion": "Regional (América Latina y el Caribe) / Nacional",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

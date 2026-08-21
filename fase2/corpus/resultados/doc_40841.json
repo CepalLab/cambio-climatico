@@ -1,0 +1,201 @@
+{
+  "documento": {
+    "num_muestra": 0,
+    "titulo": "Cambio climático, políticas públicas y demanda de energía y gasolinas en América Latina: Un meta-análisis",
+    "autoria": "Luis Miguel Galindo, Joseluis Samaniego, Jimy Ferrer",
+    "handle": "https://hdl.handle.net/11362/40841",
+    "simbolo": null,
+    "isbn": null,
+    "fecha": "2014-01",
+    "tipo_documento": "Meta-análisis",
+    "paginas_cuerpo": 59,
+    "paginas_totales": 68,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cuáles son las elasticidades ingreso y precio de la demanda de energía y gasolina en América Latina y cómo influyen estos parámetros en el diseño de políticas públicas para enfrentar el cambio climático?",
+    "alcance": {
+      "ambito_aplicacion": "América Latina",
+      "referentes_dependencias": "Países de la OCDE",
+      "sectorial": "Energía y transporte",
+      "temporal": "1960-2013"
+    },
+    "hallazgos_principales": [
+      "Alta heterogeneidad y sesgo de publicación en las estimaciones de elasticidades de demanda energética (p.58).",
+      "La demanda de energía y gasolina es inelástica al precio y altamente sensible al ingreso en América Latina (p.58).",
+      "La elasticidad ingreso es mayor en América Latina que en países de la OCDE (p.59).",
+      "La elasticidad precio es menor en América Latina, sugiriendo escasas opciones de sustitución frente al transporte privado (p.59)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El crecimiento económico en América Latina está fuertemente acoplado al aumento del consumo de energía y gasolina.",
+        "Las políticas basadas exclusivamente en impuestos a la energía son insuficientes en entornos de rápido crecimiento debido a la baja elasticidad precio."
+      ],
+      "recomendaciones": [
+        "Combinar mecanismos de precios (impuestos al carbono internalizando costos sociales) con medidas regulatorias (estándares de emisiones, infraestructura de transporte público de calidad).",
+        "Desmontar subsidios a la gasolina acompañados de programas de compensación a sectores de bajos ingresos."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "El estudio realiza un meta-análisis sobre las elasticidades ingreso y precio de la demanda de energía y gasolina en América Latina y su relación con el cambio climático. Utilizando datos de estudios internacionales, identifica alta heterogeneidad y sesgos de publicación en las elasticidades estimadas. Concluye que la demanda es inelástica al precio y sensible al ingreso, dificultando el desacoplamiento entre crecimiento y emisiones. Propone una estrategia integral de políticas públicas combinando precios, regulaciones e infraestructura sostenible, abordando la heterogeneidad estructural y el sesgo de publicación de la literatura existente."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "7-8",
+      "resumen": "La introducción establece la relevancia crítica del sector energía, responsable del 73% de las emisiones globales, en la mitigación del cambio climático. Argumenta que cualquier estrategia efectiva de control de emisiones requiere comprender los determinantes de la demanda de energía y gasolinas. Plantea el meta-análisis como el método idóneo para sintetizar la evidencia empírica dispersa, permitiendo identificar elasticidades ingreso y precio que fundamenten políticas públicas integrales para el desacoplamiento ambiental en la región.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "En este sentido, cualquier estrategia para controlar las emisiones de gases de efecto invernadero requiere como un componente esencial una estrategia para controlar e inducir la demanda de energía y gasolinas.",
+          "pagina": 8
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Por ejemplo, se estima que el sector energía genera, aproximadamente, el 73% de las emisiones globales de Gases de Efecto Invernadero (GEI) (WRI, 2014)1.",
+          "pagina": 8
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Meta-análisis: marco general",
+      "nivel": 1,
+      "paginas": "9-20",
+      "resumen": "Esta sección define el meta-análisis como el análisis estadístico de una síntesis de estudios empíricos previos para identificar características comunes y fuentes de heterogeneidad genuina. Explica detalladamente el uso de modelos de efectos fijos y mixtos, donde cada estudio es ponderado por su precisión (inversa de la varianza) para obtener un efecto síntesis robusto que supere las limitaciones de estudios individuales. El marco metodológico presentado permite corregir el sesgo de publicación y la volatilidad sistemática, ofreciendo una base técnica rigurosa y superior para la toma de decisiones informada en materia de política climática y energética en la región.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "El análisis y una síntesis de estas distintas elasticidades ingreso y precio de la demanda de gasolinas y energía, su volatilidad y posible sesgo de publicación puede realizarse con base en un meta-análisis.",
+          "pagina": 10
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "El modelo de efectos fijos (conocido también como common effect model) implica que existe un sólo efecto verdadero y por tanto las diferencias entre los distintos estudios son sólo consecuencia de un error de muestreo.",
+          "pagina": 12
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "II. Meta-análisis de la demanda de energía",
+      "nivel": 1,
+      "paginas": "21-36",
+      "resumen": "Se aplican las técnicas de meta-análisis a una base de 63 estudios internacionales que arrojan 1,122 elasticidades de demanda de energía, abarcando publicaciones académicas e informes técnicos entre 1981 y 2013. Los hallazgos principales revelan una elasticidad ingreso de largo plazo de 0.74 y una elasticidad precio de -0.40, evidenciando una demanda de energía altamente sensible al crecimiento económico pero marcadamente inelástica ante variaciones en los precios relativos. Estas estimaciones, desagregadas minuciosamente por nivel de desarrollo y región, demuestran que los países latinoamericanos enfrentan desafíos estructurales significativamente mayores para el control del consumo energético debido a su fase de desarrollo actual y una menor capacidad de respuesta e innovación tecnológica en comparación con las economías avanzadas de la OCDE. Asimismo, el análisis mediante meta-regresión identifica factores sistemáticos como el método de estimación, el tipo de datos utilizados y la zona geográfica que inciden directamente en la volatilidad de las elasticidades reportadas en la literatura.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "La demanda de energía es una función de diversos factores tales como el ingreso o el gasto, los precios relativos, la estructura de la economía, la tecnología disponible e incluso los estilos de vida (Howard, et al., 1993; Jorgenson y Wilcoxen, 1993).",
+          "pagina": 22
+        },
+        {
+          "dimension": "tendencias",
+          "cita": "La base de datos utilizada para realizar los meta-análisis consiste en 63 estudios que arrojó una búsqueda de la literatura internacional sobre la demanda de energía.",
+          "pagina": 22
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "III. Meta-análisis de la demanda de gasolinas",
+      "nivel": 1,
+      "paginas": "37-50",
+      "resumen": "Se realiza un meta-análisis exhaustivo y específico sobre la demanda de gasolinas utilizando una base de datos de 63 estudios que contienen un total de 570 estimaciones sobre elasticidades. Los resultados destacan de manera contundente que la elasticidad ingreso en América Latina es significativamente superior a la de los países de la OCDE, mientras que la elasticidad precio es mucho más inelástica. Este comportamiento asimétrico refleja una transición estructural hacia el uso de transporte privado, impulsada por el aumento sostenido del ingreso y la carencia de alternativas eficientes y seguras de movilidad pública. La identificación de estas asimetrías y el tratamiento del sesgo de publicación mediante pruebas estadísticas avanzadas como FAT-PET-MRA resulta fundamental para diseñar reformas fiscales ambientales efectivas en el sector transporte de la región.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "La demanda de gasolinas es función de la evolución del gasto (en ocasiones aproximado por el ingreso), de su precio y de los precios de bienes substitutos y complementarios y por otro conjunto de factores tales como características socioeconómicas y demográficas, la flota vehicular, forma urbana o regulaciones específicas sobre movilidad urbana y uso del automóvil (Kayser, 2000; Rogat y Sterner, 1998; Eskeland y Feyzioglu, 1997, Deaton y Muellbauer, 1980; Dahl, 2012; Galindo, 2005; Reyes, 2009; Alves y Bueno, 2003).",
+          "pagina": 38
+        },
+        {
+          "dimension": "tendencias",
+          "cita": "La base de datos utilizada en el meta-análisis consiste en 63 estudios de la literatura internacional que contienen un total de 570 estimaciones sobre la demanda de gasolina",
+          "pagina": 38
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "IV. El consumo de energía y gasolina y las políticas públicas",
+      "nivel": 1,
+      "paginas": "51-56",
+      "resumen": "Esta sección discute la efectividad de los instrumentos de política pública frente a la baja sensibilidad al precio de los consumidores. Argumenta que un impuesto al carbono, aunque necesario para internalizar externalidades, es insuficiente por sí solo en entornos de rápido crecimiento económico. Se propone una estrategia híbrida que integre mecanismos de precios con regulaciones energéticas estrictas, fomento a energías renovables y una infraestructura urbana que desacople el crecimiento del consumo de combustibles fósiles, mitigando los riesgos de contaminación y cambio climático.",
+      "dimensiones": [
+        {
+          "dimension": "desafios",
+          "cita": "De este modo, la evidencia general indica que mantener un rápido crecimiento económico en las economías modernas requiere de un abastecimiento de energía continuo.",
+          "pagina": 53
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Esto sugiere además que una política pública basada exclusivamente en impuestos a la energía, en un entorno de rápido crecimiento económico, parece insuficiente para controlar su demanda.",
+          "pagina": 53
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "V. Conclusiones y comentarios generales",
+      "nivel": 1,
+      "paginas": "57-60",
+      "resumen": "Las conclusiones subrayan que el éxito de la transición hacia un desarrollo sostenible bajo en carbono depende de una correcta calibración de las políticas basadas en elasticidades regionales precisas. Recomienda internalizar las externalidades negativas mediante impuestos que consideren el costo real de los combustibles, pero enfatiza que esto debe acompañarse de mejoras tecnológicas en la industria automotriz y sistemas de transporte público masivo eficientes. La política climática debe ser integral, abordando tanto la eficiencia energética como los co-beneficios en salud y movilidad urbana.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "De este modo, transitar a un desarrollo sostenible requiere considerar estrategias de política pública que combinen mecanismos de precios con regulaciones y la construcción de una nueva infraestructura energética.",
+          "pagina": 58
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "La combinación de una alta elasticidad ingreso y una baja elasticidad precio de la demanda de energía indica que un crecimiento económico sostenido en América Latina vendrá acompañado de un aumento sostenido del consumo de energía y que modificaciones en los precios de la energía, por ejemplo, a través de un impuesto, no será suficiente para controlar el continuo crecimiento del consumo energético.",
+          "pagina": 58
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "No",
+      "evidencia": "El documento es un meta-análisis econométrico de elasticidades, no una propuesta de paquete de inversión coordinada sectorial.",
+      "citas": [],
+      "nota": null
+    },
+    "articulacion_actores": {
+      "veredicto": "No",
+      "evidencia": "No se nombra ningún mecanismo de articulación institucional.",
+      "citas": [],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "No enumera sectores o actividades concretas para la transformación productiva.",
+      "citas": [],
+      "nota": null
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "No",
+      "evidencia": "Aunque menciona medidas de política, no presenta un desglose operativo o normativo de implementación, ya que su enfoque es el análisis estadístico.",
+      "citas": [],
+      "desglose_items": [],
+      "tally": "0 de 0",
+      "nota": "Es un documento analítico de insumos para política, no una guía normativa."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": { "numero": 1, "nombre": "Desarrollo productivo", "certeza": "Alta" },
+    "transformacion_secundaria": { "numero": 6, "nombre": "Sostenibilidad ambiental", "certeza": "Alta" },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento tensiona la dependencia de las economías respecto al consumo de energía y gasolinas con la urgencia de mitigación del cambio climático, procesando 63 fuentes sobre energía y 570 estimaciones de gasolinas para identificar elasticidades de corto/largo plazo.",
+      "filtro_categoria_primaria": "Se clasifica en Desarrollo productivo como objeto primario porque el enfoque central es la estimación empírica y econométrica de las elasticidades de demanda que determinan la trayectoria de crecimiento económico y consumo de recursos.",
+      "secundaria_obligatoria": "La Sostenibilidad ambiental actúa como finalidad secundaria, ya que el análisis de la heterogeneidad y el sesgo de publicación busca fundamentar políticas de mitigación y el desacoplamiento de emisiones de GEI.",
+      "justificacion_anti_copia": "La clasificación se fundamenta en el rigor del meta-análisis técnico, contrastando la baja sensibilidad al precio con la alta elasticidad ingreso, lo que invalida soluciones fiscales genéricas y exige reformas estructurales.",
+      "validacion_anclas": "A semejanza de doc11_pobreza_infantil, fundamenta la necesidad de políticas integrales ante externalidades negativas; se diferencia en que este estudio prioriza el análisis econométrico de la demanda energética sobre el impacto social directo de la vulnerabilidad."
+    },
+    "tipo_documento_climatico": "Análisis econométrico / Meta-análisis",
+    "nivel_aplicacion": "Regional",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

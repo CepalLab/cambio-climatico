@@ -13,6 +13,7 @@ justificación está ahí, no en este documento.
 3. [TIPOLOGIA_v0.md](TIPOLOGIA_v0.md) — protocolo de 5 pasos para transformación primaria/secundaria.
 4. [big_push.md](big_push.md) — definición operativa del "gran impulso ambiental" (criterio i de interpelación).
 5. [esquema_json_v1.md](esquema_json_v1.md) — esquema de salida, reglas transversales, slugs canónicos.
+6. [CASOS_ANCLA_INTERPELACION_v1.md](CASOS_ANCLA_INTERPELACION_v1.md) — matriz contrastiva No/Parcial/Sí, congelada para el primer batch.
 
 ---
 
@@ -92,13 +93,8 @@ sección con:
   exclusiones listadas abajo**. Se desciende a subsecciones (`subsecciones`, mismo shape, `nivel` 2 o 3) solo
   cuando el padre supera ~8-10 páginas; nunca se aplanan ni se salta del nivel 1 al nivel 3 sin registrar el
   padre intermedio.
-- **Dimensiones solo en las hojas**: cuando una sección tiene `subsecciones`, el padre lleva
-  `"dimensiones": []` — las etiquetas viven en las subsecciones, salvo que el padre tenga contenido propio
-  no cubierto por ningún hijo, en cuyo caso ese fragmento sí lleva su propia cita+página.
-- **Dimensiones solo con señal climática/ambiental (docs híbridos)**: se resume todo el índice; se etiquetan
-  dimensiones solo en hojas atingentes al corpus climático. Hojas sin esa señal → `"dimensiones": []`
-  (informativo, no error). Detalle en [codebook_v0.md §1](codebook_v0.md) y
-  [esquema_json_v1.md §2 regla 6bis](esquema_json_v1.md).
+- **Dimensiones solo en las hojas** (regla 6 del esquema): cuando una sección tiene `subsecciones`, el padre lleva `"dimensiones": []` — las etiquetas viven en las subsecciones, salvo que el padre tenga contenido propio no cubierto por ningún hijo, en cuyo caso ese fragmento sí lleva su propia cita+página. **En las hojas (secciones sin subsecciones), se debe extraer al menos una dimensión si el contenido tiene señal climática/ambiental** (temas como cambio climático, temperatura, precipitación, emisiones, adaptación, mitigación, sostenibilidad, biodiversidad, sequía, inundación, energía, ecosistemas, agricultura, ganadería, pesca, silvicultura, etc.). Si la hoja no tiene ninguna señal climática → `"dimensiones": []` (informativo, no error). **Error frecuente del pipeline**: dejar `dimensiones: []` en una hoja que sí tiene contenido climático — verificar que cada hoja con señal climática tenga al menos una dimensión con cita+página.
+- **Dimensiones solo con señal climática/ambiental (docs híbridos)**: se resume todo el índice; se etiquetan dimensiones solo en hojas atingentes al corpus climático. Hojas sin esa señal → `"dimensiones": []` (informativo, no error). Detalle en [codebook_v0.md §1](codebook_v0.md) y [esquema_json_v1.md §2 regla 6bis](esquema_json_v1.md).
 - **Padre-puente vs hoja (aclaración post-Ronda 9)**: si la sección tiene `subsecciones`, su `resumen` es
   solo un mapa de 2–4 oraciones (función del bloque + qué cubren los hijos) o `null` — **sin** piso
   proporcional al rango de páginas del padre. El largo proporcional y los requisitos de calidad (a)(b)(c)
@@ -163,15 +159,15 @@ ejecuta el pipeline, humano o modelo.
 
 ## Cuándo usar Workflow
 
-Para 1 documento suelto, lectura directa alcanza — no hace falta orquestación. Para lotes (los 12 documentos
-restantes de la muestra de calibración, o los 244 del corpus), usar el patrón `pipeline()` del framework de
-Workflow del Lab: **un documento por agente, las etapas 1→5 encadenadas dentro de la misma
+Para 1 documento suelto, lectura directa alcanza — no hace falta orquestación. Tras el congelamiento
+pre-batch v1 hay 226 publicaciones pendientes (244 menos la muestra de 17 y doc20 aceptado). Organizarlas
+en lotes administrativos de 15, con concurrencia inicial de 2 documentos —el tamaño del lote no es el nivel
+de paralelismo—, usando el patrón `pipeline()` del framework de Workflow del Lab: **un documento por agente, las etapas 1→5 encadenadas dentro de la misma
 conversación/agente** (nunca un agente nuevo por etapa — repagar la lectura del texto fuente en cada etapa
 cuesta 2.5-3x más sin aportar nada; ver el detalle de costo en
 [PLAN_ANALISIS_PROFUNDO.md §4.3](PLAN_ANALISIS_PROFUNDO.md)), en paralelo entre documentos. Para invocarlo,
-pedirlo explícitamente — p. ej. *"corre el pipeline de enriquecimiento sobre los 14 documentos restantes de
-la muestra usando un workflow"*. No conviene lanzarlo antes de que el equipo del curso valide el enfoque del
-piloto (ver [PLAN_ANALISIS_PROFUNDO.md §5](PLAN_ANALISIS_PROFUNDO.md)).
+pedirlo explícitamente. No aumentar la concurrencia hasta que un lote completo termine sin saturación ni
+relecturas evitables; ver el congelamiento en [CONGELAMIENTO_PRE_BATCH_v1.md](CONGELAMIENTO_PRE_BATCH_v1.md).
 
 ## Revisión ciega externa de veredictos (posterior al lote, fuera de este pipeline)
 

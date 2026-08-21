@@ -1,0 +1,506 @@
+{
+  "documento": {
+    "num_muestra": 80561,
+    "titulo": "Desafíos y oportunidades para la ejecución de proyectos de inversión pública con criterios de sostenibilidad: presentaciones en el XI Seminario de la Red de los Sistemas Nacionales de Inversión Pública de América Latina y el Caribe",
+    "autoria": "Valeria Torres y Dante Arenas (coordinadores)",
+    "handle": "https://hdl.handle.net/11362/80561",
+    "simbolo": "LC/TS.2024/65",
+    "isbn": null,
+    "fecha": "2024",
+    "tipo_documento": "Serie Seminarios y Conferencias / memoria técnica de seminario",
+    "paginas_cuerpo": 98,
+    "paginas_totales": 107,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cómo pueden los sistemas nacionales de inversión pública de América Latina y el Caribe mejorar la planificación, priorización, ejecución y seguimiento de proyectos para lograr una inversión eficiente, sostenible y resiliente al clima?",
+    "alcance": {
+      "ambito_aplicacion": "América Latina y el Caribe, mediante la Red SNIP y experiencias nacionales de Argentina, Chile, Ecuador, El Salvador, Guatemala, Honduras, México, Nicaragua, Panamá, Paraguay, Perú, República Dominicana y Uruguay.",
+      "referentes_dependencias": "OCDE, Reino Unido, Irlanda, República de Corea, Banco Mundial, BID, GIZ, UNDRR, SICA y COSEFIN como marcos, experiencias, apoyos o mecanismos comparativos.",
+      "sectorial": "Sistemas de inversión pública, infraestructura, agua y saneamiento, transporte, energía, educación, salud, tecnologías digitales y gestión de riesgos de desastres.",
+      "temporal": "Seminario realizado el 4 y 5 de octubre de 2023; series de inversión 2000-2023; horizontes de planificación y acción climática hasta 2027, 2030 y 2050, con riesgos proyectados hasta 2100."
+    },
+    "hallazgos_principales": [
+      "La Red SNIP reúne a 16 países y el seminario contó con representantes de 15 de los 16 países miembros, articulando intercambio regional de normas, herramientas y experiencias (pp. 9, 11).",
+      "La inversión pública regional se desacelera desde 2014 y permanece por debajo de otras regiones; se estima que América Latina necesita asignar al menos 3,2% del PIB anual a infraestructura para cerrar brechas hacia 2030, mientras la eficiencia podría ahorrar 41% del dinero invertido (p. 18).",
+      "La incorporación climática muestra avances desiguales: 91% de los países encuestados tiene planes de inversión parcial o totalmente alineados con objetivos climáticos, pero 40% carece de una institución líder y 73% reporta la debilidad institucional como barrera principal (pp. 74-75).",
+      "La propuesta para priorizar inversiones de adaptación conecta evaluación de riesgo, identificación de políticas, análisis de brechas, identificación de inversiones y priorización multicriterio, incluyendo validación participativa (p. 38).",
+      "Una consulta a 61 operadores de agua de 11 países identifica como impactos más reportados la reducción del caudal de los ríos (77%), la mayor turbiedad (70%) y el colapso de redes de drenaje por lluvias intensas (66%); las respuestas combinan infraestructura gris con restauración de ecosistemas (pp. 80-81).",
+      "RIDASICC combina una red de siete ministerios de finanzas o hacienda y tres de planificación con guías, capacitación, pilotaje y plataformas SIG; sus actividades capacitaron a más de 500 servidores públicos en seis países (pp. 84-86).",
+      "La transformación digital se materializa en 24 entidades públicas peruanas en adopción progresiva de BIM y nueve proyectos piloto en ocho regiones, mientras la plataforma SIG de RIDASICC integra información espacial y climática para decisiones de inversión (pp. 90-93)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El seminario muestra que mejorar la inversión pública exige intervenir simultáneamente en gobernanza, métodos de priorización, seguimiento, información y capacidades, y que la acción climática debe incorporarse durante todo el ciclo de vida del proyecto.",
+        "La principal limitación regional no es la ausencia de experiencias, sino su formalización desigual: persisten fragmentación institucional, capacidades insuficientes, metodologías no comparables y escaso seguimiento climático ex post.",
+        "Las experiencias presentadas permiten concluir que la resiliencia mejora cuando los SNIP combinan criterios climáticos explícitos, información territorial, evaluación económica, coordinación interinstitucional y mecanismos de retroalimentación operativa."
+      ],
+      "recomendaciones": [
+        "Alinear planes de infraestructura y metodologías de evaluación con estrategias climáticas de largo plazo, planes de adaptación y gestión del riesgo de desastres.",
+        "Incorporar evaluación de riesgo climático, precio social del carbono, valoración de servicios ecosistémicos y criterios de adaptación y mitigación en la selección y priorización de proyectos.",
+        "Formalizar instituciones, comités y responsabilidades de coordinación, y fortalecer capacitación, asistencia técnica y continuidad de equipos para sostener la transversalización climática.",
+        "Desarrollar sistemas interoperables de información, seguimiento, alertas, evaluación ex post y marcaje presupuestario que permitan comparar resultados y corregir desvíos.",
+        "Promover soluciones basadas en la naturaleza, diversificación y redundancia de redes, mantenimiento de activos e instrumentos financieros y de seguro para infraestructura resiliente."
+      ],
+      "nota": "Las recomendaciones se sintetizan de las propuestas metodológicas, experiencias nacionales y conclusiones de las sesiones; el capítulo IX cierra con una agenda narrativa de fortalecimiento, no con una lista numerada propia."
+    },
+    "resumen_narrativo": "La memoria del XI Seminario de la Red SNIP reúne experiencias de 15 países sobre cómo transformar la inversión pública en un instrumento de desarrollo sostenible, desde las reglas fiscales y la priorización hasta el seguimiento y la digitalización. Su núcleo climático combina una metodología de cinco pasos para priorizar adaptación, el precio social del carbono, taxonomías verdes y herramientas de riesgo, con resultados regionales como el 91% de planes de inversión alineados con objetivos climáticos, pero solo 60% de instituciones con liderazgo climático efectivo. Los casos de RIDASICC y de los operadores de agua muestran que la resiliencia requiere redes institucionales, capacitación, datos territoriales y soluciones basadas en ecosistemas, no solo más infraestructura. El cierre plantea que la Red SNIP debe consolidar capacidades técnicas y operativas para que esas herramientas se conviertan en decisiones coordinadas y verificables durante todo el ciclo de inversión."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "11-13",
+      "resumen": "La introducción define los SNIP como conjuntos de instituciones, normas, instrumentos y procedimientos que coordinan la formulación, ejecución y evaluación de inversiones. Presenta a la Red SNIP, creada en 2011 y compuesta por 16 sistemas nacionales, como espacio regional para uniformar conceptos y compartir herramientas; sitúa el problema en la baja inversión y las brechas estructurales. El argumento central es que las decisiones de infraestructura duran entre 30 y 40 años y, por ello, deben incorporar riesgo climático, evitar bloqueos tecnológicos y articular criterios económicos, sociales y ambientales. La sección propone renovar capacidades TOPP, priorizar sectores como energías renovables, hidrógeno verde, litio, electromovilidad, economía circular, bioeconomía, agua y turismo sostenible, y fortalecer la evaluación, la información, la transparencia y la colaboración.",
+      "dimensiones": [
+        {"dimension": "diagnostico_estructural", "cita": "Dado que las decisiones de inversión en infraestructura que se toman hoy estarán funcionales por períodos largos de entre 30 y 40 años, es crucial incorporar criterios climáticos en la inversión pública para evitar lock-in tecnológicos o respuestas de mala adaptación.", "pagina": 12},
+        {"dimension": "oportunidades", "cita": "El reto es aprovechar las oportunidades y ventajas competitivas de la región para promover a través de la inversión pública un desarrollo productivo que promueva estilos de desarrollo bajos en emisiones de carbono.", "pagina": 12},
+        {"dimension": "propuestas_politica", "cita": "En este contexto, fortalecer las capacidades técnicas y operativas de los sistemas nacionales de inversión pública para incorporar criterios de sostenibilidad en las evaluaciones de los proyectos de inversión pública, es clave para promover estilos de desarrollo bajos en emisiones de carbono y asegurar el cumplimiento de las metas planteadas en las Contribuciones Determinadas a Nivel Nacional (CDN) en el marco de los compromisos asumidos por los países en virtud del Acuerdo de Paris.", "pagina": 13}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Inauguración",
+      "nivel": 1,
+      "paginas": "15-16",
+      "resumen": "La inauguración presenta el seminario como un espacio político y técnico de la Red SNIP, con autoridades de Perú, CEPAL, BID, Alemania y Chile, y con representantes de 15 países. Los discursos vinculan gobernanza, institucionalidad, metodologías, tecnologías y criterios climáticos con la calidad de la inversión pública y la Agenda 2030. La función de esta sección es establecer el mandato institucional del encuentro: compartir prácticas, priorizar inversiones con información y evaluación, y preparar arreglos capaces de enfrentar bajo crecimiento y choques climáticos. El cierre advierte que la adaptación y la mitigación requieren sistemas de inversión pública con mejor gobernanza y arreglos institucionales modernos.",
+      "dimensiones": [
+        {"dimension": "propuestas_politica", "cita": "Ello demandaba arreglos institucionales modernos y una mejor gobernanza, para lo cual los Sistemas Nacionales de Inversión Pública eran clave.", "pagina": 16}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "II. Sesión I: Impacto de la inversión pública en los países de América Latina y el Caribe y el papel de la eficiencia en la gestión",
+      "nivel": 1,
+      "paginas": "17-28",
+      "resumen": "Esta sesión conecta el volumen y la eficiencia de la inversión pública con crecimiento, empleo, productividad, sostenibilidad fiscal y capacidad de gestión. Sus ponencias recorren el multiplicador de la inversión, reglas fiscales, datos comparables de FISLAC y la reforma peruana Invierte.pe, mostrando que el problema no es solo cuánto se invierte sino cómo se seleccionan, ejecutan y mantienen los activos. El bloque final presenta PMO, BIM, una Autoridad Nacional de Infraestructura y el OEDI como instrumentos de especialización y coordinación para cerrar brechas de infraestructura en Perú.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Impacto de la inversión pública en el crecimiento de los países de América Latina",
+          "nivel": 2,
+          "paginas": "17-20",
+          "resumen": "La ponencia diagnostica una desaceleración de la inversión pública latinoamericana desde 2014 y la relaciona con bajo ahorro y déficits fiscales persistentes. Estima una necesidad regional de 3,2% del PIB anual en infraestructura hacia 2030 y señala que elevar la eficiencia permitiría mejorar la calidad de la infraestructura en 30%, ahorrar 41% de lo invertido y generar recursos equivalentes a 1,4% del PIB. El multiplicador fiscal es positivo, pero el retorno promedio de 1,1 dólares por dólar invertido aparece recién en el segundo año; la implicación es proteger y gestionar mejor la inversión para convertirla en crecimiento y productividad.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Instituciones fiscales favorables a la inversión pública productiva",
+          "nivel": 2,
+          "paginas": "20-22",
+          "resumen": "La presentación explica cómo la política macrofiscal y las instituciones fiscales influyen en el tamaño y la volatilidad de la inversión. Muestra un sesgo procíclico: durante ajustes fiscales la inversión pública se contrae en promedio 10% en términos reales, mientras las reglas flexibles, los balances estructurales y las cláusulas de escape pueden protegerla. El cierre advierte que estas reglas no bastan por sí solas: necesitan instituciones sólidas durante todo el ciclo de inversión y controles contra contabilidad creativa, discrecionalidad y errores de clasificación.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Presentación del módulo Inversión Pública – FISLAC del BID",
+          "nivel": 2,
+          "paginas": "22-25",
+          "resumen": "La ponencia presenta el módulo de inversión pública de FISLAC como una base de datos regional armonizada, con información histórica de dos décadas, desagregación por país, sector y nivel de gobierno, y herramientas para analizar inversión per cápita, brechas y multiplicadores. En 2021 Nicaragua registró la mayor inversión per cápita entre los países mostrados, mientras el transporte representó 28,4% y vivienda 22% del gasto sectorial. La plataforma busca convertirse en datos vivos, con participación de los miembros de la Red SNIP en diseño, actualización y diálogo entre países, y con futuras funciones de eficiencia y gobernanza.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Desafíos para una inversión pública de calidad en Perú",
+          "nivel": 2,
+          "paginas": "25-28",
+          "resumen": "El caso peruano cuantifica una brecha de infraestructura básica de 363 mil millones de soles, equivalente a 39% del PIB, y señala que la inversión de 2023 cubría solo 14% de esa brecha. La dispersión territorial es alta: 64% de la inversión ejecutada en 2022 estuvo a cargo de gobiernos regionales y locales, con 47.777 proyectos frente a 4.268 del gobierno nacional. Invierte.pe responde con programación multianual, enfoque territorial, Modelo de los 5 Casos, PMO, BIM, una Autoridad Nacional de Infraestructura para proyectos grandes y el OEDI para apoyar estudios y diseños; la sección destaca que estándares, roles y especialización son necesarios para convertir presupuesto en activos.",
+          "dimensiones": [],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "III. Sesión II: Arreglos institucionales para la gestión eficiente de los sistemas de inversión pública",
+      "nivel": 1,
+      "paginas": "29-35",
+      "resumen": "Esta sesión examina arreglos institucionales que filtran, priorizan, contratan y monitorean proyectos. El Reino Unido aporta un modelo de evaluación por etapas y riesgo; la encuesta BID-OCDE compara planificación, sostenibilidad fiscal y contratación en América Latina; y Chile presenta la actualización 2023 de sus normas, instrucciones y procedimientos. El bloque permite contrastar diseños centralizados y descentralizados y muestra que la calidad de los proyectos depende de reglas, evaluación independiente, seguimiento y coordinación entre organismos.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Experiencias destacadas para la gestión eficiente de la inversión pública: el caso del Reino Unido (traducido)",
+          "nivel": 2,
+          "paginas": "29-32",
+          "resumen": "La experiencia británica describe el sistema PIM liderado por el Tesoro, con la Autoridad de Infraestructura y Proyectos, la Comisión Nacional de Infraestructura y el Grupo de Revisión de Grandes Proyectos. El modelo Business Case evalúa dimensiones estratégica, económica, comercial, financiera y de gestión en tres etapas, y el sistema de monitoreo usa revisión independiente, umbrales flexibles y un semáforo de confianza en la entrega. Las lecciones son una base legal sólida, decisiones por etapas, evaluación proporcional al riesgo y monitoreo central, aunque la replicabilidad está limitada por la particularidad institucional del Reino Unido.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Resultados de la encuesta de gobernanza de infraestructura de América Latina BID-OCDE",
+          "nivel": 2,
+          "paginas": "32-33",
+          "resumen": "La encuesta de 50 preguntas compara visión estratégica, sostenibilidad fiscal y contratación pública. Solo 67% de los países latinoamericanos encuestados tiene planes de infraestructura y 31% cuenta con una institución centralizadora; en cambio, 92% de los planes de la OCDE está alineado con cambio climático frente a 50% en América Latina. También persisten déficits de evaluación ex ante, pasivos contingentes, licitaciones abiertas, contratación electrónica e indicadores de desempeño. La conclusión propone planificación de largo plazo, evaluación proporcional y mecanismos de contratación transparentes.",
+          "dimensiones": [
+            {"dimension": "estado_de_situacion", "cita": "A diferencia de América Latina, en la OCDE una mayor proporción de los planes están alineados con áreas como el cambio climático, el ordenamiento territorial y el desarrollo regional.", "pagina": 32},
+            {"dimension": "propuestas_politica", "cita": "Existe un amplio espacio para implementar una planificación estratégica de infraestructura a largo plazo, que incorpore aspectos tales como la acción climática y equidad/desarrollo territorial.", "pagina": 33}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Actualización normativa y de arreglos institucionales del Sistema de Inversión Pública en Chile (nuevas NIP)",
+          "nivel": 2,
+          "paginas": "34-35",
+          "resumen": "Chile actualizó en 2023 las Normas, Instrucciones y Procedimientos del Sistema Nacional de Inversiones, incorporando plazos, consecuencias por incumplimiento y procedimientos para conservación de infraestructura. La marcha blanca de la admisibilidad especial y los decretos de reajustabilidad excepcional revelan tensiones entre urgencia, claridad normativa, capacitación y coordinación temprana. El caso concluye con lecciones sobre cambios graduales y supervisados, participación de contrapartes y plena incorporación de resiliencia y reducción de riesgos en la inversión pública y privada.",
+          "dimensiones": [
+            {"dimension": "desafios", "cita": "Ante el auge de la crisis climática y sus efectos, resulta urgente e impostergable la plena incorporación de los enfoques de resiliencia y reducción de riesgo de desastres en los procesos de inversión, tanto pública como privada, lo que es un desafío mayúsculo.", "pagina": 35}
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Sesión III: Metodologías de priorización de inversiones",
+      "nivel": 1,
+      "paginas": "37-53",
+      "resumen": "La sesión desplaza la pregunta desde cuánto invertir hacia cómo seleccionar inversiones compatibles con riesgos, brechas, equidad y sostenibilidad. Presenta una metodología de adaptación con evaluación de riesgo y cinco pasos, la incorporación de criterios climáticos en Argentina, el análisis multicriterio dominicano, modelos de brecha y jerarquía en Paraguay y el procedimiento legal de categorización, calificación y tiempo usado en México. En conjunto, las ponencias muestran avances operativos, pero también problemas de datos, indicadores excesivos, coordinación ambiental y falta de criterios climáticos en los sistemas de priorización.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Criterios ambientales y climáticos en metodologías para la priorización de inversiones en adaptación",
+          "nivel": 2,
+          "paginas": "37-41",
+          "resumen": "La ponencia parte de que 29 de 33 países de la región actualizaron su NDC y que sus metas apuntan a reducir entre 22% y 28% las emisiones al 2030, pero advierte que esos compromisos no se traducen claramente en planes de inversión. La metodología propone evaluar riesgo climático territorial, identificar políticas, analizar brechas, identificar inversiones y priorizarlas con análisis multicriterio y validación participativa. Añade valoración de servicios ecosistémicos, precio social del carbono y modelos económicos, y concluye que deben coordinarse organismos públicos y fortalecerse capacidades de evaluación climática.",
+          "dimensiones": [
+            {"dimension": "estado_de_situacion", "cita": "29 de los 33 países de la región, han presentado su Contribución Nacionalmente Determinada (NDC por su sigla en inglés) actualizada ante la Convención Marco de Naciones Unidas frente al Cambio Climático", "pagina": 37},
+            {"dimension": "brechas_implementacion", "cita": "No obstante, no existe una equivalencia clara entre los compromisos que los países plantean en las NDC con lo que se plantea en los planes de inversión.", "pagina": 37, "subtipo_brecha": "retrospectiva"},
+            {"dimension": "propuestas_politica", "cita": "A continuación se presenta una propuesta para incorporar criterios ambientales y climáticos en los procesos de priorización de inversiones asociadas a la adaptación al cambio climático.", "pagina": 38}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Metodologías de priorización de inversiones en el SNIP de Argentina",
+          "nivel": 2,
+          "paginas": "41-43",
+          "resumen": "Argentina presenta avances en criterios, guías, Banco de Proyectos de Inversión Pública y seguimiento de proyectos, con coordinación entre órganos rectores. Para el presupuesto 2024 se establecieron criterios de impacto sobre empleo, desarrollo tecnológico, exportaciones, brechas regionales y adaptación o mitigación climática; los organismos etiquetan proyectos en BAPIN con pautas de la DNIP. La coordinación con la autoridad ambiental y el Plan de Cambio Climático produjo criterios publicados, seguimiento del gasto y cerca de 1.250 proyectos con contribución a por lo menos uno de cinco criterios, sobre unos 2.970 proyectos a iniciar.",
+          "dimensiones": [
+            {"dimension": "avances_implementacion", "cita": "El SNIP de Argentina presenta avances en la priorización de inversiones, especialmente en la búsqueda de criterios que se plasmen en las normas, en las guías y en la actividad cotidiana de formulación y priorización de proyectos en el presupuesto de inversiones.", "pagina": 41},
+            {"dimension": "propuestas_politica", "cita": "elaborar y publicar los criterios de selección de proyectos, e implementar el marco de etiquetado de cambio climático en el presupuesto.", "pagina": 41},
+            {"dimension": "estado_de_situacion", "cita": "No todos los proyectos fueron marcados con estos criterios, sólo los proyectos a iniciar y con un monto mínimo de alrededor de 500.000 dólares.", "pagina": 42}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Modelo de priorización de proyectos del Plan Nacional Plurianual de Inversión Pública de República Dominicana",
+          "nivel": 2,
+          "paginas": "43-48",
+          "resumen": "República Dominicana utiliza un modelo de análisis multicriterio para decidir qué proyectos ingresan al Plan Nacional Plurianual de Inversión Pública. El sistema combina atributos del proyecto, aspectos territoriales y criterios políticos y de planificación mediante siete subcriterios, con puntajes de 1 a 7 y participación del Comité de Priorización y los Consejos de Desarrollo. La metodología incorpora pobreza, baja densidad, demandas territoriales y financiamiento, pero el cierre reconoce que aún debe introducir criterios que favorezcan adaptación y mitigación climática y considerar la capacidad de ejecución de las instituciones.",
+          "dimensiones": [
+            {"dimension": "desafios", "cita": "Los desafíos pendientes son introducir criterios para favorecer los proyectos que estén más en línea con la adaptación y mitigación al cambio climático, y la capacidad de ejecución que tiene la institución ejecutora de los proyectos.", "pagina": 48}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Modelo de Priorización de Proyectos en Paraguay",
+          "nivel": 2,
+          "paginas": "48-50",
+          "resumen": "Paraguay construye un modelo de priorización para cerrar brechas de infraestructura mediante criterios de beneficio social, equidad territorial, competitividad y dimensión ambiental. El modelo original usaba 65 indicadores, pero la prueba mostró que ningún proyecto cumplía los requisitos y que faltaba información; por ello se diseñaron modelos simplificado y de jerarquía de control. El proceso busca un plan cuantificable y realizable, incorpora la relación beneficio-costo y se apoya en talleres con 120 participantes de distintas instituciones, aunque la lista final de indicadores aún estaba en depuración.",
+          "dimensiones": [
+            {"dimension": "propuestas_politica", "cita": "Los criterios de priorización resultantes para ser aplicados en la selección de los proyectos en el Plan de Inversiones son los siguientes: • Beneficio social / demanda • Equidad social y territorial • Competitividad • Ambiental", "pagina": 48}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Metodología de priorización y prelación de proyectos para el Presupuesto de Egresos Federal 2024 de México",
+          "nivel": 2,
+          "paginas": "51-53",
+          "resumen": "México aplica anualmente una metodología establecida por la Ley Federal de Presupuesto y Responsabilidad Hacendaria, con tres etapas: categorización, calificación y definición de tiempos. Los proyectos se ordenan en seis grupos y se puntúan por factibilidad, rentabilidad socioeconómica, años faltantes, población beneficiada, impacto regional, concurrencia y apoyo a presupuesto verde. Para 2024 se priorizaron 220.513 millones de pesos, equivalentes a 74% de los recursos fiscales sujetos a prelación; las subsecciones detallan el funcionamiento de cada etapa.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Categorización",
+              "nivel": 3,
+              "paginas": "51-51",
+              "resumen": "La primera etapa clasifica los proyectos de inversión en seis grupos según obligaciones irreductibles, desarrollo regional y proyectos presidenciales, mantenimientos, obras en ejecución, proyectos nuevos y adquisiciones administrativas. La categorización combina exigencias legales, estado de ejecución y compromisos plurianuales para ordenar la cartera antes de asignar puntajes. Su función es separar proyectos con distintos grados de obligatoriedad y madurez, de modo que la posterior prelación compare proyectos dentro de conjuntos relativamente homogéneos.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Calificación",
+              "nivel": 3,
+              "paginas": "52-53",
+              "resumen": "La segunda etapa asigna hasta 10 puntos mediante indicadores de factibilidad técnica, ambiental y legal, rentabilidad socioeconómica, años faltantes para iniciar operaciones, población beneficiada, impacto regional, concurrencia con otros proyectos y vínculo con programas de presupuesto verde. La escala busca hacer comparable la cartera federal y pondera tanto beneficios como preparación y articulación. El puntaje incorpora criterios sociales, territoriales y ambientales antes de la decisión presupuestaria.",
+              "dimensiones": [
+                {"dimension": "propuestas_politica", "cita": "si está relacionado con programas presupuestarios aprobados que benefician al tema del cambio climático, se califica con 0,75.", "pagina": 53}
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Tiempo",
+              "nivel": 3,
+              "paginas": "52-53",
+              "resumen": "La tercera etapa usa el tiempo como criterio de desempate entre proyectos con la misma puntuación. Se priorizan las iniciativas más cercanas a iniciar operaciones, estimando los años faltantes a partir del avance físico y la duración de la inversión. El criterio complementa la calificación sin reemplazarla y permite ordenar proyectos con igual desempeño en los demás indicadores; el ejercicio 2024 ilustra cómo la prelación se tradujo en asignaciones por grupo.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "V. Sesión IV: Seguimiento a la ejecución oportuna de la inversión pública",
+      "nivel": 1,
+      "paginas": "55-66",
+      "resumen": "La sesión aborda el seguimiento como gestión de información y retroalimentación, no como simple control del gasto. Compara sistemas internacionales, explica los tres pilares peruanos de integración de información, coordinación y transparencia, y presenta el seguimiento estratégico de Escuelas Bicentenario y los comités chilenos. Los casos muestran que indicadores, alertas, gestión de riesgos, plataformas interoperables, reuniones con responsables y compromisos con plazos pueden reducir sobrecostos y retrasos, pero requieren capacidades y continuidad institucional.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Experiencias internacionales en sistemas de seguimiento, monitoreo y evaluación de la inversión pública",
+          "nivel": 2,
+          "paginas": "55-58",
+          "resumen": "La ponencia distingue monitoreo, seguimiento y evaluación ex post por función, responsable, información y alcance: el primero recolecta datos operativos, el segundo interpreta y corrige, y la tercera mide resultados e impactos. La comparación entre Reino Unido, Irlanda, Corea, Colombia y Perú destaca revisiones proporcionales al riesgo, semáforos, alertas, repositorios integrados y comités interinstitucionales. El cierre sostiene que la evaluación debe dejar lecciones formales y conectarse con capacitación permanente para generar capacidades dentro de las instituciones ejecutoras.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Seguimiento a las inversiones públicas en el Perú",
+          "nivel": 2,
+          "paginas": "58-61",
+          "resumen": "Perú organiza el seguimiento durante todo el ciclo de inversión alrededor de integración intra e intersistémica, coordinación de involucrados y articulación funcional, y transparencia y acceso a información. El Comité de Seguimiento de Inversiones convoca mensualmente a actores nacionales, regionales y locales para identificar riesgos y compromisos, mientras las reuniones del MEF retroalimentan la asistencia técnica. La sección añade carteras de riesgo, expediente digital, gobernanza de datos, analítica e inteligencia artificial como instrumentos para alertar desviaciones y mejorar portafolios.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Sistema de seguimiento estratégico a la ejecución de las Escuelas Bicentenario en Perú",
+          "nivel": 2,
+          "paginas": "62-63",
+          "resumen": "El proyecto de Escuelas Bicentenario aplica una oficina de gestión de proyectos y un sistema de seguimiento a 75 colegios en nueve regiones, destinados a 118.000 estudiantes. La experiencia pasó de reuniones poco oportunas a cuatro acciones: identificar necesidades, construir herramientas costo-eficientes, sensibilizar usuarios y crear un foro colaborativo. Reportes semanales, revisión de consistencia, reuniones de seguimiento y presentación al equipo directivo produjeron una ejecución financiera trimestral entre 95% y 105%, con expectativa de replicación regional.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Comités de Seguimiento a la Inversión Pública de Chile",
+          "nivel": 2,
+          "paginas": "64-66",
+          "resumen": "Chile responde a atrasos de ejecución y dificultades para generar carteras con instancias nacionales y regionales de seguimiento. Los Comités de Seguimiento a la Inversión Pública Regional y el comité nacional reúnen DIPRES, MDSF, ministerios, gobiernos regionales y otras entidades para resolver nudos críticos, reportar avances al Congreso y retroalimentar el sistema. La experiencia identifica permisos y autorizaciones como cuellos de botella y plantea fortalecer atribuciones, institucionalidad y una ventanilla única que dé certeza sobre plazos y procedimientos.",
+          "dimensiones": [],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "VI. Sesión V: Incorporación de la acción climática en la gestión de la inversión pública",
+      "nivel": 1,
+      "paginas": "67-78",
+      "resumen": "Esta sesión es el núcleo climático del documento y recorre el ciclo de inversión desde planificación y presupuesto hasta evaluación ex post, riesgo, capacidades y participación. Presenta instrumentos regionales como precio social del carbono, taxonomías, Climate Smart PIM, CBI y Envision, junto con una encuesta de más de 30 preguntas y mesas de trabajo. El panorama muestra una combinación de avances en planes y evaluación ex ante con déficits de coordinación, marcaje, gestión de activos, capacidades y evaluación climática posterior; las mesas y la encuesta agregan prioridades prácticas de capacitación y gobernanza.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Panorama de la inversión pública orientada a la acción climática",
+          "nivel": 2,
+          "paginas": "67-70",
+          "resumen": "El panorama sostiene que la acción climática debe incorporarse en todas las etapas de la gestión pública: planificación, gobernanza, presupuesto, infraestructura, seguimiento y creación de funciones públicas. La infraestructura resiliente ofrece un triple dividendo de adaptación, pérdidas evitadas y beneficios netos; los planes deben alinearse con estrategias climáticas y la evaluación puede usar riesgo de desastres, precio social del carbono y taxonomías verdes. La sección documenta la iniciativa regional de precio social del carbono y resume metodologías CBI, Envision, CARICOM, SPREP y guías nacionales.",
+          "dimensiones": [
+            {"dimension": "propuestas_politica", "cita": "es imperativo incorporar acciones para abordar el desafío climático en todas las etapas de la gestión pública.", "pagina": 67},
+            {"dimension": "estado_de_situacion", "cita": "Esto es aún más relevante en el caso de América Latina y el Caribe, dado que esta es una región sumamente vulnerable a los efectos físicos del cambio climático.", "pagina": 68},
+            {"dimension": "oportunidades", "cita": "Invertir en infraestructuras resilientes al clima es una oportunidad de triple dividendo que permite mejorar la adaptación, evitar más pérdidas y obtener beneficios netos.", "pagina": 68},
+            {"dimension": "avances_implementacion", "cita": "La incorporación de criterios de cambio climático en la inversión pública ha estado presente en el trabajo de la Red SNIP desde el año 2018", "pagina": 68}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Mejores prácticas para la incorporación de cambio climático en los SNIP",
+          "nivel": 2,
+          "paginas": "71-73",
+          "resumen": "La guía Climate Smart PIM del Banco Mundial propone insertar adaptación, descarbonización, transición climática, manejo de activos, portafolios, compromisos piloto y financiamiento en los sistemas existentes. La evaluación ex ante distingue proyectos con motivación climática, proyectos expuestos a riesgos y proyectos de mitigación, y orienta decisiones de adaptación con análisis de vulnerabilidad, riesgo, costo-beneficio y precio social del carbono. El cierre ordena tres fases de implementación gradual, desde medidas sencillas para activos vulnerables hasta análisis completo de opciones de adaptación y emisiones.",
+          "dimensiones": [
+            {"dimension": "propuestas_politica", "cita": "La Guía de Referencia es una herramienta para lograr políticas de mitigación y adaptación en el país.", "pagina": 71},
+            {"dimension": "diagnostico_estructural", "cita": "Existen proyectos que cumplen todo tipo de propósitos de políticas públicas y que están expuestos a riesgos de cambio climático.", "pagina": 71},
+            {"dimension": "propuestas_politica", "cita": "La estimación de las emisiones y sus costos se incorpora en el análisis de costo beneficio de un proyecto, es decir, en la evaluación socio económica que considera los costos y beneficios sociales, considerando las emisiones como un costo social.", "pagina": 73}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Presentación de resultados preliminares de la encuesta de incorporación de criterios de cambio climático en los SNIP de América Latina y el Caribe",
+          "nivel": 2,
+          "paginas": "73-75",
+          "resumen": "La encuesta regional del BID, estructurada en seis dimensiones Climate-PIMA, encuentra avances en planificación, evaluación ex ante, etiquetado y marcadores de gasto, pero déficits en gobernanza, lineamientos, activos, gestión de riesgos, transparencia y capacidades. El 91% de los países cuenta con planes de inversión alineados total o parcialmente con objetivos climáticos, mientras 40% no tiene una institución líder y 73% identifica la debilidad institucional como barrera. La conclusión pide formalizar estrategias, mejorar comparabilidad, incorporar criterios ex post y atender carencias de financiamiento e instrumentos de gestión.",
+          "dimensiones": [
+            {"dimension": "avances_implementacion", "cita": "El 91% de los países cuenta también con planes de inversión pública parcial o totalmente alineado con los objetivos climáticos, lo cual es también un muy buen indicio.", "pagina": 74},
+            {"dimension": "brechas_implementacion", "cita": "En el tema de gobernanza y coordinación con entidades, encontramos que el 40% de los países que respondieron no cuentan actualmente con una institución que lidere la incorporación de los criterios de cambio climático en el SNIP", "pagina": 74, "subtipo_brecha": "retrospectiva"},
+            {"dimension": "desafios", "cita": "La débil capacidad institucional es la barrera más mencionada en la incorporación de criterios de cambio climático (73%).", "pagina": 75},
+            {"dimension": "propuestas_politica", "cita": "Se requiere una mayor formalización de las estrategias empleadas que facilite la comparabilidad entre países y validación metodológica.", "pagina": 75}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Mesas de trabajos",
+          "nivel": 2,
+          "paginas": "75-77",
+          "resumen": "Las mesas de directores de inversión discuten la acción climática en preinversión, ejecución y operación. La primera destaca diferenciar impacto ambiental y riesgo climático, actualizar guías, capacitar equipos y generar escenarios; la segunda muestra registros y criterios todavía fragmentados en El Salvador, Nicaragua, Guatemala y Perú; la tercera identifica avances incipientes en clasificación y marcaje presupuestario, con subregistro, falta de competencias y diferencias conceptuales entre adaptación y mitigación. El consenso es que hacen falta voluntad política, cooperación regional, capacidades y acompañamiento técnico.",
+          "dimensiones": [
+            {"dimension": "desafios", "cita": "La mayor frecuencia de eventos climáticos extremos plantea un desafío, no solo en la inversión pública, sino para los países en general que deberán avanzar en adaptar la infraestructura a este nuevo escenario.", "pagina": 76},
+            {"dimension": "propuestas_politica", "cita": "La generación de escenarios y los análisis de sensibilidad de escenarios tendenciales y escenarios de ruptura que consideren el cambio climático, puede ser una alternativa para analizar de mejor manera la robustez y la resiliencia", "pagina": 76},
+            {"dimension": "brechas_implementacion", "cita": "En Perú no existe un criterio de priorización ambiental, porque en un primer momento se planteó que los sectores debían incorporarlo, pero en la práctica solo el sector ambiente lo ha incluido", "pagina": 76, "subtipo_brecha": "retrospectiva"}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Encuesta en sala",
+          "nivel": 2,
+          "paginas": "78-78",
+          "resumen": "La encuesta en sala recoge prioridades de los participantes para fortalecer la incorporación climática en la inversión pública. Más de la mitad ubica la planificación como fase inicial prioritaria, seguida por evaluación ex ante y priorización; gobernanza y capacitación aparecen como áreas centrales. Las respuestas piden clarificar roles entre SNIP, ministerios sectoriales y gobiernos subnacionales, formar especialistas para riesgos de inundaciones, huracanes y fenómenos de El Niño y La Niña, y contar con lineamientos claros y aprendizaje entre países.",
+          "dimensiones": [
+            {"dimension": "estado_de_situacion", "cita": "Más de la mitad de quienes respondieron la encuesta mencionaron la fase de planificación, seguida de la evaluación ex ante y priorización.", "pagina": 78},
+            {"dimension": "desafios", "cita": "abordar el desafío climático requiere establecer espacios de coordinación interinstitucional lo que se dificulta con la fragmentación actual.", "pagina": 78},
+            {"dimension": "propuestas_politica", "cita": "Se destaca también la necesidad de contar con lineamientos claros respecto de cómo incorporar los criterios climáticos.", "pagina": 78}
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "VII. Sesión VI: Gestión de riesgos de desastres y del cambio climático en la inversión pública",
+      "nivel": 1,
+      "paginas": "79-86",
+      "resumen": "La sesión trata el cambio climático como riesgo sistémico que afecta demanda, oferta, activos, servicios y finanzas públicas. Los casos de agua, reducción del riesgo de desastres y RIDASICC muestran impactos medidos, retornos de la prevención, inversiones compensatorias, correctivas y prospectivas, y la necesidad de integrar clima, territorio, ecosistemas y género. El bloque culmina con una arquitectura regional de cooperación en COSEFIN-SICA que combina herramientas, capacitación, pilotaje y sistemas de información para agua potable, saneamiento e infraestructura vial.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Cambio climático en América Latina y el Caribe: impactos y medidas para lograr servicios de infraestructura resilientes",
+          "nivel": 2,
+          "paginas": "79-81",
+          "resumen": "La ponencia describe cómo el aumento de temperaturas altera demanda y oferta de agua, electricidad, transporte y telecomunicaciones, y usa una encuesta a 61 operadores de agua en 11 países para cuantificar impactos. Los más frecuentes son reducción de caudales (77%), turbiedad (70%) y colapso de redes de drenaje (66%); las respuestas incluyen pozos, represas, trasvases, reforestación, protección de ecosistemas y cosecha de agua. El cierre propone mejorar planificación, infraestructura, redundancia, mantenimiento, soluciones basadas en la naturaleza, eficiencia de consumidores, información, instituciones, financiamiento y seguros.",
+          "dimensiones": [
+            {"dimension": "estado_de_situacion", "cita": "El cambio climático ya está afectando a los operadores de agua, lo que implica más gastos de inversión y más costos de operación y mantenimiento", "pagina": 80},
+            {"dimension": "diagnostico_estructural", "cita": "Cambios en las condiciones de operación (sequías y lluvias intensas afectan la producción de agua y energía y elevación del mar genera riesgo de inundación).", "pagina": 80},
+            {"dimension": "oportunidades", "cita": "Más allá de infraestructura gris. Soluciones Basadas en la naturaleza (la restauración y recuperación de ecosistemas también son inversiones)", "pagina": 81},
+            {"dimension": "propuestas_politica", "cita": "Invertir en diversificación y redundancia (construir considerando que los servicios de infraestructura son servicios de red)", "pagina": 81}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Financiamiento e inversión en reducción del riesgo de desastres para la resiliencia",
+          "nivel": 2,
+          "paginas": "81-84",
+          "resumen": "La presentación plantea que el riesgo de desastres es producido socialmente y que la región concentra una cuarta parte de los desastres globales recientes, muchos vinculados al agua y al clima. La prevención está subfinanciada: en algunos países representa menos de 1% de los presupuestos, aunque cada dólar invertido en reducción del riesgo puede ahorrar entre 6 y 15 dólares en respuesta y recuperación. El marco de Sendai organiza inversiones compensatorias, correctivas y prospectivas, y el cierre pide sistemas de alerta multiamenaza, coordinación disciplinaria, financiamiento y abandono de silos sectoriales.",
+          "dimensiones": [
+            {"dimension": "estado_de_situacion", "cita": "Los últimos estudios que hemos publicado muestran a nivel global que uno de cada cuatro desastres en las últimos dos décadas han sucedido en nuestra región, la mayoría eventos relacionados con el clima, especialmente relacionados con la escasez y la abundancia del agua, tema que se espera sea una posible razón de conflicto y de desplazamiento en el futuro.", "pagina": 82},
+            {"dimension": "oportunidades", "cita": "En términos de costo beneficio se estima que por cada 1 dólar que se invierte en la gestión y la reducción de riesgo de desastres (RRD), puede significar un ahorro entre 6 a 15 USD en la respuesta, recuperación y rehabilitación", "pagina": 82},
+            {"dimension": "desafios", "cita": "Naturaleza sistémica del riesgo y la necesidad de su abordaje integral", "pagina": 83},
+            {"dimension": "propuestas_politica", "cita": "Hay que retomar el camino hacia el 2030 articulando el cambio climático, el desarrollo sostenible y la reducción de riesgo de desastres con una visión integral.", "pagina": 82}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Proyecto RIDASICC: Reducción de Riesgos de Desastres y Adaptación sostenible e incluyente al Cambio Climático en la Inversión Pública en los países COSEFIN – SICA y funcionarios/as de instancias públicas socias identificados/as en las secciones correspondientes",
+          "nivel": 2,
+          "paginas": "84-86",
+          "resumen": "RIDASICC es un proyecto regional que fortalece capacidades para integrar reducción de riesgos y adaptación climática en la inversión pública de países COSEFIN-SICA. Su red reúne siete ministerios de finanzas o hacienda, tres de planificación, ministerios ambientales, instituciones de emergencia y meteorológicas, y organismos regionales; sus cuatro componentes son guías y herramientas, capacitación aprender-haciendo, pilotaje y plataformas SIG y módulos de inversión. Más de 500 servidores fueron capacitados en seis países y el pilotaje con diez proyectos mostró la necesidad de herramientas sectoriales, equipos multidisciplinarios y formación en evaluación socioeconómica y ecológica.",
+          "dimensiones": [
+            {"dimension": "avances_implementacion", "cita": "El RIDASICC ha conformado una amplia red de colaboración para la acción, compuesto por siete Ministerios de Finanzas/Hacienda y tres de Planificación", "pagina": 84},
+            {"dimension": "propuestas_politica", "cita": "Para el fortalecimiento de capacidades se han desarrollado procesos participativos y de co-responsabilidad que valoran los conocimientos y la experiencia de formuladores y evaluadores de los proyectos, utilizando una capacitación con enfoque de aprender – haciendo e usando casos y herramientas prácticas que fortalezcan las capacidades de analizar lo económico, social y ecológico y de proponer medidas adecuadas.", "pagina": 85},
+            {"dimension": "oportunidades", "cita": "El RIDASICC ha propuesto e implementado un enfoque integrador de los abordajes del riesgo de desastres y del cambio climático, y de sus intrincadas relaciones", "pagina": 84}
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "VIII. Sesión VII: Uso de tecnologías e innovación en la gestión de la inversión pública",
+      "nivel": 1,
+      "paginas": "87-95",
+      "resumen": "La sesión presenta tecnologías para transparencia, seguimiento, gestión de información y análisis espacial. Honduras muestra un portal que integra presupuesto, inversión, contratación y participación ciudadana; Perú presenta la adopción progresiva de BIM en entidades, universidades y proyectos piloto; y RIDASICC explica una plataforma SIG y un módulo de inversión pública que conectan datos de riesgo, clima, ambiente, territorio y sectores. La función del bloque es mostrar cómo la interoperabilidad, los estándares y los mapas prospectivos convierten información dispersa en decisiones de inversión y resiliencia.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Hondura Inversiones",
+          "nivel": 2,
+          "paginas": "87-89",
+          "resumen": "Hondura Inversiones, dentro de la iniciativa regional Mapa Inversiones, integra cuatro pilares: inversión pública, presupuesto, contratación y participación ciudadana. El portal combina datos de SIAFI, SNIPH, ONCAE e IAIP y permite consultar proyectos por sector, financiamiento, institución y territorio, junto con costos, fechas, contratos, avances y visitas de campo. La sección valora su aporte a transparencia y contraloría social, pero propone fortalecer programación y seguimiento, crear un módulo de contratos y desarrollar un SNIPH 2.0 con marcaje de adaptación y mitigación climática.",
+          "dimensiones": [
+            {"dimension": "propuestas_politica", "cita": "Crear un nuevo Sistema Nacional de Inversiones Públicas SNIPH 2.0 la cual contemple un marcaje a nivel de proyectos para Adaptación y Mitigación al Cambio Climático.", "pagina": 89}
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Implementación de BIM en el sector público de Perú",
+          "nivel": 2,
+          "paginas": "89-92",
+          "resumen": "Perú implementa BIM desde 2019 para gestionar información de contratación, formulación y evaluación, como respuesta a demoras, deficiencias de diseño, problemas presupuestarios y proyectos paralizados. La adopción progresiva alcanza 24 entidades públicas y nueve proyectos piloto en ocho regiones; incluye Guía Nacional BIM, Nota Técnica de Introducción y Guía Técnica para edificaciones e infraestructura. El caso también describe siete universidades estatales, un grupo multisectorial oficializado por resolución ministerial y resultados cercanos a 80% de acuerdo en calidad, planificación, costos y tiempos.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Proyecto RIDASICC: SIG y Herramientas para la Inversión Pública",
+          "nivel": 2,
+          "paginas": "92-95",
+          "resumen": "RIDASICC desarrolla una plataforma SIG y un Módulo para la Inversión Pública que integran información de riesgo de desastres, cambio climático, ambiente, orografía, sectores y condiciones socioeconómicas. La arquitectura interoperable y de código abierto ofrece análisis de daños y pérdidas, demanda, medidas RRD-ASICC, beneficios ecosistémicos y evaluación socioeconómica; siete países y entidades regionales tienen acceso. Los mapas incorporan escenarios futuros de clima, precipitaciones, temperatura y agua, permitiendo que oficinas sectoriales y centrales dialoguen con un lenguaje común y prioricen medidas.",
+          "dimensiones": [
+            {"dimension": "avances_implementacion", "cita": "El proyecto identificó las instituciones nacionales y regionales generadoras de información espacial, así como repositorios internacionales de información de interés para la RRD-ASICC, creando una arquitectura robusta, interoperable y de código abierto", "pagina": 92},
+            {"dimension": "propuestas_politica", "cita": "Este último, también diseñado y desarrollado por el proyecto RIDASICC, está destinado al uso de las oficinas rectoras y sectoriales de inversión pública", "pagina": 93},
+            {"dimension": "oportunidades", "cita": "incluyendo entre las medidas a las Soluciones basadas en la Naturaleza (SbN) que no solamente reducen el riesgo, daño y pérdida, sino que producen múltiples beneficios al apoyarse en el ecosistema completo.", "pagina": 94},
+            {"dimension": "diagnostico_estructural", "cita": "Esta herramienta MIP permite un análisis espacial del proyecto que es parte de un territorio con determinadas condiciones de clima, precipitaciones, temperatura, transpiración, disponibilidad de agua, etc., que son afectadas por el cambio climático y relevantes para el estudio de un proyecto.", "pagina": 95}
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "IX. Conclusiones",
+      "nivel": 1,
+      "paginas": "97-98",
+      "resumen": "El cierre sintetiza que los países de la Red SNIP buscan mantener y aumentar la inversión para el desarrollo sostenible con eficiencia, transparencia y rendición de cuentas. Las presentaciones muestran herramientas y metodologías para incorporar acción climática y riesgo de desastres en planificación y priorización, además de tecnologías para ejecución y seguimiento. El argumento final identifica la gobernanza, los mandatos, las responsabilidades y las capacidades técnicas y operativas como condiciones para que la inversión se convierta en motor de desarrollo sostenible; recomienda continuar fortaleciendo equipos y recursos independientemente de escenarios fiscales.",
+      "dimensiones": [
+        {"dimension": "avances_implementacion", "cita": "Las herramientas y metodologías presentadas en este evento dan cuenta de los nuevos desarrollos conceptuales y metodológicos utilizados en la gestión de la inversión en las diferentes etapas del ciclo de vida de los proyectos, permitiendo incorporar la acción climática y la gestión de riesgos de desastres", "pagina": 97},
+        {"dimension": "diagnostico_estructural", "cita": "Un tema recurrente en los seminarios de la Red SNIP dada su importancia, es la gobernanza de la inversión pública, ya que en él se definen no solo los mandatos sino también las entidades que participan en el sistema, sus funciones y responsabilidades dentro de éste.", "pagina": 97},
+        {"dimension": "propuestas_politica", "cita": "Finalmente, las presentaciones y discusiones dieron cuenta de la necesidad de continuar fortaleciendo las capacidades de los equipos técnicos encargados de la formación y evaluación de proyectos de inversión pública para asegurar que esta se convierta efectivamente en un motor de desarrollo sostenible.", "pagina": 98}
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento contiene instrumentos y propuestas climáticas concretas, incluidos criterios de priorización, precio social del carbono, taxonomías, infraestructura resiliente, soluciones basadas en la naturaleza y financiamiento; además enumera sectores estratégicos. Sin embargo, como memoria de presentaciones no formula un paquete único y autónomo de inversión masiva coordinada a escala del modelo de desarrollo: presenta experiencias y piezas metodológicas sectoriales que, juntas, pueden contribuir a un gran impulso, pero no alcanzan el test de inversión coordinada exigido para Sí.",
+      "citas": [
+        {"cita": "La CEPAL ha realizado una serie de propuestas para el desarrollo en el marco de lo que ha denominado “gran impulso ambiental para la sostenibilidad” que sugiere concentrar la atención en sectores que pueden ser los motores de un nuevo estilo de desarrollo en función de su papel estratégico en las emisiones, la inversión, la competitividad y el empleo.", "pagina": 12},
+        {"cita": "A continuación se presenta una propuesta para incorporar criterios ambientales y climáticos en los procesos de priorización de inversiones asociadas a la adaptación al cambio climático.", "pagina": 38}
+      ],
+      "nota": "Se aplicaron los tres tests de big_push.md: hay instrumentos y sectores, pero no un paquete coordinado propio con escala de transformación del modelo; por eso el veredicto es Parcial."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El documento describe mecanismos de gobernanza y planificación con nombre propio dentro de los ámbitos analizados. RIDASICC opera en COSEFIN-SICA con ministerios de finanzas, planificación, ambiente, emergencias, meteorología y organismos regionales; además, los comités chilenos reúnen niveles nacionales, sectoriales y regionales para resolver nudos de inversión. No se acredita la coordinación por la autoría del seminario, sino por mecanismos de acción y gestión descritos en la región.",
+      "citas": [
+        {"cita": "El RIDASICC ha conformado una amplia red de colaboración para la acción, compuesto por siete Ministerios de Finanzas/Hacienda y tres de Planificación; es co-ejecutado por la CEPAL y la Secretaría Ejecutiva del Consejo de Ministros de Hacienda y Finanzas (SE- COSEFIN) del Sistema de Integración Centroamericana (SICA).", "pagina": 84},
+        {"cita": "Posteriormente, en septiembre de 2022 se instauran los Comités de Seguimiento a la Inversión Pública Regional (CSIPR), a cargo del Delegado Presidencial Regional (designado directamente por el presidente), con apoyo técnico del Secretario Regional Ministerial (SEREMI) de Desarrollo Social y Familia, como instancia técnica de seguimiento e identificación de problemáticas.", "pagina": 65}
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "El texto enumera sectores y actividades concretas —energías renovables, hidrógeno verde, litio, electromovilidad, economía circular, bioeconomía, agua y turismo sostenible— y los vincula en una frase con emisiones, inversión, competitividad y empleo. También relaciona inversión pública con empleo y productividad. No obstante, el vínculo entre cada oportunidad productiva sostenible y empleo, productividad o desigualdad no se desarrolla con el nivel de mecanismos o evidencia requerido para Sí; se trata de una agenda sectorial enunciada en la introducción, no de un desarrollo productivo-laboral completo.",
+      "citas": [
+        {"cita": "Estos sectores se vinculan a la transición energética (energías renovables, hidrógeno verde y litio), electromovilidad, economía circular, bioeconomía (agricultura sostenible recursos genéticos y bioindustrialización), agricultura para la seguridad alimentaria, gestión sostenible del agua y turismo sostenible.", "pagina": 12},
+        {"cita": "Cuando un país decide gastar recursos en construir stock de capital público, se generan réditos en términos de generar empleo y de incrementar la productividad total de los factores.", "pagina": 18}
+      ],
+      "nota": "La enumeración de oportunidades existe y la conexión con empleo/productividad aparece, pero no se desarrolla de manera suficiente y específica para todas las actividades."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "No",
+      "evidencia": "La unidad correcta es el cierre formal del documento, la sección IX, porque las listas de medidas dentro de ponencias, casos nacionales y experiencias de terceros no son recomendaciones propias del cierre. Las conclusiones de las páginas 95-96 impresas sintetizan avances y expresan necesidades generales de fortalecimiento, pero no presentan una lista operativa de acciones con objetos, responsables, plazos o métricas. Por tanto, el documento no ofrece ítems de cierre que puedan pasar el test de concreción.",
+      "citas": [
+        {"cita": "Finalmente, las presentaciones y discusiones dieron cuenta de la necesidad de continuar fortaleciendo las capacidades de los equipos técnicos encargados de la formación y evaluación de proyectos de inversión pública para asegurar que esta se convierta efectivamente en un motor de desarrollo sostenible.", "pagina": 98}
+      ],
+      "desglose_items": [],
+      "tally": "0 de 0 ítems pasan el test de concreción",
+      "nota": "No hay lista operativa propia en la sección de cierre; el No se debe a la naturaleza de memoria de seminario y no a ausencia de medidas en las ponencias."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {"numero": 11, "nombre": "Capacidades del Estado", "certeza": "Alta"},
+    "transformacion_secundaria": {"numero": 6, "nombre": "Sostenibilidad ambiental", "certeza": "Alta"},
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la contradicción entre brechas de infraestructura, restricciones fiscales y baja eficiencia, por un lado, y la necesidad de que las inversiones sean sostenibles, resilientes y compatibles con la acción climática, por otro. No trata el clima como único objeto sectorial: organiza una memoria de experiencias sobre cómo las instituciones públicas deben cambiar sus reglas, métodos, información y capacidades para que la inversión produzca ese resultado.",
+      "filtro_categoria_primaria": "La transformación principal es la arquitectura y capacidad de los sistemas de inversión pública: el texto estudia SNIP, reglas, metodologías, seguimiento, comités, plataformas, PMO, BIM y formación, y el capítulo final pide fortalecer equipos técnicos y operativos. Sostenibilidad ambiental es el objetivo y restricción que orienta esa arquitectura, pero funciona como instrumento de transformación de la gestión pública; por eso se descarta #6 como primaria y se asigna #11.",
+      "secundaria_obligatoria": "#6 Sostenibilidad ambiental cumple la función de finalidad sustantiva y criterio de decisión: introduce adaptación, mitigación, precio social del carbono, riesgo climático, resiliencia, soluciones basadas en la naturaleza y escenarios en la priorización y evaluación. No es un adorno temático, porque modifica qué proyectos se seleccionan, cómo se valoran sus externalidades y qué información deben usar los SNIP.",
+      "justificacion_anti_copia": "La clasificación se ancla en rasgos propios del documento: la Red SNIP como espacio regional de intercambio; la secuencia metodológica de cinco pasos para priorizar adaptación; los Comités de Seguimiento chilenos y el CSI peruano como mecanismos de gestión; y RIDASICC como red COSEFIN-SICA con más de 500 servidores capacitados, plataforma SIG y módulo de inversión. La presencia de BIM, FISLAC y el Modelo de los 5 Casos refuerza que el texto trata de capacidades operativas, datos y herramientas estatales antes que de una política ambiental aislada.",
+      "validacion_anclas": "La clasificación se aproxima al ancla #19, Panorama de la Gestión Pública 2023: un Estado preparado para la acción climática, porque en ambos casos la acción climática orienta el fortalecimiento de capacidades públicas y no reemplaza el objeto institucional. Se diferencia del ancla #20, Impactos económicos del cambio climático en Colombia, porque aquí no predominan medición de impactos y adaptación sectorial, sino la gobernanza regional de sistemas de inversión, sus instrumentos y su aprendizaje entre pares."
+    },
+    "tipo_documento_climatico": "Memoria técnica de seminario regional sobre gestión de inversión pública con enfoque de sostenibilidad, adaptación y reducción del riesgo de desastres",
+    "nivel_aplicacion": "Regional (América Latina y el Caribe), con experiencias nacionales y subnacionales",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

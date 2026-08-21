@@ -1,0 +1,807 @@
+{
+  "documento": {
+    "num_muestra": 121,
+    "titulo": "Progress in implementation of the Samoa Pathway: Caribbean regional synthesis report",
+    "autoria": "Laverne Walker; Sylvester Clauzel",
+    "handle": "https://hdl.handle.net/11362/68797",
+    "simbolo": "LC/TS.2023/166; LC/CAR/TS.2023/7",
+    "isbn": null,
+    "fecha": "2023",
+    "tipo_documento": "Documento de proyecto o estudio técnico",
+    "paginas_cuerpo": 65,
+    "paginas_totales": 75,
+    "idioma": "en",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cuál es el estado de implementación de la Samoa Pathway en los pequeños Estados insulares en desarrollo del Caribe entre 2014 y 2023, cuáles son sus brechas y desafíos, y qué prioridades deberían considerarse para la Cuarta Conferencia Internacional sobre los PEID?",
+    "alcance": {
+      "ambito_aplicacion": "Los 29 pequeños Estados insulares y Estados bajos del Caribe, incluidos los países y territorios insulares, Guyana, Suriname y Belize.",
+      "referentes_dependencias": "Samoa Pathway, Barbados Programme of Action, Mauritius Strategy, Agenda 2030, Sendai Framework, Acuerdo de París, organismos de las Naciones Unidas y socios regionales.",
+      "sectorial": "Desarrollo sostenible de los PEID: crecimiento, turismo, consumo y producción, educación, clima, energía, desastres, océanos, biodiversidad, salud, protección social, alianzas, financiamiento, tecnología y datos.",
+      "temporal": "Implementación de la Samoa Pathway 2014–2023; prioridades emergentes y preparación para la conferencia de 2024."
+    },
+    "hallazgos_principales": [
+      "El Caribe registra avances desiguales: el mejor desempeño cuantitativo corresponde a tecnología, con 51,2% de países progresando, mientras persisten grandes vacíos de datos (p.26).",
+      "En clima y energía, solo 36,1% de los países progresó en energía sostenible y no había datos para ningún país sobre cambio climático y transporte sostenible (p.26).",
+      "La dependencia de combustibles importados es estructural: nueve de 11 países con datos generaban más de 80% de su electricidad con combustibles importados (p.31).",
+      "La coordinación y el monitoreo siguen limitados: 67% de encuestados señaló la ausencia de un proceso o mecanismo interinstitucional de coordinación (p.52).",
+      "La revisión identifica como prioridades futuras la acción climática, energía sostenible, financiamiento, salud, seguridad alimentaria, océanos y juventud, junto con transformación digital, educación, tecnología y datos (p.61)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La Samoa Pathway produjo avances puntuales, pero no una implementación sostenida y transversal, porque la insuficiencia de datos, financiamiento, capacidades y coordinación impide convertir políticas sectoriales en resultados regionales.",
+        "La vulnerabilidad climática, la dependencia energética y la exposición a desastres se combinan con endeudamiento y estrecho espacio fiscal, de modo que la resiliencia y el desarrollo sostenible requieren reformas institucionales y financieras simultáneas.",
+        "La agenda posterior a 2024 debe concentrarse en prioridades que conecten acción climática, energía, océanos, financiamiento, capacidades públicas y protección social con la transformación productiva del Caribe."
+      ],
+      "recomendaciones": [
+        "Fortalecer sistemas nacionales de datos, coordinación, evaluación y capacidades técnicas; modernizar legislación estadística y asegurar financiamiento para oficinas estadísticas.",
+        "Explorar financiamiento combinado, créditos de carbono, bonos azules y verdes, asociaciones público-privadas, fondos nacionales y una arquitectura financiera internacional sensible a la vulnerabilidad de los PEID.",
+        "Revisitar y operacionalizar el Caribbean SIDS Mechanism for Sustainable Development, establecer mecanismos de intercambio y cooperación, y conectar monitoreo nacional, regional e interregional.",
+        "Acelerar la transición energética limpia, la planificación de largo plazo, la resiliencia ante desastres, la gestión oceánica y la diversificación productiva sostenible."
+      ],
+      "nota": "Las recomendaciones corresponden al cierre normativo del informe y se distinguen de los hallazgos descriptivos."
+    },
+    "resumen_narrativo": "El informe revisa la implementación de la Samoa Pathway en los PEID del Caribe entre 2014 y 2023 mediante indicadores cuantitativos, revisión de políticas y una encuesta a 19 países y territorios. Encuentra avances especialmente visibles en tecnología, pero también que no existen datos nacionales para evaluar cambio climático y transporte sostenible, mientras nueve de 11 países con información dependen en más de 80% de combustibles importados para generar electricidad. El diagnóstico vincula esa fragilidad con deuda, desastres, déficit de coordinación y capacidades estadísticas, y propone prioridades para 2024 que combinan transición energética, acción climática, financiamiento, océanos, protección social y diversificación productiva."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introduction",
+      "nivel": 1,
+      "paginas": "15-16",
+      "resumen": "La introducción fija el propósito institucional del informe: apoyar la reunión preparatoria caribeña de 2023 para la Cuarta Conferencia sobre los PEID. Define el periodo 2014–2023, orienta la identificación de brechas, desafíos y prioridades emergentes, y anticipa la combinación de indicadores cuantitativos y cualitativos con recomendaciones nacionales, subregionales, interregionales, internacionales y del sistema de las Naciones Unidas.",
+      "dimensiones": [],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Caribbean Region Overview",
+      "nivel": 1,
+      "paginas": "17-20",
+      "resumen": "El capítulo caracteriza el ámbito caribeño: 29 pequeños Estados insulares y Estados bajos, 44,3 millones de habitantes y economías dependientes de turismo, agricultura, manufactura ligera y extracción. Muestra cómo fragilidad ambiental, escasez de agua, huracanes, inundaciones, deslizamientos, sequías y Sargassum agravan vulnerabilidades, mientras deuda, bajo crecimiento, desigualdad y limitada capacidad institucional restringen el desarrollo.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Caribbean SIDS —due to their size and geographical location — are characterized by fragile natural environments; fresh-water scarcity; exposure to natural disasters (earthquakes and volcanic eruptions); and threats associated with the effects of climate change",
+          "pagina": 17
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "II. The SIDS Sustainable Development Process: from Barbados to Samoa",
+      "nivel": 1,
+      "paginas": "21-22",
+      "resumen": "El capítulo reconstruye la trayectoria normativa desde Barbados y Mauritius hasta Samoa. Explica que cada programa amplió prioridades ambientales, productivas, sociales y de cooperación, pero que la implementación caribeña quedó frenada por recursos impredecibles, déficits institucionales, débil integración en la planificación y falta de indicadores; la Agenda 2030 terminó compitiendo con el seguimiento específico de Samoa.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "the third international conference on small island developing states, held in 2014 in apia, samoa, saw the adoption of the sids accelerated modalities of action pathway which recognized the need for continued support and investments to sids to achieve sustainable development (un, 2014).",
+          "pagina": 22
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "III. Findings and analysis",
+      "nivel": 1,
+      "paginas": "23-50",
+      "resumen": "Este capítulo constituye el núcleo empírico: combina el marco de monitoreo, indicadores de crecimiento anual, revisión de políticas y una encuesta a gobiernos caribeños. Organiza los resultados en cinco áreas temáticas y muestra avances fragmentarios, datos ausentes y la necesidad de mayor compromiso, recursos y apoyo internacional; las subsecciones detallan los sectores y mecanismos que explican ese patrón.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Methodology and limitations",
+          "nivel": 2,
+          "paginas": "23-24",
+          "resumen": "La metodología combina indicadores de los ODS, Sendai, Addis Ababa y París con revisión documental y aportes de agencias de Naciones Unidas y organizaciones regionales. Clasifica cada serie como progresando, estancada, regresando, con datos insuficientes o sin datos; la encuesta a 19 de 27 SIDS aporta evidencia cualitativa, pero los vacíos de datos impiden medir muchos conglomerados.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Quantitative analysis of Samoa Pathway progress",
+          "nivel": 2,
+          "paginas": "24-27",
+          "resumen": "La lectura cuantitativa encuentra resultados mixtos: el área de alianzas es la de mayor progreso, mientras turismo, seguridad alimentaria y biodiversidad muestran retrocesos o estancamiento. En energía sostenible progresó 36,1% de países y en tecnología 51,2%, pero el cambio climático carece de datos para todos los países; el capítulo concluye que mejorar monitoreo y evaluación es condición para orientar políticas.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "quantitative analysis of samoa pathway progress the caribbean has shown mixed results where progress as a subregion in the implementation of the samoa pathway is concerned.",
+              "pagina": 24
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Findings per cluster for Thematic Area 1: promote sustained and sustainable, inclusive and equitable economic growth, with decent work for all, sustainable consumption and production and sustainable transportation",
+          "nivel": 2,
+          "paginas": "27-29",
+          "resumen": "El bloque examina crecimiento inclusivo, turismo, consumo y producción sostenibles y educación. Muestra la alta exposición económica del Caribe al turismo y el desplome de llegadas durante COVID-19, pero también instrumentos como el CSTPDF, turismo comunitario, economía circular y formación TVET; los hijos desagregan impactos, políticas y oportunidades sectoriales.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Sustainable tourism",
+              "nivel": 3,
+              "paginas": "27-28",
+              "resumen": "La sección demuestra que el turismo es un motor económico y laboral, pero también una fuente de dependencia: antes de la pandemia Bahamas recibía unos 6,5 millones de visitantes y las llegadas stayover cayeron 73%. Identifica avances mediante el Caribbean Sustainable Tourism Policy and Development Framework y programas de turismo comunitario de OECS, Saint Lucia, Barbados, Dominica, Jamaica y Belize para diversificar productos, resiliencia e ingresos locales.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "the direct contribution of the travel and tourism sector to gdp exceeds 10 per cent in more than half of the caribbean economies (eclac 2022d).",
+                  "pagina": 27
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Sustainable consumption and production",
+              "nivel": 3,
+              "paginas": "28-29",
+              "resumen": "La sección vincula erradicación de pobreza, patrones de consumo y producción, y gestión de residuos. Registra que la iniciativa de SCP para PEID de 2014 avanzó poco por falta de recursos, pero que ministros ambientales impulsaron prevención de residuos, producción sostenible y economía circular, además de un proyecto GEF para un centro caribeño de transferencia de conocimiento sobre economía verde-azul.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "however little progress was recorded with this initiative, possibly because it was was never fully resourced.",
+                  "pagina": 28,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Education",
+              "nivel": 3,
+              "paginas": "29-29",
+              "resumen": "La sección analiza cómo la pandemia profundizó desigualdades educativas, conectividad y preparación docente, afectando a casi 12 millones de estudiantes. Destaca respuestas de República Dominicana, UNESCO y UNESCO-UNEVOC para evaluación, TVET resiliente y con perspectiva de género, alfabetización digital y educación para el desarrollo sostenible; la educación cumple una función de capacidad laboral y adaptación futura.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "as the lead agency for esd, unesco coordinates the implementation of the global action programme (gap) on esd, which w as launched in 2014.",
+                  "pagina": 29
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "D. Findings per cluster for thematic area 2: act to mitigate climate change and adapt to its impacts by implementing sustainable energy and disaster risk reduction programmes",
+          "nivel": 2,
+          "paginas": "30-33",
+          "resumen": "El bloque concentra la evidencia climática del informe: impactos observados y proyectados, energía importada y cara, y desastres con pérdidas fiscales y sociales. Contrasta brechas de adaptación, regulación y datos con mecanismos en implementación como CCCCC, GCF, sieCARICOM, IRRPs, CCRIF, COAST y estrategias nacionales de reducción de riesgos.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Climate change",
+              "nivel": 3,
+              "paginas": "30-30",
+              "resumen": "La sección documenta días y noches más calientes, sequías, lluvias, inundaciones, aumento del nivel del mar y 22 SIDS afectados por huracanes de categoría 4 o 5 en 2017. Vincula los impactos con vulnerabilidad comunitaria y necesidad de políticas y programas de resiliencia; describe la acción de CCCCC, GCF, Barbados, CDB, FAO y UN Women, incluidos más de 260 millones de dólares movilizados por CCCCC.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "The impacts of climate change are becoming more evident in the Caribbean subregion with more observed very hot days and nights in a year, increased incidences of drought, rainfall and flood events, as well as rising sea levels",
+                  "pagina": 30
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Sustainable energy",
+              "nivel": 3,
+              "paginas": "30-31",
+              "resumen": "La sección explica que la transición energética está bloqueada por financiamiento, regulación, monopolios, costos iniciales y riesgo para inversionistas. Nueve de 11 países con datos generan más de 80% de electricidad con combustibles importados; como respuesta, se presentan la estrategia regional de eficiencia, sieCARICOM, BIEE, CCREEE e IRRPs para planificar recursos fósiles y renovables.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Disaster risk reduction",
+              "nivel": 3,
+              "paginas": "32-33",
+              "resumen": "La sección cuantifica daños de Irma, Maria, Dorian, el terremoto de Haití, Grace y La Soufrière, mostrando cómo los desastres desvían recursos de desarrollo a recuperación. Evalúa estrategias nacionales con el marco Sendai, encuentra coherencia solo parcial entre desarrollo, adaptación y reducción de riesgos, y presenta CCRIF, COAST, CDEMA y una hoja de ruta de inversión como instrumentos de resiliencia.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Hurricane Maria was estimated to have caused $1.3 billion in damage to the island of Dominica or 224 per cent of its GDP.",
+                  "pagina": 32
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "E. Findings per cluster for thematic Area 3: protect the biodiversity and environmental health of small island developing States by mitigating the impact of invasive species and by properly managing chemicals and water, including hazardous waste, and protecting the oceans and seas",
+          "nivel": 2,
+          "paginas": "34-37",
+          "resumen": "El bloque examina océanos, residuos y químicos, biodiversidad e invasoras como componentes de salud ambiental y economía insular. Presenta instrumentos regionales y nacionales —Cartagena Convention, SPAW, políticas pesqueras, Zero Waste, OECS Biodiversity Framework, BIOREACH, BIOFIN, Caribbean IAS Network— y muestra que conservación, medios de vida y resiliencia climática permanecen interdependientes.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Oceans and seas",
+              "nivel": 3,
+              "paginas": "34-35",
+              "resumen": "La sección muestra la dependencia de comunidades costeras respecto de pesca y turismo y las presiones de degradación, contaminación, pesca insostenible, Sargassum, calentamiento y acidificación. Describe la Cartagena Convention, estrategias de nutrientes y basura marina, áreas protegidas SPAW, capacitación pesquera, planes de adaptación y la Caribbean Community Common Fisheries Policy como mecanismos regionales.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "The influx of pelagic sargassum has been negatively impacting the subregion’s tourism and fisheries sectors.",
+                  "pagina": 34
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Management of chemicals and waste, including hazardous waste",
+              "nivel": 3,
+              "paginas": "35-35",
+              "resumen": "La sección conecta gestión de residuos y químicos con salud pública, crecimiento y bienestar. Detalla el piloto REPLAST OECS, Zero Waste in the Caribbean, el centro regional de Basilea y OzonAction; los instrumentos combinan recolección, reciclaje, marcos legislativos, tecnologías de recuperación, reducción de HFC y capacitación de funcionarios nacionales.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "This initiative is expected to strengthen national legislative frameworks and establish a regional policy structure to support Caribbean-wide action.",
+                  "pagina": 35
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Biodiversity",
+              "nivel": 3,
+              "paginas": "36-36",
+              "resumen": "La sección caracteriza al Caribe como hotspot de biodiversidad con 11.000 especies vegetales y amenazas de sobreexplotación, destrucción de hábitat, desarrollo y cambio climático. Presenta el marco de biodiversidad de OECS, BioSPACE, BIOREACH en Trinidad y Tobago y BIOFIN en Cuba, vinculando restauración, agricultura, medios de vida rurales, finanzas y contabilidad ambiental.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "the subregion’s biodiversity faces many threats, including over -exploitation of biological resources; habitat destruction and fragment ation; urban tourism and industrial/commercial development; predation and competition by invasive species; and climate change (canari, 2019).",
+                  "pagina": 36
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Invasive alien species",
+              "nivel": 3,
+              "paginas": "36-37",
+              "resumen": "La sección presenta las especies invasoras como amenaza ecológica y económica asociada a fronteras abiertas, importaciones, viajes y eventos extremos. Explica que la Caribbean Invasive Alien Species Network funciona como hub para compartir estrategias y buenas prácticas, mientras OECS produjo una estrategia y plan de acción 2016–2025 para apoyar la implementación subregional.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "F. Findings per cluster for Thematic Area 4: improve human health and social development through food security and nutrition and improved water and sanitation and by reducing the incidence of non-communicable diseases and promoting gender equity and women’s empowerment",
+          "nivel": 2,
+          "paginas": "37-42",
+          "resumen": "El bloque aborda seguridad alimentaria, agua, salud, género y comunidades seguras. Los resultados muestran inseguridad alimentaria, obesidad, vulnerabilidad hídrica, sistemas sanitarios frágiles, desigualdad de género y violencia; las subsecciones combinan datos de impacto con respuestas de FAO, CARDI, RSAP, CReW+, CCH IV, políticas de género y mecanismos CARICOM.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Food security and nutrition",
+              "nivel": 3,
+              "paginas": "37-38",
+              "resumen": "La sección documenta inseguridad alimentaria agravada por pandemia, guerra y dependencia de importaciones: 82,5% de la población haitiana sufrió inseguridad moderada o severa y 52% del Caribe no pudo costear una dieta saludable en 2020. Como respuesta, FAO y CARDI impulsan cadenas de valor agrícolas resilientes al clima, producción de ginger, soursop, miel, vegetales, seamoss y tilapia, y CARICOM fijó una reducción de 25% de importaciones.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "The increased cost of foods, particularly more nutritious foods, left 52 per cent of the population in the Caribbean unable to afford healthy diets in 2020.",
+                  "pagina": 37
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Water and sanitation",
+              "nivel": 3,
+              "paginas": "38-39",
+              "resumen": "La sección evalúa WASH como determinante sanitario y económico, pero muestra que sequías vinculadas al clima, erupciones, huracanes y fallas eléctricas amenazan fuentes y plantas. Presenta RSAP e Implementation Plans, CReW+ en 12 SIDS y proyectos CDB e IDB para infraestructura, saneamiento, eficiencia, resiliencia climática y cobertura de servicios.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "The water source in Caribbean SIDS is continually threatened due to increased incidences of drought linked to climate change, and other natural disasters",
+                  "pagina": 38
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Health and non-communicable diseases",
+              "nivel": 3,
+              "paginas": "39-40",
+              "resumen": "La sección examina enfermedades no transmisibles y el deterioro de sistemas sanitarios expuesto por COVID-19. Más de 60% de encuestados señaló fragilidades, el gasto público sanitario quedó bajo 6% del PIB acordado y la vacunación completa llegó a 38% frente a 66% en América Latina; CCH IV y planes de recursos humanos representan cooperación regional.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Gender and women’s empowerment",
+              "nivel": 3,
+              "paginas": "41-41",
+              "resumen": "La sección muestra desempleo femenino, concentración de mujeres en la informalidad y violencia de género, con mayor exposición a shocks y desastres. Cita 148% de aumento de casos reportados en Trinidad y Tobago durante 2020 y tasas de femicidio en Belize, República Dominicana y Guyana; describe políticas nacionales, Caribbean Sheroes y programas de UN Women.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "women in the caribbean have also been found to be disproportionately affected by shocks, such as natural disasters and the covid -19 pandemic.",
+                  "pagina": 41
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Promoting peaceful and safe communities",
+              "nivel": 3,
+              "paginas": "42-43",
+              "resumen": "La sección relaciona violencia, tráfico ilícito, desempleo juvenil y seguridad. Describe el papel de CARICOM IMPACS, la Firearms Roadmap 2030 y el simposio regional de 2023, y destaca que 90% de víctimas de delitos mortales en 2020 eran hombres jóvenes; la respuesta propuesta articula seguridad, empleo y salud pública.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "G. Findings per cluster for Thematic Area 5: fostering partnerships among small island developing States, United Nations agencies, development partners and others to achieve the goals",
+          "nivel": 2,
+          "paginas": "43-50",
+          "resumen": "El bloque estudia alianzas, financiamiento, capacidades, tecnología, datos y apoyo institucional. Registra experiencias positivas y negativas de cooperación, deuda y acceso financiero, capacidades insuficientes, digitalización fragmentaria, sistemas estadísticos débiles y falta de un mecanismo regional activo; sus hijos identifican instrumentos y plataformas concretas.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Partnerships",
+              "nivel": 3,
+              "paginas": "43-43",
+              "resumen": "La sección analiza alianzas como medio de implementación y distingue arreglos formales internacionales de mecanismos informales. Solo 42% de encuestados reportó experiencia positiva y otro 42% negativa; se presentan el SIDS Partnership Framework, un mecanismo tripartito de gobierno, empresas y sindicatos, el marco de cooperación multinacional y la coordinación CARICOM–PAHO–CARPHA–OECS durante COVID-19.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Financing",
+              "nivel": 3,
+              "paginas": "43-45",
+              "resumen": "La sección identifica acceso caro y restringido a financiamiento como impedimento principal: más de 60% de encuestados lo señaló y 61% atribuyó la barrera a clasificaciones de ingreso. Contrasta deuda y vulnerabilidad con bonos azules, bonos verdes, créditos de carbono, asociaciones público-privadas, seguros paramétricos, fondos ambientales nacionales y microfinanciamiento para adaptación y mitigación.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "this growing debt situation compounded by finance access restrictions are among the se veral factors hindering the successful implementation of the samoa pathway.",
+                  "pagina": 44
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Capacity building",
+              "nivel": 3,
+              "paginas": "45-46",
+              "resumen": "La sección encuentra restricciones persistentes de capacidad, apoyo técnico corto y altos costos de transacción. Presenta asistencia técnica, transferencia de conocimientos, movilización financiera, el OECS Data for Decision Making project, cooperación técnica horizontal y el University Consortium of Small Island States, cuya revitalización busca ampliar membresía y lanzar un plan estratégico.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Technology",
+              "nivel": 3,
+              "paginas": "46-47",
+              "resumen": "La sección evalúa ciencia, tecnología e innovación como habilitadores de desarrollo sostenible, pero detecta ministerios y políticas STI en pocos países, baja inversión en I+D y una brecha digital multidimensional. Solo dos de 13 países tenían ministerios STI y 37% de encuestados vio la digitalización estadística como obstáculo; se reclama dirección estratégica e inclusión digital.",
+              "dimensiones": [],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Data and statistics",
+              "nivel": 3,
+              "paginas": "47-48",
+              "resumen": "La sección muestra que sistemas estadísticos subfinanciados, legislación obsoleta, falta de personal y tecnología limitan la evaluación de la Samoa Pathway. Más de 40% señaló marcos legislativos desactualizados y 58% capacidades humanas y financieras limitadas; ECLAC, CARICOM, OECS, CDEMA, WFP y UNDRR apoyan indicadores climáticos, GeoCRIS y planes estadísticos.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "Countries acknowledged that there was a need to introduce new technologies and to digitize the National Statistical Offices.",
+                  "pagina": 47,
+                  "subtipo_brecha": "prospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "6. Institutional support for SIDS",
+              "nivel": 3,
+              "paginas": "48-50",
+              "resumen": "La sección concluye que persisten casi diez años después las brechas de financiamiento, resiliencia, coordinación y rendición de cuentas. El examen JIU propuso nueve recomendaciones, pero falta un marco de seguimiento; el Caribbean SIDS Mechanism for Sustainable Development, renombrado desde el RCM, tiene mandato ampliado para monitorear y apoyar la implementación, aunque permanece inactivo por falta de recursos.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "50 despite such efforts, the absence of a follow -up framework and accountability system related to the recommendations outlined under the jiu makes it difficult to assess whether the recommendations have been fully incorporated.",
+                  "pagina": 48,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Monitoring and evaluation",
+      "nivel": 1,
+      "paginas": "51-52",
+      "resumen": "El capítulo examina los factores institucionales que impiden monitorear la agenda: ausencia de coordinación interinstitucional, financiamiento dedicado, integración de actores no gubernamentales, datos y un marco común. Las subsecciones conectan el déficit histórico de gobernanza con el marco de indicadores creado en 2021 y revisado en 2023.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Inter-agency coordination: deficits in the coordinating mechanisms",
+          "nivel": 2,
+          "paginas": "51-52",
+          "resumen": "La sección demuestra que el déficit de coordinación regional persiste desde 1995. Aunque existe el Caribbean SIDS Mechanism for Sustainable Development y una red nacional de puntos focales, 67% de encuestados reporta ausencia de proceso o mecanismo interinstitucional; la fragmentación ministerial y la débil comunicación con DESA y OHRLLS obstaculizan el monitoreo.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Monitoring framework for Samoa Pathway",
+          "nivel": 2,
+          "paginas": "52-52",
+          "resumen": "La sección explica que Samoa no tuvo inicialmente marco de monitoreo y que la Asamblea General pidió objetivos e indicadores complementarios a ODS y Sendai. Aunque el marco se desarrolló en 2021 y revisó en 2023, 27,8% aún identifica la ausencia de un marco general con metas e indicadores claros; persisten déficit de capacidades y participación civil.",
+          "dimensiones": [],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "V. Recommendations for addressing identified gaps and challenges",
+      "nivel": 1,
+      "paginas": "53-56",
+      "resumen": "El capítulo convierte el diagnóstico en recomendaciones diferenciadas por escala. Propone colaboración nacional y participación local, capacidades y datos, financiamiento innovador, mecanismos subregionales, cooperación entre SIDS, plataformas de reporte, reforma financiera internacional, transferencia tecnológica y mejor coordinación del sistema de Naciones Unidas; las subsecciones son la unidad normativa completa para valorar concreción.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. National",
+          "nivel": 2,
+          "paginas": "53-54",
+          "resumen": "Las recomendaciones nacionales piden comités de coordinación, relaciones igualitarias con sociedad civil y participación de comunidades. También especifican integrar sistemas sociales y ambientales en estadísticas, perfiles de vulnerabilidad, TVET, digitalización y datos; recomiendan financiar oficinas estadísticas, modernizar legislación, usar bonos y créditos de carbono, y formular planes TIC inclusivos con revisión, reporte, privacidad y ciberseguridad.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Caribbean SIDS should continue exploring opportunities for innovative financing through blended finance, the establishment of carbon credit agreements, debt conversion initiatives such as blue and green bonds and public private partnerships.",
+              "pagina": 54
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Subregional",
+          "nivel": 2,
+          "paginas": "54-55",
+          "resumen": "El nivel subregional propone revisar el Caribbean SIDS Mechanism for Sustainable Development, crear intercambio de información entre socios y nuevas modalidades CARICOM–OECS, y ampliar reportes de implementación. También plantea vehículos regionales de inversión, un banco climático caribeño y el Caribbean Resilience Fund para combinar alivio de deuda, liquidez y financiamiento de adaptación y transformación económica.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "The aim is for BGIC to become a major institution for financing climate action in the region.",
+              "pagina": 55
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Inter-regional",
+          "nivel": 2,
+          "paginas": "55-55",
+          "resumen": "La sección recomienda cooperación SIDS–SIDS, transferencia de conocimiento y apoyo de capacidades, además de alianzas, acuerdos comerciales, datos compartidos y plataformas consultivas. También pide métricas comunes, un marco de monitoreo conectado a acuerdos globales y grupos nacionales, regionales e interregionales para reportar, intercambiar aprendizajes e identificar necesidades.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. International",
+          "nivel": 2,
+          "paginas": "55-56",
+          "resumen": "El nivel internacional pide plataformas para transferencia tecnológica, rendición de cuentas de compromisos y reforma de instituciones financieras. El informe describe la Bridgetown Initiative con liquidez de emergencia, un billón de dólares de préstamos multilaterales y nuevos fondos climáticos, y recomienda acceso a financiamiento concesional, MVI, Loss and Damage Fund y SDG Stimulus.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "54 liquidity to abate the debt crisis; expanding multilateral lending to governments by $1 trillion; and activiating private sector savings for climate mitigation and fund reconstruction after a climate disaster through new fund mechanisms .54 in may 2o23, a 2.0 version of the bridgetown initiative was defined and it proposes six priority actions to support the reform of ifis.",
+              "pagina": 56
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. UN System",
+          "nivel": 2,
+          "paginas": "56-56",
+          "resumen": "La sección recomienda vincular el seguimiento de la Agenda 2030 con un marco general de monitoreo y rendición de cuentas para la contribución del sistema de Naciones Unidas. Pide reportes centrales y estandarizados, interacción institucionalizada con representantes SIDS y AOSIS, menor costo transaccional de asistencia técnica y coordinación para evitar duplicaciones.",
+          "dimensiones": [],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "VI. Emerging issues",
+      "nivel": 1,
+      "paginas": "57-59",
+      "resumen": "El capítulo presenta prioridades emergentes después de COVID-19 y la guerra de Ucrania: salud, protección social, seguridad, alimentación y diversificación económica. Las subsecciones muestran cómo shocks, informalidad, desigualdad, endeudamiento y desastres climáticos requieren políticas sectoriales y una transformación productiva con tecnología y capacidades.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Strengthening health systems and improving health",
+          "nivel": 2,
+          "paginas": "57-57",
+          "resumen": "La sección interpreta la pandemia como evidencia de debilidad estructural de los sistemas de salud, con deuda, poco gasto per cápita, escasez de personal y desigualdad de acceso. Propone marcos institucionales y legales, infraestructura, cobertura universal, protección social, cooperación intergubernamental y atención a salud mental y enfermedades no transmisibles.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Investing in social protection systems",
+          "nivel": 2,
+          "paginas": "57-58",
+          "resumen": "La sección presenta la protección social como amortiguador de shocks, inversión en productividad y soporte para salud y educación. Identifica población informal sin seguro ni desempleo y resume cuatro líneas concretas: actualizar datos de pobreza, programas de inclusión económica, modernización institucional y fortalecimiento del seguro social y del mercado laboral.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Security",
+          "nivel": 2,
+          "paginas": "58-58",
+          "resumen": "La sección propone una respuesta integral a violencia y exclusión: protección social, programas juveniles con oportunidades educativas y laborales, prioridad de gobierno y sociedad completos, recursos para organismos de seguridad y aplicación de la declaración CARICOM sobre crimen y violencia como asunto de salud pública.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Food security and nutrition",
+          "nivel": 2,
+          "paginas": "58-58",
+          "resumen": "La sección atribuye el aumento de inseguridad alimentaria a pandemia, guerra, precios y transporte. Recomienda apoyar agricultura de pequeña escala y alimentos nutritivos, ampliar alimentación escolar, aplicar incentivos de precios, sensibilización y etiquetado frontal; la intervención combina producción, consumo, nutrición y protección social.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Promote economic diversification",
+          "nivel": 2,
+          "paginas": "58-59",
+          "resumen": "La sección propone una política industrial para aumentar competitividad, productividad y diversificación mediante tecnología y fuerza laboral calificada. Enumera energía, movilidad eléctrica, economía circular, bioeconomía, manufactura de cuidados, transformación digital, cuidados, turismo sostenible, MIPYMES y economía social y solidaria, como respuesta a shocks, informalidad, desigualdad y desastres climáticos.",
+          "dimensiones": [
+            {
+              "dimension": "oportunidades",
+              "cita": "Caribbean SIDS may wish to consider the development of an industrial policy designed to increase international competitiveness through economic diversification resulting in increased productivity - through the use of new and improved technology and a knowledgeable and skilled workforce (ECLAC 2022a).",
+              "pagina": 58
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "VII. Identification of priorities for the Fourth International Conference on SIDS",
+      "nivel": 1,
+      "paginas": "61-65",
+      "resumen": "El capítulo sintetiza prioridades para el próximo programa de acción: clima y desastres, energía, finanzas, salud, alimentación, océanos, juventud y, en segundo nivel, digitalización, educación, tecnología, SCP, residuos, turismo, biodiversidad, comercio y datos. Cada subsección traduce esas prioridades en líneas de acción, instrumentos y capacidades para el Caribe.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Introduction",
+          "nivel": 2,
+          "paginas": "61-61",
+          "resumen": "La introducción del capítulo final organiza las prioridades identificadas por países caribeños y distingue intervenciones centrales de áreas secundarias. Acción climática, gestión de desastres, energía sostenible, financiamiento, salud, alimentos, océanos y juventud constituyen el núcleo; tecnología, educación, biodiversidad, turismo y datos completan la agenda.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "The priorities included the following: climate action (inclusive of disaster risk management); sustainable energy; access to financing; health care; food nutrition and security; ocean governance and the blue economy; and youth.",
+              "pagina": 61
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Managing debt and increasing access to finance",
+          "nivel": 2,
+          "paginas": "62-62",
+          "resumen": "La sección plantea una arquitectura de deuda que reduzca vulnerabilidad y libere espacio fiscal para sectores productivos, sociales y adaptación climática. Detalla reestructuración, índice multidimensional de vulnerabilidad, cláusulas ante desastres, recapitalización de bancos multilaterales y acceso simplificado al fondo de pérdidas y daños mediante la Bridgetown Initiative.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "criteria for access to concessional financing should be based on a multi -dimensional vulnerability index rather than just gross national income (gni) per capita.",
+              "pagina": 62
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Climate action and resilience to disaster vulnerabilities",
+          "nivel": 2,
+          "paginas": "62-62",
+          "resumen": "La sección vincula calentamiento, pérdida de biodiversidad, aumento del nivel del mar, blanqueamiento coralino y eventos extremos con la necesidad de adaptación y resiliencia. Identifica Early Warning for All y su plan ejecutivo como iniciativa concreta hasta 2027, y recomienda participación en financiamiento climático, Loss and Damage Fund y Adaptation Fund.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "climate action and resilience to disaster vulnerabilities ever-increasing global temperatures with associated impacts on biodiversity, sea -level rise, coral bleaching and associated coastal threats, not to mention increases in the frequency and intensity of tropical weather systems are well documented.",
+              "pagina": 62
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Sustainable energy transition",
+          "nivel": 2,
+          "paginas": "63-63",
+          "resumen": "La sección explica que combustibles importados elevan costos productivos y turísticos: la electricidad representa 30–50% de costos operativos hoteleros y la refrigeración 50–60% de ese monto. Recomienda planificar transición hacia renovables autóctonas, actualizar tecnologías, reducir riesgos de inversión, fortalecer marcos legales y regular tarifas de alimentación y distribución.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Disaster risk management",
+          "nivel": 2,
+          "paginas": "63-63",
+          "resumen": "La sección presenta seguros paramétricos e innovación tecnológica como respuestas a vulnerabilidades de desastres y financiamiento. Aunque no fue prioridad mayoritaria de encuestados, al menos cuatro recomendaron inversión tecnológica para gestión del riesgo y resiliencia en todos los sectores; el argumento conecta incertidumbre planetaria, transiciones y división social.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "At least four respondents highly recommended that Governments invest in technological innovation to deal with disaster risk management and resilience building in all sectors.",
+              "pagina": 63
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "F. Oceans, marine resource utilization and the blue economy",
+          "nivel": 2,
+          "paginas": "63-64",
+          "resumen": "La sección trata el océano como sustento tradicional y oportunidad de diversificación. Recomienda planes espaciales marinos, maricultura y transporte marítimo, y menciona prospección mineral, recursos genéticos y proyectos de economía azul; simultáneamente advierte sobre riesgos para recursos costeros y 1,3 millones de toneladas de plástico introducidas en 2015.",
+          "dimensiones": [
+            {
+              "dimension": "oportunidades",
+              "cita": "However increasingly Caribbean governments are looking to the oceans as a source of economic diversification.",
+              "pagina": 63
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "G. Education",
+          "nivel": 2,
+          "paginas": "64-64",
+          "resumen": "La sección recomienda examinar evaluaciones por competencias, reconfigurar currículos, introducir STEM temprano, ampliar formación técnica y profesional y desarrollar capacidades docentes. El objetivo es superar desigualdades, abandonar el enfoque uniforme y crear una fuerza laboral calificada para una economía cambiante.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "H. Youth empowerment",
+          "nivel": 2,
+          "paginas": "64-65",
+          "resumen": "La sección prioriza juventud ante desempleo y riesgo socioeconómico. Propone programas de consejería familiar y capacitación comunitaria, reconocer actores sociales, y combinar medidas inmediatas con políticas de largo plazo para mejorar aprendizaje, formación, habilidades y opciones laborales de jóvenes en riesgo.",
+          "dimensiones": [],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "I. Technology and Innovation",
+      "nivel": 1,
+      "paginas": "65-65",
+      "resumen": "La sección final pide inversión y un entorno institucional para tecnología e innovación, con legislación para STI, alianzas de investigación, cooperación Sur-Sur, apoyo de diáspora y transferencia tecnológica. Frente a la falta de políticas nacionales de inteligencia artificial, propone involucrar a gobiernos, empresas y sociedad civil en estrategias, regulación, leyes, currículo y un Caribbean AI Policy Roadmap de seis principios.",
+      "dimensiones": [],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El informe reúne instrumentos concretos de energía, resiliencia, financiamiento, océanos y diversificación, pero no formula un paquete coordinado de inversión y políticas a escala de transformación del modelo; predominan recomendaciones distribuidas por niveles y sectores.",
+      "citas": [
+        {
+          "cita": "Caribbean SIDS should continue exploring opportunities for innovative financing through blended finance, the establishment of carbon credit agreements, debt conversion initiatives such as blue and green bonds and public private partnerships.",
+          "pagina": 54
+        },
+        {
+          "cita": "Caribbean SIDS may wish to consider the development of an industrial policy designed to increase international competitiveness through economic diversification resulting in increased productivity - through the use of new and improved technology and a knowledgeable and skilled workforce (ECLAC 2022a).",
+          "pagina": 58
+        }
+      ],
+      "nota": "Hay sectores estratégicos y eficiencias ambiental, productiva y laboral, pero falta un paquete simultáneo propio y coordinado; por eso no alcanza Sí."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El documento identifica mecanismos de gobernanza y planificación dentro del Caribe que articulan gobiernos, organismos regionales, socios y comunidades, en particular el Caribbean SIDS Mechanism for Sustainable Development y la cooperación CARICOM–PAHO–CARPHA–OECS. No se acredita la coordinación de autoría del informe, sino mecanismos de acción y monitoreo regionales.",
+      "citas": [
+        {
+          "cita": "considering this, resolution 104 (xxviii) of the 28 meeting of the cdcc approved the renaming of the rcm to the caribbean sids mechanism for sustainable development and agreed to an exp anded mandate of the subregional mechanism to focus on monitoring and supporting sustainable development implementation in the caribbean sids.",
+          "pagina": 49
+        },
+        {
+          "cita": "the response by caribbean governments to the covid -19 pandemic demonstrated the value of solidarity in enhancing and building of healthcare capacity thanks to cooper ation between governments, caricom, paho, carpha, and the oecs commission.",
+          "pagina": 43
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Sí",
+      "evidencia": "El informe enumera sectores y actividades concretas —energía renovable, movilidad eléctrica, economía circular, bioeconomía, turismo sostenible, economía de cuidados, economía azul, maricultura y MIPYMES— y desarrolla sus vínculos con productividad, empleo, costos, competitividad, medios de vida y diversificación. La transición energética se conecta explícitamente con el desempeño económico del turismo y la manufactura.",
+      "citas": [
+        {
+          "cita": "Sustainable energy transitions from high cost imported fossil fuels to indigenous sources of renewable energy is therefore inherently connected to improved economic performance of these sectors and reduction in foreign debt.",
+          "pagina": 63
+        },
+        {
+          "cita": "this project is working to promote biodiversity conservation, restore degra ded lands, and improve livelihoods of rural communities in targeted productive landscapes (agriculture, forestry, and other land uses).",
+          "pagina": 36
+        }
+      ],
+      "nota": null
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "La sección de recomendaciones contiene acciones con objetos identificables —sistemas estadísticos, perfiles de vulnerabilidad, TVET, bonos, fondos, mecanismos regionales, plataformas de reporte, transferencia tecnológica y reformas financieras—. La mayoría de los ítems normativos pasa el test de verbo más instrumento u objeto ejecutable.",
+      "citas": [
+        {
+          "cita": "on the question of capacity development support for data collection and management , increased funding is required for national statistical offices.",
+          "pagina": 54
+        },
+        {
+          "cita": "national, regional and interregional sids major consultative groups and platforms should also be established to support annual reporting processes .",
+          "pagina": 55
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Crear mecanismos nacionales de coordinación y promover relaciones participativas con comunidades y sociedad civil.",
+          "clasificacion": "CONCRETO",
+          "pagina": 53
+        },
+        {
+          "item": "Integrar sistemas sociales y ambientales y capacidades en los Sistemas Estadísticos Nacionales.",
+          "clasificacion": "CONCRETO",
+          "pagina": 54
+        },
+        {
+          "item": "Desarrollar perfiles nacionales de vulnerabilidad y resiliencia.",
+          "clasificacion": "CONCRETO",
+          "pagina": 54
+        },
+        {
+          "item": "Promover TVET en habilidades relevantes para el mercado laboral.",
+          "clasificacion": "CONCRETO",
+          "pagina": 54
+        },
+        {
+          "item": "Digitalizar y transformar digitalmente sistemas y servicios públicos.",
+          "clasificacion": "CONCRETO",
+          "pagina": 54
+        },
+        {
+          "item": "Reestructurar y mejorar sistemas nacionales de recolección y gestión de datos.",
+          "clasificacion": "CONCRETO",
+          "pagina": 54
+        },
+        {
+          "item": "Explorar financiamiento combinado, créditos de carbono, bonos azules y verdes y asociaciones público-privadas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 54
+        },
+        {
+          "item": "Revisitar el Caribbean SIDS Mechanism for Sustainable Development para monitoreo e implementación.",
+          "clasificacion": "CONCRETO",
+          "pagina": 54
+        },
+        {
+          "item": "Establecer plataformas consultivas SIDS nacionales, regionales e interregionales para reportes anuales.",
+          "clasificacion": "CONCRETO",
+          "pagina": 55
+        }
+      ],
+      "tally": "9 de 9 ítems pasan el test de concreción",
+      "nota": null
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la tensión entre la vulnerabilidad multidimensional de los PEID caribeños y la capacidad limitada de sus instituciones, finanzas, datos y mecanismos de coordinación para ejecutar compromisos de desarrollo sostenible. La acción climática y la transición energética son urgentes, pero el informe muestra que sin monitoreo, gobernanza regional, financiamiento y capacidades estadísticas no pueden convertirse en resultados sostenidos.",
+      "filtro_categoria_primaria": "La transformación principal es la arquitectura de implementación pública: el objeto del informe es evaluar y mejorar monitoreo, coordinación, financiamiento, datos y capacidades para la Samoa Pathway. Sostenibilidad ambiental es la finalidad y un campo sectorial central, pero funciona como contenido y restricción de las capacidades estatales; por eso se descarta #6 como primaria.",
+      "secundaria_obligatoria": "#6 Sostenibilidad ambiental cumple la función de finalidad sustantiva y campo de aplicación: clima, energía, desastres, océanos, biodiversidad, residuos y resiliencia organizan varias recomendaciones, pero se habilitan mediante instituciones, planes, indicadores y financiamiento.",
+      "justificacion_anti_copia": "La clasificación se apoya en rasgos propios: evaluación de 109 indicadores y cinco categorías de progreso; encuesta a 19 SIDS frente a vacíos de datos; déficit de coordinación del Caribbean SIDS Mechanism; dependencia de combustibles importados; y recomendaciones sobre oficinas estadísticas, marcos de monitoreo, bancos climáticos, fondos, IRRPs y Early Warning for All.",
+      "validacion_anclas": "Se aproxima al ancla #19, Panorama de la Gestión Pública 2023, porque ambos ponen capacidades públicas y coordinación en el centro con acción climática como finalidad. Se diferencia del ancla #20 de impactos económicos de Colombia: aquí el objeto no es medir impactos y adaptar sectores, sino construir la arquitectura regional de implementación de la Samoa Pathway; por ello #11/#6 es la combinación más consistente."
+    },
+    "tipo_documento_climatico": "Síntesis regional de implementación de desarrollo sostenible de PEID con bloque climático y ambiental sustantivo.",
+    "nivel_aplicacion": "Regional/subregional: Caribe, con recomendaciones nacionales, subregionales, interregionales, internacionales y para el sistema de Naciones Unidas.",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

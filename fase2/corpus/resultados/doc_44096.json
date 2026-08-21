@@ -1,0 +1,342 @@
+{
+  "documento": {
+    "num_muestra": 74,
+    "titulo": "Efectos del cambio climático en la costa de América Latina y el Caribe: metodologías y herramientas para la evaluación de impactos de la inundación y la erosión por efecto del cambio climático",
+    "autoria": "Adrián Acevedo, Paula Camus, Pedro Díaz-Simal, Antonio Espejo, Melisa Menéndez, Pelayo Menéndez, Marta Ramírez, Alexandra Toimil, Saúl Torres, María Emilia Maza y María Fuentes",
+    "handle": "https://hdl.handle.net/11362/44096",
+    "simbolo": "LC/TS.2018/70",
+    "isbn": null,
+    "fecha": "2018",
+    "tipo_documento": "Documento de proyecto o estudio técnico",
+    "paginas_cuerpo": 50,
+    "paginas_totales": 58,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cuáles son las metodologías y herramientas más adecuadas para la evaluación regional y multisectorial de los riesgos de inundación y erosión costera inducidos por el cambio climático en América Latina y el Caribe?",
+    "alcance": {
+      "ambito_aplicacion": "América Latina y el Caribe",
+      "referentes_dependencias": "España (Principado de Asturias), Cuba",
+      "sectorial": "Multisectorial (población, vivienda, industria, infraestructuras, agricultura y ecosistemas)",
+      "temporal": "Corto, medio y largo plazo (horizontes 2050 y 2100)"
+    },
+    "hallazgos_principales": [
+      "El aumento del nivel medio del mar (ANMM) es la mayor amenaza para los sistemas costeros, intensificando los daños por inundación y erosión a lo largo del siglo XXI (p. 11).",
+      "La peligrosidad costera depende de la combinación de marea meteorológica, marea astronómica, oleaje (remonte) y ANMM (p. 25).",
+      "Las metodologías probabilísticas son fundamentales para cuantificar la incertidumbre acumulada desde los escenarios de emisiones hasta los modelos de impacto (p. 17).",
+      "A escala regional, se requiere una alta resolución espacial (MDT de 5 metros) para una toma de decisiones efectiva en la gestión del territorio (p. 27).",
+      "La vulnerabilidad de las playas se ve afectada por el 'estrés costero', donde la erosión se encuentra con estructuras rígidas e inmóviles, causando pérdida de valor recreativo y ecológico (p. 39)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "Es imperativo pasar de enfoques deterministas a marcos probabilísticos que permitan una cuantificación robusta de la incertidumbre en la gestión de riesgos costeros (p. 12).",
+        "La evaluación multisectorial integrada es clave para identificar áreas críticas y priorizar inversiones de adaptación (p. 35).",
+        "El modelado de erosión debe incluir efectos de largo plazo (ANMM) y corto plazo (tormentas), así como la recuperación entre eventos y la influencia de estuarios (p. 40)."
+      ],
+      "recomendaciones": [
+        "Implementar el marco propuesto de análisis de riesgos multinivel que integra peligrosidad, exposición y vulnerabilidad (p. 13).",
+        "Utilizar modelos hidráulicos 2D eficientes y formulaciones semiempíricas para el modelado de inundación a escala regional (p. 30).",
+        "Aplicar técnicas bayesianas para agregar consecuencias multisectoriales en un índice de valor en riesgo que asista en la toma de decisiones (p. 35).",
+        "Desarrollar proyecciones locales de oleaje y marea meteorológica, en lugar de depender únicamente de proyecciones globales, para estudios de detalle (p. 31)."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "Este estudio presenta una propuesta metodológica integral y de alta resolución para evaluar los riesgos de inundación y erosión costera en América Latina y el Caribe. A través de un enfoque probabilístico, el documento detalla cómo combinar dinámicas marinas de alta resolución, modelos digitales de terreno de 5 metros y funciones de daño sectoriales para cuantificar las consecuencias socioeconómicas del cambio climático. Aplicando casos de estudio en el Caribe y España, se propone un índice de valor en riesgo basado en técnicas bayesianas para priorizar la inversión en adaptación costera frente al aumento del nivel del mar y eventos extremos."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "10-12",
+      "resumen": "Presenta el objetivo del documento de revisar el estado del conocimiento sobre metodologías de evaluación de riesgos costeros. Define el riesgo como la combinación de peligrosidad, exposición y vulnerabilidad siguiendo el marco del IPCC. Destaca la importancia de los análisis probabilísticos para abordar la incertidumbre en escenarios de largo plazo y la necesidad de integrar múltiples sectores socioeconómicos en la gestión regional.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "La metodología clásica aplicada al análisis de riesgos meteorológicos extremos ha derivado en un marco conceptual generalizado (IPCC, 2014), basado en la combinación de la peligrosidad, la exposición y la vulnerabilidad.",
+          "pagina": 11
+        },
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "El incremento de la inundación y la erosión por efecto del cambio climático, principalmente como consecuencia del aumento del nivel medio del mar (ANMM), se encuentra entre las mayores amenazas a las que se ven sometidos los sistemas costeros y zonas bajas de todo el mundo",
+          "pagina": 11
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "En consecuencia, se espera que los daños se intensifiquen a lo largo del siglo, a medida que el ANMM, el desarrollo socioeconómico y la redefinición de la política territorial aumenten la población, los bienes y los flujos de actividad en la franja costera",
+          "pagina": 11
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Marco integrado para el análisis de los riesgos del cambio climático en la costa",
+      "nivel": 1,
+      "paginas": "14-22",
+      "resumen": "Desarrolla el marco conceptual para la evaluación de riesgos en zonas costeras, caracterizado por ser multiamenaza, multiimpacto y multisectorial. El capítulo mapea los componentes del riesgo, los sistemas costeros involucrados (naturales y humanos) y las fuentes de incertidumbre en el modelado de impactos climáticos.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Los sistemas costeros, impactos y sectores estratégicos",
+          "nivel": 2,
+          "paginas": "15-16",
+          "resumen": "Conceptualiza los sistemas costeros como la interacción entre componentes naturales (playas, ecosistemas) y humanos (infraestructura, actividades económicas como el turismo). Identifica sectores estratégicos como población, agricultura y servicios ecosistémicos que deben ser analizados de forma holística.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "De acuerdo con Wong y otros (2014), los sistemas costeros se conceptualizan como naturales y humanos (véase el diagrama 2). Mientras que los naturales se refieren a ecosistemas costeros como costas rocosas, playas, humedales y praderas marinas, arrecifes de coral, acuíferos, estuarios y lagunas y deltas, los sistemas humanos incluyen el medio construido",
+              "pagina": 15
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Los componentes del riesgo",
+          "nivel": 2,
+          "paginas": "17-18",
+          "resumen": "Analiza la peligrosidad, exposición y vulnerabilidad. Explica que la peligrosidad histórica se basa en datos instrumentales y de reanálisis, mientras que la futura depende de escenarios RCP y técnicas de downscaling estadístico o dinámico para proyectar dinámicas como el oleaje y el ANMM.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Los escenarios de cambio climático son un aspecto fundamental en la evaluación de los riesgos del cambio climático. El aumento de los gases de efecto invernadero (GEI) en la atmósfera produce cambios en el sistema climático en una serie de escalas temporales que afectan al medio físico de la costa.",
+              "pagina": 17
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. La estrategia para modelar impactos",
+          "nivel": 2,
+          "paginas": "19-20",
+          "resumen": "Detalla los criterios para elegir modelos de impacto, incluyendo la escala del estudio (global, regional, local), la disponibilidad de datos topobatimétricos y el tipo de análisis (forense o probabilístico). Resalta que la resolución del MDT es decisiva para la calidad de los resultados.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "Uno de los principales retos a los que nos enfrentamos cuando analizamos los riesgos del cambio climático es la elección de la estrategia más apropiada para modelar el impacto considerado.",
+              "pagina": 19
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. La evaluación del riesgo y las consecuencias",
+          "nivel": 2,
+          "paginas": "20-22",
+          "resumen": "Distingue entre riesgo (probabilístico, pérdidas anuales esperadas) y consecuencias (deterministas, asociadas a eventos individuales). Aboga por la transición hacia marcos probabilísticos para una cuantificación robusta de la incertidumbre en la toma de decisiones.",
+          "dimensiones": [
+            {
+              "dimension": "oportunidades",
+              "cita": "Los análisis probabilísticos buscan abordar todos los posibles eventos y sus probabilidades, proporcionando las bases para la toma de decisiones basada en riesgos y permitiendo una cuantificación robusta de la incertidumbre",
+              "pagina": 21
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "II. Análisis de la inundación costera",
+      "nivel": 1,
+      "paginas": "26-36",
+      "resumen": "Presenta metodologías para modelar la inundación costera, evaluando las estrategias numéricas existentes y proponiendo un enfoque multisectorial de alta resolución. Incluye la aplicación de funciones de daño y la integración de resultados mediante técnicas bayesianas para priorizar la adaptación.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Modelado del impacto",
+          "nivel": 2,
+          "paginas": "26-28",
+          "resumen": "Define la cota de inundación como la suma de la marea meteorológica, marea astronómica, remonte del oleaje y ANMM. Compara estrategias para diferentes escalas, señalando que la estrategia B2 (fórmulas semiempíricas para contorno y modelo 2D para inundación) es eficiente para análisis regionales.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "La inundación costera depende esencialmente de la marea meteorológica (MM), la marea astronómica (MA), el oleaje en forma de remonte (Ru) y el aumento del nivel medio del mar (ANMM). Estas variables se combinan, dando lugar a la llamada cota de inundación (CI)",
+              "pagina": 26
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Propuesta metodológica para un análisis multisectorial de las consecuencias del riesgo de inundación costera a escala regional y con alta resolución",
+          "nivel": 2,
+          "paginas": "29-36",
+          "resumen": "Desarrolla una propuesta metodológica para la evaluación multisectorial de la inundación a escala regional, combinando información climática de alta resolución y datos locales de exposición. El flujo de trabajo abarca seis fases críticas: caracterización de la peligrosidad histórica y futura mediante proyecciones locales de oleaje y ANMM; definición de la exposición en sectores estratégicos como población, vivienda e industria con una resolución espacial de 5 metros; asignación de vulnerabilidad a través de curvas de daño específicas para activos y pérdida de actividad; modelado hidráulico 2D eficiente sensible a la rugosidad de Manning; estimación de consecuencias cruzando mapas de inundación con datos socioeconómicos; y, finalmente, la agregación bayesiana de riesgos. Este último paso permite obtener un índice multilineal de 'valor en riesgo' que facilita la priorización de inversiones en adaptación frente a diversos escenarios RCP.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Se propone una metodología para el análisis multisectorial de las consecuencias de la inundación costera inducida por el cambio climático a escala regional. Esta metodología responde al marco integrado de análisis de riesgos descrito en la sección II.E.1 de este documento",
+              "pagina": 29
+            },
+            {
+              "dimension": "oportunidades",
+              "cita": "La agregación de las consecuencias multisectoriales del riesgo de inundación permite tener una visión holística de toda la región e identificar aquellas zonas que requieren acción más urgente.",
+              "pagina": 36
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "III. Análisis de la erosión costera",
+      "nivel": 1,
+      "paginas": "38-51",
+      "resumen": "Aborda la erosión costera inducida por el cambio climático, revisando modelos de evolución de la línea de costa y proponiendo una metodología para evaluar el riesgo de pérdida de valor recreativo en las playas. Destaca la necesidad de considerar la recuperación post-tormenta y la influencia de estuarios en el retroceso.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Modelado del impacto",
+          "nivel": 2,
+          "paginas": "38-40",
+          "resumen": "Analiza los procesos erosivos transversales y longitudinales. Revisa la Regla de Bruun y sus limitaciones, mencionando modelos más complejos como PCR que integran el efecto de las tormentas y el ANMM. Señala que el estudio de la erosión regional está menos desarrollado que el de inundación.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "Hasta el 70% de las playas de arena de todo el mundo están ya en erosión (Bird, 1985; Hinkel y otros, 2013) y muchas de las que siguen en acreción se estabilizarán o incluso retrocederán",
+              "pagina": 38
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Propuesta metodológica para un análisis sectorial del riesgo de erosión costera a escala regional y con alta resolución",
+          "nivel": 2,
+          "paginas": "41-51",
+          "resumen": "Propone un marco técnico para cuantificar el riesgo de erosión costera regional, centrándose en el impacto sobre los servicios recreativos de las playas. La metodología supera las limitaciones de la Regla de Bruun al emplear un modelo de evolución de línea de costa probabilístico (Miller y Dean modificado) que integra el oleaje, la marea astronómica y meteorológica, y el ANMM. El proceso incluye la generación de miles de series sintéticas (modelo VAR) para evaluar la peligrosidad de forma estocástica, capturando la variabilidad interanual y los eventos extremos de retroceso. La exposición y vulnerabilidad se evalúan mediante una función de producción que capitaliza el valor de la playa basándose en su área, calidad ambiental (agua, arena), servicios disponibles y accesibilidad para los usuarios. Los resultados finales se expresan en términos de pérdida acumulada de valor recreativo y daño total esperado a lo largo del siglo XXI, proporcionando funciones de distribución de probabilidad para horizontes temporales como 2050 y 2100, fundamentales para la ordenación territorial sostenible.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Se propone una metodología para evaluar el riesgo sectorial de la erosión inducida por el cambio climático a escala regional, es decir, en un número elevado de playas. Esta metodología responde al marco integrado de análisis de riesgos descrito en la sección II.E.2 de este documento",
+              "pagina": 41
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "El riesgo de erosión se evalúa sobre el servicio recreativo que ofrecen las playas y, para ello, se opta por la aplicación de un método basado en la función de producción.",
+              "pagina": 41
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "No",
+      "evidencia": "Chequeo negativo contra los tres tests del Gran Impulso Ambiental: el documento desarrolla metodolog?as y herramientas para evaluar riesgos costeros, pero no propone un paquete coordinado de inversiones o pol?ticas simult?neas a escala de transformaci?n. La infraestructura, el turismo y los ecosistemas se analizan como sistemas expuestos al riesgo, no como sectores productivos con instrumentos de transformaci?n; tampoco articula eficiencias schumpeteriana, keynesiana y ambiental. Sus modelos, mapas e ?ndices acreditan el criterio de c?mo hacerlo concreto, no un Gran Impulso.",
+      "citas": [
+        {
+          "cita": "Esta metodología responde al marco integrado de análisis de riesgos descrito en la sección II.E.1 de este documento y representado en forma de diagrama de flujo en el diagrama 6.",
+          "pagina": 29
+        }
+      ],
+      "nota": "El No es por dise?o: estudio t?cnico-metodol?gico de evaluaci?n de inundaci?n y erosi?n costera. La concreci?n de sus herramientas no equivale a un portafolio coordinado de inversi?n o transformaci?n productiva."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "Propone un mecanismo concreto de articulación mediante una comisión de actores interesados de diferentes niveles de gobernanza para la asignación de pesos en la integración del riesgo (p. 35). Este mecanismo permite que la toma de decisiones multisectorial sea concertada entre diversos niveles del Estado y otros sectores.",
+      "citas": [
+        {
+          "cita": "El último paso consiste en asignar un peso a cada sector, lo que permite agregar los valores en riesgo sectoriales en un único índice multilineal. Para la asignación de pesos es recomendable recurrir a una comisión de actores interesados de diferentes niveles de gobernanza o a criterio experto.",
+          "pagina": 36
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "El documento no enumera sectores como oportunidades productivas para el empleo o la productividad en el marco de la transición, sino como activos en riesgo. El enfoque es de gestión de desastres y costos de inacción, no de identificación de nuevos motores económicos sostenibles o creación de empleo verde.",
+      "citas": [],
+      "nota": "El chequeo negativo confirma que el documento se centra en la valoración de pérdidas del stock de capital y valor recreativo, sin desarrollar el vínculo con la creación de oportunidades productivas o reducción de desigualdad económica mediante la acción climática."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "La mayoría de los ítems de la propuesta metodológica (8 de 10) pasan el test de concreción, ya que nombran instrumentos específicos (modelos 2D, funciones de daño, técnicas bayesianas, modelos VAR) y entregables (mapas de inundación, índices de valor en riesgo).",
+      "citas": [
+        {
+          "cita": "Propuesta metodológica para un análisis multisectorial de las consecuencias del riesgo de inundación costera a escala regional y con alta resolución",
+          "pagina": 29
+        },
+        {
+          "cita": "Propuesta metodológica para un análisis sectorial del riesgo de erosión costera a escala regional y con alta resolución",
+          "pagina": 41
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Modelado de peligrosidad futura mediante downscaling estadístico con múltiples GCM",
+          "clasificacion": "CONCRETO",
+          "pagina": 31
+        },
+        {
+          "item": "Uso de Modelo Digital de Terreno (MDT) de 5 metros para caracterización de exposición",
+          "clasificacion": "CONCRETO",
+          "pagina": 32
+        },
+        {
+          "item": "Aplicación de curvas de daño específicas (HAZUS adaptado) para vulnerabilidad económica",
+          "clasificacion": "CONCRETO",
+          "pagina": 32
+        },
+        {
+          "item": "Modelado hidráulico 2D eficiente para propagación de inundación en tierra",
+          "clasificacion": "CONCRETO",
+          "pagina": 32
+        },
+        {
+          "item": "Integración de consecuencias mediante aproximación bayesiana e índice multilineal",
+          "clasificacion": "CONCRETO",
+          "pagina": 36
+        },
+        {
+          "item": "Generación de series sintéticas multivariadas de oleaje y marea con modelo VAR",
+          "clasificacion": "CONCRETO",
+          "pagina": 42
+        },
+        {
+          "item": "Modelado de evolución de línea de costa de equilibrio (Miller y Dean modificado)",
+          "clasificacion": "CONCRETO",
+          "pagina": 43
+        },
+        {
+          "item": "Valoración económica del uso recreativo de playas mediante función de producción",
+          "clasificacion": "CONCRETO",
+          "pagina": 48
+        },
+        {
+          "item": "Establecer políticas globales de reducción de riesgos",
+          "clasificacion": "GENERICO",
+          "pagina": 19
+        },
+        {
+          "item": "Elaboración de planes de gestión y toma de decisiones",
+          "clasificacion": "GENERICO",
+          "pagina": 11
+        }
+      ],
+      "tally": "8 de 10 ítems pasan el test de concreción",
+      "nota": null
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento aborda la contradicción entre la necesidad de desarrollo costero/turismo y los crecientes riesgos climáticos de inundación y erosión, que amenazan la integridad de los sistemas naturales y socioeconómicos.",
+      "filtro_categoria_primaria": "La categoría primaria es #11 Capacidades del Estado porque el hilo estructural es el desarrollo de un marco metodológico, herramientas técnicas y arquitectura de decisión para que el Estado pueda gobernar el riesgo costero.",
+      "secundaria_obligatoria": "La secundaria es #6 Sostenibilidad ambiental porque el objeto analítico y el estrés sobre el que se aplican las capacidades es el cambio climático y sus impactos en el entorno físico de la costa.",
+      "justificacion_anti_copia": "Propone un marco probabilístico de análisis de riesgos multinivel que utiliza MDT de 5 metros, proyecciones locales de oleaje mediante downscaling estadístico y una integración bayesiana multisectorial para priorizar la inversión en adaptación costera.",
+      "validacion_anclas": "Se alinea con el ancla del Doc08 (Reflexiones sobre la gestión del agua) donde la arquitectura institucional domina sobre el recurso, y con el Doc19 (Panorama de la Gestión Pública) donde se miden y proponen capacidades públicas orientadas a la acción climática."
+    },
+    "tipo_documento_climatico": "Documento de proyecto o estudio técnico",
+    "nivel_aplicacion": "Regional",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

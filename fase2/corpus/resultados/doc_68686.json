@@ -1,0 +1,1214 @@
+{
+  "documento": {
+    "num_muestra": 68686,
+    "titulo": "Información climática disponible y recomendaciones para su uso en la inversión pública en los países del COSEFIN/SICA",
+    "autoria": "Jaime Olivares; Santa Paola Centeno; Verónica Quiroz; Edwin Castellanos",
+    "handle": "https://hdl.handle.net/11362/68686",
+    "simbolo": "LC/MEX/TS.2023/39",
+    "isbn": null,
+    "fecha": "2023",
+    "tipo_documento": "Documento técnico / estudio aplicado del proyecto RIDASICC",
+    "paginas_cuerpo": 136,
+    "paginas_totales": 152,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Qué información climática histórica y qué escenarios, modelos y fuentes son más adecuados para incorporar la reducción del riesgo de desastres y la adaptación sostenible e incluyente al cambio climático en la formulación y evaluación de proyectos de inversión pública del COSEFIN/SICA?",
+    "alcance": {
+      "ambito_aplicacion": "Regional: países del COSEFIN/SICA —Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panamá y República Dominicana—, con aplicación en los sistemas nacionales de inversión pública, plataformas SIG, módulos de inversión y proyectos de infraestructura.",
+      "referentes_dependencias": "IPCC, OMM, CEPAL/CAC-SICA, Copernicus/ECMWF, CRU, Worldclim, CHIRPS, CCAFS-Climate, AEMET, Banco Mundial, universidades y servicios meteorológicos nacionales; se examinan instrumentos de México como referencia técnica, sin trasladar su alcance institucional al COSEFIN/SICA.",
+      "sectorial": "Información meteorológica, climática y de escenarios para infraestructura pública, con énfasis explícito en infraestructura vial, agua potable y saneamiento; también considera agricultura, energía, salud, ecosistemas, ciudades y reducción del riesgo de desastres.",
+      "temporal": "Series históricas principalmente desde 1850, 1901 o 1950 según la base; observaciones nacionales hasta 2022; escenarios y períodos futuros hasta 2099/2100; publicación y revisión técnica de 2023."
+    },
+    "hallazgos_principales": [
+      "La evidencia regional muestra un aumento sostenido de la temperatura en todos los países, con mayores incrementos en El Salvador, Guatemala, Honduras y Nicaragua; en 2020 las anomalías fueron 1,36 °C, 1,19 °C, 1,12 °C y 0,98 °C, respectivamente, respecto de 1961-1990 (p.40).",
+      "La precipitación anual presenta gran variabilidad y no una tendencia regional de largo plazo; la década 2011-2020 fue más seca que la anterior en varios países y la canícula se adelantó en Guatemala y Honduras (p.42-44).",
+      "La oferta nacional de estaciones es útil pero desigual: persisten insuficiencia, problemas de mantenimiento, almacenamiento, calidad, georreferenciación y acceso restringido; las climatologías internacionales complementan los vacíos (p.82).",
+      "ERA5 y CHIRPS ofrecen, respectivamente, reanálisis de temperatura y precipitación con resoluciones aproximadas de 27,8 km y 5,6 km, acceso libre y utilidad para construir referencias y corregir sesgos (p.83-84).",
+      "El visor regional del CRRH/Centro Clima ofrece escenarios regionalizados, 37 indicadores, resolución de hasta 5,6 km para precipitación y 27,8 km para temperatura, con participación de instituciones meteorológicas nacionales (p.127).",
+      "La selección de escenarios recomendada acota el rango sin eliminar el riesgo: RCP4.5 y RCP8.5 para CMIP5, y SSP2-4.5 y SSP5-8.5 para CMIP6; para el visor se recomienda el promedio de análogos de 16 modelos (p.137-139).",
+      "Los países del SICA presentan exposición y vulnerabilidad diferenciadas: el índice de riesgo climático 2000-2019 ubica a Guatemala, El Salvador, Nicaragua, Honduras y República Dominicana entre los países con posiciones de mayor riesgo de la tabla regional (p.51), y se registraron aproximadamente 476 eventos extremos entre 1930 y 2022, 65% desde 2000 (p.55)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La información climática es un insumo necesario para identificar amenazas, estimar impactos sobre activos y servicios y diseñar infraestructura pública adaptada; no basta una fuente única porque las estaciones nacionales tienen coberturas, calidad y accesibilidad desiguales.",
+        "Para una aplicación regional interoperable, la combinación de fuentes históricas nacionales con ERA5 y CHIRPS, y de escenarios del visor CRRH/Centro Clima, ofrece la mejor relación entre reconocimiento institucional, resolución, actualización y acceso.",
+        "Los escenarios deben tratarse como rangos de tendencias y magnitudes relativas, no como predicciones exactas; la elección de modelos, la corrección de sesgo, el ensamble y la vida útil de la infraestructura son parte del análisis de adaptación."
+      ],
+      "recomendaciones": [
+        "Priorizar fuentes reconocidas por los institutos meteorológicos nacionales, preferir bases regionales sostenibles y exigir escalas adecuadas para la ubicación de los proyectos (p.138).",
+        "Integrar el visor de escenarios de Centro Clima del CRRH a la plataforma SIG de RIDASICC y combinarlo con ERA5 para temperatura y CHIRPS para precipitación (p.136-138).",
+        "Integrar datos nacionales mediante acuerdos entre las instituciones meteorológicas y los Sistemas Nacionales de Inversión Pública; usar RCP4.5/RCP8.5 o SSP2-4.5/SSP5-8.5, el promedio de 16 modelos análogos y períodos que cubran la vida útil de cada infraestructura (p.139).",
+        "Fortalecer la capacitación de técnicos y oficiales de inversión para interpretar incertidumbre, sesgos, rangos y limitaciones de las fuentes y modelos (p.139)."
+      ],
+      "nota": "Las recomendaciones son del cierre técnico del estudio y están dirigidas al proyecto RIDASICC, a los institutos meteorológicos y a las instituciones responsables de los sistemas nacionales de inversión pública."
+    },
+    "resumen_narrativo": "El estudio revisa la información climática histórica y futura que pueden usar los países del COSEFIN/SICA para integrar RRD-ASICC en proyectos de inversión pública. Encuentra una oferta nacional de estaciones heterogénea y propone complementarla con ERA5 y CHIRPS, mientras recomienda el visor regional CRRH/Centro Clima por su validación institucional, 37 indicadores y resolución de hasta 5,6 km para precipitación. Para evitar una selección inmanejable, propone trabajar con RCP4.5/RCP8.5 o SSP2-4.5/SSP5-8.5 y con el promedio de 16 modelos análogos, ajustando los períodos a la vida útil de la infraestructura. El cierre vincula estas decisiones de datos y modelos con acuerdos entre instituciones meteorológicas, SNIP, plataformas SIG y capacitación de usuarios."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "25-34",
+      "resumen": "La introducción sitúa el problema en la exposición de los países del COSEFIN/SICA a eventos extremos y cambio climático, y explica por qué la información de tiempo, clima y escenarios es necesaria para la inversión pública. Vincula la variabilidad climática con agricultura, generación hidroeléctrica, infraestructura, agua, salud y ecosistemas, y distingue tiempo meteorológico, clima y cambio climático. Presenta el objetivo de RIDASICC: integrar RRD y ASICC en el ciclo de los proyectos mediante capacitación, guías, pilotos, plataformas SIG y módulos de inversión. El análisis conceptual conecta amenazas con daños físicos, alteraciones de oferta y demanda, interrupciones de servicios y pérdidas de bienestar, y ejemplifica el uso de información climática en infraestructura vial.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "En este contexto, el objetivo general del proyecto RIDASICC es contribuir a la reducción de pérdidas y daños causados por desastres y a la respuesta ante la emergencia climática mediante la integración de la RRD y la ASICC en los proyectos de inversión pública, conservando y mejorando los servicios que se brindan a la población de los países miembros del COSEFIN/SICA.",
+              "pagina": 29
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "La región es una de las más expuestas y vulnerables a los efectos adversos de las amenazas asociadas a los eventos extremos y al cambio climático.",
+              "pagina": 26
+            }
+          ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Evidencia del cambio en el clima a nivel global y regional",
+      "nivel": 1,
+      "paginas": "35-56",
+      "resumen": "Este capítulo establece la evidencia física y regional que justifica incorporar clima y escenarios a la inversión pública. Recorre gases de efecto invernadero, temperatura, precipitación, océanos, vulnerabilidad y eventos extremos, y combina IPCC, OMM, CRU, Germanwatch y EM-DAT. Los apartados nacionales muestran diferencias espaciales y estacionales dentro del SICA, pero una señal común de calentamiento, mayor variabilidad de precipitación, riesgos costeros y presión creciente sobre infraestructura y sectores sensibles. El capítulo termina traduciendo esos riesgos a prioridades de adaptación como agua, agricultura, salud, infraestructura y reducción del riesgo de desastres.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Gases de efecto invernadero",
+          "nivel": 2,
+          "paginas": "35-36",
+          "resumen": "El apartado explica que las actividades humanas son la principal causa del calentamiento por encima del nivel preindustrial y cuantifica la acumulación reciente de GEI. Reporta para 2020 promedios de 413,2 ppm de CO₂, 1.889 ppb de CH₄ y 333,2 ppb de N₂O, y para 2021 nuevos máximos de 415,7 ppm, 1.908 ppb y 334,5 ppb. La evidencia se usa para introducir la necesidad de escenarios de emisiones y límites de calentamiento en el análisis de proyectos.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Las actividades humanas son las principales responsables del calentamiento del planeta por encima de los niveles preindustriales (1850-1900).",
+              "pagina": 35
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "En 2021, las concentraciones alcanzaron nuevos máximos, con un promedio de 415,7 ppm de CO₂, 1.908 ppb de CH₄ y 334,5 ppb de N₂O (OMM, 2022c).",
+              "pagina": 35
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Temperatura",
+          "nivel": 2,
+          "paginas": "36-40",
+          "resumen": "La sección presenta la señal global y regional de calentamiento a partir de observaciones y conjuntos de datos internacionales. El período 2011-2020 registra un aumento global de 1,09 °C respecto de 1850-1900, mayor sobre tierra que sobre océano, y Centroamérica y el Caribe muestran anomalías positivas en 2021. El bloque desemboca en la evidencia específica del SICA y en la comparación de anomalías por país y década.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Evidencia de cambios en la temperatura en la región del SICA",
+              "nivel": 3,
+              "paginas": "38-40",
+              "resumen": "La evidencia histórica indica un aumento sostenido de la temperatura en todos los países del SICA, con incrementos mayores en El Salvador, Guatemala, Honduras y Nicaragua que en Costa Rica y Panamá. En la década 2011-2020, los aumentos superaron 1 °C en más de un año en El Salvador, Guatemala y Honduras; Guatemala alcanzó una anomalía máxima de 1,36 °C en 2020 y El Salvador de 1,19 °C. El apartado aporta la línea de base regional para evaluar amenazas y cambios futuros en los proyectos.",
+              "dimensiones": [
+                  {
+                    "dimension": "tendencias",
+                    "cita": "La evidencia del cambio en el clima durante el período histórico en la región indica un aumento de la temperatura sostenido en todos los países de la región, con algunas diferencias.",
+                    "pagina": 38
+                  }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Precipitación",
+          "nivel": 2,
+          "paginas": "41-47",
+          "resumen": "El bloque caracteriza la precipitación como una variable con alta variabilidad espacial, estacional y decadal, y advierte que la escala anual puede ocultar cambios intraanuales relevantes para los impactos. Describe el Corredor Seco Centroamericano, la canícula y las diferencias entre vertientes del Caribe y del Pacífico. Los gráficos nacionales de 1901-2022 muestran reducciones recientes y cambios en meses lluviosos, pero no una tendencia uniforme para toda la región.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Evidencia de cambios en la precipitación en la región del SICA",
+              "nivel": 3,
+              "paginas": "42-47",
+              "resumen": "El apartado compara la precipitación acumulada anual, la variabilidad por década y los patrones mensuales en los siete países. La precipitación anual no muestra una tendencia regional de largo plazo, pero 2011-2020 fue más seca que la década anterior en varios países; Guatemala y Honduras adelantaron la canícula y Nicaragua redujo lluvias entre junio y agosto. La lectura nacional evita generalizaciones y muestra por qué los proyectos requieren información localizada y mensual.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "La precipitación acumulada anual en los países tiene una gran variabilidad y no muestra una tendencia a largo plazo. La precipitación acumulada anual muestra reducciones entre 2011 y 2020 con respecto al período anterior, y en algunos casos hay reducciones en las últimas dos o tres décadas (véanse los gráficos 7 al 13).",
+                  "pagina": 42
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "Las variaciones dentro de la región dificultan hacer generalizaciones sobre su clima, pues se requieren acercamientos a escalas de mayor detalle (CEPAL/CAC-SICA, 2020).",
+                  "pagina": 42
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "D. Océanos y nivel del mar",
+          "nivel": 2,
+          "paginas": "48-49",
+          "resumen": "El apartado relaciona calentamiento oceánico, expansión térmica, pérdida de hielo y aumento relativo del nivel del mar con riesgos costeros para Centroamérica. La evidencia del IPCC indica que el aumento continuará y favorecerá inundaciones en áreas bajas, retroceso de costas arenosas y erosión. El resultado es relevante para localizar, diseñar y mantener infraestructura en zonas costeras.",
+          "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "El derretimiento de los polos, junto con el calentamiento del océano, ha provocado un aumento del nivel del mar.",
+                  "pagina": 49
+                }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Índices de riesgo climático y vulnerabilidad",
+          "nivel": 2,
+          "paginas": "50-50",
+          "resumen": "La sección contrasta la evidencia climática con un índice de riesgo climático para los países del SICA. La tabla 2000-2019 registra posiciones de mayor riesgo para Guatemala, El Salvador, Nicaragua, Honduras y República Dominicana, mientras Costa Rica y Panamá aparecen con posiciones más bajas. El índice funciona como señal comparativa de exposición, muertes y pérdidas económicas, no como sustituto del análisis de riesgo específico de cada proyecto.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "El índice global de adaptación de la Universidad de Notre Dame señala que para 2020, con excepción de Costa Rica y Panamá, los países de la región del SICA se encontraban entre los 81 países, de 182, con mayor vulnerabilidad y menor preparación frente al cambio climático, donde el de clasificación más baja es el de menor vulnerabilidad.",
+              "pagina": 50
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "F. Eventos extremos y su agravamiento con el cambio climático",
+          "nivel": 2,
+          "paginas": "51-55",
+          "resumen": "El apartado revisa temperaturas extremas, precipitaciones intensas, inundaciones, sequías, incendios y ciclones, y explica la atribución humana y los límites de la evidencia regional. Para Centroamérica se reportan aumento de temperatura y extremos de calor, mayor aridez y sequía, condiciones propicias para incendios y aumento futuro del nivel del mar. El análisis traduce estas amenazas a planes de recuperación, adaptación y diseño de infraestructura pública.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Riesgos asociados a los fenómenos extremos en Centroamérica",
+              "nivel": 3,
+              "paginas": "54-55",
+              "resumen": "El cierre del capítulo identifica inundaciones como el peligro más mencionado en las contribuciones determinadas a nivel nacional y sitúa agua, agricultura y seguridad alimentaria, salud e infraestructura entre las principales prioridades de adaptación. La base EM-DAT registra aproximadamente 476 eventos extremos entre 1930 y 2022; 65% ocurrieron desde 2000, con predominio de inundaciones y tormentas. El resultado orienta la priorización sectorial de la inversión resiliente.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "El peligro más mencionado para los países de Centroamérica y el Caribe es el de inundaciones, que tienen relación con lluvias extremas en pocos días, que se combinan con otras vulnerabilidades.",
+                  "pagina": 54
+                },
+                {
+              "dimension": "tendencias",
+              "cita": "Los eventos de sequía también se han incrementado en la región.",
+              "pagina": 55
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "II. Criterios de selección de escenarios, modelos y fuentes de información climática para su uso en el marco de proyecto RIDASICC",
+      "nivel": 1,
+      "paginas": "57-60",
+      "resumen": "Este capítulo convierte el problema climático en criterios de selección aplicables a proyectos de inversión pública. Define criterios para instituciones, estaciones, resolución, disponibilidad, series históricas, frecuencia, cobertura y variables, y los extiende a escenarios, modelos, períodos futuros y reducción de escala. Su función es servir de matriz de lectura para las ofertas nacionales, regionales e internacionales descritas en los capítulos III y V.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Criterios de selección de información climática histórica",
+          "nivel": 2,
+          "paginas": "57-58",
+          "resumen": "La selección histórica prioriza instituciones oficiales por veracidad, gobernanza y sostenibilidad, y luego considera fuentes regionales y globales. Exige densidad de estaciones, resolución útil, acceso libre, series largas, frecuencia mensual y diaria, cobertura regional y variables adicionales como evapotranspiración, humedad y viento. El criterio se orienta a caracterizar amenazas locales, extremos y patrones intraanuales en la zona de influencia del proyecto.",
+          "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Por temas de veracidad, gobernanza y sostenibilidad, en el proyecto se ha acudido, como primera instancia, a mapear la información disponible en instituciones oficiales como los institutos de meteorología, ministerios de ambiente o de estadísticas nacionales encargados de estaciones meteorológicas.",
+                  "pagina": 57
+                },
+                {
+                  "dimension": "desafios",
+              "cita": "Las características climáticas pueden cambiar en pocos kilómetros, influidas por la vegetación y la topografía.",
+              "pagina": 57
+                }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Criterios de selección de información de escenarios de cambio climático",
+          "nivel": 2,
+          "paginas": "59-60",
+          "resumen": "Para los escenarios, el capítulo propone aprovechar esfuerzos nacionales y regionales, exigir bases accesibles e integrables a SIG, limitar el número de escenarios a un rango manejable, evaluar modelos contra observaciones y usar ensambles que cubran la variabilidad. También vincula resolución y reducción de escala con impactos locales, pide períodos que cubran la vida útil de la infraestructura y mantiene como variables centrales temperatura y precipitación. El criterio de selección queda conectado con las recomendaciones finales.",
+          "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Para no complejizar la aplicación en la formulación de proyectos de inversión pública, se debe recomendar uno o dos escenarios que representan el rango actualmente considerado de mayor probabilidad de acuerdo con las tendencias de emisiones y concentración de GEI y el análisis de factibilidad de los compromisos hechos en las contribuciones determinadas a nivel nacional (CDN) para reducir globalmente las emisiones.",
+                  "pagina": 59
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "Esta reducción de escala aumenta la incertidumbre de los escenarios de cambio climático, por lo que el análisis de la oferta debe tomar en cuenta las metodologías para reducir la escala y la manera en que se ha tratado esta incertidumbre.",
+                  "pagina": 60
+                }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "III. Oferta de información climática histórica para los países de la región del SICA",
+      "nivel": 1,
+      "paginas": "61-86",
+      "resumen": "El capítulo inventaría la oferta histórica nacional y las climatologías internacionales con atención a responsables, variables, períodos, resolución, acceso y consistencia. La información de estaciones sirve para tendencias locales, validación y corrección de sesgo, pero enfrenta insuficiencia, mantenimiento, calidad, georreferenciación y restricciones de acceso. El bloque regional BDCAC y las bases CRU, HADCRUT5, Worldclim, NOAA GlobalTemp, ERA-5, GISTEMP, JRA-55, Berkeley Earth y CHIRPS se comparan como complementos para proyectos sin estación cercana.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Estaciones meteorológicas por país",
+          "nivel": 2,
+          "paginas": "61-71",
+          "resumen": "El apartado revisa las instituciones nacionales y redes de estaciones de los siete países, sus variables, períodos, frecuencias y condiciones de acceso. La descripción muestra capacidades y vacíos distintos: desde redes densas o históricas hasta datos restringidos, incompletos o disponibles solo mediante solicitud. La subsección finaliza con la BDCAC como infraestructura regional para armonizar datos de estaciones y productos climáticos.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Costa Rica",
+              "nivel": 3,
+              "paginas": "61-62",
+              "resumen": "El IMN coordina las actividades meteorológicas de Costa Rica y administra redes sinópticas, aeronáuticas, climatológicas, agrometeorológicas, hidrometeorológicas y mareográficas. La red descrita cuenta con 245 estaciones —177 automáticas y 68 convencionales—, variables de temperatura, precipitación, humedad, viento y radiación, y registros 1991-2018. La descarga no es abierta y el intercambio requiere convenios o solicitudes, por lo que la fuente es técnicamente amplia pero institucionalmente condicionada.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Cuenta con 245 estaciones meteorológicas (177 estaciones automáticas y 68 estaciones convencionales –mecánicas–).",
+                  "pagina": 62
+                },
+                {
+                  "dimension": "brechas_implementacion",
+              "cita": "Refirieron que la información con que cuenta el Instituto no se puede descargar de su página web y que el intercambio de datos se hace a través de convenios entre el IMN y otras instituciones.",
+                  "pagina": 62,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. El Salvador",
+              "nivel": 3,
+              "paginas": "62-64",
+              "resumen": "La DGOA del MARN aloja la red heredada del SNET, con estaciones sinópticas, climatológicas y pluviométricas y registros desde 1965 o 1971 según la red. Se reportan precipitación, temperatura, humedad, viento, radiación y presión, con acceso parcialmente público y solicitudes formales para la información completa. El ICC añade seis estaciones de alta frecuencia y acceso libre, aunque con una ventana visible de solo tres semanas.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "La información completa tiene una estructura de tarifas, que le da vida al fondo de actividades especiales del Observatorio.",
+                  "pagina": 63,
+                  "subtipo_brecha": "retrospectiva"
+                },
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "En la actualidad, la Gerencia de Meteorología sustituye al Servicio Meteorológico Nacional; es parte de la Dirección General de Observatorio de Amenazas y Recursos Naturales (DGOA) del Ministerio de Medio Ambiente y Recursos Naturales de El Salvador (MARN).",
+                  "pagina": 63
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Guatemala",
+              "nivel": 3,
+              "paginas": "64-66",
+              "resumen": "INSIVUMEH concentra la red principal y dispone de 48 estaciones, con 40 estaciones con más de 30 años y registros de precipitación y temperatura. El ICC aporta 32 estaciones automatizadas de acceso libre y REMA supera 100 estaciones usadas por productores de café. La combinación amplía cobertura y utilidad sectorial, pero las distintas condiciones de registro, consulta y períodos dificultan la integración directa.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Esta información es de utilidad para la planificación y la implementación de estrategias de mitigación y adaptación al cambio climático, para el desarrollo de investigaciones en el sector y el fortalecimiento de monitoreo de plagas y enfermedades que afectan el cultivo.",
+                  "pagina": 65
+                },
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Este Instituto cuenta con una red de 32 estaciones meteorológicas automatizadas en la vertiente del Pacífico de Guatemala.",
+                  "pagina": 65
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Honduras",
+              "nivel": 3,
+              "paginas": "66-67",
+              "resumen": "La DGRH de MiAmbiente+ genera información diaria y alimenta el portal hídrico nacional, mientras CENAOS-COPECO, SANAA, ENEE y CCAFS-Climate aportan redes complementarias. La plataforma Agua de Honduras reúne 52 estaciones con precipitación y 16 con temperatura, y CCAFS-Climate ofrece datos de alrededor de 108 estaciones entre 1981 y 2019. La oferta tiene utilidad para agua y pronóstico, pero combina accesos restringidos y series con distinta calidad y disponibilidad.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "La plataforma fue creada con el apoyo de la Cooperación Internacional, el Fondo de Adaptación y el Centro Internacional de Agricultura Tropical (CIAT).",
+                  "pagina": 66
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "Se tiene una restricción para la divulgación comercial o redistribución sin un permiso escrito por parte del CCAFS-Climate o las instituciones de los datos socias.",
+                  "pagina": 67,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Nicaragua",
+              "nivel": 3,
+              "paginas": "67-69",
+              "resumen": "INETER opera la Red Nacional de Estaciones Meteorológicas y el Banco de Datos Meteorológico, con aproximadamente 16 estaciones principales y 93 telemétricas. Registra precipitación, temperatura del aire y suelo, brillo solar y viento desde 1965, con observación automática cada 15 minutos en las estaciones telemétricas. La información se maneja por intranet o mediante productos de venta, y CCAFS-Climate añade 13 estaciones de 1980-2016 con descarga restringida.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+              "cita": "Los datos están restringidos y se manejan por intranetc.",
+                  "pagina": 68,
+                  "subtipo_brecha": "retrospectiva"
+                },
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "La Red Nacional de Estaciones Meteorológicas recolecta datos horarios y diarios de forma automatizada.",
+                  "pagina": 68
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "6. Panamá",
+              "nivel": 3,
+              "paginas": "69-70",
+              "resumen": "La red hidrometeorológica pasó de ETESA al IMHPA, que gestiona el Banco Nacional de Datos Meteorológicos e Hidrológicos. Se describen 227 estaciones meteorológicas y 90 hidrológicas, con variables de precipitación, temperatura, humedad, presión, viento, radiación, evaporación y suelo. La información histórica puede consultarse en cuadros y publicaciones, pero la descarga directa está limitada y los datos requieren control de calidad y solicitudes institucionales.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "En 2022 entró en funciones el Instituto de Meteorología e Hidrología de Panamá (IMHPA), que tendrá un Banco Nacional de Datos con información filtrada y analizada.",
+                  "pagina": 70
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "7. República Dominicana",
+              "nivel": 3,
+              "paginas": "70-71",
+              "resumen": "ONAMET es el organismo técnico y regulador de la información meteorológica y ofrece valores diarios, mensuales y promedios de temperatura, precipitación, viento, humedad y presión. La red nacional cuenta con 99 estaciones, pero los datos climatológicos se solicitan por correo y tienen costo. El apartado muestra una oferta institucional identificable, aunque con una barrera de acceso que afecta su uso generalizado en proyectos.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "La información tiene costo y debe ser solicitada por correo (asunto, variable, período, localidad o estación de interés) a la Dirección Nacional",
+                  "pagina": 71,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "8. Base de Datos Climáticos de Centroamérica (BDCAC). Centro Clima",
+              "nivel": 3,
+              "paginas": "71-72",
+              "resumen": "La BDCAC es un portal regional administrado por el CRRH y los servicios meteorológicos de Centroamérica y República Dominicana. Integra datos desde 1970 de 164 estaciones, con menos de 5% de datos faltantes, mapas, gráficas y consultas diarias o agrupadas. Su gestión centralizada y posibilidad de convenios permiten producir información regional, pero el acceso requiere autorización de instituciones meteorológicas a través del CRRH.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "La BDCAC está compuesta por una red de 164 estaciones climáticas regionales suministradas por los servicios meteorológicos nacionales.",
+                  "pagina": 71
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Bases de datos climáticos internacionales",
+          "nivel": 2,
+          "paginas": "71-81",
+          "resumen": "El apartado compara climatologías globales georreferenciadas por resolución, período, variables, frecuencia, cobertura, acceso y consistencia. CRU ofrece series largas y actualización; Worldclim alta resolución; ERA-5 reanálisis y API; CHIRPS precipitación de muy alta resolución; las demás bases cubren necesidades específicas de temperatura, reanálisis o extremos. El análisis concluye que las fuentes interpoladas complementan estaciones y permiten construir referencias y corregir sesgos.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Unidad de Investigación del Clima (CRU)",
+              "nivel": 3,
+              "paginas": "72-73",
+              "resumen": "CRU, de la Universidad de East Anglia, se presenta como referencia para anomalías de temperatura y ofrece una serie histórica global desde 1850, con actualizaciones anuales en sus versiones recientes. La base integra estaciones y otras fuentes, tiene resolución aproximada de 55 km y datos abiertos. Su extensión temporal y cobertura centroamericana la hacen útil para climatologías de referencia y seguimiento del cambio climático.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Es referente en la comunidad internacional por su seguimiento de anomalías de temperatura con respecto del período preindustrial (1850-1900), pues cuenta con una serie histórica de temperatura global desde 1850.",
+                  "pagina": 72
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. HADCRUT5",
+              "nivel": 3,
+              "paginas": "73-74",
+              "resumen": "HADCRUT5 comparte rasgos con CRU, pero se concentra en temperatura e incorpora temperatura oceánica desde 1850. El estudio la considera referencia para períodos base de seguimiento del cambio climático y la compara con fuentes que ofrecen mayor resolución o variables adicionales. Su valor principal es la continuidad de la serie y la consistencia para evaluar anomalías históricas.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "HADCRUT es un conjunto de datos cuadriculados en rejillas de anomalías históricas globales de la temperatura del aire cerca de la superficie terrestre y del mar desde el año 1850.",
+                  "pagina": 73
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Worldclim",
+              "nivel": 3,
+              "paginas": "74-75",
+              "resumen": "Worldclim ofrece climatologías de alta resolución, de hasta 1 km, validadas con estaciones y utilizadas como referencia metodológica por otras iniciativas. Aunque no presenta series climáticas continuas, sus períodos base 1960-1990 y 1970-2000 sirven para calcular anomalías en localidades. El estudio lo valora especialmente para proyectos locales donde la escala espacial es determinante.",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Esta fuente de información es un referente para algunos países o fuentes de datos internacionales que bajan la escala de la información de los modelos con escenarios de cambio climático y que, además, la utilizan como una climatología base para calcular las anomalías de temperatura y precipitación de los escenarios.",
+                  "pagina": 75
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. NOAA GlobalTemp",
+              "nivel": 3,
+              "paginas": "76-76",
+              "resumen": "NOAA GlobalTemp combina estaciones terrestres y temperatura superficial del mar para producir anomalías mensuales desde 1880. Su resolución de 5° por 5° es global y los datos son de acceso libre, pero la escala aproximada de 556 km limita su utilidad para proyectos locales. Se presenta como fuente de monitoreo y entrada de modelos, no como sustituto de información de alta resolución.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Esta agencia construyó una base con anomalías mensuales de la temperatura de la superficie terrestre-oceánica de 1880 al presente.",
+                  "pagina": 76
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. ERA-5",
+              "nivel": 3,
+              "paginas": "76-78",
+              "resumen": "ERA-5 es un reanálisis del ECMWF/Copernicus que combina modelos meteorológicos con observaciones satelitales y terrestres. Cubre desde 1950 o 1979 según versión, ofrece datos horarios y mensuales, variables atmosféricas, superficie, océano y estimaciones de incertidumbre, y tiene resolución de 0,25°. Su API, licencia gratuita y capacidad para llenar vacíos lo vuelven particularmente útil para SIG y corrección de sesgo.",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Esta técnica ayuda a llenar vacíos en las series históricas de la información, así como  a corregir datos con grandes anomalías.",
+                  "pagina": 77
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "6. GISTEMP",
+              "nivel": 3,
+              "paginas": "78-78",
+              "resumen": "GISTEMP, elaborado por el GISS de NASA, mide la temperatura superficial global mensual desde 1880. Combina estaciones terrestres y temperatura del mar, tiene resolución de aproximadamente 222 km y acceso libre. Su utilidad está en monitorear variabilidad y tendencias globales y regionales, aunque su escala es baja para localizar impactos de infraestructura.",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Es uno de los principales conjuntos de datos utilizados para monitorear la variabilidad y las tendencias de la temperatura global y regional.",
+                  "pagina": 78
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "7. JRA-55",
+              "nivel": 3,
+              "paginas": "79-79",
+              "resumen": "JRA-55 es el reanálisis japonés de 55 años, con temperatura y precipitación desde 1958, resolución aproximada de 139 km y frecuencia mensual, diaria y subdiaria. Puede servir para analizar variabilidad multidecenal y extremos de pocos días, pero no incluye una evaluación explícita de incertidumbre. El estudio advierte que debe evaluarse su representación del clima regional antes de usarlo en proyectos.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Esta base de datos no incluye información de incertidumbre.",
+                  "pagina": 79
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "8. Berkeley Earth",
+              "nivel": 3,
+              "paginas": "79-80",
+              "resumen": "Berkeley Earth produce temperatura terrestre desde 1750 y análisis tierra-océano desde 1850, con escalas de hasta 27,8 km en algunos productos. Su modelo incorpora registros cortos y discontinuos y pondera calidad y consistencia espacial de estaciones. Es una base abierta útil para reconstrucciones de temperatura y reducción de escala, pero no ofrece evaluación de incertidumbre.",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "El modelo permite la inclusión de registros de temperatura cortos y discontinuos, de modo que se pueden introducir casi todos los datos de temperatura.",
+                  "pagina": 80
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "9. CHIRPS",
+              "nivel": 3,
+              "paginas": "80-81",
+              "resumen": "CHIRPS combina datos satelitales y estaciones para producir mapas de precipitación, especialmente en áreas con pocos datos de superficie. Tiene resolución de 0,05° —aproximadamente 5,6 km—, cobertura regional y frecuencias diaria, mensual, anual, decadal, pentadal y de series temporales. Su uso en sequía agrícola, extremos y reducción de escala explica que se recomiende junto con ERA5 para proyectos RIDASICC.",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Los datos de CHIRPS son utilizados para monitorear la sequía agrícola y el cambio del ambiente natural sobre la tierra.",
+                  "pagina": 81
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Resumen y conclusiones de la oferta meteorológica y climatológica histórica",
+          "nivel": 2,
+          "paginas": "81-86",
+          "resumen": "La síntesis concluye que las redes nacionales son indispensables pero presentan restricciones de densidad, calidad, mantenimiento, georreferenciación y acceso. Las fuentes internacionales permiten cubrir puntos sin estación, construir climatologías y corregir sesgos, con diferencias claras de resolución y variables. ERA5 y CHIRPS destacan por su conexión con los escenarios regionales, su resolución y su utilidad para la plataforma SIG y el análisis de riesgos de lluvia.",
+          "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Se recomienda considerar algunas de estas bases internacionales para ser incluidas en la plataforma SIG.",
+                  "pagina": 83
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "Hay limitaciones en la disponibilidad de este tipo de datos en todos los países, que, con diferentes matices nacionales, incluyen: i) la insuficiencia de estaciones; ii) el estado de mantenimiento de las estaciones; iii) el almacenamiento incompleto o incorrecto de los datos; iv) la calidad de los datos; v) la limitada georreferenciación de los datos, y vi) el acceso restringido a los datos.",
+                  "pagina": 82
+                }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Modelos y escenarios de cambio climático",
+      "nivel": 1,
+      "paginas": "87-106",
+      "resumen": "El capítulo explica el papel de modelos climáticos y generaciones de escenarios para estimar rangos futuros de temperatura y precipitación. Recorre modelos globales y regionales, CMIP, CORDEX, IS92, SRES, RCP y SSP-RCP, y compara sus trayectorias con emisiones observadas y NDC. El cierre incorpora incertidumbre de emisiones, modelos, datos, regionalización e impactos, y formula reglas para usar promedios, rangos, ensambles y corrección de sesgo en inversión pública.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Modelos climáticos",
+          "nivel": 2,
+          "paginas": "87-91",
+          "resumen": "La sección define modelos climáticos como representaciones numéricas del sistema climático y distingue modelos de circulación general, regionales y métodos de reducción de escala. CMIP organiza fases y salidas multimodelo, mientras CORDEX regionaliza información para aplicaciones locales. La función del apartado es explicar por qué la resolución, la comparación con observaciones y la selección de un conjunto de modelos importan para estimar impactos y adaptación.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Tipos de modelos",
+              "nivel": 3,
+              "paginas": "88-89",
+              "resumen": "El apartado diferencia modelos globales de circulación general, que resuelven atmósfera y océanos en rejillas amplias, de modelos regionales que permiten representar mejor condiciones locales mediante reducción de escala. La resolución más fina mejora la utilidad para proyectos, aunque agrega decisiones metodológicas y fuentes de incertidumbre. El criterio central es conectar la escala del modelo con la escala espacial de impactos e infraestructura.",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Los MCR pueden proporcionar información a escalas menores o de mayor resolución que respaldan una evaluación más localizada del impacto del cambio climático y la identificación de medidas más apropiadas de adaptación (WCRP CORDEX, 2022a).",
+                  "pagina": 89
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Proyecto de Intercomparación de Modelos Acoplados (CMIP)",
+              "nivel": 3,
+              "paginas": "90-90",
+              "resumen": "CMIP se presenta como un proyecto del Programa Mundial de Investigaciones Climáticas que organiza experimentos y salidas multimodelo comparables y públicas. Sus fases CMIP5 y CMIP6 alimentan informes del IPCC y las familias RCP y SSP-RCP examinadas en el capítulo. La estandarización permite comparar modelos, escenarios y rangos en vez de depender de una única simulación.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+              "cita": "El Proyecto de Intercomparación de Modelos Acoplados (CMIP) tiene sus antecedentes en el Programa Mundial de Investigaciones Climáticas (PMIC), creado en 1980 por la Organización Meteorológica Mundial (OMM) y el Consejo Internacional de Ciencias (ISC), al que se unió la Comisión Oceanográfica Intergubernamental (COI) de la Organización de la Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO).",
+                  "pagina": 90
+                },
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Su objetivo secundario es contar con resultados multimodelos del clima pasado y futuro disponibles públicamente en un formato estandarizado, para fomentar la investigación y la aplicación de esta información.",
+                  "pagina": 90
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Experimento coordinado sobre reducción de escala de modelos climáticos regionales (CORDEX)",
+              "nivel": 3,
+              "paginas": "91-91",
+              "resumen": "CORDEX representa el esfuerzo coordinado para producir información climática regionalizada a partir de modelos globales. En el documento funciona como referencia para comprender cómo la reducción de escala acerca las salidas globales a regiones y proyectos, y como fuente de modelos regionales disponibles en el Atlas IPCC. Su aporte es metodológico: mejorar resolución sin ocultar la incertidumbre introducida por la regionalización.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+              "cita": "El PMIC considera que la reducción de escala regional es un tema importante.",
+                  "pagina": 91
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Conceptos y evolución de escenarios de cambio climático del IPCC",
+          "nivel": 2,
+          "paginas": "92-103",
+          "resumen": "El apartado reconstruye la evolución desde IS92 y SRES hasta RCP y SSP-RCP, explicando que los escenarios son trayectorias plausibles y no predicciones. Compara forzamientos, emisiones, desarrollo socioeconómico, NDC y calentamiento esperado, y propone un rango medio-alto para no saturar a formuladores. Las hojas cubren cada familia, su comparación y la aplicación práctica en RIDASICC.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Escenarios IS92",
+              "nivel": 3,
+              "paginas": "92-92",
+              "resumen": "La sección presenta IS92 como una generación temprana de escenarios de emisiones que antecede a SRES y a las familias RCP y SSP-RCP. Su función es ubicar históricamente la progresión de marcos de escenarios usados por el IPCC y mostrar el desplazamiento desde proyecciones de emisiones hacia trayectorias más integradas. El tratamiento sirve de base conceptual para leer las generaciones posteriores.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Entre 1990 y 1992, el IPCC desarrolló los primeros escenarios de emisiones a largo plazo que proporcionaron estimaciones de todos los GEI, que sirvieron de base para que los modelos de circulación general desarrollaran escenarios sobre el cambio climático (IPCC/OMM/PNUMA, 2000).",
+                  "pagina": 92
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Escenarios SRES",
+              "nivel": 3,
+              "paginas": "92-92",
+              "resumen": "SRES representa una generación de escenarios socioeconómicos y de emisiones utilizada antes de RCP. El apartado la sitúa en la evolución de los marcos del IPCC y ayuda a entender por qué las generaciones recientes separan trayectorias de forzamiento climático de trayectorias socioeconómicas. La comparación con RCP se retoma después para orientar la selección en proyectos.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Los escenarios de la generación SRES integran las principales fuerzas demográficas, económicas y tecnológicas que determinan las emisiones de GEI.",
+                  "pagina": 92
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Escenarios RCP del CMIP5",
+              "nivel": 3,
+              "paginas": "93-94",
+              "resumen": "Los RCP del CMIP5 se describen como cuatro trayectorias de forzamiento: RCP2.6, RCP4.5, RCP6.0 y RCP8.5. El documento identifica RCP4.5 como límite inferior más probable y RCP8.5 como límite alto cercano a emisiones observadas, para que los proyectos analicen un rango sin usar todos los escenarios. La selección se conecta con tendencias de emisiones y compromisos nacionales.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Las RCP no están asociadas de modo directo a escenarios socioeconómicos o de emisión únicos.",
+                  "pagina": 93
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Escenarios MIP (SSP-RCP) del CMIP6",
+              "nivel": 3,
+              "paginas": "94-96",
+              "resumen": "CMIP6 combina trayectorias de forzamiento con cinco trayectorias socioeconómicas compartidas. El documento presenta SSP1 y SSP2 como relativamente optimistas y SSP3, SSP4 y SSP5 como más pesimistas, y recomienda SSP2-4.5 y SSP5-8.5 para representar un rango medio y alto manejable. El esquema permite incorporar supuestos sociales y económicos junto con concentraciones y emisiones.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+            "cita": "Los modelos de evaluación integrados (MEI) proporcionan nuevos escenarios climáticos integrando los SSP y RCP con escenarios alternativos de emisiones futuras y cambios en el uso del suelo (Riahi y otros, 2017; O´Neill y otros, 2016).",
+                  "pagina": 96
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "6. Comparación de las familias de escenarios",
+              "nivel": 3,
+              "paginas": "99-100",
+              "resumen": "La comparación muestra que los escenarios difieren poco en los próximos veinte años, pero se separan desde 2041-2060. Para 2021-2040 el calentamiento se ubica aproximadamente entre 1,6 °C y 1,7 °C en varias familias, mientras que hacia 2081-2100 las trayectorias altas llegan a 4,5 °C para RCP8.5 y 4,8 °C para SSP5-8.5. Esta dispersión justifica analizar escenarios medios y altos y ajustar períodos al ciclo de vida.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Es por ello que no se debe suponer que un escenario particular de los RCP sustituye un escenario de los SRES.",
+                  "pagina": 99
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "7. Consideraciones prácticas para el proyecto RIDASICC: emisiones históricas, NDC y escenarios de cambio climático",
+              "nivel": 3,
+              "paginas": "100-103",
+              "resumen": "El apartado traduce la comparación de emisiones observadas, políticas actuales y NDC en una regla de selección para RIDASICC. Recomienda descartar trayectorias improbables, pero conservar RCP4.5/RCP8.5 y SSP2-4.5/SSP5-8.5 para cubrir límites inferior y superior plausibles. La decisión evita complejidad para formuladores y mantiene información sobre incumplimiento de mitigación y aumento potencial de temperatura.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Es conveniente tener escenarios que informen del incumplimiento de las políticas de mitigación.",
+                  "pagina": 101
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Tratamiento de la incertidumbre",
+          "nivel": 2,
+          "paginas": "104-106",
+          "resumen": "La sección identifica capas de incertidumbre en supuestos socioeconómicos, emisiones, modelos, datos históricos, regionalización, impactos y adaptación. Propone comparar promedios y períodos, usar rangos y percentiles, trabajar con ensambles, validar modelos regionales, evaluar variabilidad, corregir sesgos y cuantificar incertidumbre. Insiste en que los resultados de largo plazo son tendencias y magnitudes relativas, no predicciones exactas.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "Por estas capas de análisis con incertidumbre y retos metodológicos, los resultados de los escenarios climáticos y socioeconómicos a largo plazo deben interpretarse como tendencias y magnitudes relativas, no como predicciones ni como magnitudes exactas.",
+              "pagina": 105
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "V. Oferta de escenarios de cambio climático para los países de la región del SICA",
+      "nivel": 1,
+      "paginas": "107-134",
+      "resumen": "Este capítulo mapea escenarios nacionales, plataformas internacionales y regionales, y ensambles de modelos disponibles para el SICA. Compara instituciones, variables, resolución, períodos, acceso y modelos, y evalúa la pertinencia de cada fuente para inversión pública. El cierre identifica al visor CRRH/Centro Clima como opción regional preferente y fundamenta su uso con ERA5, CHIRPS, modelos análogos, rangos RCP/SSP y períodos de vida útil.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Generación de escenarios a nivel nacional",
+          "nivel": 2,
+          "paginas": "107-115",
+          "resumen": "El apartado compara la producción nacional de escenarios para los siete países y documenta responsables, variables, modelos, resoluciones, períodos y acceso. Se observan productos RCP y SSP-RCP con escalas desde 1 km hasta 25 km, series hasta 2099/2100 y distintas combinaciones de modelos. También aparecen procesos de actualización CMIP6 y vínculos con el CRRH, pero las diferencias metodológicas y de acceso dificultan una integración regional uniforme.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Costa Rica",
+              "nivel": 3,
+              "paginas": "107-108",
+              "resumen": "El IMN es responsable de los escenarios nacionales y en 2021 actualizó RCP2.6 y RCP8.5 con el modelo regional PRECIS y datos de estaciones y WorldClim. Los períodos 2010-2039, 2040-2069 y 2070-2099 se calculan mensualmente, con reducción de 25 km a 1 km. Las bases no son descargables y se solicitan por convenio, mientras el IMN trabaja con el CRRH en la actualización CMIP6.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+              "cita": "El Instituto Meteorológico Nacional (IMN) de Costa Rica es el responsable de generar la información sobre el clima, la variabilidad climática y los escenarios de cambio climático.",
+                  "pagina": 107
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "Las bases de datos no están disponibles, pero se pueden solicitar bajo convenio.",
+                  "pagina": 107,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. El Salvador",
+              "nivel": 3,
+              "paginas": "108-109",
+              "resumen": "El Salvador desarrolló escenarios con MARN y CATHALAC para su Tercera Comunicación, usando RCP2.6, 4.5, 6.0 y 8.5, quince modelos representativos para Centroamérica y cinco seleccionados por correlación, sesgo y RMSE. La información cubre 2021-2050 y 2071-2100, pero los datos no están disponibles en un repositorio abierto. La DGOA participa además en la actualización del visor del CRRH y en planificación de agricultura y recursos hídricos.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+              "cita": "Se desarrollaron los modelos de simulación y escenarios climáticos para El Salvador.",
+                  "pagina": 108
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "Sin embargo, no se encontró la disponibilidad pública de los datos en algún repositorio.",
+                  "pagina": 109,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Guatemala",
+              "nivel": 3,
+              "paginas": "110-112",
+              "resumen": "Guatemala cuenta con proyecciones dinámicas del INSIVUMEH y escenarios de la Universidad de San Carlos/CIAT. El producto dinámico usa RegCM a 25 km, variables de lluvia y temperatura, períodos 2010-2039, 2040-2069 y 2070-2099, y RCP2.6, 4.5 y 8.5; el segundo llega a 1 km y trabaja con cuatro RCP y múltiples modelos. INSIVUMEH prepara actualización CMIP6 y prioriza agricultura, agua y saneamiento.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+              "cita": "Estos son los primeros escenarios dinámicos elaborados por una institución del país.",
+              "pagina": 110
+                },
+                {
+                  "dimension": "brechas_implementacion",
+              "cita": "En la página se muestra una galería de mapas para cada corte, y se puede llenar un formulario para solicitar los datos de las proyecciones. Las bases de datos no están públicas.",
+                  "pagina": 111,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Honduras",
+              "nivel": 3,
+              "paginas": "112-114",
+              "resumen": "La Tercera Comunicación de Honduras, elaborada por CIAT con MiAmbiente y PNUD, integra línea base de estaciones, proyecciones CMIP5 y variables de precipitación, temperatura, radiación, viento y nivel del mar. Los resultados nacionales tienen resolución de 1 km para variables climáticas y 4 km para nivel del mar, con períodos 2021-2050, 2041-2070 y 2071-2100. La plataforma Agua de Honduras y el CRRH constituyen vías de aplicación y actualización.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "En el marco de la preparación de la Tercera Comunicación Nacional en Honduras, el CIAT, en coordinación con MiAmbiente de Honduras y el PNUD, elaboró los escenarios de cambio climático para el país.",
+                  "pagina": 112
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Nicaragua",
+              "nivel": 3,
+              "paginas": "114-115",
+              "resumen": "Nicaragua presenta escenarios nacionales del INETER para 2021-2100, publicados en su Cuarta Comunicación y expresados principalmente con RCP8.5. El producto usa precipitación y temperatura máxima y mínima, resolución de 5 km y períodos 2021-2040, 2041-2060, 2061-2080 y 2081-2100. INETER participa en la actualización del visor regional del CRRH, aunque los reportes nacionales no ofrecen bases abiertas.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "El INETER está trabajando en la validación del modelo de 2021 a 2022 (24 meses).",
+                  "pagina": 114,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "6. Panamá",
+              "nivel": 3,
+              "paginas": "115-115",
+              "resumen": "Panamá atribuye la generación de escenarios al Ministerio de Ambiente y cuenta con su Cuarta Comunicación Nacional. La actualización CMIP6 utiliza tres modelos y los escenarios SSP1-2.6 y SSP5-8.5, mientras IMHPA participa en el visor regional del CRRH. El apartado muestra una oferta nacional en transición hacia SSP-RCP, con vínculos institucionales regionales todavía relevantes para la integración.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "La Dirección de Hidrometeorología de ETESA participaba en la actualización de escenarios del visor de cambio climático para Centroamérica del CRRH, y desde 2022 ha participado el Instituto de Meteorología e Hidrología de Panamá (IMHPA).",
+                  "pagina": 115
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "7. República Dominicana",
+              "nivel": 3,
+              "paginas": "115-115",
+              "resumen": "República Dominicana dispone de escenarios RCP elaborados por el Ministerio de Medio Ambiente y Recursos Naturales con apoyo de CATHALAC y publicados en su Tercera Comunicación Nacional. El país no es miembro del CRRH, por lo que su inserción en la plataforma regional requiere distinguir entre producción nacional y cobertura regional. La oferta aporta el componente dominicano al análisis COSEFIN/SICA, aunque sus bases no aparecen como abiertas en el cuadro comparativo.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "En el Centro del Agua y Trópico Húmedo para América Latina y el Caribe (CATHALAC) se corrieron ocho modelos de circulación global con la información climática histórica de 1984 a 2013 de la Oficina Nacional de Meteorología (ONAMET).",
+                  "pagina": 115
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Plataformas para acceder a modelos y escenarios",
+          "nivel": 2,
+          "paginas": "116-123",
+          "resumen": "La sección compara visores y portales por resolución, acceso, variables, períodos, modelos e interconexión. Atlas IPCC y CCKP ofrecen escala global; Worldclim, CCAFS-Climate e INCENTIVA aportan mapas de mayor resolución; el visor CRRH/Centro Clima combina regionalización, aval nacional y descarga. La comparación no premia solo la resolución: también considera integración SIG, sostenibilidad, participación institucional y utilidad para proyectos.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Atlas Interactivo del IPCC",
+              "nivel": 3,
+              "paginas": "116-116",
+              "resumen": "El Atlas Interactivo del IPCC ofrece escenarios CMIP5 y CMIP6, múltiples modelos, indicadores bioclimáticos y descarga o interconexión mediante un visor global. Sus resoluciones de 111 y 222 km, y el carácter regional de sus resultados, limitan su pertinencia directa para proyectos localizados. Se conserva como fuente de contexto y comparación global, no como opción preferente de alta resolución.",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "El Atlas es un producto que permite un análisis espacial y temporal flexible de los resultados presentados en el capítulo del Atlas y otros en forma de mapas interactivos para períodos de análisis histórico y futuros predefinidos.",
+                  "pagina": 116
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Portal de conocimiento del Banco Mundial (CCKP)",
+              "nivel": 3,
+              "paginas": "117-118",
+              "resumen": "CCKP combina climatologías históricas CRU y ERA5 con escenarios CMIP5 y CMIP6, numerosos modelos, indicadores y visualización nacional y subnacional. Su resolución global de 111 km y finalidad informativa limitan su uso operativo para proyectos de inversión que requieren escalas locales. El portal funciona como referencia accesible y comparativa más que como plataforma de integración regional.",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "Brinda a los profesionales del desarrollo recursos para explorar, evaluar, sintetizar y aprender sobre escenarios climáticos futuros, riesgos proyectados y vulnerabilidades relacionadas con el clima.",
+                  "pagina": 117
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Worldclim",
+              "nivel": 3,
+              "paginas": "118-120",
+              "resumen": "Worldclim ofrece mapas ráster de descarga libre con escenarios CMIP5 y CMIP6, climatologías base validadas, resoluciones de hasta 1 km y períodos futuros múltiples. Su alta resolución permite diferenciar localidades cercanas y obtener indicadores, pero la ausencia de interconexión obliga a descargar grandes archivos e incorporarlos manualmente a SIG. Es una opción potente para análisis espacial, con una carga operativa mayor.",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+              "cita": "La fuente de Worldclim tiene como ventaja que los modelos se redujeron a muy alta resolución, hasta 1 km x 1 km para los escenarios RCPs y los SSP-RCP .",
+                  "pagina": 119
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. CCAFS-Climate",
+              "nivel": 3,
+              "paginas": "120-121",
+              "resumen": "CCAFS-Climate presenta escenarios de alta resolución con metodología comparable a Worldclim, cuatro RCP, cuatro SSP-RCP, períodos futuros e indicadores adicionales. Su número amplio de modelos permite evaluar cuáles representan mejor la región, y datos subnacionales fueron usados en productos de CEPALSTAT. La plataforma es descargable pero no interconectada, por lo que requiere capacidad para cargar mapas en SIG.",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "El objetivo del portal es el uso de este para la actividad agrícola, y se han identificado otros usos como en el sector salud (Navarro-Racines y otros, 2020).",
+                  "pagina": 120
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Proyecto INCENTIVA",
+              "nivel": 3,
+              "paginas": "121-122",
+              "resumen": "INCENTIVA es un visor del ICAP con escenarios CMIP6 SSP-RCP para países del SICA a 1 km, basado en ocho modelos y en metodologías de CCAFS-Climate y Worldclim. En su primera etapa ofrece temperatura media, precipitación, percentiles de precipitación e índice de aridez, con interconexión y posibilidad de solicitar información mensual. El estudio advierte que su desarrollo no tuvo participación de institutos meteorológicos o ministerios de ambiente.",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+              "cita": "Él señaló que la alta resolución hace posible conocer a una escala espacial útil y funcional el área de estudio del proyecto de inversión pública que se desarrolle.",
+                  "pagina": 121
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "6. Visor de Escenarios de Cambio Climático de Centroamérica de CRRH",
+              "nivel": 3,
+              "paginas": "122-123",
+              "resumen": "El visor del CRRH/Centro Clima ofrece escenarios regionalizados para Centroamérica, datos por país, departamento y polígono, resolución de hasta 5,6 km para precipitación, 16 modelos por análogos y 17 por regresión. Cuenta con participación de instituciones meteorológicas nacionales, apoyo técnico de AEMET, acceso libre y 37 indicadores. Se recomienda usar anomalías junto con una base histórica como ERA5 o CHIRPS para corregir el sesgo de las simulaciones.",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "El visor aloja 37 variables climáticas e índices derivados definidos en talleres con usuarios.",
+                  "pagina": 123
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Resumen y conclusiones de la oferta de escenarios de cambio climático",
+          "nivel": 2,
+          "paginas": "124-128",
+          "resumen": "La síntesis contrasta fuentes nacionales y regionales y concluye que la plataforma más apropiada debe equilibrar reconocimiento institucional, cobertura, resolución, modelos, períodos, actualización y acceso. Los apartados internos distinguen escenarios nacionales —con diferencias de metodologías y disponibilidad— de plataformas regionales, donde el visor CRRH destaca por su colaboración con institutos nacionales, 37 indicadores y resolución alta. La sección prepara el análisis de ensambles y las recomendaciones finales.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Escenarios a nivel nacional",
+              "nivel": 3,
+              "paginas": "124-125",
+              "resumen": "La comparación nacional muestra productos RCP y SSP-RCP con coberturas, resoluciones, variables y períodos diferentes, y con datos frecuentemente no abiertos. Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panamá y República Dominicana aportan escenarios propios, pero la heterogeneidad metodológica puede impedir integrarlos directamente en una plataforma regional. La conclusión es que los productos nacionales deben reconocerse y conectarse mediante acuerdos y criterios comunes.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "La limitante es que no hay disponibilidad de información pública en una base de datos o plataforma en internet.",
+                  "pagina": 125,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Escenarios a nivel regional",
+              "nivel": 3,
+              "paginas": "126-128",
+              "resumen": "Las plataformas regionales ofrecen combinaciones de modelos y resoluciones diversas. Atlas IPCC y CCKP son globales y de baja resolución; Worldclim, CCAFS-Climate e INCENTIVA alcanzan 1 km; el visor CRRH ofrece datos regionalizados, validación nacional, acceso libre y 37 indicadores. La síntesis recomienda usar el visor como anomalías junto con ERA5 o CHIRPS para disponer de valores históricos sin sesgo.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "El visor es de acceso libre, y en consultas con algunas instituciones participantes y la AEMET, se puede solicitar el acceso al servidor en el que se halla la información por medio del CRRH.",
+                  "pagina": 127
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "D. Ensambles de modelos climáticos",
+          "nivel": 2,
+          "paginas": "129-134",
+          "resumen": "El apartado explica que un ensamble representa mejor la incertidumbre que un solo modelo, pero exige criterios documentados para evitar una selección sesgada. Compara desempeño histórico, rango futuro y disponibilidad, y aplica Hidalgo y Alfaro y GCMeval a los modelos del visor CRRH. Las hojas concluyen que el conjunto de análogos representa buena parte del rango total, especialmente en RCP8.5 y en el período lejano.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Evaluación de modelos climáticos para la región del SICA",
+              "nivel": 3,
+              "paginas": "130-131",
+              "resumen": "La evaluación regional compara modelos CMIP5 y CMIP6 con observaciones y reanálisis para medir precipitación, temperatura y ENOS. Hidalgo y Alfaro evaluaron 48 modelos CMIP5 para Centroamérica, mientras Almazroui y otros identificaron nueve modelos CMIP6 con menor sesgo en una región ampliada. El análisis advierte que un buen desempeño histórico no garantiza una buena proyección futura, por lo que se requiere balancear criterios.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Esto muestra que la selección de modelos puede ser relevante, aunque no implica que los modelos con mejor comportamiento en los períodos de referencia hagan la mejor simulación en el futuro.",
+                  "pagina": 130
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Análisis y evaluación de los modelos del visor de escenarios de cambio climático",
+              "nivel": 3,
+              "paginas": "131-134",
+              "resumen": "La evaluación del visor combina clasificación regional, disponibilidad, GCMeval y reglas para elegir un ensamble. Se recomienda el método de análogos por su resolución de 27,8 km para temperatura y 5,6 km para precipitación, y se identifican 16 modelos análogos. Su representación del rango total alcanza 74% y 94% para temperatura en 2021-2050 y 81% y 97% en 2071-2100, para RCP4.5 y RCP8.5 respectivamente; para precipitación llega hasta 100% en RCP8.5.",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+              "cita": "En este sentido, el visor de escenarios de cambio climático representa una muy buena opción de fuente de información.",
+              "pagina": 133
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "VI. Conclusiones y recomendaciones",
+      "nivel": 1,
+      "paginas": "135-140",
+      "resumen": "El cierre responde a la pregunta aplicada del estudio y convierte la revisión en una agenda para RIDASICC. Sintetiza la evidencia de cambio climático, la oferta histórica, los límites de las estaciones y la selección de escenarios, y luego formula recomendaciones sobre fuentes, escala, plataforma regional, integración nacional, modelos, períodos y capacitación. El capítulo final conecta decisiones técnicas con capacidades institucionales y sistemas nacionales de inversión pública.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Conclusiones",
+          "nivel": 2,
+          "paginas": "135-137",
+          "resumen": "Las conclusiones afirman que el cambio climático ya altera temperatura, lluvia, nivel del mar y extremos, y que los efectos persistirán durante décadas o siglos. El estudio concluye que las instituciones de inversión pública deben integrar variables climáticas en identificación, formulación y evaluación, y que la oferta histórica debe combinar estaciones con bases interpoladas. ERA5 y CHIRPS se recomiendan para cubrir vacíos; el visor CRRH se considera la fuente regional más apropiada, siempre con capacitación y lectura de incertidumbre.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Estas dos fuentes de información conectan con los escenarios de cambio climático que se recomiendan a continuación.",
+              "pagina": 136
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "El aumento relativo del nivel del mar en los océanos de Centroamérica está contribuyendo al aumento de las inundaciones costeras en áreas bajas y al retroceso de las playas de arena.",
+              "pagina": 135
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Recomendaciones",
+          "nivel": 2,
+          "paginas": "138-139",
+          "resumen": "Las recomendaciones proponen reconocer fuentes oficiales, preferir bases regionales sostenibles y trabajar con escalas de 5-27 km, con reducción futura a 1-5 km si se fortalecen estaciones y procesamiento. Recomiendan integrar Centro Clima/CRRH a la plataforma SIG, incorporar datos nacionales mediante acuerdos con SNIP, escoger escenarios medios y altos, usar el promedio de 16 modelos análogos y presentar períodos que cubran la vida útil. El cierre añade capacitación sobre incertidumbre y condiciones de acceso a capas ráster.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Trabajar con bases de datos que tengan reconocimiento y aceptación de los institutos meteorológicos nacionales responsables de la información climática, para que los datos tengan carácter oficial para los países socios.",
+              "pagina": 138
+            },
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "Sin embargo, se requieren las capas de información en formato ráster para ser incorporadas en las plataformas SIG nacionales en desarrollo con los socios nacionales en el marco del proyecto RIDASICC, lo cual requiere un acceso autorizado.",
+              "pagina": 139
+              ,"subtipo_brecha": "retrospectiva"
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento propone una arquitectura regional de datos, modelos, SIG, capacitación y acuerdos para adaptar la inversión pública, pero no formula un paquete coordinado de inversiones productivas en sectores estratégicos ni una transformación del modelo de desarrollo. Su aporte es concreto en instrumentos de información y capacidades, por lo que supera el lenguaje puramente aspiracional, pero queda en un nivel sectorial y habilitante.",
+      "citas": [
+        {
+          "cita": "Para que el desarrollo de estos componentes cumpla con el objetivo del proyecto, la información meteorológica y climática histórica y los escenarios del cambio climático son insumos clave.",
+          "pagina": 29
+        }
+      ],
+      "nota": "El Parcial refleja la naturaleza de estudio técnico y arquitectura habilitante de RIDASICC: no es una propuesta autónoma de paquete de inversión productiva, aunque sí nombra plataformas, SIG, módulos, modelos y capacitación."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El documento identifica una gobernanza regional concreta para seleccionar e integrar la fuente: la recomendación fue consultada al Comité Técnico Regional del proyecto, y el visor CRRH se desarrolla con institutos meteorológicos nacionales y AEMET. También prevé acuerdos entre esas instituciones y los SNIP para integrar datos nacionales.",
+      "citas": [
+        {
+          "cita": "El proceso de análisis y generación de modelos y escenarios con reducción de escala es un sistema robusto en su base técnica y científica, generada con la participación de especialistas de dichas instituciones con la asesoría de la AEMET de España, que han sido muy cuidadosos en la revisión de las metodologías usadas.",
+          "pagina": 138
+        },
+        {
+          "cita": "Presenta 37 variables derivadas a partir de las variables básicas de temperatura y precipitación.",
+          "pagina": 138
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "El estudio enumera agricultura, generación hidroeléctrica, agua, salud, infraestructura y ecosistemas como sectores afectados o destinatarios de información, pero no desarrolla una agenda de oportunidades productivas sostenibles vinculada simultáneamente con empleo, productividad o reducción de desigualdad. El chequeo negativo explícito no encuentra una enumeración de sectores de transición productiva con ese vínculo desarrollado; las referencias a productividad y rentabilidad aparecen como beneficios generales de los servicios meteorológicos, no como propuesta productiva propia.",
+      "citas": [
+        {
+          "cita": "Al mismo tiempo, el cambio climático representa una amenaza flagrante para los países de la región al magnificar las vulnerabilidades socioeconómicas que inciden cada vez más en la evolución económica de actividades productivas como la agricultura y la generación hidroeléctrica, la infraestructura pública y privada, así como en el bienestar de sus habitantes y ecosistemas.",
+          "pagina": 26
+        }
+      ],
+      "nota": "El No se debe al diseño técnico del documento: analiza información y adaptación para inversión pública, no oportunidades de transformación productiva."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El cierre contiene una lista normativa con instrumentos, fuentes, escalas, escenarios, modelos, períodos y acuerdos. Seis de nueve ítems tienen un objeto ejecutable identificable; tres formulan principios de selección o preferencia sin entregar por sí solos un instrumento, responsable o métrica de implementación.",
+      "citas": [
+        {
+          "cita": "En la actualidad, recomendamos buscar escenarios con escala de rejillas de 5 km x 5 km a 27 km x 27 km.",
+          "pagina": 138
+        },
+        {
+          "cita": "De los modelos disponibles en el Visor de Escenarios de Centro Clima se utilizará el promedio de análogos (16 modelos climáticos) para precipitación y temperatura y sus variables derivadas.",
+          "pagina": 139
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Trabajar con bases reconocidas y aceptadas por los institutos meteorológicos nacionales.",
+          "clasificacion": "GENERICO",
+          "pagina": 138
+        },
+        {
+          "item": "Dar preferencia a bases de datos climáticos de carácter regional.",
+          "clasificacion": "GENERICO",
+          "pagina": 138
+        },
+        {
+          "item": "Exigir una fuente sostenible que permita actualizar la información.",
+          "clasificacion": "GENERICO",
+          "pagina": 138
+        },
+        {
+          "item": "Buscar escalas de rejilla de 5 a 27 km y reducirlas a 1 a 5 km cuando existan estaciones y capacidad de procesamiento.",
+          "clasificacion": "CONCRETO",
+          "pagina": 138
+        },
+        {
+          "item": "Integrar la plataforma de Centro Clima del CRRH a la plataforma SIG de RIDASICC.",
+          "clasificacion": "CONCRETO",
+          "pagina": 138
+        },
+        {
+          "item": "Integrar datos históricos y escenarios nacionales a SIG y MIP mediante acuerdos entre instituciones meteorológicas y SNIP.",
+          "clasificacion": "CONCRETO",
+          "pagina": 139
+        },
+        {
+          "item": "Usar un escenario medio y uno alto: RCP4.5/RCP8.5 o SSP2-4.5/SSP5-8.5.",
+          "clasificacion": "CONCRETO",
+          "pagina": 139
+        },
+        {
+          "item": "Usar el promedio de análogos de 16 modelos para precipitación, temperatura y variables derivadas.",
+          "clasificacion": "CONCRETO",
+          "pagina": 139
+        },
+        {
+          "item": "Presentar períodos futuros que cubran la vida útil de la infraestructura, como 2041-2070 y 2071-2100 para vidas de 30 años o más.",
+          "clasificacion": "CONCRETO",
+          "pagina": 139
+        }
+      ],
+      "tally": "6 de 9 ítems pasan el test de concreción",
+      "nota": "El desglose usa solo la voz normativa propia del cierre de Recomendaciones; no cuenta los resúmenes iniciales ni las medidas descritas como casos externos."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "La tensión central no es la ausencia de diagnósticos climáticos, sino la brecha entre evidencia y datos disponibles, y la capacidad de los Estados para convertirlos en decisiones de inversión pública adaptada. El documento organiza una respuesta institucional y técnica para que la información llegue a los SNIP, SIG y proyectos.",
+      "filtro_categoria_primaria": "Capacidades del Estado es primaria porque el objeto principal es fortalecer arreglos públicos, sistemas de información, coordinación entre instituciones meteorológicas y hacienda/planificación, herramientas SIG, módulos de inversión, modelos y capacitación. La sostenibilidad ambiental es el problema sustantivo y la condición de desempeño, pero el instrumento central es la capacidad estatal para incorporar clima en el ciclo de inversión.",
+      "secundaria_obligatoria": "Sostenibilidad ambiental es secundaria porque las capacidades se construyen para responder a cambio climático, riesgos, adaptación, emisiones, temperatura, precipitación, extremos y resiliencia de infraestructura. Sin esa finalidad ambiental, la arquitectura de datos y los criterios de modelos perderían su razón de ser.",
+      "justificacion_anti_copia": "La clasificación no se basa solo en que el texto mencione clima: sus rasgos propios son el Comité Técnico Regional como mecanismo de consulta, el visor CRRH/Centro Clima como infraestructura regional, la integración de ERA5 y CHIRPS con SIG, y el enlace de datos nacionales con los SNIP mediante acuerdos. Estos rasgos distinguen una intervención de capacidades públicas de una propuesta ambiental sectorial o de una agenda productiva.",
+      "validacion_anclas": "Contraste metodológico con el ancla Doc. 19, “Panorama de la Gestión Pública 2023: un Estado preparado para la acción climática”, que también prioriza Capacidades del Estado con Sostenibilidad ambiental como secundaria; aquí la evidencia propia añade la arquitectura de datos climáticos, el visor regional, los ensambles y la aplicación al ciclo de inversión pública."
+    },
+    "tipo_documento_climatico": "Documento técnico regional de diagnóstico y recomendación sobre información climática, modelos, escenarios y capacidades para inversión pública resiliente.",
+    "nivel_aplicacion": "Regional SICA/COSEFIN, con implementación nacional y aplicación local o subnacional en plataformas SIG, SNIP y proyectos de infraestructura.",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

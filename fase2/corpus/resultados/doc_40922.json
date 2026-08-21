@@ -1,0 +1,516 @@
+{
+  "documento": {
+    "num_muestra": null,
+    "titulo": "Cambio climático y políticas públicas forestales en América Latina: una visión preliminar",
+    "autoria": "Ederson Augusto Zanetti, José Javier Gómez, Silvia Jessica Mostacedo y Orlando Reyes",
+    "handle": "https://hdl.handle.net/11362/40922",
+    "simbolo": "LC/W.728",
+    "isbn": null,
+    "fecha": "2017-01",
+    "tipo_documento": "Documento de Proyecto",
+    "paginas_cuerpo": 106,
+    "paginas_totales": 121,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cuál es el estado actual de las políticas públicas forestales en América Latina en relación con los desafíos y oportunidades que presenta el cambio climático, particularmente en términos de mitigación y adaptación?",
+    "alcance": {
+      "ambito_aplicacion": "Regional (América Latina: Argentina, Bolivia, Brasil, Chile, Colombia, Costa Rica, Cuba, Ecuador, El Salvador, Guatemala, Honduras, México, Nicaragua, Panamá, Paraguay, Perú, Uruguay, Venezuela)",
+      "referentes_dependencias": "CMNUCC, IPCC, Unión Europea (Programa EUROCLIMA), Noruega, Suiza, Alemania (GIZ, BMZ), Banco Mundial, BID, FAO, PNUD, PNUMA, WRI",
+      "sectorial": "Forestal (LULUCF/AFOLU), agropecuario, energía, biodiversidad, agua",
+      "temporal": "1990-2015"
+    },
+    "hallazgos_principales": [
+      "El sector LULUCF representa el 15% de las emisiones totales de la región, siendo la principal fuente en 6 países (p. 99, 101, 105)",
+      "Uruguay, Chile, Cuba y Costa Rica actúan como sumideros netos de carbono, absorbiendo emisiones (p. 9, 99)",
+      "Brasil logró reducciones drásticas de deforestación en la Amazonía (de más de 25,000 km2 en 2004 a menos de 5,000 km2 en 2012) mediante el PPCDAm (p. 31, 36)",
+      "La reducción de emisiones por deforestación es una opción costo-efectiva comparada con los sectores de energía y agricultura (p. 11, 105)",
+      "Los costos económicos proyectados del cambio climático en ALC oscilan entre el 1,5% y el 5% del PIB ante un aumento de 2,5 °C (p. 8, 98)"
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "Los bosques juegan un papel clave e inseparable entre las medidas de adaptación y mitigación en la región (p. 11, 105)",
+        "Se ha avanzado significativamente en la gobernanza sectorial e inventarios forestales, pero la implementación de estrategias REDD+ sigue condicionada al financiamiento internacional (p. 105)",
+        "Existe una marcada heterogeneidad en el desempeño forestal regional, donde pocos países han logrado revertir la pérdida de bosques mediante incentivos (p. 103, 105)"
+      ],
+      "recomendaciones": [
+        "Contemplar el intercambio de experiencias exitosas y el desarrollo de marcos legales e institucionales mediante una agenda regional de cooperación (p. 106)",
+        "Fortalecer la coordinación intersectorial (ambiente, forestal, agropecuario, territorial) para abordar las causas de la deforestación (p. 103)",
+        "Fomentar el uso de la madera (PFM) en sectores como la construcción para mejorar el desempeño ambiental de los bosques (p. 11, 106)",
+        "Mantener y actualizar los inventarios forestales mediante sistemas de monitoreo y teledetección en tiempo real (p. 10, 106)"
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "El documento analiza las políticas públicas forestales en 18 países de América Latina frente al cambio climático, destacando al sector LULUCF como responsable del 15% de las emisiones regionales pero también como una opción de mitigación costo-efectiva. Identifica casos de éxito como Brasil en reducción de deforestación mediante el plan PPCDAm y Costa Rica en pagos por servicios ambientales, mientras señala que para seis países de la región los bosques siguen siendo la principal fuente de emisiones. El estudio subraya la necesidad de una gobernanza intersectorial y el fortalecimiento de sistemas de monitoreo para implementar estrategias de Reducción de Emisiones por Deforestación y Degradación (REDD+). Finalmente, propone una agenda de cooperación regional para intercambiar experiencias en manejo forestal sostenible y adaptación basada en ecosistemas."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "14-15",
+      "resumen": "Presenta el contexto global del cambio climático y analiza el papel fundamental de los bosques en América Latina como sumideros de carbono y proveedores de servicios ecosistémicos cruciales. Argumenta que el sector LULUCF es altamente prioritario para alcanzar las metas globales de mitigación mediante la reducción de emisiones por deforestación (REDD+) y el aumento del secuestro por biomasa (AR). Además, describe el alcance metodológico del estudio que abarca dieciocho países de la región.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "En América Latina todavía representan el 15% de las emisiones totales.",
+          "pagina": 15
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "La reducción de emisiones por deforestación y degradación de bosques (REDD+), el aumento del secuestro de carbono por la biomasa (AR) y el aumento del consumo de Productos Forestales Madereros (PFM) constituyen medidas de mitigación que, al mismo tiempo, tienen impactos positivos en la adaptación",
+          "pagina": 14
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Políticas públicas forestales en el contexto del cambio climático",
+      "nivel": 1,
+      "paginas": "16-17",
+      "resumen": "Describe los instrumentos de política pública forestal en la región, distinguiendo minuciosamente entre mecanismos regulatorios tradicionales de comando y control y esquemas basados en el mercado como los Pagos por Servicios Ecosistémicos (PSE). Destaca que, aunque hay avances significativos en la formulación de planes nacionales forestales, su implementación efectiva es limitada. Concluye señalando que el tema del cambio climático suele ocupar un lugar más bien marginal en las agendas políticas domésticas.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "el tema todavía ocupa un lugar más bien marginal en la agenda política doméstica de la mayoría de los países de la región",
+          "pagina": 16
+        },
+        {
+          "dimension": "oportunidades",
+          "cita": "Los Pagos por Servicios Ecosistémicos/Ambientales (PSE/PSA) emergen como una alternativa de remuneración por las prácticas sostenibles en los escenarios rurales.",
+          "pagina": 17
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "II. Emisiones de GEI, adaptación y mitigación y el papel de los bosques",
+      "nivel": 1,
+      "paginas": "18-19",
+      "resumen": "Analiza en detalle las contribuciones sectoriales relativas de gases de efecto invernadero en el ámbito global y regional. Señala que el sector LULUCF es el principal responsable de alrededor del 17% de las emisiones globales de carbono. Resalta que la reducción de la deforestación es una alternativa de mitigación de costo-efectividad superior comparada con las transiciones en los sectores de energía y agricultura. Finalmente, menciona la importancia estratégica del acceso a fuentes de financiamiento internacional.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "En el sector LULUCF, la deforestación y la descomposición de la biomasa son responsables de alrededor del 17% de emisiones de GEI globales",
+          "pagina": 18
+        },
+        {
+          "dimension": "oportunidades",
+          "cita": "la reducción de la deforestación aparece como una alternativa de menor costo que otras en el ámbito de la energía, con la ventaja de que se generan beneficios conexos",
+          "pagina": 19
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "III. Metodología de Trabajo",
+      "nivel": 1,
+      "paginas": "20",
+      "resumen": "Explica detenidamente el enfoque del estudio basado en la recopilación de datos y la revisión crítica de políticas públicas del sector de la silvicultura en América Latina. Utiliza la plataforma CAIT 2.0 para la comparabilidad armonizada de estadísticas sobre gases y combustibles entre los diversos países analizados. El método combina el análisis numérico de la masa de gases con la evaluación cualitativa de marcos normativos sectoriales.",
+      "dimensiones": [],
+      "subsecciones": []
+    },
+    {
+      "seccion": "IV. Revisión de las políticas públicas forestales y el cambio climático en América Latina",
+      "nivel": 1,
+      "paginas": "22-104",
+      "resumen": "Mapa regional detallado que analiza 18 países individualmente más una síntesis para América Latina. Cubre desde la trayectoria de emisiones de GEI y cobertura boscosa hasta los marcos legales, institucionales y fondos específicos para clima y bosques en cada territorio.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Argentina",
+          "nivel": 2,
+          "paginas": "22-25",
+          "resumen": "Argentina cuenta con una gran riqueza forestal y un marco normativo estructurado bajo la Ley de Bosques Cultivados (Ley 25.080) que promueve la forestación mediante incentivos económicos directos y exenciones fiscales, y la Ley de Bosques Nativos (Ley 26.331) que instrumenta el Ordenamiento Territorial (OTBN). Sin embargo, el país enfrenta serios desafíos por la deforestación impulsada por la ganadería extensiva y la agricultura de soja. El estudio analiza también la vulnerabilidad de sus ecorregiones ante el cambio climático.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "Asimismo, la Ley 25.080 de 1999 (Ley de Inversiones para Bosques Cultivados) está dirigida a fomentar la forestación y reforestación en áreas no ocupadas por bosques nativos.",
+              "pagina": 24
+            },
+            {
+              "dimension": "desafios",
+              "cita": "Las causas más importantes de la deforestación que han sido nombradas para las diversas regiones son la expansión de la superficie cultivada de soja, actividades ganaderas, extracción de madera e incendios",
+              "pagina": 24
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Bolivia",
+          "nivel": 2,
+          "paginas": "26-29",
+          "resumen": "Bolivia alberga una de las mayores coberturas de bosque nativo de la región pero registra altas tasas de deforestación asociadas al desarrollo de la agroindustria y ganadería extensiva. En su marco legal destaca la Ley Marco de la Madre Tierra y Desarrollo Integral para Vivir Bien (Ley 300) que crea la Autoridad Plurinacional de la Madre Tierra (APMT). El país se aparta de los esquemas tradicionales de mercados de carbono promoviendo el Mecanismo Conjunto de Mitigación y Adaptación (MCMA).",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "La Ley Marco de la Madre Tierra y Desarrollo Integral para Vivir Bien (2012) creó la Autoridad Plurinacional de la Madre Tierra (APMT) en sustitución de la institucionalidad sobre cambio climático existente.",
+              "pagina": 28
+            },
+            {
+              "dimension": "desafios",
+              "cita": "La deforestación ocurre asociada al desarrollo de la agroindustria y la exportación, la expansión de las actividades de subsistencia y para el mercado local, la ganadería, las actividades forestales, mineras, petroleras e infraestructura",
+              "pagina": 28
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Brasil",
+          "nivel": 2,
+          "paginas": "30-36",
+          "resumen": "Analiza detalladamente el caso de Brasil, destacando el éxito del Plan de Acción para la Prevención y el Control de la Deforestación en la Amazonía Legal (PPCDAm) para reducir la deforestación en la región, que pasó de más de 27,000 km2 en 2004 a menos de 5,000 km2 en 2012. Describe instrumentos de vanguardia como el sistema de monitoreo satelital DETER para detección en tiempo real y el Fondo Amazonía, que canaliza recursos internacionales basados en reducciones verificadas de emisiones. El capítulo también aborda la Política Nacional de Cambio Climático y su integración con los planes sectoriales de agricultura y energía.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "En 2004 comienza el Plan de Acción para la Prevención y el Control de la Deforestación en la Amazonía Legal (PPCDAm) que a través de acciones focalizadas principalmente en la fiscalización de las actividades ilegales, con apoyo del sistema DETER se consiguió una reducción muy importante de la deforestación",
+              "pagina": 32
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "El Plan Nacional de Cambio Climático (PNMC) (PNMC, 2008) otorga un papel protagonista a acciones en el área forestal.",
+              "pagina": 32
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Chile",
+          "nivel": 2,
+          "paginas": "37-40",
+          "resumen": "En Chile, el sector forestal ejerce un rol fundamental como sumidero neto de carbono impulsado por la expansión de plantaciones comerciales. Su principal herramienta de gestión es la Ley de Recuperación del Bosque Nativo y Fomento Forestal (Ley N° 20.283 de 2008) que regula la preservación y el manejo sostenible de las especies nativas. El país cuenta además con la Estrategia Nacional de Cambio Climático y Recursos Vegetativos (ENCCRV) liderada por la CONAF para mitigar incendios forestales.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "La Ley de Bosque Nativo (Ley 20.283/2008) establece planes de manejo y preservación para las especies nativas, con finalidad de garantizar su perennidad con producción de Productos Forestales Madereros y Productos Forestales No Maderables (Chile, 2011).",
+              "pagina": 39
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Colombia",
+          "nivel": 2,
+          "paginas": "41-44",
+          "resumen": "Colombia posee una vasta superficie forestal concentrada principalmente en la Amazonía y el Pacífico. El Sistema Nacional de Cambio Climático (SISCLIMA) coordina las políticas sectoriales y territoriales mediante la Estrategia Colombiana de Desarrollo Bajo en Carbono (ECDBC) y la ENREDD+. El país cuenta con la autorización legal de la Ley 1152 de 2007 para que las entidades territoriales implementen esquemas de Pagos por Servicios Ambientales (PSA). Adicionalmente, resalta importantes proyectos piloto de adaptación financiados por el FMAM.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "Los bosques en Colombia, que en 1990 contabilizaban 64 millones de hectáreas, se han reducido hasta 58 millones de hectáreas en 2015, a razón de 236,6 mil hectáreas anuales de transformación en ese periodo (FAO, 2015).",
+              "pagina": 43
+            },
+            {
+              "dimension": "avances_implementacion",
+              "cita": "El Sistema Nacional de Cambio Climático (SISCLIMA) incluye la Estrategia Colombiana de Desarrollo Bajo en Carbono (ECDBC), la Estrategia Nacional para la Reducción de Emisiones por Deforestación y Degradación de los Bosques (ENREDD)",
+              "pagina": 44
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "F. Costa Rica",
+          "nivel": 2,
+          "paginas": "45-47",
+          "resumen": "Resalta el papel pionero de Costa Rica en la implementación de Pagos por Servicios Ambientales (PSA) desde 1997, logrando revertir la pérdida de bosques. Describe su meta de carbono neutralidad al 2021 y el uso de impuestos a combustibles fósiles para financiar la conservación forestal. El Fondo Nacional de Financiamiento Forestal (FONAFIFO) coordina de manera centralizada la estrategia nacional REDD+.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "En 1997, a partir de la Ley Forestal No 7575 se define el Pago por Servicios Ambientales (PSA) como un reconocimiento monetario que se entrega a los propietarios de bosques naturales y plantaciones forestales",
+              "pagina": 47
+            },
+            {
+              "dimension": "avances_implementacion",
+              "cita": "Actualmente se consideran un sistema de Pago por Servicios Ambientales (PSA) de segunda generación tras los cambios introducidos al sistema a partir de 2005 con relación a las nociones de género y el impulso al PSA en comunidades indígenas en la asignación de sus áreas prioritarias.",
+              "pagina": 47
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "G. Cuba",
+          "nivel": 2,
+          "paginas": "48-51",
+          "resumen": "Cuba ha incrementado sustancialmente su cobertura forestal gracias al desarrollo de un sistemático Programa Forestal Nacional y planes de reforestación y regeneración natural. Las prioridades de adaptación frente al cambio climático y al ascenso del nivel del mar se centran en la recuperación y manejo de manglares y bosques semicaducifolios de las zonas costeras. El país no participa de los mecanismos de mercado internacionales y cuenta con Comisiones de Reforestación provinciales.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "Los bosques en Cuba, que en 1990 contabilizaban 2 millones de hectáreas, han aumentado hasta 3,2 millones de hectáreas en 2015, a razón de 45,7 mil hectáreas anuales de transformación en ese periodo",
+              "pagina": 50
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "H. Ecuador",
+          "nivel": 2,
+          "paginas": "52-55",
+          "resumen": "En Ecuador, el sector LULUCF constituye la principal fuente de emisiones de gases de efecto invernadero debido al avance de la deforestación. El país cuenta con el Programa Socio Bosque del Ministerio del Ambiente, un pionero sistema de incentivos hídricos y forestales que promueve la conservación del bosque nativo. Para 2014, el programa protegía más de 1,3 millones de hectáreas con financiamiento del Fondo Especial sobre Cambio Climático.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "A través del programa Socio Bosque, se promueve la conservación forestal del bosque nativo por un incentivo económico por hectárea de bosque preservado de forma anual. En 2014, el Programa abarca 1 343 000 hectáreas y 173 000 beneficiarios",
+              "pagina": 54
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "I. El Salvador",
+          "nivel": 2,
+          "paginas": "56-59",
+          "resumen": "El Salvador posee una cobertura forestal baja del doce por ciento y enfrenta una gran vulnerabilidad ante ciclones y deslizamientos. Su propuesta ante la CMNUCC se basa en el modelo de Mitigación basada en la Adaptación (MbA), priorizando la restauración ecológica de paisajes degradados y manglares. Estas acciones son coordinadas a través del Sistema Nacional de Gestión del Medio Ambiente (SINAMA) y apoyadas por el FCPF.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "la propuesta de El Salvador se fundamenta en un abordaje denominado ―Mitigación basada en la Adaptación‖ (MbA), el cual pretende que los co-beneficios de mitigación sean reconocidos y compensados con financiamiento climático público en un programa de REDD+",
+              "pagina": 59
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "J. Guatemala",
+          "nivel": 2,
+          "paginas": "60-64",
+          "resumen": "Guatemala enfrenta una severa deforestación antropogénica debido a la expansión agrícola, pero destaca por su Ley Marco para Regular la Reducción de la Vulnerabilidad (Decreto 7/2013) y la madurez de sus incentivos. El Instituto Nacional de Bosques (INAB) opera el Programa de Incentivos Forestales (PINFOR) y el PINPEP para pequeños poseedores, generando miles de empleos rurales. El país involucra de forma activa a comunidades indígenas en sus programas forestales.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "En Guatemala, los programas de incentivos forestales han contribuido a desarrollar nuevas plantaciones forestales, como el Programa de incentivos para Pequeños Poseedores de Tierras de Vocación Forestal o Agroforestal (PINPEP) y Programa de Incentivos Forestales (PINFOR)",
+              "pagina": 63
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "K. Honduras",
+          "nivel": 2,
+          "paginas": "65-68",
+          "resumen": "Honduras sufre pérdidas forestales agudas debido a la conversión agrícola extensiva y ganadería, representando el sector LULUCF el 59% de sus emisiones nacionales. Dispone de una Estrategia Nacional de Cambio Climático (ENCC) dirigida por SERNA y el Plan Estratégico del Instituto de Conservación Forestal (ICF). Como mecanismo innovador de control, cuenta con la participación activa de las Fuerzas Armadas en tareas de vigilancia ecológica de los bosques.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "Desde 2005, las Fuerzas Armadas de Honduras tomaron un papel activo en la vigilancia y control de los espacios forestales con más de 2 000 efectivos en todo el territorio nacional coordinados por la Dirección de Apoyo Ecológico y Protección del Bosque.",
+              "pagina": 67
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "L. México",
+          "nivel": 2,
+          "paginas": "69-72",
+          "resumen": "México cuenta con un robusto andamiaje institucional regulado por la Ley General de Cambio Climático (LGCC) y la Ley General de Desarrollo Forestal Sustentable (LGDFS). El país destaca por su modelo de manejo forestal comunitario y su consolidado programa de Pagos por Servicios Ambientales (PSA) de CONAFOR, el cual cubre más de 3 millones de hectáreas. Además, lidera la preparación para el mecanismo REDD+ con esquemas financieros concurrentes.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "La Ley General de Cambio Climático (LGCC), el principal instrumento de política con el que cuenta el país para enfrentar el cambio climático, prevé la integración del Sistema Nacional de Cambio Climático (SINACC).",
+              "pagina": 71
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "M. Nicaragua",
+          "nivel": 2,
+          "paginas": "73-77",
+          "resumen": "En Nicaragua, el sector LULUCF es responsable del 62% de las emisiones nacionales debido al elevado consumo de leña y la deforestación. Bajo la coordinación de MARENA y del Instituto Nacional Forestal (INAFOR), el país implementa la Estrategia Nacional Ambiental y de Cambio Climático (ENACC) y programas agroforestales como POSAF para revertir la degradación. Estas iniciativas fomentan la regeneración natural y el establecimiento de cercas vivas.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "El componente Manejo de Recursos Naturales del Programa introdujo sistemas productivos forestales y agroforestales en fincas privadas. Entre las más utilizadas por los productores están: barreras vivas, cercas vivas, cultivos de cobertura",
+              "pagina": 76
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "N. Panamá",
+          "nivel": 2,
+          "paginas": "78-81",
+          "resumen": "Panamá ha logrado disminuir notablemente sus emisiones del sector LULUCF en las últimas décadas. Su gestión forestal se enmarca en la Ley Forestal de 1994 y la Política Nacional de Cambio Climático. La Autoridad Nacional del Ambiente (ANAM) coordina el Programa Conjunto ONU-REDD y la Mesa Nacional REDD+ establecida en 2012. Esto ha facilitado la participación de la Coordinadora Nacional de Pueblos Indígenas de Panamá (COONAPIP).",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "En 2012 se conformó la Mesa Nacional REDD+. La Mesa Nacional REDD+ incluye temas de Monitoreo, Medición Reporte y Verificación (MRV)",
+              "pagina": 81
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "O. Paraguay",
+          "nivel": 2,
+          "paginas": "82-85",
+          "resumen": "En Paraguay, el sector LULUCF representa el 64% de las emisiones nacionales en 2010 debido a las altas tasas de deforestación causadas por la expansión ganadera. El Instituto Forestal Nacional (INFONA) fiscaliza el cumplimiento de la Ley Forestal N° 422/73, que obliga a mantener un 25% de la cobertura boscosa original. En materia de compensación, destaca la Ley de Valorización y Retribución de los Servicios Ambientales (Ley 3001/06).",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "aproximadamente el 97% de las industrias primarias procesan maderas provenientes del bosque natural",
+              "pagina": 83
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "P. Perú",
+          "nivel": 2,
+          "paginas": "86-90",
+          "resumen": "Perú alberga el segundo mayor territorio de bosques tropicales en América Latina, siendo el sector LULUCF el responsable del 46% de sus emisiones debido a la deforestación de la Amazonía. La agenda forestal cuenta con la Ley Forestal y de Fauna Silvestre (Ley N° 29763) y el Programa Nacional de Conservación de Bosques del MINAM. El país cuenta también con la Ley de Mecanismos de Retribución por Servicios Ecosistémicos (Ley N° 30215).",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "La principal fuente de emisiones de GEI a nivel nacional es la conversión de bosques a agricultura y pastos, principalmente en la Amazonía.",
+              "pagina": 87
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "Q. Uruguay",
+          "nivel": 2,
+          "paginas": "91-94",
+          "resumen": "Uruguay presenta un desempeño forestal excepcional caracterizado por una deforestación casi nula y por haber duplicado su superficie forestal entre 1990 y 2015 merced a una política sostenida de forestación industrial. Coordina sus acciones bajo el Sistema Nacional de Respuesta al Cambio Climático (SNRCCV). El país promueve iniciativas de mitigación innovadoras como PROBIO para generar electricidad con biomasa y las Políticas de Construcción Sustentable (PoliCS).",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "Los bosques en Uruguay, que en 1990 contabilizaban 798 000 hectáreas, han aumentado a más de 1,8 millones de hectáreas en 2015, a razón de 41 900 hectáreas anuales de transformación en ese periodo",
+              "pagina": 93
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "R. Venezuela",
+          "nivel": 2,
+          "paginas": "95-98",
+          "resumen": "Venezuela cuenta con una inmensa riqueza forestal protegida bajo Áreas Bajo Régimen de Administración Especial (ABRAE) pero sufre tasas altas de pérdida de bosques para ganadería extensiva. El Estado aplica compensaciones ambientales mediante créditos preferenciales regulados por la Ley de Bosques de 2008. Para mitigar las pérdidas de carbono, el gobierno nacional implementó el Plan Nacional de Reforestación Productiva de la Misión Árbol con fines comunitarios.",
+          "dimensiones": [
+            {
+              "dimension": "avances_implementacion",
+              "cita": "El Plan Nacional de Reforestación Productiva (Árbol Misión Socialista), es un ambicioso programa iniciado en 2006 con la finalidad de ejecutar proyectos de reforestación comunitarios con fines protectores, agroforestales y/o comerciales–industriales.",
+              "pagina": 98
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "S. América Latina",
+          "nivel": 2,
+          "paginas": "99-104",
+          "resumen": "Sintetiza la situación regional, indicando que el sector forestal es priorizado en la mayoría de las NDCs para alcanzar compromisos climáticos. Identifica que la principal causa de deforestación es la conversión a usos agropecuarios impulsada por precios de commodities, y subraya que REDD+ depende de la coordinación de políticas ambientales y de desarrollo. Los países muestran una gran heterogeneidad en el desarrollo institucional y el acceso al financiamiento.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "El principal obstáculo en el desarrollo de políticas para REDD+ es que su abordaje requiere de una combinación de políticas ambientales, forestales, agropecuarias, territoriales y de desarrollo.",
+              "pagina": 104
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "se observa que las principales causas de la deforestación son la conversión a usos agropecuarios. Los altos precios de algunos commodities en años anteriores, como la soja, la carne y la palma africana han impulsado la conversión de grandes extensiones de bosque a tierras agrícolas.",
+              "pagina": 101
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "V. Conclusiones",
+      "nivel": 1,
+      "paginas": "106-107",
+      "resumen": "Cierra el análisis global reafirmando el papel estratégico e inseparable de los bosques nativos para la regulación del ciclo hídrico y la conservación de la biodiversidad en América Latina. Concluye que, aunque se ha avanzado en gobernanza sectorial e inventarios forestales mediante tecnologías de teledetección, persiste la necesidad de consolidar el financiamiento internacional para REDD+. Propose estructurar una agenda regional de cooperación para intercambiar experiencias exitosas de gobernanza y control.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "Varios países cuentan con experiencia en la implementación de sistemas de pago por servicios ambientales (la experiencia más importante es la de Costa Rica) y están en capacidad de implementar estrategias REDD+ a escala nacional (los avances en las negociaciones sobre REDD+ en la CMNUCC y el financiamiento internacional asociado condicionan la implementación de estas estrategias).",
+          "pagina": 106
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "De lo anterior se deduce que existe una agenda regional de cooperación que debería contemplar el intercambio de experiencias, tanto en las acciones con resultados exitosos como en el desarrollo de marcos legales e institucionales y sistemas de información.",
+          "pagina": 107
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento analiza múltiples instrumentos concretos (REDD+, PSA, PPCDAm) y destaca la importancia de la inversión coordinada, pero funciona mayormente como un diagnóstico de políticas existentes por país y no como una propuesta única de paquete coordinado a escala de modelo de desarrollo. Aunque menciona sectores estratégicos (bioeconomía, energía), su voz es analítica-descriptiva sobre la gestión forestal sectorial.",
+      "citas": [
+        {
+          "cita": "El principal obstáculo en el desarrollo de políticas para REDD+ es que su abordaje requiere de una combinación de políticas ambientales, forestales, agropecuarias, territoriales y de desarrollo.",
+          "pagina": 104
+        }
+      ],
+      "nota": null
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "Nombra múltiples mecanismos y plataformas de coordinación vigentes en el ámbito de aplicación, tales como el SISCLIMA en Colombia, la Mesa Nacional REDD+ en Panamá y la Mesa Indígena de Cambio Climático en Guatemala.",
+      "citas": [
+        {
+          "cita": "El Sistema Nacional de Cambio Climático (SISCLIMA) incluye la Estrategia Colombiana de Desarrollo Bajo en Carbono (ECDBC), la Estrategia Nacional para la Reducción de Emisiones por Deforestación y Degradación de los Bosques (ENREDD)",
+          "pagina": 44
+        },
+        {
+          "cita": "En 2012 se conformó la Mesa Nacional REDD+. La Mesa Nacional REDD+ incluye temas de Monitoreo, Medición Reporte y Verificación (MRV)",
+          "pagina": 81
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Sí",
+      "evidencia": "Enumera sectores concretos como la bioenergía (biomasa forestal), la construcción civil en madera y sistemas agroforestales. Vincula estas oportunidades explícitamente con el incremento en la productividad y el empleo generado, especialmente en programas como PINPEP en Guatemala.",
+      "citas": [
+        {
+          "cita": "Los factores de valoración de medidas de mitigación incluyen el potencial de mitigación, el costo marginal de abatimiento, la madurez tecnológica, los co-beneficios ambientales y sociales, las barreras técnicas, regulatorias, financieras, el acceso y atracción de inversiones, el incremento en la productividad y el empleo generado.",
+          "pagina": 106
+        },
+        {
+          "cita": "Hasta 2009, PINFOR benefició a más de 6 500 proyectos y aportó alrededor de 150 000 puestos de trabajo en zonas rurales.",
+          "pagina": 64
+        }
+      ],
+      "nota": null
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "No",
+      "evidencia": "El bloque de cierre (capítulo V. Conclusiones) es una síntesis interpretativa del diagnóstico realizado. No formula una lista de imperativos de acción, recomendaciones operativas o instrumentos específicos con verbo y objeto que pasen el test de concreción institucional propio del documento; se limita a señalar la necesidad de una agenda de cooperación e intercambio.",
+      "citas": [
+        {
+          "cita": "De lo anterior se deduce que existe una agenda regional de cooperación que debería contemplar el intercambio de experiencias, tanto en las acciones con resultados exitosos como en el desarrollo de marcos legales e institucionales y sistemas de información.",
+          "pagina": 107
+        }
+      ],
+      "desglose_items": [],
+      "tally": "0 de 0 ítems pasan el test de concreción",
+      "nota": "El cierre del documento es estrictamente diagnóstico y prospectivo general, sin una sección de recomendaciones operativas desglosables."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la contradicción entre la necesidad de crecimiento económico (que históricamente impulsa la deforestación por commodities) y la urgencia de conservar los bosques como sumideros climáticos. Aborda la arquitectura institucional forestal no solo como un fin conservacionista, sino como el medio necesario para cumplir compromisos internacionales (NDCs) y acceder a financiamiento.",
+      "filtro_categoria_primaria": "Se clasifica en #11 Capacidades del Estado porque el hilo estructural es la revisión de marcos legales, presupuestarios, sistemas de monitoreo (MRV) e inventarios en 18 países. El sujeto de cambio es la gobernanza y la institucionalidad sectorial, utilizando la sostenibilidad hídrica y de carbono como el campo de aplicación.",
+      "secundaria_obligatoria": "La transformación #6 Sostenibilidad ambiental es la secundaria obligatoria, ya que define la finalidad climática (mitigación y adaptación) hacia la cual se deben orientar las capacidades estatales revisadas.",
+      "justificacion_anti_copia": "Analiza instrumentos de gestión específicos como el sistema DETER de monitoreo satelital en tiempo real en Brasil, los Certificados de Incentivo Forestal en Panamá y Colombia, y el Programa Socio Bosque de transferencias condicionadas en Ecuador. Evalúa la 'incerteza jurídica' de la titulación de tierras como obstáculo para la gestión de recursos.",
+      "validacion_anclas": "Semejante al ancla #12 (PLACA) por ser un inventario comparado de leyes y gabinetes donde el método es institucional aunque el sector sea ambiental. Diferente al ancla #9 (doc09) porque aquí el centro no es la tecnología energética sino la capacidad administrativa y regulatoria de los bosques."
+    },
+    "tipo_documento_climatico": "Documento de proyecto / Estudio técnico",
+    "nivel_aplicacion": "Regional / Nacional",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

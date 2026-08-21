@@ -1,0 +1,259 @@
+{
+  "documento": {
+    "num_muestra": 41783,
+    "titulo": "Estimación de costos asociados a la seguridad hídrica en la agricultura como medida de adaptación al cambio climático en Chile",
+    "autoria": "Francisco Meza",
+    "handle": "https://hdl.handle.net/11362/41783",
+    "simbolo": "LC/TS.2017/47",
+    "isbn": null,
+    "fecha": "2017-06",
+    "tipo_documento": "Documentos de Proyectos",
+    "paginas_cuerpo": 54,
+    "paginas_totales": 57,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cuál es el costo económico asociado a la implementación de medidas de adaptación a la seguridad hídrica en el sector silvoagropecuario frente al cambio climático en Chile, y cómo se compara con los costos de inacción?",
+    "alcance": {
+      "ambito_aplicacion": "Chile",
+      "referentes_dependencias": null,
+      "sectorial": "Agricultura y recursos hídricos",
+      "temporal": "Histórico (2007) y proyecciones futuras para aumentos de temperatura y reducción de oferta de agua"
+    },
+    "hallazgos_principales": [
+      "La pérdida neta económica de no adaptación en la primera sección del Maipo fluctúa entre 28,6 y 101,2 millones de dólares por año según la severidad del escenario climático. (p.45)",
+      "Para la cuenca del Limarí, el costo de no adaptación se estima entre 19,7 y 65,6 millones de dólares por año. (p.48)",
+      "Los programas de gestión tienen un límite de efectividad en escenarios de restricciones severas, siendo más útiles frente a cambios moderados. (p.46)",
+      "Las alternativas basadas en la modificación de los sistemas de riego representan la mejor opción frente a escenarios de alta restricción hídrica, minimizando los costos totales. (p.47)"
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "Las medidas de adaptación destinadas a mejorar la eficiencia de los sistemas de riego son la opción más costo-efectiva frente a escenarios severos de reducción de disponibilidad hídrica en las cuencas del Maipo y Limarí.",
+        "El costo de implementar medidas de adaptación óptimas (como la sustitución de tecnología de riego) es significativamente inferior a la pérdida productiva que genera la inacción."
+      ],
+      "recomendaciones": [
+        "Desarrollar estudios hidrológicos y agronómicos más acabados a nivel de cuenca para refinar el potencial de adaptación y los costos de infraestructura.",
+        "Implementar un programa de investigación en sustentabilidad y mejoramiento genético para el sector agrícola."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "El documento estima los costos asociados a las medidas de adaptación frente a la disminución de disponibilidad hídrica en el sector agrícola de Chile, tomando como casos piloto las cuencas del Maipo y Limarí. A través de la modelación de escenarios de cambio climático, se calculan las pérdidas productivas (costos de inacción) que oscilan entre decenas y más de cien millones de dólares anuales. Se evalúan técnica y económicamente tres enfoques de adaptación: gestión del recurso, modernización del riego y aumento de oferta vía embalses prediales. El estudio concluye que las inversiones en eficiencia de riego son la opción óptima para minimizar el daño frente a escenarios severos, y advierte que las acciones de acumulación de agua requieren mayor análisis técnico y económico."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "8",
+      "resumen": "Presenta el objetivo del estudio, que consiste en agrupar y evaluar las medidas propuestas en el Plan Nacional de Adaptación al Cambio Climático del Sector Silvoagropecuario en Chile. Señala la alta exposición climática de los cultivos y establece una metodología económica para calcular el costo de las medidas orientadas a la seguridad hídrica comparadas con la inacción.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "el prolongado período en que los cultivos y plantaciones permanecen expuestos a las fluctuaciones climáticas y las claras influencias que tienen los elementos meteorológicos, tanto sobre la productividad de los cultivos como sobre la calidad de los productos cosechados y en la producción pecuaria, hacen de esta actividad una de las más vulnerables al cambio climático",
+          "pagina": 8
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Antecedentes",
+      "nivel": 1,
+      "paginas": "10-23",
+      "resumen": "Describe los impactos esperados del cambio climático sobre la agricultura y resume las medidas del plan nacional de adaptación, identificando las opciones más relevantes para recursos hídricos.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Impactos del cambio climático en el sector agrícola",
+          "nivel": 2,
+          "paginas": "10-16",
+          "resumen": "Documenta cómo las variaciones climáticas afectarán el rendimiento de cultivos a nivel global, detallando los efectos directos sobre la fisiología vegetal y la incidencia de plagas exacerbadas por el aumento térmico. A nivel nacional, proyecta para Chile mermas de productividad en la zona norte y central derivadas de una agudizada escasez hídrica y menor disponibilidad de horas de frío. En contraste, advierte que la zona sur podría experimentar beneficios transitorios o aumentos de rendimiento en ciertos cultivos extensivos y praderas, reconfigurando el mapa productivo del país.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Desde la región de Coquimbo hasta la del Biobío, se espera una disminución en los rendimientos en todo el valle central en un rango de entre el 10 y 20%.",
+              "pagina": 16
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Adaptación en agricultura",
+          "nivel": 2,
+          "paginas": "17-23",
+          "resumen": "Sintetiza las metas y líneas de acción estratégicas del Plan Nacional de Adaptación al Cambio Climático del Sector Silvoagropecuario en Chile, enfatizando la necesidad de construir resiliencia sistémica. Se resalta que gran parte de las estrategias propuestas buscan reducir la vulnerabilidad frente a mermas hídricas, abarcando instrumentos económicos y técnicos que van desde la bonificación focalizada al riego tecnificado y la ampliación del seguro agrícola, hasta el fomento de obras menores como la captación y cosecha de aguas lluvia en zonas de secano.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Fomento de la inversión privada en obras de riego y drenaje a través de la bonificación de una parte de la inversión de los proyectos de tecnificación del riego intra—predial y/o mejoras en los sistemas de conducción de aguas.",
+              "pagina": 20
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "II. Metodología propuesta",
+      "nivel": 1,
+      "paginas": "24-43",
+      "resumen": "Desarrolla el marco metodológico para estimar impactos y costos de adaptación utilizando modelos de demanda ecofisiológica bajo escenarios de incremento térmico y restricción de precipitación, definiendo las alternativas de mitigación a evaluar.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Marco metodológico general",
+          "nivel": 2,
+          "paginas": "24-25",
+          "resumen": "Introduce un modelo simplificado para calcular el costo de adaptación frente a reducciones de oferta hídrica. Se asume que todos los usuarios ajustarán su consumo proporcionalmente a la caída de agua y que se seleccionan medidas buscando minimizar el costo de mantener la producción actual.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "el tercer supuesto fundamental asume que las medidas de adaptación son seleccionadas única y exclusivamente en función de su costo relativo, buscando minimizar el costo de adaptación para preservar la producción actual.",
+              "pagina": 25
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Escenarios de cambio climático",
+          "nivel": 2,
+          "paginas": "25-27",
+          "resumen": "Revisa proyecciones globales y locales, optando por un análisis de sensibilidad que representa los impactos en Chile mediante incrementos de temperatura de hasta +4°C y reducciones de la oferta de agua de hasta un -40%.",
+          "dimensiones": [
+            {
+              "dimension": "tendencias",
+              "cita": "se evidencian reducciones de precipitación de manera robusta en gran parte del territorio chileno y del occidente argentino",
+              "pagina": 25
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Modelo de evaluación de impactos frente a las restricciones de oferta",
+          "nivel": 2,
+          "paginas": "27-43",
+          "resumen": "Detalla de forma exhaustiva el modelo ecofisiológico utilizado para calcular la evapotranspiración de cultivos y simular el rendimiento agrícola bajo escenarios hídricos restrictivos, incorporando coeficientes específicos para cada especie. Describe la parametrización de variables agronómicas e hidrológicas y define las unidades de análisis territoriales (cuencas del Maipo y Limarí), caracterizando a profundidad su climatología histórica, series de suelo y la distribución actual de tecnologías de riego superficial frente al tecnificado. A partir de ello, identifica y dimensiona técnica y económicamente tres grandes grupos de medidas de adaptación viables para la simulación: el perfeccionamiento de la gestión intrapredial de recursos hídricos mediante asistencia técnica, la migración escalonada hacia sistemas de riego de mayor eficiencia (como aspersión, pivote o cinta de goteo), y la construcción de infraestructura local menor para la acumulación nocturna o estacional de caudales, asignando costos unitarios a cada intervención según la literatura y proyectos de fomento.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Es por ello que se ha preferido agrupar las medidas de adaptación en tres grandes grupos que deben ser evaluados cada uno con una metodología específica.",
+              "pagina": 37
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "III. Resultados",
+      "nivel": 1,
+      "paginas": "44-52",
+      "resumen": "Reporta las estimaciones de los costos de no adaptación frente a escenarios climáticos y los compara con los costos de implementar medidas de gestión, modernización tecnológica del riego y aumento de oferta.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Primera sección del Maipo",
+          "nivel": 2,
+          "paginas": "44-48",
+          "resumen": "Calcula pérdidas productivas de hasta 101,2 millones de dólares anuales en el escenario más severo de sequía. Demuestra que la modificación tecnológica de los sistemas de riego minimiza los costos frente a la no adaptación, posicionándose como la mejor alternativa frente a escenarios restrictivos.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "La pérdida neta económica fluctúa entre los 28 y 100 millones de dólares por año",
+              "pagina": 45
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Cuenca del Limarí",
+          "nivel": 2,
+          "paginas": "49-52",
+          "resumen": "Calcula un costo de inacción superior a 65 millones de dólares anuales. Concluye que, debido a la alta proporción actual de riego tecnificado, la sustitución tecnológica adicional es la única opción económica viable para compensar el déficit hídrico extremo.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Puesto que nos encontramos en una zona árida que ya tiene niveles de eficiencia de uso de agua bastante altas (producto de la participación del riego tecnificado) se observa que los planes de gestión, aun cuando introducen mejoras, son insuficientes",
+              "pagina": 50
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "IV. Conclusiones y recomendaciones",
+      "nivel": 1,
+      "paginas": "54-55",
+      "resumen": "Concluye que las medidas orientadas a aumentar la eficiencia del uso del agua son las más costo-efectivas para la adaptación agrícola. Recomienda fomentar la investigación sectorial y ejecutar estudios hidrológicos locales antes de financiar proyectos de embalses.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "la agricultura debe tener un programa de investigación en sustentabilidad y mejoramiento genético en el que aporten los centros nacionales de investigación con lo mejor de sus capacidades.",
+          "pagina": 54
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento evalúa costos de instrumentos tecnológicos concretos para optimizar el riego (eficiencia productiva), pero no plantea estas inversiones como un paquete simultáneo de escala macroeconómica; se enfoca exclusivamente en la respuesta adaptativa y los costos de sustitución tecnológica de la agricultura frente a la escasez hídrica.",
+      "citas": [
+        {
+          "cita": "Si se seleccionan las opciones de mayor efectividad se estima que el costo de adaptación sería inferior a los 5 millones de dólares anuales en cada una de las cuencas analizadas",
+          "pagina": 55
+        }
+      ],
+      "nota": null
+    },
+    "articulacion_actores": {
+      "veredicto": "Parcial",
+      "evidencia": "Se enumeran actores como el Estado, agricultores y organizaciones de regantes, pero las referencias al fortalecimiento institucional describen acciones genéricas de capacitación u ordenamiento jurídico sin nombrar un mecanismo o plataforma de coordinación multiactor consolidada en las cuencas analizadas.",
+      "citas": [
+        {
+          "cita": "Desarrollar programas tendientes al fortalecimiento técnico y legal de las Organizaciones de Usuarios de Aguas (OUA), para asegurar su constitución formal",
+          "pagina": 20
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "El documento no menciona el empleo, la productividad nacional (en sentido macro) ni la desigualdad en ningún pasaje; tampoco enumera oportunidades productivas vinculadas a la transición, sino que trata a la agricultura como un sector expuesto que busca minimizar pérdidas económicas de rendimiento.",
+      "citas": [],
+      "nota": null
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "No",
+      "evidencia": "La voz normativa propia del cierre es mayoritariamente de síntesis diagnóstica, enfocada en agrupar las medidas teóricas. No despliega una lista de recomendaciones operativas o ítems desglosables.",
+      "citas": [],
+      "desglose_items": [],
+      "tally": "0 de 0 ítems",
+      "nota": null
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento busca resolver la tensión entre la disminución proyectada en la disponibilidad de recursos hídricos inducida por el cambio climático y la necesidad de mantener la viabilidad económica y los rendimientos de la agricultura de riego en Chile.",
+      "filtro_categoria_primaria": "El objetivo principal es la adaptación climática y la resiliencia hídrica del sector agrícola. Se descarta Desarrollo productivo como primaria porque el motor del análisis no es la expansión comercial, sino la supervivencia, optimización de riego y disminución del daño productivo frente al estrés climático.",
+      "secundaria_obligatoria": "Capacidades del Estado actúa como secundaria, ya que la provisión de información, la evaluación económica ex-ante, y el diseño o bonificación de infraestructura de riego dependen de la intervención estatal y la política pública para materializar la adaptación.",
+      "justificacion_anti_copia": "La metodología de optimización aplicada a las cuencas del Maipo y Limarí para cuantificar los costos de inacción versus los costos de reconversión de sistemas de riego superficial a riego por goteo o aspersión demuestra que la respuesta adaptativa requiere modelación orientada a la planificación institucional.",
+      "validacion_anclas": "Comparte con el ancla doc20 (Impactos económicos del cambio climático en Colombia) el enfoque analítico: la vulnerabilidad y adaptación de sectores productivos es el objeto de la transformación (#6), mientras que la modelación estatal y planificación son el medio (#11). Difiere de doc18 porque no es una evaluación de finanzas públicas agregadas."
+    },
+    "tipo_documento_climatico": "Documento de proyecto/Estudio técnico",
+    "nivel_aplicacion": "Subnacional",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

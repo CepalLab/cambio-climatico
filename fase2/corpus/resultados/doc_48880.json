@@ -1,0 +1,328 @@
+{
+  "documento": {
+    "num_muestra": 9,
+    "titulo": "Costos asociados a la inacción frente al cambio climático en Chile: síntesis",
+    "autoria": "Óscar Melo, Joseluis Samaniego, Jimy Ferrer Carbonell, Maritza Jadrijevic y Sandra Briceño (coordinadores)",
+    "handle": "https://hdl.handle.net/11362/48880",
+    "simbolo": "LC/TS.2023/45",
+    "isbn": null,
+    "fecha": "2023",
+    "tipo_documento": "Documento de proyecto / síntesis de estudios técnicos",
+    "paginas_cuerpo": 70,
+    "paginas_totales": 75,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cuáles son los costos económicos de la inacción frente al cambio climático en Chile, hacia mediados y fines de siglo, bajo el escenario RCP 8.5, y qué limitaciones y mejoras metodológicas deben considerarse para interpretar y actualizar esas estimaciones?",
+    "alcance": {
+      "ambito_aplicacion": "Chile, con desagregación por regiones, macrozonas, comunas, caletas, ecosistemas y sectores económicos; el análisis cubre ocho sectores: agricultura, agua potable, biodiversidad y turismo, energía, minería, pesca y acuicultura, puertos y playas, y salud.",
+      "referentes_dependencias": "CEPAL (2012), ARCLIM, CR2, Centro de Cambio Global UC, DGA, MMA, IPCC y literatura internacional de valoración económica y modelación climática; el escenario climático central es RCP 8.5.",
+      "sectorial": "Impactos físicos y costos económicos de la inacción en ocho sectores, incluyendo empleo, producción, servicios ecosistémicos, salud, oferta y demanda de agua, energía, transporte marítimo y actividades pesqueras.",
+      "temporal": "Situación base 2018-2020; proyecciones principalmente a mediados de siglo (2035-2065 o 2050) y fines de siglo (2070-2099 o 2100), según sector; pesca artesanal usa 2026-2045 y 2081-2100."
+    },
+    "hallazgos_principales": [
+      "En agricultura, el ingreso agrícola neto se reduciría 28% sin adaptación y 25% con una medida de variedades mejoradas; la pérdida equivale a 10% del PIB silvoagropecuario modelado (p.29).",
+      "En agua potable, la disponibilidad nacional disminuiría 18% al 2050 y el exceso de demanda alcanzaría 27%, con un costo anual estimado de USD 229,3 millones (p.34).",
+      "La pérdida de servicios ecosistémicos por reducción de ecosistemas se estima en USD 1.300 millones anuales al 2050, mientras el turismo en áreas protegidas perdería USD 340 millones (p.37).",
+      "La inacción energética costaría aproximadamente USD 51 millones anuales al 2050 y USD 98 millones al 2100; la menor disponibilidad hídrica explica la mayor parte del costo (p.38).",
+      "En minería, el escenario de pérdida de derechos de agua genera costos de USD 1.646 millones al 2050 y USD 2.624 millones al 2100, aunque el supuesto representa un escenario extremo (pp.58-59).",
+      "Los costos netos exploratorios agregados alcanzan USD 4.120 millones a mediados de siglo y USD 3.471 millones a fines de siglo, pero el documento advierte que no deben sumarse por sus diferencias metodológicas (p.58).",
+      "En salud, al 2050 se estiman 1.072 decesos, 2.707 egresos respiratorios y 677 cardiovasculares, con costos nacionales de USD 412 millones por mortalidad y USD 2,93 millones por morbilidad (p.55)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La inacción tiene costos económicos importantes y heterogéneos, especialmente en biodiversidad, minería, agricultura, agua potable y salud, pero las cifras no constituyen una estimación exhaustiva ni un pronóstico.",
+        "La magnitud de los resultados depende de supuestos sectoriales, disponibilidad de datos, escala espacial, horizonte temporal, fuentes climáticas y tratamiento de la adaptación; por eso los costos sectoriales no son directamente agregables.",
+        "La principal brecha transversal es de información: faltan proyecciones hidrológicas integradas, datos sobre sectores y subsectores no modelados, evidencia sanitaria y proyecciones climáticas robustas para fines de siglo."
+      ],
+      "recomendaciones": [
+        "Construir modelos hidrológicos y actualizar información agrícola para incorporar disponibilidad de riego, más cultivos y usos competidores del agua (p.62).",
+        "Generar información primaria sobre servicios ecosistémicos y ampliar el análisis de turismo y biodiversidad fuera de áreas protegidas (p.62).",
+        "Usar proyecciones comunes de variables climáticas y socioeconómicas y mejorar la comparabilidad temporal y geográfica de los estudios (p.61).",
+        "Ampliar los modelos de energía, minería, pesca, puertos, playas y salud con datos, sectores, escenarios y efectos actualmente omitidos (pp.63-65).",
+        "Diseñar una agenda de investigación con múltiples proyectos para reducir incertidumbres y producir información climática e hidrológica más robusta, especialmente para fines de siglo (p.70)."
+      ],
+      "nota": "El cierre formula mejoras metodológicas y una agenda de investigación, no un programa de inversión pública o privada coordinada."
+    },
+    "resumen_narrativo": "El documento sintetiza ocho estudios sectoriales para cuantificar los costos económicos de la inacción climática en Chile bajo RCP 8.5, con horizontes de mediados y fines de siglo. Los resultados muestran pérdidas relevantes y espacialmente heterogéneas en ingresos agrícolas, disponibilidad de agua, servicios ecosistémicos, generación eléctrica, minería, pesca, playas y salud, junto con algunos beneficios localizados en puertos y zonas agrícolas australes. La comparación entre sectores debe ser prudente porque cambian las fuentes climáticas, los modelos, las escalas y los periodos de estimación, y el total exploratorio no es directamente agregable. El cierre prioriza mejorar datos y modelos, integrar recursos hídricos y desarrollar una agenda de investigación que reduzca la incertidumbre."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "15-17",
+      "resumen": "Presenta la inacción como contrafactual para valorar beneficios de políticas de mitigación y adaptación, y delimita el estudio a ocho sectores chilenos bajo RCP 8.5. Explica que la síntesis reúne metodologías, resultados, limitaciones y brechas de los estudios sectoriales, sin proyectar emisiones ni proponer medidas de mitigación o adaptación como objeto principal.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Impactos económicos del cambio climático a nivel internacional",
+          "nivel": 2,
+          "paginas": "16-17",
+          "resumen": "Revisa el Reporte Stern, el costo social del carbono y la literatura del IPCC y de organismos internacionales sobre costos, adaptación, mitigación, incertidumbre y eventos catastróficos. El apartado ubica el estudio chileno dentro de una tradición de valoración económica y muestra que las tasas de descuento y la cobertura sectorial condicionan las estimaciones.",
+          "dimensiones": [{"dimension":"contexto_antecedentes","cita":"Uno de los hitos más importantes en la evaluación económica del cambio climático fue el Reporte Stern (2006), primer intento de abordar, en forma detallada y completa, tanto beneficios como costos del impacto, adaptación y mitigación del cambio climático a una escala global." ,"pagina":16}],
+          "subsecciones": [
+            {
+              "seccion": "B. Impactos económicos del cambio climático en Chile",
+              "nivel": 3,
+              "paginas": 17,
+              "resumen": "Sitúa la síntesis frente a estudios previos de Chile y señala que la actualización incorpora nuevas modelaciones climáticas, avances metodológicos y más sectores. También advierte que muchas estimaciones anteriores describían impactos sin incorporar adaptación, ajustes de mercado o cambios tecnológicos, y que el precio social del carbono fue sustituido por un precio sombra de mitigación.",
+              "dimensiones": [{"dimension":"diagnostico_estructural","cita":"En la mayoría de los casos se habla de impactos, pero no se toman en cuenta efectos dinámicos, como medidas de adaptación, ajustes en los mercados o cambios tecnológicos.","pagina":17}],
+              "subsecciones": []
+            },
+            {
+              "seccion": "C. Modelos para la estimación económica de efectos del cambio climático",
+              "nivel": 3,
+              "paginas": 17,
+              "resumen": "Distingue modelos de procesos físicos, modelos económicos estructurales y modelos empíricos, y explica cómo relacionan variables climáticas con producción, mercados, mortalidad o desembarques. La comparación metodológica justifica por qué los estudios sectoriales combinan modelos biofísicos, económicos y funciones dosis-respuesta.",
+              "dimensiones": [{"dimension":"contexto_antecedentes","cita":"La literatura científica ha abordado la estimación de los impactos económicos del cambio climático","pagina":17}],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "I. Metodología general",
+      "nivel": 1,
+      "paginas": "19-25",
+      "resumen": "Expone el flujo común de los estudios: traducir cambios climáticos bajo RCP 8.5 en efectos físicos y luego valorarlos económicamente. El capítulo también define adaptación endógena y planificada, presenta ARCLIM, RegCM4 y otras fuentes, describe métodos de valoración de mercado y no mercado, y resume las proyecciones socioeconómicas utilizadas.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Metodología general del estudio",
+          "nivel": 2,
+          "paginas": "19-21",
+          "resumen": "Describe la comparación entre clima actual y RCP 8.5, la conversión de efectos físicos en costos y la separación entre adaptación autónoma y planificada. Reconoce que la adaptación modelada es limitada y desigual: agricultura incorpora variedades resistentes, mientras energía, minería y pesca industrial reflejan ajustes endógenos o escenarios de presión hídrica.",
+          "dimensiones": [{"dimension":"propuestas_politica","cita":"En este sentido, para cada sector, se trató de identificar medidas de adaptación tanto planificadas como endógenas e incorporarlas separadamente en el modelo, cuantificando los impactos con y sin adaptación planificada.","pagina":20}],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Escenarios climáticos utilizados",
+          "nivel": 2,
+          "paginas": "21-23",
+          "resumen": "Explica GCM, RCM, downscaling y trayectorias RCP, con énfasis en RCP 8.5 como escenario extremo compatible con inacción. Detalla el uso de ARCLIM para mediados de siglo, RegCM4 para fines de siglo y el Balance Hídrico Nacional para variables hidrológicas, señalando que las fuentes no siempre son comparables.",
+          "dimensiones": [{"dimension":"estado_de_situacion","cita":"Los resultados para mediados de siglo no son estrictamente comparables con los resultados de fines de siglo, dadas las diferencias metodológicas y de fuentes de datos usadas en el escalamiento de las proyecciones climáticas.","pagina":22}],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Enfoques de valoración",
+          "nivel": 2,
+          "paginas": "23-24",
+          "resumen": "Diferencia valores de mercado y valores no derivados de mercados, y vincula cada sector con costos de producción, ventas, ingresos netos, servicios ecosistémicos, erosión, operación portuaria, mortalidad o morbilidad. También explica que la elección de la tasa de descuento es determinante, pero el estudio privilegia costos representativos de años de mediados y fines de siglo.",
+          "dimensiones": [{"dimension":"propuestas_politica","cita":"En el cálculo de valor económico se pueden identificar dos ámbitos: valores de mercado y valores económicos","pagina":23}],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Proyecciones socioeconómicas",
+          "nivel": 2,
+          "paginas": "24-25",
+          "resumen": "Resume las variables socioeconómicas que algunos sectores proyectan junto con las variables climáticas: población y consumo de agua, precio del cobre y viajes recreativos. La cobertura es desigual y se concentra en agua potable, minería, puertos y playas, y salud, con periodos anuales, decenales o centrados en 2050.",
+          "dimensiones": [{"dimension":"brechas_implementacion","cita":"En el siguiente cuadro se presenta un resumen de las proyecciones de variables socioeconómicas realizadas dentro de cada uno de los informes sectoriales.","pagina":24,"subtipo_brecha":"retrospectiva"}],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "II. Síntesis de estudios",
+      "nivel": 1,
+      "paginas": "27-56",
+      "resumen": "Integra ocho estudios sectoriales y prioriza sus metodologías y resultados económicos, dejando fuera de esta síntesis parte del detalle sobre empleo, políticas y literatura revisada. La sección combina resultados cuantitativos y análisis cualitativos, con datos de ARCLIM y otras fuentes, y explicita limitaciones de cobertura y comparabilidad.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Agricultura",
+          "nivel": 2,
+          "paginas": "28-31",
+          "resumen": "Modela 13 cultivos y 232 comunas entre Atacama y Los Lagos, comparando cambios de cartera agrícola sin adaptación y con variedades mejoradas de trigo, avena y maíz. El ingreso neto cae 28% sin adaptación y 25% con la medida, con impactos concentrados en O’Higgins y Maule y desplazamiento relativo de la frontera agrícola hacia el sur.",
+          "dimensiones": [{"dimension":"estado_de_situacion","cita":"Los resultados obtenidos indican que, en el escenario sin adaptación, el ingreso agrícola neto tendría una reducción del 28%, mientras que en el escenario con adaptación habría una reducción del 25%.","pagina":29},{"dimension":"propuestas_politica","cita":"Específicamente, se evalúa la incorporación de variedades mejoradas de trigo, avena y maíz, cuyo rendimiento es mayor en un 20%.","pagina":28}],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Agua potable en zonas urbanas",
+          "nivel": 2,
+          "paginas": "31-35",
+          "resumen": "Estima el exceso de demanda urbana combinando reducción de caudales, aumento del consumo residencial, población y valor del agua cruda en 163 comunas de 14 regiones. Proyecta 18% menos disponibilidad al 2050, 27% de exceso de demanda y USD 229,3 millones de costo anual, pero no puede estimar caudales para 2100.",
+          "dimensiones": [{"dimension":"estado_de_situacion","cita":"Por otra parte, el cambio climático provocará una disminución del 18% en la disponibilidad de agua","pagina":34},{"dimension":"brechas_implementacion","cita":"Por falta de información el estudio no consideró los efectos del cambio climático sobre el agua subterránea","pagina":34,"subtipo_brecha":"prospectiva"}],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Biodiversidad y turismo de áreas protegidas",
+          "nivel": 2,
+          "paginas": "35-37",
+          "resumen": "Relaciona clima, distribución de especies, superficie de ecosistemas y servicios ecosistémicos mediante transferencia de beneficios. Nueve de diez ecosistemas reducen su superficie al 2050; los costos de biodiversidad llegan a USD 1.300 millones anuales y la reducción del turismo en áreas protegidas a USD 340 millones, con una brecha de información primaria.",
+          "dimensiones": [{"dimension":"estado_de_situacion","cita":"Los resultados de la modelación actual y futura de la distribución de especies de flora y fauna muestran que todos los ecosistemas incluidos en este trabajo registrarán una reducción de superficie a nivel nacional, exceptuando el bosque espinoso que no presenta cambios.","pagina":36},{"dimension":"brechas_implementacion","cita":"Dado que no existen en la literatura valores disponibles para todos los servicios ecosistémicos asociados a los ecosistemas valorados en este estudio, el valor calculado representa solo una fracción del verdadero valor del impacto del cambio climático en el turismo de naturaleza.","pagina":37,"subtipo_brecha":"prospectiva"}],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Energía",
+          "nivel": 2,
+          "paginas": "37-39",
+          "resumen": "Modela la red eléctrica nacional con 287 subestaciones, 414 líneas y 443 unidades generadoras bajo escenarios de disponibilidad hídrica y temperatura. El costo de inacción alcanza USD 51 millones al 2050 y USD 98 millones al 2100, principalmente por menor hidroelectricidad y sustitución por gas.",
+          "dimensiones": [{"dimension":"estado_de_situacion","cita":"Los resultados obtenidos muestran que el costo de inacción frente al cambio climático en el sector de energía es aproximadamente USD 51 y 98 millones anuales","pagina":38},{"dimension":"avances_implementacion","cita":"Adicionalmente, el estudio consideró escenarios alternativos, a modo de sensibilización de los resultados, en los que se aumenta la incorporación de tecnologías de generación distribuida, electromovilidad y almacenamiento.","pagina":38}],
+          "subsecciones": []
+        },
+        {
+          "seccion": "E. Minería",
+          "nivel": 2,
+          "paginas": "39-42",
+          "resumen": "Proyecta la minería del cobre hasta 2100 bajo escenarios sin cambio climático, con pérdida de agua continental y con economía circular, incorporando producción, empleo, exportaciones, inversión e impuestos. La desalación reduce rentabilidad y producción; el costo llega a 6,9% del PIB sectorial en 2050 y 10,9% en 2100 bajo el escenario extremo.",
+          "dimensiones": [{"dimension":"diagnostico_estructural","cita":"Debido a que se consideró que no hay información robusta respecto a la dimensión que tendrá este déficit","pagina":39},{"dimension":"oportunidades","cita":"El tercer escenario cuenta con las mismas restricciones en la disponibilidad de agua continental y los efectos del cambio climático","pagina":39}],
+          "subsecciones": []
+        },
+        {
+          "seccion": "F. Pesca y acuicultura",
+          "nivel": 2,
+          "paginas": "42-49",
+          "resumen": "Desagrega la pesca y acuicultura en pesca artesanal, mitílidos, jurel industrial y salmones, usando métodos distintos para oleaje, acidificación, El Niño y floraciones algales nocivas. La sección muestra costos y límites de cobertura: algunos componentes tienen estimaciones monetarias y otros solo riesgos o relaciones productivas referenciales.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. La pesca artesanal y los impactos asociados a cambios en las posibilidades de acceso a recursos",
+              "nivel": 3,
+              "paginas": "43-45",
+              "resumen": "Calcula el downtime de caletas entre Arica y Purranque bajo cambios del oleaje y lo convierte en pérdidas de captura e ingresos. El costo llega a USD 16,65 millones anuales a mediados de siglo y baja a USD 3,05 millones a fines de siglo, pero el método omite cambios en stocks y conducta pesquera.",
+              "dimensiones": [{"dimension":"estado_de_situacion","cita":"En cuanto a la valoración económica, los resultados muestran que para mediados de siglo","pagina":43}],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. La acuicultura de mitílidos y los impactos asociados a atributos de mercado del recurso",
+              "nivel": 3,
+              "paginas": 46,
+              "resumen": "Usa experimentos de elección en Santiago y Concepción con 1.278 personas para valorar cómo la acidificación cambia color y atributos nutricionales de los mitílidos. La disposición máxima a pagar cae 52% y el costo anual agregado podría alcanzar USD 107 millones, sin modelar adaptación de consumidores ni mercados de destino.",
+              "dimensiones": [{"dimension":"estado_de_situacion","cita":"En general, los efectos de la acidificación sobre los atributos comerciales de los mejillones reducen la máxima disposición de pago de los consumidores en un 52%, cambiando el valor de USD 10,04 a USD 4,79.","pagina":46}],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. La pesca industrial del jurel y los impactos asociados a cambios de comportamiento de agentes económicos",
+              "nivel": 3,
+              "paginas": "47-48",
+              "resumen": "Modela decisiones de zarpe y localización de la flota de jurel en el Biobío frente a una mayor frecuencia de El Niño. El desplazamiento del recurso hacia aguas más frías reduce beneficios netos, con costos anuales referenciales de USD 11,5 a 42,6 millones, aunque quedan fuera stocks y mortalidades.",
+              "dimensiones": [{"dimension":"tendencias","cita":"Finalmente, los cálculos del impacto económico se realizaron utilizando los datos de cambio de frecuencia de El Niño, obtenidos de Cai et al. (2018) en donde, la frecuencia de El Niño aumenta entre 30% y 100%.","pagina":47}],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. La acuicultura de salmones e impactos basados en la pérdida de productividad",
+              "nivel": 3,
+              "paginas": "48-49",
+              "resumen": "No proyecta directamente el cambio climático por falta de antecedentes y usa la relación entre floraciones algales nocivas, biomasa y precios como aproximación. En 69 barrios salmoneros, los costos referenciales oscilan entre USD 276 y USD 6.800 millones según riesgo, pero el propio texto advierte que no son efectos climáticos cuantificados.",
+              "dimensiones": [{"dimension":"brechas_implementacion","cita":"En el caso de la acuicultura de salmones no fue posible proyectar los efectos esperados del cambio climático por no existir antecedentes que permitan este análisis.","pagina":48,"subtipo_brecha":"prospectiva"}],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "G. Puertos y playas",
+          "nivel": 2,
+          "paginas": "49-54",
+          "resumen": "Examina downtime portuario, oleaje, nivel medio del mar y erosión de 45 playas, con valoración de ingresos portuarios y recreación. Algunos puertos obtienen beneficios netos, pero la erosión cuesta USD 5,62 millones al 2050 y USD 10,55 millones al 2100, cuando 13 playas podrían desaparecer completamente. También identifica limitaciones por excluir puertos privados, daños de infraestructura y actividades costeras no recreativas.",
+          "dimensiones": [{"dimension":"estado_de_situacion","cita":"retrocesos esperados pueden significar una pérdida completa de varias playas","pagina":52},{"dimension":"oportunidades","cita":"En términos económicos, para mediados de siglo se esperan pérdidas de USD 2.18 millones anuales","pagina":50}],
+          "subsecciones": []
+        },
+        {
+          "seccion": "H. Salud",
+          "nivel": 2,
+          "paginas": "54-56",
+          "resumen": "Estima mortalidad y morbilidad asociadas a temperatura y olas de calor mediante curvas dosis-respuesta para 30 zonas que representan 73% de la población. Proyecta aumentos nacionales hasta 2100, con mayores efectos porcentuales en el norte y más casos en el centro, y reconoce incertidumbre y omisiones de otros daños sanitarios.",
+          "dimensiones": [{"dimension":"estado_de_situacion","cita":"Los resultados muestran que las modificaciones en los patrones de temperatura derivados del cambio climático tendrán un efecto neto negativo en la salud.","pagina":55},{"dimension":"brechas_implementacion","cita":"Existen otros efectos en la salud que no pudieron ser cuantificados en este estudio, tales como el efecto de los incendios en la salud respiratoria, enfermedades asociadas al consumo de alimentos y agua, lesiones y defunciones por eventos hidrometereológicos extremos, entre otros.","pagina":56,"subtipo_brecha":"prospectiva"}],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "III. Síntesis de resultados",
+      "nivel": 1,
+      "paginas": "57-60",
+      "resumen": "Convierte los resultados sectoriales a dólares y resume costos y beneficios para mediados y fines de siglo. Reporta costos netos exploratorios de USD 4.120 millones y USD 3.471 millones, pero desaconseja agregarlos por diferencias metodológicas, cobertura y proyecciones; al incorporar crecimiento del PIB, los porcentajes bajarían a 0,8% y 0,4%.",
+      "dimensiones": [{"dimension":"estado_de_situacion","cita":"Dada las diferencias metodológicas entre los estudios, por usar diferentes proyecciones climáticas, y distintas aproximaciones para medir el costo, no es recomendable sumar los valores obtenidos.","pagina":58}],
+      "subsecciones": []
+    },
+    {
+      "seccion": "IV. Mejoras metodológicas",
+      "nivel": 1,
+      "paginas": "61-65",
+      "resumen": "Identifica que la heterogeneidad de fuentes climáticas, variables socioeconómicas, escalas y periodos impide comparar y agregar adecuadamente los resultados. Presenta recomendaciones generales y sectoriales centradas en datos primarios, modelos hidrológicos, ampliación de coberturas y diseños comunes para futuras estimaciones.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Mejoras metodológicas por sector",
+          "nivel": 2,
+          "paginas": "62-65",
+          "resumen": "Desglosa mejoras para agricultura, agua potable, biodiversidad, energía, minería, pesca y acuicultura, puertos y playas, y salud. Las propuestas buscan corregir déficits de información, incorporar sectores y variables omitidos, mejorar escenarios y construir una agenda de investigación, más que establecer instrumentos de implementación climática.",
+          "dimensiones": [{"dimension":"propuestas_politica","cita":"Como parte de los resultados del estudio se identificó para cada sector analizado las brechas y problemas metodológicos identificado que en futuros estudios debieran abordarse.","pagina":62}],
+          "subsecciones": [
+            {"seccion":"1. Agricultura","nivel":3,"paginas":62,"resumen":"Recomienda crear un modelo hidrológico para evaluar disponibilidad de agua, usos competidores y efectos sobre cultivos irrigados, y actualizar información agrícola con más cultivos y datos representativos. El objetivo es mejorar la estimación de costos totales y hacer explícita la relación entre agua, actividad productiva y adaptación.","dimensiones":[{"dimension":"propuestas_politica","cita":"Dentro del sector de agricultura se identificaron dos mejoras metodológicas principales; la creación de un modelo hidrológico y la inclusión de información más completa y actualizada de la actividad agrícola.","pagina":62}],"subsecciones":[]},
+            {"seccion":"2. Agua potable","nivel":3,"paginas":62,"resumen":"Propone completar los modelos de oferta futura incorporando cambios en el valor del agua cruda, sectores que compiten por el recurso y aguas subterráneas. Estas omisiones pueden subestimar costos y afectan la demanda residencial, por lo que la mejora depende de información hídrica y económica más completa.","dimensiones":[{"dimension":"propuestas_politica","cita":"Dentro del sector de agua potable las mejoras metodológicas identificadas, en su mayoría, están relacionadas a la falta de información para completar los modelos de oferta de agua en el futuro.","pagina":62}],"subsecciones":[]},
+            {"seccion":"3. Biodiversidad y turismo en áreas protegidas","nivel":3,"paginas":62,"resumen":"Prioriza generar información primaria sobre el valor de servicios ecosistémicos y ampliar el análisis más allá de áreas protegidas. También plantea comparar escenarios de emisiones, porque la transferencia de beneficios y la cobertura limitada pueden introducir errores importantes en los costos de biodiversidad y turismo.","dimensiones":[{"dimension":"propuestas_politica","cita":"La mejora metodológica más importante se relaciona con la generación de información primaria sobre el valor de los servicios ecosistémicos de la biodiversidad y el turismo.","pagina":62}],"subsecciones":[]},
+            {"seccion":"4. Energía","nivel":3,"paginas":63,"resumen":"Señala la necesidad de modelar la relación entre demanda y precios, sustitución de fuentes de energía, supuestos de infraestructura y formas de energía distintas de la electricidad. La agenda futura debe probar cómo esos parámetros cambian el costo de inacción y la operación del sistema.","dimensiones":[{"dimension":"propuestas_politica","cita":"Los cambios en la demanda tendrán efectos en los precios, por tanto, es importante que en estudios futuros se tenga mayor claridad acerca de esta interacción y el efecto de la demanda.","pagina":63}],"subsecciones":[]},
+            {"seccion":"5. Minería","nivel":3,"paginas":63,"resumen":"Recomienda incorporar modelaciones climáticas más amplias, reservas de cada yacimiento, nuevas tecnologías y otros segmentos de la minería metálica y no metálica. El capítulo reconoce que basar el escenario únicamente en agua continental deja fuera otros factores climáticos relevantes.","dimensiones":[{"dimension":"propuestas_politica","cita":"Asimismo, se recomienda que para estudios futuros y el desarrollo de modelos más avanzados se utilice información de las reservas de cada yacimiento, así como generar supuestos acerca del uso de nuevas tecnologías que ayuden a superar dificultades actuales.","pagina":63}],"subsecciones":[]},
+            {"seccion":"6. Pesca y acuicultura","nivel":3,"paginas":63,"resumen":"Propone ampliar la cobertura de pesca artesanal e industrial y desarrollar modelos de salmonicultura, además de resolver problemas de agregación derivados de usar variables climáticas y bases de datos distintas. La recomendación responde a la diversidad del sector y a la importancia económica de la acuicultura en Chile.","dimensiones":[{"dimension":"propuestas_politica","cita":"De especial importancia es generar modelos sobre los efectos del cambio climático en la salmonicultura dada su relevancia en el país y exposición climática.","pagina":63}],"subsecciones":[]},
+            {"seccion":"7. Puertos y playas","nivel":3,"paginas":64,"resumen":"Sugiere incluir puertos privados, analizar alternativas de atraque y tráfico marítimo, producir datos primarios de visitantes y valorar playas con estudios nacionales. También propone incorporar pérdidas de actividades no recreativas, como ventas de recolectores de orilla, para aproximar mejor el costo total.","dimensiones":[{"dimension":"propuestas_politica","cita":"Si bien, conseguir estos datos puede resultar desafiante, debido a la falta de acceso público a los datos, si se incluyen dentro de un estudio se podría tener una mejor perspectiva del costo total de la inacción frente al cambio climático en este sector.","pagina":64}],"subsecciones":[]},
+            {"seccion":"8. Salud","nivel":3,"paginas":"64-65","resumen":"Reconoce que la falta de series históricas, observaciones extremas y datos sobre múltiples efectos sanitarios impide estimaciones robustas. El cierre llama a una agenda de investigación y a mejorar la información climática, pero no define proyectos, responsables, plazos ni métricas de ejecución.","dimensiones":[{"dimension":"brechas_implementacion","cita":"En este sentido lo que se necesita es una agenda de investigación, con múltiples proyectos de investigación, que permita ir iluminando los distintos efectos y reduciendo las incertidumbres en los resultados.","pagina":64,"subtipo_brecha":"prospectiva"}],"subsecciones":[]}
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "V. Comparación con estudio de la Economía del Cambio Climático en Chile",
+      "nivel": 1,
+      "paginas": "65-68",
+      "resumen": "Compara la síntesis con el estudio de 2012 en escenarios, sectores, escalas y métodos. El estudio actual cubre ocho sectores y estima USD 4.062 millones frente a USD 14.440 millones del anterior, pero el texto advierte que las diferencias de cobertura, escenarios y supuestos impiden interpretar los montos como comparables directos.",
+      "dimensiones": [{"dimension":"tendencias","cita":"En este sentido el presente estudio representa un avance significativo ya que logró cuantificar","pagina":65}],
+      "subsecciones": []
+    },
+    {
+      "seccion": "VI. Conclusiones",
+      "nivel": 1,
+      "paginas": "69-70",
+      "resumen": "Concluye que existen costos importantes pero no exhaustivos, con concentración de efectos en la zona central y capacidad de adaptación desigual entre sectores. Identifica como restricciones principales la falta de datos, la cobertura incompleta, la hidrología superficial y subterránea y la menor robustez de proyecciones de fines de siglo; pide una agenda de investigación para orientar medidas de adaptación.",
+      "dimensiones": [{"dimension":"diagnostico_estructural","cita":"Una de las principales condicionantes de este estudio fue la limitada información disponible para la modelación.","pagina":69},{"dimension":"propuestas_politica","cita":"Un estudio futuro que actualice estos resultados debiera partir por diseñar la metodología e ir identificando las modelaciones claves necesarias para poder cuantificar los costos.","pagina":70}],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "No",
+      "evidencia": "El documento falla el test 1 porque no propone un paquete coordinado de inversión y políticas a escala del modelo de desarrollo; presenta estudios de costos y mejoras metodológicas. Falla también el test 2 como propuesta propia: los sectores aparecen como unidades de análisis, no como un paquete de inversión estratégica, y el test 3 no se desarrolla como combinación de eficiencias productiva, keynesiana y ambiental. Chequeo negativo explícito: no se encontró una agenda de inversión masiva coordinada que articule sectores estratégicos con dos eficiencias; las recomendaciones del cierre se limitan a datos, modelos y agenda de investigación.",
+      "citas": [{"cita":"Este informe presenta en en primer lugar la introducción al estudio general y una síntesis de cada estudio sectorial, partiendo por una breve revisión de las principales discusiones metodológicas de la literatura para la estimación de los impactos económicos del cambio climático.","pagina":15},{"cita":"Un estudio futuro que actualice estos resultados debiera partir por diseñar la metodología e ir identificando las modelaciones claves necesarias para poder cuantificar los costos.","pagina":70}],
+      "nota": "Las medidas de adaptación y los sectores estudiados no se convierten en un gran impulso ambiental porque el documento no formula el paquete coordinado exigido por big_push.md."
+    },
+    "articulacion_actores": {
+      "veredicto": "No",
+      "evidencia": "El documento identifica ministerios, centros de investigación, empresas, usuarios y sectores que podrían verse afectados, pero no acredita un mecanismo nombrado de coordinación de actores dentro del ámbito chileno para implementar la acción climática. La coordinación observada corresponde a producción de estudios y uso de fuentes, no a una arquitectura de gobernanza de políticas.",
+      "citas": [{"cita":"Durante su elaboración se recibieron aportes y comentarios del panel Asesor Nacional: Ministerio del Medio Ambiente, Ministerio de Energía, Ministerio de Agricultura, Ministerio de Salud, Dirección General de Aguas, Ministerio de Obras Públicas.","pagina":5}],
+      "nota": "Chequeo negativo: el panel citado es una instancia de elaboración y asesoría de la publicación; no se presenta como mecanismo de gobernanza para ejecutar políticas climáticas en Chile."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "El texto enumera sectores y actividades concretas —agricultura, minería del cobre, energía, pesca y acuicultura, puertos, playas, turismo y salud— y desarrolla efectos sobre ingresos, producción y empleo, especialmente en agricultura. Sin embargo, los sectores se presentan principalmente como fuentes de costos, vulnerabilidad o necesidades metodológicas; no se desarrolla un vínculo sostenido entre oportunidades productivas sostenibles y empleo, productividad o desigualdad.",
+      "citas": [{"cita":"Los estudios sectoriales realizaron el análisis del impacto económico del cambio climático, además analizaron efectos socioeconómicos, como empleo","pagina":27},{"cita":"Este efecto sobre el empleo releva la necesidad de políticas que promuevan la creación de trabajo","pagina":30}],
+      "desglose_items": [{"item":"Agricultura y empleo agrícola","clasificacion":"CONCRETO","pagina":30},{"item":"Minería del cobre y producción","clasificacion":"CONCRETO","pagina":41},{"item":"Energía e hidroelectricidad","clasificacion":"CONCRETO","pagina":38},{"item":"Pesca, acuicultura y actividad pesquera","clasificacion":"CONCRETO","pagina":46},{"item":"Puertos, playas y turismo","clasificacion":"CONCRETO","pagina":50}],
+      "tally": "5 de 5 ítems enumerados tienen sector y resultado productivo, pero el vínculo con oportunidades sostenibles y empleo/productividad/desigualdad queda incompleto",
+      "nota": "Se clasifica Parcial porque existe enumeración desarrollada y efectos productivos/laborales, pero no una agenda de oportunidades de transición."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "No",
+      "evidencia": "La voz normativa del cierre formal, VI. Conclusiones, no presenta una lista de recomendaciones operativas; formula una agenda general de investigación y necesidades de modelación. Chequeo negativo explícito: no se identifican en el cierre instrumentos, entregables, responsables, plazos ni métricas para ejecutar medidas climáticas; las listas sectoriales de mejoras metodológicas aparecen antes y no pueden acreditarse como recomendaciones operativas del cierre bajo la unidad restrictiva.",
+      "citas": [{"cita":"Un estudio futuro que actualice estos resultados debiera partir por diseñar la metodología e ir identificando las modelaciones claves necesarias para poder cuantificar los costos.","pagina":70},{"cita":"En este sentido se precisa una agenda de investigación, con múltiples proyectos, que permita ir generando información para iluminar los distintos efectos y reducir las incertidumbres en los resultados.","pagina":70}],
+      "desglose_items": [],
+      "tally": "0 de 0 ítems pasan el test de concreción",
+      "nota": "La sección IV contiene mejoras metodológicas identificables, pero no es el cierre formal elegido para este criterio; no se fragmentan ni se trasladan sus sub-bullets para inflar el tally."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {"numero": 6,"nombre":"Sostenibilidad ambiental","certeza":"Alta"},
+    "transformacion_secundaria": {"numero": 11,"nombre":"Capacidades del Estado","certeza":"Alta"},
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la contradicción entre continuar sin acción frente al cambio climático y asumir costos crecientes en sectores económicos, ecosistemas y salud. Su objeto no es diseñar una institución estatal, sino hacer visibles y comparables —con cautelas— los daños económicos de esa inacción en Chile.",
+      "filtro_categoria_primaria": "La transformación principal es ambiental porque la pregunta, el contrafactual RCP 8.5, los ocho estudios y el cierre se organizan alrededor de impactos climáticos, adaptación, resiliencia y costos de la inacción. Agua, biodiversidad y clima son el objeto sustantivo; los modelos económicos son instrumentos de medición.",
+      "secundaria_obligatoria": "Capacidades del Estado es secundaria porque el documento insiste en información pública, planificación, modelación, coordinación de fuentes y agenda de investigación como condiciones para decidir y diseñar adaptación. Estas capacidades habilitan la acción ambiental, pero no reemplazan su objeto.",
+      "justificacion_anti_copia": "La evidencia específica es la cuantificación sectorial de USD 4.120 millones netos exploratorios a mediados de siglo, la caída agrícola de 28%, la disminución hídrica de 18% y los 1.072 decesos proyectados al 2050. La segunda intención aparece en la exigencia de mejores modelos hidrológicos, datos primarios, proyecciones comunes y una agenda de investigación.",
+      "validacion_anclas": "La clasificación es consistente con el ancla #20, “Impactos económicos del cambio climático en Colombia. Síntesis”: en ambos casos la vulnerabilidad e impactos climáticos son el objeto y la información, planificación y modelación estatal son medios. Se distingue de un documento cuyo objeto central fuera la arquitectura institucional, porque aquí el cierre conserva la pregunta por los costos de la inacción y no por la reforma del Estado."
+    },
+    "tipo_documento_climatico": "Síntesis técnica de estudios sectoriales de impactos económicos y costos de inacción climática",
+    "nivel_aplicacion": "Nacional, con desagregación regional, comunal, sectorial y territorial",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

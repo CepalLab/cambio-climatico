@@ -1,0 +1,742 @@
+{
+  "documento": {
+    "num_muestra": 59,
+    "titulo": "Impactos potenciales del cambio climático en el ámbito hidroeléctrico en Panamá y la República Dominicana",
+    "autoria": "Manuel Castillo (CEPAL), con la colaboración de la Secretaría Nacional de Energía (SNE) de Panamá y el Ministerio de Energía y Minas (MEM) de la República Dominicana",
+    "handle": "https://hdl.handle.net/11362/42426",
+    "simbolo": "LC/MEX/TS.2017/28",
+    "isbn": null,
+    "fecha": "2017-11",
+    "tipo_documento": "Documento de proyecto",
+    "paginas_cuerpo": 110,
+    "paginas_totales": 132,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": true,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cómo incidirá el cambio climático, bajo diferentes escenarios de emisiones y variaciones hidrológicas, en la capacidad de generación hidroeléctrica y la seguridad energética de las centrales Fortuna en Panamá y Sabana Yegua en la República Dominicana, y qué medidas operativas y de planificación multisectorial pueden mitigar estos riesgos?",
+    "alcance": {
+      "ambito_aplicacion": "Panamá (provincia de Chiriquí, cuenca del río Chiriquí) y la República Dominicana (cuenca del río Yaque del Sur), en un marco de análisis subregional para Centroamérica y el Caribe.",
+      "referentes_dependencias": "Se apoya en la iniciativa regional 'La economía del cambio climático en Centroamérica' (ECC CA), con aportes institucionales y metodológicos de la OLADE, CEPAL, ETESA de Panamá e INDRHI de la República Dominicana, así como los escenarios globales del IPCC (A2 y B2).",
+      "sectorial": "Sector energético (generación y distribución hidroeléctrica) y sector hídrico, con interdependencias clave en el sector agrícola (riego) y el consumo humano de agua.",
+      "temporal": "Corto, mediano y largo plazos, con horizontes de simulación y cortes temporales específicos para los años 2020, 2030, 2050, 2070 y 2100, contrastados contra la línea base histórica (1963-2015)."
+    },
+    "hallazgos_principales": [
+      "En el escenario A2 se proyectan incrementos de temperatura de hasta 4,7°C hacia 2100 en la cuenca del río Yaque del Sur, lo que aceleraría las pérdidas por evapotranspiración y reduciría drásticamente el caudal de la cuenca de 23,76 m³/s a 12,64 m³/s (p. 102).",
+      "Bajo el escenario A2, la producción de energía eléctrica de la central Sabana Yegua disminuiría de forma gradual de 45,1 GW-h históricos a solo 6,3 GW-h en 2100, debido a la reducción del recurso hídrico y a la prioridad del riego agrícola (p. 102).",
+      "Para la central Fortuna en Panamá, el impacto del cambio climático es moderado, proyectando una reducción temporal de precipitación del 4% y disminución de caudales hacia 2030 (a 25,98 m³/s), que posteriormente tiende a recuperarse en el largo plazo en ambos escenarios (p. 11, p. 64).",
+      "La falta de coincidencia temporal en las series de datos meteorológicos e hidrológicos históricos de la cuenca del Yaque del Sur y la escasez de mediciones de flujo en canales de riego plantean limitaciones metodológicas para la calibración precisa de los modelos (p. 101).",
+      "La inestabilidad estructural del subsector eléctrico dominicano y las pérdidas alarmantes en la red de distribución, que superan el 32%, representan un desafío que condiciona la productividad nacional con igual o mayor fuerza que el propio cambio climático (p. 103, p. 106)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El cambio climático impondrá restricciones significativas en la disponibilidad del recurso hídrico para la generación hidroeléctrica, siendo la central de Sabana Yegua (República Dominicana) altamente vulnerable en el escenario A2, donde se prevé una caída del 86% en la producción energética debido a la combinación de menores precipitaciones, mayores temperaturas y la prioridad legal y social de destinar agua para el riego agrícola de la zona (p. 102).",
+        "La central Fortuna en Panamá presenta una vulnerabilidad moderada y temporal en el corto-mediano plazo (hacia 2030) antes de recuperar sus niveles de caudal en el largo plazo, evidenciando que las diferencias de localización geográfica y las realidades energéticas de cada país configuran perfiles de riesgo disímiles que exigen respuestas de planificación adaptadas a las condiciones locales (p. 11, p. 103).",
+        "Los problemas de inestabilidad estructural del mercado eléctrico, la obsolescencia física de las redes de transmisión que causan pérdidas de distribución mayores al 32%, y la falta de coordinación interinstitucional para el manejo integral de cuencas son factores críticos que limitan la resiliencia climática y económica en la República Dominicana (p. 79, p. 103, p. 110)."
+      ],
+      "recomendaciones": [
+        "Establecer un Pacto Eléctrico Nacional consensuado que reduzca la incertidumbre regulatoria, estabilice el mercado y defina el desarrollo futuro del subsector eléctrico en la República Dominicana (p. 103, p. 107).",
+        "Modernizar y expandir las redes de estaciones hidrometeorológicas en las cuencas de los ríos Chiriquí y Yaque del Sur, incorporando estaciones específicas en los embalses para medir de forma directa las tasas de evaporación superficial e integrarlas a los balances hídricos reales (p. 12, p. 106).",
+        "Garantizar la actualización sistemática de los planes de manejo e impacto ambiental y de emergencia de todas las centrales hidroeléctricas para mitigar riesgos económicos, humanos y ecológicos (p. 12, p. 106).",
+        "Digitalizar e integrar en plataformas abiertas en internet toda la información técnica, estadística, meteorológica y ambiental de las centrales hidroeléctricas para facilitar la transparencia, la planificación pública y la investigación científica (p. 13, p. 106).",
+        "Optimizar la coordinación multisectorial entre el INDRHI, el Ministerio de Agricultura, las Juntas de Regantes y los gobiernos locales en la República Dominicana para conciliar el uso prioritario del agua para riego y consumo humano con la generación energética (p. 107).",
+        "Emprender estudios específicos sobre los impactos potenciales del cambio climático en otras centrales hidroeléctricas de ambos países, diseñando simulaciones detalladas que capturen la influencia de eventos estacionales extremos como El Niño y La Niña (p. 13, p. 106)."
+      ],
+      "nota": null
+    },
+    "resumen_narrativo": "Este estudio técnico realiza una rigurosa simulación hidrometeorológica mediante el programa WAPPO para evaluar los impactos potenciales del cambio climático en dos centrales hidroeléctricas de referencia: Fortuna en Panamá y Sabana Yegua en la República Dominicana, bajo los escenarios de emisiones A2 y B2 del IPCC para los horizontes 2020-2100. Los resultados revelan una alta vulnerabilidad en el caso dominicano de Sabana Yegua bajo el escenario pesimista A2, donde se prevé una dramática reducción en la producción eléctrica de 45,1 GW-h históricos a solo 6,3 GW-h a finales de siglo, inducida por el aumento de temperatura (hasta 4,7°C), el descenso de caudales y el uso prioritario del recurso hídrico para riego agrícola. Por el contrario, la central panameña de Fortuna muestra un comportamiento moderado y resiliente en el largo plazo, con una reducción temporal de precipitación y caudales concentrada en torno al año 2030 que posteriormente se recupera. Ante estas realidades disímiles, el informe formula recomendaciones de adaptación operativa y de planificación a nivel nacional, destacando la necesidad de expandir las redes de monitoreo hidrometeorológico, actualizar planes de impacto ambiental, digitalizar recursos de información, coordinar el agua con las Juntas de Regantes e impulsar un Pacto Eléctrico Nacional consensuado que resuelva la inestabilidad regulatoria y de pérdidas de red en la República Dominicana."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "25-27",
+      "resumen": "Esta sección introductoria expone los antecedentes generales del proyecto ECC CARD y el marco conceptual para evaluar la vulnerabilidad y la capacidad de adaptación al cambio climático en el subsector de la generación hidroeléctrica en Panamá y la República Dominicana. Se describe la importancia de contar con herramientas avanzadas de simulación hidrometeorológica para sustentar la toma de decisiones informada, promoviendo la resiliencia energética regional.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "La declaración adoptada subraya la importancia estratégica de la hidroelectricidad en el desarrollo sostenible; la promoción de la hidroelectricidad amigable con el medio ambiente, socialmente responsable y económicamente viable",
+          "pagina": 25
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "1. Revisión de la literatura",
+      "nivel": 1,
+      "paginas": "28-31",
+      "resumen": "Esta sección analiza la literatura técnica sobre el nexo agua-energía y cambio climático. Señala que, a pesar de la creciente importancia de la generación renovable and la vulnerabilidad hidroeléctrica al clima, las investigaciones cuantitativas a nivel regional siguen siendo limitadas. Esto obligó a recurrir a bases metodológicas globales, integrando herramientas internacionales de simulación para modelar cuencas y estimar impactos probabilísticos coherentes.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "Cada vez son más los centros de investigación públicos y privados que incorporan este tema a sus agendas.",
+          "pagina": 28
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "2. Generación hidroeléctrica y cambio climático",
+      "nivel": 1,
+      "paginas": "32-42",
+      "resumen": "Esta sección traza la evolución histórica del uso de la fuerza motriz del agua, desde los molinos tradicionales hasta las plantas hidroeléctricas modernas de finales del siglo XIX. Resalta la transición tecnológica que convirtió la energía hidráulica en el pilar del desarrollo de la infraestructura eléctrica mundial, sentando las bases para comprender su rol actual como fuente de generación limpia indispensable en la matriz regional.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "La primera planta hidroeléctrica se construyó en las cataratas del Niágara en 1879 para proveer",
+          "pagina": 32
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Perfil de la producción hidroeléctrica",
+          "nivel": 2,
+          "paginas": "33-36",
+          "resumen": "Esta subsección analiza el perfil técnico e institucional de la producción hidroeléctrica en la región, examinando las variables de diseño físico, la gestión operativa, la mitigación de riesgos tecnológicos y las dinámicas socioambientales en el entorno de las cuencas.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Infraestructura",
+              "nivel": 3,
+              "paginas": "33",
+              "resumen": "Esta sección describe la dimensión de la infraestructura física de las centrales hidroeléctricas. Explica que la capacidad instalada, el diseño del embalse, la altura de caída y la gestión operativa son factores estructurales que determinan el potencial de generación y los costos asociados de capital, los cuales representan la etapa de inversión más intensiva en el desarrollo hidroeléctrico.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Los factores que generalmente determinan o alteran la capacidad de producción hidroeléctrica son la infraestructura de la central, su gestión y operación y el ecosistema en el que se ubica.",
+                  "pagina": 33
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Mitigación de riesgos operativos",
+              "nivel": 3,
+              "paginas": "34-35",
+              "resumen": "Esta sección analiza los desafíos técnicos asociados al equipamiento electromecánico y la dotación tecnológica de la casa de máquinas, tales como turbinas Pelton, Francis o Kaplan. Destaca cómo la obsolescencia tecnológica, la falta de mantenimiento y el estrés físico inducido por el clima imponen riesgos operativos significativos para la continuidad del suministro eléctrico y la productividad general de las centrales.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Otro factor de suma relevancia es el equipamiento tecnológico de la central. La dotación tecnológica de la casa de máquinas determina sustancialmente la generación de energía.",
+                  "pagina": 34
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Ecosistema natural y sistema social",
+              "nivel": 3,
+              "paginas": "36",
+              "resumen": "Esta sección aborda el ecosistema natural de las cuencas hidrometeorológicas y su interacción con los sistemas socioeconómicos locales. Analiza los impactos socioambientales de las represas, el manejo integral del agua para irrigación y consumo, y la necesidad de cooperación intergubernamental y de políticas públicas estables que favorezcan la resiliencia ecológica, regulando conflictos de uso hídrico.",
+              "dimensiones": [
+                {
+                  "dimension": "oportunidades",
+                  "cita": "El compromiso político de todos los actores, acompañado de políticas públicas que fomenten un ambiente favorable a la generación hidroeléctrica, es fundamental para mejorar los procesos y la producción en general.",
+                  "pagina": 36
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Mercado de energía",
+          "nivel": 2,
+          "paginas": "37-38",
+          "resumen": "Esta sección analiza en profundidad el marco regulatorio, comercial y operativo de los mercados de energía en Centroamérica y el Caribe. Examina detalladamente cómo interactúan las variables tarifarias, la demanda estacional y las políticas públicas sectoriales con la toma de decisiones estratégicas de generación hidroeléctrica, sirviendo como un pilar fundamental para dimensionar la resiliencia financiera y operativa de las plantas frente a cambios hidrológicos.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Relación entre hidroelectricidad y cambio climático",
+          "nivel": 2,
+          "paginas": "39-42",
+          "resumen": "Esta sección expone los nexos directos e indirectos entre los cambios proyectados en las variables climáticas fundamentales —como el incremento de la temperatura media y la variación estacional de la precipitación— y las capacidades técnicas de regulación, almacenamiento en embalses y despacho final de las centrales hidroeléctricas. Se resalta la necesidad de integrar modelos predictivos climáticos a la planificación hídrica y de infraestructura para mitigar pérdidas por evaporación y cambios abruptos de caudal.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "Hoy día sería un error analizar la industria hidroeléctrica sin considerar el cambio climático. Al analizar la estrecha relación entre ambos hay que tomar en cuenta dos acepciones",
+              "pagina": 39
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "3. Metodología",
+      "nivel": 1,
+      "paginas": "43-53",
+      "resumen": "Esta sección presenta la metodología científica y las herramientas técnicas de modelación. Introduce la simulación mediante escenarios futuros, describiendo cómo se integran los balances de masa para predecir caudales bajo condiciones climáticas adversas y variaciones hidrológicas en horizontes temporales de largo plazo.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "ara evaluar las vulnerabilidades y las opciones de adaptación de la producción hidroeléctrica al cambio climático, y estimar los efectos futuros de este fenómeno, se aplican aquí dos escenarios futuros",
+          "pagina": 43
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Objetivos y supuestos generales",
+          "nivel": 2,
+          "paginas": "43-45",
+          "resumen": "Esta sección presenta los objetivos primordiales de la modelación hidrometeorológica y los supuestos de partida adoptados para proyectar el cambio climático.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Escenarios de cambio climático",
+              "nivel": 3,
+              "paginas": "44-45",
+              "resumen": "Esta sección describe la formulación de escenarios de cambio climático globales. Explica la creación y evolución del IPCC por el PNUMA y la OMM, detallando los supuestos socioeconómicos de las trayectorias de emisiones A2 y B2, esenciales para fundamentar las proyecciones locales de temperatura y precipitación.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "El IPCC fue creado en 1988 por iniciativa del Programa de las Naciones Unidas para el Medio Ambiente (PNUMA) y de la Organización Meteorológica Mundial (OMM)",
+                  "pagina": 44
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Programa de simulación",
+          "nivel": 2,
+          "paginas": "46-52",
+          "resumen": "Detalla el funcionamiento de la herramienta computacional WAPPO, describiendo la topología, los parámetros físicos de las cuencas y el procesamiento de los insumos meteorológicos.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Descripción del sistema de modelación",
+              "nivel": 3,
+              "paginas": "46",
+              "resumen": "Esta sección detalla los fundamentos matemáticos y la estructura lógica del modelo de simulación hidrológica WAPPO. Explica cómo la herramienta simula flujos de escorrentía superficial y balances hídricos mensuales, proporcionando proyecciones que alertan sobre consecuencias innegables para el subsector hidroeléctrico regional.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "Esto tendrá consecuencias innegables para la producción hidroeléctrica en gran parte de la región y del mundo.",
+                  "pagina": 46
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Insumos para la simulacion de cuencas",
+              "nivel": 3,
+              "paginas": "46",
+              "resumen": "Esta sección expone los requerimientos metodológicos del modelo para simular cuencas hídricas de manera confiable. Detalla los tipos de insumos necesarios en términos geomorfológicos, meteorológicos e hidrológicos para la calibración integral de los balances de masa superficiales.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Para ejecutar la simulación, el modelo WAPPO requiere una serie de insumos en los rubros de información geomorfológica, meteorológica e hidrológica.",
+                  "pagina": 46
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Resultados",
+              "nivel": 3,
+              "paginas": "47",
+              "resumen": "Esta sección describe la topología conceptual de las cuencas. Señala cómo la interconexión física de ríos y tributarios se representa mediante un diagrama de nodos y tramos lógicos que el software procesa para calcular el flujo acumulado del agua.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Topología: para describir la topología se requiere enumerar las cuencas y los nodos de inicio y final de cada corriente.",
+                  "pagina": 47
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Procesamiento de datos",
+              "nivel": 3,
+              "paginas": "47-48",
+              "resumen": "Esta sección presenta los criterios matemáticos de ordenación y jerarquización de cauces fluviales. Explica la aplicación de la ley de Horton para clasificar corrientes y determinar de forma exacta el cauce principal de drenaje en las cuencas bajo estudio.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Las corrientes se clasifican con el criterio de Horton, para lo cual se debe establecer el cauce principal.",
+                  "pagina": 47
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Casos de aplicación exitosa del programa WAPPO",
+              "nivel": 3,
+              "paginas": "49",
+              "resumen": "Esta sección expone la validación empírica e histórica del programa WAPPO, desarrollado originalmente en 1975. Destaca su aplicación versátil y exitosa en diversos continentes, validando su robustez y precisión metodológica como herramienta científica global.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "El programa WAPPO fue desarrollado en 1975 y ha sido utilizado en situaciones climáticas muy diversas, principalmente en Centroamérica, América del Sur, África y Asia.",
+                  "pagina": 49
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "6. Pakistán",
+              "nivel": 3,
+              "paginas": "50",
+              "resumen": "Esta sección detalla el caso específico de aplicación del modelo WAPPO en la gran cuenca del río Indus en Pakistán. Explica cómo la simulación ayudó a modelar el volumen y el comportamiento estacional de caudales aguas arriba de la presa de Tarbela.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "WAPPO fue utilizado en Pakistán para simular las cuencas del río Indus, aguas arriba de la presa de Tarbela, dividida en tres partes.",
+                  "pagina": 50
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "7. Guatemala",
+              "nivel": 3,
+              "paginas": "50-52",
+              "resumen": "Esta sección analiza la aplicación del modelo WAPPO en Guatemala, destacando la participación directa de investigadores clave del presente estudio técnico. Describe su uso extensivo en otros países como Afganistán, El Salvador y Perú, consolidando la experiencia metodológica previa.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "con participación directa de uno de los coautores del presente estudio. El modelo ha sido usado además en Afganistán, El Salvador, Perú y algunos países de África.",
+                  "pagina": 50
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "4. Panamá",
+      "nivel": 1,
+      "paginas": "54-78",
+      "resumen": "Este capítulo aborda la simulación completa para el caso de Panamá. Analiza el subsector eléctrico, la legislación nacional vigente y la operación técnica de la central hidroeléctrica Fortuna, contrastándola con las proyecciones hidrológicas de la cuenca del río Chiriquí bajo escenarios A2 y B2.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "ste capítulo inicia con una introducción al sector energético de Panamá para luego revisar la legislación y los organismos relevantes",
+          "pagina": 54
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Introducción al sector energético panameño",
+          "nivel": 2,
+          "paginas": "54",
+          "resumen": "Expone las características generales del subsector eléctrico en Panamá, caracterizando la composición del mercado de generación y distribución.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "El mercado eléctrico",
+              "nivel": 3,
+              "paginas": "54",
+              "resumen": "Describe en detalle la conformación del mercado de electricidad panameño, analizando la evolución histórica y regulatoria de la matriz de generación de energía. Se enfoca en la transición hacia fuentes renovables limpias y la inserción del subsector eléctrico en la economía del país.",
+              "dimensiones": [],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Legislación y organismos relevantes",
+          "nivel": 2,
+          "paginas": "55-56",
+          "resumen": "Presenta el marco legal e institucional detallado que regula el sector energético y de recursos hídricos en la República de Panamá. Examina las competencias, estructuras y atribuciones regulatorias de organismos estatales clave como la Secretaría Nacional de Energía, ETESA y MiAmbiente en la planificación sectorial del país.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Central hidroeléctrica Fortuna",
+          "nivel": 2,
+          "paginas": "57-58",
+          "resumen": "Caracteriza la planta hidroeléctrica Fortuna en Chiriquí, detallando su rol protagónico en el abastecimiento nacional y la infraestructura hídrica disponible.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Información disponible",
+              "nivel": 3,
+              "paginas": "58",
+              "resumen": "Esta sección recopila los datos técnicos e hidrometeorológicos disponibles para la simulación. Detalla que la información primaria de caudales, lluvias y temperaturas de la cuenca del río Chiriquí fue provista oficialmente por la Dirección de Hidrometeorología de ETESA.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "La información para la simulación de la cuenca del río Chiriquí fue proporcionada por la Dirección de Hidrometeorología de la Empresa de Transmisión Eléctrica S.A. (ETESA) de Panamá.",
+                  "pagina": 58
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "D. Escenarios de cambio climático",
+          "nivel": 2,
+          "paginas": "59-78",
+          "resumen": "Presenta la modelación hidrológica completa para la cuenca del río Chiriquí bajo escenarios A2 y B2, contrastando las proyecciones de caudal con la operación técnica e histórica de la planta Fortuna.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Procesamiento de datos",
+              "nivel": 3,
+              "paginas": "60-63",
+              "resumen": "Esta sección describe el preprocesamiento y sistematización de las variables físicas recopiladas en la cuenca. Explica la agregación y promediado de precipitación, temperatura, evaporación de tanque y caudales para elaborar los balances mensuales históricos del recurso hídrico.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "El procesamiento de datos consistió en la elaboración de los resúmenes anuales de la información hidrometeorológica (precipitación, temperatura, evaporación y caudales).",
+                  "pagina": 60
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Simulación hidrológica",
+              "nivel": 3,
+              "paginas": "64-65",
+              "resumen": "Esta sección analiza la calibración matemática del modelo de balance hídrico en cada subcuenca del Chiriquí. Explica que la simulación hidrológica permite estimar caudales mediante balances continuos de masa, validados contra registros empíricos históricos.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "La simulación hidrológica consiste en la estimación de caudales mediante el balance de cada subcuenca.",
+                  "pagina": 64
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Simulación de escenarios de cambio climático",
+              "nivel": 3,
+              "paginas": "66-67",
+              "resumen": "Esta sección analiza las proyecciones climáticas locales para Chiriquí según las trayectorias globales de emisiones. Compara los escenarios A2 y B2, resaltando que el escenario pesimista A2 proyecta incrementos más drásticos de temperatura y descensos transitorios de lluvia hacia el 2030.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "El escenario A2, el más pesimista, prevé un mayor incremento de la temperatura y una precipitación que disminuye en el corto plazo y aumenta en el largo.",
+                  "pagina": 66
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Simulación de la operación de la planta Fortuna",
+              "nivel": 3,
+              "paginas": "68-78",
+              "resumen": "Esta sección analiza detalladamente la modelación computacional de la operación técnica de la central hidroeléctrica Fortuna en Panamá bajo escenarios de emisiones A2 y B2 del IPCC. Utilizando el programa WAPPO, se simula el comportamiento físico de las turbinas, el volumen útil del embalse, los caudales turbinados mensuales y la generación neta resultante, contrastando los resultados climáticos con la línea base histórica. Los resultados indican que, a pesar de incrementos moderados en la temperatura, la planta muestra una alta resiliencia operativa en el largo plazo, con disminuciones de caudal transitorias concentradas en torno al año 2030 que posteriormente se recuperan progresivamente de acuerdo con los ciclos hidrológicos locales.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Para simular la operación de la planta en los escenarios de cambio climático se adoptaron reglas de operación acordes con las características de la planta.",
+                  "pagina": 68
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "5. República Dominicana",
+      "nivel": 1,
+      "paginas": "79-104",
+      "resumen": "Este capítulo aborda la simulación completa para el caso de la República Dominicana. Examina el sector energético dominicano, detallando sus debilidades regulatorias y la operación hídrica del embalse de Sabana Yegua en la cuenca del río Yaque del Sur ante descensos severos de caudal en el escenario A2.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "Uno de los grandes retos de la República Dominicana es estabilizar su sector energético para apoyar el desarrollo de su economía y satisfacer las necesidades de la población.",
+          "pagina": 79
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Introducción al sector energético dominicano",
+          "nivel": 2,
+          "paginas": "79-80",
+          "resumen": "Presenta una visión integral de las problemáticas de inestabilidad regulatoria y de pérdidas físicas de red que configuran el subsector eléctrico dominicano.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. El mercado eléctrico",
+              "nivel": 3,
+              "paginas": "80",
+              "resumen": "Esta sección analiza las estadísticas del subsector eléctrico dominicano para el año 2016. Resalta que la participación total de la generación hidroeléctrica representa apenas una pequeña proporción de la oferta, debido a la inestabilidad de la red y las pérdidas técnicas.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Los datos de 2016 arrojan una producción total de 15.891,6 GWh, de los cuales 1.500,3 GWh, apenas",
+                  "pagina": 80
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Legislación y organismos relevantes",
+          "nivel": 2,
+          "paginas": "81-82",
+          "resumen": "Examina exhaustivamente la legislación vigente y las atribuciones de los organismos públicos que coordinan el sector hídrico y eléctrico en la República Dominicana. Detalla las funciones rectoras del Ministerio de Energía y Minas (MEM) y la Comisión Nacional de Energía (CNE), y la falta de articulación en la gestión integral de cuencas.",
+          "dimensiones": [],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Central hidroeléctrica Sabana Yegua",
+          "nivel": 2,
+          "paginas": "83-86",
+          "resumen": "Caracteriza el embalse de usos múltiples de Sabana Yegua en la cuenca del río Yaque del Sur, donde la prioridad absoluta del agua recae en el riego agrícola.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Información disponible",
+              "nivel": 3,
+              "paginas": "84-86",
+              "resumen": "Esta sección recopila los datos técnicos indispensables para modelar la cuenca del Yaque del Sur. Detalla que la información de escurrimiento, estaciones meteorológicas y balances históricos de riego fue provista formalmente por el INDRHI.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "La información para la simulación de la cuenca del río Yaque del Sur, donde se encuentra la hidroeléctrica Sabana Yegua, fue proporcionada por el Instituto Nacional de Recursos Hidráulicos de la República Dominicana (INDRHI).",
+                  "pagina": 84
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "D. Escenarios de cambio climático",
+          "nivel": 2,
+          "paginas": "87-104",
+          "resumen": "Describe la simulación hidrológica detallada de la cuenca Yaque del Sur ante incrementos drásticos de temperatura y pérdidas severas por evapotranspiración.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Procesamiento de datos",
+              "nivel": 3,
+              "paginas": "87-89",
+              "resumen": "Esta sección analiza los insumos de flujo hídrico considerando la prioridad absoluta del riego agrícola. Explica que se sustrajeron los volúmenes concesionados de agua para determinar la disponibilidad neta real remanente para generación de energía.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Considerando el uso del agua de la presa para riego, se tomaron en cuenta los datos respectivos para determinar la proporción de agua utilizada para ese propósito y la disponible para generación eléctrica.",
+                  "pagina": 87
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Simulación hidrológica",
+              "nivel": 3,
+              "paginas": "90-92",
+              "resumen": "Esta sección detalla la integración de los datos geomorfológicos y climáticos del Yaque del Sur. Explica cómo la simulación de balances de masa consolida los datos meteorológicos, permitiendo evaluar la calidad de la información técnica disponible.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "El modelo integra y da consistencia a la información meteorológica, geomorfológica e hidrológica, por lo que permite evaluar la calidad de la información e identificar diferencias entre regiones.",
+                  "pagina": 91
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Simulación de escenarios de cambio climático",
+              "nivel": 3,
+              "paginas": "93-96",
+              "resumen": "Esta sección analiza las severas anomalías de temperatura y precipitación proyectadas para el Yaque del Sur. Alerta que el escenario pesimista A2 prevé disminuciones de lluvia constantes en el tiempo, reduciendo drásticamente la recarga de la cuenca.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "En el escenario A2, el más pesimista, se prevé un mayor incremento de la temperatura y una disminución de la precipitación con el tiempo.",
+                  "pagina": 93
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Simulación de la operación de la planta",
+              "nivel": 3,
+              "paginas": "97-104",
+              "resumen": "Esta sección detalla la modelación computacional de la operación de la planta hidroeléctrica Sabana Yegua en la República Dominicana ante escenarios de cambio climático. Se simula el despacho diario de la central integrada en el complejo sistema de la cuenca del río Yaque del Sur, donde la prioridad absoluta y legal recae en el riego agrícola de la zona y la prevención de inundaciones. Las simulaciones revelan una extrema vulnerabilidad en el escenario A2, donde el drástico aumento de la temperatura y la severa disminución de precipitaciones hacia el año 2100 reducen la generación anual en un 86%, dejando el despacho eléctrico como un subproducto marginal debido al estrés hídrico acumulado.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "El embalse de Sabana Yegua forma parte de un complejo sistema de almacenamiento de agua para usos múltiples en la cuenca del río Yaque del Sur, cuyos usos prioritarios son el riego y la prevención de inundaciones",
+                  "pagina": 97
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "5. Recomendaciones",
+      "nivel": 1,
+      "paginas": "105-106",
+      "resumen": "Esta sección formula las recomendaciones operativas e institucionales prioritarias para la República Dominicana. Plantea expandir las estaciones hidrometeorológicas e integrar información del flujo en los canales de riego para optimizar la toma de decisiones.",
+      "dimensiones": [
+        {
+          "dimension": "propuestas_politica",
+          "cita": "mejorar la red de estaciones hidrometeorológicas y la información del flujo de agua en los canales de riego y generación de energía",
+          "pagina": 106
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "6. Conclusión",
+      "nivel": 1,
+      "paginas": "107-108",
+      "resumen": "Esta sección expone el balance final del estudio hidroeléctrico para Sabana Yegua. Explica que las dramáticas disminuciones proyectadas en la escorrentía superficial muestran una correlación lineal con los modelos climáticos del IPCC para el escenario A2.",
+      "dimensiones": [
+        {
+          "dimension": "desafios",
+          "cita": "Los resultados obtenidos en el estudio de la central hidroeléctrica Sabana Yegua de la República Dominicana tienen correlación directa con las predicciones del clima futuro",
+          "pagina": 107
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "6. Conclusiones generales",
+      "nivel": 1,
+      "paginas": "109-110",
+      "resumen": "Esta sección final consolida los hallazgos transversales del estudio técnico regional. Destaca cómo las realidades geográficas disímiles exigen respuestas diferenciadas de planificación, proporcionando directrices estratégicas de adaptación hídrica.",
+      "dimensiones": [
+        {
+          "dimension": "desafios",
+          "cita": "se puede llegar a conclusiones generales sobre los efectos del cambio climático en la producción hidroeléctrica de la región y de cada país.",
+          "pagina": 109
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "No",
+      "evidencia": "Se constató que el documento no propone una reorientación masiva de inversiones públicas y privadas de alcance multisectorial ni un paquete coordinado de transformaciones productivas a gran escala; por su naturaleza y diseño, se limita a simular el impacto hidrológico en dos plantas específicas (Fortuna en Panamá y Sabana Yegua en República Dominicana) bajo el programa WAPPO y a formular medidas operativas locales de adaptación hidroeléctrica.",
+      "citas": [],
+      "nota": "El veredicto No es por el diseño intrínseco del documento como estudio técnico comparativo de simulación y vulnerabilidad hidrometeorológica, no por una omisión descuidada del autor."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "El documento resalta el proceso de diseño y negociación de una plataforma de planificación consensuada con nombre propio en la República Dominicana: el Pacto Eléctrico Nacional, el cual integra formalmente a los sectores público, privado y social para resolver la crisis regulatoria y la inestabilidad energética del país (p. 79, p. 107). Asimismo, formula la necesidad de estructurar un mecanismo de coordinación interinstitucional específico entre el INDRHI, el Ministerio de Agricultura, las Juntas de Regantes y los gobiernos locales para regular la asignación competitiva de agua entre usos hidroeléctricos y agrícolas ante sequías y cambio climático (p. 107).",
+      "citas": [
+        {
+          "cita": "No obstante, el Pacto Eléctrico Nacional subraya la falta de correspondencia entre ese marco jurídico y las necesidades de electricidad actuales.",
+          "pagina": 82
+        },
+        {
+          "cita": "mejorar la coordinación entre el INDRHI, las Juntas de Regantes, el Ministerio de Agricultura y los gobiernos locales para mitigar los efectos del cambio climático en la disponibilidad del agua",
+          "pagina": 107
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "Se constató que el documento no enumera sectores ni actividades de oportunidad productiva sostenible con un vínculo desarrollado hacia el empleo, la productividad o la reducción de la desigualdad. Se buscó exhaustivamente el término 'empleo' en todo el texto y no se registraron hallazgos; los conceptos de 'productividad' y 'desigualdad' se mencionan de manera puramente diagnóstica respecto a la inestabilidad operativa y a las pérdidas de más del 32% en la distribución eléctrica dominicana, así como a la histórica brecha de consumo energético de la población pobre en Centroamérica.",
+      "citas": [],
+      "nota": "El veredicto No se debe al enfoque analítico y técnico de la publicación, la cual se centra en modelizar la vulnerabilidad hidrológica de infraestructuras específicas y no en proponer estrategias sectoriales de desarrollo industrial o reactivación económica."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "La sección final de Recomendaciones para la República Dominicana (páginas 105-107) contiene una lista formal de 12 directrices normativas. Al evaluar individualmente cada recomendación contra el estándar de concreción (verbo de acción + objeto o entregable específico), se constata que 9 de los 12 ítems son CONCRETOS al proponer acciones, herramientas, entregables o actores identificables, mientras que solo 3 quedan en un nivel GENÉRICO de deber ser o exhortaciones abstractas.",
+      "citas": [
+        {
+          "cita": "realizar estudios del impacto potencial del cambio climático en otras centrales hidroeléctricas para contar con datos más aproximados a la realidad del suministro hidroeléctrico en los próximos años.",
+          "pagina": 106
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "a) mejorar la red de estaciones hidrometeorológicas y la información del flujo de agua en los canales de riego y generación de energía para contar con datos más precisos de los niveles de precipitación local...",
+          "clasificacion": "CONCRETO",
+          "pagina": 106
+        },
+        {
+          "item": "b) solicitar a todas las centrales hidroeléctricas dominicanas que realicen o actualicen sus planes de impacto y manejo ambiental para incluir los planes de emergencia...",
+          "clasificacion": "CONCRETO",
+          "pagina": 106
+        },
+        {
+          "item": "c) incluir los porcentajes de evaporación superficial de los embalses en los balances hídricos, lo que implica instalar estaciones meteorológicas en ellos y en las cuencas...",
+          "clasificacion": "CONCRETO",
+          "pagina": 106
+        },
+        {
+          "item": "d) considerar las medidas preventivas necesarias para evitar o disminuir la erosión del suelo, la colmatación y la sedimentación en el embalse en la medida de lo posible;",
+          "clasificacion": "GENERICO",
+          "pagina": 106
+        },
+        {
+          "item": "e) digitalizar todos los recursos de información de la hidroeléctrica y ponerlos a disposición pública vía internet y otros medios...",
+          "clasificacion": "CONCRETO",
+          "pagina": 106
+        },
+        {
+          "item": "f) realizar estudios del impacto potencial del cambio climático en otras centrales hidroeléctricas para contar con datos más aproximados...",
+          "clasificacion": "CONCRETO",
+          "pagina": 106
+        },
+        {
+          "item": "g) registrar las posibles consecuencias del cambio climático no solo para la generación hidroeléctrica de la central estudiada, sino para los habitantes...",
+          "clasificacion": "GENERICO",
+          "pagina": 106
+        },
+        {
+          "item": "h) implementar las medidas técnicas, operativas y de gestión para mejorar la infraestructura hidroeléctrica del SENI, de manera que se eviten los apagones...",
+          "clasificacion": "GENERICO",
+          "pagina": 107
+        },
+        {
+          "item": "i) determinar las causas que están provocando pérdidas en la distribución de electricidad a fin de reducirlas... pérdidas representan más del 32%...",
+          "clasificacion": "CONCRETO",
+          "pagina": 107
+        },
+        {
+          "item": "j) crear un sistema de información estadística sobre consumo y suministro eléctrico en tiempo real para que los consumidores tengan mayor información...",
+          "clasificacion": "CONCRETO",
+          "pagina": 107
+        },
+        {
+          "item": "k) medir y valorar el impacto que podrían tener las nuevas leyes en la generación hidroeléctrica... Pacto Eléctrico Nacional...",
+          "clasificacion": "CONCRETO",
+          "pagina": 107
+        },
+        {
+          "item": "l) mejorar la coordinación entre el INDRHI, las Juntas de Regantes, el Ministerio de Agricultura y los gobiernos locales para mitigar los efectos del cambio climático en la disponibilidad del agua...",
+          "clasificacion": "CONCRETO",
+          "pagina": 107
+        }
+      ],
+      "tally": "9 de 12 ítems pasan el test de concreción",
+      "nota": null
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento aborda la contradicción entre la necesidad de sostener y expandir la generación hidroeléctrica limpia y renovable frente a la creciente variabilidad climática que amenaza los caudales hídricos de las cuencas del Caribe. Reconcilia esta tensión proponiendo un enfoque de resiliencia y adaptación basado en la modernización de los sistemas públicos de monitoreo hidrometeorológico y la coordinación del agua para fines múltiples.",
+      "filtro_categoria_primaria": "Se determina que Sostenibilidad ambiental (#6) es la transformación primaria porque el objetivo principal del documento es la adaptación, mitigación y resiliencia climática del sector energético e hídrico ante amenazas del cambio climático global. Se descarta Capacidades del Estado (#11) como primaria porque la arquitectura institucional, aunque es fundamental para articular las propuestas hídricas y el Pacto Eléctrico, actúa como la herramienta y medio canalizador para salvaguardar el recurso ambiental y asegurar la transición energética, no como el objeto último de transformación.",
+      "secundaria_obligatoria": "Capacidades del Estado (#11) actúa de forma obligatoria como la transformación secundaria cumpliendo una función habilitadora y sectorial clave, ya que el documento concluye que la resiliencia climática solo será viable si el Estado fortalece sus capacidades de recopilación de datos de ETESA e INDRHI, reduce pérdidas operativas y establece el consensuado Pacto Eléctrico Nacional.",
+      "justificacion_anti_copia": "La justificación se ancla estrictamente en la modelación hidrológica del software WAPPO en las subcuencas de los ríos Chiriquí y Yaque del Sur, la evaluación de los escenarios globales de emisión A2 y B2 del IPCC, el balance de evaporación superficial de los embalses Fortuna y Sabana Yegua, y el abordaje de las pérdidas superiores al 32% en la distribución eléctrica dominicana.",
+      "validacion_anclas": "Este documento es directly comparable con el Ancla 9 ('Building a climate resilient power sector', Caribe), clasificado como #6 primaria y #11 secundaria. Al igual que el ancla, el sujeto estructurante es la resiliencia climática y tecnológica del sector de energía limpia, mientras que la cartera de recomendaciones finales se enfoca en el fortalecimiento institucional, la digitalización abierta de recursos técnicos y el Pacto Eléctrico Nacional."
+    },
+    "tipo_documento_climatico": "Documento de proyecto o estudio técnico",
+    "nivel_aplicacion": "Panamá y República Dominicana, en el marco regional de Centroamérica y el Caribe",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

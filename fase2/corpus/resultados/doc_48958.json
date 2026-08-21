@@ -1,0 +1,214 @@
+{
+  "documento": {
+    "num_muestra": 48958,
+    "titulo": "Advancing geospatial information management for disaster risk management in the Caribbean",
+    "autoria": "Artie Dubrie, Elizabeth Emanuel, Jacob Opadeyi y Valrie Grant",
+    "handle": "https://hdl.handle.net/11362/48958",
+    "simbolo": "LC/TS.2023/62-LC/CAR/TS.2023/5",
+    "isbn": null,
+    "fecha": "2023",
+    "tipo_documento": "Estudio técnico",
+    "paginas_cuerpo": 39,
+    "paginas_totales": 59,
+    "idioma": "en",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cuál es el estado de avance, uso y capacidad institucional de la gestión de información geoespacial (GIM) para la gestión del riesgo de desastres (DRM) en el Caribe, y qué prioridades permitirían fortalecerla?",
+    "alcance": {
+      "ambito_aplicacion": "Caribe, con evidencia de encuestas en diez países: Bahamas, Barbados, Islas Vírgenes Británicas, Granada, Guyana, Jamaica, Saint Kitts y Nevis, Trinidad y Tobago, Sint Maarten y Turks and Caicos Islands; también considera la escala subregional CARICOM/CDEMA.",
+      "referentes_dependencias": "UN-GGIM, Sendai, OCHA, UNDAC, UNOSAT, UN-SPIDER, GDACS, GFDRR, Banco Mundial, Comisión Europea, NOAA y acuerdos/agencias del sistema de Naciones Unidas.",
+      "sectorial": "Gestión del riesgo de desastres, información geoespacial, infraestructura de datos espaciales, políticas y estándares, capacidades técnicas, educación, seguros paramétricos y alianzas público-privadas.",
+      "temporal": "La evidencia principal proviene de encuestas e entrevistas realizadas en 2021; el análisis incorpora marcos y referencias institucionales vigentes hasta 2023 y recomendaciones prospectivas para la subregión."
+    },
+    "hallazgos_principales": [
+      "La subregión combina alta exposición a eventos hidroclimáticos y concentración costera —60% de la población y 70% de la actividad económica—, por lo que la DRM requiere información geoespacial para decisiones antes, durante y después de los desastres (p. 11-12).",
+      "En diez países, las agencias de protección y servicios públicos integran mejor la DRM, mientras otras agencias tienen integración parcial o carecen de funciones asignadas; esta fragmentación limita el apoyo de GIM a la DRM (p. 27-28).",
+      "Todos los países encuestados tenían planes nacionales de DRM, pero 55% no contaba con políticas y estándares correspondientes para evaluación de vulnerabilidad; 45% carecía de políticas de acceso, respaldo o intercambio de datos (p. 29-30).",
+      "La calidad de los datos presenta brechas: 75% reportó falta de datos de atributos relevantes, 65% indicó que sus bases no estaban actualizadas y 35% señaló problemas de proyección cartográfica o datum geodésico (p. 32-33).",
+      "La formación técnica es desigual: ningún país reportó formación avanzada en sistemas de cartografía con drones ni en procesamiento de imágenes de drones para ortofotos, y las capacidades están limitadas por financiamiento, dotación insuficiente, rotación y calificaciones previas (p. 34-35)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La integración de GIM en la DRM caribeña ha avanzado, pero sigue siendo desigual y depende de arreglos institucionales, políticas de datos, calidad de información, tecnología y capacidades humanas que no están consolidados de manera homogénea.",
+        "La evidencia sostiene que el problema central no es solo adquirir tecnología: la falta de integración interinstitucional, estándares, actualización, acceso y personal especializado reduce la utilidad efectiva de los datos para la decisión pública.",
+        "Los casos de Bahamas y Jamaica muestran que estrategias o legislación de infraestructura espacial, apoyo político, financiamiento público y unidades o redes coordinadoras pueden sostener avances nacionales y ofrecer bases para una cooperación subregional."
+      ],
+      "recomendaciones": [
+        "Establecer o fortalecer una unidad dedicada de GIM dentro de una infraestructura nacional de datos espaciales, respaldada por grupos interinstitucionales y, cuando corresponda, por memorandos de entendimiento.",
+        "Examinar una instalación subregional caribeña de GIM para coordinar estándares, datos, protocolos de intercambio, capacitación, investigación y reportes periódicos sobre desastres.",
+        "Actualizar políticas, legislación, estándares de acceso y seguridad, metadatos, cartografía y actualización regular de información y servicios geoespaciales para DRM.",
+        "Desarrollar matrices de conocimientos, presupuestos de capacitación, alfabetización geográfica, investigación, currículos de DRM y competencias en NSDI y plataformas de datos abiertos.",
+        "Construir alianzas público-privadas y con la academia para movilizar recursos, incorporar tecnología y transferir conocimientos y capacidades."
+      ],
+      "nota": "Las recomendaciones son una agenda normativa propia del capítulo IV; los anexos contienen instrumentos de encuesta y no se procesan como secciones analíticas."
+    },
+    "resumen_narrativo": "El estudio examina cómo los países del Caribe usan la gestión de información geoespacial para gestionar riesgos de desastres en un contexto de alta exposición climática y concentración costera. Encuentra avances en planes de DRM, infraestructuras nacionales y aplicaciones como mapas de amenazas, pero también integración institucional parcial, políticas de datos incompletas, bases desactualizadas y capacidades técnicas desiguales. La respuesta propuesta combina unidades nacionales, una posible instalación subregional, estándares y protocolos, formación sostenida y alianzas con el sector privado y la academia. El documento trata la infraestructura de información y las capacidades de coordinación como condiciones para que la DRM sea oportuna, interoperable y basada en evidencia."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introduction",
+      "nivel": 1,
+      "paginas": "11-14",
+      "resumen": "La introducción sitúa al Caribe ante inundaciones, huracanes, tormentas, sequías, aumento del nivel del mar y otros peligros, y vincula esa exposición con la concentración costera de población y actividad económica. Explica que la DRM necesita datos para evaluar daños, mapear riesgos, planificar evacuaciones y orientar recursos, y presenta la GIM como soporte para decisiones más oportunas, precisas y repetibles. También enumera aplicaciones concretas —observación de la Tierra, mapas de vulnerabilidad, alertas, evaluación de pérdidas y planificación de recuperación— y describe usos nacionales en Antigua y Barbuda, Barbados, Trinidad y Tobago y Granada.",
+      "dimensiones": [
+        {"dimension": "estado_de_situacion", "cita": "The Caribbean is highly vulnerable to a range of extreme hydroclimatic events, with flooding being the most frequent, and hurricanes and storms the most damaging.", "pagina": 11},
+        {"dimension": "tendencias", "cita": "Considering that 60% of the subregion’s population and 70% of its economic activity are located at or near the coastline, the impact of hazards due to climate change in particular are projected to intensify (CDEMA, 2014).", "pagina": 11},
+        {"dimension": "propuestas_politica", "cita": "DRM processes such as vulnerability assessment, hazard and multi-hazard risk mapping, evacuation planning, and mitigation management can now be undertaken using modern technologies", "pagina": 12}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Methodology",
+      "nivel": 1,
+      "paginas": "15-16",
+      "resumen": "La metodología combina entrevistas con especialistas y organismos regionales e internacionales, cuestionarios sobre tecnologías y datos geoespaciales enviados a 16 países y respondidos por diez, una evaluación de necesidades de capacitación y revisión documental. El análisis identifica prácticas, brechas y prioridades en estrategias, políticas, instituciones, operación, recursos humanos y estructuras de DRM. La principal limitación declarada es que las encuestas y entrevistas se realizaron en línea durante las medidas de control de la pandemia de COVID-19, lo que dificultó llegar a oficinas pertinentes.",
+      "dimensiones": [
+        {"dimension": "contexto_antecedentes", "cita": "This study seeks to assess the status of advancements on the use of GIM as a necessary tool for effective DRM in the Caribbean region.", "pagina": 15},
+        {"dimension": "brechas_implementacion", "cita": "The data obtained from the on-line surveys, training needs assessments and desk research were analysed to identify current practices, gaps and provide recommendations on priority areas and strategies to advance the use, accessibility, and application of GIM in DRM in the Caribbean.", "pagina": 16, "subtipo_brecha": "retrospectiva"}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "II. Geospatial Information Management and Disaster Risk Management",
+      "nivel": 1,
+      "paginas": "17-26",
+      "resumen": "Este capítulo ofrece un panorama ilustrativo de marcos internacionales que emplean GIM en DRM y de dos instituciones caribeñas. La arquitectura va desde marcos estratégicos y plataformas globales hasta agencias regionales y seguros paramétricos, mostrando cómo la información espacial apoya la reducción del riesgo, la respuesta, la resiliencia y la transferencia financiera. El contenido funciona como base institucional y comparativa para leer el diagnóstico empírico del capítulo siguiente.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. International Frameworks",
+          "nivel": 2,
+          "paginas": "17-22",
+          "resumen": "El bloque recorre ocho marcos y programas de Naciones Unidas y del Banco Mundial: UN-IGIF, Sendai, OCHA, UNDAC, UNOSAT, UN-SPIDER, GDACS y GFDRR. En conjunto, ofrecen principios de interoperabilidad, acceso, coordinación, observación satelital, mapas, respuesta humanitaria y datos abiertos para todas las fases de la DRM. Los hijos detallan la función de cada mecanismo y sus vínculos con países, organizaciones y redes caribeñas.",
+          "dimensiones": [],
+          "subsecciones": [
+            {"seccion": "1. The United Nations-Integrated Geospatial Information Framework", "nivel": 3, "paginas": "17-18", "resumen": "Presenta el UN-IGIF como un marco de directrices estratégicas y prácticas para establecer, integrar y fortalecer arreglos nacionales de GIM. Sus vías estratégicas abarcan gobernanza e instituciones, política y legislación, financiamiento, datos, innovación, estándares, alianzas y capacidades; el marco de desastres agrega sostenibilidad, accesibilidad, complementariedad e interoperabilidad para mejorar la decisión informada.", "dimensiones": [{"dimension": "propuestas_politica", "cita": "The UN-IGIF contains nine strategic pathways serving to support this process including: governance and institutions, policy and legal, financial, data innovation, standards, partnership and capacity and education.", "pagina": 17}], "subsecciones": []},
+            {"seccion": "2. The Sendai Framework for Disaster Risk Reduction 2015–2030", "nivel": 3, "paginas": "19-20", "resumen": "Explica que Sendai organiza la reducción del riesgo en comprender el riesgo, fortalecer la gobernanza, invertir en reducción y resiliencia, y mejorar la preparación para responder y reconstruir mejor. El recuadro traduce esas prioridades a tareas de GIM: mapas localizados, acceso en tiempo real, datos espaciales y observaciones terrestres y climáticas, cooperación tecnológica y coordinación de redes científicas.", "dimensiones": [{"dimension": "contexto_antecedentes", "cita": "The Sendai Framework for Disaster Risk Reduction 2015 -2030 advocates for the substantial reduction of disaster risk , loss of life and livelihoods, and promotes the protection of socio-economic, infrastructural and environmental assets through the management of risk and resilience building .", "pagina": 19}], "subsecciones": []},
+            {"seccion": "3. United Nations Office for the Coordination of Humanitarian Affairs", "nivel": 3, "paginas": "20-20", "resumen": "Describe a OCHA como agencia de coordinación humanitaria ante emergencias, responsable de consolidar y publicar información y facilitar que actores locales la utilicen para decisiones de DRM. La GIM aparece como elemento central de esa gestión de información y como servicio que suele entregarse junto con otras agencias y socios de desarrollo.", "dimensiones": [{"dimension": "propuestas_politica", "cita": "Information management employing GIM tools is a core element of this service, often delivered in coordination with other agencies and development partners.", "pagina": 20}], "subsecciones": []},
+            {"seccion": "4. United Nations Disaster Assessment and Coordination", "nivel": 3, "paginas": "20-21", "resumen": "Explica que los equipos UNDAC se despliegan en la primera fase de emergencias rápidas para apoyar a gobiernos afectados y agencias asociadas. Sus tareas incluyen evaluaciones iniciales de necesidades y coordinación de asistencia internacional, mientras su manual de campo ofrece prácticas para usar GIS, mapas y fuentes de datos en la respuesta y para construir una imagen operativa compartida.", "dimensiones": [{"dimension": "propuestas_politica", "cita": "The UNDAC Field Handbook offers practical advice on using GIS and mapping approaches as well as (GIS) data sources.", "pagina": 21}], "subsecciones": []},
+            {"seccion": "5. United Nations Operational Satellite Applications Programme", "nivel": 3, "paginas": "21-21", "resumen": "Presenta UNOSAT como proveedor de información geoespacial oportuna y de alta calidad mediante GIS e imágenes satelitales. Sus mapas, datos, servicios web y soluciones de monitoreo sirven a Estados, organizaciones internacionales y ONG en desastres y en otras fases de DRM, incluyendo análisis, capacitación, desarrollo de capacidades y apoyo a decisiones basadas en evidencia.", "dimensiones": [{"dimension": "avances_implementacion", "cita": "United Nations Operational Satellite Applications Programme (UNOSAT) promotes evidence -based decision-making for peace, security, and resilience using geo-spatial information technologies.", "pagina": 21}], "subsecciones": []},
+            {"seccion": "6. United Nations Platform for Space-based Information for Disaster Management and Emergency Response", "nivel": 3, "paginas": "21-22", "resumen": "Expone la función de UN-SPIDER y su oficina regional de apoyo vinculada con la Universidad de las Indias Occidentales. El acuerdo busca racionalizar e integrar iniciativas de reducción y gestión de desastres, movilizar recursos, desarrollar alianzas colaborativas y fortalecer programas universitarios y formación terciaria en GIS y geoinformática para el Caribe.", "dimensiones": [{"dimension": "propuestas_politica", "cita": "This RSO also supports capacity building and tertiary level degree programmes in the areas GIS and Geoinformatics.", "pagina": 22}], "subsecciones": []},
+            {"seccion": "7. Global Disaster Alert and Coordination Systems", "nivel": 3, "paginas": "22-22", "resumen": "Describe GDACS como un marco de cooperación apoyado por Naciones Unidas y la Comisión Europea que reúne gestores de desastres y sistemas de información. Su objetivo es cerrar brechas de información y coordinación tras grandes desastres mediante acceso en tiempo real, datos, mapas, imágenes satelitales y la plataforma virtual OSOCC para organizar esfuerzos de socorro.", "dimensiones": [{"dimension": "propuestas_politica", "cita": "GDACS provides real -time access to web -based disaster information systems and related coordination tools .", "pagina": 22}], "subsecciones": []},
+            {"seccion": "8. World Bank Global Facility for Disaster Reduction and Recovery", "nivel": 3, "paginas": "22-22", "resumen": "Presenta GFDRR como una alianza global para ayudar a países de ingreso bajo y medio a comprender, gestionar y reducir riesgos naturales y climáticos. El mecanismo combina experiencia, datos, herramientas geoespaciales, asistencia técnica y plataformas abiertas de riesgo para apoyar resiliencia, conocimiento y mapeo comunitario de exposición.", "dimensiones": [{"dimension": "avances_implementacion", "cita": "GFDRR partnership provides specialized expertise, data including geospatial tools, and technical assistance supporting resilience building to climate change and variability.", "pagina": 22}], "subsecciones": []}
+          ]
+        },
+        {
+          "seccion": "B. Caribbean Agencies",
+          "nivel": 2,
+          "paginas": "22-26",
+          "resumen": "El bloque aterriza la GIM en dos instituciones caribeñas: CDEMA, que impulsa la gestión integral de desastres y el sistema CRIS, y CCRIF-SPC, que utiliza modelos paramétricos y datos geoespaciales para seguros y pagos rápidos. Los casos muestran gobernanza regional, plataformas de datos, análisis de exposición y vulnerabilidad, y transferencia financiera del riesgo.",
+          "dimensiones": [],
+          "subsecciones": [
+          {"seccion": "1. Caribbean Disaster and Emergency Management Agency", "nivel": 3, "paginas": "22-24", "resumen": "Explica que CDEMA promueve la Comprehensive Disaster Management para integrar el riesgo en la planificación y decisión de los Estados participantes. Su estrategia combina instituciones, gestión del conocimiento, resiliencia sectorial, preparación operativa, adaptación climática y reducción del riesgo; CRIS agrega GeoCRIS, biblioteca virtual y bases de datos de eventos, alerta y perfiles de riesgo.", "dimensiones": [{"dimension": "propuestas_politica", "cita": "A Caribbean Risk Information System (CRIS) has been established and managed by CDEMA", "pagina": 23}], "subsecciones": []},
+          {"seccion": "2. Parametric Insurance of the Caribbean Catastrophe Risk Insurance Facility-Segregated Portfolio Company", "nivel": 3, "paginas": "23-26", "resumen": "Detalla cómo CCRIF-SPC usa modelos de amenaza, exposición, vulnerabilidad y pérdida para fijar seguros paramétricos y desembolsar pagos a gobiernos caribeños tras eventos. SPHERA y XSR incorporan imágenes satelitales, datos meteorológicos y estadísticas económicas; los perfiles de riesgo y bases de consecuencias apoyan precios, validación y decisiones de transferencia.", "dimensiones": [{"dimension": "avances_implementacion", "cita": "CCRIF-SPC currently offers five different categories of policies encompassing, earthquake, tropical cyclone, excess rainfall, fisheries, and electric utilities.", "pagina": 24}], "subsecciones": []}
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "III. Geospatial Information Management for Disaster Risk Management in the Caribbean",
+      "nivel": 1,
+      "paginas": "27-35",
+      "resumen": "Este capítulo presenta el diagnóstico de las encuestas de 2021 sobre arreglos institucionales, políticas y estándares, gestión y calidad de datos, y recursos humanos. La evidencia muestra integración parcial de agencias, avances diferenciados en Bahamas y Jamaica, brechas de acceso, actualización y atributos de datos, y formación técnica desigual. El capítulo convierte el uso de GIM en un problema de capacidad estatal, coordinación e infraestructura de información para la DRM.",
+      "dimensiones": [],
+      "subsecciones": [
+        {"seccion": "A. Institutional arrangements", "nivel": 2, "paginas": "27-28", "resumen": "Examina la integración de agencias públicas en un enfoque de gobierno completo y el desarrollo de infraestructuras nacionales de datos espaciales. La encuesta identifica integración fuerte en agencias protectoras y servicios públicos, integración parcial en otras y funciones de DRM no asignadas; Bahamas y Jamaica ofrecen arreglos legales, centros, divisiones y equipos coordinadores como avances concretos.", "dimensiones": [], "subsecciones": [
+          {"seccion": "1. The integration of public sector agencies into the Disaster Risk Management", "nivel": 3, "paginas": "27-28", "resumen": "Los diez países encuestados integran las actividades de respuesta en agencias protectoras y de servicios públicos, pero las agencias de planificación física, desarrollo social y comunitario suelen quedar fuera de la infraestructura institucional de DRM. La ausencia de funciones asignadas a agencias clave limita la efectividad de GIM, porque impide una integración nacional que cubra identificación, mitigación, transferencia, preparación, respuesta, rehabilitación y reconstrucción.", "dimensiones": [{"dimension": "brechas_implementacion", "cita": "This arrangement has limited the effectiveness of GIM in support of DRM .", "pagina": 28, "subtipo_brecha": "retrospectiva"}], "subsecciones": []},
+          {"seccion": "2. Spatial Data Infrastructure", "nivel": 3, "paginas": "28-28", "resumen": "Compara la infraestructura nacional de Bahamas y Jamaica. La ley bahameña crea el BNGISC, define la infraestructura espacial y un Consejo Geoespacial, y regula acceso e intercambio; Jamaica asigna a la NSDMD la coordinación de una red GIS y cuenta con NERGIST, grupo voluntario de especialistas públicos, privados y académicos que apoya análisis, modelación, evaluación de daños y respuesta.", "dimensiones": [{"dimension": "avances_implementacion", "cita": "The Bahamas National Spatial Data Infrastructure Act (2014) establishes the Bahamas National GIS Centre (BNGISC) as a Department of Government within Section 127 (c) of the Constitution.", "pagina": 28}, {"dimension": "avances_implementacion", "cita": "Jamaica also has a National Emergency Response Geographical Information Systems Team (NERGIST). Approved by Cabinet in 2010, t he NERGIST is a group of volunteer GIS professionals with capacity in such fields as: geospatial analysis, scenario modelling, image interpretation, data collection, and damage assessment in response to disasters.", "pagina": 28}], "subsecciones": []}
+        ]},
+        {"seccion": "B. Policies and standards", "nivel": 2, "paginas": "28-30", "resumen": "Analiza la disponibilidad de políticas y estándares que permiten usar GIM en DRM. Aunque Bahamas y Jamaica cuentan con apoyo político y financiamiento público más estable, los países dependen con frecuencia de fondos extrapresupuestarios y enfrentan restricciones de acceso entre agencias. Todos tienen planes nacionales de DRM, pero persisten vacíos en evaluación de vulnerabilidad, acceso, respaldo e intercambio de datos.", "dimensiones": [], "subsecciones": [
+          {"seccion": "1. The availability of policies and standards in support of Disaster Risk Management", "nivel": 3, "paginas": "29-30", "resumen": "La encuesta de diez países encuentra planes nacionales de DRM en todos los casos, asociados en parte al mecanismo regional de respuesta de CDEMA, pero 55% carece de políticas y estándares para evaluación de vulnerabilidad. El bloque también muestra déficits de confidencialidad, respaldo y documentación de intercambio de datos, que debilitan la institucionalización de la GIM.", "dimensiones": [{"dimension": "brechas_implementacion", "cita": "In the area of vulnerability assessment, however, 55 % of the countries surveyed did not have corresponding policies and standards.", "pagina": 29, "subtipo_brecha": "retrospectiva"}, {"dimension": "estado_de_situacion", "cita": "All 10 countries surveyed had national DRM plans", "pagina": 29}], "subsecciones": []}
+        ]},
+        {"seccion": "C. Geospatial data management", "nivel": 2, "paginas": "30-33", "resumen": "El bloque aborda acceso, frecuencia de uso y calidad de los datos geoespaciales para decisiones de DRM. Identifica que los productos se usan más para amenazas frecuentes como inundaciones, deslizamientos y marejadas, pero los datos se duplican y quedan dispersos entre agencias, sin empresa GIS ni políticas de gestión. Las mediciones de exactitud, actualidad, atributos, disponibilidad y referencias geodésicas muestran una necesidad sistemática de mejora.", "dimensiones": [], "subsecciones": [
+          {"seccion": "1. Frequency of use of Geospatial Information Management technologies and data products in support of Disaster Risk Management", "nivel": 3, "paginas": "30-31", "resumen": "El análisis relaciona la frecuencia de uso de productos GIM con la frecuencia de los desastres: mapas de inundación, deslizamiento y marejada tienen mayor uso. Sin embargo, la escasez de datos, la capacidad humana y la falta de herramientas reducen el acceso; los datos se almacenan en copias no oficiales y departamentos separados, sin una empresa GIS ni políticas y estándares que respalden decisiones oficiales.", "dimensiones": [{"dimension": "brechas_implementacion", "cita": "Data are often collected in different forms, stored and managed at various departments, different Ministries and or are generated specifically for short term projects.", "pagina": 31, "subtipo_brecha": "retrospectiva"}, {"dimension": "estado_de_situacion", "cita": "For example, there is higher frequency in the use of Flood Hazard Maps, Landslide Maps, and Storm Surge Hazard Maps.", "pagina": 31}, {"dimension": "desafios", "cita": "Other factors contributing to the frequency of use of GIM were , for example, due to scarcity of data, limited human resource capacity, and the unavailability of appropriate tools.", "pagina": 31}], "subsecciones": []},
+          {"seccion": "2. Quality of geospatial data and information", "nivel": 3, "paginas": "32-33", "resumen": "Evalúa la calidad de los datos mediante completitud, precisión, exactitud y consistencia, y reporta brechas que afectan el análisis espacial y la decisión de DRM. Aunque 65% considera satisfactoria la exactitud, 75% carece de atributos relevantes, 35% no puede acceder libremente a datos de otras agencias, 65% trabaja con bases desactualizadas y 35% enfrenta problemas de proyección o datum.", "dimensiones": [{"dimension": "estado_de_situacion", "cita": "Sixty-five percent of the respondents reported satisfactory levels in the accuracy of their datasets", "pagina": 32}, {"dimension": "brechas_implementacion", "cita": "Sixty-five percent of the respondents indicated that their databases are not current.", "pagina": 33, "subtipo_brecha": "retrospectiva"}], "subsecciones": []}
+        ]},
+        {"seccion": "D. Human Resources Capacity", "nivel": 2, "paginas": "33-35", "resumen": "Examina conocimientos y formación en GIS, análisis espacial, teledetección, GNSS, drones, procesamiento de imágenes y diseño de bases de datos. La capacidad es heterogénea: hay mayor formación avanzada en GIS y evaluación de vulnerabilidad, pero ausencia de formación avanzada en drones; además, financiamiento insuficiente, subdotación, rotación y calificaciones previas limitan la actualización y el soporte a la DRM.", "dimensiones": [], "subsecciones": [
+          {"seccion": "1. Technical staff trained in the theory and application of Geospatial Information Management and including Geospatial Technologies", "nivel": 3, "paginas": "34-35", "resumen": "La evaluación de veinte aplicaciones en diez países muestra niveles básicos, intermedios y avanzados de formación que no son uniformes. La mitad reporta formación avanzada en software GIS y evaluación de vulnerabilidad, pero ningún encuestado reporta nivel avanzado en sistemas de mapeo con drones o producción de ortofotos a partir de imágenes de drones. El estudio propone formación académica y cursos de actualización para sostener la adopción tecnológica.", "dimensiones": [{"dimension": "brechas_implementacion", "cita": "No respondent reported having advanced training in the use of drone mapping system and the processing of drone image to produce orthophoto maps.", "pagina": 34, "subtipo_brecha": "retrospectiva"}, {"dimension": "estado_de_situacion", "cita": "Based on the data from the 10 countries surveyed, it can be concluded that the training levels are not uniform.", "pagina": 34}], "subsecciones": []},
+          {"seccion": "2. Constraints affecting staff capacity development", "nivel": 3, "paginas": "35-35", "resumen": "Identifica tres restricciones a la capacidad humana: presupuestos insuficientes para capacitación, unidades GIM con poco personal y alta rotación sin sucesión adecuada, y calificaciones previas insuficientes para acompañar avances tecnológicos. Estas limitaciones reducen la posibilidad de actualizar habilidades en tecnologías emergentes y de prestar servicios geoespaciales efectivos para DRM.", "dimensiones": [{"dimension": "desafios", "cita": "Given the technology push-factors, staff capacity development including reskilling is an ongoing task.", "pagina": 35}], "subsecciones": []}
+        ]}
+      ]
+    },
+    {
+      "seccion": "IV. Recommendations for advancing geospatial information management for disaster risk management",
+      "nivel": 1,
+      "paginas": "37-39",
+      "resumen": "El cierre convierte el diagnóstico en una agenda normativa para incorporar GIM a la DRM. Propone unidades nacionales e infraestructura de datos espaciales, grupos interinstitucionales y una instalación subregional; políticas, legislación y estándares; matrices de capacidades, presupuestos, educación e investigación; y alianzas público-privadas y académicas. La agenda nombra instrumentos y entregables —MOU, protocolos, estándares, plataformas, matrices y reportes—, aunque algunos beneficios de las alianzas quedan formulados como posibilidades generales.",
+      "dimensiones": [],
+      "subsecciones": [
+        {"seccion": "A. Establishment and or strengthening of Spatial Data Infrastructure", "nivel": 2, "paginas": "37-38", "resumen": "Recomienda establecer o fortalecer una unidad dedicada de GIM bajo una infraestructura nacional de datos espaciales, apoyada por grupos interinstitucionales y MOU para generar, acceder, compartir y reportar datos. También plantea una instalación subregional caribeña que alinee UN-IGIF, produzca y mantenga datos, establezca estándares y protocolos, coordine recursos, entregue capacitación e investigación y prepare reportes periódicos de desastres.", "dimensiones": [{"dimension": "propuestas_politica", "cita": "The NSDI should be supported through mechanisms such as an inter-institutional working g roup.", "pagina": 37}], "subsecciones": []},
+        {"seccion": "B. Policy and Legislation", "nivel": 2, "paginas": "38-38", "resumen": "Propone anclar la incorporación de GIM en políticas, legislación, estándares y sistemas, integrándola a políticas nacionales de desarrollo sostenible. La lista incluye estándares de recolección, acceso y seguridad, uso de datos, metadatos, cartografía y actualización regular de información y servicios; además, insta a autoridades nacionales y subregionales a regular fuentes oficiales de auto-monitoreo, análisis e intercambio abierto.", "dimensiones": [{"dimension": "propuestas_politica", "cita": "Effective mainstreaming of GIM into DRM activities is anchored on the establishment and implementation of GIM policies, legislation, standards and systems", "pagina": 38}], "subsecciones": []},
+        {"seccion": "C. Capacity and Education", "nivel": 2, "paginas": "38-39", "resumen": "Propone una matriz de conocimientos y habilidades a escala individual e institucional, con atención a alertas tempranas y efectos del cambio climático, para orientar formación y capacitación. Incluye presupuestos de desarrollo de personal, alfabetización geográfica y comunicación localizada, investigación y currículo de DRM, competencias en NSDI y datos abiertos, y comunidades de práctica y redes regionales para compartir datos y coordinar necesidades.", "dimensiones": [{"dimension": "propuestas_politica", "cita": "Member countries and the subregion should seek to conduct a DRM-knowledge and skill matrix at both individual and institutional levels.", "pagina": 38}], "subsecciones": []},
+        {"seccion": "D. Public Private Sector Partnership", "nivel": 2, "paginas": "39-39", "resumen": "Plantea que la cooperación con empresas privadas y academia puede acelerar una infraestructura GIM efectiva, mediante modelos de negocio, relaciones contractuales, adquisiciones y modelos de ingresos. Organiza sus beneficios en movilización de recursos, flexibilidad tecnológica y transferencia de conocimientos y capacidades, incluyendo capital privado, servicios de datos, eficiencias operativas, buenas prácticas y cooperación Sur-Sur y triangular.", "dimensiones": [{"dimension": "propuestas_politica", "cita": "Partnership development in particular with the private sectors and academia can serve to accelerate the development of an effective GIM infrastructure.", "pagina": 39}], "subsecciones": []}
+      ]
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "No",
+      "evidencia": "El documento propone fortalecer una infraestructura y capacidades de información para DRM, pero no formula un paquete coordinado de inversión y políticas orientado a transformar sectores productivos o a combinar sectores estratégicos y eficiencias productivas, distributivas y ambientales. Chequeo negativo explícito: no hay una propuesta propia de inversión coordinada para transición ambiental; las medidas son institucionales, informacionales y de capacitación.",
+      "citas": [{"cita": "The following recommendations are offered with a view to promoting the further mainstreaming of GIM into DRM.", "pagina": 37}],
+      "nota": "Las recomendaciones de GIM son valiosas para la resiliencia, pero no satisfacen el test de gran impulso ambiental concreto."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "Existe articulación nombrada dentro del ámbito caribeño: CDEMA administra CRIS y la estrategia regional CDM; Bahamas utiliza un Consejo Geoespacial; Jamaica opera NERGIST; y el cierre propone grupos interinstitucionales, MOU y una instalación subregional caribeña. No se trata solo de listar actores, sino de mecanismos o arreglos con funciones de coordinación de datos y DRM.",
+      "citas": [{"cita": "The NSDI should be supported through mechanisms such as an inter-institutional working g roup.", "pagina": 37}, {"cita": "A Caribbean Risk Information System (CRIS) has been established and managed by CDEMA", "pagina": 23}],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "El documento enumera tecnologías, servicios de datos, seguros y alianzas, pero no desarrolla sectores o actividades productivas sostenibles como oportunidades vinculadas con empleo, productividad o reducción de desigualdad. La mención de modelos de negocio y oportunidades de desarrollo en alianzas no constituye el vínculo productivo exigido.",
+      "citas": [{"cita": "Partnership development in particular with the private sectors and academia can serve to accelerate the development of an effective GIM infrastructure.", "pagina": 39}],
+      "desglose_items": [{"item": "Resource mobilisation", "clasificacion": "GENERICO", "pagina": 39}, {"item": "Technological Flexibility", "clasificacion": "GENERICO", "pagina": 39}, {"item": "Knowledge, capacity transfers and collaboration", "clasificacion": "GENERICO", "pagina": 39}],
+      "tally": "0 de 3 ítems pasan el test de oportunidad productiva sostenible",
+      "nota": "Las actividades listadas son funciones o beneficios de alianzas para GIM, no sectores productivos desarrollados con resultados laborales, productivos o distributivos."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "La sección propia de recomendaciones contiene cuatro bloques completos y sus listas normativas. La mayoría de los ítems nombra instrumentos, entregables, protocolos, estándares, matrices, presupuestos, currículos, plataformas o reportes identificables; los ítems genéricos se mantienen como tales y no se fragmenta una lista para inflar el resultado.",
+      "citas": [{"cita": "approaches such as establishing a Caribbean-Subregional Geospatial Information Management facility.", "pagina": 38}, {"cita": "Member countries and the subregion should seek to conduct a DRM-knowledge and skill matrix at both individual and institutional levels.", "pagina": 38}],
+      "desglose_items": [
+        {"item": "Support the alignment with and implementation of global GIM guidelines such as the UN-IGIF", "clasificacion": "CONCRETO", "pagina": 38},
+        {"item": "Formulate, collect, analyse, curate and have timely availability of data for use by technical officers, policy and other decision makers", "clasificacion": "CONCRETO", "pagina": 38},
+        {"item": "Lead the establishment of subregional standards, data sharing and data dissemination protocols for GIM and services", "clasificacion": "CONCRETO", "pagina": 38},
+        {"item": "Collaborate on common subregional priorities including negotiation, evaluation and acquisition of resources and the sharing of best practices", "clasificacion": "GENERICO", "pagina": 38},
+        {"item": "Identify and deliver training, capacity building and research priorities for the Caribbean", "clasificacion": "CONCRETO", "pagina": 38},
+        {"item": "Support the preparation of periodic reports on disaster related statistics for the Caribbean", "clasificacion": "CONCRETO", "pagina": 38},
+        {"item": "Establishment and or the updating of standards for data collection", "clasificacion": "CONCRETO", "pagina": 38},
+        {"item": "Data access and including security protocols", "clasificacion": "CONCRETO", "pagina": 38},
+        {"item": "Policy on use of data and information", "clasificacion": "CONCRETO", "pagina": 38},
+        {"item": "Metadata standards", "clasificacion": "CONCRETO", "pagina": 38},
+        {"item": "Cartographic standards for mapped features", "clasificacion": "CONCRETO", "pagina": 38},
+        {"item": "Regular updating of geospatial information and services for DRM", "clasificacion": "CONCRETO", "pagina": 38},
+        {"item": "Conduct a DRM-knowledge and skill matrix at both individual and institutional levels", "clasificacion": "CONCRETO", "pagina": 38},
+        {"item": "Plan and have budgetary provisions for staff capacity development", "clasificacion": "CONCRETO", "pagina": 39},
+        {"item": "Develop and implement geographical literacy, communication and awareness raising resources", "clasificacion": "CONCRETO", "pagina": 39},
+        {"item": "Undertake research and development in GIM relevant for DRM and include GIM in DRM academic programs", "clasificacion": "CONCRETO", "pagina": 39},
+        {"item": "Strengthen competencies in establishing NSDI and open data platforms", "clasificacion": "CONCRETO", "pagina": 39},
+        {"item": "Explore and expand access to available regional and international GIM resources and establish communities of practice", "clasificacion": "GENERICO", "pagina": 39},
+        {"item": "Resource mobilisation through public-private partnerships", "clasificacion": "GENERICO", "pagina": 39},
+        {"item": "Technological flexibility through public-private partnerships", "clasificacion": "GENERICO", "pagina": 39},
+        {"item": "Knowledge, capacity transfers and collaboration through public-private partnerships", "clasificacion": "GENERICO", "pagina": 39}
+      ],
+      "tally": "16 de 21 ítems pasan el test de concreción",
+      "nota": "La unidad evaluada es la lista normativa completa de A-D; los tres beneficios del bloque D se clasifican como GENERICO porque describen beneficios esperados, no instrumentos o entregables identificables."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {"numero": 11, "nombre": "Capacidades del Estado", "certeza": "Alta"},
+    "transformacion_secundaria": {"numero": 6, "nombre": "Sostenibilidad ambiental", "certeza": "Alta"},
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "La tensión central es entre la necesidad de decisiones de DRM basadas en datos oportunos e interoperables y la fragmentación institucional, normativa, tecnológica y humana que impide producir y compartir esa información de forma consistente en el Caribe.",
+      "filtro_categoria_primaria": "El objeto del documento es la arquitectura que permite gobernar información geoespacial: unidades GIM, NSDI, estándares, protocolos, capacitación, coordinación interinstitucional y alianzas. El riesgo de desastres y el cambio climático son el ámbito y la finalidad sobre los que se aplica esa arquitectura; por objeto frente a instrumento, corresponde #11 y no #6 como primaria.",
+      "secundaria_obligatoria": "#6 Sostenibilidad ambiental funciona como secundaria porque la GIM se orienta a riesgos hidroclimáticos, adaptación, resiliencia y evaluación de impactos climáticos, y porque el cierre pide incluir alerta temprana y efectos del cambio climático en la matriz de capacidades.",
+      "justificacion_anti_copia": "La clasificación se apoya en elementos propios del estudio: la integración incompleta de agencias de planificación y desarrollo social, el BNGISC y su Consejo Geoespacial, la NSDMD y NERGIST, las carencias de metadatos y actualización, y la recomendación de una instalación caribeña que produzca datos, protocolos, capacitación y reportes. La sostenibilidad ambiental no es el objeto institucional que se reforma, sino la presión y el propósito de la DRM que esas capacidades deben atender.",
+      "validacion_anclas": "Se alinea con el patrón de gobernanza ambiental de #11/#6 del canon congelado: el texto dedica su método, diagnóstico y cierre a instituciones, datos, normas y capacidades, mientras clima y desastres delimitan el campo de aplicación. La comparación es metodológica con el ancla identificada en TIPOLOGIA_v0.md §3, no una referencia a otro documento procesado."
+    },
+    "tipo_documento_climatico": "Estudio técnico sobre capacidades institucionales e infraestructura de información geoespacial para gestión del riesgo de desastres y resiliencia climática en el Caribe",
+    "nivel_aplicacion": "Regional/subregional (Caribe), con evidencia nacional comparada de diez países y arreglos institucionales nacionales y caribeños",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

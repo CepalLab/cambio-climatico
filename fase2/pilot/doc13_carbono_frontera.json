@@ -478,24 +478,24 @@
   },
   "tipologia": {
     "transformacion_primaria": {
-      "numero": 6,
-      "nombre": "Sostenibilidad ambiental",
-      "certeza": "Baja"
-    },
-    "transformacion_secundaria": {
       "numero": 9,
       "nombre": "Integración económica",
-      "certeza": "Baja"
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
     },
     "razonamiento_5_pasos": {
-      "tension_dialectica": "El documento procesa la tensión entre una inserción comercial subregional concentrada en los Estados Unidos (74,1% de las exportaciones) y de mínima exposición a la UE, y la emergencia de gravámenes climáticos transfronterizos que amenazan con reescribir las reglas del comercio mundial. El comercio (CBAM) es la superficie del texto, pero cumple una doble función: es el canal por el que llega una presión climática externa y, a la vez, el terreno de la respuesta propuesta (acuerdos, cooperación, competitividad). Esa doble función —comercio como canal y como sujeto— es exactamente lo que vuelve ambiguo el caso.",
-      "filtro_categoria_primaria": "¿Qué pretende transformar el documento? La lectura adoptada: la preparación climática de la subregión —política fiscal ambiental (precios al carbono, eliminación de subsidios fósiles), sistemas de datos de emisiones, transición laboral verde—, usando el CBAM como detonante de esa transformación. Eso ancla la primaria en #6 Sostenibilidad ambiental. La lectura alternativa (lo que se transforma es la inserción comercial y la coordinación regional ante un shock regulatorio externo) anclaría #9 como primaria con fuerza comparable; se documenta en ambiguedad_pendiente_validacion.",
-      "secundaria_obligatoria": "#9 Integración económica: el documento constata que ALC 'ha carecido de una voz unificada' en los foros climáticos (p.69), releva los tratados de libre comercio con elementos de protección ambiental (Cuadro 7) y recomienda actualizar acuerdos comerciales con consideraciones climáticas y fortalecer la cooperación regional para reducir la dependencia de los Estados Unidos y China (p.77).",
-      "justificacion_anti_copia": "La clasificación se sostiene en conceptos literales del texto y no en las definiciones del canon: el 'impuesto fronterizo al carbono' como objeto, los subsidios energéticos por 55.400 millones de dólares (3% del PIB subregional), la matriz eléctrica 51,94% renovable como 'punto de partida ventajoso', el coprocesamiento de residuos de la industria cementera mexicana (CANACEM) y la actualización de tratados de libre comercio con elementos de protección ambiental — combinación irrepetible en otro documento del corpus.",
-      "validacion_anclas": "El documento es una de las anclas fundacionales de la tabla de TIPOLOGIA_v0.md §3, registrada allí como caso genuinamente ambiguo #6/#9 (tentativas): la asignación aquí replica esa ancla con certeza Baja en ambas posiciones en lugar de forzar una resolución confiada. No pertenece a una serie insignia o Panorama con ancla predefinida — es un documento de proyecto de la sede subregional de México, sin categoría heredada de serie."
+      "tension_dialectica": "El documento procesa la tensión entre una inserción comercial subregional concentrada en los Estados Unidos —destino del 74,1% de las exportaciones— y la aparición de regulaciones climáticas transfronterizas capaces de modificar las condiciones de acceso a mercados aunque la exposición inmediata a la Unión Europea sea reducida. El cambio climático origina la presión regulatoria, pero la contradicción que organiza el texto es comercial: cómo preservar competitividad, capacidad exportadora y margen de negociación ante el CBAM y su posible difusión a otros socios y productos.",
+      "filtro_categoria_primaria": "El objeto analizado es un instrumento de política comercial externa y sus efectos sobre la inserción internacional de Centroamérica, México, Cuba, Haití y República Dominicana. Los capítulos iniciales explican el funcionamiento y alcance sectorial del CBAM; el diagnóstico mide exposición exportadora y dependencia de mercados; y el cierre recomienda actualizar acuerdos comerciales, construir una voz regional y preparar empresas y gobiernos para nuevos requisitos de acceso. La descarbonización, los datos de emisiones y la fiscalidad ambiental son respuestas para competir bajo esas reglas, no el objeto autónomo del documento. Por ello la primaria es #9 Integración económica.",
+      "secundaria_obligatoria": "La segunda intención es #6 Sostenibilidad ambiental. La respuesta comercial propuesta exige medir, verificar y reducir emisiones a nivel de producto, aprovechar una matriz eléctrica 51,94% renovable, retirar subsidios fósiles, considerar impuestos o mercados de carbono y promover empleo y capacidades para una transición baja en carbono. Sin el contenido climático no existiría el shock comercial estudiado, pero ese contenido opera como criterio de reconfiguración de la inserción externa.",
+      "justificacion_anti_copia": "La clasificación se sostiene en una combinación específica del documento: el mecanismo de ajuste en frontera por carbono de la Unión Europea; una canasta exportadora regional dirigida en un 74,1% a los Estados Unidos; subsidios energéticos por 55.400 millones de dólares, equivalentes al 3% del PIB subregional; la matriz eléctrica 51,94% renovable como punto de partida; el coprocesamiento de residuos de CANACEM; y la recomendación de incorporar consideraciones climáticas en acuerdos comerciales. Esos elementos muestran que la agenda ambiental se organiza alrededor de un problema de acceso, competitividad y coordinación comercial.",
+      "validacion_anclas": "Caso ancla fronterizo #9 Integración económica / #6 Sostenibilidad ambiental. Regla transferible: cuando una regulación climática externa estructura la pregunta, el diagnóstico de exposición y las recomendaciones de acceso a mercados o coordinación comercial, #9 es primaria aunque la respuesta requiera descarbonización. Se distingue de documentos cuya pregunta central es transformar emisiones o resiliencia y que solo usan el comercio como instrumento secundario."
     },
     "tipo_documento_climatico": "Diagnóstico de instrumento externo + evaluación de preparación + propuesta de política (mixto)",
     "nivel_aplicacion": "Subregional (10 países: Centroamérica, Cuba, Haití, México y República Dominicana), con desagregación por país en la mayoría de las cifras",
-    "ambiguedad_pendiente_validacion": "La asignación primaria/secundaria entre #6 (Sostenibilidad ambiental) y #9 (Integración económica) es genuinamente ambigua: el documento vive en la intersección comercio-clima y podría defenderse #9 como primaria con igual fuerza, porque el objeto analizado es un instrumento comercial y buena parte de las recomendaciones son de política comercial y cooperación regional. Se asigna #6 como mejor hipótesis (lo que el documento pide transformar es la preparación climática-fiscal de la subregión) con certeza Baja en ambas posiciones; queda pendiente de criterio experto del equipo del curso antes de usarse como ancla resuelta."
+    "ambiguedad_pendiente_validacion": null
   }
 }

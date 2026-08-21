@@ -1,0 +1,461 @@
+{
+  "documento": {
+    "num_muestra": 204,
+    "titulo": "Indicadores quantitativos da OCDE e o Brasil : meio ambiente",
+    "autoria": "Eduardo Abbade; Larissa Basso; Catherine Rebouças Mota; Sandra Paulsen",
+    "handle": "https://hdl.handle.net/11362/80987",
+    "simbolo": null,
+    "isbn": null,
+    "fecha": "2024",
+    "tipo_documento": "Estudo técnico",
+    "paginas_cuerpo": 352,
+    "paginas_totales": 355,
+    "idioma": "pt",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "Qual é o estado do alinhamento do Brasil com os indicadores ambientais e climáticos da OCDE, quais capacidades e lacunas aparecem na comparação internacional e que respostas de política podem melhorar esse alinhamento?",
+    "alcance": {
+      "ambito_aplicacion": "Brasil, com análise de políticas públicas, estatísticas nacionais e sua comparabilidade internacional.",
+      "referentes_dependencias": "OCDE e o relatório Environment at a Glance; FAO, IEA, IUCN, UNEP-WCMC, OMS, Banco Mundial, Ompi, IBGE, Inpe, ANA, SNIS, ICMBio, Ibama e outras bases e instituições citadas.",
+      "sectorial": "Mudança do clima; qualidade do ar; recursos hídricos; economia circular, materiais e resíduos; recursos biológicos e biodiversidade; economia oceânica sustentável; e práticas contra a pesca ilegal, não relatada e não regulamentada.",
+      "temporal": "Séries principalmente de 1990 a 2022, com anos de referência variáveis por indicador e consultas às bases realizadas sobretudo em 2023."
+    },
+    "hallazgos_principales": [
+      "O perfil brasileiro de emissões difere do padrão da OCDE porque o uso da terra, mudança de uso da terra e florestas responde por parcela central das emissões; em 2020 o setor LULUCF respondeu por 53,58% do total (p. 34).",
+      "O Brasil conserva vantagens relativas em fontes renováveis de energia, áreas protegidas, monitoramento florestal e algumas bases de conservação, mas usa pouco a tributação ambiental e mantém lacunas de transparência e acesso aos dados (p. 14, p. 25-27).",
+      "A qualidade do ar apresenta regulação desenvolvida, porém monitoramento desigual entre estados e municípios, ausência de dados brasileiros comparáveis em vários poluentes e instrumentos econômicos concentrados no transporte (p. 97-98, p. 122).",
+      "A disponibilidade hídrica nacional convive com desigualdade territorial, pressões da agricultura e do abastecimento e déficits de saneamento; o tratamento de esgoto gerado chegou a 50,8% em 2020, com diferenças fortes entre regiões (p. 151-154).",
+      "A economia circular é limitada pela geração e disposição de resíduos, pela dependência de commodities e pela baixa agregação de valor aos materiais; a produtividade material brasileira permanece baixa e estável, enquanto a recuperação de materiais é reduzida (p. 168-180).",
+      "Na biodiversidade e nos oceanos, o Brasil possui instrumentos de monitoramento, unidades de conservação, SAMGe, Prodes, Deter e programas de dados, mas ainda enfrenta perda de cobertura vegetal, baixa disponibilidade pública de dados pesqueiros e costeiros, pouca PD&D oceânica e subutilização de instrumentos econômicos (p. 205, p. 220, p. 261, p. 299)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "O Brasil apresenta alinhamento parcial e desigual com os indicadores da OCDE: demonstra capacidades estatísticas, regulatórias e de conservação em vários domínios, mas não converte essas capacidades em desempenho ambiental consistente.",
+        "A principal assimetria climática está na centralidade do desmatamento e do uso da terra, enquanto energia, transporte, materiais e oceanos exigem aceleração de descarbonização e maior eficiência.",
+        "As limitações de acesso, desagregação, atualização e harmonização dos dados reduzem a comparabilidade internacional e também dificultam o acompanhamento da implementação das políticas brasileiras.",
+        "O livro é sobretudo um diagnóstico comparativo: identifica instrumentos e programas concretos, mas não apresenta um pacote único, financiado e calendarizado de transformação ambiental."
+      ],
+      "recomendaciones": [
+        "Retomar e ampliar políticas de controle do desmatamento, com coordenação entre níveis de governo, fiscalização, orçamento e cobertura de outros biomas além da Amazônia.",
+        "Ampliar instrumentos econômicos ambientais, incluindo tributação e preços de carbono mais efetivos, sem perder de vista os setores e grupos que precisam de transição.",
+        "Fortalecer MonitorAr, SNIS, bases florestais, dados de pesca, indicadores costeiros e estatísticas oceânicas, com acesso público, desagregação territorial e interoperabilidade.",
+        "Aumentar eficiência energética e material, diversificar a economia para além de atividades intensivas em recursos e apoiar pesquisa, inovação, reciclagem, energia oceânica e combustíveis marítimos de baixa emissão.",
+        "Conservar e manejar efetivamente áreas protegidas e ecossistemas, associando unidades de conservação, SAMGe, instrumentos de biodiversidade, gestão costeira e combate à pesca IUU."
+      ],
+      "nota": "As recomendações são reconstruídas a partir das conclusões e recomendações dos capítulos; o documento não reúne uma seção final única com responsáveis, prazos e metas integradas."
+    },
+    "resumen_narrativo": "O volume examina como o Brasil se alinha aos indicadores ambientais e climáticos da OCDE em seis domínios, combinando definições metodológicas, séries comparativas e leitura crítica das bases brasileiras. O diagnóstico mostra uma combinação de vantagens renováveis e capacidades de monitoramento com problemas persistentes de desmatamento, poluição, saneamento, materiais, biodiversidade e dados oceânicos. As respostas citadas incluem PPCDAm, instrumentos tributários, SNIS, Prodes, Deter, áreas protegidas, programas de energia e planos setoriais, mas sua implementação é desigual e pouco articulada em um pacote único. O fechamento aponta a necessidade de melhorar dados públicos e comparáveis, acelerar a descarbonização e conectar conservação, inovação, financiamento e governança."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "INTRODUÇÃO",
+      "nivel": 1,
+      "paginas": "12-27",
+      "resumen": "A introdução enquadra o volume como uma avaliação do alinhamento do Brasil com os indicadores da OCDE para mudança do clima, meio ambiente e biodiversidade, relacionando o tema ao processo de acessão do país e à transversalidade dos limites planetários. Explica que o estudo segue a estrutura do Environment at a Glance e percorre seis grandes temas: mudança do clima, qualidade do ar, recursos hídricos, resíduos e materiais, biodiversidade e oceanos. Antecipam-se os principais achados: a centralidade brasileira do uso da terra nas emissões; a vantagem relativa das fontes renováveis, mas com aumento de fósseis e baixa produtividade energética; a cobertura desigual de monitoramento da qualidade do ar; a abundância hídrica acompanhada de problemas de gestão e saneamento; a baixa produtividade material; e a combinação de ativos de biodiversidade e oceânicos com lacunas estatísticas. O texto também organiza pontos fortes e fracos do Brasil, destacando legislação e dados de unidades de conservação, Prodes, Deter, IFN, PortalBio, SNUC e SAMGe, em contraste com a fragmentação das bases, a falta de transparência e o acesso difícil a informações sobre a economia oceânica. A função do bloco é, portanto, estabelecer a pergunta comparativa, o recorte setorial, os referentes internacionais e as hipóteses de capacidade e brecha que os capítulos desenvolvem.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "Este volume apresenta o status do alinhamento do Brasil com os indicadores da Organização para a Cooperação e o Desenvolvimento Econômico (OCDE) para mudança do clima, meio ambiente e biodiversidade.",
+          "pagina": 12
+        },
+        {
+          "dimension": "desafios",
+          "cita": "O Brasil tem enorme potencial para aumentar o uso de fontes renováveis e tomar a frente da transição energética, inclusive do ponto de vista tecnológico.",
+          "pagina": 14
+        },
+        {
+          "dimension": "brechas_implementacion",
+          "cita": "Os bancos de dados estatísticos no Brasil pertencem a diversas entidades de custódia diferentes.",
+          "pagina": 26,
+          "subtipo_brecha": "retrospectiva"
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "CAPÍTULO 1 — MUDANÇA DO CLIMA",
+      "nivel": 1,
+      "paginas": "28-90",
+      "resumen": "O capítulo climático constrói o diagnóstico por cinco conjuntos de indicadores da OCDE: emissões de gases de efeito estufa; emissões de CO2 associadas ao uso da energia; uso da energia; tributação relevante para mudança do clima; e medidas de apoio aos combustíveis fósseis. A primeira parte demonstra que o perfil brasileiro é atípico na comparação internacional porque o LULUCF, especialmente o desmatamento, responde pela maior parcela das emissões, elevando a intensidade de emissões do PIB e revertendo parte dos ganhos observados entre 2004 e 2010. A discussão atribui a queda anterior ao PPCDAm e à combinação de liderança ministerial, pessoal, orçamento, fiscalização, cumprimento da lei e cooperação federal, estadual e municipal, enquanto a redução dessas iniciativas foi seguida por nova alta do desmatamento. O texto também examina a NDC brasileira, sua mudança metodológica e a perda de ambição em relação ao compromisso de 2015, além de apontar a necessidade de ampliar o controle sobre outros biomas e de alinhar crédito agrícola e práticas de baixo carbono. Na energia, o Brasil mantém vantagem relativa pela participação de renováveis, mas apresenta baixa produtividade, dependência de atividades energointensivas, aumento de fontes fósseis e conflitos de política, como termelétricas e subsídios ao carvão. São analisados matriz elétrica, consumo per capita, eficiência industrial, Eletrobras, RenovaBio, biodiesel, Proinfa, Luz para Todos, CDE e outros instrumentos. Na tributação, a receita ambiental é inferior à média da OCDE, o preço de carbono acima de 60 euros é pouco frequente e a incidência se concentra no transporte, embora o LULUCF domine as emissões. O inventário de apoio fóssil revela PIS/Cofins, Repetro, reduções sobre derivados, CCC, CDE e outros mecanismos federais e regionais; o capítulo conclui que há políticas de descarbonização e renováveis, mas faltam transparência, cálculo oficial e avaliação das renúncias. O trabalho finaliza diferenciando pontos fortes, como a matriz renovável e programas de sustentabilidade, de brechas de ambição, governança, dados e coerência entre metas, instrumentos e trajetória de emissões. A unidade ainda revisa o papel de inventários, metodologias de contabilização, bases SEEG, OECD.Stat e Banco Mundial e as diferenças entre indicadores de estoque, fluxo, intensidade e preço. Também considera políticas agrícolas de baixo carbono, eficiência de usos finais, diversificação produtiva, reforma tributária, subsídios federais e transparência subnacional, deixando claro que a queda das emissões não decorre apenas de energia renovável se o desmatamento continuar. O capítulo, assim, articula diagnóstico estrutural, tendência temporal, instrumentos econômicos e capacidade de implementação, sem confundir a existência formal de programas com seus resultados ambientais. A discussão compara inventários nacionais e bases harmonizadas, separa emissões absolutas, per capita e intensidade do PIB e mostra que uma vantagem de matriz não elimina a necessidade de reduzir demanda e subsídios fósseis. Também examina a distribuição dos encargos entre transportes, indústria, agricultura, energia e uso da terra, além de reconhecer que metas, preços, incentivos, fiscalização e transparência precisam operar conjuntamente. O resultado é um diagnóstico do desalinhamento entre capacidade técnica disponível, trajetória efetiva das emissões e ambição das políticas brasileiras. Por isso, o capítulo não trata a transição como simples substituição tecnológica: inclui mudança de uso da terra, eficiência, estrutura produtiva, proteção social implícita na transição e qualidade dos dados que sustentam compromissos internacionais. As recomendações distribuídas no capítulo incluem retomar o empenho contra o desmatamento, ampliar o esforço para o Cerrado e outros biomas, elevar incentivos a práticas agrícolas de baixo carbono, diversificar a economia, aumentar a eficiência energética e usar instrumentos econômicos que desestimulem emissões. Na parte de suporte fóssil, a transparência do inventário e a distinção entre apoio, subsídio, gasto tributário e transferência orçamentária são tratadas como condições para comparar alternativas. Em conjunto, a unidade acompanha a cadeia que vai de dados e metas a instrumentos, comportamento econômico, fiscalização e resultados ambientais.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Cabe salientar que há países com emissões totais de GEEs decrescentes entre 1990 e 2020, como Alemanha e Reino Unido.",
+          "pagina": 33
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "De fato, o setor LULUCF respondeu por 53,58% das emissões totais de GEEs em 2020, segundo informações obtidas em consulta ao SEEG.",
+          "pagina": 34
+        },
+        {
+          "dimension": "tendencias",
+          "cita": "Para o Brasil, as emissões per capita seguem o padrão das emissões totais: houve queda entre 2000 e 2010 e aumento entre 2010 e 2020.",
+          "pagina": 35
+        },
+        {
+          "dimension": "avances_implementacion",
+          "cita": "Entre 2005 e 2009 houve redução substancial das emissões de LULUCF , resultado da política de diminuição do desmatamento na Amazônia, o Plano de Ação para Prevenção e Controle do Desmatamento na Amazônia Legal (PPCDAm).",
+          "pagina": 39
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Há potencial para elevar a alocação de crédito agrícola para práticas de baixo carbono, aumentando os incentivos para a adoção dessas práticas em relação à agricultura convencional.",
+          "pagina": 39
+        },
+        {
+          "dimension": "brechas_implementacion",
+          "cita": "Nesse sentido, o Brasil descumpre o compromisso apresentado em 2015.",
+          "pagina": 40,
+          "subtipo_brecha": "retrospectiva"
+        },
+        {
+          "dimension": "desafios",
+          "cita": "os preços de carbono são um instrumento pouco utilizado em política climática no Brasil.",
+          "pagina": 65
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "CAPÍTULO 2 — QUALIDADE DO AR",
+      "nivel": 1,
+      "paginas": "96-122",
+      "resumen": "O capítulo de qualidade do ar avalia a adequação dos indicadores da OCDE para emissões de PM2.5, NOX e SOX, qualidade do ar e saúde, e tributação para abater a poluição. Explica os conceitos, fontes e limitações metodológicas, mostrando que os indicadores internacionais são coerentes com os efeitos desses poluentes sobre a saúde, mas que a comparação brasileira é prejudicada pela ausência de dados na base da OCDE e pela heterogeneidade de monitoramento entre estados e municípios. O texto acompanha emissões totais, per capita e por intensidade do PIB, exposição e mortalidade prematura, e contrasta tendências brasileiras com países da organização. Examina o Sistema Nacional de Controle da Qualidade do Ar, padrões nacionais, inventários de emissões, estações de monitoramento, o portal MonitorAr e a atuação de órgãos ambientais, destacando cobertura desigual e necessidade de ampliar estações, poluentes cobertos, fiscalização e autuação. Na dimensão de saúde, trata estimativas da OMS e da OCDE, efeitos sobre mortalidade e bem-estar e a necessidade de reduzir concentrações segundo as recomendações de 2021. Na tributação, identifica cobrança de consumo de combustível, taxas aeroportuárias, tarifa feed-in, Proinfa, CDE, Cide, royalties e IPVA, além de instrumentos não claramente capturados pelo Pine, como ICMS, PIS/Pasep, IPI diferenciado e isenções para painéis solares. A conclusão considera que o Brasil avançou na moldura regulatória, mas ainda precisa produzir dados nacionais comparáveis, internalizar os custos socioambientais da poluição e orientar a tributação de modo mais direto para reduzir emissões e riscos à saúde.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Como o relatório demonstrará, apesar desses avanços, o Brasil tem um caminho importante a percorrer para alinhar suas práticas de monitoramento da qualidade do ar com as recomendações da OCDE e as práticas da maioria dos seus membros.",
+          "pagina": 97
+        },
+        {
+          "dimension": "brechas_implementacion",
+          "cita": "A ausência de dados torna problemática a avaliação brasileira em relação a esses indicadores.",
+          "pagina": 98,
+          "subtipo_brecha": "retrospectiva"
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "A poluição tem grande impacto no meio ambiente e na saúde humana, mas as políticas públicas para reduzir esse impacto estão pouco desenvolvidas no país.",
+          "pagina": 122
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Nesse ponto, o Brasil não é diferente de outros países da OCDE; há grande margem para melhoria, o que pode ser incentivo para alinhar as políticas públicas com a redução da poluição do ar.",
+          "pagina": 122
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "CAPÍTULO 3 — RECURSOS HÍDRICOS",
+      "nivel": 1,
+      "paginas": "126-154",
+      "resumen": "O capítulo hídrico parte da importância ambiental, econômica e social da água doce e relaciona estresse hídrico, crescimento populacional, agricultura, irrigação, indústria, energia, poluição, infraestrutura e mudanças do clima. A análise de captação mede retiradas superficiais e subterrâneas, usos primários e intensidade em relação aos recursos renováveis, mas alerta que médias nacionais escondem variações sazonais, de qualidade e de bacia. Para o Brasil, a disponibilidade é uma vantagem, porém a agricultura e o agronegócio pressionam a gestão e exigem conservação, uso racional, tecnologia e equilíbrio com os ecossistemas e o abastecimento humano. O texto avalia abastecimento público, ANA, Política Nacional de Recursos Hídricos, Sistema Nacional de Gerenciamento de Recursos Hídricos e SNIS, registrando inconsistências entre bases e a necessidade de padronização e compartilhamento. No tratamento de águas residuais, utiliza séries nacionais e regionais, mostra avanço da cobertura e do tratamento entre 2015 e 2020 e, simultaneamente, evidencia a distância entre Norte, Nordeste, Sudeste, Sul e Centro-Oeste. Os dados do SNIS mostram crescimento do tratamento de esgoto gerado de 42,7% em 2015 para 50,8% em 2020, enquanto a conclusão informa que cerca de 35 milhões de pessoas não têm acesso a água potável e mais de 100 milhões não possuem coleta adequada. O capítulo reconhece o Marco Legal do Saneamento Básico de 2020 como resposta institucional, mas sustenta que a universalização requer mais infraestrutura, financiamento, qualidade de dados e atenção a assentamentos rurais e isolados.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "Os recursos de água doce representam recursos de grande importância ambiental, econômica e social.",
+          "pagina": 127
+        },
+        {
+          "dimension": "desafios",
+          "cita": "O principal desafio, considerando aspectos de políticas públicas, é garantir a gestão sustentável dos recursos e serviços hídricos para manter o abastecimento de água doce de qualidade para atividades econômicas, uso humano e bem-estar, apoiar ecossistemas aquáticos e outros e enfrentar ameaças associadas a secas e inundações resultantes das alterações climáticas.",
+          "pagina": 128
+        },
+        {
+          "dimension": "avances_implementacion",
+          "cita": "O SNIS reúne informações e indicadores sobre a prestação dos serviços de água, esgotos, manejo de resíduos sólidos e manejo de águas pluviais provenientes dos prestadores que operam no Brasil, com atualização anual no seu banco de dados.",
+          "pagina": 150
+        },
+        {
+          "dimension": "brechas_implementacion",
+          "cita": "A situação do saneamento básico e do tratamento de água e esgoto continua sendo um desafio significativo no Brasil.",
+          "pagina": 154,
+          "subtipo_brecha": "retrospectiva"
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "CAPÍTULO 4 — ECONOMIA CIRCULAR: MATERIAIS E RESÍDUOS",
+      "nivel": 1,
+      "paginas": "156-180",
+      "resumen": "O capítulo trata a economia circular como uma abordagem para maximizar a eficiência dos recursos, reduzir matérias-primas virgens e desperdício e estimular reutilização, reciclagem, regeneração, negócios e empregos verdes. A unidade acompanha resíduos sólidos urbanos, consumo doméstico de materiais e produtividade material, conectando cada indicador ao ciclo de vida, à saúde, à poluição, às mudanças climáticas e à capacidade institucional. Na gestão de resíduos, distingue fontes, coleta formal e informal, aterros, lixões, incineração, compostagem, reciclagem e responsabilidade estendida do produtor. O Brasil aparece com grande geração absoluta e desigualdade regional, expansão da disposição em aterros sanitários, persistência de lixões e baixa recuperação, o que demanda coleta seletiva, dados harmonizados, inclusão de catadores e aplicação efetiva do marco de resíduos. Na parte de materiais, o texto explica o DMC, a pegada material e os fluxos de biomassa, combustíveis fósseis, minerais não metálicos e metais. A extração e o processamento de materiais são relacionados a parcela importante das emissões de GEEs, perda de biodiversidade, toxicidade, eutrofização e degradação. A produtividade medida pelo PIB por DMC é baixa no Brasil e permanece estável; a dependência de commodities, a pequena transformação local, os custos, a burocracia, a baixa P&D e a ausência de incentivos limitam a agregação de valor. A conclusão sustenta que a transição circular exige políticas integradas de prevenção, ecodesign, reparo, reuso, reciclagem, inovação, produção sustentável e colaboração de governos, empresas, sociedade civil e consumidores, sem reduzir sustentabilidade a uma eficiência material isolada.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "Estabelecer uma economia circular e eficiente em termos de recursos é fundamental para alcançar o crescimento verde e o desenvolvimento sustentável.",
+          "pagina": 157
+        },
+        {
+          "dimension": "desafios",
+          "cita": "O principal desafio para os países, considerando questões relacionadas à gestão e a políticas públicas, é melhorar a eficiência dos recursos em todas as fases do ciclo de vida do material (extração, transporte, fabricação, consumo, recuperação e descarte) e em toda a cadeia de abastecimento.",
+          "pagina": 157
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Os resultados mostram que o Brasil possui baixa agregação de valor eco - nômico aos materiais consumidos internamente em suas atividades produtivas, o que pode ser atribuído a uma série de fatores, incluindo questões estruturais, políticas, econômicas e sociais que afetam sua capacidade de agregar valor aos seus produtos.",
+          "pagina": 178
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "A economia circular surge como uma abordagem promissora, visando à maximização da eficiência dos recursos e à minimização do desperdício.",
+          "pagina": 180
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "CAPÍTULO 5 — RECURSOS BIOLÓGICOS E BIODIVERSIDADE",
+      "nivel": 1,
+      "paginas": "184-220",
+      "resumen": "O capítulo de recursos biológicos e biodiversidade examina cobertura da terra, recursos florestais, espécies ameaçadas, áreas protegidas e impostos relevantes para a biodiversidade. O marco conceitual apresenta biodiversidade, capital natural, serviços ecossistêmicos, ODS 14 e 15 e a Convenção sobre Diversidade Biológica, relacionando mudança de cobertura e uso da terra à perda de habitats. A OCDE usa dados de Copernicus, ESA, CCI-LC, Gaul, GHSL, FAO, IFN e OECD.Stat, mas reconhece limitações de proxy, escala, comparabilidade temporal e médias nacionais. Para o Brasil, Prodes, Deter e TerraBrasilis permitem acompanhar o desmatamento, enquanto o IFN coleta estrutura, composição, saúde, biomassa, madeira e carbono das florestas, com aplicações em REDD+, ABC, PPCDAm, CAR, planejamento e políticas públicas. O país possui cerca de 55% do território coberto por florestas e bases de dados consideradas fortes para o monitoramento da cobertura vegetal, embora não tenha todos os indicadores de volume, crescimento e planos de manejo exigidos pela comparação internacional. Na biodiversidade, o PortalBio, listas de espécies, Red List Index, SNUC, áreas protegidas e SAMGe formam uma infraestrutura relevante; o Brasil tem tendência próxima da estabilidade no índice de espécies ameaçadas e grande extensão protegida, mas os dados não asseguram por si sós efetividade de gestão. A análise crítica aponta desmontes institucionais, cortes orçamentários, enfraquecimento da fiscalização, negligência científica e perda de controle social no período recente. A tributação ambiental é pouco definida juridicamente: destaca-se o ICMS Ecológico, mas falta lista oficial e há debate sobre carbono, reciclagem e adaptação. A conclusão afirma que o principal obstáculo é a orientação geral da política ambiental e o controle da perda de cobertura vegetal nos biomas, mais do que a inexistência de dados. A seção também distingue indicadores de cobertura, estoque, risco e arrecadação, explicando que áreas protegidas ou séries de espécies não equivalem automaticamente à conservação efetiva. O IFN é tratado como infraestrutura de conhecimento que pode apoiar planejamento federal, estadual e municipal, pesquisa científica, políticas de baixo carbono, REDD+, zoneamento, restauração, controle da pobreza e serviços ambientais, desde que as informações sejam atualizadas e interpretadas junto com qualidade, integridade e fragmentação florestal.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "Para a OCDE, as mudanças na cobertura e no uso da terra estão entre os prin - cipais fatores que contribuem para a perda da biodiversidade terrestre.",
+          "pagina": 186
+        },
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Cerca de 55% do território br asileiro é coberto por florestas, ou seja, mais da metade do país.",
+          "pagina": 202
+        },
+        {
+          "dimension": "avances_implementacion",
+          "cita": "Conforme explicado no item anterior, referente à cobertura vegetal, o Brasil possui bases de dados e informações excelentes no que diz respeito ao monitoramento da cobertura vegetal, estando o problema vinculado às tendências recentemente observadas nos dados, mais do que na inexistência de informações.",
+          "pagina": 205
+        },
+        {
+          "dimension": "brechas_implementacion",
+          "cita": "Com relação à informação sobre áreas protegidas, o principal ponto negativo é o da atualização e confiabilidade dos dados.",
+          "pagina": 213,
+          "subtipo_brecha": "retrospectiva"
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Como já mencionamos anteriormente, com relação aos indicadores de biodiversidade que a OECD acompanha para os seus países-membros, a maior dificuldade que o Brasil pode enfrentar relaciona-se às orientações gerais da política ambiental, mais do que aos dados e estatísticas que se podem compilar.",
+          "pagina": 220
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "CAPÍTULO 6 — ECONOMIA OCEÂNICA SUSTENTÁVEL",
+      "nivel": 1,
+      "paginas": "226-327",
+      "resumen": "O capítulo oceânico é a parte mais extensa do volume e apresenta definições, fontes, metodologias, gráficos comparativos, dados brasileiros e análise crítica para seis categorias: capital natural; bem-estar e resiliência; produtividade ambiental e de recursos; oportunidades econômicas; respostas políticas; e contexto socioeconômico. A categoria de bem-estar e resiliência ainda estava em desenvolvimento na OCDE e não é explorada, enquanto as demais são tratadas mediante informações de Environment at a Glance, OECD.Stat, IEA, FAO, Ompi, ITF, Banco Mundial, IBGE, MMA, Ibama, ICMBio, Antaq, ANA e Ministério do Turismo. A abertura define oceanos como recurso global compartilhado e nova fronteira econômica, relaciona biodiversidade marinha, poluição, superexploração, habitats, espécies invasoras, nível do mar e eventos extremos, e lista desafios de conservação, cooperação regional, descarbonização, adaptação costeira, resíduos, inovação e financiamento. O capítulo alerta que os indicadores oceânicos ainda são imaturos e que há lacunas para serviços ecossistêmicos, pescas, turismo, energia offshore, transporte e dados de implementação. Na seção de capital natural, examina cobertura construída na costa, espécies marinhas ameaçadas e estoques pesqueiros; mostra a necessidade de avaliações regulares, a situação favorável de apenas 66% dos estoques da OCDE e a inadequação de medir biodiversidade brasileira apenas por área construída, dada a variedade de mangues, dunas, estuários, recifes, praias e outros ecossistemas. O Brasil possui dados de manguezais, áreas prioritárias, SNUC e SAMGe, mas não tem dados comparáveis para estoques pesqueiros. Na produtividade ambiental, o capítulo mede emissões de CO2 de bunkers marítimos internacionais, registra queda brasileira e enfatiza limitações de alocação, resíduos, água de lastro, derramamento de óleo, plásticos e nutrientes. A Antaq dispõe de um índice portuário com governança, energia, água, resíduos, ar, ruído, biodiversidade e emergência; o relatório Combustível do Futuro e estudos de combustíveis marítimos de baixa emissão são apresentados como respostas tecnológicas, condicionadas por logística e custos. Nas oportunidades econômicas, a análise cobre PD&D de energia oceânica, eólica offshore, marés, ondas, gradiente de salinidade, patentes ambientais, dessalinização, mitigação de emissões no transporte, pesca e adaptação costeira. O Brasil tem investimento total em energia acima da média da OCDE, mas valor zero em energia oceânica e offshore no gráfico comparativo, ausência de desagregação pública e oportunidades associadas ao Plano de Ciência, Tecnologia e Inovação, CT-Energia, Proinfa, RenovaBio, Patentes Verdes e ao projeto eólico offshore do Ceará. Nas respostas políticas, são tratados IUU, áreas marinhas protegidas, instrumentos econômicos, receitas tributárias e apoio a fósseis. O questionário da OCDE organiza IUU em registro, autorização na ZEE, atuação fora da ZEE, responsabilidades portuárias, mercado e cooperação internacional; o Brasil não dispõe de dados nacionais acessíveis sobre IUU, embora tenha crescimento de MPAs, SAMGe e instrumentos de gestão. O país possui poucos instrumentos econômicos oceânicos, algumas receitas tributárias acima da média e apoio fóssil ainda relevante, mas carece de dados oficiais fáceis de consultar. No contexto socioeconômico, o capítulo define desembarque, aquicultura, emprego, frota, comércio, frete, turismo e população costeira; encontra dados de aquicultura, emprego, comércio e turismo, mas lacunas em desembarques, frota, frete e população desagregada. O fechamento recomenda melhorar a acessibilidade e a desagregação das estatísticas, harmonizar séries e ligar conservação, inovação, financiamento, gestão costeira e políticas contra IUU. A longa unidade também reconstrói cuidadosamente a origem e a qualidade dos metadados, diferencia dados administrativos de estimativas internacionais, registra quando o Brasil está ausente de uma série e explica por que um dado disponível na OECD.Stat nem sempre é público em uma entidade brasileira. O tratamento da economia oceânica inclui ainda turismo, comércio pesqueiro, aquicultura, emprego, frota, cabotagem, população costeira, receitas e despesas de passageiros, de modo que o capítulo não reduz o oceano a conservação. A comparação mostra capacidades brasileiras em áreas protegidas, sistemas de gestão, programas aquícolas, rastreamento e inovação, mas também a necessidade de consolidar contas oceânicas, abrir dados, padronizar indicadores e conectar instituições federais, estaduais, portuárias, científicas e econômicas. A conclusão é que a agenda oceânica brasileira tem ativos e iniciativas suficientes para avançar, porém sua implementação permanece difícil de avaliar sem informação desagregada, acessível, harmonizada e atualizada. A unidade também reconstrói os metadados e explicita quando a série resulta de questionário, estimativa, agregação, cálculo por PPP ou fonte administrativa, evitando tratar cobertura estatística como sinônimo de desempenho. A leitura brasileira distingue bases que existem mas não são abertas, bases que não desagregam litoral, águas interiores e oceano, e bases que precisam de atualização para avaliar implementação. O capítulo mostra que a economia oceânica envolve simultaneamente conservação, pesca, portos, energia, turismo, emprego, comércio, transporte, ciência e tecnologia, e que a coordenação desses domínios é necessária para que instrumentos ambientais produzam efeitos econômicos e sociais. As recomendações finais, portanto, são principalmente de transparência, padronização, acesso, desagregação e integração de sistemas, combinadas com a proteção efetiva de ecossistemas, o incentivo à inovação e o combate à pesca IUU.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "Um dos instrumentos para o alcance da economia oceânica sustentável é a formação e aplicação de indicadores.",
+          "pagina": 227
+        },
+        {
+          "dimension": "desafios",
+          "cita": "O enfrentamento desses desafios deve ser realizado ainda de maneira trans - versal de modo a atingir diferentes setores econômicos e políticas ambientais, por exemplo, a de mudanças climáticas.",
+          "pagina": 227
+        },
+        {
+          "dimension": "brechas_implementacion",
+          "cita": "são qualificados como imaturos se comparados com os do domínio terrestre, segundo avaliação da própria organização.",
+          "pagina": 228,
+          "subtipo_brecha": "retrospectiva"
+        },
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Observou-se, em dados coletados em 2019, que apenas 66% dos estoques pesqueiros da OCDE podiam ser qualificados como de estado biológico favorável.",
+          "pagina": 230
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Considerar apenas a mudança da zona costeira, a partir da área construída, sem considerar o tipo de ecossistema que pode ser afetado pela construção pode levar a dados rasos para mensurar o capital natural.",
+          "pagina": 241
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Segundo a OCDE, a inovação é considerada essencial para a produtividade e o crescimento econômico, podendo auxiliar no alcance de objetivos ambientais com custos baixos e fomentar o surgimento de novas oportunidades de negócios e de mercados.",
+          "pagina": 253
+        },
+        {
+          "dimension": "avances_implementacion",
+          "cita": "No Plano de Ciência, T ecnologia e Inovação para Energias Renováveis e Biocombustíveis do Ministério da Ciência, T ecnologia, Inovações e Comunicações (MCTIC), identifica-se o crescimento do interesse em desenvolver outras fontes de energia renovável, por exemplo, a oceânica.",
+          "pagina": 262
+        },
+        {
+          "dimension": "oportunidades",
+          "cita": "Em âmbito estadual, encontram-se ainda iniciativas como a do governo do estado do Ceará (Herculano, 2021) que prevê o investimento de US$ 3 bilhões para a construção de parque de energia eólica offshore.",
+          "pagina": 263
+        },
+        {
+          "dimension": "brechas_implementacion",
+          "cita": "Desse modo, destaca-se a falta de dados estatísticos, de fácil acesso, nessas áreas no Brasil.",
+          "pagina": 299,
+          "subtipo_brecha": "retrospectiva"
+        },
+        {
+          "dimension": "avances_implementacion",
+          "cita": "O Brasil avança na proteção da zona costeira e marinha.",
+          "pagina": 288
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Entre esses programas, destaca-se o segundo (Programa de Geração e Gestão de Dados e Informações Aquícolas), que enfatiza a necessidade de geração e de manutenção de dados e informações estatísticas sobre a gestão de políticas públicas na área da aquicultura em um repositório.",
+          "pagina": 315
+        },
+        {
+          "dimension": "brechas_implementacion",
+          "cita": "O Brasil tem uma carência de informes estatísticos sobre desembarques marítimos de fácil acesso ao público.",
+          "pagina": 327,
+          "subtipo_brecha": "retrospectiva"
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "APÊNDICE — POLÍTICAS E PRÁTICAS DA OCDE CONTRA A PESCA ILEGAL, NÃO RELATADA E NÃO REGULAMENTADA (IUU)",
+      "nivel": 1,
+      "paginas": "336-352",
+      "resumen": "O apêndice reproduz o questionário utilizado pela OCDE para construir indicadores de políticas e práticas contra a pesca ilegal, não relatada e não regulamentada. A unidade organiza requisitos em seis blocos: cadastro de embarcações; autorização para operar e acessar recursos na zona econômica exclusiva; autorização fora da ZEE; responsabilidades do Estado do porto; responsabilidades de mercado; e cooperação internacional. Para cada bloco, o texto apresenta perguntas em português e inglês, códigos de requerimento, condições de aplicação e explicações do que conta como implementação plena, incluindo características, propriedade, histórico e registro público de navios, proibição de registros paralelos, autorizações, VMS, relatórios de captura e transbordo, listas públicas, sanções, inspeção baseada em risco, controles de importação e exportação, certificados de origem, campanhas ao consumidor, lavagem de dinheiro, cooperação fiscal e pontos focais. O material fornece a arquitetura operacional do indicador, mas não avalia diretamente o desempenho brasileiro nem atribui respostas ao questionário. Sua contribuição é tornar verificáveis os componentes regulatórios e de governança que permitem medir IUU e conectá-los a registro, fiscalização, mercado e cooperação. As páginas finais incluem a fonte OECD de 2019 e bibliografia complementar da FAO e da OCDE; o apêndice é preservado como unidade substantiva do volume porque explicita os componentes verificáveis do indicador de pesca IUU.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "Em relação ao indicador sobre pesca ilegal, não relatada e não regulamentada (illegal, unreported and unregulated – IUU), o questionário apresentado aos países para a construção do banco de dados da Organização para a Cooperação e o Desenvolvimento Econômico (OCDE) de 2019 está descrito no quadro 1.",
+          "pagina": 336
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Inclui o histórico de renomeação e mudança de bandeira da embarcação, facilitando a detecção de não conformidade anterior com os regulamentos.",
+          "pagina": 337
+        },
+        {
+          "dimension": "avances_implementacion",
+          "cita": "O país organiza campanhas de informação dirigidas aos consumidores sobre a ameaça que a pesca IUU representa para a sustentabilidade dos recursos marinhos e para a saúde do ecossistema marinho.",
+          "pagina": 350
+        },
+        {
+          "dimension": "brechas_implementacion",
+          "cita": "A geração de receitas da pesca ilegal é considerada um crime subjacente à lavagem de dinheiro, ou seja, existem regulamentos em vigor que permitem que as autoridades apreendam as receitas da pesca ilegal e processem os pescadores de acordo com a lei antilavagem de dinheiro.",
+          "pagina": 351,
+          "subtipo_brecha": "retrospectiva"
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "O documento reúne medidas e frentes setoriais concretas, como economia circular, CT-Energia, inovação oceânica, PPCDAm e combustíveis marítimos de baixa emissão, mas as apresenta como diagnóstico e oportunidades distribuídas. Não há um pacote único com investimento coordenado, financiamento, governança integrada, prazos e métricas que conecte simultaneamente os setores estratégicos; por isso o teste de impulso ambiental é parcial.",
+      "citas": [
+        {
+          "cita": "A economia circular tem emergido como uma abordagem promissora a fim de mitigar os impactos ambientais e promover a sustentabilidade no sistema econômico.",
+          "pagina": 156
+        },
+        {
+          "cita": "No Plano de Ciência, T ecnologia e Inovação para Energias Renováveis e Biocombustíveis do Ministério da Ciência, T ecnologia, Inovações e Comunicações (MCTIC), identifica-se o crescimento do interesse em desenvolver outras fontes de energia renovável, por exemplo, a oceânica.",
+          "pagina": 262
+        }
+      ],
+      "nota": "Há instrumentos coordenados dentro de políticas específicas, mas não uma agenda integrada de transformação para todo o documento."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "O capítulo climático nomeia o PPCDAm como mecanismo de política e descreve sua implementação por ministros, pessoal, orçamento, fiscalização e autoridades federais, estaduais e municipais. A referência a ANA, SNIS, ICMBio, Ibama, MCTIC, Aneel, BNDES e organizações internacionais reforça a articulação institucional dentro do âmbito ambiental brasileiro.",
+      "citas": [
+        {
+          "cita": "A política foi implementada com ações concomitantes em diversas frentes – entre outras, liderança dos ministros do Meio Ambiente, contratação e capacitação de pessoal, orçamento dedicado, fiscalização e cumprimento da lei, além de coope - ração entre autoridades e servidores das esferas federal, estadual e municipal.",
+          "pagina": 39
+        },
+        {
+          "cita": "No Brasil, a Agência Nacional de Águas e Saneamento Básico (ANA) desempenha um papel essencial na gestão e no uso sustentável dos recursos hídricos.",
+          "pagina": 18
+        }
+      ],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Sí",
+      "evidencia": "A relação produtiva é desenvolvida em mais de um setor: a economia circular é associada a negócios e empregos verdes; inovação oceânica é ligada a produtividade, custos, mercados e tecnologias; e energia oceânica, aquicultura, patentes, combustíveis marítimos e reciclagem são atividades identificáveis. O vínculo com emprego e produtividade, e não apenas uma menção ambiental, está explicitado no texto.",
+      "citas": [
+        {
+          "cita": "Logo, essa abordagem tem o potencial de reduzir a demanda por recursos naturais finitos, diminuir a poluição e as emissões de gases de efeito estufa (GEEs), além de criar oportunidades de negócios e empregos verdes.",
+          "pagina": 156
+        },
+        {
+          "cita": "Segundo a OCDE, a inovação é considerada essencial para a produtividade e o crescimento econômico, podendo auxiliar no alcance de objetivos ambientais com custos baixos e fomentar o surgimento de novas oportunidades de negócios e de mercados.",
+          "pagina": 253
+        }
+      ],
+      "nota": null
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "A voz normativa do fechamento oceânico não forma um plano integrado, mas identifica entregáveis operacionais verificáveis para fechar lacunas estatísticas: disponibilizar séries, desagregar bases e abrir registros. Os cinco itens abaixo cobrem as recomendações de dados acionáveis do fechamento e cada um nomeia um entregável concreto, embora não indique responsável, prazo ou meta quantitativa.",
+      "citas": [
+        {
+          "cita": "O Brasil tem uma carência de informes estatísticos sobre desembarques marítimos de fácil acesso ao público.",
+          "pagina": 327
+        },
+        {
+          "cita": "Por fim, no indicador sobre população na zona costeira, a OCDE busca utilizar definições harmonizadas internacionalmente. Não foram apresentados no Brasil dados desagregados sobre a população costeira.",
+          "pagina": 328
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Disponibilizar informes estatísticos sobre desembarques marítimos de forma acessível ao público.",
+          "clasificacion": "CONCRETO",
+          "pagina": 327
+        },
+        {
+          "item": "Desagregar os dados brasileiros de produção aquícola para distinguir águas interiores e oceanos.",
+          "clasificacion": "CONCRETO",
+          "pagina": 327
+        },
+        {
+          "item": "Disponibilizar indicadores sobre pescadores profissionais, industriais e artesanais a partir de cadastros e licenças.",
+          "clasificacion": "CONCRETO",
+          "pagina": 327
+        },
+        {
+          "item": "Disponibilizar dados oficiais de fácil acesso sobre a frota pesqueira.",
+          "clasificacion": "CONCRETO",
+          "pagina": 327
+        },
+        {
+          "item": "Apresentar dados desagregados sobre a população costeira.",
+          "clasificacion": "CONCRETO",
+          "pagina": 328
+        }
+      ],
+      "tally": "5 de 5 ítems pasan el test de concreción",
+      "nota": "A classificação mede a identificabilidade do entregável, não a existência de responsáveis, prazos ou metas no documento."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Media"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "A tensão central é entre o potencial de desenvolvimento e integração internacional do Brasil e a necessidade de conservar capital natural, reduzir emissões, ampliar eficiência e tornar políticas ambientais implementáveis e verificáveis.",
+      "filtro_categoria_primaria": "A unidade tem como objeto principal a sustentabilidade ambiental: mede clima, ar, água, materiais, biodiversidade e oceanos, identifica pressões e compara respostas ambientais. Desenvolvimento produtivo, emprego e inovação aparecem como meios ou co-benefícios, não como objeto ordenador.",
+      "secundaria_obligatoria": "Capacidades do Estado é a melhor secundária porque o diagnóstico recorre repetidamente a regulação, orçamento, fiscalização, sistemas de informação, coordenação federativa, bases de dados e implementação de instrumentos. A efetividade das respostas depende de instituições que produzam dados e executem políticas.",
+      "justificacion_anti_copia": "A classificação não copia a secundária de um instrumento específico: a primária decorre do domínio material do estudo, enquanto a secundária decorre da recorrência de capacidades de governança, monitoramento e coordenação como condição transversal para clima, água, biodiversidade e oceanos.",
+      "validacion_anclas": "A decisão é compatível com a âncora metodológica #6, Sostenibilidad ambiental, porque a transformação avaliada é a conservação e o uso sustentável dos recursos. A diferença própria desta unidade é o formato de estudo técnico comparativo de indicadores, que torna Capacidades del Estado uma função secundária de dados, regulação e execução, e não o objeto principal."
+    },
+    "tipo_documento_climatico": "Estudo técnico comparativo de indicadores climáticos e ambientais",
+    "nivel_aplicacion": "Nacional (Brasil), com comparação internacional da OCDE",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

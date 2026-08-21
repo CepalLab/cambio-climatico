@@ -1,0 +1,139 @@
+{
+  "documento": {
+    "num_muestra": 24,
+    "titulo": "Medidas de adaptación y mitigación frente al cambio climático en América Latina y el Caribe: Una revisión general",
+    "autoria": "Luis Sánchez; Orlando Reyes",
+    "handle": "https://hdl.handle.net/11362/39781",
+    "simbolo": "LC/W.675",
+    "isbn": null,
+    "fecha": "2015-12",
+    "tipo_documento": "Documento de proyecto o estudio técnico",
+    "paginas_cuerpo": 34,
+    "paginas_totales": 73,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": true,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Qué medidas de política pública de adaptación y mitigación frente al cambio climático se han utilizado o considerado en América Latina y el Caribe, y qué patrones sectoriales y restricciones condicionan su aplicación?",
+    "alcance": {
+      "ambito_aplicacion": "América Latina y el Caribe, con síntesis regional y medidas identificadas por país y sector.",
+      "referentes_dependencias": "Comunicaciones nacionales ante la Convención Marco de las Naciones Unidas sobre el Cambio Climático, planes y estrategias nacionales, IPCC, WRI-CAIT, CEPALSTAT, OLADE y CELADE.",
+      "sectorial": "Adaptación en agua, biodiversidad, bosques, agricultura, infraestructura, asentamientos humanos, salud y turismo; mitigación en bosques, energía, transporte, agricultura, residuos y cambio de uso del suelo.",
+      "temporal": "Evidencia histórica principalmente 1990-2012; proyecciones de PIB, población y emisiones hasta 2030, y escenarios climáticos hasta 2100."
+    },
+    "hallazgos_principales": [
+      "En 2012 América Latina y el Caribe representó cerca del 9,9% de las emisiones mundiales, equivalentes a 4.561 MtCO2e; energía aportó 40,4%, agricultura 19,8% y cambio de uso del suelo y silvicultura 31,5%.",
+      "El escenario inercial IPAT proyecta que las emisiones de GEI del sector energía pasarían de 1.835 MtCO2e en 2012 a 2.997 MtCO2e en 2030, con crecimiento medio anual de 2,8%.",
+      "La región presenta alta heterogeneidad de políticas, pero las medidas se concentran en agua, biodiversidad, bosques, agricultura, infraestructura y asentamientos humanos para adaptación, y en bosques, energía y transporte para mitigación.",
+      "La revisión identifica una paradoja temporal: la infraestructura dura entre 3 y 5 décadas, mientras la estabilización climática exige reducir progresivamente las emisiones per cápita desde algo menos de 7 toneladas a 2 toneladas en 2050.",
+      "Las simulaciones de trayectorias de emisiones usan un modelo IPAT en Excel; sus resultados muestran que mantener constantes las emisiones exige que la caída de la intensidad energética y de la intensidad carbónica compense el aumento inercial de 2,8%."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "Existe un portafolio amplio de políticas de adaptación y mitigación, pero su concentración sectorial y la heterogeneidad entre países no eliminan la incertidumbre sobre sus consecuencias finales.",
+        "La trayectoria regional de emisiones, especialmente la energética, no es compatible con un desarrollo sostenible bajo supuestos inerciales; la vulnerabilidad regional exige priorizar adaptación junto con mitigación.",
+        "La acción climática debe resolver simultáneamente la tensión entre crecimiento económico, transformación del estilo de desarrollo, urgencia temporal, asimetría internacional y doble inequidad social."
+      ],
+      "recomendaciones": [
+        "Instrumentar políticas particularmente activas de eficiencia energética y reducción de emisiones por unidad de energía para modificar las trayectorias inerciales.",
+        "Configurar una nueva infraestructura y una nueva matriz energética considerando horizontes de maduración y uso hasta 2050.",
+        "Concentrar la adaptación en los sectores forestal, biodiversidad, agropecuario, hídrico y salud, y la mitigación en energía, transporte, agropecuario, cambio de uso del suelo y silvicultura."
+      ],
+      "nota": "Las recomendaciones son orientaciones de política derivadas del cierre; el documento no presenta una lista numerada propia de implementación."
+    },
+    "resumen_narrativo": "El documento revisa medidas de adaptación y mitigación a partir de comunicaciones nacionales, planes y estrategias climáticas, y las ordena por sectores y países de América Latina y el Caribe. Su diagnóstico combina exposición regional, estructura de emisiones y una simulación IPAT en Excel: con crecimiento del PIB de 3,2%, población de 1,4%, intensidad energética de -0,5% e intensidad carbónica de 0,1%, las emisiones energéticas llegarían a 2.997 MtCO2e en 2030 bajo el escenario BAU. La revisión muestra que la adaptación se concentra en agua, biodiversidad, bosques, agricultura e infraestructura, mientras la mitigación se concentra en energía, transporte y cambio de uso del suelo, pero advierte que la heterogeneidad nacional y la incertidumbre dificultan evaluar resultados finales. El cierre convierte esa evidencia en una tensión de política: sostener desarrollo y reducir emisiones exige cambiar infraestructura, matriz energética y patrones productivos con urgencia, al tiempo que se atiende la vulnerabilidad de los grupos de menores ingresos."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": 10,
+      "resumen": "La introducción formula el cambio climático como externalidad negativa y sitúa la doble exigencia regional de mantener crecimiento económico, mejorar condiciones sociales y respetar el ambiente. Define como propósito identificar y sintetizar políticas de adaptación y mitigación usadas o consideradas en la región, con base en comunicaciones nacionales, planes y estrategias, y adelanta la arquitectura del documento: contexto, planes/programas y conclusiones de política. Su función es convertir el problema climático en una pregunta de política pública comparada y justificar la lectura sectorial posterior.",
+      "dimensiones": [
+        {"dimension": "diagnostico_estructural", "cita": "América Latina y el Caribe, como el resto del mundo, debe atender durante el siglo XXI el desafío del cambio climático y, al mismo tiempo, mantener un alto ritmo de crecimiento económico acompañado de una mejora de las condiciones sociales y de un respeto al medio ambiente.", "pagina": 10}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. El contexto general",
+      "nivel": 1,
+      "paginas": "12-23",
+      "resumen": "Este bloque cuantifica la exposición climática, la estructura regional de emisiones y la trayectoria inercial que condiciona la política. Contrasta la composición de emisiones de la región —40,4% energía, 19,8% agricultura y 31,5% cambio de uso del suelo y silvicultura en 2012— con el escenario IPAT, que proyecta 2.997 MtCO2e de emisiones energéticas en 2030 frente a 1.835 en 2012. También ordena opciones de adaptación en agricultura, salud, litoral, agua, biodiversidad y glaciares, y desarrolla externalidad, desarrollo sostenible, paradoja temporal, asimetría y doble inequidad como restricciones estructurales. La implicación es que la política debe desacoplar crecimiento y emisiones sin trasladar los costos climáticos a regiones y grupos ya vulnerables.",
+      "dimensiones": [
+        {"dimension": "estado_de_situacion", "cita": "Este conjunto de evidencia indica que las emisiones de América Latina y el Caribe se caracterizan por la menor importancia que tiene las emisiones provenientes de la energía en referencia a las emisiones globales y, por contrapartida, la relevancia que tienen las emisiones en América Latina y el Caribe provenientes del cambio de uso de suelo (véase los gráficos 1 y 2).", "pagina": 14},
+        {"dimension": "tendencias", "cita": "De este modo, en las próximas décadas se esperaría una tasa de crecimiento de las emisiones de GEI provenientes de la energía de 2,8% anual.", "pagina": 18},
+        {"dimension": "desafios", "cita": "Desacoplar el crecimiento económico del consumo de energía y de emisiones requiere entonces transformaciones profundas al actual estilo de desarrollo.", "pagina": 23},
+        {"dimension": "oportunidades", "cita": "En todo caso destaca que actualmente existe una amplia gama de opciones de adaptación, algunas de ellas se sintetizan en el cuadro 4.", "pagina": 20}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "II. Planes y programas de cambio climático",
+      "nivel": 1,
+      "paginas": "24-32",
+      "resumen": "La sección pasa del contexto a la implementación comparada: revisa inventarios nacionales, comunicaciones, estrategias y planes, y organiza por país los sectores prioritarios y los instrumentos de adaptación y mitigación. Los cuadros documentan periodicidades heterogéneas de inventarios, concentración de adaptación en agua, biodiversidad, bosques, agricultura e infraestructura, y concentración de mitigación en energía, transporte, bosques y cambio de uso del suelo; el cuadro de medidas incluye fondos, impuestos, MDL, REDD, reforestación, eficiencia, renovables, ordenamiento territorial y manejo de residuos. El hallazgo es que existe capacidad programática e institucional visible, pero con cobertura y profundidad desiguales, por lo que la política regional necesita comparar instrumentos concretos sin asumir que su presencia equivale a resultados.",
+      "dimensiones": [
+        {"dimension": "avances_implementacion", "cita": "Existe en América Latina y el Caribe un importante desarrollo institucional y de políticas públicas para atender el desafío del cambio climático.", "pagina": 24},
+        {"dimension": "estado_de_situacion", "cita": "Actualmente existen inventarios nacionales de emisiones en todos los países de la región aunque con una periodicidad y frecuencia heterogénea por países.", "pagina": 24},
+        {"dimension": "propuestas_politica", "cita": "Acciones para uso eficiente de la energía, uso de energías renovables y capacitación para su uso", "pagina": 29},
+        {"dimension": "brechas_implementacion", "cita": "Actualmente existen inventarios nacionales de emisiones en todos los países de la región aunque con una periodicidad y frecuencia heterogénea por países.", "pagina": 24, "subtipo_brecha": "retrospectiva"}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "III. Conclusiones y comentarios de política pública",
+      "nivel": 1,
+      "paginas": "34-35",
+      "resumen": "El cierre sintetiza que la región combina un portafolio amplio de medidas con emisiones energéticas crecientes, vulnerabilidad elevada y alta incertidumbre de resultados. Recupera la simulación IPAT en Excel y las concentraciones sectoriales —adaptación forestal, biodiversidad, agropecuaria, hídrica y de salud; mitigación energética, de transporte, agropecuaria, de uso del suelo y forestal— para sostener que no basta con mantener políticas aisladas. Luego explicita la paradoja entre desarrollo continuo y descarbonización, el horizonte de infraestructura hasta 2050, la asimetría regional y la doble inequidad de los grupos pobres. Su implicación es una agenda de transformación de infraestructura, matriz energética y estilo de desarrollo, con adaptación prioritaria y mitigación activa.",
+      "dimensiones": [
+        {"dimension": "diagnostico_estructural", "cita": "En este sentido, el cambio climático puede entenderse como una externalidad negativa global y donde por tanto su solución requiere de la aplicación de un conjunto de políticas públicas.", "pagina": 34},
+        {"dimension": "desafios", "cita": "no mayor a 2oC de temperatura e instrumentar los procesos de adaptación indispensables para reducir los potenciales impactos negativos.", "pagina": 35},
+        {"dimension": "brechas_implementacion", "cita": "Persiste, sin embargo, un alto grado de incertidumbre sobre las consecuencias finales de estas políticas públicas y su integración en una estrategia de desarrollo sostenible.", "pagina": 35, "subtipo_brecha": "prospectiva"}
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento identifica sectores estratégicos e instrumentos concretos —eficiencia energética, renovables, transporte, bosques, fondos, impuestos, MDL y REDD— y los conecta con mitigación y adaptación. Sin embargo, es una revisión comparada de políticas existentes o consideradas: no propone un paquete propio de inversión masiva y coordinada que articule simultáneamente las tres eficiencias a escala del modelo de desarrollo.",
+      "citas": [{"cita": "La instrumentación adecuada de estas diversas medidas de adaptación y mitigación en América Latina y el Caribe requiere considerar las circunstancias específicas de la región y las condiciones del cambio climático.", "pagina": 34}],
+      "nota": "Parcial por instrumentos sectoriales concretos sin un paquete autónomo de gran impulso."
+    },
+    "articulacion_actores": {
+      "veredicto": "Parcial",
+      "evidencia": "La revisión identifica comunicaciones nacionales, planes, estrategias, ministerios de ambiente, organismos de cooperación y la Convención Marco como canales de política, y registra mecanismos como MDL, REDD, fondos y coordinación de autoridades de cuenca. No diseña, sin embargo, una plataforma regional propia con reglas, institución responsable o mecanismo operativo de articulación multiactor.",
+      "citas": [{"cita": "Este recuento se hace con base en las Comunicaciones Nacionales presentadas a la Convención Marco de las Naciones Unidas sobre Cambio Climático y/o los planes/estrategias nacionales sobre cambio climático.", "pagina": 10}],
+      "nota": "La articulación aparece como fuente y condición institucional de las políticas comparadas, no como arquitectura regional propuesta por el documento."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "Enumera oportunidades productivas y tecnológicas en energía renovable, eficiencia, transporte, agricultura, bosques y manejo de residuos, y vincula algunas con productividad, costos y seguridad alimentaria. No desarrolla de manera sostenida un vínculo explícito entre esas oportunidades, empleo y reducción de desigualdad; el documento sí identifica la vulnerabilidad distributiva, pero no la convierte en una agenda productiva detallada.",
+      "citas": [{"cita": "Ello implica transformaciones importantes al estilo actual de desarrollo y la aplicación de un conjunto de políticas públicas consistentes con un desarrollo sostenible.", "pagina": 10}],
+      "nota": "Parcial: sectores y medidas concretas, pero vínculo empleo-desigualdad insuficientemente desarrollado."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "No",
+      "evidencia": "El capítulo final ofrece conclusiones y orientaciones sectoriales, pero no contiene una lista propia de recomendaciones operativas con ítems individualmente evaluables. Las listas detalladas de medidas aparecen en cuadros comparativos y anexos que reproducen o sintetizan planes y comunicaciones nacionales, no en una sección normativa de cierre del documento.",
+      "citas": [{"cita": "La instrumentación adecuada de estas diversas medidas de adaptación y mitigación en América Latina y el Caribe requiere considerar las circunstancias específicas de la región y las condiciones del cambio climático.", "pagina": 34}],
+      "desglose_items": [],
+      "tally": "0 de 0 ítems pasan el test de concreción",
+      "nota": "No por diseño documental: revisión general con cierre sintético, sin lista normativa propia de implementación."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {"numero": 6, "nombre": "Sostenibilidad ambiental", "certeza": "Alta"},
+    "transformacion_secundaria": {"numero": 11, "nombre": "Capacidades del Estado", "certeza": "Media"},
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento procesa la contradicción entre mantener crecimiento económico y reducir emisiones en una región donde el escenario inercial del sector energía eleva las emisiones 2,8% anual, mientras la estabilización climática exige una reducción drástica de emisiones per cápita. También enfrenta la tensión entre un horizonte climático de largo plazo y decisiones de infraestructura que se usan 3 a 5 décadas: la revisión la convierte en una urgencia de política sobre matriz energética, eficiencia, adaptación y distribución de costos.",
+      "filtro_categoria_primaria": "El objeto principal es transformar la trayectoria climática regional mediante adaptación, mitigación, eficiencia, renovables, protección de bosques y cambios sectoriales; por eso corresponde #6 Sostenibilidad ambiental. Se descarta #11 como primaria porque inventarios, planes, comunicaciones, fondos y coordinación estatal son instrumentos y capacidades habilitadoras para ejecutar la respuesta climática, no el objeto que organiza la revisión ni el hallazgo de cierre.",
+      "secundaria_obligatoria": "#11 Capacidades del Estado es secundaria porque el documento muestra que la respuesta depende de inventarios nacionales, comunicaciones periódicas, planes y estrategias, ministerios, autoridades de cuenca, fondos, regulación, información y coordinación entre niveles. Esa capacidad habilita convertir medidas como MDL, REDD, impuestos, eficiencia y alerta climática en políticas aplicables, pero la revisión no estudia la arquitectura institucional por sí misma.",
+      "justificacion_anti_copia": "La clasificación se ancla en rasgos verificables propios: el uso de la identidad IPAT y un modelo en Excel para proyectar emisiones energéticas de 1.835 a 2.997 MtCO2e entre 2012 y 2030; la comparación regional de emisiones por energía, agricultura y cambio de uso del suelo; el inventario de medidas de adaptación para agua, agricultura, salud, biodiversidad y glaciares; y el cuadro nacional de instrumentos como MDL, REDD, impuestos al carbono, fondos, renovables y reforestación. Estos detalles muestran que la pieza es una revisión de transformación climática sectorial, con capacidades estatales como condición de implementación.",
+      "validacion_anclas": "Se aproxima al ancla 20, que clasifica un estudio de vulnerabilidad y adaptación nacional como #6/#11, porque el sujeto es la respuesta climática sectorial y la información, planificación y regulación estatal son medios. Se diferencia de las anclas 8, 12, 19 y 10 (#11/#6), donde gobernanza hídrica, inventarios institucionales o seguimiento de capacidades públicas organizan la pregunta y el cierre; aquí el método, las tablas y el cierre organizan medidas, emisiones, adaptación y mitigación regionales."
+    },
+    "tipo_documento_climatico": "Revisión general comparada de políticas públicas de adaptación y mitigación, con modelización IPAT y síntesis de planes nacionales",
+    "nivel_aplicacion": "Regional, con desglose por países y sectores",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

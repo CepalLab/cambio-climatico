@@ -1,0 +1,584 @@
+{
+  "documento": {
+    "num_muestra": 149,
+    "titulo": "Cuentas ambientales para la formulación e implementación de la política climática",
+    "autoria": "Rodrigo Pizarro Gariazzo",
+    "handle": "https://hdl.handle.net/11362/47903",
+    "simbolo": "LC/TS.2022/54",
+    "isbn": null,
+    "fecha": "2022",
+    "tipo_documento": "Documento de proyecto o estudio técnico",
+    "paginas_cuerpo": 59,
+    "paginas_totales": 66,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cómo puede el Sistema de Contabilidad Ambiental y Económica (SCAE) integrar información sobre fuerzas motrices, presiones, impactos y respuestas para apoyar la formulación de políticas públicas frente al cambio climático?",
+    "alcance": {
+      "ambito_aplicacion": "América Latina y el Caribe, con atención a la información que los países necesitan para formular y evaluar política climática.",
+      "referentes_dependencias": "Naciones Unidas y el estándar internacional SCAE/SEEA; IPCC; Eurostat; OCDE; y experiencias de cuentas ambientales de Canadá, Dinamarca, Suecia, Noruega, Países Bajos, Rwanda, Australia y Guatemala, usadas como marcos o ejemplos comparativos.",
+      "sectorial": "Política climática transversal: emisiones, energía, agua, uso del suelo, ecosistemas, carbono, gasto ambiental, indicadores y modelamiento económico-ambiental.",
+      "temporal": "El análisis es principalmente conceptual y metodológico, con ejemplos estadísticos de distintos años y experiencias nacionales recientes; no plantea un horizonte de proyección propio."
+    },
+    "hallazgos_principales": [
+      "El SCAE ofrece un marco contable sistémico para conectar información económica y ambiental y ordenar fuerzas motrices, presiones, impactos y respuestas de la política climática (p.7-8).",
+      "Las cuentas de oferta y utilización en unidades físicas, de emisiones al aire y de energía permiten identificar fuerzas motrices y asignar emisiones por actividad económica, mientras que las cuentas de activos apoyan el análisis de impactos y adaptación (p.30-37, p.40-43).",
+      "El sistema puede organizar cuentas de agua, ecosistemas, carbono, actividades ambientales e impuestos y subsidios, articulando variables físicas, económicas e institucionales para el análisis climático (p.37-50).",
+      "Los indicadores derivados del SCAE permiten medir intensidades, productividades y desacoplamiento, y las técnicas de insumo-producto, TIP-AA y equilibrio general computable amplían el análisis de alternativas de política (p.51-58).",
+      "La principal brecha identificada es que los países todavía no usan sistemáticamente cuentas SCAE para la política climática y que las cuentas de gasto climático requieren un desarrollo específico (p.59)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "El SCAE constituye un enfoque coherente y sistemático para construir una política climática basada en evidencia, porque integra información de múltiples ámbitos y permite relacionar causas, impactos y respuestas (p.59).",
+        "La arquitectura modular del SCAE permite ampliar las cuentas existentes y crear cuentas específicas, pero su utilidad para la política climática depende de que se despliegue y se use efectivamente en los países de América Latina (p.59)."
+      ],
+      "recomendaciones": [
+        "Desarrollar indicadores sistemáticos que comparen alternativas de política y apoyen técnicas analíticas y modelos (p.59).",
+        "Desarrollar nuevos enfoques y una posible cuenta satélite específica para registrar los gastos climáticos, dado que las cuentas de protección ambiental son insuficientes (p.59).",
+        "Fortalecer el SCAE y centralizar los esfuerzos para que se despliegue completamente en América Latina (p.59)."
+      ],
+      "nota": "El capítulo final formula orientaciones normativas en prosa, pero no las presenta como una lista numerada de recomendaciones con responsables, plazos o métricas."
+    },
+    "resumen_narrativo": "El documento examina cómo el Sistema de Contabilidad Ambiental y Económica puede convertirse en una infraestructura estadística para la política climática, integrando datos sobre economía, ambiente, emisiones, impactos y respuestas. Primero explica el problema climático y el ciclo de formulación de políticas, y luego recorre las cuentas físicas, de emisiones, energía, agua, activos, ecosistemas, carbono, actividades ambientales e impuestos del SCAE. Muestra que los indicadores de intensidad, productividad y desacoplamiento, junto con técnicas de insumo-producto, huella ecológica y modelos de equilibrio general, permiten comparar alternativas de política. Concluye que la región debe usar sistemáticamente el SCAE y desarrollar una cuenta específica de gasto climático, porque el marco existente todavía no se despliega plenamente para la acción climática."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "11-12",
+      "resumen": "Presenta el cambio climático como un problema global con efectos ambientales, económicos y sociales, y plantea que la política pública necesita integrar información sobre causas, impactos y respuestas. Define al SCAE como un estándar estadístico modular que relaciona economía y ambiente, y fija como objetivo explicar cómo puede apoyar la toma de decisiones climáticas.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "La ciencia del clima La estabilidad del clima en el largo plazo depende del equilibrio de la radiación que proviene del sol y su reflejo desde la tierra.",
+          "pagina": 11
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. El cambio climático como un problema público global",
+      "nivel": 1,
+      "paginas": "13-18",
+      "resumen": "Explica las bases físicas del clima, la acumulación de gases de efecto invernadero y el cambio de uso del suelo, y conecta esas fuerzas motrices con impactos sobre ecosistemas, economía y bienestar humano. El capítulo establece el problema que las cuentas ambientales deben medir para informar la acción pública.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. La ciencia del clima",
+          "nivel": 2,
+          "paginas": "13-14",
+          "resumen": "Describe el equilibrio de radiación terrestre, el efecto invernadero natural y el papel de los gases de efecto invernadero y del carbono. Distingue fuentes y sumideros de CO2 y entrega la base física necesaria para interpretar las cuentas de emisiones y de carbono.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Gráfico 2 Emisiones por fuente (En porcentajes) Fuente: IPCC (2014); based on global emissions from 2010.",
+              "pagina": 13
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. El cambio climático",
+          "nivel": 2,
+          "paginas": "14-17",
+          "resumen": "Define el cambio climático como una modificación estadísticamente significativa y resume la evidencia del calentamiento global y su atribución a actividades humanas. Examina las consecuencias esperadas para ecosistemas y bienestar, incluyendo riesgos económicos y sociales, y presenta gráficos sobre temperatura, emisiones y sectores.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "La evidencia indica que América Latina será gravemente afectada, incluso con un bajo aumento en la temperatura.",
+              "pagina": 14
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Estos impactos físicos y biofísicos no solo afectarán la biodiversidad, sino, además, de manera directa la vida de las personas, a través de, por ejemplo , la disminución de los ingresos asociados a actividades como la pesca, la agricultura o el turismo.",
+              "pagina": 14
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "1. Las presiones y fuerzas motrices que impulsan el cambio climático",
+        "nivel": 2,
+          "paginas": "17-18",
+          "resumen": "Ordena las presiones humanas que explican el cambio climático y vincula producción, consumo, energía y uso del suelo con emisiones. La sección prepara la clasificación contable de fuerzas motrices que después desarrollará el SCAE para apoyar el diagnóstico climático.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "La formulación de políticas públicas y las respuestas al cambio climático El cambio climático es un problema global con múltiples impactos locales y un componente del desarrollo sustentable.",
+              "pagina": 17
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "II. La formulación de políticas públicas y las respuestas al cambio climático",
+      "nivel": 1,
+      "paginas": "19-24",
+      "resumen": "Traslada el diagnóstico climático al ciclo de política pública: definición del problema, diseño, implementación y evaluación. Clasifica las respuestas de mitigación, adaptación y pérdidas catastróficas, revisa instrumentos públicos y muestra qué información se necesita en cada etapa.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. El ciclo de formulación de políticas públicas",
+          "nivel": 2,
+          "paginas": "19-20",
+          "resumen": "Explica el ciclo de formulación como una secuencia en la que la información debe acompañar identificación del problema, diseño, ejecución y evaluación. El argumento central es que la complejidad climática exige conectar datos ambientales, sociales y económicos en todo el ciclo.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Mitigación La mitigación se define como aquellas acciones humanas que contribuyen a reducir o estabilizar la concentración de GEI en la atmósfera a niveles que eviten una perturbación antropogénica peligrosa del sistema climático (IPCC, 2014b).",
+              "pagina": 19
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Respuestas públicas para enfrentar el cambio climático",
+          "nivel": 2,
+          "paginas": "20-22",
+          "resumen": "Presenta la respuesta pública como un conjunto de políticas de mitigación, adaptación y gestión del riesgo de pérdidas catastróficas. El capítulo distingue objetivos e información requerida para cada respuesta y relaciona sus instrumentos con la evidencia climática disponible.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Adaptación La adaptación se puede definir como el conjunto de procesos que buscan ajustarse a los efectos reales o esperados al cambio climático.",
+              "pagina": 20
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "1. Mitigación",
+              "nivel": 3,
+              "paginas": "21-22",
+              "resumen": "Define la mitigación como la reducción de emisiones o el aumento de sumideros y vincula sus medidas con energía, transporte, industria, agricultura y uso del suelo. Señala que evaluar opciones requiere información sobre fuentes, actividades económicas y costos.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Instrumentos de política pública Los instrumentos de política o gestión pública son herramientas a través de las cuales los gobiernos buscan cumplir objetivos de política pública.",
+                  "pagina": 21
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Adaptación",
+              "nivel": 3,
+              "paginas": "22-22",
+              "resumen": "Describe la adaptación como el ajuste de sistemas humanos y naturales frente a impactos actuales o esperados del clima. Destaca la necesidad de cuentas de activos, información territorial y evaluación de daños para orientar inversiones y políticas adaptativas.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Estos se reflejan actualmente en las cuentas de gastos del sector público; sin embargo, la información no está claramente identificada ya que no está clasificada en términos de función o intención.",
+                  "pagina": 22
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Políticas relacionadas al riesgo de pérdida catastrófica",
+              "nivel": 3,
+              "paginas": "22-22",
+              "resumen": "Aborda instrumentos para enfrentar pérdidas catastróficas que no pueden evitarse por completo mediante mitigación o adaptación. La sección incorpora evaluación de riesgos, seguros y mecanismos de compensación como ámbitos que requieren información sistemática.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Estos se reflejan actualmente en las cuentas de gastos del sector público; sin embargo, la información no está claramente identificada ya que no está clasificada en términos de función o intención.",
+                  "pagina": 22
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "C. Instrumentos de política pública",
+          "nivel": 2,
+          "paginas": "23-24",
+          "resumen": "Revisa instrumentos regulatorios, económicos, de información y de gasto que pueden emplearse para mitigar o adaptarse al cambio climático. El cuadro de instrumentos conecta cada herramienta con objetivos, información requerida y posibilidades de evaluación mediante cuentas ambientales.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Concluyó que la información sobre el cambio climático, excepto los datos de emisiones no están bien desarrollados, a pesar de que existen datos ambientales, sociales y económicos relevantes para el análisis del cambio climático.",
+              "pagina": 23
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "D. Informando la política pública climática",
+          "nivel": 2,
+          "paginas": "24-24",
+          "resumen": "Cierra el capítulo identificando los tipos de datos que deben alimentar la política climática: presiones, impactos, respuestas, gasto y desempeño. Argumenta que un sistema integrado evita que la información permanezca fragmentada por tema o institución.",
+          "dimensiones": [
+            {
+              "dimension": "desafios",
+              "cita": "La clave para apoyar el análisis integral es avanzar hacia sistemas estadísticos integrados que permitan conectar distintos ámbitos de la política pública y sistemas de información, como lo propone el Sistema de Contabilidad Económica Ambiental (SCAE).",
+              "pagina": 24
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "III. El SCAE: Un marco contable para Las políticas del cambio climático",
+      "nivel": 1,
+      "paginas": "25-52",
+      "resumen": "Explica la lógica del SCAE, su relación con el cambio climático y el contenido de sus principales cuentas. El capítulo muestra cómo el marco modular articula flujos físicos, emisiones, energía, agua, activos, ecosistemas, carbono, actividades ambientales e impuestos para convertir datos dispersos en evidencia de política.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. La lógica del SCAE",
+          "nivel": 2,
+          "paginas": "25-27",
+          "resumen": "Presenta el SCAE como un marco contable que vincula el Sistema de Cuentas Nacionales con información ambiental y económica. Explica su enfoque sistémico, modular y compatible con distintas fuentes, y lo posiciona como arquitectura para analizar nexos entre economía y ambiente.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "El SCAE: Un marco contable para Las políticas del cambio climático La política pública requiere distintos tipos de información en distintas etapas del proceso o ciclo de formulación.",
+              "pagina": 25
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. El SCAE y el cambio climático",
+          "nivel": 2,
+          "paginas": "27-29",
+          "resumen": "Relaciona las cuentas del SCAE con las etapas del ciclo climático y muestra qué módulos informan fuerzas motrices, presiones, impactos y respuestas. También subraya que el marco puede ampliarse cuando surgen nuevas necesidades de información climática.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "El SCAE y el cambio climático El SCAE no aborda explícitamente el cambio climático, en el sentido que no existe un manual o cuenta específica de cambio climático, pero tanto el enfoque conceptual, como muchas de las cuentas específicas, son relevantes para el análisis de la política climática.",
+              "pagina": 27
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. El SCAE y sus cuentas",
+          "nivel": 2,
+          "paginas": "29-52",
+          "resumen": "Introduce el conjunto de cuentas que puede utilizarse para construir estadísticas climáticas integradas. El desarrollo posterior desagrega cada cuenta por función, unidad de medida y uso para el diagnóstico o la evaluación de políticas.",
+          "dimensiones": [
+            {
+              "dimension": "contexto_antecedentes",
+              "cita": "El SCAE y sus cuentas En la práctica, el SCAE se estructura en base a la compilación de cuentas de oferta y utilización, físicas y monetarias, cuentas de activos para recursos naturales y cuentas de actividad ambiental.",
+              "pagina": 29
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "1. Cuentas de flujo en unidades físicas (Fuerzas Motrices)",
+              "nivel": 3,
+              "paginas": "32-34",
+              "resumen": "Explica los cuadros de oferta y utilización en unidades físicas como extensión de las cuentas nacionales para registrar flujos de energía, materiales y recursos por actividad económica. Estas cuentas permiten identificar fuerzas motrices y relacionarlas con producción, consumo y emisiones.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Cuentas de flujo en unidades físicas (Fuerzas Motrices) Las cuentas de flujo en unidades físicas, o cuadros de oferta y utilización (COU ), se construyen ampliando la identidad básica de las cuentas nacionales y relacionando la producción con sus usos por flujos físicos.",
+                  "pagina": 32
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Cuentas de emisiones al aire",
+              "nivel": 3,
+              "paginas": "35-38",
+              "resumen": "Define las cuentas de emisiones al aire como registros de emisiones de unidades económicas residentes, desagregadas por sustancia y actividad. Contrasta su alcance con los inventarios del IPCC y muestra cómo asignan emisiones para el análisis económico y climático.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Cuentas de emisiones al aire Las cuentas de emisiones al aire del SCAE (CEA) registran la suma total de las emisiones al aire de unidades económicas residentes dentro de una jurisdicción, para distintas sustancias contaminantes.",
+                  "pagina": 35
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Otras cuentas específicas: SCAE-Energía",
+              "nivel": 3,
+              "paginas": "39-39",
+              "resumen": "Describe la cuenta de energía como herramienta para seguir producción, transformación y uso final de energía junto con sus emisiones. Su función es conectar la matriz energética con actividades económicas y opciones de mitigación.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Por lo tanto, proporciona una conexión directa entre los costos y beneficios asociados con las emisi ones que impulsan el cambio climático.",
+                  "pagina": 39
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Otras cuentas específicas: SCAE-Agua",
+              "nivel": 3,
+              "paginas": "39-39",
+              "resumen": "Presenta la cuenta de agua para registrar disponibilidad, extracción, uso y productividad del recurso por sectores y territorios. La información sirve para evaluar presiones climáticas y opciones de adaptación asociadas a sequías e inundaciones.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Por lo tanto, proporciona una conexión directa entre los costos y beneficios asociados con las emisi ones que impulsan el cambio climático.",
+                  "pagina": 39
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Cuentas de activos (Fuerzas Motrices e impactos)",
+              "nivel": 3,
+              "paginas": "40-43",
+              "resumen": "Explica las cuentas de activos para medir stocks y cambios de recursos naturales y vincularlos con impactos ambientales y económicos. Los ejemplos de suelo y cobertura permiten observar pérdidas, degradación y consecuencias para la adaptación.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "estacional, lo que no solo será inadecuado para satisfacer una demanda de consumo relativamente constante durante todo el año , sino que genera mayores riesgos y costos por pérdidas catastróficas asociado a inundaciones.",
+                  "pagina": 42
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "6. Cuentas ecosistémicas",
+              "nivel": 3,
+              "paginas": "44-45",
+              "resumen": "Introduce las cuentas ecosistémicas para medir extensión, condición y servicios de los ecosistemas. El enfoque permite conectar cambios en unidades ecosistémicas con impactos climáticos y decisiones de conservación o adaptación.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Cuentas ecosistémicas El SCAE-CEE es un marco estadístico integrado que permite caracterizar unidades ecológicas y medir los servicios ecosistémicos y su relación con la economía y el bienestar humano .",
+                  "pagina": 44
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "7. Cuentas de carbono",
+              "nivel": 3,
+              "paginas": "46-48",
+              "resumen": "Revisa cuentas de carbono que registran stocks y flujos de carbono en biomasa, suelos y otros reservorios. Los ejemplos de Países Bajos muestran cómo complementar inventarios con una perspectiva contable de fuentes y sumideros.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "lo tanto, brinda a los que toman las decisiones información valiosa sobre las re spuestas políticas más adecuadas para garantizar la optimización del secuestro de carbono.",
+                  "pagina": 47
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "8. Cuentas de actividad ambiental (Respuestas e instrumentos)",
+              "nivel": 3,
+              "paginas": "49-49",
+              "resumen": "Describe las cuentas de actividad ambiental para identificar gasto, producción y empleo asociados a protección ambiental y bienes y servicios ambientales. Su utilidad climática es evaluar el alcance de las respuestas e instrumentos públicos.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Cuentas de actividad ambiental (Respuestas e instrumentos) Las respuestas de las políticas de cambio climático se implementan a través de instrumentos de gestión pública, como se discutió arriba, estos son básicamente dos: gastos de gobierno, e impuestos y subsidios.",
+                  "pagina": 49
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "9. Impuestos y subsidios",
+              "nivel": 3,
+              "paginas": "49-52",
+              "resumen": "Examina la clasificación de impuestos y subsidios ambientales y su relación con señales económicas para la política climática. Los ejemplos permiten identificar gastos e instrumentos fiscales y preparar indicadores de respuesta pública.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Los impuestos sobre el combustible utilizado en el transporte deben mostrarse como una subcategoría separada de impuestos sobre la energía.",
+                  "pagina": 50
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "IV. El SCAE y el apoyo al análisis para la política pública",
+      "nivel": 1,
+      "paginas": "53-60",
+      "resumen": "Desarrolla indicadores y técnicas analíticas que pueden construirse a partir de las cuentas ambientales. El capítulo muestra cómo medir intensidad, productividad, desacoplamiento y gasto, y cómo usar insumo-producto, huella ecológica y modelos económicos para comparar políticas.",
+      "dimensiones": [],
+      "subsecciones": [
+        {
+          "seccion": "A. Indicadores",
+          "nivel": 2,
+          "paginas": "53-55",
+          "resumen": "Presenta indicadores físicos, económicos y de respuesta para seguir emisiones, consumo de recursos, productividad ambiental, financiamiento y resultados de política. Destaca que observar tendencias permite medir desacoplamiento y comparar alternativas en el tiempo.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Estos indicadores se expresan como relaciones de intensidad o productividad.",
+              "pagina": 54
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Técnicas analíticas",
+          "nivel": 2,
+          "paginas": "56-60",
+          "resumen": "Revisa técnicas para interpretar las cuentas y estimar efectos económicos y ambientales de políticas. Incluye la huella ecológica y modelos de insumo-producto, equilibrio general computable y evaluación integrada, con ejemplos de emisiones, consumo y escenarios.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Tipo de información Indicadores claves SCAE - MC SCAE - CEE Cuentas de activos Cuentas de flujos en unidades físicas Cuentas de actividad ambiental Cuentas de activos Cuentas de flujo Pérdidas catastróficas Cambios (ton/ha/$) en stock.",
+              "pagina": 56
+            }
+          ],
+          "subsecciones": [
+            {
+              "seccion": "1. TIP-AA y la huella ecológica",
+              "nivel": 3,
+              "paginas": "57-58",
+              "resumen": "Explica la tabla de insumo-producto ambiental y la huella ecológica como métodos para rastrear impactos incorporados en bienes, servicios y consumo final. La sección permite asignar emisiones y uso de recursos a cadenas productivas y hogares.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Sin embargo, una perspectiva de consumo sugiere que la fuente de contaminación final, o de última instancia, es el consumidor.",
+                  "pagina": 58
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Modelos económicos ambientales",
+              "nivel": 3,
+              "paginas": "58-60",
+              "resumen": "Presenta modelos de equilibrio general computable y otras herramientas para simular efectos económicos, sectoriales y distributivos de políticas climáticas. Los ejercicios comparados muestran cómo el SCAE puede alimentar escenarios y evaluar costos, beneficios y respuestas.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Sin embargo, una perspectiva de consumo sugiere que la fuente de contaminación final, o de última instancia, es el consumidor.",
+                  "pagina": 58
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seccion": "V. Conclusiones e innovaciones posibles",
+      "nivel": 1,
+      "paginas": "61-62",
+      "resumen": "Concluye que una política climática seria requiere información integrada y basada en evidencia, y que el SCAE ofrece el marco más coherente para organizarla. Identifica como brechas el uso todavía insuficiente del sistema y la falta de una cuenta de gasto climático, y propone fortalecer y desplegar el marco en América Latina.",
+      "dimensiones": [
+        {
+          "dimension": "brechas_implementacion",
+          "cita": "El SCAE proporciona un enfoque coherente y sistemático para una política climática basada en evidencia.",
+          "pagina": 61,
+          "subtipo_brecha": "retrospectiva"
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "El SCAE proporciona un enfoque coherente y sistemático para una política climática basada en evidencia.",
+          "pagina": 61
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "No",
+      "evidencia": "Chequeo explícito de los tres tests: el documento no propone un paquete coordinado de inversión pública y privada ni una reorientación integral del modelo productivo; tampoco articula una agenda propia que combine sectores estratégicos con eficiencias schumpeteriana, keynesiana o ambiental. Presenta un marco estadístico, cuentas e instrumentos informativos y fiscales, pero las medidas sectoriales o los ejemplos internacionales no constituyen un Big Push Ambiental propio.",
+      "citas": [
+        {
+          "cita": "El SCAE proporciona un enfoque coherente y sistemático para una política climática basada en evidencia.",
+          "pagina": 61
+        }
+      ],
+      "nota": "El lenguaje de fortalecimiento del SCAE es institucional e informativo; no acredita por sí solo un paquete coordinado de inversión y políticas."
+    },
+    "articulacion_actores": {
+      "veredicto": "No",
+      "evidencia": "Chequeo negativo explícito: el documento no identifica un mecanismo, plataforma, consejo o proceso multiactor con nombre propio dentro del ámbito latinoamericano para coordinar la acción climática. El SCAE es un marco estadístico y los ejemplos de cuentas nacionales describen sistemas de información, no mecanismos de gobernanza entre actores; la colaboración institucional de elaboración del informe tampoco cuenta como articulación de política.",
+      "citas": [
+        {
+          "cita": "La ciencia del clima La estabilidad del clima en el largo plazo depende del equilibrio de la radiación que proviene del sol y su reflejo desde la tierra.",
+          "pagina": 11
+        }
+      ],
+      "nota": "Integrar información de distintos ámbitos no equivale a nombrar un mecanismo de coordinación multiactor."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "Chequeo negativo explícito: aunque el texto menciona productividad ambiental, empleo en algunos ejemplos y actividades ambientales como objetos estadísticos, no enumera sectores o actividades concretas como oportunidades productivas sostenibles propias del documento ni desarrolla su vínculo con empleo, productividad o reducción de la desigualdad. El criterio exige ambos elementos y no se satisface con indicadores o casos aislados.",
+      "citas": [
+        {
+          "cita": "Estos indicadores se expresan como relaciones de intensidad o productividad.",
+          "pagina": 54
+        }
+      ],
+      "nota": "La productividad citada es una variable de medición ambiental, no una agenda de oportunidades productivas vinculada a empleo o desigualdad."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El cierre contiene tres unidades normativas completas. La primera pide desarrollar indicadores sistemáticos, pero deja el entregable y la ejecución abiertos; la segunda propone nuevos enfoques y una cuenta satélite de gastos climáticos, cuyo instrumento es identificable; la tercera pide fortalecer y desplegar el SCAE, pero formula una arquitectura general sin responsable, plazo ni métrica. Por tanto, solo una de las tres unidades supera el umbral restrictivo de concreción.",
+      "citas": [
+        {
+          "cita": "El SCAE proporciona un enfoque coherente y sistemático para una política climática basada en evidencia.",
+          "pagina": 61
+        },
+        {
+          "cita": "El SCAE proporciona un enfoque coherente y sistemático para una política climática basada en evidencia.",
+          "pagina": 61
+        },
+        {
+          "cita": "El SCAE proporciona un enfoque coherente y sistemático para una política climática basada en evidencia.",
+          "pagina": 61
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Desarrollar indicadores sistemáticos que puedan comparar y contrastar alternativas en distintos ámbitos de la política pública, o apoyar técnicas analíticas o de modelos sofisticadas.",
+          "clasificacion": "GENERICO",
+          "pagina": 61
+        },
+        {
+          "item": "Conceptualizar una nueva cuenta satélite de gastos climáticos, porque las cuentas de gastos de protección ambiental son insuficientes.",
+          "clasificacion": "CONCRETO",
+          "pagina": 61
+        },
+        {
+          "item": "Fortalecer el SCAE y centralizar todos los esfuerzos para que se despliegue completamente en América Latina.",
+          "clasificacion": "GENERICO",
+          "pagina": 61
+        }
+      ],
+      "tally": "1 de 3 ítems pasan el test de concreción",
+      "nota": "Se evaluó únicamente la voz normativa propia de la sección final; no se contaron instrumentos descritos en capítulos analíticos ni experiencias de terceros."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "La tensión central no es escoger una tecnología ambiental, sino resolver la fragmentación de información que impide que el Estado formule, compare y evalúe política climática. El documento contrapone la amplitud sistémica del problema climático con cuentas y bases de datos que todavía no se usan de manera conectada y sistemática.",
+      "filtro_categoria_primaria": "La transformación principal es la capacidad estadística y analítica del Estado: el objeto del documento es el SCAE como arquitectura contable, sus módulos, indicadores y técnicas para apoyar el ciclo de política pública. La sostenibilidad ambiental define el ámbito y finalidad, pero es el campo de aplicación del instrumento institucional.",
+      "secundaria_obligatoria": "La dimensión ambiental es secundaria porque el marco se diseña para medir fuerzas motrices, emisiones, activos, ecosistemas, carbono, respuestas e impactos climáticos. Mitigación, adaptación y gasto climático son el contenido sustantivo que orienta qué capacidades estadísticas deben construirse.",
+      "justificacion_anti_copia": "El texto no se limita a pedir mejor coordinación: especifica un sistema modular con cuadros de oferta y utilización físicos, cuentas de emisiones al aire, energía, agua, activos, ecosistemas, carbono, actividades ambientales e impuestos. Además conecta esas cuentas con indicadores de intensidad y productividad y con modelos TIP-AA, insumo-producto y equilibrio general, de modo que la capacidad estatal identificada es una infraestructura de medición y evaluación concreta.",
+      "validacion_anclas": "La decisión se contrasta con el ancla Doc19, Panorama de la Gestión Pública 2023: un Estado preparado para la acción climática, de TIPOLOGIA_v0.md: en ambos casos el objeto es la arquitectura y capacidad pública que permite actuar, mientras lo ambiental fija el ámbito de aplicación. Se diferencia de un documento cuyo sujeto directo fuera la descarbonización o la adaptación sectorial, porque aquí la conclusión principal es desplegar el sistema estadístico y usarlo para informar decisiones."
+    },
+    "tipo_documento_climatico": "Documento de proyecto o estudio técnico (marco metodológico y estadístico para apoyar política climática)",
+    "nivel_aplicacion": "Regional (América Latina y el Caribe), con referencias comparativas a sistemas de cuentas y experiencias nacionales de otros países.",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "documento": {
+    "num_muestra": 68796,
+    "titulo": "Geospatial information management to support sustainable development in Caribbean small island developing States. Policy Brief",
+    "autoria": null,
+    "handle": "https://hdl.handle.net/11362/68796",
+    "simbolo": "LC/CAR/2023/22",
+    "isbn": null,
+    "fecha": "2023-12-28",
+    "tipo_documento": "Policy Brief",
+    "paginas_cuerpo": 8,
+    "paginas_totales": 9,
+    "idioma": "en",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": false
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cómo pueden los pequeños Estados insulares en desarrollo del Caribe utilizar la gestión de información geoespacial para apoyar decisiones y políticas basadas en evidencia para el desarrollo sostenible, incluida la acción climática y la gestión del riesgo de desastres?",
+    "alcance": {
+      "ambito_aplicacion": "Caribbean small island developing States y la subregión del Caribe, con referencias a países participantes como Barbados, Bahamas, Guyana, Suriname, República Dominicana y Saint Lucia.",
+      "referentes_dependencias": "UN-GGIM, UN-GGIM: Americas, UN-IGIF, 2030 Agenda, Paris Agreement, Sendai Framework, SDG Data Alliance y experiencias de Estados Unidos y Bahamas.",
+      "sectorial": "Información geoespacial, sistemas GIS, estadísticas, gestión ambiental, cambio climático, gestión del riesgo de desastres, infraestructura, planificación costera, salud, transporte, seguridad alimentaria y formación de capacidades.",
+      "temporal": "Situación y respuestas institucionales hasta 2023; recomendaciones de implementación para la gestión sostenible futura."
+    },
+    "hallazgos_principales": [
+      "Los SIDS del Caribe son altamente vulnerables a amenazas ambientales y climáticas, y la concentración de población y actividad económica en zonas costeras bajas amplifica su exposición (p.1).",
+      "La información geoespacial permite integrar datos estadísticos, desagregar indicadores por ubicación y apoyar el seguimiento de la Agenda 2030 y sus ODS; el documento ejemplifica esta función con los indicadores 15.1.1 y 11.2.1 (p.3).",
+      "Para la acción climática y la gestión del riesgo, los sistemas geoespaciales apoyan alertas tempranas, evaluaciones de pérdidas y daños, planes resilientes, mapas de riesgo y decisiones de emergencia más oportunas (p.4).",
+      "Existen plataformas y arreglos regionales concretos —CARIGEO, Caribbean GeoPortal, UN-IGIF y GeoCRIS— junto con una brecha persistente de políticas, legislación, infraestructura, estándares y recursos humanos calificados (pp.5-6)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La gestión de información geoespacial es una capacidad habilitante para que los SIDS del Caribe conviertan datos ambientales, climáticos, sociales y económicos en decisiones de desarrollo sostenible, pero sus beneficios dependen de arreglos institucionales, estándares, financiamiento, capacidades y coordinación sostenidos.",
+        "La región ya dispone de iniciativas y plataformas regionales, aunque su consolidación exige combinar adopción nacional del UN-IGIF, infraestructuras de datos compartidos, formación y colaboración entre gobiernos, organismos regionales, academia, sector privado y sociedad civil."
+      ],
+      "recomendaciones": [
+        "Adoptar e implementar el UN-IGIF en colaboración con ECLAC y UN-GGIM: Americas.",
+        "Crear arreglos institucionales nacionales de información geoespacial, como una NSDI.",
+        "Desarrollar educación, currículos y capacitación continua en gestión de información geoespacial.",
+        "Fortalecer las capacidades regionales mediante UN-GGIM: Americas, CARIGEO y alianzas intergubernamentales.",
+        "Establecer alianzas con el sector privado para servicios, tecnologías y capacidades geoespaciales.",
+        "Impulsar comunicación, educación y sensibilización pública sobre la gestión de información geoespacial."
+      ],
+      "nota": "Las recomendaciones corresponden a la sección final Policy recommendations; la bibliografía de la p.9 no se procesa."
+    },
+    "resumen_narrativo": "El policy brief presenta la gestión de información geoespacial como una infraestructura de decisión para los SIDS del Caribe, cuya vulnerabilidad climática se intensifica por la concentración de población y actividades en zonas costeras bajas. Explica que GIS y datos geoespaciales permiten medir los ODS, desagregar indicadores por ubicación y sostener alertas tempranas, mapas de riesgo, evaluaciones de pérdidas y planes de adaptación y mitigación. El texto identifica plataformas regionales como CARIGEO, Caribbean GeoPortal y GeoCRIS, y propone seis líneas de acción centradas en UN-IGIF, NSDI, formación, cooperación regional, alianzas privadas y sensibilización. Su cierre sitúa el desafío principal en consolidar capacidades institucionales, estándares, financiamiento y participación para que esas herramientas apoyen efectivamente el desarrollo sostenible."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introduction",
+      "nivel": 1,
+      "paginas": "1-1",
+      "resumen": "La introducción fija el problema y la función del documento: los Caribbean SIDS enfrentan una alta exposición a amenazas ambientales y climáticas por su ubicación y condiciones socioeconómicas, agravada por la concentración de población y actividad económica en zonas costeras bajas. Define la información geoespacial como información temporal y localizada necesaria para gestionar ambiente, recursos naturales y riesgos climáticos. También presenta a gobiernos y socios del desarrollo como usuarios de sistemas de gestión geoespacial para decisiones basadas en evidencia sobre desarrollo sostenible.",
+      "dimensiones": [
+        {"dimension": "estado_de_situacion", "cita": "The Caribbean Small Island Developing States (SIDS)1 are highly vulnerable to environmental and climate-related hazards due to their geographic location and socioeconomic conditions.", "pagina": 1},
+        {"dimension": "diagnostico_estructural", "cita": "The high concentration of population and economic activities in low-lying coastal zones amplify the exposure and vulnerabilities of these countries.", "pagina": 1}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "1. Monitor the implementation of the 2030 Agenda and its SDGs",
+      "nivel": 1,
+      "paginas": "3-3",
+      "resumen": "Esta sección muestra cómo la información geoespacial traduce los compromisos globales en medición, monitoreo, planificación y evaluación aplicables a los SIDS del Caribe. Vincula GIS con la Agenda 2030, el Acuerdo de París, el Marco de Sendai y la Nueva Agenda Urbana, y señala que el seguimiento requiere estrategias avanzadas de gestión de datos para gobiernos, proveedores tecnológicos y otros actores. La desagregación territorial se conecta con desigualdades sociales mediante variables como sexo, edad, raza, etnia, migración y discapacidad; la tabla ilustra usos directos, integración estadística y comunicación geográfica de indicadores.",
+      "dimensiones": [
+        {"dimension": "propuestas_politica", "cita": "Geospatial information management systems are indispensable tools for the collection of data to measure, monitor, plan, manage and evaluate the implementation of global agreements, notably the 2030 Agenda and its Sustainable Development Goals (SDGs), the Sendai Framework for Disaster Risk Reduction, the Paris Agreement, the New Urban Agenda and the United Nations Programmes of Action for Small Island Developing States.", "pagina": 3},
+        {"dimension": "oportunidades", "cita": "Disaggregating data by geographic location, coupled with factors like sex, age, race, ethnicity, migratory status, disability or other characteristics and informing on societal disparities is in keeping with the overarching principle of the SDG indicator framework (UN-GGIM, 2021).", "pagina": 3}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "2. Provide data and information to support climate change mitigation and adaptation actions",
+      "nivel": 1,
+      "paginas": "4-4",
+      "resumen": "La sección especifica el aporte climático de la información geoespacial. Enumera impactos relevantes para el Caribe —blanqueamiento de corales, aumento del nivel del mar, huracanes, marejadas, salinización, inundaciones, deslizamientos, olas de calor y sequías— y explica que los datos espaciales apoyan alertas tempranas, pérdidas y daños y planes resilientes de mitigación y adaptación. La integración con sistemas nacionales y regionales permite comprender espacialmente los desafíos climáticos y alinear prioridades con requisitos de monitoreo y reporte del Acuerdo de París y el ODS 13.",
+      "dimensiones": [
+        {"dimension": "estado_de_situacion", "cita": "Climate change impacts such as coral reef bleaching, sea-level rise, hurricanes, storm surges, salination of freshwater systems, flooding, landslides, heat waves, and droughts pose significant threats to vital infrastructure, ecosystems, food security and economies in the Caribbean subregion.", "pagina": 4},
+        {"dimension": "propuestas_politica", "cita": "Geospatial information is an essential tool in the management of the impacts of climate change, including early warning and assessments, determining loss and damage and developing resilient mitigation and adaptation plans.", "pagina": 4}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "3. Support disaster risk management",
+      "nivel": 1,
+      "paginas": "4-4",
+      "resumen": "La tercera contribución explica que la información geoespacial aporta datos y herramientas analíticas para evaluar riesgos, simular y visualizar escenarios, elaborar planes de emergencia y mejorar la respuesta y la toma de decisiones en la gestión del riesgo de desastres. Permite identificar zonas de alto riesgo, cartografiar poblaciones vulnerables, comprender dinámicas territoriales y decidir oportunamente en cada etapa. El texto señala ejemplos caribeños como mapas de riesgo y registros georreferenciados en Barbados y la plataforma regional GeoCRIS de CDEMA, mientras las aplicaciones detalladas del recuadro se excluyen del índice por ser una caja.",
+      "dimensiones": [
+        {"dimension": "propuestas_politica", "cita": "Geospatial information provides critical data and analytical tools that enable the assessment of risks, simulation, visualization and development of emergency plans and improve disaster risk management (DRM) response strategies and decision-making.", "pagina": 4},
+        {"dimension": "avances_implementacion", "cita": "The Caribbean Disaster Emergency Management Agency (CDEMA) houses the GeoCRIS geospatial platform.", "pagina": 4}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "International and regional responses supporting Caribbean SIDS in the use of geospatial information management services",
+      "nivel": 1,
+      "paginas": "5-5",
+      "resumen": "Esta sección sustantiva presenta respuestas internacionales y regionales para que los Caribbean SIDS utilicen servicios de gestión de información geoespacial. Describe el papel de UN-GGIM y su comité regional para las Américas, la iniciativa CARIGEO y el Caribbean GeoPortal, junto con CEPALGEO de ECLAC. También introduce UN-IGIF como recurso basado en gobierno, tecnología y personas, con orientaciones para gobernanza, arreglos institucionales, temas de datos, tecnología, recursos humanos e inversión; el conjunto se orienta a capacidades y decisiones basadas en evidencia para el desarrollo sostenible.",
+      "dimensiones": [
+        {"dimension": "avances_implementacion", "cita": "An achievement of this initiative is the establishment of the Caribbean GeoPortal.", "pagina": 5},
+        {"dimension": "propuestas_politica", "cita": "It provides guidelines and tools to facilitate the development of national geospatial information management governance models, institutional arrangements, identification of data themes, technology requirements, human resource requirements, investment and budgetary allocations.", "pagina": 5}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "Policy recommendations",
+      "nivel": 1,
+      "paginas": "6-8",
+      "resumen": "Este bloque final convierte el diagnóstico en seis recomendaciones operativas para los Caribbean SIDS. La secuencia combina el UN-IGIF, arreglos nacionales de datos como una NSDI, formación de capacidades, plataformas regionales, alianzas con empresas geoespaciales y comunicación pública. En conjunto, las medidas buscan superar fragmentación, silos de datos y déficits de personal mediante instrumentos, actores y acciones identificables, para sostener decisiones y políticas de desarrollo sostenible.",
+      "dimensiones": [
+        {"dimension": "propuestas_politica", "cita": "In this regard, the following recommendations are proposed to advance the development of geospatial information management systems and support their integration in sustainable development management.", "pagina": 6}
+      ],
+      "subsecciones": [
+    {
+      "seccion": "1. Adopt and implement the UN-IGIF",
+      "nivel": 2,
+      "paginas": "6-6",
+      "resumen": "El primer bloque de recomendaciones propone adoptar e implementar el UN-IGIF como marco estratégico y práctico para integrar arreglos nacionales de gestión de información geoespacial y estadística. El instrumento se orienta a decisiones y políticas públicas de desarrollo sostenible, y su implementación se apoya en alianzas entre países, organismos intergubernamentales regionales, ECLAC y UN-GGIM: Americas. El texto aporta evidencia de avance mediante un taller regional realizado en Castries, Saint Lucia, del 19 al 21 de abril de 2023.",
+      "dimensiones": [
+        {"dimension": "propuestas_politica", "cita": "The UN-IGIF provides a set of strategic and practical guidelines to strengthen and integrate national institutional geospatial information management arrangements on the management of geospatial and statistical information in such a way that it effectively supports decision-making and public policies for sustainable development.", "pagina": 6}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "2. Creation of national geospatial institutional arrangements",
+      "nivel": 2,
+      "paginas": "6-7",
+      "resumen": "Este bloque identifica la fragmentación institucional, los silos de almacenamiento y la ausencia de procedimientos de intercambio como obstáculos para que los datos públicos sean reutilizados. Recomienda establecer y fortalecer un marco nacional de gestión geoespacial, como una National Spatial Data Infrastructure (NSDI), con servicios compartidos e integración con plataformas de salud, ambiente y ODS. El Bahamas National Geographic Information Systems Centre funciona como ejemplo institucional y sus funciones incluyen política, infraestructura, biblioteca de datos, soporte técnico, estándares, protocolos y formación.",
+      "dimensiones": [
+        {"dimension": "diagnostico_estructural", "cita": "This information and data are often unavailable to other users due to institutional fragmentation, the culture of operating in data storage silos and the absence of established procedures for data sharing.", "pagina": 6},
+        {"dimension": "propuestas_politica", "cita": "Establishing and strengthening an overarching geospatial information management framework, such as a National Spatial Data Infrastructure (NSDI), builds capacities, organizes and provides a structure for shared services and integration with other data platforms,18 for example, those of health, environmental and SDGs of the 2030 Agenda.", "pagina": 6},
+        {"dimension": "avances_implementacion", "cita": "The Bahamas National Geographic Information Systems Centre provides an example of an NSDI.", "pagina": 6}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "3. Education and capacity building",
+      "nivel": 2,
+      "paginas": "7-7",
+      "resumen": "La tercera recomendación trata la formación como condición de funcionamiento de una industria geoespacial diversa y en rápida expansión. El documento pide personal multidisciplinario para ciencia geográfica, tecnología, gestión, recolección y análisis de datos, junto con actualización periódica a nivel institucional e individual. Propone incorporar currículos de gestión de información geoespacial en cada nivel educativo y ejemplifica perfiles y aplicaciones, desde topografía y análisis de datos hasta inteligencia artificial geoespacial, evaluaciones de impacto ambiental y planificación espacial marina.",
+      "dimensiones": [
+        {"dimension": "propuestas_politica", "cita": "Implementing geospatial information management curricula at each level of education will facilitate the workforce's requirements to be equipped with geospatial knowledge, skills and awareness.", "pagina": 7},
+        {"dimension": "desafios", "cita": "Regular reskilling at the institutional and individual levels will be required to keep abreast of the rapid advancement in the various fields of geospatial information management and its applications.", "pagina": 7}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "4. Strengthening regional capabilities in providing geospatial information management services in the Caribbean SIDS",
+      "nivel": 2,
+      "paginas": "7-7",
+      "resumen": "La cuarta recomendación propone fortalecer capacidades regionales mediante UN-GGIM: Americas, CARIGEO y alianzas con organismos intergubernamentales. El bloque pide colaboración para estandarizar prácticas y protocolos, mejorar la calidad, compatibilidad, interoperabilidad, uso compartido y distribución de datos, e integrar información geoespacial con estadísticas para prioridades de salud, transporte, seguridad alimentaria, gestión del delito, planificación espacial marina, recursos hídricos, cambio climático y gestión del riesgo de desastres. También plantea apoyar evaluaciones de necesidades y la adopción del UN-IGIF, así como ampliar la participación caribeña en reuniones y grupos de trabajo de UN-GGIM.",
+      "dimensiones": [
+        {"dimension": "propuestas_politica", "cita": "Build senior-level engagement and advocacy for standardized geospatial information management practices and protocols across the subregion, including data quality, compatibility, interoperability, usability, sharing and distributing geospatial information.", "pagina": 7}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "5. Establish partnerships with private sectors",
+      "nivel": 2,
+      "paginas": "8-8",
+      "resumen": "La quinta recomendación propone alianzas con el sector privado para ampliar conocimiento, tecnologías, metodologías y apoyo de capacidades. El texto señala que las empresas geoespaciales ya ofrecen servicios personalizados impulsados por la demanda en gestión del riesgo, zonas costeras y planificación urbana, además de su papel tradicional como proveedoras de tecnología. Como referencia de asociación multiactor, describe la SDG Data Alliance, que reúne a UN-GGIM, gobiernos, sector privado y otros socios para fortalecer capacidades GIS y tecnológicas en países en desarrollo.",
+      "dimensiones": [
+        {"dimension": "propuestas_politica", "cita": "Partnerships with private sectors provide avenues to build awareness, knowledge, and information on new and emerging technologies, software, methodologies and capacity support.", "pagina": 8},
+        {"dimension": "oportunidades", "cita": "the geospatial information management private sectors increasingly provide demand-driven customized geospatial services, for example, in DRM, coastal zone management and urban planning.", "pagina": 8}
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "6. Communication and awareness raising",
+      "nivel": 2,
+      "paginas": "8-8",
+      "resumen": "La sexta recomendación vincula educación y sensibilización pública con la gestión de las prioridades de desarrollo sostenible en los Caribbean SIDS. El ejemplo de campañas de concientización sobre gestión del riesgo dirigidas a comunidades afectadas muestra cómo integrar herramientas geoespaciales puede hacer visibles los impactos y reforzar decisiones y acciones para reducir riesgos. El documento también conecta la participación ciudadana en recolección, uso e intercambio de datos con confianza pública y reducción de la brecha digital geoespacial.",
+      "dimensiones": [
+        {"dimension": "propuestas_politica", "cita": "Promoting geospatial information management education and raising awareness in Caribbean SIDS is a requirement in the management of the goals and priorities of sustainable development.", "pagina": 8},
+        {"dimension": "oportunidades", "cita": "This approach will further promote citizen confidence and reduce the geospatial digital divide through participatory involvement in data collection, use and sharing (ECLAC, 2019).", "pagina": 8}
+      ],
+      "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "Conclusion",
+      "nivel": 1,
+      "paginas": "8-8",
+      "resumen": "La conclusión sostiene que los Caribbean SIDS están adoptando cada vez más información geoespacial y otros datos para tomar decisiones informadas en las distintas dimensiones del desarrollo sostenible. Identifica como condiciones integrales la participación consistente en UN-GGIM y UN-GGIM: Americas, la implementación del UN-IGIF y el establecimiento de NSDI eficaces. El avance futuro requiere apoyo político, decisión coordinada de alto nivel, estructuras institucionales, legislación, financiamiento, tecnología, datos, innovación, estándares, alianzas, educación, capacitación, sensibilización y comunicación; todo ello debe complementar estrategias nacionales y regionales de inclusión digital.",
+      "dimensiones": [
+        {"dimension": "desafios", "cita": "The continued advancement in the use of geospatial information data and services for sustainable development will require political support, coordinated high-level decision-making, established and functioning institutional structures, legislation, financing, keeping abreast of technological advancements, data management, innovation, standards, partnerships, education, capacity building, awareness raising and communication.", "pagina": 8},
+        {"dimension": "propuestas_politica", "cita": "Involved and consistent participation with the UN-GGIM, UN-GGIM: Americas, implementation of the UN-IGIF and establishment of effective NSDI are integral to achieving the benefits of geospatial information management services.", "pagina": 8}
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "No",
+      "evidencia": "El documento propone capacidades, marcos y servicios de información para apoyar el desarrollo sostenible y la acción climática, pero no presenta un paquete coordinado de inversión y políticas a escala de transformación productiva, ni lo vincula con sectores estratégicos del Big Push o con dos eficiencias. Chequeo negativo explícito: no se encuentra una propuesta propia de inversión masiva coordinada en transición energética, movilidad sostenible, bioeconomía, economía circular o salud/cuidados; las medidas son habilitantes y geoespaciales.",
+      "citas": [{"cita": "In this regard, the following recommendations are proposed to advance the development of geospatial information management systems and support their integration in sustainable development management.", "pagina": 6}],
+      "nota": "Es un policy brief de capacidades de información y gobernanza, no una propuesta de Gran Impulso Ambiental."
+    },
+    "articulacion_actores": {
+      "veredicto": "Sí",
+      "evidencia": "CARIGEO es una iniciativa nombrada, situada en respuesta a las prioridades de los Caribbean SIDS y creada mediante colaboración entre organismos regionales, países miembros, academia, sector privado geoespacial y sociedad civil; por tanto, el mecanismo de articulación pertenece al ámbito analizado.",
+      "citas": [{"cita": "In response to the Caribbean SIDS priorities for sustainable development, the UN-GGIM: Americas, in collaboration with ECLAC, the United Nations Group of Experts on Geographical Names, member countries, academic institutions, geospatial private sector organizations and civil society stakeholders, launched the Caribbean Geospatial Development Initiative (CARIGEO) in 2019.", "pagina": 5}],
+      "nota": null
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento enumera aplicaciones y servicios concretos —gestión del riesgo, gestión de zonas costeras, planificación urbana, planificación espacial marina y salud—, pero no desarrolla de manera suficiente su vínculo con empleo, productividad o reducción de desigualdad. El criterio productivo queda en el plano de capacidades y servicios geoespaciales, no en una agenda sectorial-laboral desarrollada.",
+      "citas": [{"cita": "the geospatial information management private sectors increasingly provide demand-driven customized geospatial services, for example, in DRM, coastal zone management and urban planning.", "pagina": 8}],
+      "nota": "Cumple la enumeración de actividades, pero el vínculo con empleo, productividad o desigualdad no está desarrollado."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Sí",
+      "evidencia": "La sección Policy recommendations contiene seis recomendaciones propias del cierre. Todas nombran un instrumento, arreglo, currículo, plataforma de articulación, alianza o acción de sensibilización identificable; el tally es 6 de 6 ítems concretos.",
+      "citas": [{"cita": "Towards adopting and implementing the UN-IGIF, member countries and regional intergovernmental agencies are partnering with ECLAC and UN-GGIM: Americas in training, capacity building and building awareness.", "pagina": 6}, {"cita": "Establishing and strengthening an overarching geospatial information management framework, such as a National Spatial Data Infrastructure (NSDI), builds capacities, organizes and provides a structure for shared services and integration with other data platforms,18 for example, those of health, environmental and SDGs of the 2030 Agenda.", "pagina": 6}, {"cita": "Implementing geospatial information management curricula at each level of education will facilitate the workforce's requirements to be equipped with geospatial knowledge, skills and awareness.", "pagina": 7}, {"cita": "Partnerships with private sectors provide avenues to build awareness, knowledge, and information on new and emerging technologies, software, methodologies and capacity support.", "pagina": 8}, {"cita": "Promoting geospatial information management education and raising awareness in Caribbean SIDS is a requirement in the management of the goals and priorities of sustainable development.", "pagina": 8}],
+      "desglose_items": [
+        {"item": "Adopt and implement the UN-IGIF.", "clasificacion": "CONCRETO", "pagina": 6},
+        {"item": "Creation of national geospatial institutional arrangements, such as a National Spatial Data Infrastructure (NSDI).", "clasificacion": "CONCRETO", "pagina": 6},
+        {"item": "Education and capacity building, including geospatial information management curricula at each level of education.", "clasificacion": "CONCRETO", "pagina": 7},
+        {"item": "Strengthening regional capabilities in providing geospatial information management services in the Caribbean SIDS.", "clasificacion": "CONCRETO", "pagina": 7},
+        {"item": "Establish partnerships with private sectors.", "clasificacion": "CONCRETO", "pagina": 8},
+        {"item": "Communication and awareness raising.", "clasificacion": "CONCRETO", "pagina": 8}
+      ],
+      "tally": "6 de 6 ítems pasan el test de concreción",
+      "nota": null
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {"numero": 11, "nombre": "Capacidades del Estado", "certeza": "Alta"},
+    "transformacion_secundaria": {"numero": 6, "nombre": "Sostenibilidad ambiental", "certeza": "Alta"},
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento enfrenta la tensión entre la vulnerabilidad climática y de desastres de los Caribbean SIDS y la fragmentación de datos, instituciones y capacidades que impide convertir información dispersa en decisiones públicas oportunas.",
+      "filtro_categoria_primaria": "La transformación buscada es institucional: sistemas de información, estándares, NSDI, capacidades humanas, cooperación regional y arreglos entre actores. La sostenibilidad ambiental es el ámbito de aplicación y un uso prioritario, pero el objeto operativo es la arquitectura de capacidades que permite gobernarla.",
+      "secundaria_obligatoria": "Sostenibilidad ambiental es secundaria porque el documento orienta GIS, datos y plataformas a clima, adaptación, mitigación, gestión de riesgos, ecosistemas, seguridad alimentaria y desarrollo sostenible.",
+      "justificacion_anti_copia": "La clasificación se apoya en elementos específicos del brief: UN-IGIF, CARIGEO, Caribbean GeoPortal, GeoCRIS, NSDI, protocolos de interoperabilidad, mapas de riesgo, pérdida y daño y currículos de GIS. El cierre pide estructuras institucionales, legislación, estándares, financiamiento, formación y comunicación, mostrando que la información y la coordinación estatal son el objeto habilitante.",
+      "validacion_anclas": "La decisión sigue el patrón de gobernanza y capacidades públicas de la ancla #19, pero con un objeto más acotado: no clasifica la herramienta geoespacial como transformación ambiental primaria porque la acción climática aparece como una aplicación dentro de un programa más amplio de infraestructura institucional de datos."
+    },
+    "tipo_documento_climatico": "Policy Brief de capacidades geoespaciales para desarrollo sostenible, acción climática y gestión del riesgo de desastres.",
+    "nivel_aplicacion": "Subregional (Caribbean SIDS)",
+    "ambiguedad_pendiente_validacion": null
+  }
+}

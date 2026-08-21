@@ -1,0 +1,338 @@
+{
+  "documento": {
+    "num_muestra": 67979,
+    "titulo": "Los efectos del cambio climático en la actividad económica de América Latina y el Caribe: una perspectiva empírica",
+    "autoria": "Rafael Van der Borght; Joseluis Samaniego; Luis Miguel Galindo; José Eduardo Alatorre",
+    "handle": "https://hdl.handle.net/11362/67979",
+    "simbolo": "LC/TS.2023/83",
+    "isbn": null,
+    "fecha": "2023",
+    "tipo_documento": "Documento de proyecto / estudio técnico",
+    "paginas_cuerpo": 38,
+    "paginas_totales": 57,
+    "idioma": "es",
+    "tiene_resumen_ejecutivo": false,
+    "tiene_anexos": true
+  },
+  "resumen_enriquecido": {
+    "pregunta_investigacion": "¿Cuál es el efecto causal de las fluctuaciones de temperatura y precipitaciones sobre el desempeño económico de América Latina y el Caribe, cómo se manifiesta en las ciudades y qué pérdidas potenciales implican distintos escenarios de calentamiento?",
+    "alcance": {
+      "ambito_aplicacion": "América Latina y el Caribe; 33 países de la región y 1.031 ciudades",
+      "referentes_dependencias": "Nueva Economía Climática; Climate Research Unit (CRU); Banco Mundial/WDI; Copernicus ERA5-Land; CHIRPS; VIIRS; escenarios SSP/CMIP6 e IIASA",
+      "sectorial": "Actividad económica agregada, PIB per cápita, sistema productivo urbano, sectores agrícola, industrial y de servicios",
+      "temporal": "Evidencia histórica 1970-2020; clima 1961-2020; luces nocturnas 2013-2021; proyecciones hasta 2099"
+    },
+    "hallazgos_principales": [
+      "En el panel de 33 países y 1.630 observaciones, un aumento de 1 °C en la temperatura media anual reduce la tasa de crecimiento del PIB per cápita en 1,06 puntos porcentuales; el crecimiento histórico medio fue 1,51% anual (p. 26).",
+      "La temperatura media regional aumentó 0,5 °C entre 1961-1990 y 1991-2020, de 22,7 °C a 23,2 °C; las anomalías de temperatura de 0,45 °C pasaron de una probabilidad aproximada de 5% a 20% (p. 16).",
+      "Los efectos adversos de la temperatura persisten: los resultados de largo plazo son negativos y significativos, sin evidencia de una reducción significativa del impacto marginal en el tiempo; la trayectoria regional habría acumulado vulnerabilidad climática (p. 29).",
+      "En 1.031 ciudades y 35.941 observaciones trimestrales de luces nocturnas, una temperatura un grado sobre el promedio en el primer trimestre reduce el crecimiento anual de las luces en 2,31 puntos porcentuales y una precipitación una desviación estándar sobre el promedio lo reduce 0,84 puntos (p. 33).",
+      "Las proyecciones estiman para 2100 una desviación del PIB regional de casi 8% bajo SSP5.85, cerca de 3% bajo SSP2.45 y 2% bajo SSP1.19 frente a un escenario sin cambio de temperaturas; Guatemala supera 12% de desviación en SSP5.85, mientras Chile y Argentina rondan 5% (pp. 37-38)."
+    ],
+    "conclusiones_recomendaciones": {
+      "conclusiones": [
+        "La evidencia de panel identifica un efecto causal negativo de la temperatura sobre el crecimiento del PIB per cápita regional, persistente más allá del año del shock y no compensado por una adaptación observable suficiente.",
+        "Los resultados urbanos confirman que el impacto climático alcanza el conjunto del sistema productivo y que los shocks de calor y lluvias torrenciales son complementarios al calentamiento tendencial, por lo que las estimaciones basadas solo en temperatura constituyen un mínimo.",
+        "Las pérdidas proyectadas dependen fuertemente de la trayectoria global de emisiones y de diferencias nacionales de exposición; el estudio concluye que el desarrollo regional observado no ha reducido sistemáticamente la vulnerabilidad climática."
+      ],
+      "recomendaciones": [
+        "Sostener una acción colectiva global y una cooperación internacional fuerte para limitar el aumento de temperaturas muy por debajo de 2 °C.",
+        "Promover en los países de América Latina y el Caribe modelos de desarrollo más resilientes, mediante un cambio estructural y un conjunto coordinado de políticas públicas y fuentes de financiamiento que abarque mitigación y adaptación."
+      ],
+      "nota": "El cierre formula orientaciones generales de política, pero no desarrolla instrumentos, responsables, plazos ni métricas de implementación."
+    },
+    "resumen_narrativo": "El estudio estima con un panel de 33 países que un grado Celsius adicional reduce en 1,06 puntos porcentuales el crecimiento del PIB per cápita y que el efecto persiste más allá del año del shock. La lectura urbana, basada en 1.031 ciudades y luces nocturnas VIIRS, muestra que el calor y las lluvias torrenciales afectan también a actividades industriales y de servicios, no solo a la agricultura. Las proyecciones hasta 2100 sitúan la pérdida regional cerca de 8% bajo SSP5.85 y alrededor de 2% bajo SSP1.19, aunque el cálculo excluye nivel del mar, eventos extremos y puntos de inflexión. El cierre reclama cooperación global y un cambio estructural regional con políticas coordinadas de mitigación y adaptación, sin convertir esa orientación en un plan operativo detallado."
+  },
+  "resumen_secciones": [
+    {
+      "seccion": "Introducción",
+      "nivel": 1,
+      "paginas": "9-11",
+      "resumen": "La introducción delimita el problema causal: la correlación entre temperatura y PIB no basta porque puede confundirse con instituciones y otras características nacionales. Presenta la Nueva Economía Climática como marco de identificación mediante paneles con efectos fijos y explica el uso de luces nocturnas satelitales para observar economías locales. Sitúa el aporte en ALC: medir magnitud, heterogeneidad y persistencia de los impactos para informar políticas compatibles con el Acuerdo de París, y anticipa el recorrido por literatura, datos climáticos, modelo, resultados y proyecciones.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Sin embargo, esta correlación no implica causalidad y varios autores han demostrado que esta resulta de una asociación espurria entre temperaturas y otras características nacionales como, por ejemplo, la capacidad institucional",
+          "pagina": 9
+        },
+        {
+          "dimension": "desafios",
+          "cita": "Sin embargo, aún existe una importante incertidumbre sobre la magnitud de estos efectos para América Latina y el Caribe, la heterogeneidad de impactos a nivel local, así como la relevancia de los procesos de adaptación",
+          "pagina": 10
+        },
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "La asociación negativa del gráfico 1 sugiere que, en promedio, el ingreso per cápita cae en un 7,8% por cada grado adicional en la temperatura promedio.",
+          "pagina": 9
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "I. Revisión de la literatura",
+      "nivel": 1,
+      "paginas": "13-14",
+      "resumen": "La revisión desplaza el foco desde los rendimientos agrícolas hacia los insumos y la actividad económica agregada: la oferta laboral y la productividad caen ante umbrales térmicos, y los paneles permiten estudiar también desigualdad, pobreza y migración. Resume estimaciones de 1 °C adicional que reducen ingresos o crecimiento en distintos contextos y destaca que la adaptación observada ha sido limitada. Cierra justificando las luces VIIRS como proxy urbano útil, aunque imperfecto para zonas rurales y economías agrícolas.",
+      "dimensiones": [
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "Los enfoques de panel tienen importantes ventajas sobre las regresiones transversales usadas anteriormente para analizar la relación clima-productividad: no sólo por el tipo de datos utilizados (que varían en el tiempo y el espacio), sino también porque estos enfoques son capaces de controlar el sesgo por variables omitidas",
+          "pagina": 13
+        },
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Por lo tanto, los principales resultados de los modelos de datos de panel indican que un aumento de la temperatura de 1°C produce una reducción en la tasa de crecimiento de entre el 1% y el 3%, con diferencias entre regiones, países y sectores y entre patrones lineales y no lineales",
+          "pagina": 14
+        },
+        {
+          "dimension": "brechas_implementacion",
+          "cita": "Estas estimaciones indican que la adaptación en los últimos años ha sido muy limitada y que los efectos de la temperatura son más fuertes a nivel agregado que los de las precipitaciones",
+          "pagina": 14,
+          "subtipo_brecha": "retrospectiva"
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "II. El clima en América Latina y el Caribe y su evolución durante los últimos 60 años",
+      "nivel": 1,
+      "paginas": "15-20",
+      "resumen": "Esta sección construye la base climática regional a partir de CRU, GHS-POP y WDI para 33 países, y define el clima como una distribución de variables meteorológicas en períodos de al menos 30 años. Documenta un aumento regional de 0,5 °C entre 1961-1990 y 1991-2020, una mayor frecuencia reciente de anomalías térmicas y señales de precipitaciones extremas compatibles con más inundaciones. Después presenta la delimitación de 1.031 ciudades mediante el grado de urbanización y el emparejamiento de ERA5-Land, CHIRPS y VIIRS para medir actividad económica local.",
+      "dimensiones": [
+        {
+          "dimension": "tendencias",
+          "cita": "El gráfico 4 revela cómo esta distribución se ha ido desplazando hacia la derecha, con un promedio regional que ha aumentado en 0,5° Celsius (de 22,7 a 23,2)",
+          "pagina": 16
+        },
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "para la región ALC en su conjunto, la probabilidad de experimentar una anomalía de temperatura de 0.45 es de un 20% (1-0.8) durante el periodo 1991-2020, mientras que era de aproximadamente un 5% (1-0.95) en la primera parte del periodo",
+          "pagina": 16
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "la variación max-min dentro de los países es de una magnitud similar a los aumentos de temperatura globales que podrían produc irse en el próximo siglo",
+          "pagina": 16
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "III. Modelo econométrico",
+      "nivel": 1,
+      "paginas": "21-23",
+      "resumen": "El modelo aproxima un experimento causal comparando cada país consigo mismo en años más cálidos o fríos, con efectos fijos por país y por año-subregión. La especificación controla heterogeneidad constante, perturbaciones comunes y posibles no linealidades, y luego incorpora rezagos para distinguir efectos de nivel de efectos persistentes sobre el crecimiento. Finalmente propone estimaciones por décadas y períodos climáticos para evaluar si la vulnerabilidad marginal se ha reducido mediante adaptación, tecnología o cambio estructural.",
+      "dimensiones": [
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Esto podría ocurrir, por ejemplo, si las pérdidas contemporáneas alteran el ritmo de las estrategias de inversión o de acumulación de capital humano, alterando así la productividad futura",
+          "pagina": 22
+        },
+        {
+          "dimension": "desafios",
+          "cita": "como la mayoría de los países de la región tienen temperaturas por encima de este punto de inflexión, no es seguro que esta forma funcional sea la más adecuada para calibrar impactos en ALC",
+          "pagina": 22
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "IV. Resultados empíricos",
+      "nivel": 1,
+      "paginas": "25-33",
+      "resumen": "El capítulo reúne la evidencia principal del panel nacional y la extensión urbana. Antes de la subsección de ciudades, identifica una relación negativa y estadísticamente significativa entre temperatura y crecimiento del PIB per cápita, encuentra robustez ante varias especificaciones y muestra mayor impacto en países vulnerables que en países simplemente cálidos. También concluye que los efectos persisten a largo plazo y que no se observa una reducción del impacto marginal desde los años setenta; la subsección anidada traslada la comprobación a shocks trimestrales urbanos.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "En términos cuantitativos, los resultados de la columna 1 indican que en América Latina y el Caribe, un aumento de 1°C en la temperatura media anual disminuye la tasa de crecimiento del PIB/cápita en 1,06 puntos porcentuales (p.p.)",
+          "pagina": 26
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Esta mayor vulnerabilidad se vincula por un lado a su fuerte sensibilidad al clima, ya que generan usualmente una proporción importante de su PIB a través de sectores sensibles al clima como la agricultura o la pesca y, por otro lado, a sus menores recursos para amortiguar los choques negativos de un incremento de las temperaturas y recuperarse",
+          "pagina": 26
+        },
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Estos resultados indican que para la región ALC la condición de vulnerabilidad es más relevante que la condición de país caliente para explicar las diferencias de impacto de un incremento de las temperaturas.",
+          "pagina": 27
+        },
+        {
+          "dimension": "brechas_implementacion",
+          "cita": "en vez de fomentar una mayor adaptación al cambio climático, las trayectorias de crecimiento observadas en ALC durante las últimas décadas han resultado en una acumulación creciente de vulnerabilidad climáticas",
+          "pagina": 29,
+          "subtipo_brecha": "retrospectiva"
+        },
+        {
+          "dimension": "tendencias",
+          "cita": "El coeficiente asociado a temperaturas es sistemáticamente negativo y significativo y nos lleva a concluir que los efectos observados en los datos anuales persisten a largo plazo.",
+          "pagina": 29
+        }
+      ],
+      "subsecciones": [
+        {
+          "seccion": "A. Análisis a nivel de ciudad con luces nocturnas",
+          "nivel": 2,
+          "paginas": "31-33",
+          "resumen": "La subsección usa un panel trimestral de 1.031 ciudades y luces VIIRS para distinguir shocks repentinos, como olas de calor o lluvias torrenciales, del calentamiento tendencial medido con PIB. Un grado Celsius sobre el promedio en el primer trimestre reduce el crecimiento anual de las luces en 2,31 puntos porcentuales y una desviación estándar adicional de lluvia lo reduce 0,84 puntos, con efectos que reflejan interrupciones urbanas y alcanzan sectores industriales y de servicios. El resultado complementa, no sustituye, la estimación nacional y refuerza que el impacto climático excede la agricultura.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "cuando la temperatura está 1C por encima del promedio en un trimestre dado, se registra primero un impacto contemporáneo positivo sobre la actividad económica local, que se convierte luego en un impacto negativo más que proporcional en el trimestre siguiente",
+              "pagina": 33
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "las lluvias torrencial es y las inundaciones urbanas que suelen experimentar muchas ciudades de la región",
+              "pagina": 33
+            },
+            {
+              "dimension": "desafios",
+              "cita": "será necesario llevar a cabo futuras investigaciones que permitan entender mejor la magnitud de estos impactos y las posibles fuentes de heterogeneidad en impactos",
+              "pagina": 33
+            }
+          ],
+          "subsecciones": []
+        }
+      ]
+    },
+    {
+      "seccion": "V. Proyecciones del impacto económico potencial del alza de temperaturas",
+      "nivel": 1,
+      "paginas": "35-38",
+      "resumen": "La sección proyecta hasta 2099 el efecto del aumento de temperaturas combinando la respuesta econométrica con trayectorias SSP, crecimiento y población, y advierte que calcula una magnitud mínima porque excluye nivel del mar, extremos más intensos y tipping points. Bajo SSP5.85 estima casi 8% menos de PIB regional en 2100, frente a cerca de 2% en SSP1.19 y 3% en SSP2.45, con diferencias fuertes entre países. El cierre de la sección atribuye la reducción sustantiva de pérdidas a una mayor ambición global y a cooperación internacional, pues las emisiones regionales por sí solas tienen efecto marginal limitado.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "el aumento de temperaturas que experimentarán los países de América Latina y el Caribe producirá una reducción del PIB regional de casi un 8%",
+          "pagina": 37
+        },
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "el PIB de la región estará un 2% por debajo de lo que estaría en un escenario sin cambio climático",
+          "pagina": 37
+        },
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "En este contexto, las proyecciones presentadas a continuación no tienen que interpretarse como unas predicciones de los impactos económicos del cambio climático sino como una orientación sobre la magnitud mínima de pérdidas que la región podría sufrir ante diversos escenarios de aumento de las temperaturas.",
+          "pagina": 35
+        },
+        {
+          "dimension": "desafios",
+          "cita": "acción colectiva sostenida y una fuerte cooperación internacional",
+          "pagina": 38
+        }
+      ],
+      "subsecciones": []
+    },
+    {
+      "seccion": "VI. Consideraciones finales",
+      "nivel": 1,
+      "paginas": "39-40",
+      "resumen": "Las consideraciones finales integran los resultados nacionales, urbanos y prospectivos: un grado Celsius reduce 1,06 puntos porcentuales el crecimiento del PIB per cápita, los efectos persisten y los shocks urbanos afectan al sistema productivo completo. El documento interpreta las pérdidas de 2% a 8% del PIB regional en 2100 como una estimación mínima y concluye que se requieren dos políticas complementarias: acción global cooperativa y modelos regionales más resilientes. Su orientación normativa reclama cambio estructural, políticas públicas coordinadas, financiamiento y un enfoque conjunto de mitigación y adaptación, pero no define instrumentos o responsabilidades operativas.",
+      "dimensiones": [
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Las estimaciones econométricas también evidencian que los efectos adversos de un incremento de las temperaturas en un año dado persisten el año siguiente y no se revierten en el medio plazo",
+          "pagina": 39
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "las trayectorias de crecimiento observa das en ALC durante las últimas décadas podrían haber resultado en una acumulación creciente de vulnerabilidades climáticas",
+          "pagina": 39
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Este cambio estructural requiere, por lo tanto, de un conjunto coordinado de políticas públicas y fuentes de financiamiento adecuadas",
+          "pagina": 40
+        },
+        {
+          "dimension": "desafios",
+          "cita": "mejorar la adaptación al cambio climático será posible siempre y cuando las desregulaciones del sistema climático sean limitadas",
+          "pagina": 40
+        }
+      ],
+      "subsecciones": []
+    }
+  ],
+  "interpelacion": {
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "No",
+      "evidencia": "El documento no propone un paquete coordinado y concreto de inversiones o políticas con sectores estratégicos e instrumentos identificables. El cierre solo reclama cooperación global, modelos resilientes y un conjunto coordinado de políticas y financiamiento; por tanto, falla el test de paquete coordinado y no acredita el test sectorial con instrumento. Chequeo negativo explícito: no se encuentra una propuesta propia que combine inversión coordinada con sectores estratégicos o al menos dos eficiencias desarrolladas.",
+      "citas": [
+        {
+          "cita": "Este cambio estructural requiere, por lo tanto, de un conjunto coordinado de políticas públicas y fuentes de financiamiento adecuadas",
+          "pagina": 40
+        }
+      ],
+      "nota": "Es un estudio econométrico de impactos y proyecciones, no un diseño de transformación productiva; el No responde a la naturaleza del documento y no a una omisión accidental."
+    },
+    "articulacion_actores": {
+      "veredicto": "No",
+      "evidencia": "El documento menciona acción colectiva y cooperación internacional, pero no nombra un mecanismo, plataforma, consejo o proceso institucional de coordinación dentro de ALC ni propone uno con nombre propio. Chequeo negativo explícito: no se identifica un mecanismo nombrado de articulación entre actores, sectores o niveles de gobierno en el ámbito de aplicación.",
+      "citas": [
+        {
+          "cita": "a nivel global, una acción colectiva sostenida y una fuerte cooperación internacional más allá de la región son necesarias",
+          "pagina": 40
+        }
+      ],
+      "nota": "La cooperación internacional aparece como orientación general, no como mecanismo de gobernanza identificado."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "No",
+      "evidencia": "El documento analiza impactos sobre agricultura, industria y servicios, pero no los enumera como oportunidades productivas sostenibles ni desarrolla un vínculo con empleo, productividad o reducción de desigualdad. Chequeo negativo explícito: no se encuentran simultáneamente una enumeración de oportunidades productivas concretas y un desarrollo del vínculo con empleo, productividad o desigualdad.",
+      "citas": [],
+      "nota": "Los sectores aparecen como receptores de daños climáticos y como parte del sistema productivo afectado, no como oportunidades de transición."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "No",
+      "evidencia": "La sección de cierre contiene dos orientaciones normativas completas, pero ambas son genéricas: acción colectiva/cooperación global y promoción de modelos resilientes mediante políticas y financiamiento coordinados. Ninguna nombra un instrumento, entregable, responsable, plazo o métrica identificable.",
+      "citas": [
+        {
+          "cita": "Primero, a nivel global, una acción colectiva sostenida y una fuerte cooperación internacional más allá de la región son necesarias para mantener el aumento de las temperaturas “muy por debajo de los 2°C”.",
+          "pagina": 40
+        },
+        {
+          "cita": "Segundo, los países de ALC pueden reducir el impacto del alza de las temperaturas promoviendo modelos de desarrollo más resilientes a los nuevos patrones climáticos que se están materializando.",
+          "pagina": 40
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Primero, a nivel global, una acción colectiva sostenida y una fuerte cooperación internacional más allá de la región son necesarias para mantener el aumento de las temperaturas “muy por debajo de los 2°C”.",
+          "clasificacion": "GENERICO",
+          "pagina": 40
+        },
+        {
+          "item": "Segundo, los países de ALC pueden reducir el impacto del alza de las temperaturas promoviendo modelos de desarrollo más resilientes a los nuevos patrones climáticos que se están materializando.",
+          "clasificacion": "GENERICO",
+          "pagina": 40
+        }
+      ],
+      "tally": "0 de 2 ítems pasan el test de concreción",
+      "nota": "Se desglosa la unidad completa de orientación normativa del cierre; no se incorporan medidas descritas en la literatura, en los escenarios SSP ni en el análisis de terceros."
+    }
+  },
+  "tipologia": {
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Media"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento enfrenta la contradicción entre trayectorias de crecimiento que no han reducido la vulnerabilidad y un calentamiento que reduce persistentemente el crecimiento económico regional. Procesa esa tensión mediante identificación econométrica, evidencia urbana y escenarios de pérdidas, y termina señalando que la adaptación exige cambiar las trayectorias de desarrollo.",
+      "filtro_categoria_primaria": "La transformación principal es climática: el objeto del estudio es medir los efectos causales del calentamiento y proyectar las pérdidas de distintos escenarios, mientras que los datos de PIB, luces nocturnas y financiamiento son medios de medición o condiciones de respuesta. Se descarta #10 Macroeconomía y fiscalidad porque el documento no estudia impuestos, deuda, banca central ni financiamiento como objeto; la actividad económica funciona como resultado afectado por el clima.",
+      "secundaria_obligatoria": "#11 Capacidades del Estado cumple una función habilitadora: el cierre vincula la reducción de vulnerabilidad con políticas públicas coordinadas, fuentes de financiamiento y capacidad de adaptación, aunque el estudio no diseña la arquitectura institucional concreta. La categoría es secundaria porque esas capacidades permiten responder al problema climático, pero no constituyen el objeto empírico central.",
+      "justificacion_anti_copia": "La clasificación se apoya en tres rasgos propios: el panel de 33 países entre 1970-2020 estima una pérdida de 1,06 puntos porcentuales por cada grado adicional; el módulo urbano usa 1.031 ciudades y VIIRS para identificar shocks de calor y lluvias; y las proyecciones SSP calculan una desviación regional del PIB de casi 8% en SSP5.85. El hallazgo final sobre vulnerabilidad acumulada y la exigencia de políticas coordinadas conectan esos resultados con capacidades públicas de adaptación.",
+      "validacion_anclas": "La decisión se contrasta con el ancla #20, “Impactos económicos del cambio climático en Colombia. Síntesis”: ambos tienen como objeto primario los impactos económicos del cambio climático y ubican la planificación, la información y la regulación estatal como medios. Este documento es regional y econométrico, incorpora persistencia temporal, luces nocturnas y escenarios SSP, por lo que conserva #6 como primaria y usa #11 como habilitadora secundaria; no es un informe cuyo objeto sea la arquitectura institucional."
+    },
+    "tipo_documento_climatico": "Estudio técnico econométrico de impactos y proyecciones climáticas",
+    "nivel_aplicacion": "Regional (América Latina y el Caribe), con análisis nacional y subnacional urbano",
+    "ambiguedad_pendiente_validacion": null
+  }
+}
