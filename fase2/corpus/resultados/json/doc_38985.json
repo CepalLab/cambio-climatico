@@ -153,7 +153,18 @@
      "nivel": 2,
      "paginas": "17-21",
      "resumen": "Define la huella de carbono (HC) como indicador de los GEI generados por una empresa o durante el ciclo de vida de un producto, y detalla la unidad de medida (toneladas de CO2 equivalente) y los alcances de cobertura para empresas (alcances 1, 2 y 3) y los enfoques de ciclo de vida para productos (de la cuna a la tumba y de la cuna a la puerta). Presenta las metodologías de medición más utilizadas (GHG Protocol, PAS 2050, ISO 14064 y Bilan Carbone francesa), las fuentes de emisiones de la agricultura (fertilizantes, ganado, maquinaria y cambio de uso de suelo) y los esquemas pioneros de etiquetado de la huella en países de la OCDE y el Programa Piloto de la Comisión Europea sobre reglas de categoría de huella ambiental, y discute la medición como herramienta de reducción de emisiones, de levantamiento de registros y de ganancia de eficiencia, con la distinción entre emisiones directas e indirectas y los límites de la medición.",
-     "dimensiones": [],
+    "dimensiones": [
+     {
+      "dimension": "contexto_antecedentes",
+      "cita": "Las mediciones de HC se han ido ampliando desde los registros corporativos hacia los de productos específicos, la mayoría de los cuales se realiza actualmente a partir del denominado análisis del ciclo de vida.",
+      "pagina": 19
+     },
+     {
+      "dimension": "estado_de_situacion",
+      "cita": "En varios países, especialmente de la OCDE, ya se han anunciado o implementado iniciativas públicas y/o privadas de etiquetado de huella de carbono de los productos.",
+      "pagina": 18
+     }
+    ],
      "subsecciones": []
     }
    ]
@@ -212,7 +223,18 @@
      "nivel": 2,
      "paginas": "25",
      "resumen": "Presenta las mesas público-privadas como mecanismo central del proyecto: resultaron clave para la ejecución y para posicionar la huella de carbono en la agenda del sector exportador, al reunir a actores públicos, privados y académicos que aportaron información para el cálculo y discutieron resultados y futuros cursos de acción. Describe el cuadro de entidades participantes por país (ministerios, institutos de normalización como ICONTEC, gremios como ASOHOFRUCOL, ANALDEX, HONDUPALMA y ADOEXPO) y los temas tratados: intercambio de experiencias, buenas prácticas, selección de productos y empresas y planes de acción hacia un mejor desempeño ambiental que incluyen eficiencia energética, mejoras normativas, acceso a la información y apoyo público a la medición y mitigación.",
-     "dimensiones": [],
+    "dimensiones": [
+     {
+      "dimension": "avances_implementacion",
+      "cita": "El trabajo público privado resultó clave para la ejecución del proyecto y para el logro del objetivo de posicionar el tema de la huella de carbono en la agenda del sector exportador.",
+      "pagina": 25
+     },
+     {
+      "dimension": "propuestas_politica",
+      "cita": "Se crearon mesas de trabajo que facilitaron el diálogo entre los representantes públicos y privados sobre futuras políticas que pudieran contribuir a reducir la huella de carbono de las exportaciones.",
+      "pagina": 25
+     }
+    ],
      "subsecciones": []
     },
     {
@@ -228,7 +250,13 @@
      "nivel": 2,
      "paginas": "28",
      "resumen": "Presenta los tres seminarios internacionales sobre Huella de Carbono y Exportaciones realizados en el marco del proyecto en 2012, 2013 y 2014, dando continuidad a los seminarios anuales que la CEPAL organiza desde 2009. Estos seminarios reunieron a expertos internacionales de la Comisión Europea, Francia y Estados Unidos con representantes públicos y privados de América Latina y el Caribe y de los países participantes, y su agenda evolucionó desde la puesta al día de metodologías de medición hacia la difusión de los resultados de los estudios de caso y el intercambio de experiencias y buenas prácticas en una mesa redonda con representantes de todos los países.",
-     "dimensiones": [],
+    "dimensiones": [
+     {
+      "dimension": "avances_implementacion",
+      "cita": "En el marco del proyecto se realizaron tres seminarios internacionales sobre Huella de Carbono y Exportaciones, dando continuidad a los seminarios anuales sobre este tema que se han realizado en la CEPAL desde 2009.",
+      "pagina": 28
+     }
+    ],
      "subsecciones": []
     },
     {
@@ -723,7 +751,18 @@
         "nivel": 3,
         "paginas": "82-83",
         "resumen": "Describe la comunicación interna y externa de la huella como herramienta de mejoramiento continuo, certificación y diálogo con compradores, en un contexto donde los mercados europeos demandan crecientemente información ambiental.",
-        "dimensiones": [],
+        "dimensiones": [
+         {
+          "dimension": "avances_implementacion",
+          "cita": "La comunicación de la huella de carbono por parte de las empresas tiene distintos niveles, los que a su vez sirven diferentes propósitos.",
+          "pagina": 83
+         },
+         {
+          "dimension": "oportunidades",
+          "cita": "La sostenibilidad ambiental y la rentabilidad económica de la empresa no tienen por qué ser objetivos antagónicos.",
+          "pagina": 83
+         }
+        ],
         "subsecciones": []
        },
        {

@@ -50,8 +50,16 @@
       "paginas": "10-10",
       "resumen": "La introducción define el problema sectorial: la Argentina dispone de superficie para plantar montes capturadores, pero pierde montes nativos por desmonte. Vincula ambos frentes con mitigación y adaptación, menciona REDD y cultivares tolerantes a temperatura, sequía y salinidad, y fija el trabajo empírico: actualizar el inventario y proyectar emisiones entre 1990 y 2100 en años de corte 2020, 2030, 2050, 2070 y 2100. La implicación es que el documento tratará la política climática como combinación de captura, conservación y proyección cuantitativa.",
       "dimensiones": [
-        {"dimension": "contexto_antecedentes", "cita": "El sector de uso del suelo,cambio en el uso del suelo y silvicultura (USCUSS) tiene una particular relevancia para la evolución futura de las emisiones netas de gases de efecto invernadero (GEI) de la Argentina", "pagina": 10},
-        {"dimension": "propuestas_politica", "cita": "la actualización del Inventario Nacional de Emisiones de GEI, sobre la base del último dato oficial disponible en la Segunda Comunicación Nacional (RA, 2007)", "pagina": 10}
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "El sector de uso del suelo,cambio en el uso del suelo y silvicultura (USCUSS) tiene una particular relevancia para la evolución futura de las emisiones netas de gases de efecto invernadero (GEI) de la Argentina",
+          "pagina": 10
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "la actualización del Inventario Nacional de Emisiones de GEI, sobre la base del último dato oficial disponible en la Segunda Comunicación Nacional (RA, 2007)",
+          "pagina": 10
+        }
       ],
       "subsecciones": []
     },
@@ -68,9 +76,21 @@
           "paginas": "12-16",
           "resumen": "Esta sección contrasta plantaciones monoespecíficas con montes multi-específicos capaces de combinar captura, producción y adaptación climática. Propone parcelas de 5.000 ha plantadas anualmente hasta 2100: el caso referencial acumula 65,6 Tg de CO2, la limitación hídrica reduce la captura a 21,2 Tg y los cultivares adaptados alcanzan 59,4 Tg. El resultado es que la adaptación genética y la gestión silvícola pueden priorizar la mitigación, pero requieren políticas de fomento por su rentabilidad comparativamente baja.",
           "dimensiones": [
-            {"dimension": "estado_de_situacion", "cita": "El estado presente del arte en el Sector es débil en cuanto a la información que ha brindado y brinda", "pagina": 12},
-            {"dimension": "tendencias", "cita": "El efecto de la limitación hídrica se manifiesta desde 2050 en adelante, porque se espera una gran variabilidad en las precipitaciones y en la frecuencia de eventos extremos (inundaciones o sequías) hacia fines del Siglo 21", "pagina": 13},
-            {"dimension": "oportunidades", "cita": "el proceso de adaptación modelado en el presente ejercicio condujo a favorecer la captura de CO2 atmosférico respecto de la producción industrial de la plantación bi-específica", "pagina": 15}
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "El estado presente del arte en el Sector es débil en cuanto a la información que ha brindado y brinda",
+              "pagina": 12
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "El efecto de la limitación hídrica se manifiesta desde 2050 en adelante, porque se espera una gran variabilidad en las precipitaciones y en la frecuencia de eventos extremos (inundaciones o sequías) hacia fines del Siglo 21",
+              "pagina": 13
+            },
+            {
+              "dimension": "oportunidades",
+              "cita": "el proceso de adaptación modelado en el presente ejercicio condujo a favorecer la captura de CO2 atmosférico respecto de la producción industrial de la plantación bi-específica",
+              "pagina": 15
+            }
           ],
           "subsecciones": []
         },
@@ -80,8 +100,16 @@
           "paginas": "17-18",
           "resumen": "La sección trata el desmonte como problema de mitigación y adaptación y evalúa REDD como complemento de la ley de conservación. Compara la renta alternativa de seis regiones forestales y muestra que el pago para conservar debe igualar o superar el ingreso neto de usos como pino, soja o ganadería. Su implicación es que detener el cambio de uso del suelo exige un diseño económico diferenciado por ecosistema y no solo una prohibición uniforme.",
           "dimensiones": [
-            {"dimension": "diagnostico_estructural", "cita": "La recientemente reglamentada Ley 26.331 de conservación de bosques nativos abre una puerta —mediante su artículo 9° reglamentado— para la gestión de los bosques nativos con el propósito de secuestrar CO2", "pagina": 17},
-            {"dimension": "propuestas_politica", "cita": "En la Argentina, la propuesta REDD sería un instrumento complementario muy necesario para conservar sus montes nativos", "pagina": 17}
+            {
+              "dimension": "oportunidades",
+              "cita": "La recientemente reglamentada Ley 26.331 de conservación de bosques nativos abre una puerta —mediante su artículo 9° reglamentado— para la gestión de los bosques nativos con el propósito de secuestrar CO2",
+              "pagina": 17
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "En la Argentina, la propuesta REDD sería un instrumento complementario muy necesario para conservar sus montes nativos",
+              "pagina": 17
+            }
           ],
           "subsecciones": []
         },
@@ -91,7 +119,11 @@
           "paginas": "19-19",
           "resumen": "La revisión reconstruye los años sin inventario mediante interpolación para 1990-2000 y extrapolación para 2000-2005, con ajustes por mínimos cuadrados. El procedimiento convierte registros discontinuos de las comunicaciones nacionales en una serie sectorial utilizable para comparar absorciones, emisiones y escenarios. La implicación climática es que la calidad de la línea base condiciona la evaluación de cualquier medida de mitigación.",
           "dimensiones": [
-            {"dimension": "avances_implementacion", "cita": "El inventario de gases de efecto invernadero del sector, elaborado recientemente (FB, 2008), es todavía válido en la actualidad", "pagina": 19}
+            {
+              "dimension": "avances_implementacion",
+              "cita": "El inventario de gases de efecto invernadero del sector, elaborado recientemente (FB, 2008), es todavía válido en la actualidad",
+              "pagina": 19
+            }
           ],
           "subsecciones": []
         },
@@ -101,8 +133,17 @@
           "paginas": "19-21",
           "resumen": "La sección proyecta dos trayectorias: una referencial donde la ley erradica el desmonte en 2050 y otra de mitigación donde lo hace en 2030. Usa tasas iniciales de desmonte, absorción por hectárea y producción industrial de rollizos para traducir cambios de superficie en emisiones; la comparación muestra absorciones 85% y 73% mayores en 2020 y 2030 bajo mitigación. Concluye que acelerar el cese del desmonte es efectivo, pero que la recuperación silvícola debe elevar también la absorción de bosques degradados.",
           "dimensiones": [
-            {"dimension": "tendencias", "cita": "La aceleración de la implementación de acciones de disminución del desmonte produce cambios de magnitud en la intensidad del sumidero de carbono nativo, particularmente en los años 2020 y 2030", "pagina": 21},
-            {"dimension": "brechas_implementacion", "subtipo_brecha": "prospectiva", "cita": "el valor medio de esa tasa anual de absorción de CO2 empleado en este informe es relativamente pequeño, tanto que se lo podría tri o cuadruplicar con ese tipo de acciones", "pagina": 21}
+            {
+              "dimension": "tendencias",
+              "cita": "La aceleración de la implementación de acciones de disminución del desmonte produce cambios de magnitud en la intensidad del sumidero de carbono nativo, particularmente en los años 2020 y 2030",
+              "pagina": 21
+            },
+            {
+              "dimension": "brechas_implementacion",
+              "subtipo_brecha": "prospectiva",
+              "cita": "el valor medio de esa tasa anual de absorción de CO2 empleado en este informe es relativamente pequeño, tanto que se lo podría tri o cuadruplicar con ese tipo de acciones",
+              "pagina": 21
+            }
           ],
           "subsecciones": []
         }
@@ -121,8 +162,16 @@
           "paginas": "22-27",
           "resumen": "La metodología simula especies hipotéticas A y B en parcelas de 5.000 ha plantadas cada año entre 2010 y 2100. A se destina a secuestrar CO2 y B a producir rollizos; la biomasa se calcula con una ecuación de crecimiento, se extraen rollizos a los 20, 40 y 60 años y se convierten existencias mediante 0,5 t de carbono por tonelada de biomasa y el factor 44/12. El modelo permite comparar perturbación climática, limitación hídrica y cultivares adaptados dentro de una misma unidad productiva.",
           "dimensiones": [
-            {"dimension": "propuestas_politica", "cita": "La especie A —la menos densamente plantada— cumple en el presente esquema la función de secuestrar CO2 de la atmósfera", "pagina": 23},
-            {"dimension": "avances_implementacion", "cita": "La gestión silvícola de la plantación consiste en extraer rollizos de la especie B a los 20, 40 y 60 años", "pagina": 24}
+            {
+              "dimension": "propuestas_politica",
+              "cita": "La especie A —la menos densamente plantada— cumple en el presente esquema la función de secuestrar CO2 de la atmósfera",
+              "pagina": 23
+            },
+            {
+              "dimension": "avances_implementacion",
+              "cita": "La gestión silvícola de la plantación consiste en extraer rollizos de la especie B a los 20, 40 y 60 años",
+              "pagina": 24
+            }
           ],
           "subsecciones": []
         },
@@ -132,8 +181,17 @@
           "paginas": "28-37",
           "resumen": "La metodología territorializa el problema del desmonte en seis regiones forestales y estima las rentas que competirían con la conservación. Selva Misionera, Monte, Espinal y otras regiones se comparan mediante productos madereros, soja y ganadería; por ejemplo, el ingreso bruto anual del productor de pino se estima en 205,2 dólares por hectárea y el del productor de rollizos nativos en 42,2. También muestra que una misma política puede enfrentar presiones económicas muy distintas según el ecosistema y el producto dominante. La consecuencia es que REDD debe calibrar pagos y esquemas productivos según la economía concreta de cada región.",
           "dimensiones": [
-            {"dimension": "oportunidades", "cita": "Un esquema REDD, que contemplase la producción sostenible de cada uno de esos productos, debería estar prácticamente hecho de medida para cada región forestal", "pagina": 35},
-            {"dimension": "brechas_implementacion", "subtipo_brecha": "retrospectiva", "cita": "Las superficies de especies nativas que se utilizan para producir leña están amenazadas por la agricultura marginal y la ganadería de cría", "pagina": 35}
+            {
+              "dimension": "oportunidades",
+              "cita": "Un esquema REDD, que contemplase la producción sostenible de cada uno de esos productos, debería estar prácticamente hecho de medida para cada región forestal",
+              "pagina": 35
+            },
+            {
+              "dimension": "brechas_implementacion",
+              "subtipo_brecha": "retrospectiva",
+              "cita": "Las superficies de especies nativas que se utilizan para producir leña están amenazadas por la agricultura marginal y la ganadería de cría",
+              "pagina": 35
+            }
           ],
           "subsecciones": []
         },
@@ -143,7 +201,11 @@
           "paginas": "37-37",
           "resumen": "La revisión metodológica estima años faltantes de las comunicaciones nacionales mediante interpolación y extrapolación ajustadas por mínimos cuadrados. El procedimiento conserva una serie sectorial desde 1990 y permite enlazar datos observados con proyecciones, aunque depende de supuestos donde faltan registros. Su función climática es hacer auditable la línea base de emisiones y absorciones.",
           "dimensiones": [
-            {"dimension": "estado_de_situacion", "cita": "Esos procedimientos se hicieron con ajustes por mínimos cuadrados", "pagina": 37}
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Esos procedimientos se hicieron con ajustes por mínimos cuadrados",
+              "pagina": 37
+            }
           ],
           "subsecciones": []
         },
@@ -153,9 +215,21 @@
           "paginas": "38-40",
           "resumen": "La proyección combina el secuestro de montes nativos con las emisiones de rollizos industriales y modela por separado la conversión de bosques y pastizales. Parte de 27.590.262 ha de monte nativo y una absorción de 1,09 Mg CO2 equivalente por hectárea y año; con tasas decrecientes de desmonte y un máximo de 2,24, compara el cese en 2050 con el cese en 2030. El cierre muestra cómo una ley aplicada con distinta velocidad modifica la trayectoria de emisiones, sin eliminar la necesidad de restauración.",
           "dimensiones": [
-            {"dimension": "estado_de_situacion", "cita": "En 2005, esa superficie —que en el informe presente se denomina TF— fue 27.821.458 ha", "pagina": 38},
-            {"dimension": "tendencias", "cita": "De la aplicación de esa tasa de crecimiento anual resultó que la producción de rollizos en 2100 fue 9.525.351 Mg de materia seca, lo que representó una emisión de 17.463.143 Mg CO2", "pagina": 39},
-            {"dimension": "propuestas_politica", "cita": "La aplicación de la ley de conservación de los montes nativos resulta en la erradicación del desmonte al término del periodo 20010-2050", "pagina": 40}
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "En 2005, esa superficie —que en el informe presente se denomina TF— fue 27.821.458 ha",
+              "pagina": 38
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "De la aplicación de esa tasa de crecimiento anual resultó que la producción de rollizos en 2100 fue 9.525.351 Mg de materia seca, lo que representó una emisión de 17.463.143 Mg CO2",
+              "pagina": 39
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "La aplicación de la ley de conservación de los montes nativos resulta en la erradicación del desmonte al término del periodo 20010-2050",
+              "pagina": 40
+            }
           ],
           "subsecciones": []
         }
@@ -163,14 +237,90 @@
     }
   ],
   "interpelacion": {
-    "gran_impulso_ambiental_concreto": {"veredicto": "Parcial", "evidencia": "El estudio propone instrumentos concretos —plantaciones mixtas, cultivares adaptados, conservación legal y REDD— y conecta captura, productividad forestal y adaptación. Sin embargo, no configura un paquete masivo y coordinado de transformación del modelo de desarrollo ni una agenda transversal de sectores estratégicos; es un estudio sectorial con medidas modeladas y lineamientos.", "citas": [{"cita": "En la Argentina, la propuesta REDD sería un instrumento complementario muy necesario para conservar sus montes nativos", "pagina": 17}], "nota": "El instrumento existe, pero el test de inversión coordinada a escala de modelo no queda satisfecho."},
-    "articulacion_actores": {"veredicto": "No", "evidencia": "El documento identifica organismos y fuentes de información, pero no describe un mecanismo institucional vigente o propuesto que coordine múltiples tipos de actores para ejecutar la acción climática en Argentina. La elaboración del estudio y la mención de ministerios no sustituyen una arquitectura de gobernanza del sector.", "citas": [{"cita": "Existen en principio otras acciones plausibles de mitigación —por ejemplo, la gestión de los espacios verdes de los grandes centros urbanos (EPA, 2009)— y de adaptación al cambio climático", "pagina": 10}], "nota": "La capacidad potencial se menciona, pero no se acredita un mecanismo de articulación."},
-    "oportunidades_productivas_sostenibles": {"veredicto": "Parcial", "evidencia": "El documento enumera plantaciones mixtas, producción de rollizos, madera aserrada, soja y ganadería como usos alternativos y cuantifica rentas. No desarrolla de manera suficiente el vínculo con empleo, productividad inclusiva o reducción de desigualdades; las oportunidades aparecen como competencia económica por el suelo y como fuente de financiamiento de la captura.", "citas": [{"cita": "La sustitución del monte nativo por una plantación de pinos, que es una especie exótica corrientemente cultivada en Misiones, resultaría en el ingreso bruto que se muestra en el cuadro 22", "pagina": 35}], "nota": "Hay oportunidades productivas identificables, pero falta el desarrollo laboral/distributivo exigido para Sí."},
-    "como_hacerlo_concreto": {"veredicto": "Parcial", "evidencia": "El cierre operativo está distribuido en medidas y escenarios, no en una lista formal de recomendaciones. Los ítems se reconstruyen del bloque de lineamientos: algunos identifican instrumentos y objetos ejecutables, mientras otros expresan capacidades o metas generales; por eso el resultado es mixto.", "citas": [{"cita": "Este hecho insinúa que la potenciación del sumidero nativo debería también buscarse en el aumento de la tasa anual promedio de absorción de CO2 mediante acciones silvícolas para recuperar las áreas boscosas que se encuentran en diversos estados de degradación", "pagina": 21}], "desglose_items": [{"item": "Complementar la ley de conservación con un esquema REDD ajustado a la renta alternativa regional", "clasificacion": "CONCRETO", "pagina": 17}, {"item": "Implantar montes multi-específicos de 5.000 ha anuales hasta 2100", "clasificacion": "CONCRETO", "pagina": 24}, {"item": "Desarrollar cultivares adaptados a condiciones de estrés hídrico", "clasificacion": "CONCRETO", "pagina": 15}, {"item": "Aumentar la tasa anual de absorción mediante acciones silvícolas de recuperación", "clasificacion": "CONCRETO", "pagina": 21}, {"item": "Contar con políticas de fomento oficial", "clasificacion": "GENERICO", "pagina": 15}], "tally": "4 de 5 ítems pasan el test de concreción", "nota": "El desglose sintetiza acciones propuestas o recomendadas en el análisis y no una sección formal titulada recomendaciones."}
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El estudio propone instrumentos concretos —plantaciones mixtas, cultivares adaptados, conservación legal y REDD— y conecta captura, productividad forestal y adaptación. Sin embargo, no configura un paquete masivo y coordinado de transformación del modelo de desarrollo ni una agenda transversal de sectores estratégicos; es un estudio sectorial con medidas modeladas y lineamientos.",
+      "citas": [
+        {
+          "cita": "En la Argentina, la propuesta REDD sería un instrumento complementario muy necesario para conservar sus montes nativos",
+          "pagina": 17
+        }
+      ],
+      "nota": "El instrumento existe, pero el test de inversión coordinada a escala de modelo no queda satisfecho."
+    },
+    "articulacion_actores": {
+      "veredicto": "No",
+      "evidencia": "El documento identifica organismos y fuentes de información, pero no describe un mecanismo institucional vigente o propuesto que coordine múltiples tipos de actores para ejecutar la acción climática en Argentina. La elaboración del estudio y la mención de ministerios no sustituyen una arquitectura de gobernanza del sector.",
+      "citas": [
+        {
+          "cita": "Existen en principio otras acciones plausibles de mitigación —por ejemplo, la gestión de los espacios verdes de los grandes centros urbanos (EPA, 2009)— y de adaptación al cambio climático",
+          "pagina": 10
+        }
+      ],
+      "nota": "La capacidad potencial se menciona, pero no se acredita un mecanismo de articulación."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento enumera plantaciones mixtas, producción de rollizos, madera aserrada, soja y ganadería como usos alternativos y cuantifica rentas. No desarrolla de manera suficiente el vínculo con empleo, productividad inclusiva o reducción de desigualdades; las oportunidades aparecen como competencia económica por el suelo y como fuente de financiamiento de la captura.",
+      "citas": [
+        {
+          "cita": "La sustitución del monte nativo por una plantación de pinos, que es una especie exótica corrientemente cultivada en Misiones, resultaría en el ingreso bruto que se muestra en el cuadro 22",
+          "pagina": 35
+        }
+      ],
+      "nota": "Hay oportunidades productivas identificables, pero falta el desarrollo laboral/distributivo exigido para Sí."
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El cierre operativo está distribuido en medidas y escenarios, no en una lista formal de recomendaciones. Los ítems se reconstruyen del bloque de lineamientos: algunos identifican instrumentos y objetos ejecutables, mientras otros expresan capacidades o metas generales; por eso el resultado es mixto.",
+      "citas": [
+        {
+          "cita": "Este hecho insinúa que la potenciación del sumidero nativo debería también buscarse en el aumento de la tasa anual promedio de absorción de CO2 mediante acciones silvícolas para recuperar las áreas boscosas que se encuentran en diversos estados de degradación",
+          "pagina": 21
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Complementar la ley de conservación con un esquema REDD ajustado a la renta alternativa regional",
+          "clasificacion": "CONCRETO",
+          "pagina": 17
+        },
+        {
+          "item": "Implantar montes multi-específicos de 5.000 ha anuales hasta 2100",
+          "clasificacion": "CONCRETO",
+          "pagina": 24
+        },
+        {
+          "item": "Desarrollar cultivares adaptados a condiciones de estrés hídrico",
+          "clasificacion": "CONCRETO",
+          "pagina": 15
+        },
+        {
+          "item": "Aumentar la tasa anual de absorción mediante acciones silvícolas de recuperación",
+          "clasificacion": "CONCRETO",
+          "pagina": 21
+        },
+        {
+          "item": "Contar con políticas de fomento oficial",
+          "clasificacion": "GENERICO",
+          "pagina": 15
+        }
+      ],
+      "tally": "4 de 5 ítems pasan el test de concreción",
+      "nota": "El desglose sintetiza acciones propuestas o recomendadas en el análisis y no una sección formal titulada recomendaciones."
+    }
   },
   "tipologia": {
-    "transformacion_primaria": {"numero": 6, "nombre": "Sostenibilidad ambiental", "certeza": "Alta"},
-    "transformacion_secundaria": {"numero": 11, "nombre": "Capacidades del Estado", "certeza": "Media"},
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Media"
+    },
     "razonamiento_5_pasos": {
       "tension_dialectica": "El documento enfrenta la necesidad de aumentar la captura de CO2 con la renta que genera la extracción de madera y con la presión por convertir montes nativos a usos más rentables. Procesa esa tensión mediante plantaciones mixtas, adaptación genética, regulación del desmonte e incentivos REDD, de modo que la producción sea un medio subordinado a la mitigación y la conservación.",
       "filtro_categoria_primaria": "El objeto del método y del cierre es transformar la trayectoria climática del sector: modela absorción, estrés hídrico, desmonte y escenarios de mitigación hasta 2100. Se descarta #11 como primaria porque las leyes, inventarios y capacidades públicas son instrumentos habilitadores, no el objeto estructurante; la alternativa más cercana es capacidades del Estado, pero el hallazgo central es climático-sectorial.",

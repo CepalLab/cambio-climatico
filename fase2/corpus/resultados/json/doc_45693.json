@@ -129,7 +129,7 @@
       "resumen": "Explícita los supuestos económicos y analíticos del ejercicio de estática comparativa (ceteris paribus). Se asume que los hogares agrícolas y no agrícolas mantienen inalterada su participación en la actividad agrícola; que la temperatura y la precipitación son las únicas variables exógenas que varían entre el presente y el horizonte de proyección; y que los precios agrícolas y de insumos permanecen constantes ante el cambio climático, omitiendo posibles efectos de ajuste de equilibrio general que podrían compensar o agravar las pérdidas en los ingresos rurales.",
       "dimensiones": [
         {
-          "dimension": "diagnostico_estructural",
+          "dimension": "contexto_antecedentes",
           "cita": "Es importante destacar que los resultados del estudio, más que predicciones, deben verse como un reflejo de los efectos potenciales del cambio climático suponiendo que todo lo demás permaneciera constante.",
           "pagina": 6
         },
@@ -210,7 +210,7 @@
       "resumen": "Cuantifica las sensibilidades marginales del ingreso agrícola per cápita anual ante variaciones climáticas. En el agregado anual, un incremento de 1°C en la temperatura genera una contracción de 927,77 pesos (casi 1.000 pesos), mientras que una reducción de 1 mm de lluvia disminuye el ingreso en 105,51 pesos. En el análisis estacional, el impacto térmico más severo ocurre en primavera, donde un aumento de 1°C provocaría una caída de más de 2.500 pesos en el ingreso agrícola de los hogares productores, lo que representa cerca del 20% de su ingreso total anual promedio.",
       "dimensiones": [
         {
-          "dimension": "diagnostico_estructural",
+          "dimension": "estado_de_situacion",
           "cita": "De manera general, es posible analizar que un incremento de un grado centígrado en la temperatura en todas las estaciones, podría resultar en una disminución de casi 1.000 pesos en el ingreso agrícola per cápita anual.",
           "pagina": 9
         },

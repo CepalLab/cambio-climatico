@@ -1,0 +1,37 @@
+{
+  "version": "promocion-v1",
+  "created_at": "2026-08-24T19:52:47+00:00",
+  "result_path": "fase2\\corpus\\resultados\\json\\doc_46853.json",
+  "result_sha256": "4b0af26b9dd755ba1d3ef287bc418a124b454e28ace11759d3e0013684a5b783",
+  "indice_sha256": "7987d79d8a7f347e8bc60729a2126dfe83d493f21129a465feec53754c469fe1",
+  "page_source_sha256": "e3d4fd6d255ff28cb8858c3d63c6b80c5519e5b496908a600093b6c0b6325b91",
+  "review_matrix_sha256": null,
+  "checks": [
+    {
+      "name": "esquema",
+      "exit_code": 0,
+      "report": "fase3\\reporte_validacion_esquema.txt"
+    },
+    {
+      "name": "indice",
+      "exit_code": 0,
+      "report": "fase3\\reporte_validacion_indice.txt"
+    },
+    {
+      "name": "orden",
+      "exit_code": 0,
+      "report": "fase3\\reporte_validacion_orden.txt"
+    },
+    {
+      "name": "citas",
+      "exit_code": 0,
+      "report": "fase3\\reporte_validacion_citas.txt"
+    },
+    {
+      "name": "titulos_cobertura",
+      "exit_code": 0,
+      "report": "fase3\\reporte_validacion_titulos_cobertura.txt"
+    }
+  ],
+  "ok": true
+}

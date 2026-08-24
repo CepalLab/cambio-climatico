@@ -1,6 +1,6 @@
 {
   "documento": {
-    "num_muestra": null,
+    "num_muestra": 51,
     "titulo": "Efectos potenciales de un impuesto al carbono sobre el producto interno bruto en los países de América Latina",
     "autoria": "Luis Miguel Galindo | Allan Beltrán | Jimy Ferrer Carbonell | José Eduardo Alatorre",
     "handle": "https://hdl.handle.net/11362/41867",
@@ -41,7 +41,7 @@
       "nota": "El documento es de naturaleza analítica y de estimación preliminar, no de recomendación de política. Las 'recomendaciones' del cierre son de carácter general: complementar con análisis detallado por país y considerar la RFA como marco. No formula una agenda de acción operativa concreta."
     },
     "resumen_narrativo": "Este estudio de la CEPAL aplica un meta-análisis de 262 estimaciones provenientes de 35 modelos de equilibrio general computable para simular los efectos de un impuesto al carbono sobre el PIB en 18 países latinoamericanos. Los resultados muestran que los efectos están condicionados por el nivel de desarrollo, la intensidad energética y los esquemas de reciclaje fiscal: mientras la OCDE enfrenta impactos negativos, los países en desarrollo no miembros podrían beneficiarse incluso sin reutilización de ingresos. Las simulaciones indican que un impuesto de 50 dólares/tCO2e con reducción de impuestos al capital o al trabajo generaría un doble dividendo en la mayoría de los países de la región, con beneficios de hasta 8,26% del PIB en el caso más favorable."
-    },
+  },
   "resumen_secciones": [
     {
       "seccion": "Introducción",
@@ -91,7 +91,7 @@
               "pagina": 12
             },
             {
-              "dimension": "tendencias",
+              "dimension": "estado_de_situacion",
               "cita": "La evidencia internacional disponible sobre los efectos de un impuesto al carbono aún es incipiente y heterogénea",
               "pagina": 11
             },

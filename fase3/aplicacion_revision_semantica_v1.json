@@ -1,0 +1,543 @@
+{
+  "version": "aplicacion-revision-semantica-v1",
+  "generado_en": "2026-08-24T19:52:09+00:00",
+  "cambios": [
+    {
+      "caso": "1",
+      "handle": "https://hdl.handle.net/11362/42355",
+      "accion": "reclasificar",
+      "antes": "avances_implementacion",
+      "despues": "propuestas_politica"
+    },
+    {
+      "caso": "2",
+      "handle": "https://hdl.handle.net/11362/46101",
+      "accion": "reclasificar",
+      "antes": "avances_implementacion",
+      "despues": "contexto_antecedentes"
+    },
+    {
+      "caso": "5",
+      "handle": "https://hdl.handle.net/11362/68639",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "contexto_antecedentes"
+    },
+    {
+      "caso": "7",
+      "handle": "https://hdl.handle.net/11362/69075",
+      "accion": "reclasificar",
+      "antes": "propuestas_politica",
+      "despues": "estado_de_situacion"
+    },
+    {
+      "caso": "9",
+      "handle": "https://hdl.handle.net/11362/37879",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "estado_de_situacion"
+    },
+    {
+      "caso": "10",
+      "handle": "https://hdl.handle.net/11362/37910",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "estado_de_situacion"
+    },
+    {
+      "caso": "11",
+      "handle": "https://hdl.handle.net/11362/38120",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "propuestas_politica"
+    },
+    {
+      "caso": "13",
+      "handle": "https://hdl.handle.net/11362/39135",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "oportunidades"
+    },
+    {
+      "caso": "14",
+      "handle": "https://hdl.handle.net/11362/39149",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "estado_de_situacion"
+    },
+    {
+      "caso": "15",
+      "handle": "https://hdl.handle.net/11362/39360",
+      "accion": "reclasificar",
+      "antes": "propuestas_politica",
+      "despues": "avances_implementacion"
+    },
+    {
+      "caso": "16",
+      "handle": "https://hdl.handle.net/11362/39367",
+      "accion": "reclasificar",
+      "antes": "avances_implementacion",
+      "despues": "propuestas_politica"
+    },
+    {
+      "caso": "19",
+      "handle": "https://hdl.handle.net/11362/39661",
+      "accion": "reclasificar",
+      "antes": "propuestas_politica",
+      "despues": "estado_de_situacion"
+    },
+    {
+      "caso": "21",
+      "handle": "https://hdl.handle.net/11362/39855",
+      "accion": "reclasificar",
+      "antes": "avances_implementacion",
+      "despues": "estado_de_situacion"
+    },
+    {
+      "caso": "22",
+      "handle": "https://hdl.handle.net/11362/40297",
+      "accion": "reclasificar",
+      "antes": "tendencias",
+      "despues": "diagnostico_estructural"
+    },
+    {
+      "caso": "23",
+      "handle": "https://hdl.handle.net/11362/40297",
+      "accion": "reclasificar",
+      "antes": "oportunidades",
+      "despues": "estado_de_situacion"
+    },
+    {
+      "caso": "25",
+      "handle": "https://hdl.handle.net/11362/40887",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "brechas_implementacion"
+    },
+    {
+      "caso": "26",
+      "handle": "https://hdl.handle.net/11362/40887",
+      "accion": "reclasificar",
+      "antes": "propuestas_politica",
+      "despues": "brechas_implementacion"
+    },
+    {
+      "caso": "28",
+      "handle": "https://hdl.handle.net/11362/41041",
+      "accion": "reclasificar",
+      "antes": "brechas_implementacion",
+      "despues": "desafios"
+    },
+    {
+      "caso": "30",
+      "handle": "https://hdl.handle.net/11362/41867",
+      "accion": "reclasificar",
+      "antes": "tendencias",
+      "despues": "estado_de_situacion"
+    },
+    {
+      "caso": "33",
+      "handle": "https://hdl.handle.net/11362/42140",
+      "accion": "reclasificar",
+      "antes": "avances_implementacion",
+      "despues": "propuestas_politica"
+    },
+    {
+      "caso": "35",
+      "handle": "https://hdl.handle.net/11362/42527",
+      "accion": "reclasificar",
+      "antes": "propuestas_politica",
+      "despues": "brechas_implementacion"
+    },
+    {
+      "caso": "36",
+      "handle": "https://hdl.handle.net/11362/42725",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "propuestas_politica"
+    },
+    {
+      "caso": "37",
+      "handle": "https://hdl.handle.net/11362/43159",
+      "accion": "reclasificar",
+      "antes": "tendencias",
+      "despues": "estado_de_situacion"
+    },
+    {
+      "caso": "38",
+      "handle": "https://hdl.handle.net/11362/43159",
+      "accion": "reclasificar",
+      "antes": "propuestas_politica",
+      "despues": "contexto_antecedentes"
+    },
+    {
+      "caso": "40",
+      "handle": "https://hdl.handle.net/11362/43419",
+      "accion": "ya_aplicado",
+      "dimension": "propuestas_politica"
+    },
+    {
+      "caso": "41",
+      "handle": "https://hdl.handle.net/11362/43725",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "tendencias"
+    },
+    {
+      "caso": "42",
+      "handle": "https://hdl.handle.net/11362/43725",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "estado_de_situacion"
+    },
+    {
+      "caso": "43",
+      "handle": "https://hdl.handle.net/11362/44210",
+      "accion": "reclasificar",
+      "antes": "avances_implementacion",
+      "despues": "propuestas_politica"
+    },
+    {
+      "caso": "44",
+      "handle": "https://hdl.handle.net/11362/44210",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "propuestas_politica"
+    },
+    {
+      "caso": "46",
+      "handle": "https://hdl.handle.net/11362/44210",
+      "accion": "reclasificar",
+      "antes": "tendencias",
+      "despues": "propuestas_politica"
+    },
+    {
+      "caso": "47",
+      "handle": "https://hdl.handle.net/11362/44216",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "contexto_antecedentes"
+    },
+    {
+      "caso": "48",
+      "handle": "https://hdl.handle.net/11362/44218",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "contexto_antecedentes"
+    },
+    {
+      "caso": "49",
+      "handle": "https://hdl.handle.net/11362/44280",
+      "accion": "reclasificar",
+      "antes": "tendencias",
+      "despues": "estado_de_situacion"
+    },
+    {
+      "caso": "54",
+      "handle": "https://hdl.handle.net/11362/44584",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "estado_de_situacion"
+    },
+    {
+      "caso": "56",
+      "handle": "https://hdl.handle.net/11362/44590",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "propuestas_politica"
+    },
+    {
+      "caso": "57",
+      "handle": "https://hdl.handle.net/11362/45023",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "estado_de_situacion"
+    },
+    {
+      "caso": "58",
+      "handle": "https://hdl.handle.net/11362/45023",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "propuestas_politica"
+    },
+    {
+      "caso": "60",
+      "handle": "https://hdl.handle.net/11362/45604",
+      "accion": "reclasificar",
+      "antes": "avances_implementacion",
+      "despues": "propuestas_politica"
+    },
+    {
+      "caso": "61",
+      "handle": "https://hdl.handle.net/11362/45604",
+      "accion": "reclasificar",
+      "antes": "avances_implementacion",
+      "despues": "estado_de_situacion"
+    },
+    {
+      "caso": "62",
+      "handle": "https://hdl.handle.net/11362/45677",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "estado_de_situacion"
+    },
+    {
+      "caso": "63",
+      "handle": "https://hdl.handle.net/11362/45677",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "propuestas_politica"
+    },
+    {
+      "caso": "64",
+      "handle": "https://hdl.handle.net/11362/45677",
+      "accion": "reclasificar",
+      "antes": "propuestas_politica",
+      "despues": "brechas_implementacion"
+    },
+    {
+      "caso": "65",
+      "handle": "https://hdl.handle.net/11362/45677",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "propuestas_politica"
+    },
+    {
+      "caso": "67",
+      "handle": "https://hdl.handle.net/11362/45693",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "contexto_antecedentes"
+    },
+    {
+      "caso": "69",
+      "handle": "https://hdl.handle.net/11362/45693",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "estado_de_situacion"
+    },
+    {
+      "caso": "70",
+      "handle": "https://hdl.handle.net/11362/45697",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "propuestas_politica"
+    },
+    {
+      "caso": "71",
+      "handle": "https://hdl.handle.net/11362/45697",
+      "accion": "reclasificar",
+      "antes": "propuestas_politica",
+      "despues": "contexto_antecedentes"
+    },
+    {
+      "caso": "72",
+      "handle": "https://hdl.handle.net/11362/45697",
+      "accion": "excluir_dimension",
+      "antes": "propuestas_politica",
+      "despues": null
+    },
+    {
+      "caso": "74",
+      "handle": "https://hdl.handle.net/11362/45699",
+      "accion": "reclasificar",
+      "antes": "propuestas_politica",
+      "despues": "estado_de_situacion"
+    },
+    {
+      "caso": "76",
+      "handle": "https://hdl.handle.net/11362/45699",
+      "accion": "reclasificar",
+      "antes": "propuestas_politica",
+      "despues": "contexto_antecedentes"
+    },
+    {
+      "caso": "78",
+      "handle": "https://hdl.handle.net/11362/45703",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "estado_de_situacion"
+    },
+    {
+      "caso": "79",
+      "handle": "https://hdl.handle.net/11362/46227",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "propuestas_politica"
+    },
+    {
+      "caso": "80",
+      "handle": "https://hdl.handle.net/11362/46227",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "propuestas_politica"
+    },
+    {
+      "caso": "82",
+      "handle": "https://hdl.handle.net/11362/46499",
+      "accion": "reclasificar",
+      "antes": "avances_implementacion",
+      "despues": "propuestas_politica"
+    },
+    {
+      "caso": "83",
+      "handle": "https://hdl.handle.net/11362/46682",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "propuestas_politica"
+    },
+    {
+      "caso": "84",
+      "handle": "https://hdl.handle.net/11362/46853",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "estado_de_situacion"
+    },
+    {
+      "caso": "85",
+      "handle": "https://hdl.handle.net/11362/47534",
+      "accion": "reclasificar",
+      "antes": "avances_implementacion",
+      "despues": "estado_de_situacion"
+    },
+    {
+      "caso": "86",
+      "handle": "https://hdl.handle.net/11362/47730",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "contexto_antecedentes"
+    },
+    {
+      "caso": "87",
+      "handle": "https://hdl.handle.net/11362/47730",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "contexto_antecedentes"
+    },
+    {
+      "caso": "88",
+      "handle": "https://hdl.handle.net/11362/47730",
+      "accion": "ya_aplicado",
+      "dimension": "estado_de_situacion"
+    },
+    {
+      "caso": "90",
+      "handle": "https://hdl.handle.net/11362/47883",
+      "accion": "reclasificar",
+      "antes": "avances_implementacion",
+      "despues": "propuestas_politica"
+    },
+    {
+      "caso": "91",
+      "handle": "https://hdl.handle.net/11362/47883",
+      "accion": "reclasificar",
+      "antes": "propuestas_politica",
+      "despues": "oportunidades"
+    },
+    {
+      "caso": "93",
+      "handle": "https://hdl.handle.net/11362/47903",
+      "accion": "reclasificar",
+      "antes": "propuestas_politica",
+      "despues": "estado_de_situacion"
+    },
+    {
+      "caso": "94",
+      "handle": "https://hdl.handle.net/11362/48122",
+      "accion": "reclasificar",
+      "antes": "propuestas_politica",
+      "despues": "contexto_antecedentes"
+    },
+    {
+      "caso": "97",
+      "handle": "https://hdl.handle.net/11362/48611",
+      "accion": "reclasificar",
+      "antes": "avances_implementacion",
+      "despues": "propuestas_politica"
+    },
+    {
+      "caso": "98",
+      "handle": "https://hdl.handle.net/11362/48823",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "propuestas_politica"
+    },
+    {
+      "caso": "99",
+      "handle": "https://hdl.handle.net/11362/48823",
+      "accion": "reclasificar",
+      "antes": "propuestas_politica",
+      "despues": "desafios"
+    },
+    {
+      "caso": "100",
+      "handle": "https://hdl.handle.net/11362/49053",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "estado_de_situacion"
+    },
+    {
+      "caso": "102",
+      "handle": "https://hdl.handle.net/11362/68644",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "propuestas_politica"
+    },
+    {
+      "caso": "107",
+      "handle": "https://hdl.handle.net/11362/68761",
+      "accion": "reclasificar",
+      "antes": "propuestas_politica",
+      "despues": "contexto_antecedentes"
+    },
+    {
+      "caso": "109",
+      "handle": "https://hdl.handle.net/11362/80499",
+      "accion": "reclasificar",
+      "antes": "propuestas_politica",
+      "despues": "brechas_implementacion"
+    },
+    {
+      "caso": "110",
+      "handle": "https://hdl.handle.net/11362/80561",
+      "accion": "reclasificar",
+      "antes": "propuestas_politica",
+      "despues": "oportunidades"
+    },
+    {
+      "caso": "113",
+      "handle": "https://hdl.handle.net/11362/81886",
+      "accion": "reclasificar",
+      "antes": "avances_implementacion",
+      "despues": "propuestas_politica"
+    },
+    {
+      "caso": "114",
+      "handle": "https://hdl.handle.net/11362/81886",
+      "accion": "reclasificar",
+      "antes": "avances_implementacion",
+      "despues": "propuestas_politica"
+    },
+    {
+      "caso": "116",
+      "handle": "https://hdl.handle.net/11362/82476",
+      "accion": "reclasificar",
+      "antes": "propuestas_politica",
+      "despues": "avances_implementacion"
+    },
+    {
+      "caso": "117",
+      "handle": "https://hdl.handle.net/11362/86527",
+      "accion": "reclasificar",
+      "antes": "diagnostico_estructural",
+      "despues": "estado_de_situacion"
+    }
+  ],
+  "errores": [],
+  "resultado": {
+    "decisiones_procesadas": 117,
+    "cambios_o_ya_aplicados": 76,
+    "errores": 0,
+    "archivos_modificados": 54
+  }
+}

@@ -1,35 +1,36 @@
 {
   "version": "promocion-v1",
-  "created_at": "2026-08-20T14:33:12+00:00",
-  "result_path": "corpus/intermedios/11362/49053/borrador_preprueba.json",
-  "result_sha256": "1dba0cd874da90f59d3a0277ac058cb1f637dd5244baa04325d11486efbf0623",
+  "created_at": "2026-08-24T19:59:41+00:00",
+  "result_path": "fase2\\corpus\\resultados\\json\\doc_49053.json",
+  "result_sha256": "bafce2a778393057c498a795ca0eeb326ab9867a20e698211e4d6d4db6921a54",
   "indice_sha256": "619305d0f2dca85339e83f4af58639f1a80f1896b3a758b4820584a60d596b6c",
   "page_source_sha256": "1473b4749ed4f5e9dc6f4fcee66c075e69ebe520ef83d824c19c81c4bbdd56f6",
+  "review_matrix_sha256": null,
   "checks": [
     {
       "name": "esquema",
       "exit_code": 0,
-      "report": "corpus/intermedios/11362/49053/reporte_validacion_esquema.txt"
+      "report": "fase3\\reporte_validacion_esquema.txt"
     },
     {
       "name": "indice",
       "exit_code": 0,
-      "report": "corpus/intermedios/11362/49053/reporte_validacion_indice.txt"
+      "report": "fase3\\reporte_validacion_indice.txt"
     },
     {
       "name": "orden",
       "exit_code": 0,
-      "report": "corpus/intermedios/11362/49053/reporte_validacion_orden.txt"
+      "report": "fase3\\reporte_validacion_orden.txt"
     },
     {
       "name": "citas",
       "exit_code": 0,
-      "report": "corpus/intermedios/11362/49053/reporte_validacion_citas.txt"
+      "report": "fase3\\reporte_validacion_citas.txt"
     },
     {
       "name": "titulos_cobertura",
       "exit_code": 0,
-      "report": "corpus/intermedios/11362/49053/reporte_validacion_titulos_cobertura.txt"
+      "report": "fase3\\reporte_validacion_titulos_cobertura.txt"
     }
   ],
   "ok": true

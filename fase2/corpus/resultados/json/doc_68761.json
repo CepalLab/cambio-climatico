@@ -51,8 +51,16 @@
       "paginas": "9-9",
       "resumen": "La introducción fija el problema de política: el Acuerdo de París exige reducciones de emisiones de gran magnitud y un cambio estructural acelerado, mientras la especialización regional en recursos naturales vuelve vulnerable a América Latina y el Caribe. Define como objetivo estimar la exposición macroeconómica a industrias declinantes mediante empleo, exportaciones e ingresos fiscales, y vincula esos resultados con el modelo de las tres brechas para relacionar desarrollo inclusivo, estructura económica y sostenibilidad ambiental.",
       "dimensiones": [
-        {"dimension": "diagnostico_estructural", "cita": "El patrón de especialización de economías como las de América Latina y el Caribe, ligados a la explotación de recursos naturales, hace particularmente vulnerable a la región ante estos cambios.", "pagina": 9},
-        {"dimension": "propuestas_politica", "cita": "el documento vincula los resultados al modelo de las tres brechas (CEPAL, 2020) en el cual se presenta la interrelación entre los objetivos sociales, económicos y ambientales", "pagina": 9}
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "El patrón de especialización de economías como las de América Latina y el Caribe, ligados a la explotación de recursos naturales, hace particularmente vulnerable a la región ante estos cambios.",
+          "pagina": 9
+        },
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "el documento vincula los resultados al modelo de las tres brechas (CEPAL, 2020) en el cual se presenta la interrelación entre los objetivos sociales, económicos y ambientales",
+          "pagina": 9
+        }
       ],
       "subsecciones": []
     },
@@ -63,18 +71,138 @@
       "resumen": "Este bloque explica por qué la transición verde puede afectar simultáneamente divisas, ingresos públicos y empleo en economías dependientes de sectores intensivos en carbono. Presenta la metodología insumo-producto y descompone la exposición externa, fiscal y socioeconómica, incluyendo la capacidad productiva para migrar a productos verdes y la necesidad de políticas de empleo y protección social.",
       "dimensiones": [],
       "subsecciones": [
-        {"seccion": "A. Metodología", "nivel": 2, "paginas": "12-15", "resumen": "La metodología adapta el trabajo de Espagne et al. (2023) a una matriz insumo-producto regional para identificar emisiones directas, aguas arriba y aguas abajo por sector-país. El bloque explica cómo la matriz híbrida incorpora flujos físicos y cómo las inversas de Leontief y Ghosh permiten atribuir emisiones a cadenas de insumos y usuarios; termina definiendo la exposición externa como dependencia del valor agregado de exportaciones asociado a industrias declinantes.", "dimensiones": [], "subsecciones": [
-          {"seccion": "1. Intensidad de emisiones", "nivel": 3, "paginas": "12-12", "resumen": "Define la intensidad de emisiones como base para identificar industrias potencialmente declinantes durante la transición baja en carbono. El criterio distingue actividades que deberían perder importancia por su daño ambiental de aquellas que, aun siendo intensivas en emisiones, sustituyen procesos más contaminantes; la metodología parte de matrices de CEPAL para 18 países y de fuentes externas de emisiones directas y de encadenamientos productivos.", "dimensiones": [{"dimension": "estado_de_situacion", "cita": "Se espera que las industrias con una contribución sustancial a la descarbonización crezcan, mientras que se espera que las industrias que tienen un daño ambiental significativo pierdan importancia.", "pagina": 12}], "subsecciones": []},
-          {"seccion": "2. Matriz y esquema insumo-producto", "nivel": 3, "paginas": "12-13", "resumen": "Explica la unidad sector-país y separa destinos intermedios, demanda final regional y demanda extrazona, así como insumos regionales, extrarregionales y valor agregado. El esquema fundamenta la medición de cadenas de valor y permite adaptar métricas globales a una matriz latinoamericana donde el comercio regional y extrarregional cumple funciones distintas.", "dimensiones": [{"dimension": "contexto_antecedentes", "cita": "La unidad básica de análisis de una matriz insumo producto regional es el sector-país.", "pagina": 13}], "subsecciones": []},
-          {"seccion": "3. Emisiones directas", "nivel": 3, "paginas": "13-13", "resumen": "Establece la medida de emisiones directas usada en el estudio: toneladas de CO2 equivalente por dólar de producción, incluyendo gases de efecto invernadero distintos del CO2. La fuente EORA-26 aporta los datos por sector y país, y el indicador se define relacionando las emisiones brutas con la producción del sector-país latinoamericano.", "dimensiones": [{"dimension": "estado_de_situacion", "cita": "La intensidad de emisión se define como la relación de emisiones de CO2 equivalente por dólar.", "pagina": 13}], "subsecciones": []},
-          {"seccion": "4. Emisiones aguas arriba", "nivel": 3, "paginas": "14-14", "resumen": "Calcula las emisiones indirectas incorporadas en insumos regionales y extrarregionales mediante la matriz inversa de Leontief. El procedimiento incluye las emisiones necesarias para producir los insumos de los insumos y separa la contribución de proveedores de fuera de la región, lo que permite medir la huella de las cadenas productivas con mayor cobertura.", "dimensiones": [{"dimension": "diagnostico_estructural", "cita": "Para estimar las emisiones indirectas aguas arriba, debemos considerar las emisiones incorporadas en los insumos directos, pero también las emisiones incorporadas en todos los insumos necesarios para producir estos insumos.", "pagina": 14}], "subsecciones": []},
-          {"seccion": "5. Emisiones aguas abajo", "nivel": 3, "paginas": "15-15", "resumen": "Usa el modelo de Ghosh adaptado a la matriz regional para estimar las emisiones que surgen cuando otros sectores utilizan los bienes y servicios producidos por las actividades bajo estudio. El texto advierte que no es posible identificar las emisiones aguas abajo de la demanda extrarregional porque la matriz registra el país de destino, pero no el sector que utiliza la producción.", "dimensiones": [{"dimension": "desafios", "cita": "Cabe aclarar que, a diferencia de las emisiones aguas arriba, no es posible determinar las emisiones aguas debajo de la demanda extrarregional.", "pagina": 15}], "subsecciones": []}
-        ]},
-        {"seccion": "B. Estimación de la exposición a industrias declinantes", "nivel": 2, "paginas": "15-17", "resumen": "Este bloque convierte la identificación de sectores declinantes en tres medidas de exposición macroeconómica: dependencia de exportaciones, ingresos fiscales y empleo. Reconoce que la exposición no equivale automáticamente a vulnerabilidad, pues la capacidad tecnológica para migrar a productos verdes y la posibilidad de trasladar la presión fiscal hacia actividades más verdes modifican el riesgo; además incorpora la dimensión distributiva y la protección social.", "dimensiones": [], "subsecciones": [
-          {"seccion": "1. Exposición externa", "nivel": 3, "paginas": "15-16", "resumen": "Mide las divisas que podrían perderse si disminuyen las exportaciones de industrias declinantes, descontando insumos importados mediante el valor agregado bruto exportado. El argumento conecta la baja diversificación y la limitada competitividad verde con posibles restricciones de balanza de pagos, y usa el Potencial de Complejidad Verde para distinguir exposición de capacidad efectiva de adaptación productiva.", "dimensiones": [{"dimension": "brechas_implementacion", "cita": "La mayor demanda de divisas y la reducción de su oferta debido a la transición baja en carbono pueden conducir a restricciones de balanza de pagos en algunos países, dañando la estabilidad macroeconómica y, por lo tanto, el crecimiento sostenible en el largo plazo.", "pagina": 15, "subtipo_brecha": "prospectiva"}], "subsecciones": []},
-          {"seccion": "2. Exposición fiscal", "nivel": 3, "paginas": "16-17", "resumen": "Define la exposición fiscal como la dependencia de los ingresos públicos respecto de sectores declinantes y distingue esa exposición de la vulnerabilidad fiscal. El análisis exige considerar si el país puede cambiar la composición de su tributación a medida que se contraen esas industrias; la selección de datos privilegia ingresos directos y no tributarios relevantes, como regalías, además de impuestos a la renta e IVA.", "dimensiones": [{"dimension": "brechas_implementacion", "cita": "Cuanto mayor sea la dependencia de las industrias en extinción como fuente de ingresos fiscales, mayor será el impacto fiscal de reducir el tamaño de estas industrias si el país no puede encontrar otras fuentes de ingresos.", "pagina": 16, "subtipo_brecha": "prospectiva"}], "subsecciones": []},
-          {"seccion": "3. Exposición socioeconómica", "nivel": 3, "paginas": "17-17", "resumen": "Introduce el canal laboral de la transición: los sectores carbonizados pueden perder empleos mientras actividades bajas en carbono generan otros, con impactos distintos según desigualdad, pobreza, empleo y protección social. La exposición es mayor donde las industrias en extinción concentran puestos y salarios, pero la vulnerabilidad depende de la capacidad de proteger a las personas y facilitar su movilidad hacia sectores de bajas emisiones.", "dimensiones": [{"dimension": "desafios", "cita": "los países en donde los sectores en extinción sean responsables (directa e indirectamente) de generar una alta proporción de los puestos de trabajo y pagar una gran parte de los salarios estarán más expuestos a la transición.", "pagina": 17}], "subsecciones": []}
-        ]}
+        {
+          "seccion": "A. Metodología",
+          "nivel": 2,
+          "paginas": "12-15",
+          "resumen": "La metodología adapta el trabajo de Espagne et al. (2023) a una matriz insumo-producto regional para identificar emisiones directas, aguas arriba y aguas abajo por sector-país. El bloque explica cómo la matriz híbrida incorpora flujos físicos y cómo las inversas de Leontief y Ghosh permiten atribuir emisiones a cadenas de insumos y usuarios; termina definiendo la exposición externa como dependencia del valor agregado de exportaciones asociado a industrias declinantes.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Intensidad de emisiones",
+              "nivel": 3,
+              "paginas": "12-12",
+              "resumen": "Define la intensidad de emisiones como base para identificar industrias potencialmente declinantes durante la transición baja en carbono. El criterio distingue actividades que deberían perder importancia por su daño ambiental de aquellas que, aun siendo intensivas en emisiones, sustituyen procesos más contaminantes; la metodología parte de matrices de CEPAL para 18 países y de fuentes externas de emisiones directas y de encadenamientos productivos.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Se espera que las industrias con una contribución sustancial a la descarbonización crezcan, mientras que se espera que las industrias que tienen un daño ambiental significativo pierdan importancia.",
+                  "pagina": 12
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Matriz y esquema insumo-producto",
+              "nivel": 3,
+              "paginas": "12-13",
+              "resumen": "Explica la unidad sector-país y separa destinos intermedios, demanda final regional y demanda extrazona, así como insumos regionales, extrarregionales y valor agregado. El esquema fundamenta la medición de cadenas de valor y permite adaptar métricas globales a una matriz latinoamericana donde el comercio regional y extrarregional cumple funciones distintas.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "La unidad básica de análisis de una matriz insumo producto regional es el sector-país.",
+                  "pagina": 13
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Emisiones directas",
+              "nivel": 3,
+              "paginas": "13-13",
+              "resumen": "Establece la medida de emisiones directas usada en el estudio: toneladas de CO2 equivalente por dólar de producción, incluyendo gases de efecto invernadero distintos del CO2. La fuente EORA-26 aporta los datos por sector y país, y el indicador se define relacionando las emisiones brutas con la producción del sector-país latinoamericano.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "La intensidad de emisión se define como la relación de emisiones de CO2 equivalente por dólar.",
+                  "pagina": 13
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Emisiones aguas arriba",
+              "nivel": 3,
+              "paginas": "14-14",
+              "resumen": "Calcula las emisiones indirectas incorporadas en insumos regionales y extrarregionales mediante la matriz inversa de Leontief. El procedimiento incluye las emisiones necesarias para producir los insumos de los insumos y separa la contribución de proveedores de fuera de la región, lo que permite medir la huella de las cadenas productivas con mayor cobertura.",
+              "dimensiones": [
+                {
+                  "dimension": "diagnostico_estructural",
+                  "cita": "Para estimar las emisiones indirectas aguas arriba, debemos considerar las emisiones incorporadas en los insumos directos, pero también las emisiones incorporadas en todos los insumos necesarios para producir estos insumos.",
+                  "pagina": 14
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Emisiones aguas abajo",
+              "nivel": 3,
+              "paginas": "15-15",
+              "resumen": "Usa el modelo de Ghosh adaptado a la matriz regional para estimar las emisiones que surgen cuando otros sectores utilizan los bienes y servicios producidos por las actividades bajo estudio. El texto advierte que no es posible identificar las emisiones aguas abajo de la demanda extrarregional porque la matriz registra el país de destino, pero no el sector que utiliza la producción.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "Cabe aclarar que, a diferencia de las emisiones aguas arriba, no es posible determinar las emisiones aguas debajo de la demanda extrarregional.",
+                  "pagina": 15
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "B. Estimación de la exposición a industrias declinantes",
+          "nivel": 2,
+          "paginas": "15-17",
+          "resumen": "Este bloque convierte la identificación de sectores declinantes en tres medidas de exposición macroeconómica: dependencia de exportaciones, ingresos fiscales y empleo. Reconoce que la exposición no equivale automáticamente a vulnerabilidad, pues la capacidad tecnológica para migrar a productos verdes y la posibilidad de trasladar la presión fiscal hacia actividades más verdes modifican el riesgo; además incorpora la dimensión distributiva y la protección social.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Exposición externa",
+              "nivel": 3,
+              "paginas": "15-16",
+              "resumen": "Mide las divisas que podrían perderse si disminuyen las exportaciones de industrias declinantes, descontando insumos importados mediante el valor agregado bruto exportado. El argumento conecta la baja diversificación y la limitada competitividad verde con posibles restricciones de balanza de pagos, y usa el Potencial de Complejidad Verde para distinguir exposición de capacidad efectiva de adaptación productiva.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "La mayor demanda de divisas y la reducción de su oferta debido a la transición baja en carbono pueden conducir a restricciones de balanza de pagos en algunos países, dañando la estabilidad macroeconómica y, por lo tanto, el crecimiento sostenible en el largo plazo.",
+                  "pagina": 15,
+                  "subtipo_brecha": "prospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Exposición fiscal",
+              "nivel": 3,
+              "paginas": "16-17",
+              "resumen": "Define la exposición fiscal como la dependencia de los ingresos públicos respecto de sectores declinantes y distingue esa exposición de la vulnerabilidad fiscal. El análisis exige considerar si el país puede cambiar la composición de su tributación a medida que se contraen esas industrias; la selección de datos privilegia ingresos directos y no tributarios relevantes, como regalías, además de impuestos a la renta e IVA.",
+              "dimensiones": [
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "Cuanto mayor sea la dependencia de las industrias en extinción como fuente de ingresos fiscales, mayor será el impacto fiscal de reducir el tamaño de estas industrias si el país no puede encontrar otras fuentes de ingresos.",
+                  "pagina": 16,
+                  "subtipo_brecha": "prospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Exposición socioeconómica",
+              "nivel": 3,
+              "paginas": "17-17",
+              "resumen": "Introduce el canal laboral de la transición: los sectores carbonizados pueden perder empleos mientras actividades bajas en carbono generan otros, con impactos distintos según desigualdad, pobreza, empleo y protección social. La exposición es mayor donde las industrias en extinción concentran puestos y salarios, pero la vulnerabilidad depende de la capacidad de proteger a las personas y facilitar su movilidad hacia sectores de bajas emisiones.",
+              "dimensiones": [
+                {
+                  "dimension": "desafios",
+                  "cita": "los países en donde los sectores en extinción sean responsables (directa e indirectamente) de generar una alta proporción de los puestos de trabajo y pagar una gran parte de los salarios estarán más expuestos a la transición.",
+                  "pagina": 17
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        }
       ]
     },
     {
@@ -84,13 +212,90 @@
       "resumen": "El capítulo aplica la metodología a sectores y países de América Latina, identificando seis actividades particularmente intensivas en emisiones y calculando su peso en valor agregado, exportaciones, ingresos fiscales y empleo. Los resultados comparan la exposición entre países y muestran que la incorporación del empleo indirecto eleva sustancialmente el riesgo laboral; el cierre del capítulo resume grados de vulnerabilidad y orienta la anticipación de shocks y el diseño de políticas.",
       "dimensiones": [],
       "subsecciones": [
-        {"seccion": "A. Exposición externa", "nivel": 2, "paginas": "21-23", "resumen": "Compara la dependencia de exportaciones de sectores declinantes y la capacidad de migrar hacia productos verdes. Venezuela concentra 91,6% del valor agregado exportado neto en esos sectores; Colombia y Bolivia superan 60%, mientras México y Perú tienen exposición media. El Potencial de Complejidad Verde matiza el diagnóstico: Colombia y México cuentan con mejores capacidades relativas para adaptar su estructura productiva que Venezuela, Bolivia o Ecuador.", "dimensiones": [{"dimension": "estado_de_situacion", "cita": "que concentra el 91.6% del valor agregado de sus exportaciones netas de importaciones, en sectores declinantes (gráfico 3).", "pagina": 21}], "subsecciones": []},
-        {"seccion": "B. Exposición fiscal", "nivel": 2, "paginas": "23-26", "resumen": "Evalúa la concentración de ingresos públicos en hidrocarburos y minería usando datos de 2021 y compara el peso de esos ingresos en el PIB y en la recaudación total. Ecuador supera 8 puntos del PIB y 40% de sus ingresos fiscales; Guyana, Trinidad y Tobago y Bolivia también muestran dependencia elevada. El contraste entre peso productivo y presión tributaria revela exposiciones fiscales distintas y alerta sobre la pérdida de recursos durante la transición.", "dimensiones": [{"dimension": "estado_de_situacion", "cita": "Ecuador lidera la lista con más del 40% de sus ingresos fiscales originados principalmente en la extracción de hidrocarburos, por lo que ante un shock externo de disminución de su demanda este país presenta una alta vulnerabilidad.", "pagina": 25}], "subsecciones": []},
-        {"seccion": "C. Exposición socioeconómica", "nivel": 2, "paginas": "26-30", "resumen": "Examina empleo directo e indirecto, composición por sexo y edad, y grupos potencialmente perjudicados por la contracción de sectores declinantes. El empleo directo no supera 3% de los ocupados en ningún país y está fuertemente masculinizado, pero el enfoque de cadenas eleva la participación afectada a 6,7% en Ecuador y alrededor de 5% en Venezuela, Chile y Colombia. La evidencia sirve para orientar recapacitación y políticas de transición laboral.", "dimensiones": [], "subsecciones": [
-          {"seccion": "1. Empleo directo", "nivel": 3, "paginas": "26-28", "resumen": "Selecciona ocho sectores laborales correspondientes a las actividades declinantes y mide su participación en el empleo directo, el sexo y la edad de los trabajadores. El peso directo es inferior a 3% en todos los países, con Ecuador en 2,5%; los sectores están altamente masculinizados y la proporción de jóvenes varía, destacando Honduras y Guatemala con aproximadamente uno de cada cuatro trabajadores menores de 25 años.", "dimensiones": [{"dimension": "estado_de_situacion", "cita": "Como resultado general, se destaca el bajo peso de estos sectores en el empleo directo total, no alcanzando en ningún caso al 3% de los ocupados.", "pagina": 27}, {"dimension": "oportunidades", "cita": "esta información es valiosa a la hora de diseñar políticas que apunten a recapacitar a estos trabajadores para que puedan incorporarse a otros sectores de actividad de bajas emisiones.", "pagina": 28}], "subsecciones": []},
-          {"seccion": "2. Empleo indirecto", "nivel": 3, "paginas": "28-30", "resumen": "Amplía la medición a proveedores y usuarios conectados mediante cadenas de valor para aproximar la pérdida máxima de empleo si los sectores declinantes reducen su participación. La proporción aumenta a 6,7% en Ecuador, ronda 5% en Venezuela, Chile y Colombia, y alcanza 3,7% en Bolivia; el resultado muestra que el análisis directo subestima la exposición laboral de la transición.", "dimensiones": [{"dimension": "tendencias", "cita": "el peso de los sectores declinantes en el empleo total aumenta considerablemente si incorporamos el empleo indirecto.", "pagina": 29}], "subsecciones": []}
-        ]},
-        {"seccion": "D. Principales resultados", "nivel": 2, "paginas": "30-30", "resumen": "Sintetiza la clasificación de vulnerabilidad externa, fiscal y socioeconómica y confirma la concentración de los casos más expuestos. Propone usar la estimación para anticipar shocks y diseñar políticas, y señala como agenda de mejora actualizar matrices, profundizar la información de hogares y explorar definiciones ambientales adicionales para identificar industrias declinantes.", "dimensiones": [{"dimension": "propuestas_politica", "cita": "Esta estimación del grado de vulnerabilidad en las distintas dimensiones aporta información relevante a los países, con el objetivo de anticipar posibles shocks negativos y diseñar políticas para amortiguar su impacto.", "pagina": 30}], "subsecciones": []}
+        {
+          "seccion": "A. Exposición externa",
+          "nivel": 2,
+          "paginas": "21-23",
+          "resumen": "Compara la dependencia de exportaciones de sectores declinantes y la capacidad de migrar hacia productos verdes. Venezuela concentra 91,6% del valor agregado exportado neto en esos sectores; Colombia y Bolivia superan 60%, mientras México y Perú tienen exposición media. El Potencial de Complejidad Verde matiza el diagnóstico: Colombia y México cuentan con mejores capacidades relativas para adaptar su estructura productiva que Venezuela, Bolivia o Ecuador.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "que concentra el 91.6% del valor agregado de sus exportaciones netas de importaciones, en sectores declinantes (gráfico 3).",
+              "pagina": 21
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Exposición fiscal",
+          "nivel": 2,
+          "paginas": "23-26",
+          "resumen": "Evalúa la concentración de ingresos públicos en hidrocarburos y minería usando datos de 2021 y compara el peso de esos ingresos en el PIB y en la recaudación total. Ecuador supera 8 puntos del PIB y 40% de sus ingresos fiscales; Guyana, Trinidad y Tobago y Bolivia también muestran dependencia elevada. El contraste entre peso productivo y presión tributaria revela exposiciones fiscales distintas y alerta sobre la pérdida de recursos durante la transición.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Ecuador lidera la lista con más del 40% de sus ingresos fiscales originados principalmente en la extracción de hidrocarburos, por lo que ante un shock externo de disminución de su demanda este país presenta una alta vulnerabilidad.",
+              "pagina": 25
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Exposición socioeconómica",
+          "nivel": 2,
+          "paginas": "26-30",
+          "resumen": "Examina empleo directo e indirecto, composición por sexo y edad, y grupos potencialmente perjudicados por la contracción de sectores declinantes. El empleo directo no supera 3% de los ocupados en ningún país y está fuertemente masculinizado, pero el enfoque de cadenas eleva la participación afectada a 6,7% en Ecuador y alrededor de 5% en Venezuela, Chile y Colombia. La evidencia sirve para orientar recapacitación y políticas de transición laboral.",
+          "dimensiones": [],
+          "subsecciones": [
+            {
+              "seccion": "1. Empleo directo",
+              "nivel": 3,
+              "paginas": "26-28",
+              "resumen": "Selecciona ocho sectores laborales correspondientes a las actividades declinantes y mide su participación en el empleo directo, el sexo y la edad de los trabajadores. El peso directo es inferior a 3% en todos los países, con Ecuador en 2,5%; los sectores están altamente masculinizados y la proporción de jóvenes varía, destacando Honduras y Guatemala con aproximadamente uno de cada cuatro trabajadores menores de 25 años.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Como resultado general, se destaca el bajo peso de estos sectores en el empleo directo total, no alcanzando en ningún caso al 3% de los ocupados.",
+                  "pagina": 27
+                },
+                {
+                  "dimension": "oportunidades",
+                  "cita": "esta información es valiosa a la hora de diseñar políticas que apunten a recapacitar a estos trabajadores para que puedan incorporarse a otros sectores de actividad de bajas emisiones.",
+                  "pagina": 28
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Empleo indirecto",
+              "nivel": 3,
+              "paginas": "28-30",
+              "resumen": "Amplía la medición a proveedores y usuarios conectados mediante cadenas de valor para aproximar la pérdida máxima de empleo si los sectores declinantes reducen su participación. La proporción aumenta a 6,7% en Ecuador, ronda 5% en Venezuela, Chile y Colombia, y alcanza 3,7% en Bolivia; el resultado muestra que el análisis directo subestima la exposición laboral de la transición.",
+              "dimensiones": [
+                {
+                  "dimension": "tendencias",
+                  "cita": "el peso de los sectores declinantes en el empleo total aumenta considerablemente si incorporamos el empleo indirecto.",
+                  "pagina": 29
+                }
+              ],
+              "subsecciones": []
+            }
+          ]
+        },
+        {
+          "seccion": "D. Principales resultados",
+          "nivel": 2,
+          "paginas": "30-30",
+          "resumen": "Sintetiza la clasificación de vulnerabilidad externa, fiscal y socioeconómica y confirma la concentración de los casos más expuestos. Propone usar la estimación para anticipar shocks y diseñar políticas, y señala como agenda de mejora actualizar matrices, profundizar la información de hogares y explorar definiciones ambientales adicionales para identificar industrias declinantes.",
+          "dimensiones": [
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Esta estimación del grado de vulnerabilidad en las distintas dimensiones aporta información relevante a los países, con el objetivo de anticipar posibles shocks negativos y diseñar políticas para amortiguar su impacto.",
+              "pagina": 30
+            }
+          ],
+          "subsecciones": []
+        }
       ]
     },
     {
@@ -100,21 +305,161 @@
       "resumen": "El capítulo integra los resultados empíricos en un modelo que exige conciliar igualdad, equilibrio externo y sostenibilidad ambiental. Formaliza las tres tasas de crecimiento, simula efectos de pérdida de ingresos fiscales y exportaciones, y termina con ejercicios para 2023–2030; la conclusión operativa es que diversificación productiva, tecnológica, exportadora y fiscal puede reducir los costos sociales de la transición.",
       "dimensiones": [],
       "subsecciones": [
-        {"seccion": "A. Un resumen formal del modelo de las tres brechas", "nivel": 2, "paginas": "31-35", "resumen": "Formaliza las tasas de crecimiento social, externa y ambiental y define sus determinantes: pobreza y gasto social, elasticidades comerciales e inserción internacional, y presupuesto de carbono y descarbonización. El modelo plantea que el desarrollo sostenible requiere cerrar las tres brechas y presenta ejemplos de acciones que abren espacio, como redistribución, servicios básicos, diversificación productiva, energías renovables, electromovilidad y reducción de la deforestación.", "dimensiones": [{"dimension": "diagnostico_estructural", "cita": "El poco dinamismo de la economía se relaciona con un patrón de especialización altamente dependiente de la explotación de los recursos naturales y sujeto a la fuerte variabilidad de sus precios", "pagina": 31}], "subsecciones": []},
-        {"seccion": "B. Simulaciones: efectos potenciales de la transición", "nivel": 2, "paginas": "35-37", "resumen": "Simula cómo la transición puede desplazar las fronteras ambiental, social y externa si no se ajustan las políticas. La reducción de ingresos fiscales limita el gasto social y eleva el crecimiento necesario para reducir la pobreza; la caída de exportaciones fósiles reduce el crecimiento compatible con el equilibrio externo. La diversificación verde y el cambio técnico aparecen como vías para compensar esas pérdidas y gestionar riesgos.", "dimensiones": [{"dimension": "brechas_implementacion", "cita": "De no aumentar la base gravable, los efectos de la transición sería una menor recaudación fiscal, lo cual reducen la capacidad de acción del Estado en la lucha contra la pobreza.", "pagina": 35, "subtipo_brecha": "prospectiva"}, {"dimension": "propuestas_politica", "cita": "Esta pérdida de dinamismo exportador podría ser contrarrestada a través de la diversificación en sectores verdes, a partir de la aceleración del cambio técnico y estructural hacia los sectores líderes del desarrollo sostenible.", "pagina": 36}], "subsecciones": []},
-        {"seccion": "C. Breve ejercicio numérico", "nivel": 2, "paginas": "37-39", "resumen": "Cuantifica escenarios de transferencias sociales, crecimiento, elasticidades comerciales y pérdida de exportaciones de combustibles hasta 2030. Con crecimiento mundial de 2,8%, el crecimiento externo compatible es 2,9%, insuficiente frente al 4% necesario para cerrar la brecha social; una pérdida de 20% de exportaciones de combustibles reduce casi una décima esa tasa y una pérdida total la reduce 0,30 puntos. El cierre reclama políticas industriales y tecnológicas para diversificar la economía.", "dimensiones": [{"dimension": "estado_de_situacion", "cita": "la tasa consistente con la restricción externa yE=1.02 * 2.8% = 2.9%.", "pagina": 38}, {"dimension": "propuestas_politica", "cita": "No gestionar estos riesgos adecuadamente tendrá efectos macroeconómicos sustanciales que señalan la importancia de políticas industriales y tecnológicas que permitan diversificar la economía en línea con una transición justa.", "pagina": 39}], "subsecciones": []}
+        {
+          "seccion": "A. Un resumen formal del modelo de las tres brechas",
+          "nivel": 2,
+          "paginas": "31-35",
+          "resumen": "Formaliza las tasas de crecimiento social, externa y ambiental y define sus determinantes: pobreza y gasto social, elasticidades comerciales e inserción internacional, y presupuesto de carbono y descarbonización. El modelo plantea que el desarrollo sostenible requiere cerrar las tres brechas y presenta ejemplos de acciones que abren espacio, como redistribución, servicios básicos, diversificación productiva, energías renovables, electromovilidad y reducción de la deforestación.",
+          "dimensiones": [
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "El poco dinamismo de la economía se relaciona con un patrón de especialización altamente dependiente de la explotación de los recursos naturales y sujeto a la fuerte variabilidad de sus precios",
+              "pagina": 31
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "B. Simulaciones: efectos potenciales de la transición",
+          "nivel": 2,
+          "paginas": "35-37",
+          "resumen": "Simula cómo la transición puede desplazar las fronteras ambiental, social y externa si no se ajustan las políticas. La reducción de ingresos fiscales limita el gasto social y eleva el crecimiento necesario para reducir la pobreza; la caída de exportaciones fósiles reduce el crecimiento compatible con el equilibrio externo. La diversificación verde y el cambio técnico aparecen como vías para compensar esas pérdidas y gestionar riesgos.",
+          "dimensiones": [
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "De no aumentar la base gravable, los efectos de la transición sería una menor recaudación fiscal, lo cual reducen la capacidad de acción del Estado en la lucha contra la pobreza.",
+              "pagina": 35,
+              "subtipo_brecha": "prospectiva"
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Esta pérdida de dinamismo exportador podría ser contrarrestada a través de la diversificación en sectores verdes, a partir de la aceleración del cambio técnico y estructural hacia los sectores líderes del desarrollo sostenible.",
+              "pagina": 36
+            }
+          ],
+          "subsecciones": []
+        },
+        {
+          "seccion": "C. Breve ejercicio numérico",
+          "nivel": 2,
+          "paginas": "37-39",
+          "resumen": "Cuantifica escenarios de transferencias sociales, crecimiento, elasticidades comerciales y pérdida de exportaciones de combustibles hasta 2030. Con crecimiento mundial de 2,8%, el crecimiento externo compatible es 2,9%, insuficiente frente al 4% necesario para cerrar la brecha social; una pérdida de 20% de exportaciones de combustibles reduce casi una décima esa tasa y una pérdida total la reduce 0,30 puntos. El cierre reclama políticas industriales y tecnológicas para diversificar la economía.",
+          "dimensiones": [
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "la tasa consistente con la restricción externa yE=1.02 * 2.8% = 2.9%.",
+              "pagina": 38
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "No gestionar estos riesgos adecuadamente tendrá efectos macroeconómicos sustanciales que señalan la importancia de políticas industriales y tecnológicas que permitan diversificar la economía en línea con una transición justa.",
+              "pagina": 39
+            }
+          ],
+          "subsecciones": []
+        }
       ]
     }
   ],
   "interpelacion": {
-    "gran_impulso_ambiental_concreto": {"veredicto": "Parcial", "evidencia": "El documento propone diversificación productiva, cambio técnico, energías renovables y electromovilidad, y vincula la transición con empleo, exportaciones, recaudación y emisiones. Sin embargo, presenta principalmente estimaciones y simulaciones; no formula un paquete masivo y coordinado de inversión pública y privada a escala del modelo de desarrollo. Supera el umbral de instrumento y orientación sectorial, pero no el test de inversión coordinada.", "citas": [{"cita": "Una política de desarrollo sostenible debe promover un proceso de cambio estructural a favor de sectores que simultáneamente reduzcan la huella ambiental, sean más intensos en empleo y relajen (o al menos no agraven) la restricción externa.", "pagina": 31}, {"cita": "Redistribución del ingreso. Provisión de servicios básicos: salud, educación. Sectores intensivos en empleo. Diversificación productiva.", "pagina": 35}], "nota": "El veredicto refleja que es un estudio diagnóstico y de simulación con orientaciones de política, no una propuesta autónoma de paquete de inversión coordinada."},
-    "articulacion_actores": {"veredicto": "No", "evidencia": "El documento relaciona Estado, países, sectores y cadenas de valor, pero no nombra un mecanismo, plataforma o institución concreta de coordinación dentro de su ámbito de aplicación. La matriz insumo-producto es una herramienta analítica, no un mecanismo de gobernanza de la acción climática.", "citas": [{"cita": "La unidad básica de análisis de una matriz insumo producto regional es el sector-país.", "pagina": 13}], "nota": "No se confunde la herramienta metodológica con un mecanismo nombrado de articulación institucional."},
-    "oportunidades_productivas_sostenibles": {"veredicto": "Sí", "evidencia": "El texto enumera actividades concretas —energías renovables, agricultura, alimentos de origen vegetal, silvicultura, construcción, manufactura, electromovilidad y sectores verdes— y desarrolla sus vínculos con empleo, productividad, exportaciones, igualdad y reducción de emisiones. La oportunidad está planteada como diversificación y migración hacia productos verdes, no como una mención aislada.", "citas": [{"cita": "generará muchos otros en actividades bajas en carbono, como en los sectores de la agricultura, la producción de alimentos de origen vegetal, las energías renovables, la silvicultura, la construcción y la manufactura.", "pagina": 17}, {"cita": "La diversificación y mayor complejidad de la matriz productiva, la diversificación de las exportaciones y fomento de aquellas con mayor contenido tecnológico y la diversificación de los ingresos fiscales, son fundamentales para manejar la transición de manera más justa.", "pagina": 37}], "desglose_items": [{"item": "Agricultura y producción de alimentos de origen vegetal", "clasificacion": "CONCRETO", "pagina": 17}, {"item": "Energías renovables", "clasificacion": "CONCRETO", "pagina": 17}, {"item": "Silvicultura", "clasificacion": "CONCRETO", "pagina": 17}, {"item": "Construcción y manufactura", "clasificacion": "CONCRETO", "pagina": 17}, {"item": "Electromovilidad y sectores verdes con mayor contenido tecnológico", "clasificacion": "CONCRETO", "pagina": 35}], "tally": "5 de 5 ítems pasan el test de enumeración y vínculo productivo-laboral", "nota": null},
-    "como_hacerlo_concreto": {"veredicto": "No", "evidencia": "El cierre formal no contiene una lista propia de recomendaciones operativas con ítems individualmente verificables; ofrece orientaciones generales y propuestas de profundización analítica. Por ello, aunque el cuerpo enumera instrumentos y sectores, no acredita el criterio de cómo hacerlo concreto en la voz normativa del cierre.", "citas": [{"cita": "Teniendo en cuenta que la estructura productiva de los países es dinámica, resulta relevante continuar analizando las distintas vulnerabilidades con nuevas fuentes de información.", "pagina": 30}, {"cita": "No gestionar estos riesgos adecuadamente tendrá efectos macroeconómicos sustanciales que señalan la importancia de políticas industriales y tecnológicas que permitan diversificar la economía en línea con una transición justa.", "pagina": 39}], "desglose_items": [], "tally": "0 de 0 ítems pasan el test de concreción", "nota": "El cierre contiene diagnóstico y orientaciones, pero no una sección formal de recomendaciones ni una lista completa de acciones propias que pueda desglosarse ítem por ítem."}
+    "gran_impulso_ambiental_concreto": {
+      "veredicto": "Parcial",
+      "evidencia": "El documento propone diversificación productiva, cambio técnico, energías renovables y electromovilidad, y vincula la transición con empleo, exportaciones, recaudación y emisiones. Sin embargo, presenta principalmente estimaciones y simulaciones; no formula un paquete masivo y coordinado de inversión pública y privada a escala del modelo de desarrollo. Supera el umbral de instrumento y orientación sectorial, pero no el test de inversión coordinada.",
+      "citas": [
+        {
+          "cita": "Una política de desarrollo sostenible debe promover un proceso de cambio estructural a favor de sectores que simultáneamente reduzcan la huella ambiental, sean más intensos en empleo y relajen (o al menos no agraven) la restricción externa.",
+          "pagina": 31
+        },
+        {
+          "cita": "Redistribución del ingreso. Provisión de servicios básicos: salud, educación. Sectores intensivos en empleo. Diversificación productiva.",
+          "pagina": 35
+        }
+      ],
+      "nota": "El veredicto refleja que es un estudio diagnóstico y de simulación con orientaciones de política, no una propuesta autónoma de paquete de inversión coordinada."
+    },
+    "articulacion_actores": {
+      "veredicto": "No",
+      "evidencia": "El documento relaciona Estado, países, sectores y cadenas de valor, pero no nombra un mecanismo, plataforma o institución concreta de coordinación dentro de su ámbito de aplicación. La matriz insumo-producto es una herramienta analítica, no un mecanismo de gobernanza de la acción climática.",
+      "citas": [
+        {
+          "cita": "La unidad básica de análisis de una matriz insumo producto regional es el sector-país.",
+          "pagina": 13
+        }
+      ],
+      "nota": "No se confunde la herramienta metodológica con un mecanismo nombrado de articulación institucional."
+    },
+    "oportunidades_productivas_sostenibles": {
+      "veredicto": "Sí",
+      "evidencia": "El texto enumera actividades concretas —energías renovables, agricultura, alimentos de origen vegetal, silvicultura, construcción, manufactura, electromovilidad y sectores verdes— y desarrolla sus vínculos con empleo, productividad, exportaciones, igualdad y reducción de emisiones. La oportunidad está planteada como diversificación y migración hacia productos verdes, no como una mención aislada.",
+      "citas": [
+        {
+          "cita": "generará muchos otros en actividades bajas en carbono, como en los sectores de la agricultura, la producción de alimentos de origen vegetal, las energías renovables, la silvicultura, la construcción y la manufactura.",
+          "pagina": 17
+        },
+        {
+          "cita": "La diversificación y mayor complejidad de la matriz productiva, la diversificación de las exportaciones y fomento de aquellas con mayor contenido tecnológico y la diversificación de los ingresos fiscales, son fundamentales para manejar la transición de manera más justa.",
+          "pagina": 37
+        }
+      ],
+      "desglose_items": [
+        {
+          "item": "Agricultura y producción de alimentos de origen vegetal",
+          "clasificacion": "CONCRETO",
+          "pagina": 17
+        },
+        {
+          "item": "Energías renovables",
+          "clasificacion": "CONCRETO",
+          "pagina": 17
+        },
+        {
+          "item": "Silvicultura",
+          "clasificacion": "CONCRETO",
+          "pagina": 17
+        },
+        {
+          "item": "Construcción y manufactura",
+          "clasificacion": "CONCRETO",
+          "pagina": 17
+        },
+        {
+          "item": "Electromovilidad y sectores verdes con mayor contenido tecnológico",
+          "clasificacion": "CONCRETO",
+          "pagina": 35
+        }
+      ],
+      "tally": "5 de 5 ítems pasan el test de enumeración y vínculo productivo-laboral",
+      "nota": null
+    },
+    "como_hacerlo_concreto": {
+      "veredicto": "No",
+      "evidencia": "El cierre formal no contiene una lista propia de recomendaciones operativas con ítems individualmente verificables; ofrece orientaciones generales y propuestas de profundización analítica. Por ello, aunque el cuerpo enumera instrumentos y sectores, no acredita el criterio de cómo hacerlo concreto en la voz normativa del cierre.",
+      "citas": [
+        {
+          "cita": "Teniendo en cuenta que la estructura productiva de los países es dinámica, resulta relevante continuar analizando las distintas vulnerabilidades con nuevas fuentes de información.",
+          "pagina": 30
+        },
+        {
+          "cita": "No gestionar estos riesgos adecuadamente tendrá efectos macroeconómicos sustanciales que señalan la importancia de políticas industriales y tecnológicas que permitan diversificar la economía en línea con una transición justa.",
+          "pagina": 39
+        }
+      ],
+      "desglose_items": [],
+      "tally": "0 de 0 ítems pasan el test de concreción",
+      "nota": "El cierre contiene diagnóstico y orientaciones, pero no una sección formal de recomendaciones ni una lista completa de acciones propias que pueda desglosarse ítem por ítem."
+    }
   },
   "tipologia": {
-    "transformacion_primaria": {"numero": 10, "nombre": "Macroeconomía y fiscalidad", "certeza": "Alta"},
-    "transformacion_secundaria": {"numero": 6, "nombre": "Sostenibilidad ambiental", "certeza": "Alta"},
+    "transformacion_primaria": {
+      "numero": 10,
+      "nombre": "Macroeconomía y fiscalidad",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
     "razonamiento_5_pasos": {
       "tension_dialectica": "La tensión central es cómo una transición baja en carbono puede reducir emisiones sin deteriorar el crecimiento, las divisas, el espacio fiscal y el empleo. El documento procesa esa contradicción mediante exposición macroeconómica y el modelo de tres brechas, no mediante el diseño sectorial de una política ambiental específica.",
       "filtro_categoria_primaria": "La transformación principal es macroeconómica: el objeto analítico son la exposición externa, fiscal y socioeconómica, la restricción de balanza de pagos, la recaudación y las tasas de crecimiento compatibles con igualdad, equilibrio externo y frontera ambiental.",

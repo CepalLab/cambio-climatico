@@ -53,8 +53,16 @@
       "paginas": "11-12",
       "resumen": "Define las emisiones como una externalidad negativa y presenta los instrumentos para internalizar sus costos: impuestos, comercio de emisiones, precios sombra y reforma de subsidios. Delimita el panorama regional, destaca el papel de los ministerios de hacienda y explica que el documento aporta datos para decisiones de política en finanzas, economía, energía, planificación y ambiente.",
       "dimensiones": [
-        {"dimension": "diagnostico_estructural", "cita": "Desde un punto de vista económico las emisiones de GEI que ocasionan el cambio climático son consideradas una externalidad negativa, por lo tanto, se justifica la fijación de precios del carbono que busquen internalizar los costos asociados a las emisiones.", "pagina": 11},
-        {"dimension": "propuestas_politica", "cita": "Una posibilidad es hacerlo de manera explícita a través del impuesto al carbono o el sistema de comercio de emisiones.", "pagina": 11}
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Desde un punto de vista económico las emisiones de GEI que ocasionan el cambio climático son consideradas una externalidad negativa, por lo tanto, se justifica la fijación de precios del carbono que busquen internalizar los costos asociados a las emisiones.",
+          "pagina": 11
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Una posibilidad es hacerlo de manera explícita a través del impuesto al carbono o el sistema de comercio de emisiones.",
+          "pagina": 11
+        }
       ],
       "subsecciones": []
     },
@@ -71,8 +79,16 @@
           "paginas": "15-16",
           "resumen": "Revisa la actualización de las NDC de los 33 países: 25 presentaron su primera actualización, 4 la segunda y 4 mantienen la primera. Identifica energía, AFOLU y transporte como sectores prioritarios de mitigación; agua, agricultura, salud y biodiversidad como sectores de adaptación; y registra ocho estrategias de largo plazo presentadas ante la CMNUCC.",
           "dimensiones": [
-            {"dimension": "avances_implementacion", "cita": "De los 33 países que conforman la región, 25 presentaron la actualización de su primera NDC, 4 países presentaron su segunda NDC y 4 países solo han presentado su primera NDC ante la Convención Marco de las Naciones Unidas sobre Cambio Climático (CMNUCC).", "pagina": 15},
-            {"dimension": "propuestas_politica", "cita": "A la fecha 15 países de la región han presentado sus planes nacionales de adaptación (PNAD) a la CMNUCC, incluso algunos países cuentan con planes sectoriales para la adaptación al cambio climático.", "pagina": 15}
+            {
+              "dimension": "avances_implementacion",
+              "cita": "De los 33 países que conforman la región, 25 presentaron la actualización de su primera NDC, 4 países presentaron su segunda NDC y 4 países solo han presentado su primera NDC ante la Convención Marco de las Naciones Unidas sobre Cambio Climático (CMNUCC).",
+              "pagina": 15
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "A la fecha 15 países de la región han presentado sus planes nacionales de adaptación (PNAD) a la CMNUCC, incluso algunos países cuentan con planes sectoriales para la adaptación al cambio climático.",
+              "pagina": 15
+            }
           ],
           "subsecciones": []
         },
@@ -82,8 +98,16 @@
           "paginas": "17",
           "resumen": "Cuantifica el reto de reducir emisiones 24% o 29% en 2030 y acelerar entre seis y ocho veces el desacoplamiento entre PIB y GEI. Sostiene que se deben alinear inversiones públicas y privadas con energías y actividades productivas que creen empleo, productividad y bajas emisiones, y coordinar NDC, planes, presupuestos y ministerios.",
           "dimensiones": [
-            {"dimension": "desafios", "cita": "El desafío es más intenso cuando se considera la meta de lograr la carbono neutralidad al 2050.", "pagina": 17},
-            {"dimension": "propuestas_politica", "cita": "Alcanzar estos objetivos requiere cambios profundos en la economía de la región y esfuerzos por aumentar los flujos de financiamiento y alinear la inversión pública y privada hacia sectores y actividades que tienen la capacidad de contribuir al crecimiento de la economía, aumentar la productividad, crear empleos y al mismo tiempo aportar a los objetivos climáticos.", "pagina": 17}
+            {
+              "dimension": "desafios",
+              "cita": "El desafío es más intenso cuando se considera la meta de lograr la carbono neutralidad al 2050.",
+              "pagina": 17
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Alcanzar estos objetivos requiere cambios profundos en la economía de la región y esfuerzos por aumentar los flujos de financiamiento y alinear la inversión pública y privada hacia sectores y actividades que tienen la capacidad de contribuir al crecimiento de la economía, aumentar la productividad, crear empleos y al mismo tiempo aportar a los objetivos climáticos.",
+              "pagina": 17
+            }
           ],
           "subsecciones": []
         }
@@ -102,8 +126,16 @@
           "paginas": "21-22",
           "resumen": "Explica la reforma fiscal verde como desplazamiento de cargas desde trabajo y capital hacia actividades dañinas, mediante eliminación de subsidios, reestructuración tributaria e impuestos nuevos. Reporta ingresos ambientales regionales de 0,84% del PIB en 2022, inferiores al 1,92% de la OCDE, y señala barreras regresivas y de competitividad.",
           "dimensiones": [
-            {"dimension": "diagnostico_estructural", "cita": "El mensaje por lo tanto es evaluar las ventajas de fijar impuestos a los combustibles fósiles, las emisiones de carbono, la compra de autos que generan las emisiones de contaminantes locales que causan problemas en la salud", "pagina": 21},
-            {"dimension": "propuestas_politica", "cita": "Los impuestos ambientales históricamente no alcanzan más de 4% del total de la recaudación", "pagina": 21}
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "El mensaje por lo tanto es evaluar las ventajas de fijar impuestos a los combustibles fósiles, las emisiones de carbono, la compra de autos que generan las emisiones de contaminantes locales que causan problemas en la salud",
+              "pagina": 21
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Los impuestos ambientales históricamente no alcanzan más de 4% del total de la recaudación",
+              "pagina": 21
+            }
           ],
           "subsecciones": []
         },
@@ -113,9 +145,21 @@
           "paginas": "23-25",
           "resumen": "Describe los subsidios fósiles como precio negativo de las emisiones y cuantifica 317 mil millones de dólares regionales en 2023, equivalentes a 5,4% del PIB. Explica su costo fiscal y regresividad, y propone precios eficientes que incorporen costos climáticos, contaminación, accidentes y congestión, junto con una reforma de subsidios.",
           "dimensiones": [
-            {"dimension": "estado_de_situacion", "cita": "Durante el 2023 los subsidios a los fósiles en la región ascendieron a 317 mil millones de dólares (véase el gráfico 5), los que representaron el 5,4% del PIB de la región.", "pagina": 23},
-            {"dimension": "diagnostico_estructural", "cita": "La política de subsidios al consumo de los combustibles fósiles es inequitativa debido a que la estructura de consumo de los combustibles (gasolinas principalmente) está altamente concentrada en los deciles de ingreso más altos.", "pagina": 24},
-            {"dimension": "propuestas_politica", "cita": "Con este panorama de los subsidios a los fósiles en la región, es imperativo una política de precios eficientes para los combustibles donde se puedan incluir los verdaderos costos de su uso y no solo los costos de producción.", "pagina": 24}
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Durante el 2023 los subsidios a los fósiles en la región ascendieron a 317 mil millones de dólares (véase el gráfico 5), los que representaron el 5,4% del PIB de la región.",
+              "pagina": 23
+            },
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "La política de subsidios al consumo de los combustibles fósiles es inequitativa debido a que la estructura de consumo de los combustibles (gasolinas principalmente) está altamente concentrada en los deciles de ingreso más altos.",
+              "pagina": 24
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Con este panorama de los subsidios a los fósiles en la región, es imperativo una política de precios eficientes para los combustibles donde se puedan incluir los verdaderos costos de su uso y no solo los costos de producción.",
+              "pagina": 24
+            }
           ],
           "subsecciones": []
         },
@@ -125,9 +169,21 @@
           "paginas": "25-27",
           "resumen": "Mide el financiamiento climático regional en 58,6 mil millones de dólares en 2022, con aportes públicos y privados casi equilibrados, pero con concentración en mitigación y energía. Estima necesidades de inversión de 215.000-284.000 millones anuales para 2030 y plantea movilizar recursos mediante precios al carbono y bonos verdes.",
           "dimensiones": [
-            {"dimension": "estado_de_situacion", "cita": "Durante el 2022 el financiamiento para la acción climática en la región ascendió a 58,6 miles de millones de dólares", "pagina": 25},
-            {"dimension": "desafios", "cita": "De acuerdo con estas estimaciones, entre 2023 y 2030 se necesitará una inversión acumulada de entre 2,1 y 2,8 billones de dólares, lo que equivale a una inversión anual promedio de entre un 3,7% y un 4,9% del PIB regional.", "pagina": 27},
-            {"dimension": "oportunidades", "cita": "De igual manera resulta relevante las oportunidades que ofrece el financiamiento a través de los bonos verdes, lo que se explora en el siguiente apartado.", "pagina": 27}
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Durante el 2022 el financiamiento para la acción climática en la región ascendió a 58,6 miles de millones de dólares",
+              "pagina": 25
+            },
+            {
+              "dimension": "desafios",
+              "cita": "De acuerdo con estas estimaciones, entre 2023 y 2030 se necesitará una inversión acumulada de entre 2,1 y 2,8 billones de dólares, lo que equivale a una inversión anual promedio de entre un 3,7% y un 4,9% del PIB regional.",
+              "pagina": 27
+            },
+            {
+              "dimension": "oportunidades",
+              "cita": "De igual manera resulta relevante las oportunidades que ofrece el financiamiento a través de los bonos verdes, lo que se explora en el siguiente apartado.",
+              "pagina": 27
+            }
           ],
           "subsecciones": []
         },
@@ -137,9 +193,22 @@
           "paginas": "27-31",
           "resumen": "Examina bonos verdes, sostenibles y taxonomías como instrumentos para financiar proyectos de energía, transporte y resiliencia, mejorar transparencia y orientar capital público y privado. Registra 16 países emisores, 37,7 billones de dólares acumulados y taxonomías en México, Colombia y Panamá, pero advierte que no resuelven por sí solas el ritmo de transición.",
           "dimensiones": [
-            {"dimension": "avances_implementacion", "cita": "Para América Latina y el Caribe el mercado de bonos verdes comenzó en 2014 y a la fecha 16 países de los 33 que componen la región han emitido bonos verdes.", "pagina": 28},
-            {"dimension": "propuestas_politica", "cita": "Un instrumento de política adicional para favorecer las inversiones en sectores que contribuyan al cumplimiento de las metas climáticas son las taxonomías de finanzas sostenibles.", "pagina": 29},
-            {"dimension": "brechas_implementacion", "cita": "Las taxonomías son necesarias para un mercado financiero sostenible, pero no resuelven el ritmo de transición ni la profundidad de esta.", "pagina": 29, "subtipo_brecha": "retrospectiva"}
+            {
+              "dimension": "avances_implementacion",
+              "cita": "Para América Latina y el Caribe el mercado de bonos verdes comenzó en 2014 y a la fecha 16 países de los 33 que componen la región han emitido bonos verdes.",
+              "pagina": 28
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Un instrumento de política adicional para favorecer las inversiones en sectores que contribuyan al cumplimiento de las metas climáticas son las taxonomías de finanzas sostenibles.",
+              "pagina": 29
+            },
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "Las taxonomías son necesarias para un mercado financiero sostenible, pero no resuelven el ritmo de transición ni la profundidad de esta.",
+              "pagina": 29,
+              "subtipo_brecha": "retrospectiva"
+            }
           ],
           "subsecciones": []
         }
@@ -159,11 +228,98 @@
           "resumen": "Expone la teoría y los criterios de diseño de impuestos al carbono —NDC, competitividad, distribución, coherencia y viabilidad— y compara los casos de México, Chile, Colombia, Argentina y Uruguay. Muestra diferencias de tasa, punto de regulación, compensaciones, cobertura, recaudación y uso de ingresos; concluye proponiendo considerar un precio mínimo regional coordinado.",
           "dimensiones": [],
           "subsecciones": [
-            {"seccion": "1. El impuesto al carbono en México", "nivel": 3, "paginas": "36-37", "resumen": "México aplica desde 2014 un impuesto sobre el contenido adicional de carbono de combustibles fósiles, con tasa aproximada de 1 a 4 USD/tCO2 y cobertura de 29% de emisiones. El texto también describe compensaciones mediante certificados y tasas subnacionales, destacando Querétaro con 36 USD/tCO2 y uso en infraestructura y proyectos ambientales.", "dimensiones": [{"dimension": "avances_implementacion", "cita": "México fue el primer país de la región en introducir un impuesto al carbono.", "pagina": 36}, {"dimension": "brechas_implementacion", "cita": "Los ingresos recaudados por este impuesto van al presupuesto general y no tienen destinación específica.", "pagina": 36, "subtipo_brecha": "retrospectiva"}], "subsecciones": []},
-            {"seccion": "2. El impuesto al carbono en Chile", "nivel": 3, "paginas": "37-38", "resumen": "Chile implementó en 2017 un impuesto de 5 USD por tonelada de CO2 para fuentes fijas sobre umbral de emisiones, con cobertura aproximada de 55%. El diseño se modificó para incluir umbral anual y compensaciones; los ingresos van al presupuesto nacional y el reglamento de 2023 impulsa compensaciones y mercado nacional de carbono.", "dimensiones": [{"dimension": "avances_implementacion", "cita": "El impuesto al carbono en Chile comenzó a implementarse en 2017 después de ser introducido formalmente bajo la reforma tributaria de 2014 (Ley 20.780).", "pagina": 37}, {"dimension": "propuestas_politica", "cita": "El aumento gradual del impuesto al carbono puede ser uno de los escenarios a considerar para evitar cambios abruptos que generen efectos no deseados sobre las poblaciones de menores ingresos y que al mismo tiempo ayude al logro de los objetivos climáticos.", "pagina": 38}], "subsecciones": []},
-            {"seccion": "3. El impuesto al carbono en Colombia", "nivel": 3, "paginas": "39-40", "resumen": "Colombia aplica desde 2017 un impuesto aguas arriba sobre combustibles fósiles, indexado hasta aproximarse a 35 USD y con cobertura de 20% de GEI. Permite compensaciones de emisiones, limitadas a 50% desde 2022, y asigna 80% de la recaudación climática al FONSUREC y 20% al Fondo Colombia en Paz.", "dimensiones": [{"dimension": "avances_implementacion", "cita": "Colombia introdujo el impuesto al carbono desde 2017 como parte del conjunto de instrumentos que buscan desincentivar el consumo de combustibles fósiles y hacer frente a los compromisos de reducción de emisiones adquiridos bajo el Acuerdo de París.", "pagina": 39}, {"dimension": "propuestas_politica", "cita": "De acuerdo con la Ley, se debe destinar el 80% de estos recursos para el financiamiento de medidas de acción climática para impulsar el desarrollo bajo en carbono del país y las previstas en la NDC.", "pagina": 39}], "subsecciones": []},
-            {"seccion": "4. El impuesto al carbono en Argentina", "nivel": 3, "paginas": "40-41", "resumen": "Argentina introdujo en 2018 un impuesto específico al dióxido de carbono para combustibles líquidos y sólidos, con aplicación en energía, industria, transporte, minería y agricultura. Su tasa se escalona hasta 2028, cubre 38% de GEI y distribuye la recaudación entre tesoro, provincias, vivienda, seguridad social e infraestructura.", "dimensiones": [{"dimension": "avances_implementacion", "cita": "El impuesto al carbono comenzó a implementarse en Argentina en marzo de 2018 luego de ser aprobada la reforma tributaria de 2017 (Ley 27.430).", "pagina": 40}], "subsecciones": []},
-            {"seccion": "5. El impuesto al carbono en Uruguay", "nivel": 3, "paginas": "41-42", "resumen": "Uruguay aplica desde 2022 un impuesto sobre gasolinas con tasa de 155 USD/tCO2 en 2023 y 164,31 en 2024, coherente con referencias científicas, pero solo cubre 4% de GEI. El texto destaca la facultad de destinar ingresos a reducción de emisiones, transporte sostenible y adaptación, y propone coordinación regional para un precio mínimo.", "dimensiones": [{"dimension": "avances_implementacion", "cita": "Uruguay marca un precedente entre los países de América Latina y el Caribe (y entre muchas economías desarrolladas) al aplicar precios al carbono coherentes con los sugeridos por la ciencia para estar en línea con los objetivos del Acuerdo de París.", "pagina": 42}, {"dimension": "brechas_implementacion", "cita": "Las normas vigentes le entregan facultades al poder ejecutivo para destinar un porcentaje (sin definirlo) de los ingresos por el impuesto al carbono para financiar políticas que promueven la reducción de emisiones, el transporte sostenible y la adaptación de los ecosistemas y los sistemas productivos al cambio climático.", "pagina": 42, "subtipo_brecha": "retrospectiva"}], "subsecciones": []}
+            {
+              "seccion": "1. El impuesto al carbono en México",
+              "nivel": 3,
+              "paginas": "36-37",
+              "resumen": "México aplica desde 2014 un impuesto sobre el contenido adicional de carbono de combustibles fósiles, con tasa aproximada de 1 a 4 USD/tCO2 y cobertura de 29% de emisiones. El texto también describe compensaciones mediante certificados y tasas subnacionales, destacando Querétaro con 36 USD/tCO2 y uso en infraestructura y proyectos ambientales.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "México fue el primer país de la región en introducir un impuesto al carbono.",
+                  "pagina": 36
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "Los ingresos recaudados por este impuesto van al presupuesto general y no tienen destinación específica.",
+                  "pagina": 36,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. El impuesto al carbono en Chile",
+              "nivel": 3,
+              "paginas": "37-38",
+              "resumen": "Chile implementó en 2017 un impuesto de 5 USD por tonelada de CO2 para fuentes fijas sobre umbral de emisiones, con cobertura aproximada de 55%. El diseño se modificó para incluir umbral anual y compensaciones; los ingresos van al presupuesto nacional y el reglamento de 2023 impulsa compensaciones y mercado nacional de carbono.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "El impuesto al carbono en Chile comenzó a implementarse en 2017 después de ser introducido formalmente bajo la reforma tributaria de 2014 (Ley 20.780).",
+                  "pagina": 37
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "El aumento gradual del impuesto al carbono puede ser uno de los escenarios a considerar para evitar cambios abruptos que generen efectos no deseados sobre las poblaciones de menores ingresos y que al mismo tiempo ayude al logro de los objetivos climáticos.",
+                  "pagina": 38
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. El impuesto al carbono en Colombia",
+              "nivel": 3,
+              "paginas": "39-40",
+              "resumen": "Colombia aplica desde 2017 un impuesto aguas arriba sobre combustibles fósiles, indexado hasta aproximarse a 35 USD y con cobertura de 20% de GEI. Permite compensaciones de emisiones, limitadas a 50% desde 2022, y asigna 80% de la recaudación climática al FONSUREC y 20% al Fondo Colombia en Paz.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Colombia introdujo el impuesto al carbono desde 2017 como parte del conjunto de instrumentos que buscan desincentivar el consumo de combustibles fósiles y hacer frente a los compromisos de reducción de emisiones adquiridos bajo el Acuerdo de París.",
+                  "pagina": 39
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "De acuerdo con la Ley, se debe destinar el 80% de estos recursos para el financiamiento de medidas de acción climática para impulsar el desarrollo bajo en carbono del país y las previstas en la NDC.",
+                  "pagina": 39
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. El impuesto al carbono en Argentina",
+              "nivel": 3,
+              "paginas": "40-41",
+              "resumen": "Argentina introdujo en 2018 un impuesto específico al dióxido de carbono para combustibles líquidos y sólidos, con aplicación en energía, industria, transporte, minería y agricultura. Su tasa se escalona hasta 2028, cubre 38% de GEI y distribuye la recaudación entre tesoro, provincias, vivienda, seguridad social e infraestructura.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "El impuesto al carbono comenzó a implementarse en Argentina en marzo de 2018 luego de ser aprobada la reforma tributaria de 2017 (Ley 27.430).",
+                  "pagina": 40
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. El impuesto al carbono en Uruguay",
+              "nivel": 3,
+              "paginas": "41-42",
+              "resumen": "Uruguay aplica desde 2022 un impuesto sobre gasolinas con tasa de 155 USD/tCO2 en 2023 y 164,31 en 2024, coherente con referencias científicas, pero solo cubre 4% de GEI. El texto destaca la facultad de destinar ingresos a reducción de emisiones, transporte sostenible y adaptación, y propone coordinación regional para un precio mínimo.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Uruguay marca un precedente entre los países de América Latina y el Caribe (y entre muchas economías desarrolladas) al aplicar precios al carbono coherentes con los sugeridos por la ciencia para estar en línea con los objetivos del Acuerdo de París.",
+                  "pagina": 42
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "Las normas vigentes le entregan facultades al poder ejecutivo para destinar un porcentaje (sin definirlo) de los ingresos por el impuesto al carbono para financiar políticas que promueven la reducción de emisiones, el transporte sostenible y la adaptación de los ecosistemas y los sistemas productivos al cambio climático.",
+                  "pagina": 42,
+                  "subtipo_brecha": "retrospectiva"
+                }
+              ],
+              "subsecciones": []
+            }
           ]
         },
         {
@@ -173,9 +329,58 @@
           "resumen": "Define el ETS como un límite cuantitativo con permisos asignados y negociables, y describe sus pasos, ventajas y exigencias de monitoreo, reporte y verificación. Revisa el piloto mexicano, avances legislativos de Brasil, Argentina y Colombia, el ETS europeo y CBAM, y la cooperación del Artículo 6.",
           "dimensiones": [],
           "subsecciones": [
-            {"seccion": "1. Avances en países de América Latina", "nivel": 3, "paginas": "43-44", "resumen": "Muestra que los mercados regionales de carbono son incipientes: México opera un ETS piloto desde 2020, Brasil tramita el SBCE, Argentina discute un mercado regulado y Colombia diseña el PNCTE para 2030. Los instrumentos se vinculan con compensaciones, Artículo 6 y mercados voluntarios.", "dimensiones": [{"dimension": "avances_implementacion", "cita": "Desde 2020 el ETS se encuentra en fase piloto, la que se dividió en dos etapas: fase piloto del 2020 al 2021 y fase de transición el 2022.", "pagina": 43}], "subsecciones": []},
-            {"seccion": "2. El Sistema de permisos de emisiones transables y el mecanismo de ajuste en frontera por carbono de la UE (CBAM)", "nivel": 3, "paginas": "44-45", "resumen": "Explica el ETS europeo y el CBAM como mecanismo para igualar condiciones entre productores europeos y externos mediante precio a importaciones de hierro, acero, cemento, aluminio, fertilizantes, electricidad e hidrógeno. Estima efectos heterogéneos según exportaciones, intensidad de carbono, metas y capacidades de MRV; Honduras y Trinidad y Tabago aparecen como economías más expuestas.", "dimensiones": [{"dimension": "contexto_antecedentes", "cita": "La Unión Europea (UE) creó en 2005 el sistema de permisos de emisiones transables con el objetivo de reducir sus emisiones de GEI.", "pagina": 44}, {"dimension": "desafios", "cita": "El anuncio de este nuevo instrumento ha despertado interés a nivel internacional por sus potenciales impactos sobre la competitividad de las economías.", "pagina": 44}], "subsecciones": []},
-            {"seccion": "3. El Artículo 6 y los mercados de carbono", "nivel": 3, "paginas": "45-46", "resumen": "Describe los enfoques cooperativos del Artículo 6: transferencias internacionales, mecanismo centralizado y cooperación no basada en mercado. Identifica mercados de cumplimiento y voluntarios y registra proyectos piloto con Chile, Dominica, Perú, Uruguay, Costa Rica, México, Colombia, República Dominicana y Paraguay.", "dimensiones": [{"dimension": "propuestas_politica", "cita": "De esta manera, bajo el Artículo 6 se abre la posibilidad de crear mercados de carbono tanto nacionales como internacionales.", "pagina":  45}, {"dimension": "oportunidades", "cita": "En América Latina y el Caribe existen esfuerzos nacionales por avanzar y aprovechar las oportunidades que ofrece el Artículo 6 del Acuerdo de París", "pagina": 46}], "subsecciones": []}
+            {
+              "seccion": "1. Avances en países de América Latina",
+              "nivel": 3,
+              "paginas": "43-44",
+              "resumen": "Muestra que los mercados regionales de carbono son incipientes: México opera un ETS piloto desde 2020, Brasil tramita el SBCE, Argentina discute un mercado regulado y Colombia diseña el PNCTE para 2030. Los instrumentos se vinculan con compensaciones, Artículo 6 y mercados voluntarios.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Desde 2020 el ETS se encuentra en fase piloto, la que se dividió en dos etapas: fase piloto del 2020 al 2021 y fase de transición el 2022.",
+                  "pagina": 43
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. El Sistema de permisos de emisiones transables y el mecanismo de ajuste en frontera por carbono de la UE (CBAM)",
+              "nivel": 3,
+              "paginas": "44-45",
+              "resumen": "Explica el ETS europeo y el CBAM como mecanismo para igualar condiciones entre productores europeos y externos mediante precio a importaciones de hierro, acero, cemento, aluminio, fertilizantes, electricidad e hidrógeno. Estima efectos heterogéneos según exportaciones, intensidad de carbono, metas y capacidades de MRV; Honduras y Trinidad y Tabago aparecen como economías más expuestas.",
+              "dimensiones": [
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "La Unión Europea (UE) creó en 2005 el sistema de permisos de emisiones transables con el objetivo de reducir sus emisiones de GEI.",
+                  "pagina": 44
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "El anuncio de este nuevo instrumento ha despertado interés a nivel internacional por sus potenciales impactos sobre la competitividad de las economías.",
+                  "pagina": 44
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. El Artículo 6 y los mercados de carbono",
+              "nivel": 3,
+              "paginas": "45-46",
+              "resumen": "Describe los enfoques cooperativos del Artículo 6: transferencias internacionales, mecanismo centralizado y cooperación no basada en mercado. Identifica mercados de cumplimiento y voluntarios y registra proyectos piloto con Chile, Dominica, Perú, Uruguay, Costa Rica, México, Colombia, República Dominicana y Paraguay.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "De esta manera, bajo el Artículo 6 se abre la posibilidad de crear mercados de carbono tanto nacionales como internacionales.",
+                  "pagina": 45
+                },
+                {
+                  "dimension": "oportunidades",
+                  "cita": "En América Latina y el Caribe existen esfuerzos nacionales por avanzar y aprovechar las oportunidades que ofrece el Artículo 6 del Acuerdo de París",
+                  "pagina": 46
+                }
+              ],
+              "subsecciones": []
+            }
           ]
         },
         {
@@ -185,8 +390,44 @@
           "resumen": "Evalúa la evidencia disponible sobre impactos en consumo, emisiones y recaudación, destacando que la aplicación regional es reducida y los precios bajos. Las subsecciones muestran elasticidades inelásticas y simulan reformas parcial e integral de subsidios, con ganancias fiscales, ambientales, sanitarias y de bienestar.",
           "dimensiones": [],
           "subsecciones": [
-            {"seccion": "1. La elasticidad de la demanda de gasolinas", "nivel": 3, "paginas": "46-49", "resumen": "Usa un meta-análisis de 151 estimaciones de elasticidad ingreso y 208 de elasticidad precio para mostrar que la demanda regional responde poco a precios, especialmente en el corto plazo. Relaciona la inelasticidad con falta de transporte público eficiente y recomienda combinar precios con electromovilidad, eficiencia, tecnología y alternativas de movilidad.", "dimensiones": [{"dimension": "estado_de_situacion", "cita": "Los resultados de las estimaciones a nivel internacional muestran que la elasticidad precio de los combustibles es inelástica en el corto plazo, lo que indica que la respuesta de la demanda es desproporcionadamente baja frente a cambios en el precio.", "pagina": 47}, {"dimension": "propuestas_politica", "cita": "En el caso de América Latina y el Caribe la menor elasticidad evidencia también que no existe un transporte público eficiente y de calidad que pueda considerarse como substituto del transporte privado.", "pagina": 48}], "subsecciones": []},
-            {"seccion": "2. La reforma a los subsidios", "nivel": 3, "paginas": "49-51", "resumen": "Simula una reforma parcial que cierra la mitad de la brecha hacia precios eficientes y una integral que la cierra completamente en 2030. Reporta aumentos de ingresos, reducciones de CO2 y muertes por contaminación, y beneficios netos positivos, aunque advierte que la distribución de ingresos fiscales condiciona el resultado.", "dimensiones": [{"dimension": "avances_implementacion", "cita": "La simulación en modelos macroeconómicos de la reforma de los subsidios a los combustibles fósiles planteada en Black y otros (2023) arroja resultados netos positivos en los países de América Latina y el Caribe.", "pagina": 49}, {"dimension": "propuestas_politica", "cita": "Lo anterior lleva a considerar que en América Latina y el Caribe hay espacio para reducir y eliminar gradualmente los subsidios a los combustibles fósiles, aliviando con ello la carga fiscal del estado para este rubro.", "pagina": 49}], "subsecciones": []}
+            {
+              "seccion": "1. La elasticidad de la demanda de gasolinas",
+              "nivel": 3,
+              "paginas": "46-49",
+              "resumen": "Usa un meta-análisis de 151 estimaciones de elasticidad ingreso y 208 de elasticidad precio para mostrar que la demanda regional responde poco a precios, especialmente en el corto plazo. Relaciona la inelasticidad con falta de transporte público eficiente y recomienda combinar precios con electromovilidad, eficiencia, tecnología y alternativas de movilidad.",
+              "dimensiones": [
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Los resultados de las estimaciones a nivel internacional muestran que la elasticidad precio de los combustibles es inelástica en el corto plazo, lo que indica que la respuesta de la demanda es desproporcionadamente baja frente a cambios en el precio.",
+                  "pagina": 47
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "cita": "En el caso de América Latina y el Caribe la menor elasticidad evidencia también que no existe un transporte público eficiente y de calidad que pueda considerarse como substituto del transporte privado.",
+                  "pagina": 48
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. La reforma a los subsidios",
+              "nivel": 3,
+              "paginas": "49-51",
+              "resumen": "Simula una reforma parcial que cierra la mitad de la brecha hacia precios eficientes y una integral que la cierra completamente en 2030. Reporta aumentos de ingresos, reducciones de CO2 y muertes por contaminación, y beneficios netos positivos, aunque advierte que la distribución de ingresos fiscales condiciona el resultado.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "La simulación en modelos macroeconómicos de la reforma de los subsidios a los combustibles fósiles planteada en Black y otros (2023) arroja resultados netos positivos en los países de América Latina y el Caribe.",
+                  "pagina": 49
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Lo anterior lleva a considerar que en América Latina y el Caribe hay espacio para reducir y eliminar gradualmente los subsidios a los combustibles fósiles, aliviando con ello la carga fiscal del estado para este rubro.",
+                  "pagina": 49
+                }
+              ],
+              "subsecciones": []
+            }
           ]
         },
         {
@@ -196,12 +437,105 @@
           "resumen": "Presenta el precio social como señal ex ante para orientar la evaluación de inversión pública hacia opciones bajas en carbono y explica tres metodologías: costo social, costo de mitigación y definición basada en evidencia. Los casos de Chile, Perú, Costa Rica, República Dominicana, Nicaragua y Honduras muestran estimaciones, mesas interministeriales, análisis multicriterio y desafíos de implementación.",
           "dimensiones": [],
           "subsecciones": [
-            {"seccion": "1. Precio social del carbono en Chile", "nivel": 3, "paginas": "55-57", "resumen": "Chile aplica el precio sombra desde 2013 y actualizó su valor con una curva de costos marginales basada en NDC 2030 y carbono-neutralidad 2050. La Mesa interministerial con Desarrollo Social, Energía, Medio Ambiente y Hacienda obtuvo una trayectoria de 32,5 USD/tCO2 en 2020 a 264,15 en 2050, con 63,4 en 2024.", "dimensiones": [{"dimension": "avances_implementacion", "cita": "Chile también aplica un precio social del carbono en el proceso de evaluación de los proyectos de inversión pública.", "pagina": 55}, {"dimension": "propuestas_politica", "cita": "La CEPAL desde 2019 ha prestado apoyo técnico a la Mesa para la Actualización del Precio Social del Carbono y como resultado de este trabajo se cuenta con una nueva actualización del precio social del carbono para 2024.", "pagina": 56}], "subsecciones": []},
-            {"seccion": "2. Precio social del carbono en Perú", "nivel": 3, "paginas": "57-59", "resumen": "Perú actualiza su precio social para evaluar inversión pública mediante modelos DICE y PAGE y una tasa social de descuento decreciente. La estimación promedio para 2020 es 30 USD/tCO2 con esa tasa, frente a 162 con tasas por defecto, mostrando el peso de valorar daños y generaciones futuras.", "dimensiones": [{"dimension": "avances_implementacion", "cita": "El Ministerio de Economía y Finanzas, a través de la Dirección General de Programación Multianual de Inversiones, ha actualizado el precio social del carbono para utilizarlo en los análisis costo-beneficio durante la evaluación de los proyectos de inversión pública.", "pagina": 58}], "subsecciones": []},
-            {"seccion": "3. Precio social del carbono en Costa Rica", "nivel": 3, "paginas": "59-60", "resumen": "Costa Rica incorporó desde 2023 el precio social en inversión pública para cumplir su NDC y trayectoria de descarbonización. MIDEPLAN evaluó 38 fuentes mediante análisis multicriterio y AHP; la referencia IPCC obtuvo 82,4 puntos y se recomendó aplicar 40 USD 2021/tCO2.", "dimensiones": [{"dimension": "avances_implementacion", "cita": "Para el cálculo del precio social del carbono de Costa Rica el MIDEPLAN decidió utilizar la metodología “Definición política basada en evidencia”.", "pagina": 59}, {"dimension": "propuestas_politica", "cita": "El resultado de la aplicación de este método indicó que la fuente de mejor desempeño para ser usado como precio social del carbono para Costa Rica es la del Grupo Intergubernamental de Expertos sobre el Cambio Climático entregada en el Sexto Informe de Evaluación del 2022 (IPCC, 2022).", "pagina": 60}], "subsecciones": []},
-            {"seccion": "4. Precio social del carbono en República Dominicana", "nivel": 3, "paginas": "61-62", "resumen": "República Dominicana estima un precio sombra con DICE y PAGE y tasa decreciente, obteniendo 26 USD 2021/tCO2 para 2020 y proyecciones de 32 en 2025 y 38 en 2030. Su incorporación a proyectos busca reducir rentabilidad social de inversiones intensivas en carbono y elevar la de alternativas bajas en emisiones.", "dimensiones": [{"dimension": "propuestas_politica", "cita": "Buscando que las inversiones públicas también contribuyan al cumplimiento de los compromisos climáticos del país, el SNIP decidió estimar el precio social del carbono e incluirlo en la evaluación de proyectos.", "pagina":  61}], "subsecciones": []},
-            {"seccion": "5. Precio social del carbono en Nicaragua", "nivel": 3, "paginas": "62-63", "resumen": "Nicaragua estimó en 2023 un precio social usando DICE y PAGE con la tasa nacional de descuento de 8%, obteniendo un promedio de 8 USD 2021/tCO2. El instrumento moderniza la gestión de inversión, mejora la comparación con alternativas convencionales y puede facilitar financiamiento para metas de energía renovable, bosques y gases fluorados.", "dimensiones": [{"dimension": "avances_implementacion", "cita": "En 2023, con el apoyo de la CEPAL y el Programa EUROCLIMA, Nicaragua realizó la estimación usando la metodología “Costo Social del Carbono”.", "pagina": 62}], "subsecciones": []},
-            {"seccion": "6. Precio social del carbono en Honduras", "nivel": 3, "paginas": "63-64", "resumen": "Honduras diseña su precio social mediante evidencia y análisis multicriterio con profesionales de cuatro instituciones. La mejor fuente fue IPCC 2022 con 79,9 puntos y 40 USD/tCO2, pero se optó por iniciar en 10 USD en 2024 y escalar a 40 en 2030; queda como desafío proyectar emisiones por tipo de proyecto.", "dimensiones": [{"dimension": "avances_implementacion", "cita": "La estimación del precio social del carbono en Honduras se realizó a partir de la metodología “Definición política basada en evidencia” al igual que han hecho Canadá, Chile y recientemente Costa Rica.", "pagina": 63}, {"dimension": "desafios", "cita": "En general, una vez definido el precio social del carbono a nivel nacional, el mayor desafió en su aplicación se encuentra en poder realizar la proyección de emisiones asociadas a las distintas alternativas de proyectos y/o políticas públicas por parte de los profesionales sectorialistas.", "pagina": 64}], "subsecciones": []}
+            {
+              "seccion": "1. Precio social del carbono en Chile",
+              "nivel": 3,
+              "paginas": "55-57",
+              "resumen": "Chile aplica el precio sombra desde 2013 y actualizó su valor con una curva de costos marginales basada en NDC 2030 y carbono-neutralidad 2050. La Mesa interministerial con Desarrollo Social, Energía, Medio Ambiente y Hacienda obtuvo una trayectoria de 32,5 USD/tCO2 en 2020 a 264,15 en 2050, con 63,4 en 2024.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Chile también aplica un precio social del carbono en el proceso de evaluación de los proyectos de inversión pública.",
+                  "pagina": 55
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "La CEPAL desde 2019 ha prestado apoyo técnico a la Mesa para la Actualización del Precio Social del Carbono y como resultado de este trabajo se cuenta con una nueva actualización del precio social del carbono para 2024.",
+                  "pagina": 56
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "2. Precio social del carbono en Perú",
+              "nivel": 3,
+              "paginas": "57-59",
+              "resumen": "Perú actualiza su precio social para evaluar inversión pública mediante modelos DICE y PAGE y una tasa social de descuento decreciente. La estimación promedio para 2020 es 30 USD/tCO2 con esa tasa, frente a 162 con tasas por defecto, mostrando el peso de valorar daños y generaciones futuras.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "El Ministerio de Economía y Finanzas, a través de la Dirección General de Programación Multianual de Inversiones, ha actualizado el precio social del carbono para utilizarlo en los análisis costo-beneficio durante la evaluación de los proyectos de inversión pública.",
+                  "pagina": 58
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "3. Precio social del carbono en Costa Rica",
+              "nivel": 3,
+              "paginas": "59-60",
+              "resumen": "Costa Rica incorporó desde 2023 el precio social en inversión pública para cumplir su NDC y trayectoria de descarbonización. MIDEPLAN evaluó 38 fuentes mediante análisis multicriterio y AHP; la referencia IPCC obtuvo 82,4 puntos y se recomendó aplicar 40 USD 2021/tCO2.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "Para el cálculo del precio social del carbono de Costa Rica el MIDEPLAN decidió utilizar la metodología “Definición política basada en evidencia”.",
+                  "pagina": 59
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "El resultado de la aplicación de este método indicó que la fuente de mejor desempeño para ser usado como precio social del carbono para Costa Rica es la del Grupo Intergubernamental de Expertos sobre el Cambio Climático entregada en el Sexto Informe de Evaluación del 2022 (IPCC, 2022).",
+                  "pagina": 60
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "4. Precio social del carbono en República Dominicana",
+              "nivel": 3,
+              "paginas": "61-62",
+              "resumen": "República Dominicana estima un precio sombra con DICE y PAGE y tasa decreciente, obteniendo 26 USD 2021/tCO2 para 2020 y proyecciones de 32 en 2025 y 38 en 2030. Su incorporación a proyectos busca reducir rentabilidad social de inversiones intensivas en carbono y elevar la de alternativas bajas en emisiones.",
+              "dimensiones": [
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Buscando que las inversiones públicas también contribuyan al cumplimiento de los compromisos climáticos del país, el SNIP decidió estimar el precio social del carbono e incluirlo en la evaluación de proyectos.",
+                  "pagina": 61
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "5. Precio social del carbono en Nicaragua",
+              "nivel": 3,
+              "paginas": "62-63",
+              "resumen": "Nicaragua estimó en 2023 un precio social usando DICE y PAGE con la tasa nacional de descuento de 8%, obteniendo un promedio de 8 USD 2021/tCO2. El instrumento moderniza la gestión de inversión, mejora la comparación con alternativas convencionales y puede facilitar financiamiento para metas de energía renovable, bosques y gases fluorados.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "En 2023, con el apoyo de la CEPAL y el Programa EUROCLIMA, Nicaragua realizó la estimación usando la metodología “Costo Social del Carbono”.",
+                  "pagina": 62
+                }
+              ],
+              "subsecciones": []
+            },
+            {
+              "seccion": "6. Precio social del carbono en Honduras",
+              "nivel": 3,
+              "paginas": "63-64",
+              "resumen": "Honduras diseña su precio social mediante evidencia y análisis multicriterio con profesionales de cuatro instituciones. La mejor fuente fue IPCC 2022 con 79,9 puntos y 40 USD/tCO2, pero se optó por iniciar en 10 USD en 2024 y escalar a 40 en 2030; queda como desafío proyectar emisiones por tipo de proyecto.",
+              "dimensiones": [
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "La estimación del precio social del carbono en Honduras se realizó a partir de la metodología “Definición política basada en evidencia” al igual que han hecho Canadá, Chile y recientemente Costa Rica.",
+                  "pagina": 63
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "En general, una vez definido el precio social del carbono a nivel nacional, el mayor desafió en su aplicación se encuentra en poder realizar la proyección de emisiones asociadas a las distintas alternativas de proyectos y/o políticas públicas por parte de los profesionales sectorialistas.",
+                  "pagina": 64
+                }
+              ],
+              "subsecciones": []
+            }
           ]
         }
       ]
@@ -212,10 +546,26 @@
       "paginas": "65-67",
       "resumen": "Cierra con la tesis de que la crisis climática también ofrece una oportunidad productiva y laboral, pero exige acelerar seis a ocho veces el desacoplamiento entre crecimiento y emisiones. Resume la baja cobertura de precios, la desproporción de subsidios, los beneficios de reformarlos y la necesidad de combinar instrumentos de precio con capacidades, coordinación, compensaciones e inversión en sectores transformadores.",
       "dimensiones": [
-        {"dimension": "oportunidades", "cita": "El desafío del cambio climático es al mismo tiempo una oportunidad para contribuir a dinamizar el crecimiento de la economía de la región a través del impulso a sectores transformadores con capacidad de aportar al crecimiento del producto interno bruto, crear nuevos puestos de trabajo (formales), aumentar la productividad y ser más bajos en carbono y ambientalmente sustentables que su alternativa convencional basada en combustibles fósiles.", "pagina": 65},
-        {"dimension": "propuestas_politica", "cita": "Con excepción de Uruguay, los precios que se aplican en la región están muy por debajo de un precio consistente con lo recomendado por el IPCC para lograr los objetivos del Acuerdo de París, a saber, entre 60 y 120 USD", "pagina": 66},
-        {"dimension": "diagnostico_estructural", "cita": "A pesar de la dinámica en el financiamiento climático y el uso de instrumentos innovadores en la región, se identifica falta de coherencia entre las políticas económicas y sectoriales con los objetivos climáticos.", "pagina": 66},
-        {"dimension": "propuestas_politica", "cita": "La evaluación del proceso de reforma a los precios de los combustibles fósiles en la región da como resultado beneficios netos positivos en el bienestar.", "pagina": 67}
+        {
+          "dimension": "oportunidades",
+          "cita": "El desafío del cambio climático es al mismo tiempo una oportunidad para contribuir a dinamizar el crecimiento de la economía de la región a través del impulso a sectores transformadores con capacidad de aportar al crecimiento del producto interno bruto, crear nuevos puestos de trabajo (formales), aumentar la productividad y ser más bajos en carbono y ambientalmente sustentables que su alternativa convencional basada en combustibles fósiles.",
+          "pagina": 65
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Con excepción de Uruguay, los precios que se aplican en la región están muy por debajo de un precio consistente con lo recomendado por el IPCC para lograr los objetivos del Acuerdo de París, a saber, entre 60 y 120 USD",
+          "pagina": 66
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "A pesar de la dinámica en el financiamiento climático y el uso de instrumentos innovadores en la región, se identifica falta de coherencia entre las políticas económicas y sectoriales con los objetivos climáticos.",
+          "pagina": 66
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "La evaluación del proceso de reforma a los precios de los combustibles fósiles en la región da como resultado beneficios netos positivos en el bienestar.",
+          "pagina": 67
+        }
       ],
       "subsecciones": []
     }
@@ -225,27 +575,63 @@
       "veredicto": "Sí",
       "evidencia": "Supera el test de paquete coordinado porque el cierre articula precios al carbono, reforma de subsidios, inversión, financiamiento, normas, incentivos y compensaciones. Además nombra sectores estratégicos concretos —energías renovables, hidrógeno verde, litio, electromovilidad, economía circular, agricultura y turismo sostenibles— y vincula la transición con productividad, empleo, crecimiento y reducción de emisiones; por ello cumple el test 1 y los tests 2 y 3.",
       "citas": [
-        {"cita": "El desafío del cambio climático es al mismo tiempo una oportunidad para contribuir a dinamizar el crecimiento de la economía de la región a través del impulso a sectores transformadores con capacidad de aportar al crecimiento del producto interno bruto, crear nuevos puestos de trabajo (formales), aumentar la productividad y ser más bajos en carbono y ambientalmente sustentables que su alternativa convencional basada en combustibles fósiles.", "pagina": 65},
-        {"cita": "La reforma a los subsidios además de tener impacto sobre los ingresos fiscales también lograría modificar la trayectoria del consumo de los combustibles, y por este medio, las emisiones de gases de efecto invernadero.", "pagina": 67}
+        {
+          "cita": "El desafío del cambio climático es al mismo tiempo una oportunidad para contribuir a dinamizar el crecimiento de la economía de la región a través del impulso a sectores transformadores con capacidad de aportar al crecimiento del producto interno bruto, crear nuevos puestos de trabajo (formales), aumentar la productividad y ser más bajos en carbono y ambientalmente sustentables que su alternativa convencional basada en combustibles fósiles.",
+          "pagina": 65
+        },
+        {
+          "cita": "La reforma a los subsidios además de tener impacto sobre los ingresos fiscales también lograría modificar la trayectoria del consumo de los combustibles, y por este medio, las emisiones de gases de efecto invernadero.",
+          "pagina": 67
+        }
       ],
       "nota": null
     },
     "articulacion_actores": {
       "veredicto": "Sí",
       "evidencia": "El documento nombra mecanismos concretos dentro del ámbito regional de la política climática y financiera: la Coalición de Ministros de Finanzas para la Acción Climática, la Plataforma Regional de Cambio Climático de los Ministerios de Hacienda, Economía y Finanzas, la Red de Sistemas Nacionales de Inversión Pública y COSEFIN. No se limita a enumerar actores; los presenta como espacios de trabajo colectivo y coordinación.",
-      "citas": [{"cita": "Los Ministerios de Finanzas de la región vienen trabajando en ello de manera individual y a través de esfuerzos colectivos por medio de la Coalición de Ministros de Finanzas para la Acción Climática", "pagina":  31}],
+      "citas": [
+        {
+          "cita": "Los Ministerios de Finanzas de la región vienen trabajando en ello de manera individual y a través de esfuerzos colectivos por medio de la Coalición de Ministros de Finanzas para la Acción Climática",
+          "pagina": 31
+        }
+      ],
       "nota": null
     },
     "oportunidades_productivas_sostenibles": {
       "veredicto": "Sí",
       "evidencia": "Enumera sectores y actividades concretas —energías renovables, hidrógeno verde, litio, electromovilidad, economía circular, agricultura sostenible, soluciones basadas en la naturaleza, gestión sostenible del agua y turismo sostenible— y desarrolla su vínculo con PIB, empleo formal, productividad, calidad del aire, divisas y desigualdad. El cierre no deja el vínculo en una frase aspiracional.",
-      "citas": [{"cita": "El desafío del cambio climático es al mismo tiempo una oportunidad para contribuir a dinamizar el crecimiento de la economía de la región a través del impulso a sectores transformadores con capacidad de aportar al crecimiento del producto interno bruto, crear nuevos puestos de trabajo (formales), aumentar la productividad y ser más bajos en carbono y ambientalmente sustentables que su alternativa convencional basada en combustibles fósiles.", "pagina": 65}],
+      "citas": [
+        {
+          "cita": "El desafío del cambio climático es al mismo tiempo una oportunidad para contribuir a dinamizar el crecimiento de la economía de la región a través del impulso a sectores transformadores con capacidad de aportar al crecimiento del producto interno bruto, crear nuevos puestos de trabajo (formales), aumentar la productividad y ser más bajos en carbono y ambientalmente sustentables que su alternativa convencional basada en combustibles fósiles.",
+          "pagina": 65
+        }
+      ],
       "desglose_items": [
-        {"item": "Energías renovables, hidrógeno verde y litio para la transición energética", "clasificacion": "CONCRETO", "pagina": 65},
-        {"item": "Electromovilidad para desarrollo urbano y calidad del aire", "clasificacion": "CONCRETO", "pagina": 65},
-        {"item": "Economía circular para reducir demanda de materiales y divisas", "clasificacion": "CONCRETO", "pagina": 65},
-        {"item": "Agricultura sostenible y soluciones basadas en la naturaleza", "clasificacion": "CONCRETO", "pagina": 65},
-        {"item": "Gestión sostenible del agua y turismo sostenible", "clasificacion": "CONCRETO", "pagina": 65}
+        {
+          "item": "Energías renovables, hidrógeno verde y litio para la transición energética",
+          "clasificacion": "CONCRETO",
+          "pagina": 65
+        },
+        {
+          "item": "Electromovilidad para desarrollo urbano y calidad del aire",
+          "clasificacion": "CONCRETO",
+          "pagina": 65
+        },
+        {
+          "item": "Economía circular para reducir demanda de materiales y divisas",
+          "clasificacion": "CONCRETO",
+          "pagina": 65
+        },
+        {
+          "item": "Agricultura sostenible y soluciones basadas en la naturaleza",
+          "clasificacion": "CONCRETO",
+          "pagina": 65
+        },
+        {
+          "item": "Gestión sostenible del agua y turismo sostenible",
+          "clasificacion": "CONCRETO",
+          "pagina": 65
+        }
       ],
       "tally": "5 de 5 ítems pasan el test de oportunidad productiva sostenible",
       "nota": null
@@ -253,24 +639,69 @@
     "como_hacerlo_concreto": {
       "veredicto": "Parcial",
       "evidencia": "La sección final contiene una agenda de instrumentos identificables, pero mezcla acciones ejecutables con orientaciones generales de capacidades, coordinación y certeza regulatoria. Aplicando el test ítem por ítem a la voz normativa del cierre, pasan 5 de 8: precios al carbono, reforma de subsidios, precio social, compensaciones e inversión sectorial; fallan los ítems abstractos sobre capacidades, análisis de riesgos y coordinación sin entregable, responsable, plazo o métrica.",
-      "citas": [{"cita": "Entre los instrumentos de política que los países de la región pueden implementar para intentar reducir sus emisiones de GEI, destacan los instrumentos económicos como el impuesto al carbono, los sistemas de comercio de emisiones, el precio social del carbono y, la reforma de los subsidios a los combustibles fósiles, entre otros.", "pagina": 66}],
+      "citas": [
+        {
+          "cita": "Entre los instrumentos de política que los países de la región pueden implementar para intentar reducir sus emisiones de GEI, destacan los instrumentos económicos como el impuesto al carbono, los sistemas de comercio de emisiones, el precio social del carbono y, la reforma de los subsidios a los combustibles fósiles, entre otros.",
+          "pagina": 66
+        }
+      ],
       "desglose_items": [
-        {"item": "Aplicar precios al carbono más generalizados, coherentes con la externalidad y con mayor cobertura de GEI", "clasificacion": "CONCRETO", "pagina": 66},
-        {"item": "Reformar la política de subsidios para que las gasolinas incluyan los costos sociales de su uso", "clasificacion": "CONCRETO", "pagina": 67},
-        {"item": "Incorporar el precio social del carbono en la evaluación de la inversión pública", "clasificacion": "CONCRETO", "pagina": 66},
-        {"item": "Acompañar el diseño de instrumentos con medidas de compensación para sectores de menores ingresos", "clasificacion": "CONCRETO", "pagina": 66},
-        {"item": "Encauzar la inversión hacia energías renovables, hidrógeno verde, litio, electromovilidad y economía circular", "clasificacion": "CONCRETO", "pagina": 65},
-        {"item": "Expandir las capacidades privadas de análisis de riesgos financieros relativos al clima", "clasificacion": "GENERICO", "pagina": 66},
-        {"item": "Asegurar certeza a los inversionistas mediante marcos normativos y regulatorios", "clasificacion": "GENERICO", "pagina": 66},
-        {"item": "Coordinar autoridades fiscales, ambientales, energéticas y banca", "clasificacion": "GENERICO", "pagina": 66}
+        {
+          "item": "Aplicar precios al carbono más generalizados, coherentes con la externalidad y con mayor cobertura de GEI",
+          "clasificacion": "CONCRETO",
+          "pagina": 66
+        },
+        {
+          "item": "Reformar la política de subsidios para que las gasolinas incluyan los costos sociales de su uso",
+          "clasificacion": "CONCRETO",
+          "pagina": 67
+        },
+        {
+          "item": "Incorporar el precio social del carbono en la evaluación de la inversión pública",
+          "clasificacion": "CONCRETO",
+          "pagina": 66
+        },
+        {
+          "item": "Acompañar el diseño de instrumentos con medidas de compensación para sectores de menores ingresos",
+          "clasificacion": "CONCRETO",
+          "pagina": 66
+        },
+        {
+          "item": "Encauzar la inversión hacia energías renovables, hidrógeno verde, litio, electromovilidad y economía circular",
+          "clasificacion": "CONCRETO",
+          "pagina": 65
+        },
+        {
+          "item": "Expandir las capacidades privadas de análisis de riesgos financieros relativos al clima",
+          "clasificacion": "GENERICO",
+          "pagina": 66
+        },
+        {
+          "item": "Asegurar certeza a los inversionistas mediante marcos normativos y regulatorios",
+          "clasificacion": "GENERICO",
+          "pagina": 66
+        },
+        {
+          "item": "Coordinar autoridades fiscales, ambientales, energéticas y banca",
+          "clasificacion": "GENERICO",
+          "pagina": 66
+        }
       ],
       "tally": "5 de 8 ítems pasan el test de concreción",
       "nota": "Parcial: el cierre sí formula instrumentos y destinos sectoriales, pero las orientaciones de capacidad, certeza y coordinación carecen de entregable, responsable, plazo o métrica identificable."
     }
   },
   "tipologia": {
-    "transformacion_primaria": {"numero": 6, "nombre": "Sostenibilidad ambiental", "certeza": "Alta"},
-    "transformacion_secundaria": {"numero": 10, "nombre": "Macroeconomía y fiscalidad", "certeza": "Alta"},
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 10,
+      "nombre": "Macroeconomía y fiscalidad",
+      "certeza": "Alta"
+    },
     "razonamiento_5_pasos": {
       "tension_dialectica": "El documento procesa la contradicción entre una transición climática que exige descarbonizar y una estructura económica que mantiene subsidios fósiles, baja cobertura de precios al carbono y financiamiento insuficiente. La política fiscal y financiera es el canal central para cambiar esa trayectoria.",
       "filtro_categoria_primaria": "La transformación buscada es ambiental: reducir emisiones, orientar sectores e inversiones hacia bajas emisiones y cumplir el Acuerdo de París. Impuestos, mercados, precios sociales y subsidios son medios económicos para esa finalidad, no el objeto último.",

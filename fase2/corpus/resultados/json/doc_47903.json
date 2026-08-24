@@ -70,13 +70,7 @@
           "nivel": 2,
           "paginas": "13-14",
           "resumen": "Describe el equilibrio de radiación terrestre, el efecto invernadero natural y el papel de los gases de efecto invernadero y del carbono. Distingue fuentes y sumideros de CO2 y entrega la base física necesaria para interpretar las cuentas de emisiones y de carbono.",
-          "dimensiones": [
-            {
-              "dimension": "diagnostico_estructural",
-              "cita": "Gráfico 2 Emisiones por fuente (En porcentajes) Fuente: IPCC (2014); based on global emissions from 2010.",
-              "pagina": 13
-            }
-          ],
+          "dimensiones": [],
           "subsecciones": []
         },
         {
@@ -100,7 +94,7 @@
         },
         {
           "seccion": "1. Las presiones y fuerzas motrices que impulsan el cambio climático",
-        "nivel": 2,
+          "nivel": 2,
           "paginas": "17-18",
           "resumen": "Ordena las presiones humanas que explican el cambio climático y vincula producción, consumo, energía y uso del suelo con emisiones. La sección prepara la clasificación contable de fuerzas motrices que después desarrollará el SCAE para apoyar el diagnóstico climático.",
           "dimensiones": [
@@ -181,13 +175,7 @@
               "nivel": 3,
               "paginas": "22-22",
               "resumen": "Aborda instrumentos para enfrentar pérdidas catastróficas que no pueden evitarse por completo mediante mitigación o adaptación. La sección incorpora evaluación de riesgos, seguros y mecanismos de compensación como ámbitos que requieren información sistemática.",
-              "dimensiones": [
-                {
-                  "dimension": "desafios",
-                  "cita": "Estos se reflejan actualmente en las cuentas de gastos del sector público; sin embargo, la información no está claramente identificada ya que no está clasificada en términos de función o intención.",
-                  "pagina": 22
-                }
-              ],
+              "dimensiones": [],
               "subsecciones": []
             }
           ]
@@ -250,7 +238,7 @@
           "resumen": "Relaciona las cuentas del SCAE con las etapas del ciclo climático y muestra qué módulos informan fuerzas motrices, presiones, impactos y respuestas. También subraya que el marco puede ampliarse cuando surgen nuevas necesidades de información climática.",
           "dimensiones": [
             {
-              "dimension": "propuestas_politica",
+              "dimension": "estado_de_situacion",
               "cita": "El SCAE y el cambio climático El SCAE no aborda explícitamente el cambio climático, en el sentido que no existe un manual o cuenta específica de cambio climático, pero tanto el enfoque conceptual, como muchas de las cuentas específicas, son relevantes para el análisis de la política climática.",
               "pagina": 27
             }
@@ -317,13 +305,7 @@
               "nivel": 3,
               "paginas": "39-39",
               "resumen": "Presenta la cuenta de agua para registrar disponibilidad, extracción, uso y productividad del recurso por sectores y territorios. La información sirve para evaluar presiones climáticas y opciones de adaptación asociadas a sequías e inundaciones.",
-              "dimensiones": [
-                {
-                  "dimension": "propuestas_politica",
-                  "cita": "Por lo tanto, proporciona una conexión directa entre los costos y beneficios asociados con las emisi ones que impulsan el cambio climático.",
-                  "pagina": 39
-                }
-              ],
+              "dimensiones": [],
               "subsecciones": []
             },
             {
@@ -453,13 +435,7 @@
               "nivel": 3,
               "paginas": "58-60",
               "resumen": "Presenta modelos de equilibrio general computable y otras herramientas para simular efectos económicos, sectoriales y distributivos de políticas climáticas. Los ejercicios comparados muestran cómo el SCAE puede alimentar escenarios y evaluar costos, beneficios y respuestas.",
-              "dimensiones": [
-                {
-                  "dimension": "propuestas_politica",
-                  "cita": "Sin embargo, una perspectiva de consumo sugiere que la fuente de contaminación final, o de última instancia, es el consumidor.",
-                  "pagina": 58
-                }
-              ],
+              "dimensiones": [],
               "subsecciones": []
             }
           ]
@@ -477,11 +453,6 @@
           "cita": "El SCAE proporciona un enfoque coherente y sistemático para una política climática basada en evidencia.",
           "pagina": 61,
           "subtipo_brecha": "retrospectiva"
-        },
-        {
-          "dimension": "propuestas_politica",
-          "cita": "El SCAE proporciona un enfoque coherente y sistemático para una política climática basada en evidencia.",
-          "pagina": 61
         }
       ],
       "subsecciones": []

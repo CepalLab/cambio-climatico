@@ -13,6 +13,11 @@ producidos y certificados durante Fase 2.
 de producción, conserva sus rutas de origen y registra procedencia, hashes y disponibilidad de certificados.
 Antes de generar derivados, debe comprobarse que mantenga 244 handles únicos y correspondencia con el CSV.
 
+El `num_muestra` de resultados de producción se reconstruye, cuando falta, desde `corpus_order` del ledger,
+que es el orden estable del corpus definitivo. No se usa el orden alfabético de archivos ni la posición local
+de un lote. La corrección se aplica al campo `documento.num_muestra`, se registra en el historial de cambios
+y, si el resultado tiene certificado, se actualiza el `result_sha256` del certificado.
+
 ### Fase 3.0 — Depuración del universo
 
 Identificar las publicaciones que se incorporaron al corpus por error y excluirlas antes de construir
@@ -22,6 +27,31 @@ indicadores agregados.
 - Registrar cada exclusión con `handle`, título, motivo, responsable, fecha y decisión.
 - Mantener separados el corpus histórico completo y el corpus activo para análisis.
 - Regenerar inventarios, denominadores y manifiestos desde las exclusiones aprobadas.
+
+#### Procedimiento para revisiones y ajustes
+
+Las alertas automáticas —por ejemplo, documentos cuya tipología no contiene `Sostenibilidad ambiental`
+— son colas de revisión, no decisiones de exclusión. Cada caso debe clasificarse en una de estas tres
+salidas:
+
+1. **Mantener sin cambios:** la clasificación y la inclusión en el corpus son defendibles.
+2. **Reclasificar:** el documento pertenece al corpus, pero cambia su transformación primaria o secundaria.
+3. **Excluir:** el documento no debió formar parte del corpus; se conserva su JSON como registro histórico.
+
+Las reclasificaciones y las exclusiones se registran por separado. El registro mínimo de cada revisión es:
+`handle`, título, ruta del JSON, clasificación actual, propuesta, tipo de decisión, evidencia revisada,
+justificación, certeza, revisor, fecha y estado (`pendiente`, `adjudicado` o `aplicado`). La decisión debe
+revisarse contra la pregunta de investigación, resumen, conclusiones, estructura del documento y anclas de
+`TIPOLOGIA_v0.md`, distinguiendo el objeto sustantivo de los instrumentos institucionales.
+
+Los registros de trabajo son [revisiones_tipologia_v1.csv](revisiones_tipologia_v1.csv) y
+[exclusiones_corpus_v1.csv](exclusiones_corpus_v1.csv). El primer caso registrado es `11362/48413`, como
+propuesta pendiente de adjudicación; el registro de exclusiones todavía no contiene decisiones.
+
+Una decisión adjudicada se aplica solo de forma individual y explícita al JSON canónico. Se conserva un
+registro antes/después; si existe certificado, se regenera y se actualiza su hash. Luego se regenera el
+inventario y se ejecutan controles de handles, esquema y la alerta que originó la revisión. No se hacen
+reescrituras masivas ni se convierten las alertas tipológicas en exclusiones automáticas.
 
 ### Fase 3.1 — Revisión transversal de dimensiones y citas
 

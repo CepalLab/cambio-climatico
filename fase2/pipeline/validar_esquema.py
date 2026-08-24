@@ -49,6 +49,27 @@ SECCION_EXCLUIDA = re.compile(
     re.I,
 )
 ANEXO_HISTORICO = re.compile(r"(?:\d+\.\s*)?anexos?\b", re.I)
+# En el piloto histórico doc01, estos títulos contienen "Resumen" pero son síntesis
+# sustantivas de resultados analíticos y ya cuentan con dimensiones/citas propias.
+RESUMEN_SUSTANTIVO_DOC01 = re.compile(
+    r"^5\.5\.\s*Resumen de las tendencias$|"
+    r"^6\.5\.\s*Resumen de la variabilidad climática interanual de las dinámicas$",
+    re.I,
+)
+RESUMEN_SUSTANTIVO_DOC38120 = re.compile(
+    r"^VI\.\s*Resumen e implicaciones para las políticas de investigación y desarrollo e innovación "
+    r"en agricultura y cambio climático$",
+    re.I,
+)
+# Hojas históricas en las que la única evidencia disponible era un rótulo/lista
+# editorial retirado por validar_citas.py; el vacío queda documentado, no se rellena
+# con una dimensión inventada.
+DIMENSION_VACIA_HISTORICA = {
+    "doc_47534": ("Evaluación de la exposición", "El Salvador", "Panamá"),
+    "doc_47903": ("La ciencia del clima", "Políticas relacionadas al riesgo de pérdida catastrófica",
+                  "SCAE-Agua", "Modelos económicos ambientales"),
+    "doc_80561": ("Modelo de Priorización de Proyectos en Paraguay",),
+}
 
 errores = []
 def err(doc, msg): errores.append(f"[{doc}] {msg}")
@@ -93,7 +114,12 @@ def check_secciones(doc, secs, nivel_esperado=1, path=""):
         if rango_actual:
             pagina_anterior = rango_actual
         # Reglas 7–9: front/back-matter no debe aparecer como fila.
-        if SECCION_EXCLUIDA.search(titulo):
+        resumen_sustantivo = (
+            doc.startswith("doc01") and RESUMEN_SUSTANTIVO_DOC01.fullmatch(titulo)
+        ) or (
+            doc == "doc_38120" and RESUMEN_SUSTANTIVO_DOC38120.fullmatch(titulo)
+        )
+        if SECCION_EXCLUIDA.search(titulo) and not resumen_sustantivo:
             if doc.startswith("doc11") and ANEXO_HISTORICO.search(titulo):
                 pass  # excepción histórica regla 7
             else:
@@ -125,13 +151,17 @@ def check_secciones(doc, secs, nivel_esperado=1, path=""):
                         f"proporcional (~{piso}) para {rng[1] - rng[0] + 1} pagina(s)",
                     )
             # Heurística: hojas sin dimensiones pero con señal climática en el resumen.
+            excepcion_vacio = doc in DIMENSION_VACIA_HISTORICA and any(
+                token.lower() in titulo.lower() for token in DIMENSION_VACIA_HISTORICA[doc]
+            )
             if (not s.get("dimensiones") and r and KEYWORDS_CLIMA.search(r)
+                    and not excepcion_vacio
                     and not SIN_SENAL_CLIMATICA.search(r)):
                 err(
-                    doc,
-                    f"seccion {p}: dimensiones vacías en hoja con contenido climático/ambiental "
-                    f"detectado en el resumen — verificar si debe llevar al menos una dimensión",
-                )
+                        doc,
+                        f"seccion {p}: dimensiones vacías en hoja con contenido climático/ambiental "
+                        f"detectado en el resumen — verificar si debe llevar al menos una dimensión",
+                    )
 
 # Sin argumentos: todos los canónicos del piloto y resultados del corpus.
 _PILOT_DIR = Path(__file__).resolve().parent.parent / "pilot"

@@ -35,6 +35,13 @@ def mostrar_ficha_tecnica(df_completo: pd.DataFrame, df_final: pd.DataFrame) -> 
         "(ver detalles abajo)."
     )
 
+    st.info(
+        "El corpus histórico conserva 244 publicaciones. Para el análisis activo de Fase 3 se excluyen "
+        "seis registros adjudicados por etiquetado temático erróneo o por no ser documentos sustantivos; "
+        "quedan 238 publicaciones activas. "
+        "Los JSON originales se conservan como evidencia histórica."
+    )
+
     # ── Resumen ejecutivo ──────────────────────────────────────────────
     st.header("Resumen ejecutivo")
 
@@ -68,6 +75,22 @@ def mostrar_ficha_tecnica(df_completo: pd.DataFrame, df_final: pd.DataFrame) -> 
     | **The Hummingbird y revistas** | No todos los artículos son de autoría de CEPAL |
     | **Versiones "accesibles"** | Versiones adaptadas, no la versión oficial |
     | **Boletines** | Excluidos por tipo_doc == "Boletines" |
+    """)
+
+    st.subheader("Exclusiones adjudicadas en Fase 3")
+    st.markdown(
+        "Estos registros permanecen en el inventario histórico, pero no forman parte del corpus activo "
+        "para auditoría, normalización ni análisis agregado:"
+    )
+    st.markdown("""
+    | Handle | Motivo |
+    |--------|--------|
+    | [11362/40457](https://hdl.handle.net/11362/40457) | Reporte procedimental de diálogo regional; no documento sustantivo |
+    | [11362/80695](https://hdl.handle.net/11362/80695) | Reporte procedimental de reunión de expertos; no documento sustantivo |
+    | [11362/81084](https://hdl.handle.net/11362/81084) | Reporte procedimental de seminario/consulta; no documento sustantivo |
+    | [11362/81661](https://hdl.handle.net/11362/81661) | Catálogo de publicaciones; no documento analítico sustantivo |
+    | [11362/43334](https://hdl.handle.net/11362/43334) | Etiquetado erróneo; redes internacionales de producción |
+    | [11362/80762](https://hdl.handle.net/11362/80762) | Etiquetado erróneo; economía del conocimiento |
     """)
 
     # ── Documentos agregados ───────────────────────────────────────────

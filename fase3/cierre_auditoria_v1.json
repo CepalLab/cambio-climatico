@@ -1,0 +1,27 @@
+{
+  "version": "cierre-auditoria-v1",
+  "generado_en": "2026-08-24T20:03:40+00:00",
+  "fuentes": {
+    "validacion": "fase3/validacion_esquema_activo_v1.json",
+    "revision_paginacion": "fase3/revision_paginacion_v1.csv"
+  },
+  "denominador": {
+    "historico": 244,
+    "exclusiones_aplicadas": 6,
+    "activo": 238
+  },
+  "resultado_bruto": {
+    "validados": 238,
+    "sin_observaciones": 230,
+    "con_observaciones": 8
+  },
+  "alertas_detectadas": 11,
+  "alertas_aceptadas": 11,
+  "documentos_con_alertas_brutas": 8,
+  "pendientes_efectivos": 0,
+  "estado": "cerrada_sin_pendientes_efectivos",
+  "decisiones": {
+    "paginacion": "mantener_rangos_aproximados_y_solapamientos_documentados",
+    "otras_observaciones": "resueltas_en_revisiones_de_doc01_doc38120_doc38985_y_doc44590"
+  }
+}

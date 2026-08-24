@@ -50,7 +50,11 @@
       "paginas": "8-9",
       "resumen": "La introducción define el cambio climático como una externalidad asociada principalmente al consumo de combustibles fósiles y presenta los instrumentos disponibles para internalizarla: impuestos al carbono, mercados de emisiones, estándares de eficiencia, tecnologías menos contaminantes e investigación y desarrollo. Explica que la evaluación de costo-beneficio debe complementarse con el análisis de desigualdad, porque los patrones de consumo y las fuentes de ingreso varían entre hogares. El estudio se propone analizar los impactos distributivos de esas políticas mediante revisión de literatura, meta-análisis y encuestas de ingreso-gasto de América Latina, y anticipa las secciones dedicadas a instrumentos, evidencia, estimación y conclusiones.",
       "dimensiones": [
-        {"dimension": "diagnostico_estructural", "cita": "Así, el principal objetivo de este estudio es analizar el impacto distributivo de las políticas públicas aplicadas para la mitigación de gases de efecto invernadero.", "pagina": 8}
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Así, el principal objetivo de este estudio es analizar el impacto distributivo de las políticas públicas aplicadas para la mitigación de gases de efecto invernadero.",
+          "pagina": 8
+        }
       ],
       "subsecciones": []
     },
@@ -60,8 +64,16 @@
       "paginas": "10-13",
       "resumen": "Esta sección compara cinco familias de instrumentos de mitigación: impuesto a las emisiones, mercado de permisos, estándares regulatorios, apoyo tecnológico e interacción entre políticas. Describe beneficios, costos y límites de cada alternativa, incluyendo reducción de emisiones, incentivos a tecnologías limpias, dificultad de monitoreo, volatilidad de precios y ausencia de doble dividendo en estándares. El cierre desplaza el foco hacia la distribución: los hogares pobres pueden destinar una mayor proporción de sus recursos a bienes intensivos en carbono, pero el reciclaje de ingresos y la combinación de instrumentos pueden modificar el resultado.",
       "dimensiones": [
-        {"dimension": "propuestas_politica", "cita": "Adicionalmente, en el caso del impuesto a las emisiones, el gobierno puede reutilizar los ingresos generados en subsidiar la adopción de tecnologías o dar incentivos tributarios para la inversión en I&D (doble dividendo mencionado anteriormente).", "pagina": 12},
-        {"dimension": "desafios", "cita": "Finalmente, un análisis de costo-eficiencia de los instrumentos de mitigación del cambio climático no basta para preferir unos sobre otros.", "pagina": 12}
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Adicionalmente, en el caso del impuesto a las emisiones, el gobierno puede reutilizar los ingresos generados en subsidiar la adopción de tecnologías o dar incentivos tributarios para la inversión en I&D (doble dividendo mencionado anteriormente).",
+          "pagina": 12
+        },
+        {
+          "dimension": "desafios",
+          "cita": "Finalmente, un análisis de costo-eficiencia de los instrumentos de mitigación del cambio climático no basta para preferir unos sobre otros.",
+          "pagina": 12
+        }
       ],
       "subsecciones": []
     },
@@ -78,7 +90,11 @@
           "paginas": "22-24",
           "resumen": "Esta subsección examina microsimulaciones que estiman efectos directos e indirectos de precios al carbono y energía sobre hogares ordenados por ingreso o gasto. Los estudios muestran que la regresividad puede disminuir cuando se usa gasto como aproximación del ingreso permanente, se consideran efectos indirectos o se reciclan ingresos mediante rebajas y transferencias. También destaca que los resultados cambian según el uso gravado —transporte, calefacción o electricidad— y según se incorporen cambios de comportamiento y transmisión a factores productivos.",
           "dimensiones": [
-            {"dimension": "estado_de_situacion", "cita": "Con todo, el estudio concluye que: (i) un impuesto a los combustibles usados en transporte no tiene efectos regresivos sobre los deciles de ingreso, mientras que los efectos resultan ser progresivos sobre deciles de gasto; (ii) para el caso de los combustibles utilizados en calefacción los efectos de un impuesto son ligeramente regresivos en ambos casos de ordenamiento de hogares, aunque la regresividad es menor con respecto al gasto; y (iii) el impuesto sobre electricidad resulta ser marcadamente regresivo en ambos casos, deciles de gasto e ingreso.", "pagina": 23}
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Con todo, el estudio concluye que: (i) un impuesto a los combustibles usados en transporte no tiene efectos regresivos sobre los deciles de ingreso, mientras que los efectos resultan ser progresivos sobre deciles de gasto; (ii) para el caso de los combustibles utilizados en calefacción los efectos de un impuesto son ligeramente regresivos en ambos casos de ordenamiento de hogares, aunque la regresividad es menor con respecto al gasto; y (iii) el impuesto sobre electricidad resulta ser marcadamente regresivo en ambos casos, deciles de gasto e ingreso.",
+              "pagina": 23
+            }
           ],
           "subsecciones": []
         },
@@ -88,7 +104,11 @@
           "paginas": "24-27",
           "resumen": "La subsección presenta siete estudios de equilibrio general, capaces de incorporar cambios en precios, consumo y remuneraciones de capital y trabajo, aunque con menor heterogeneidad de agentes que las microsimulaciones. El análisis de Canadá muestra efectos regresivos en bienes energéticos y factores, progresivos en bienes no energéticos y una relación en forma de U entre impuesto al carbono y desigualdad. El caso sudafricano ilustra que el diseño del impuesto y la rigidez del mercado laboral alteran tanto la eficiencia como la progresividad, reforzando la necesidad de modelar economías en desarrollo.",
           "dimensiones": [
-            {"dimension": "tendencias", "cita": "Por lo tanto, los autores concluyen que no es claro determinar el efecto global final y este dependería tanto de la estructura de la economía como la magnitud del impuesto.", "pagina": 25}
+            {
+              "dimension": "diagnostico_estructural",
+              "cita": "Por lo tanto, los autores concluyen que no es claro determinar el efecto global final y este dependería tanto de la estructura de la economía como la magnitud del impuesto.",
+              "pagina": 25
+            }
           ],
           "subsecciones": []
         },
@@ -98,7 +118,12 @@
           "paginas": "26-27",
           "resumen": "Esta subsección revisa modelos de demanda de automóviles y curvas de Engel, además de estándares de eficiencia energética evaluados con valor presente neto. Muestra que el impuesto a combustibles vehiculares puede ser regresivo si se valoran los ahorros de tiempo de los hogares ricos, mientras los estándares pueden afectar más a hogares pobres por sus mayores costos de oportunidad y falta de liquidez. El cierre advierte que 133 de 151 resultados provienen de economías desarrolladas y que la extrapolación a América Latina requiere análisis específico por instrumento y país.",
           "dimensiones": [
-            {"dimension": "brechas_implementacion", "cita": "Es así como en los estudios descritos en esta sección, el análisis ha tendido a enfocarse en economías desarrolladas —133 de los 151 (88,1%) resultados— posiblemente debido a disponibilidad y credibilidad de datos.", "pagina": 27, "subtipo_brecha": "retrospectiva"}
+            {
+              "dimension": "brechas_implementacion",
+              "cita": "Es así como en los estudios descritos en esta sección, el análisis ha tendido a enfocarse en economías desarrolladas —133 de los 151 (88,1%) resultados— posiblemente debido a disponibilidad y credibilidad de datos.",
+              "pagina": 27,
+              "subtipo_brecha": "retrospectiva"
+            }
           ],
           "subsecciones": []
         }
@@ -117,7 +142,11 @@
           "paginas": "31-32",
           "resumen": "La especificación transforma los 151 resultados en una variable binaria y codifica como explicativas el precio al carbono, impuestos al automóvil, dos modalidades de reciclaje, modelos de equilibrio general, otras metodologías, economías en desarrollo y ordenamiento por gasto como proxy de ingreso permanente. El modelo permite aislar una situación de referencia y explorar interacciones entre políticas y compensación fiscal.",
           "dimensiones": [
-            {"dimension": "propuestas_politica", "cita": "Se propone realizar un meta-análisis donde la muestra consiste en la revisión de la literatura descrita en la sección anterior.", "pagina": 31}
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Se propone realizar un meta-análisis donde la muestra consiste en la revisión de la literatura descrita en la sección anterior.",
+              "pagina": 31
+            }
           ],
           "subsecciones": []
         },
@@ -127,7 +156,11 @@
           "paginas": "33-34",
           "resumen": "La estimación logit calcula cómo las características de la política y del estudio alteran la probabilidad de un resultado no regresivo. Los coeficientes y efectos marginales muestran que el tipo de energía gravada, el reciclaje y el nivel de desarrollo importan más que una lectura general de la etiqueta climática; la sección presenta la tabla de máxima verosimilitud y sus probabilidades asociadas.",
           "dimensiones": [
-            {"dimension": "estado_de_situacion", "cita": "Con los coeficientes estimados y presentados junto con sus p-values en la primera y segunda columna del cuadro 3, es posible identificar los factores que afectan significativamente los resultados de los estudios, además de la dirección en que estos son afectados en relación a la situación de referencia.", "pagina": 33}
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Con los coeficientes estimados y presentados junto con sus p-values en la primera y segunda columna del cuadro 3, es posible identificar los factores que afectan significativamente los resultados de los estudios, además de la dirección en que estos son afectados en relación a la situación de referencia.",
+              "pagina": 33
+            }
           ],
           "subsecciones": []
         },
@@ -137,7 +170,11 @@
           "paginas": "34-37",
           "resumen": "La interpretación muestra que la probabilidad de regresividad es muy alta para impuestos a energía doméstica sin compensación en economías desarrolladas y muy baja para combustibles de transporte en economías en desarrollo. También identifica límites de agregación: efectos directos e indirectos, economías de escala familiares y diferencias urbano-rurales quedan parcialmente fuera del modelo. Por ello, los resultados sirven para ordenar hipótesis de incidencia, no para sustituir estudios nacionales detallados.",
           "dimensiones": [
-            {"dimension": "desafios", "cita": "Finalmente, cabe destacar que aunque la meta-regresión provee de importantes resultados respecto a cómo las conclusiones se pueden ver afectadas a consecuencia de un número de variables que corresponden a las características de los estudios incluidos, hay que tener en consideración que se dejan muchas otras de lado", "pagina": 37}
+            {
+              "dimension": "desafios",
+              "cita": "Finalmente, cabe destacar que aunque la meta-regresión provee de importantes resultados respecto a cómo las conclusiones se pueden ver afectadas a consecuencia de un número de variables que corresponden a las características de los estudios incluidos, hay que tener en consideración que se dejan muchas otras de lado",
+              "pagina": 37
+            }
           ],
           "subsecciones": []
         }
@@ -149,8 +186,16 @@
       "paginas": "38-40",
       "resumen": "Esta sección usa encuestas de ingresos y gastos de nueve países latinoamericanos para aproximar cómo podrían distribuirse los costos de distintas políticas. La proporción destinada a alimentos disminuye con el ingreso; alojamiento, agua, electricidad y combustibles es proporcional o decreciente según el país; y transporte aumenta con el ingreso. En combustibles de transporte, el quintil de mayor ingreso concentra cerca de tres quintos del gasto total, mientras el quintil más pobre representa entre 1% y 4%, lo que sugiere un posible efecto progresivo en el corto plazo.",
       "dimensiones": [
-        {"dimension": "estado_de_situacion", "cita": "Por otro lado, en el caso de la división de transporte, su proporción en el ingreso o gasto total aumenta a medida que aumenta el ingreso o gasto.", "pagina": 39},
-        {"dimension": "oportunidades", "cita": "Así, un impuesto al uso de combustibles fósiles, suponiendo que no existe un cambio muy significativo en el comportamiento del consumo de las familias (corto plazo), sería pagado en gran proporción por los hogares más ricos.", "pagina": 40}
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Por otro lado, en el caso de la división de transporte, su proporción en el ingreso o gasto total aumenta a medida que aumenta el ingreso o gasto.",
+          "pagina": 39
+        },
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Así, un impuesto al uso de combustibles fósiles, suponiendo que no existe un cambio muy significativo en el comportamiento del consumo de las familias (corto plazo), sería pagado en gran proporción por los hogares más ricos.",
+          "pagina": 40
+        }
       ],
       "subsecciones": []
     },
@@ -160,9 +205,22 @@
       "paginas": "42-44",
       "resumen": "Las conclusiones integran la revisión, la meta-regresión y la evidencia regional: los efectos distributivos varían con instrumento, reciclaje, método, desarrollo, medición del bienestar y estructura del hogar. El documento destaca que transporte puede generar resultados progresivos en países en desarrollo, pero que energía doméstica y otras políticas requieren más información; además, la evidencia latinoamericana es escasa. Finalmente reclama considerar beneficios distributivos de la mitigación, costos de la inacción, transporte público y diferencias entre hogares vulnerables, rurales y urbanos.",
       "dimensiones": [
-        {"dimension": "diagnostico_estructural", "cita": "Sin embargo, un análisis completo de la literatura nos ha permitido notar que en muchos casos los efectos de las políticas estudiadas son progresivos, así como también proporcionales (neutrales)", "pagina": 42},
-        {"dimension": "brechas_implementacion", "cita": "Se puede observar que los estudios sobre efectos distributivos de políticas climáticas en Latinoamérica son muy escasos.", "pagina": 43, "subtipo_brecha": "retrospectiva"},
-        {"dimension": "propuestas_politica", "cita": "Además, se olvida el carácter “global” del cambio climático significa.", "pagina": 44}
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Sin embargo, un análisis completo de la literatura nos ha permitido notar que en muchos casos los efectos de las políticas estudiadas son progresivos, así como también proporcionales (neutrales)",
+          "pagina": 42
+        },
+        {
+          "dimension": "brechas_implementacion",
+          "cita": "Se puede observar que los estudios sobre efectos distributivos de políticas climáticas en Latinoamérica son muy escasos.",
+          "pagina": 43,
+          "subtipo_brecha": "retrospectiva"
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Además, se olvida el carácter “global” del cambio climático significa.",
+          "pagina": 44
+        }
       ],
       "subsecciones": []
     }
@@ -171,40 +229,92 @@
     "gran_impulso_ambiental_concreto": {
       "veredicto": "Parcial",
       "evidencia": "El documento propone combinar instrumentos —impuestos, regulación, apoyo tecnológico y reciclaje de ingresos— y analiza interacciones entre ellos, pero no presenta un paquete coordinado de inversión y políticas con sectores estratégicos y escala de transformación productiva. Sus medidas son principalmente instrumentos aislados o combinaciones analíticas; por el test de big_push.md no alcanza un Sí.",
-      "citas": [{"cita": "Es posible encontrar una combinación de políticas climáticas interactuando al mismo tiempo ya que unas pueden complementar a otras.", "pagina": 12}],
+      "citas": [
+        {
+          "cita": "Es posible encontrar una combinación de políticas climáticas interactuando al mismo tiempo ya que unas pueden complementar a otras.",
+          "pagina": 12
+        }
+      ],
       "nota": "Parcial por combinación de instrumentos sin paquete concreto de inversión coordinada."
     },
     "articulacion_actores": {
       "veredicto": "No",
       "evidencia": "El texto menciona gobiernos, firmas, hogares y acuerdos público-privados como categorías de actores, pero no desarrolla una arquitectura de coordinación con instituciones o mecanismos nombrados para América Latina. El análisis estudia incidencia distributiva, no una gobernanza de implementación; por tanto, el chequeo negativo es explícito: no hay mecanismo regional concreto atribuible a actores del ámbito de aplicación.",
-      "citas": [{"cita": "Los instrumentos que poseen los gobiernos no son sólo los de mercado, sino también disponen de instrumentos regulatorios como los estándares mínimos de eficiencia energética, exigencia de uso de tecnologías menos contaminantes, además de inversión en investigación y desarrollo (I&D) o acuerdos público-privado.", "pagina": 8}],
+      "citas": [
+        {
+          "cita": "Los instrumentos que poseen los gobiernos no son sólo los de mercado, sino también disponen de instrumentos regulatorios como los estándares mínimos de eficiencia energética, exigencia de uso de tecnologías menos contaminantes, además de inversión en investigación y desarrollo (I&D) o acuerdos público-privado.",
+          "pagina": 8
+        }
+      ],
       "nota": null
     },
     "oportunidades_productivas_sostenibles": {
       "veredicto": "Parcial",
       "evidencia": "El documento enumera actividades concretas —transporte, electricidad, combustibles, eficiencia energética, investigación y desarrollo y tecnologías limpias— y las vincula con reducción de emisiones, consumo y bienestar distributivo. Sin embargo, no desarrolla un programa sectorial de empleo o productividad sostenible: la relación principal es incidencia fiscal y de gasto, por lo que falta uno de los dos componentes exigidos para Sí.",
-      "citas": [{"cita": "Segundo, también incentiva el desarrollo y/o adopción de nuevas tecnologías más limpias.", "pagina": 10}],
+      "citas": [
+        {
+          "cita": "Segundo, también incentiva el desarrollo y/o adopción de nuevas tecnologías más limpias.",
+          "pagina": 10
+        }
+      ],
       "nota": null
     },
     "como_hacerlo_concreto": {
       "veredicto": "Parcial",
       "evidencia": "Las acciones derivables del cierre son relativamente específicas respecto de diseño distributivo —reciclar ingresos, desagregar instrumentos, incorporar hogares y factores, ampliar evidencia regional—, pero el documento no fija responsables, calendario, metas ni instrumentos de ejecución para una agenda completa.",
-      "citas": [{"cita": "Cuando algunas de las medidas compensatorias son consideradas, el impacto del precio al carbono se vuelve progresivo sin importar si los hogares son ordenados por ingreso o gasto, ni tampoco si el precio del carbono es transmitido total o parcialmente a los hogares.", "pagina": 24}],
+      "citas": [
+        {
+          "cita": "Cuando algunas de las medidas compensatorias son consideradas, el impacto del precio al carbono se vuelve progresivo sin importar si los hogares son ordenados por ingreso o gasto, ni tampoco si el precio del carbono es transmitido total o parcialmente a los hogares.",
+          "pagina": 24
+        }
+      ],
       "desglose_items": [
-        {"item": "Usar reciclaje de ingresos para compensar a hogares o reducir otros impuestos", "clasificacion": "CONCRETO", "pagina": 42},
-        {"item": "Evaluar cada instrumento climático de manera desagregada", "clasificacion": "CONCRETO", "pagina": 43},
-        {"item": "Incorporar efectos directos e indirectos y factores productivos", "clasificacion": "CONCRETO", "pagina": 43},
-        {"item": "Considerar diferencias entre hogares rurales y urbanos y tamaño familiar", "clasificacion": "CONCRETO", "pagina": 44},
-        {"item": "Ampliar estudios sobre economías latinoamericanas", "clasificacion": "GENERICO", "pagina": 43},
-        {"item": "Considerar beneficios de reducción de emisiones y costos de inacción", "clasificacion": "GENERICO", "pagina": 44}
+        {
+          "item": "Usar reciclaje de ingresos para compensar a hogares o reducir otros impuestos",
+          "clasificacion": "CONCRETO",
+          "pagina": 42
+        },
+        {
+          "item": "Evaluar cada instrumento climático de manera desagregada",
+          "clasificacion": "CONCRETO",
+          "pagina": 43
+        },
+        {
+          "item": "Incorporar efectos directos e indirectos y factores productivos",
+          "clasificacion": "CONCRETO",
+          "pagina": 43
+        },
+        {
+          "item": "Considerar diferencias entre hogares rurales y urbanos y tamaño familiar",
+          "clasificacion": "CONCRETO",
+          "pagina": 44
+        },
+        {
+          "item": "Ampliar estudios sobre economías latinoamericanas",
+          "clasificacion": "GENERICO",
+          "pagina": 43
+        },
+        {
+          "item": "Considerar beneficios de reducción de emisiones y costos de inacción",
+          "clasificacion": "GENERICO",
+          "pagina": 44
+        }
       ],
       "tally": "4 de 6 ítems pasan el test de concreción",
       "nota": null
     }
   },
   "tipologia": {
-    "transformacion_primaria": {"numero": 2, "nombre": "Reducción de la desigualdad", "certeza": "Alta"},
-    "transformacion_secundaria": {"numero": 6, "nombre": "Sostenibilidad ambiental", "certeza": "Alta"},
+    "transformacion_primaria": {
+      "numero": 2,
+      "nombre": "Reducción de la desigualdad",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
     "razonamiento_5_pasos": {
       "tension_dialectica": "La tensión central es cómo reducir emisiones sin trasladar costos desproporcionados a hogares vulnerables. El cambio climático y la mitigación son el problema sectorial, pero el documento organiza todo su aparato empírico alrededor de incidencia, regresividad, gasto y bienestar.",
       "filtro_categoria_primaria": "La transformación buscada es distributiva: identificar quién paga y quién se beneficia de cada política, y cómo el reciclaje fiscal modifica la desigualdad. El meta-análisis, la meta-regresión y la evidencia de hogares responden a esa pregunta, por lo que #2 es el objeto y no un efecto colateral.",

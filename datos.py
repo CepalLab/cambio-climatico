@@ -279,6 +279,17 @@ DOCUMENTOS_A_EXCLUIR: list[str] = [
     "The Hummingbird",  # Revistas que deben excluirse
 ]
 
+# Exclusiones adjudicadas en Fase 3. Se aplican por handle para no depender
+# de coincidencias parciales en el título.
+DOCUMENTOS_EXCLUIDOS_FASE3: dict[str, str] = {
+    "https://hdl.handle.net/11362/43334": "Etiquetado temático erróneo; documento sobre redes internacionales de producción.",
+    "https://hdl.handle.net/11362/40457": "Reporte procedimental de diálogo regional, no documento sustantivo.",
+    "https://hdl.handle.net/11362/80695": "Reporte procedimental de reunión de expertos, no documento sustantivo.",
+    "https://hdl.handle.net/11362/81084": "Reporte procedimental de seminario/consulta, no documento sustantivo.",
+    "https://hdl.handle.net/11362/81661": "Catálogo de publicaciones, no documento analítico sustantivo.",
+    "https://hdl.handle.net/11362/80762": "Etiquetado temático erróneo; documento sobre economía del conocimiento.",
+}
+
 # Documentos adicionales que deben agregarse (Período de Sesiones + Foro Regional)
 DOCUMENTOS_A_AGREGAR: list[dict] = [
     {"titulo": "América Latina y el Caribe ante las trampas del desarrollo", "anio": 2024,
@@ -323,6 +334,8 @@ def _excluir_documentos(df: pd.DataFrame) -> pd.DataFrame:
     if "tipo_gr" in df.columns:
         es_revista = df["tipo_gr"].astype(str).eq("Boletines y Revistas")
         df = df[~es_revista]
+    if COLUMNA_URI in df.columns:
+        df = df[~df[COLUMNA_URI].astype(str).isin(DOCUMENTOS_EXCLUIDOS_FASE3)]
     return df
 
 

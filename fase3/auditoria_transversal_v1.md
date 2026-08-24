@@ -1,0 +1,315 @@
+# Auditoría transversal v1
+
+Generada: `2026-08-24T20:03:30+00:00`
+
+## Denominador
+
+- Histórico: **244**
+- Exclusiones aplicadas: **6**
+- Corpus activo auditado: **238**
+
+## Totales
+
+- secciones: **7812**
+- dimensiones: **8329**
+- citas_dimension: **8329**
+- certificados: **102**
+
+## Anomalías
+
+Sin anomalías estructurales detectadas por esta auditoría.
+
+## Cardinalidades
+
+### origen
+- piloto: 17
+- produccion: 221
+
+### transformacion_primaria
+- Capacidades del Estado: 59
+- Desarrollo productivo: 6
+- Igualdad de género: 8
+- Integración económica: 6
+- Macroeconomía y fiscalidad: 20
+- Reducción de la desigualdad: 7
+- Sostenibilidad ambiental: 132
+
+### transformacion_secundaria
+- Capacidades del Estado: 91
+- Desarrollo productivo: 20
+- Educación y formación profesional: 1
+- Igualdad de género: 2
+- Integración económica: 1
+- Macroeconomía y fiscalidad: 18
+- Reducción de la desigualdad: 3
+- Sostenibilidad ambiental: 102
+
+### nivel_aplicacion
+- Estudios de caso a escala de cuenca y urbana en Chile —cuenca del río Vergara (regiones del Biobío y La Araucanía) y sistema de suministro de agua potable de Santiago de Chile (cuenca del río Maipo)—, con alcance nacional chileno y hemisférico en el proyecto VACEA.: 1
+- Global, con estudios de caso y recomendaciones para la Unión Europea y Chile, especialmente Tarapacá: 1
+- Local/Regional: 1
+- Mundial, regional (América Latina y el Caribe), subregional, nacional y local: 1
+- Nacional: 13
+- Nacional (Argentina): 1
+- Nacional (Bahamas / Family Islands): 1
+- Nacional (Barbados), con referencias al Caribe: 1
+- Nacional (Belize), con cooperación regional caribeña: 1
+- Nacional (Brasil): 1
+- Nacional (Brasil) con comparación internacional y referentes regionales y extrarregionales: 1
+- Nacional (Brasil), com comparação internacional da OCDE: 1
+- Nacional (Colombia): 1
+- Nacional (Estado Plurinacional de Bolivia) y Subnacional (Departamento de Santa Cruz, zonas agrícolas bajas): 1
+- Nacional (Guatemala): 1
+- Nacional (Honduras): 1
+- Nacional (Honduras), con desagregación departamental en los capítulos de clima, agua, agricultura y salud, y comparación regional (Centroamérica) en los capítulos de emisiones de GEI y salud: 1
+- Nacional (Las Bahamas con desagregación insular): 1
+- Nacional (México, hogares rurales de 80 comunidades): 1
+- Nacional (Perú): 2
+- Nacional (Perú), sectorial (agua, agricultura, desastres): 1
+- Nacional (República Dominicana: SENI y sistemas aislados): 1
+- Nacional (Uruguay): 1
+- Nacional (análisis comparativo para Chile y México) con recomendaciones de extensión regional a América Latina y el Caribe: 1
+- Nacional (cinco países del CDCC) con alcance subregional (Caribe): 1
+- Nacional / Costero: 1
+- Nacional / Subnacional (Las Bahamas: Ábaco y Gran Bahama): 1
+- Nacional / Subnacional (República Dominicana, con desagregación a nivel de píxel espacial): 1
+- Nacional / Subnacional sectorial: 1
+- Nacional con desagregación departamental y municipal: 2
+- Nacional y Subnacional (Ecuador, provincias de Guayas y Los Ríos): 1
+- Nacional y regional: 1
+- Nacional y subnacional/sectorial: 1
+- Nacional y subregional (Caribe: Barbados, Guyana, Santa Lucía, Suriname, Trinidad y Tabago): 1
+- Nacional, con desagregación regional, comunal, sectorial y territorial: 1
+- Nacional, con focos regionales, urbanos, ecosistémicos y sectoriales.: 1
+- Nacional-sectorial, con desagregación por regiones forestales y escenarios de largo plazo: 1
+- Nacional/subnacional: Argentina, con análisis provincial y por cuenca en Mendoza y San Juan: 1
+- Nacional: Chile, con desagregación por macrozonas, cuencas hidrográficas y sectores.: 1
+- Nacional: Honduras, con desagregación departamental, municipal, comunitaria, sectorial y de cuenca.: 1
+- Panamá y República Dominicana, en el marco regional de Centroamérica y el Caribe: 1
+- Regional: 20
+- Regional (12 países de América Latina y el Caribe) con desagregación por país: 1
+- Regional (18 países de América Latina): 1
+- Regional (33 países de América Latina y el Caribe), con comparación sistemática país por país mediante cuadros de instrumentos, marcos legales e institucionalidad, y ejemplos puntuales de aplicación subnacional (gobiernos locales de la Alianza para el Gobierno Abierto, estado de Guanajuato en México): 1
+- Regional (ALC en conjunto): 1
+- Regional (ALC en conjunto), con desagregación nacional (Argentina, Brasil, Chile, Colombia, Costa Rica, México, Perú y la entidad supranacional CABEI) y un caso subnacional (Ciudad de México como emisor municipal).: 1
+- Regional (ALC): 3
+- Regional (ALC), con desagregación nacional y subregional: 1
+- Regional (América Latina y el Caribe con desagregación para 17 países): 1
+- Regional (América Latina y el Caribe en conjunto), con datos desagregados por país en gráficos y cuadros (nueve encuestas nacionales de gasto de los hogares; comparaciones de tasa de motorización y elasticidades por país): 1
+- Regional (América Latina y el Caribe en conjunto), con desagregaciones subregionales y nacionales específicas en el capítulo III (Centroamérica, el Caribe, la Argentina, Chile y el Uruguay).: 1
+- Regional (América Latina y el Caribe en conjunto), con menciones multi-tag a nivel nacional (México, Chile, Bolivia (Estado Plurinacional de), Ecuador, Brasil, Argentina, entre otros) y subregional (Cono Sur, Centroamérica, Mesoamérica y el Caribe, países andinos): 1
+- Regional (América Latina y el Caribe en su conjunto) en la primera parte y en los capítulos III y IV de la segunda parte; subregional (un grupo de seis países de Centroamérica y el Caribe: Barbados, El Salvador, Guatemala, Honduras, República Dominicana y Santa Lucía) en el modelo de crecimiento y deuda del capítulo II.: 1
+- Regional (América Latina y el Caribe en su conjunto), con abundantes ilustraciones y comparaciones a nivel de país (Chile, Colombia, Brasil, Bolivia, Costa Rica, entre muchos otros) dentro de cada sección sectorial del Capítulo VI y en los capítulos de desigualdad y financiamiento.: 1
+- Regional (América Latina y el Caribe en su conjunto), con desagregaciones subregionales (Centroamérica, México y República Dominicana; el Caribe; América del Sur) y referencias explícitas a los niveles nacional y subnacional/local en el capítulo IV (territorialización de la Agenda 2030, exámenes locales voluntarios).: 1
+- Regional (América Latina y el Caribe en su conjunto), con desagregación en 1.132 puntos costeros y comparaciones puntuales a nivel subregional y nacional (México, Centroamérica, Sudamérica e islas del Caribe): 1
+- Regional (América Latina y el Caribe): 20
+- Regional (América Latina y el Caribe) / Nacional: 1
+- Regional (América Latina y el Caribe) con análisis empírico en Belice, Bolivia, Brasil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Honduras, México y Perú: 1
+- Regional (América Latina y el Caribe) con análisis subregional (Región Sur, Mesoamérica y Región Andina): 1
+- Regional (América Latina y el Caribe) con estudios de caso nacionales (Perú, México, Cuba, Costa Rica, Panamá): 1
+- Regional (América Latina y el Caribe) con estudios de caso nacionales (Venezuela, México, Ecuador y Uruguay): 1
+- Regional (América Latina y el Caribe), con análisis comparado de 17 economías en el bloque climático y 14 países en el bloque de informalidad.: 1
+- Regional (América Latina y el Caribe), con análisis nacional comparado y referencias internacionales.: 1
+- Regional (América Latina y el Caribe), con análisis nacional de Argentina y Colombia: 1
+- Regional (América Latina y el Caribe), con análisis nacional y subnacional urbano: 1
+- Regional (América Latina y el Caribe), con análisis nacional, subregional y territorial.: 1
+- Regional (América Latina y el Caribe), con análisis nacionales comparados y simulaciones específicas para Guatemala, Perú y República Dominicana.: 1
+- Regional (América Latina y el Caribe), con análisis subregional y experiencias nacionales.: 1
+- Regional (América Latina y el Caribe), con análisis subregional y nacional.: 1
+- Regional (América Latina y el Caribe), con análisis subregional, nacional y subnacional: 1
+- Regional (América Latina y el Caribe), con análisis y ejemplos nacionales, subnacionales y locales.: 1
+- Regional (América Latina y el Caribe), con aplicaciones nacionales y subnacionales: 1
+- Regional (América Latina y el Caribe), con aplicaciones nacionales, subregionales, sectoriales y de aguas internacionales: 1
+- Regional (América Latina y el Caribe), con aplicaciones nacionales, subregionales, urbanas y sectoriales: 1
+- Regional (América Latina y el Caribe), con aplicación a la Conferencia de las Partes y sus órganos subsidiarios: 1
+- Regional (América Latina y el Caribe), con aplicación nacional, subnacional y local: 1
+- Regional (América Latina y el Caribe), con caso nacional de Chile y aplicación ilustrativa para Centroamérica: 1
+- Regional (América Latina y el Caribe), con comparación nacional de 17 países y escenarios agregados para 33 países: 1
+- Regional (América Latina y el Caribe), con datos y ejemplos nacionales.: 1
+- Regional (América Latina y el Caribe), con desagregaciones nacionales y subnacionales frecuentes: Chile, Perú (valle de Ica), Costa Rica (cuenca del Reventazón), Argentina, Brasil, México y Bolivia, entre otros casos de país.: 1
+- Regional (América Latina y el Caribe), con desagregación nacional, subregional y sectorial: 1
+- Regional (América Latina y el Caribe), con desagregación nacional, subregional, urbana, sectorial y subnacional.: 1
+- Regional (América Latina y el Caribe), con desagregación subregional y nacional: 1
+- Regional (América Latina y el Caribe), con desagregación y ejemplos nacionales: 1
+- Regional (América Latina y el Caribe), con estudios comparados y casos nacionales: 1
+- Regional (América Latina y el Caribe), con evidencia comparada mundial y ejemplos nacionales: 1
+- Regional (América Latina y el Caribe), con experiencias nacionales y subnacionales: 1
+- Regional (América Latina y el Caribe), con experiencias nacionales, subnacionales, locales y sectoriales.: 1
+- Regional (América Latina y el Caribe), con implementación nacional y coordinación subregional.: 1
+- Regional (América Latina y el Caribe), con referencias comparativas a sistemas de cuentas y experiencias nacionales de otros países.: 1
+- Regional (América Latina y el Caribe), con referencias subregionales y nacionales: 1
+- Regional (América Latina y el Caribe), con énfasis en el sector agropecuario: 1
+- Regional (América Latina y el Caribe, 33 países): 1
+- Regional (América Latina y el Caribe, 33 países) con desagregación exhaustiva país por país en cuadros comparados de legislación, instituciones y jurisprudencia: 1
+- Regional (América Latina y el Caribe, 33 países) con desagregación por país en cuadros y gráficos de emisiones, CDN, autobuses eléctricos e impuestos al carbono: 1
+- Regional (América Latina y el Caribe, con intervenciones de 10 países): 1
+- Regional (América Latina), con estudios nacionales comparados: 1
+- Regional (América Latina, 18 países), con resultados desagregados por país en las proyecciones: 1
+- Regional (Caribbean): 1
+- Regional (Caribe): 1
+- Regional (Caribe), con acuerdos nacionales entre Estados deudores, acreedores y socios financieros internacionales: 1
+- Regional (Caribe), con implementación nacional y cooperación internacional: 1
+- Regional (Centroamérica y República Dominicana - países del SICA): 1
+- Regional (Centroamérica) y subnacional/territorial (píxeles, ciudades y cuencas hidrográficas): 1
+- Regional (Países Andinos de América Latina: Bolivia (Estado Plurinacional de), Chile, Colombia, Ecuador y Perú): 1
+- Regional (con estudios de caso a nivel de ciudad y subnacional): 1
+- Regional (países del SICA): 1
+- Regional (subregión del Caribe): 1
+- Regional / Nacional: 1
+- Regional / Subnacional (Municipal y Departamental): 1
+- Regional / Subregional (Caribe): 1
+- Regional / Subregional (Caribe: Barbados, Guyana, Santa Lucía, y Trinidad y Tabago): 1
+- Regional SICA/COSEFIN, con implementación nacional y aplicación local o subnacional en plataformas SIG, SNIP y proyectos de infraestructura.: 1
+- Regional andino, con desagregación nacional para Bolivia, Chile, Colombia, Ecuador y Perú; operaciones mineras y cadenas de suministro: 1
+- Regional caribeño, con análisis subregional CARICOM y casos nacionales: 1
+- Regional comparado, con análisis nacional de Argentina, Colombia, Honduras, México, Nicaragua y Perú y una serie ambiental de 16 países.: 1
+- Regional comparado, con aplicación nacional en Honduras, Nicaragua, Costa Rica, Panamá y Chile.: 1
+- Regional con desagregación nacional y territorial: 1
+- Regional con experiencias nacionales: 1
+- Regional con resolución municipal, aplicación nacional y local: 1
+- Regional e internacional, con casos y decisiones comparadas para América Latina y el Caribe.: 1
+- Regional latinoamericano, con revisión internacional y aplicación descriptiva a nueve países: 1
+- Regional y nacional; 26 países de América Latina y el Caribe, con niveles central, intermedio y local.: 1
+- Regional y nacional; implementación por los Estados Parte.: 1
+- Regional — América Latina y el Caribe, con análisis concentrado en los mercados internacionales y casos empresariales de Brasil, Chile y México.: 1
+- Regional, con aplicaciones nacionales y subnacionales: 1
+- Regional, con comparación de políticas nacionales y casos sectoriales: 1
+- Regional, con comparación normativa y de herramientas en seis países miembros de REDLASEIA y referencias internacionales: 1
+- Regional, con desagregación subregional y casos nacionales/territoriales.: 1
+- Regional, con desagregación subregional, nacional y sectorial: 1
+- Regional, con desglose por países y sectores: 1
+- Regional, con escenarios internacionales y estudios de caso nacionales de Brasil y Chile.: 1
+- Regional, con estudios comparados y casos nacionales: 1
+- Regional, con estudios de caso nacionales: 1
+- Regional, con estudios de caso nacionales y análisis transversal de ocho países: 1
+- Regional, con implementación nacional, subnacional, sectorial y multilateral: 1
+- Regional, nacional y subnacional: 2
+- Regional, nacional y subnacional/local: 1
+- Regional, nacional y subnacional/proyecto de inversión: 1
+- Regional, nacional, subnacional y territorial; el análisis cubre América Latina y el Caribe y experiencias localizadas en ocho países: 1
+- Regional, subregional, nacional y subnacional: 1
+- Regional/Estatal: 1
+- Regional/Global: 1
+- Regional/subregional (Caribe), con evidencia nacional comparada de diez países y arreglos institucionales nacionales y caribeños: 1
+- Regional/subregional (Caribe, CARICOM): 1
+- Regional/subregional: Caribe y Caribbean SIDS: 1
+- Regional/subregional: Caribe, con recomendaciones nacionales, subregionales, interregionales, internacionales y para el sistema de Naciones Unidas.: 1
+- Regional/subregional: Estados miembros de CARICOM: 1
+- Regional/subregional: SIDS, con énfasis en el Caribe: 1
+- Regional: América Latina y el Caribe: 1
+- Regional: América Latina y el Caribe, con desagregación nacional, sectorial y subregional.: 1
+- Regional: América Latina y el Caribe, con diferenciación subregional y referencias a países y autoridades financieras.: 1
+- Regional: América Latina, con análisis estructural y referencias comparadas internacionales; el ejemplo cuantitativo de servicios sociales se realiza sobre el NHS del Reino Unido.: 1
+- Regional: América Latina, con estimaciones comparadas por país y simulaciones agregadas para la región: 1
+- Regional: Centroamérica, con referencias a República Dominicana y desagregación por país, sector y territorio: 1
+- Regional: países del SICA, con efectos nacionales y subnacionales en comunidades rurales y sistemas energéticos: 1
+- Sectorial / Subnacional (provincial): 1
+- Subnacional: 1
+- Subnacional (ciudad de Belmopan), con articulación nacional: 1
+- Subnacional (ciudades metropolitanas), con marco nacional y comparación regional.: 1
+- Subnacional (ciudades piloto), con referentes y casos de América Latina y el Caribe.: 1
+- Subnacional (ciudades y gobiernos locales), con síntesis regional para América Latina y el Caribe: 1
+- Subnacional (seis ciudades y los seis cantones centrales de San José), con implicaciones regionales para América Latina y Asia.: 1
+- Subnacional, con comparación nacional e implicaciones regionales para ALC: 1
+- Subnacional: Distrito Nacional de Santo Domingo: 1
+- Subnacional: estado de Rio Grande do Sul, con municipios, cuencas hidrográficas y sectores; dentro del marco brasileño.: 1
+- Subnacional: provincia de San José y 13 cantones, dentro del marco nacional de descarbonización de Costa Rica.: 1
+- Subregional (10 países: Centroamérica, Cuba, Haití, México y República Dominicana), con desagregación por país en la mayoría de las cifras: 1
+- Subregional (Caribbean SIDS): 2
+- Subregional (Caribe / SIDS): 1
+- Subregional (Caribe) y regional (CARICOM/PEID del Caribe): 1
+- Subregional (Caribe), con referencias a Estados insulares pequeños y CARICOM.: 1
+- Subregional (Centroamérica y República Dominicana, países del SICA): 1
+- Subregional / Nacional (Ecuador, El Salvador y México): 1
+- Subregional y nacional, con desagregación urbana-rural: 1
+- Subregional y nacional/territorial dentro del SICA.: 1
+- Subregional/pan-Caribeño, con tres países piloto: 1
+- Subregional: Caribe y 16 países del CDCC: 1
+- Subregional: SICA/Centroamérica y República Dominicana: 1
+- regional: 1
+
+### fecha
+- 2014-01: 1
+- 2015: 2
+- 2015-01-01: 1
+- 2015-02: 1
+- 2015-04: 2
+- 2015-05: 2
+- 2015-09: 2
+- 2015-10: 4
+- 2015-11: 6
+- 2015-12: 10
+- 2016: 2
+- 2016-01-01: 1
+- 2016-04: 1
+- 2016-06: 1
+- 2016-07: 2
+- 2016-09: 1
+- 2016-10: 1
+- 2016-11: 1
+- 2016-12: 2
+- 2017: 2
+- 2017-01: 1
+- 2017-01-20: 1
+- 2017-02: 1
+- 2017-03: 1
+- 2017-04: 14
+- 2017-06: 5
+- 2017-09: 2
+- 2017-09-27: 1
+- 2017-10: 2
+- 2017-11: 1
+- 2017-12: 4
+- 2018: 9
+- 2018-01: 1
+- 2018-03: 2
+- 2018-05: 1
+- 2018-06: 2
+- 2018-09: 2
+- 2018-10: 2
+- 2018-12: 1
+- 2019: 7
+- 2019-01: 1
+- 2019-08: 1
+- 2019-12: 4
+- 2020: 12
+- 2020-01: 1
+- 2020-02: 1
+- 2020-07-02: 1
+- 2020-11: 1
+- 2020-12-22: 1
+- 2021: 10
+- 2021-01: 1
+- 2021-03: 1
+- 2021-05: 1
+- 2021-12-09: 1
+- 2021-12-21: 1
+- 2022: 22
+- 2022-01: 1
+- 2022-01-27: 1
+- 2022-03: 1
+- 2022-12-15: 1
+- 2023: 19
+- 2023-01-30: 1
+- 2023-09: 1
+- 2023-10-23: 1
+- 2023-12-28: 1
+- 2024: 16
+- 2024-01-05: 1
+- 2024-10-15: 1
+- 2024-11: 1
+- 2025: 10
+- 2025-01-03: 1
+- 2025-02: 1
+- 2025-08: 1
+- 2025-09: 1
+- 2025-09-09: 1
+- 2026: 4
+- 2026-01-29: 1
+- 2026-04-15: 1
+- None: 6
+
+### veredictos_interpelacion
+- No: 227
+- Parcial: 299
+- Sí: 426

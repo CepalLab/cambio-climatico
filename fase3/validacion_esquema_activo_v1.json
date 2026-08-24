@@ -1,0 +1,1925 @@
+{
+  "version": "validacion-esquema-activo-v1",
+  "generado_en": "2026-08-24T20:03:29+00:00",
+  "fuentes": {
+    "inventario": "fase3/inventario_corpus_v1.json",
+    "exclusiones": "fase3/exclusiones_corpus_v1.csv",
+    "validador": "fase2/pipeline/validar_esquema.py"
+  },
+  "denominador": {
+    "historico": 244,
+    "exclusiones_aplicadas": 6,
+    "activo": 238
+  },
+  "resultado": {
+    "validados": 238,
+    "sin_observaciones": 230,
+    "con_observaciones": 8
+  },
+  "documentos": [
+    {
+      "handle": "https://hdl.handle.net/11362/3955",
+      "ruta_json": "fase2/pilot/doc01_efectos_costa.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc01_efectos_costa: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39840",
+      "ruta_json": "fase2/pilot/doc02_ocho_tesis.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc02_ocho_tesis: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/42230",
+      "ruta_json": "fase2/pilot/doc03_green_bonds.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc03_green_bonds: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/42355",
+      "ruta_json": "fase2/pilot/doc04_honduras.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc04_honduras: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46101",
+      "ruta_json": "fase2/pilot/doc06_tragedia_ambiental.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc06_tragedia_ambiental: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46792",
+      "ruta_json": "fase2/pilot/doc08_gestion_agua.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc08_gestion_agua: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48603",
+      "ruta_json": "fase2/pilot/doc09_caribbean_power.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc09_caribbean_power: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47745",
+      "ruta_json": "fase2/pilot/doc10_agenda_2030.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc10_agenda_2030: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/82426",
+      "ruta_json": "fase2/pilot/doc11_pobreza_infantil.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc11_pobreza_infantil: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48724",
+      "ruta_json": "fase2/pilot/doc12_agricultura_clima.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc12_agricultura_clima: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68639",
+      "ruta_json": "fase2/pilot/doc13_carbono_frontera.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc13_carbono_frontera: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/80727",
+      "ruta_json": "fase2/pilot/doc14_trampas_desarrollo.json",
+      "ok": false,
+      "estado": "con_observaciones",
+      "returncode": 1,
+      "salida": "doc14_trampas_desarrollo: con observaciones\n\n1 observaciones:\n - [doc14_trampas_desarrollo] 1 item(s) del desglose con pagina fuera del rango de la seccion de recomendaciones (81-246) � posible uso de recuadro de portada/key messages"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/37310",
+      "ruta_json": "fase2/pilot/doc15_paradojas_desafios.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc15_paradojas_desafios: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/43301",
+      "ruta_json": "fase2/pilot/doc16_acceso_informacion.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc16_acceso_informacion: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/67989",
+      "ruta_json": "fase2/pilot/doc17_estudio_economico_2023.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc17_estudio_economico_2023: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/69031",
+      "ruta_json": "fase2/pilot/doc18_financiamiento_transicion.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc18_financiamiento_transicion: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/69075",
+      "ruta_json": "fase2/pilot/doc19_gestion_publica.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc19_gestion_publica: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/37791",
+      "ruta_json": "fase2/corpus/resultados/json/doc_37791.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_37791: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/37879",
+      "ruta_json": "fase2/corpus/resultados/json/doc_37879.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_37879: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/37910",
+      "ruta_json": "fase2/corpus/resultados/json/doc_37910.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_37910: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/37911",
+      "ruta_json": "fase2/corpus/resultados/json/doc_37911.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_37911: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/37955",
+      "ruta_json": "fase2/corpus/resultados/json/doc_37955.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_37955: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/38120",
+      "ruta_json": "fase2/corpus/resultados/json/doc_38120.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_38120: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/38274",
+      "ruta_json": "fase2/corpus/resultados/json/doc_38274.json",
+      "ok": false,
+      "estado": "con_observaciones",
+      "returncode": 1,
+      "salida": "doc_38274: con observaciones\n\n1 observaciones:\n - [doc_38274] 3 item(s) del desglose con pagina fuera del rango de la seccion de recomendaciones (36-68) � posible uso de recuadro de portada/key messages"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/38985",
+      "ruta_json": "fase2/corpus/resultados/json/doc_38985.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_38985: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39009",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39009.json",
+      "ok": false,
+      "estado": "con_observaciones",
+      "returncode": 1,
+      "salida": "doc_39009: con observaciones\n\n1 observaciones:\n - [doc_39009] 6 item(s) del desglose con pagina fuera del rango de la seccion de recomendaciones (33-34) � posible uso de recuadro de portada/key messages"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39089",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39089.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_39089: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39135",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39135.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_39135: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39140",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39140.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_39140: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39149",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39149.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_39149: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39286",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39286.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_39286: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39360",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39360.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_39360: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39367",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39367.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_39367: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39407",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39407.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_39407: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39534",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39534.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_39534: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39661",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39661.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_39661: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39751",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39751.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_39751: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39752",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39752.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_39752: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39781",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39781.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_39781: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39824",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39824.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_39824: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39842",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39842.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_39842: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39843",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39843.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_39843: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39855",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39855.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_39855: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39977",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39977.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_39977: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40159",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40159.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_40159: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40253",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40253.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_40253: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40297",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40297.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_40297: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40299",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40299.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_40299: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40308",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40308.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_40308: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40642",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40642.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_40642: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40669",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40669.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_40669: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40708",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40708.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_40708: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40841",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40841.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_40841: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40843",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40843.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_40843: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40867",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40867.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_40867: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40887",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40887.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_40887: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40895",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40895.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_40895: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40922",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40922.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_40922: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/41010",
+      "ruta_json": "fase2/corpus/resultados/json/doc_41010.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_41010: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/41041",
+      "ruta_json": "fase2/corpus/resultados/json/doc_41041.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_41041: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/41101",
+      "ruta_json": "fase2/corpus/resultados/json/doc_41101.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_41101: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/41173",
+      "ruta_json": "fase2/corpus/resultados/json/doc_41173.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_41173: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/41783",
+      "ruta_json": "fase2/corpus/resultados/json/doc_41783.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_41783: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/41830",
+      "ruta_json": "fase2/corpus/resultados/json/doc_41830.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_41830: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/41832",
+      "ruta_json": "fase2/corpus/resultados/json/doc_41832.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_41832: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/41867",
+      "ruta_json": "fase2/corpus/resultados/json/doc_41867.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_41867: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/42057",
+      "ruta_json": "fase2/corpus/resultados/json/doc_42057.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_42057: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/42140",
+      "ruta_json": "fase2/corpus/resultados/json/doc_42140.json",
+      "ok": false,
+      "estado": "con_observaciones",
+      "returncode": 1,
+      "salida": "doc_42140: con observaciones\n\n4 observaciones:\n - [doc_42140] seccion /M�dulo 1. Biocombustibles/Art�culo I.I Biofuels or Biofools: a Soc/B. Energy, economic and ecological impac: orden de p?ginas retrocede (31-47 despu?s de 34-35)\n - [doc_42140] seccion /M�dulo 1. Biocombustibles/Art�culo I.2. Un paso adelante y dos atr/D. Ambig�edad, falta de claridad, incong: orden de p?ginas retrocede (55-62 despu?s de 58-60)\n - [doc_42140] seccion /M�dulo 3. Energ�as renovables y desarrol/Art�culo III.1. Las energ�as renovables /B. Evoluci�n del Ministerio de Estado in: orden de p?ginas retrocede (155-159 despu?s de 157-161)\n - [doc_42140] 4 item(s) del desglose con pagina fuera del rango de la seccion de recomendaciones (31-265) � posible uso de recuadro de portada/key messages"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/42154",
+      "ruta_json": "fase2/corpus/resultados/json/doc_42154.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_42154: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/42175",
+      "ruta_json": "fase2/corpus/resultados/json/doc_42175.json",
+      "ok": false,
+      "estado": "con_observaciones",
+      "returncode": 1,
+      "salida": "doc_42175: con observaciones\n\n1 observaciones:\n - [doc_42175] seccion /I. The Bahamas/G. Integration of disaster risk manageme: orden de p?ginas retrocede (25-32 despu?s de 26-26)"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/42228",
+      "ruta_json": "fase2/corpus/resultados/json/doc_42228.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_42228: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/42426",
+      "ruta_json": "fase2/corpus/resultados/json/doc_42426.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_42426: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/42527",
+      "ruta_json": "fase2/corpus/resultados/json/doc_42527.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_42527: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/42723",
+      "ruta_json": "fase2/corpus/resultados/json/doc_42723.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_42723: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/42725",
+      "ruta_json": "fase2/corpus/resultados/json/doc_42725.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_42725: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/43123",
+      "ruta_json": "fase2/corpus/resultados/json/doc_43123.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_43123: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/43159",
+      "ruta_json": "fase2/corpus/resultados/json/doc_43159.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_43159: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/43407",
+      "ruta_json": "fase2/corpus/resultados/json/doc_43407.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_43407: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/43415",
+      "ruta_json": "fase2/corpus/resultados/json/doc_43415.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_43415: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/43419",
+      "ruta_json": "fase2/corpus/resultados/json/doc_43419.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_43419: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/43442",
+      "ruta_json": "fase2/corpus/resultados/json/doc_43442.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_43442: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/43581",
+      "ruta_json": "fase2/corpus/resultados/json/doc_43581.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_43581: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/43583",
+      "ruta_json": "fase2/corpus/resultados/json/doc_43583.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_43583: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/43725",
+      "ruta_json": "fase2/corpus/resultados/json/doc_43725.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_43725: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/43825",
+      "ruta_json": "fase2/corpus/resultados/json/doc_43825.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_43825: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44056",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44056.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_44056: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44096",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44096.json",
+      "ok": false,
+      "estado": "con_observaciones",
+      "returncode": 1,
+      "salida": "doc_44096: con observaciones\n\n1 observaciones:\n - [doc_44096] 2 item(s) del desglose con pagina fuera del rango de la seccion de recomendaciones (29-51) � posible uso de recuadro de portada/key messages"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44102",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44102.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_44102: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44103",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44103.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_44103: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44162",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44162.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_44162: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44163",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44163.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_44163: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44210",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44210.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_44210: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44216",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44216.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_44216: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44218",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44218.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_44218: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44280",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44280.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_44280: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44371",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44371.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_44371: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44472",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44472.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_44472: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44486",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44486.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_44486: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44487",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44487.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_44487: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44551",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44551.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_44551: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44584",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44584.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_44584: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44590",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44590.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_44590: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44640",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44640.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_44640: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44970",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44970.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_44970: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44974",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44974.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_44974: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45023",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45023.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_45023: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45046",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45046.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_45046: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45066",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45066.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_45066: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45098",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45098.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_45098: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45108",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45108.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_45108: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45111",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45111.json",
+      "ok": false,
+      "estado": "con_observaciones",
+      "returncode": 1,
+      "salida": "doc_45111: con observaciones\n\n1 observaciones:\n - [doc_45111] 12 item(s) del desglose con pagina fuera del rango de la seccion de recomendaciones (37-38) � posible uso de recuadro de portada/key messages"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45252",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45252.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_45252: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45604",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45604.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_45604: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45677",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45677.json",
+      "ok": false,
+      "estado": "con_observaciones",
+      "returncode": 1,
+      "salida": "doc_45677: con observaciones\n\n1 observaciones:\n - [doc_45677] 1 item(s) del desglose con pagina fuera del rango de la seccion de recomendaciones (159-336) � posible uso de recuadro de portada/key messages"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45689",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45689.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_45689: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45690",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45690.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_45690: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45691",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45691.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_45691: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45692",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45692.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_45692: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45693",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45693.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_45693: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45696",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45696.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_45696: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45697",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45697.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_45697: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45698",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45698.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_45698: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45699",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45699.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_45699: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45700",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45700.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_45700: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45703",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45703.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_45703: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45704",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45704.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_45704: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45705",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45705.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_45705: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45737",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45737.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_45737: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45966",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45966.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_45966: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45967",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45967.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_45967: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45968",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45968.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_45968: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46019",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46019.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_46019: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46227",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46227.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_46227: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46317",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46317.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_46317: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46433",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46433.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_46433: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46482",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46482.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_46482: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46499",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46499.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_46499: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46529",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46529.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_46529: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46575",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46575.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_46575: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46643",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46643.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_46643: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46681",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46681.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_46681: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46682",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46682.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_46682: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46853",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46853.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_46853: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46957",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46957.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_46957: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46992",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46992.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_46992: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46996",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46996.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_46996: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47041",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47041.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_47041: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47109",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47109.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_47109: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47270",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47270.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_47270: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47534",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47534.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_47534: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47604",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47604.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_47604: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47624",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47624.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_47624: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47676",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47676.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_47676: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47714",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47714.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_47714: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47720",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47720.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_47720: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47729",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47729.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_47729: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47730",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47730.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_47730: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47732",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47732.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_47732: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47733",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47733.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_47733: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47855",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47855.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_47855: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47868",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47868.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_47868: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47883",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47883.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_47883: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47903",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47903.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_47903: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48071",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48071.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_48071: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48097",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48097.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_48097: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48102",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48102.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_48102: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48118",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48118.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_48118: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48122",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48122.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_48122: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48144",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48144.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_48144: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48156",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48156.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_48156: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48166",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48166.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_48166: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48200",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48200.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_48200: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48290",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48290.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_48290: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48304",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48304.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_48304: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48413",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48413.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_48413: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48491",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48491.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_48491: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48524",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48524.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_48524: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48541",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48541.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_48541: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48543",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48543.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_48543: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48555",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48555.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_48555: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48611",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48611.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_48611: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48736",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48736.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_48736: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48823",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48823.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_48823: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48880",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48880.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_48880: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48901",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48901.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_48901: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48958",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48958.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_48958: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/49053",
+      "ruta_json": "fase2/corpus/resultados/json/doc_49053.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_49053: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/67979",
+      "ruta_json": "fase2/corpus/resultados/json/doc_67979.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_67979: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68644",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68644.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_68644: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68648",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68648.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_68648: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68657",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68657.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_68657: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68686",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68686.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_68686: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68704",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68704.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_68704: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68712",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68712.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_68712: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68756",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68756.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_68756: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68761",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68761.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_68761: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68770",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68770.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_68770: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68796",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68796.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_68796: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68797",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68797.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_68797: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68818",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68818.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_68818: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68877",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68877.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_68877: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/69132",
+      "ruta_json": "fase2/corpus/resultados/json/doc_69132.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_69132: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/69216",
+      "ruta_json": "fase2/corpus/resultados/json/doc_69216.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_69216: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/80433",
+      "ruta_json": "fase2/corpus/resultados/json/doc_80433.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_80433: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/80499",
+      "ruta_json": "fase2/corpus/resultados/json/doc_80499.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_80499: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/80561",
+      "ruta_json": "fase2/corpus/resultados/json/doc_80561.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_80561: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/80595",
+      "ruta_json": "fase2/corpus/resultados/json/doc_80595.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_80595: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/80737",
+      "ruta_json": "fase2/corpus/resultados/json/doc_80737.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_80737: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/80746",
+      "ruta_json": "fase2/corpus/resultados/json/doc_80746.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_80746: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/80769",
+      "ruta_json": "fase2/corpus/resultados/json/doc_80769.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_80769: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/80952",
+      "ruta_json": "fase2/corpus/resultados/json/doc_80952.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_80952: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/80955",
+      "ruta_json": "fase2/corpus/resultados/json/doc_80955.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_80955: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/80987",
+      "ruta_json": "fase2/corpus/resultados/json/doc_80987.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_80987: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/81035",
+      "ruta_json": "fase2/corpus/resultados/json/doc_81035.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_81035: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/81051",
+      "ruta_json": "fase2/corpus/resultados/json/doc_81051.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_81051: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/81101",
+      "ruta_json": "fase2/corpus/resultados/json/doc_81101.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_81101: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/81149",
+      "ruta_json": "fase2/corpus/resultados/json/doc_81149.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_81149: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/81194",
+      "ruta_json": "fase2/corpus/resultados/json/doc_81194.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_81194: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/81405",
+      "ruta_json": "fase2/corpus/resultados/json/doc_81405.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_81405: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/81535",
+      "ruta_json": "fase2/corpus/resultados/json/doc_81535.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_81535: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/81772",
+      "ruta_json": "fase2/corpus/resultados/json/doc_81772.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_81772: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/81875",
+      "ruta_json": "fase2/corpus/resultados/json/doc_81875.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_81875: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/81886",
+      "ruta_json": "fase2/corpus/resultados/json/doc_81886.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_81886: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/81906",
+      "ruta_json": "fase2/corpus/resultados/json/doc_81906.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_81906: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/82026",
+      "ruta_json": "fase2/corpus/resultados/json/doc_82026.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_82026: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/82157",
+      "ruta_json": "fase2/corpus/resultados/json/doc_82157.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_82157: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/82449",
+      "ruta_json": "fase2/corpus/resultados/json/doc_82449.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_82449: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/82456",
+      "ruta_json": "fase2/corpus/resultados/json/doc_82456.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_82456: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/82476",
+      "ruta_json": "fase2/corpus/resultados/json/doc_82476.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_82476: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/82547",
+      "ruta_json": "fase2/corpus/resultados/json/doc_82547.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_82547: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/84499",
+      "ruta_json": "fase2/corpus/resultados/json/doc_84499.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_84499: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/84510",
+      "ruta_json": "fase2/corpus/resultados/json/doc_84510.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_84510: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/85930",
+      "ruta_json": "fase2/corpus/resultados/json/doc_85930.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_85930: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/86527",
+      "ruta_json": "fase2/corpus/resultados/json/doc_86527.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_86527: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/89774",
+      "ruta_json": "fase2/corpus/resultados/json/doc_89774.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_89774: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/89932",
+      "ruta_json": "fase2/corpus/resultados/json/doc_89932.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_89932: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/89934",
+      "ruta_json": "fase2/corpus/resultados/json/doc_89934.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_89934: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/90001",
+      "ruta_json": "fase2/corpus/resultados/json/doc_90001.json",
+      "ok": true,
+      "estado": "sin_observaciones",
+      "returncode": 0,
+      "salida": "doc_90001: OK estructura base\n\nTodos los JSON conformes al esquema v1 (reglas 7-9 de exclusion incluidas)."
+    }
+  ]
+}

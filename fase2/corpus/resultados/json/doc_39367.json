@@ -47,8 +47,16 @@
       "paginas": "8-14",
       "resumen": "La introducción fija el propósito del estudio: cuantificar los recursos movilizados para reconocer la situación regional y apoyar a los países en sus estrategias de transición. Explica que la información financiera debe permitir distinguir brechas entre oferta y demanda de instrumentos, pero advierte que el financiamiento climático todavía opera como un nicho separado del sistema financiero convencional. El recuento de 2014 identifica 21.144,39 millones de dólares aprobados por entidades públicas, con 56,1% en bancos nacionales y 34,6% en bancos multilaterales; Brasil concentra 67% de los recursos identificados. La implicación es que existe actividad financiera relevante, pero insuficiente para la transformación estructural y todavía afectada por datos incompletos.",
       "dimensiones": [
-        {"dimension":"diagnostico_estructural","cita":"El financiamiento climático y la inversión en otros temas ambientales siguen siendo abordados como respuestas de nicho, con base en fondos e instituciones especializados en la atención de temas específicos, entre ellos, el calentamiento global.","pagina":8},
-        {"dimension":"estado_de_situacion","cita":"En este contexto, para el año de 2014, el monto de las intervenciones de los diferentes instrumentos financieros climáticos para los cuales fue posible discriminar información en ALC, sumó 21,144 mil millones de dólares.","pagina":9}
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "El financiamiento climático y la inversión en otros temas ambientales siguen siendo abordados como respuestas de nicho, con base en fondos e instituciones especializados en la atención de temas específicos, entre ellos, el calentamiento global.",
+          "pagina": 8
+        },
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "En este contexto, para el año de 2014, el monto de las intervenciones de los diferentes instrumentos financieros climáticos para los cuales fue posible discriminar información en ALC, sumó 21,144 mil millones de dólares.",
+          "pagina": 9
+        }
       ],
       "subsecciones": []
     },
@@ -58,8 +66,17 @@
       "paginas": "16-18",
       "resumen": "Este apartado delimita la unidad estadística y las exclusiones que hacen comparable el recuento. Usa la definición del IPCC, contabiliza principalmente montos aprobados en 2014 y separa fondos climáticos, recursos nacionales, bancos multilaterales y fuentes adicionales para evitar doble contabilidad. Excluye fondos privados, fundaciones, ONG, pensiones, aseguradoras, ODA y bonos verdes del total principal, aunque algunos se describen después por su potencial. También documenta que BNDES, BANCOLDEX, NAFIN, CAF, BID, Banco Mundial y EIB reportan con metodologías diferentes, por lo que la medición es una aproximación institucional y no una base homogénea de todos los flujos.",
       "dimensiones": [
-        {"dimension":"contexto_antecedentes","cita":"Se ha utilizado la definición de finanzas climáticas del IPCC que considera que el financiamiento climático total abarca a todos los flujos financieros cuyo efecto esperado es reducir las emisiones netas de gases de efecto invernadero y/o mejorar la resiliencia a los impactos de la variabilidad del clima y de los cambios climáticos esperados.","pagina":16},
-            {"dimension":"brechas_implementacion","subtipo_brecha":"retrospectiva","cita":"Cuando la data no estaba desagregada por temas, la desagregación se realizó según el título y el contenido básico de los proyectos, buscando relevar los que pudiesen ser considerados como un aporte a la mitigación y adaptación al cambio climático.","pagina":17}
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "Se ha utilizado la definición de finanzas climáticas del IPCC que considera que el financiamiento climático total abarca a todos los flujos financieros cuyo efecto esperado es reducir las emisiones netas de gases de efecto invernadero y/o mejorar la resiliencia a los impactos de la variabilidad del clima y de los cambios climáticos esperados.",
+          "pagina": 16
+        },
+        {
+          "dimension": "brechas_implementacion",
+          "subtipo_brecha": "retrospectiva",
+          "cita": "Cuando la data no estaba desagregada por temas, la desagregación se realizó según el título y el contenido básico de los proyectos, buscando relevar los que pudiesen ser considerados como un aporte a la mitigación y adaptación al cambio climático.",
+          "pagina": 17
+        }
       ],
       "subsecciones": []
     },
@@ -69,8 +86,16 @@
       "paginas": "20-23",
       "resumen": "El marco conceptual muestra que financiamiento climático no tiene una definición internacional única y que las categorías dependen de si se cuentan flujos públicos, privados, incrementales o totales. Recorre las definiciones del IPCC, la CMNUCC, IDFC y el enfoque conjunto de bancos multilaterales, y explica cómo esa diversidad afecta la contabilidad y la comparación. El apartado culmina escogiendo la definición del IPCC y precisando qué fuentes e instrumentos entran en el estudio, incluidos fondos públicos nacionales e internacionales para mitigación y adaptación. Su función es convertir un concepto disputado en una regla operativa, aunque deja abierta una brecha de homogeneización entre instituciones.",
       "dimensiones": [
-        {"dimension":"diagnostico_estructural","cita":"La falta de una definición consensuada y homogeneizada, no permite contabilizar con exactitud los datos, lo que resta validez a la información, y al mismo tiempo, dificulta el uso de la misma en la definición de necesidades de recursos por parte de los países y demás actores involucrados en el combate al cambio climático.","pagina":20},
-        {"dimension":"propuestas_politica","cita":"Los Principios establecen definiciones comunes e guías para el rastreo de finanzas climáticas, pero cada institución es responsable de su implementación, reporte y control de calidad.","pagina":22}
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "La falta de una definición consensuada y homogeneizada, no permite contabilizar con exactitud los datos, lo que resta validez a la información, y al mismo tiempo, dificulta el uso de la misma en la definición de necesidades de recursos por parte de los países y demás actores involucrados en el combate al cambio climático.",
+          "pagina": 20
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "Los Principios establecen definiciones comunes e guías para el rastreo de finanzas climáticas, pero cada institución es responsable de su implementación, reporte y control de calidad.",
+          "pagina": 22
+        }
       ],
       "subsecciones": []
     },
@@ -87,8 +112,16 @@
           "paginas": "25-31",
           "resumen": "La sección estima las necesidades de mitigación y adaptación y las compara con la inversión observada. Reúne cálculos de la Comisión Europea, IEA, WRI, NCE, IPCC, UNFCCC y Banco Mundial para energía, infraestructura, transporte, eficiencia y adaptación; por ejemplo, la IEA estima 44 millones de millones de dólares adicionales para descarbonizar el sistema energético al 2050, mientras el Banco Mundial ubica la adaptación mundial en 75-100 mil millones anuales entre 2010 y 2050. Para ALC, los estudios proyectan costos acumulados altos y crecientes en países y sectores como agricultura, agua, biodiversidad y eventos extremos. El argumento climático es que la demora eleva costos y obliga a combinar recursos nacionales e internacionales.",
           "dimensiones": [
-                {"dimension":"estado_de_situacion","cita":"El desafío mayor sin embargo, es el acceso a capital de menor costo. En los países en desarrollo y en los mercados emergentes, generalmente las tasas de interés son más altas que en los países desarrollados.","pagina":26},
-            {"dimension":"desafios","cita":"La diferencia de los costos entre acciones inmediatas y tardías puede ser muy significativa.","pagina":25}
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "El desafío mayor sin embargo, es el acceso a capital de menor costo. En los países en desarrollo y en los mercados emergentes, generalmente las tasas de interés son más altas que en los países desarrollados.",
+              "pagina": 26
+            },
+            {
+              "dimension": "desafios",
+              "cita": "La diferencia de los costos entre acciones inmediatas y tardías puede ser muy significativa.",
+              "pagina": 25
+            }
           ],
           "subsecciones": []
         },
@@ -105,8 +138,16 @@
               "paginas": "34-43",
               "resumen": "La sección define los fondos climáticos como estructuras independientes con presupuesto definido y renovable, administradas por gobiernos, bancos u organismos internacionales. Clasifica fondos multilaterales y bilaterales según adaptación, mitigación y REDD, y examina sus recursos disponibles, aprobados y en implementación en ALC. El Fondo Verde para el Clima, el GEF, el Fondo de Adaptación, el CTF y el PPCR aparecen como piezas de una arquitectura que combina donaciones, concesionalidad y mitigación de riesgos. La evidencia muestra que estos fondos pueden apalancar inversión, pero su escala regional y su comparación dependen del corte temporal y de la metodología.",
               "dimensiones": [
-                {"dimension":"contexto_antecedentes","cita":"Así como no hay unanimidad sobre cómo se define financiamiento climático, tampoco se ha zanjado lo que se entiende por fondos climáticos.","pagina":34},
-                {"dimension":"avances_implementacion","cita":"La mayoría de los fondos actualmente vigentes son multilaterales y una cantidad importante es gestionada por el Banco Mundial. Su foco es principalmente la mitigación.","pagina":34}
+                {
+                  "dimension": "contexto_antecedentes",
+                  "cita": "Así como no hay unanimidad sobre cómo se define financiamiento climático, tampoco se ha zanjado lo que se entiende por fondos climáticos.",
+                  "pagina": 34
+                },
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "La mayoría de los fondos actualmente vigentes son multilaterales y una cantidad importante es gestionada por el Banco Mundial. Su foco es principalmente la mitigación.",
+                  "pagina": 34
+                }
               ],
               "subsecciones": []
             },
@@ -116,8 +157,17 @@
               "paginas": "44-54",
               "resumen": "El apartado examina fondos y programas nacionales, con énfasis en adaptación, mitigación y agricultura o bosques, y registra cómo los presupuestos públicos se combinan con donaciones y préstamos. Presenta experiencias de México, Brasil y otros países, incluido el Fondo Amazonía y el programa de Agricultura Baja en Carbono, y compara recursos aprobados, comprometidos y desembolsados. El Fondo Amazonía condiciona la captación a reducciones efectivas de dióxido de carbono y había recibido 867,43 millones de dólares de Noruega hasta fines de 2014. El hallazgo es que los fondos nacionales permiten adaptar instrumentos al territorio, pero dependen de capacidad institucional, resultados verificables y disponibilidad presupuestaria.",
               "dimensiones": [
-                {"dimension":"avances_implementacion","cita":"La captación de recursos se basa en la reducción de emisiones efectivas de dióxido de carbono (CO2), es decir, es necesario comprobar su reducción en la Amazonia para poder captar nuevos recursos.","pagina":52},
-                {"dimension":"brechas_implementacion","subtipo_brecha":"retrospectiva","cita":"A fines de 2014, el Fondo contabilizaba 64 proyectos aprobados por un monto total de R$ 1.039 millones.","pagina":52}
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "La captación de recursos se basa en la reducción de emisiones efectivas de dióxido de carbono (CO2), es decir, es necesario comprobar su reducción en la Amazonia para poder captar nuevos recursos.",
+                  "pagina": 52
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "subtipo_brecha": "retrospectiva",
+                  "cita": "A fines de 2014, el Fondo contabilizaba 64 proyectos aprobados por un monto total de R$ 1.039 millones.",
+                  "pagina": 52
+                }
               ],
               "subsecciones": []
             },
@@ -127,8 +177,16 @@
               "paginas": "55-60",
               "resumen": "La sección cuantifica el papel del Banco Mundial, BID, CAF, BEI y los Fondos de Inversión Climática en la aprobación y desembolso de recursos para ALC. Distingue operaciones por país, fondo, sector y tipo de instrumento y advierte que los montos aprobados y desembolsados no son equivalentes cuando cambia la fecha de corte. El BID movilizó 2,491 mil millones de dólares y la CAF 2,809 mil millones en 2014, mientras el enfoque común de seguimiento busca elevar la comparabilidad. La hoja muestra avances de escala y apalancamiento, pero también una brecha metodológica que afecta la lectura de tendencias.",
               "dimensiones": [
-                {"dimension":"estado_de_situacion","cita":"La diferencia que se observa entre los dos valores, el publicado por el Climate Investment Funds (2015) y los datos de la base del climate funds update (climatefundsupdate.org/data), se debe al momento de corte de la información y a su condición de aprobado o desembolsado.","pagina":59},
-                {"dimension":"propuestas_politica","cita":"Los bancos multilaterales de desarrollo han participado activamente en el financiamiento climático.","pagina":55}
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "La diferencia que se observa entre los dos valores, el publicado por el Climate Investment Funds (2015) y los datos de la base del climate funds update (climatefundsupdate.org/data), se debe al momento de corte de la información y a su condición de aprobado o desembolsado.",
+                  "pagina": 59
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Los bancos multilaterales de desarrollo han participado activamente en el financiamiento climático.",
+                  "pagina": 55
+                }
               ],
               "subsecciones": []
             },
@@ -138,8 +196,16 @@
               "paginas": "61-66",
               "resumen": "Este apartado revisa los bancos regionales y sus instrumentos de préstamo, donación, garantías y apoyo a pequeñas y medianas empresas. Examina el BID y la CAF, incluyendo líneas para infraestructura, energía, adaptación, resiliencia y MIPYMES verdes, y muestra cómo la demanda de clientes y la disponibilidad de recursos concesionales condicionan las metas. La nueva meta climática del BID busca apalancar financiamiento privado y ofrecer productos como bonos verdes, pero todavía debía formalizarse ante su Asamblea de Gobernadores. El argumento es que la banca regional puede ampliar la oferta, aunque necesita instrumentos innovadores y una base concesional suficiente.",
               "dimensiones": [
-                {"dimension":"propuestas_politica","cita":"Con ese objetivo, el BID incrementará el uso de instrumentos para apalancar el financiamiento privado, incluyendo el financiamiento para adaptación y resiliencia al cambio climático.","pagina":63},
-                {"dimension":"desafios","cita":"Esta meta aspiracional también deberá ser formalizada por la Asamblea de Gobernadores del BID.","pagina":63}
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Con ese objetivo, el BID incrementará el uso de instrumentos para apalancar el financiamiento privado, incluyendo el financiamiento para adaptación y resiliencia al cambio climático.",
+                  "pagina": 63
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "Esta meta aspiracional también deberá ser formalizada por la Asamblea de Gobernadores del BID.",
+                  "pagina": 63
+                }
               ],
               "subsecciones": []
             },
@@ -149,8 +215,16 @@
               "paginas": "67-71",
               "resumen": "La sección analiza bancos públicos nacionales como BNDES, Bancóldex y otras instituciones, y los vincula con fondos, programas sectoriales y líneas de crédito para mitigación y adaptación. Detalla instrumentos reembolsables y no reembolsables, sectores financiados y diferencias entre recursos propios y transferidos. En Brasil, el BNDES, el Fondo Amazonía y el programa ABC explican la concentración nacional del financiamiento regional; en Colombia, Bancóldex ofrece financiamiento verde para distintos sectores y regiones. El hallazgo es que los bancos públicos son el principal canal cuantificado, pero sus carteras no se reportan con una metodología plenamente uniforme.",
               "dimensiones": [
-                {"dimension":"estado_de_situacion","cita":"En 2014, el monto ascendió a 11,6 mil millones de dólares. De este total, 92% tuvo como destino la mitigación del cambio climático.","pagina":70},
-                {"dimension":"avances_implementacion","cita":"El Banco de Comercio Exterior de Colombia S.A., Bancoldex, el banco de desarrollo empresarial colombiano, es una sociedad anónima de economía mixta, organizada como establecimiento de crédito bancario, vinculada al Ministerio de Comercio Exterior y vigilada por la Superintendencia Financiera de Colombia.","pagina":71}
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "En 2014, el monto ascendió a 11,6 mil millones de dólares. De este total, 92% tuvo como destino la mitigación del cambio climático.",
+                  "pagina": 70
+                },
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "El Banco de Comercio Exterior de Colombia S.A., Bancoldex, el banco de desarrollo empresarial colombiano, es una sociedad anónima de economía mixta, organizada como establecimiento de crédito bancario, vinculada al Ministerio de Comercio Exterior y vigilada por la Superintendencia Financiera de Colombia.",
+                  "pagina": 71
+                }
               ],
               "subsecciones": []
             },
@@ -160,8 +234,17 @@
               "paginas": "72-75",
               "resumen": "El apartado examina la banca privada como canal potencial de recursos climáticos, pero reconoce que no fue posible encontrar información suficiente sobre sus carteras propias. La evidencia disponible corresponde principalmente a transferencias del BNDES hacia bancos privados en Brasil, por lo que no representa la totalidad de esas instituciones. El texto contrasta el potencial de movilización privada con la debilidad de los registros y con la necesidad de instrumentos que reduzcan riesgos. La implicación es una brecha de información y de integración del sector privado en la contabilidad regional.",
               "dimensiones": [
-                {"dimension":"brechas_implementacion","subtipo_brecha":"retrospectiva","cita":"Sigue habiendo poca información disponible sobre la participación de los bancos privados en el financiamiento climático.","pagina":72},
-                {"dimension":"desafios","cita":"Esta situación ha llevado a que los líderes del G20 en la reunión celebrada en Cannes en 2011, reconociesen el rol de las finanzas y de las políticas públicas para soportar inversiones en infraestructura verde y advirtieron la necesidad de fomentar las inversiones del sector privado a través de mecanismos basados en el mercado (OCDE, 2012).","pagina":72}
+                {
+                  "dimension": "brechas_implementacion",
+                  "subtipo_brecha": "retrospectiva",
+                  "cita": "Sigue habiendo poca información disponible sobre la participación de los bancos privados en el financiamiento climático.",
+                  "pagina": 72
+                },
+                {
+                  "dimension": "desafios",
+                  "cita": "Esta situación ha llevado a que los líderes del G20 en la reunión celebrada en Cannes en 2011, reconociesen el rol de las finanzas y de las políticas públicas para soportar inversiones en infraestructura verde y advirtieron la necesidad de fomentar las inversiones del sector privado a través de mecanismos basados en el mercado (OCDE, 2012).",
+                  "pagina": 72
+                }
               ],
               "subsecciones": []
             }
@@ -182,7 +265,11 @@
           "paginas": "76-79",
           "resumen": "La sección diferencia fondos climáticos disponibles, recursos anunciados y compromisos de inversionistas antes de la cumbre de París. Presenta la Coalición para la Descarbonización del Portafolio, cuyos miembros se comprometieron a descarbonizar al menos 100 mil millones de dólares y medir la huella de otros 500 mil millones. También compara fondos potenciales y comprometidos por fuente, pero advierte que un anuncio no equivale a un desembolso ni a un flujo contabilizable. El resultado es un mapa de capacidad financiera futura que todavía requiere verificación, adicionalidad y ejecución.",
           "dimensiones": [
-            {"dimension":"oportunidades","cita":"La Coalición para la Descarbonización del Portafolio (Portfolio Decarbonisation Coalition), que congrega a inversores que se comprometieron a descarbonizar a lo menos 100 mil millones de inversiones en instituciones financieras y de medir y comunicar la huella de carbono de a lo menos 500 mil millones de dólares en inversiones, antes de la cumbre de Paris de diciembre de 2015.","pagina":77}
+            {
+              "dimension": "oportunidades",
+              "cita": "La Coalición para la Descarbonización del Portafolio (Portfolio Decarbonisation Coalition), que congrega a inversores que se comprometieron a descarbonizar a lo menos 100 mil millones de inversiones en instituciones financieras y de medir y comunicar la huella de carbono de a lo menos 500 mil millones de dólares en inversiones, antes de la cumbre de Paris de diciembre de 2015.",
+              "pagina": 77
+            }
           ],
           "subsecciones": []
         },
@@ -192,8 +279,16 @@
           "paginas": "80-87",
           "resumen": "El apartado estima la capacidad de fondos de pensión, fondos de reserva y aseguradoras para invertir en infraestructura y activos verdes. Usa la encuesta de la OCDE sobre 104 entidades que administraban 10,4 millones de millones de dólares y presenta ejemplos de inversiones verdes de ERAFP, AP2 y ABP. El argumento económico es que la infraestructura verde puede ofrecer ingresos estables y diversificación, pero la escasa clasificación climática, los riesgos y la limitada escala de las inversiones impiden asumir que todo el patrimonio pueda movilizarse. La sección identifica por tanto una oportunidad financiera condicionada por regulación, rentabilidad y medición.",
           "dimensiones": [
-            {"dimension":"oportunidades","cita":"Los proyectos de infraestructura verde pueden proporcionar a los fondos de pensiones inversiones que combinan estas características.","pagina":83},
-            {"dimension":"estado_de_situacion","cita":"La francesa ERAFP, reportó, en 2013, que el 27% de su portafolio se invirtió en acciones socialmente responsables.","pagina":82}
+            {
+              "dimension": "oportunidades",
+              "cita": "Los proyectos de infraestructura verde pueden proporcionar a los fondos de pensiones inversiones que combinan estas características.",
+              "pagina": 83
+            },
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "La francesa ERAFP, reportó, en 2013, que el 27% de su portafolio se invirtió en acciones socialmente responsables.",
+              "pagina": 82
+            }
           ],
           "subsecciones": []
         },
@@ -203,8 +298,16 @@
           "paginas": "88-91",
           "resumen": "La sección presenta los bonos verdes como instrumento para canalizar capital hacia proyectos climáticos y revisa emisores, mercados, criterios de elegibilidad y taxonomías. Explica que la demanda proviene de inversionistas con mandatos ambientales, sociales y de gobernanza, pero que todavía no se refleja en precios diferenciados respecto de bonos equivalentes. La Climate Bonds Initiative aporta estándares y certificación para reducir ambigüedades entre mercados y orientar a emisores e inversores. El hallazgo es que el instrumento ofrece una vía de expansión, pero requiere definiciones comunes, trazabilidad y señales de mercado más fuertes.",
           "dimensiones": [
-            {"dimension":"estado_de_situacion","cita":"Sin embargo esta demanda no ha sido todavía transferida a los precios, que no se han diferenciado de los de otros bonos de un mismo emisor.","pagina":88},
-            {"dimension":"propuestas_politica","cita":"Su finalidad es animar la utilización de definiciones comunes entre los diferentes mercados.","pagina":90}
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Sin embargo esta demanda no ha sido todavía transferida a los precios, que no se han diferenciado de los de otros bonos de un mismo emisor.",
+              "pagina": 88
+            },
+            {
+              "dimension": "propuestas_politica",
+              "cita": "Su finalidad es animar la utilización de definiciones comunes entre los diferentes mercados.",
+              "pagina": 90
+            }
           ],
           "subsecciones": []
         }
@@ -215,42 +318,70 @@
     "gran_impulso_ambiental_concreto": {
       "veredicto": "Parcial",
       "evidencia": "El estudio reconoce que la descarbonización exige paquetes de políticas e identifica sectores e instrumentos, pero su unidad de cierre es la medición y descripción de flujos; no presenta un paquete propio de inversión coordinada a escala del modelo de desarrollo.",
-      "citas": [{"cita":"Hay consenso además, respecto de la necesidad de contar con paquetes de políticas con muchos instrumentos -como investigación, desarrollo y soporte a la innovación, estándares de desempeño e incentivos fiscales para inversiones, instrumentos financieros, políticas sociales y de compensación- para crear un ambiente favorable para políticas bajas en carbono","pagina":24}],
+      "citas": [
+        {
+          "cita": "Hay consenso además, respecto de la necesidad de contar con paquetes de políticas con muchos instrumentos -como investigación, desarrollo y soporte a la innovación, estándares de desempeño e incentivos fiscales para inversiones, instrumentos financieros, políticas sociales y de compensación- para crear un ambiente favorable para políticas bajas en carbono",
+          "pagina": 24
+        }
+      ],
       "nota": "Hay contenido sectorial e instrumental, pero falta una propuesta propia de inversión masiva y coordinada."
     },
     "articulacion_actores": {
       "veredicto": "Parcial",
       "evidencia": "El documento nombra fondos, bancos y gobiernos como canales e identifica mecanismos financieros regionales, pero no desarrolla una plataforma multiactor o proceso de coordinación de la acción climática dentro de ALC; describe principalmente intermediación financiera.",
-      "citas": [{"cita":"El papel que desempeñan los bancos multilaterales y nacionales de desarrollo para escalar el financiamiento para el cambio climático es cada vez más significativo.","pagina":33}],
+      "citas": [
+        {
+          "cita": "El papel que desempeñan los bancos multilaterales y nacionales de desarrollo para escalar el financiamiento para el cambio climático es cada vez más significativo.",
+          "pagina": 33
+        }
+      ],
       "nota": "La enumeración de actores e instrumentos no basta para acreditar un mecanismo de articulación multiactor."
     },
     "oportunidades_productivas_sostenibles": {
       "veredicto": "Parcial",
       "evidencia": "El documento enumera sectores y actividades de transición —energía, transporte, eficiencia, agricultura, bosques, agua y residuos— y muestra oportunidades para inversionistas, pero no desarrolla de manera suficiente el vínculo de esas oportunidades con empleo, productividad o reducción de desigualdad.",
-      "citas": [{"cita":"La Comisión Europea estima que la UE necesita invertir 270 mil millones de euros anualmente en energías bajas en carbono, en eficiencia energética y en transporte","pagina":26}],
+      "citas": [
+        {
+          "cita": "La Comisión Europea estima que la UE necesita invertir 270 mil millones de euros anualmente en energías bajas en carbono, en eficiencia energética y en transporte",
+          "pagina": 26
+        }
+      ],
       "nota": "Se cumple la enumeración sectorial; el chequeo de empleo, productividad o desigualdad solo encuentra conexiones puntuales, no un desarrollo central."
     },
     "como_hacerlo_concreto": {
       "veredicto": "No",
       "evidencia": "El documento no contiene una sección final con recomendaciones propias desglosables ni una lista de acciones ejecutables para su ámbito. Presenta necesidades, instrumentos existentes y metas descritas por instituciones, pero no convierte ese diagnóstico en ítems normativos propios; por ello no hay una lista que pueda pasar mayoritariamente el test verbo más objeto específico.",
-      "citas": [{"cita":"A continuación, se describen las principales instituciones que han aportado recursos a la región, individualizando los instrumentos e iniciativas y cuando había información disponible, cuantificando sus operaciones","pagina":33}],
+      "citas": [
+        {
+          "cita": "A continuación, se describen las principales instituciones que han aportado recursos a la región, individualizando los instrumentos e iniciativas y cuando había información disponible, cuantificando sus operaciones",
+          "pagina": 33
+        }
+      ],
       "desglose_items": [],
       "tally": "0 de 0 ítems pasan el test de concreción",
       "nota": "No hay lista de recomendaciones propias en el cierre formal."
     }
   },
   "tipologia": {
-    "transformacion_primaria": {"numero":10,"nombre":"Macroeconomía y fiscalidad","certeza":"Alta"},
-    "transformacion_secundaria": {"numero":6,"nombre":"Sostenibilidad ambiental","certeza":"Alta"},
-    "razonamiento_5_pasos": {
-      "tension_dialectica":"El documento enfrenta la tensión entre la escala financiera requerida por la transición climática y un sistema que todavía trata el financiamiento climático como un conjunto de fondos especializados. Procesa esa contradicción mediante una contabilidad de flujos aprobados, una comparación de necesidades y un inventario de intermediarios, en vez de estudiar principalmente la transformación técnica de los sectores.",
-      "filtro_categoria_primaria":"La categoría primaria es Macroeconomía y fiscalidad porque el objeto analítico es la movilización, medición, canalización y ampliación de recursos financieros, con atención a presupuestos, bancos, tasas, instrumentos y mercados. Sostenibilidad ambiental es la alternativa cercana, pero funciona como finalidad y criterio de elegibilidad del financiamiento; el método y el cierre están organizados por arquitectura financiera, no por resultados de mitigación o adaptación sectorial.",
-      "secundaria_obligatoria":"Sostenibilidad ambiental cumple la función de finalidad sectorial: define qué flujos entran como climáticos, separa mitigación de adaptación y orienta fondos, préstamos, bonos y carteras hacia actividades bajas en carbono o resilientes. No es el objeto financiero principal, pero determina la dirección de los instrumentos estudiados.",
-      "justificacion_anti_copia":"El método contabiliza principalmente recursos públicos aprobados en 2014 y excluye fondos privados, pensiones, aseguradoras y bonos verdes del total principal. El resultado cuantitativo identifica 21.144,39 millones de dólares y una concentración de 56,1% en bancos nacionales, mientras el capítulo conceptual compara IPCC, IDFC y MDB para explicar la falta de homogeneidad. El cierre examina fondos comprometidos, inversiones de pensiones y taxonomías de bonos verdes como canales financieros adicionales, rasgos que hacen dominante la pregunta macrofinanciera.",
-      "validacion_anclas":"Se aproxima al ancla de financiamiento-como-objeto de la tipología (#10 primaria / #6 secundaria), porque la unidad completa se estructura mediante flujos, bancos, instrumentos y necesidades financieras. Se diferencia del ancla de transición climática financiada (#6/#10): aquí la cuantificación y la arquitectura financiera son el sujeto del documento, mientras la mitigación y adaptación definen el destino de los recursos."
+    "transformacion_primaria": {
+      "numero": 10,
+      "nombre": "Macroeconomía y fiscalidad",
+      "certeza": "Alta"
     },
-    "tipo_documento_climatico":"Documento de proyecto o estudio técnico de financiamiento climático",
-    "nivel_aplicacion":"Regional (ALC), con desagregación nacional y subregional",
-    "ambiguedad_pendiente_validacion":null
+    "transformacion_secundaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "razonamiento_5_pasos": {
+      "tension_dialectica": "El documento enfrenta la tensión entre la escala financiera requerida por la transición climática y un sistema que todavía trata el financiamiento climático como un conjunto de fondos especializados. Procesa esa contradicción mediante una contabilidad de flujos aprobados, una comparación de necesidades y un inventario de intermediarios, en vez de estudiar principalmente la transformación técnica de los sectores.",
+      "filtro_categoria_primaria": "La categoría primaria es Macroeconomía y fiscalidad porque el objeto analítico es la movilización, medición, canalización y ampliación de recursos financieros, con atención a presupuestos, bancos, tasas, instrumentos y mercados. Sostenibilidad ambiental es la alternativa cercana, pero funciona como finalidad y criterio de elegibilidad del financiamiento; el método y el cierre están organizados por arquitectura financiera, no por resultados de mitigación o adaptación sectorial.",
+      "secundaria_obligatoria": "Sostenibilidad ambiental cumple la función de finalidad sectorial: define qué flujos entran como climáticos, separa mitigación de adaptación y orienta fondos, préstamos, bonos y carteras hacia actividades bajas en carbono o resilientes. No es el objeto financiero principal, pero determina la dirección de los instrumentos estudiados.",
+      "justificacion_anti_copia": "El método contabiliza principalmente recursos públicos aprobados en 2014 y excluye fondos privados, pensiones, aseguradoras y bonos verdes del total principal. El resultado cuantitativo identifica 21.144,39 millones de dólares y una concentración de 56,1% en bancos nacionales, mientras el capítulo conceptual compara IPCC, IDFC y MDB para explicar la falta de homogeneidad. El cierre examina fondos comprometidos, inversiones de pensiones y taxonomías de bonos verdes como canales financieros adicionales, rasgos que hacen dominante la pregunta macrofinanciera.",
+      "validacion_anclas": "Se aproxima al ancla de financiamiento-como-objeto de la tipología (#10 primaria / #6 secundaria), porque la unidad completa se estructura mediante flujos, bancos, instrumentos y necesidades financieras. Se diferencia del ancla de transición climática financiada (#6/#10): aquí la cuantificación y la arquitectura financiera son el sujeto del documento, mientras la mitigación y adaptación definen el destino de los recursos."
+    },
+    "tipo_documento_climatico": "Documento de proyecto o estudio técnico de financiamiento climático",
+    "nivel_aplicacion": "Regional (ALC), con desagregación nacional y subregional",
+    "ambiguedad_pendiente_validacion": null
   }
 }

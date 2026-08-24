@@ -1,0 +1,591 @@
+{
+  "version": "auditoria-dimensiones-v1",
+  "generado_en": "2026-08-24T20:03:54+00:00",
+  "fuentes": {
+    "inventario": "fase3/inventario_corpus_v1.json",
+    "exclusiones": "fase3/exclusiones_corpus_v1.csv",
+    "codebook": "fase2/codebook_v0.md"
+  },
+  "denominador": {
+    "historico": 244,
+    "exclusiones_aplicadas": 6,
+    "activo": 238,
+    "dimensiones_revisadas": 8329
+  },
+  "resultado_cribado": {
+    "candidatos": 44,
+    "proporcion_candidatos": 0.0053,
+    "advertencia": "Los candidatos requieren revisión humana; ausencia de marcador no demuestra error semántico."
+  },
+  "por_dimension": {
+    "avances_implementacion": {
+      "total": 684,
+      "candidatos": 6
+    },
+    "brechas_implementacion": {
+      "total": 526,
+      "candidatos": 3
+    },
+    "contexto_antecedentes": {
+      "total": 506,
+      "candidatos": 0
+    },
+    "desafios": {
+      "total": 719,
+      "candidatos": 0
+    },
+    "diagnostico_estructural": {
+      "total": 1203,
+      "candidatos": 17
+    },
+    "estado_de_situacion": {
+      "total": 1655,
+      "candidatos": 0
+    },
+    "oportunidades": {
+      "total": 553,
+      "candidatos": 5
+    },
+    "propuestas_politica": {
+      "total": 1971,
+      "candidatos": 12
+    },
+    "tendencias": {
+      "total": 512,
+      "candidatos": 1
+    }
+  },
+  "candidatos": [
+    {
+      "handle": "https://hdl.handle.net/11362/46101",
+      "ruta_json": "fase2/pilot/doc06_tragedia_ambiental.json",
+      "seccion": "/Capítulo XI: Enfrentar el cambio climático considerando la incidencia de la gestión de los recursos naturales",
+      "paginas_seccion": "97-100",
+      "dimension": "diagnostico_estructural",
+      "cita": "el énfasis que se ha dado al fenómeno y a sus efectos en escenarios de mediano y largo plazo podría estar dejando en la sombra algunos de los principales problemas relacionados con la conservación de los bienes y servicios de la naturaleza",
+      "pagina_cita": 98,
+      "motivo": "La cita contiene lenguaje prescriptivo o de instrumento, sin causalidad estructural explícita.",
+      "marcador_detectado": "podría",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47745",
+      "ruta_json": "fase2/pilot/doc10_agenda_2030.json",
+      "seccion": "/Capítulo V. Acuerdos para una década de acción/C. La gobernanza de un nuevo estilo de desarrollo/2. Institucionalidad para reducir la vulnerabilidad ante los desastres",
+      "paginas_seccion": "175-178",
+      "dimension": "avances_implementacion",
+      "cita": "la creación del fondo de adaptación climática y respuesta integral a desastres naturales en septiembre de 2021, que será administrado por la CEPAL y financiado por los Estados Miembros de la CELAC",
+      "pagina_cita": 178,
+      "motivo": "La cita contiene lenguaje prescriptivo, futuro o condicional, incompatible potencialmente con una acción ya implementada.",
+      "marcador_detectado": "será",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/80727",
+      "ruta_json": "fase2/pilot/doc14_trampas_desarrollo.json",
+      "seccion": "/Capítulo V. ¿Cómo reducir la desigualdad y promover la inclusión y la movilidad social?/F. Planificación y gestión urbana para reducir la desigualdad y mejorar la cohesión social",
+      "paginas_seccion": "185-193",
+      "dimension": "diagnostico_estructural",
+      "cita": "Dado que su costo es menor, los sectores de bajos recursos deben optar por localizaciones periféricas o zonas de riesgo. En el primer caso, los hogares deberán afrontar elevados costos para desplazarse y, en el segundo, estarán expuestos a vulnerabilidades cada vez más recurrentes debido a los efectos del cambio climático.",
+      "pagina_cita": 185,
+      "motivo": "La cita contiene lenguaje prescriptivo o de instrumento, sin causalidad estructural explícita.",
+      "marcador_detectado": "deben",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/37791",
+      "ruta_json": "fase2/corpus/resultados/json/doc_37791.json",
+      "seccion": "/Capítulo VI: El medio ambiente en las políticas tributarias",
+      "paginas_seccion": "87-100",
+      "dimension": "diagnostico_estructural",
+      "cita": "por otro lado, debe señalarse que la competencia tributaria entre países podría afectar ciertas decisiones privadas como la localización industrial, las inversiones en tecnología e incluso la compra de bienes que generen alguna externalidad, como es el caso de los vehículos automotores",
+      "pagina_cita": 91,
+      "motivo": "La cita contiene lenguaje prescriptivo o de instrumento, sin causalidad estructural explícita.",
+      "marcador_detectado": "podría",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/38274",
+      "ruta_json": "fase2/corpus/resultados/json/doc_38274.json",
+      "seccion": "/IV. Instrumentos económicos para la adaptación a la variabilidad y el cambio climático en los sistemas urbanos de agua/C. Instrumentos económicos para reducir el riesgo: los contratos de opción/2. Los contratos de opción",
+      "paginas_seccion": "62-64",
+      "dimension": "oportunidades",
+      "cita": "los contratos de opción para el uso temporal de los derechos han sido evaluados como la alternativa menos costosa para proveer un seguro contra la falta de agua a las empresas sanitarias (Michelsen and Young, 1993).",
+      "pagina_cita": 63,
+      "motivo": "La cita contiene lenguaje de carencia, limitación u obstáculo, potencialmente incompatible con una oportunidad.",
+      "marcador_detectado": "falta",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39534",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39534.json",
+      "seccion": "/II. Institucionalidad y políticas para el cambio climático en la agricultura/A-B. Legislación, políticas, estrategias y planes",
+      "paginas_seccion": "23-35",
+      "dimension": "avances_implementacion",
+      "cita": "En resumen, es destacable que algunos países hayan logrado establecer un marco legal integral, en momentos en que muchos países todavía se debaten en discusiones sobre cuáles deben ser las prioridades y responsabilidades a atender tanto en el ámbito nacional como en el internacional.",
+      "pagina_cita": 25,
+      "motivo": "La cita contiene lenguaje prescriptivo, futuro o condicional, incompatible potencialmente con una acción ya implementada.",
+      "marcador_detectado": "deben",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39661",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39661.json",
+      "seccion": "/II. El federalismo ambiental/A. Elementos para guiar el diseño de una política ambiental entre distintas jurisdicciones",
+      "paginas_seccion": "19-20",
+      "dimension": "diagnostico_estructural",
+      "cita": "descentralizar la política ambiental podría arrojar una competencia entre las jurisdicciones para atraer inversión —contaminante.",
+      "pagina_cita": 20,
+      "motivo": "La cita contiene lenguaje prescriptivo o de instrumento, sin causalidad estructural explícita.",
+      "marcador_detectado": "podría",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39824",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39824.json",
+      "seccion": "/III. Adaptación de las actividades agropecuarias al cambio climático",
+      "paginas_seccion": "34-47",
+      "dimension": "brechas_implementacion",
+      "cita": "A pesar de que hasta el momento se tiene poca evidencia empírica respecto al éxito y efectividad de las distintas medidas de adaptación planeada",
+      "pagina_cita": 35,
+      "motivo": "La cita contiene lenguaje de logro o implementación, potencialmente incompatible con una brecha.",
+      "marcador_detectado": "éxito",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40297",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40297.json",
+      "seccion": "/III. Políticas climáticas y sus efectos distributivos: revisión de la literatura/B. Algunos estudios de modelos de equilibrio general relevantes",
+      "paginas_seccion": "24-27",
+      "dimension": "diagnostico_estructural",
+      "cita": "Por lo tanto, los autores concluyen que no es claro determinar el efecto global final y este dependería tanto de la estructura de la economía como la magnitud del impuesto.",
+      "pagina_cita": 25,
+      "motivo": "La cita contiene lenguaje prescriptivo o de instrumento, sin causalidad estructural explícita.",
+      "marcador_detectado": "impuesto",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40841",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40841.json",
+      "seccion": "/V. Conclusiones y comentarios generales",
+      "paginas_seccion": "57-60",
+      "dimension": "diagnostico_estructural",
+      "cita": "La combinación de una alta elasticidad ingreso y una baja elasticidad precio de la demanda de energía indica que un crecimiento económico sostenido en América Latina vendrá acompañado de un aumento sostenido del consumo de energía y que modificaciones en los precios de la energía, por ejemplo, a través de un impuesto, no será suficiente para controlar el continuo crecimiento del consumo energético.",
+      "pagina_cita": 58,
+      "motivo": "La cita contiene lenguaje prescriptivo o de instrumento, sin causalidad estructural explícita.",
+      "marcador_detectado": "impuesto",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40922",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40922.json",
+      "seccion": "/V. Conclusiones",
+      "paginas_seccion": "106-107",
+      "dimension": "propuestas_politica",
+      "cita": "De lo anterior se deduce que existe una agenda regional de cooperación que debería contemplar el intercambio de experiencias, tanto en las acciones con resultados exitosos como en el desarrollo de marcos legales e institucionales y sistemas de información.",
+      "pagina_cita": 107,
+      "motivo": "La cita contiene lenguaje descriptivo o reportativo, sin una propuesta o instrumento explícito.",
+      "marcador_detectado": "existe",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/41867",
+      "ruta_json": "fase2/corpus/resultados/json/doc_41867.json",
+      "seccion": "/I. Marco general y evidencia de los efectos macroeconómicos de un impuesto al carbono/A. El impuesto al carbono en el análisis macroeconómico",
+      "paginas_seccion": "9-14",
+      "dimension": "diagnostico_estructural",
+      "cita": "un impuesto al carbono genera costos económicos adicionales que pueden clasificarse en primarios y de interacción",
+      "pagina_cita": 12,
+      "motivo": "La cita contiene lenguaje prescriptivo o de instrumento, sin causalidad estructural explícita.",
+      "marcador_detectado": "impuesto",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/41867",
+      "ruta_json": "fase2/corpus/resultados/json/doc_41867.json",
+      "seccion": "/II. Meta-análisis de los efectos de un impuesto al carbono en América Latina",
+      "paginas_seccion": "17-32",
+      "dimension": "diagnostico_estructural",
+      "cita": "el coeficiente asociado a la variable OCDE es positivo y estadísticamente significativo; lo que sugiere que el impacto sobre el PIB de un impuesto al carbono es mayor en las economías desarrolladas",
+      "pagina_cita": 26,
+      "motivo": "La cita contiene lenguaje prescriptivo o de instrumento, sin causalidad estructural explícita.",
+      "marcador_detectado": "impuesto",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/41867",
+      "ruta_json": "fase2/corpus/resultados/json/doc_41867.json",
+      "seccion": "/III. Conclusiones",
+      "paginas_seccion": "33-36",
+      "dimension": "diagnostico_estructural",
+      "cita": "el coeficiente asociado a la variable OCDE es positivo y estadísticamente significativo lo que sugiere que el costo macroeconómico de la aplicación de un impuesto al carbono es mayor en las economías desarrolladas",
+      "pagina_cita": 35,
+      "motivo": "La cita contiene lenguaje prescriptivo o de instrumento, sin causalidad estructural explícita.",
+      "marcador_detectado": "impuesto",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/42527",
+      "ruta_json": "fase2/corpus/resultados/json/doc_42527.json",
+      "seccion": "/Capítulo IV. Sociedad y medio ambiente/1. Situación actual",
+      "paginas_seccion": "101-107",
+      "dimension": "avances_implementacion",
+      "cita": "Este esfuerzo permitió superar una seria dispersión sectorial en la defensa penal del medio ambiente, que dificultaba una correcta y eficaz observancia de la justicia ambiental.",
+      "pagina_cita": 101,
+      "motivo": "La cita contiene lenguaje prescriptivo, futuro o condicional, incompatible potencialmente con una acción ya implementada.",
+      "marcador_detectado": "seria",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/42725",
+      "ruta_json": "fase2/corpus/resultados/json/doc_42725.json",
+      "seccion": "/I. Políticas públicas de mitigación y adaptación en el contexto de la incertidumbre climática/A. Mitigación vs adaptación al cambio climático",
+      "paginas_seccion": "10-12",
+      "dimension": "propuestas_politica",
+      "cita": "Sin embargo, existe consenso en la literatura en que las políticas de mitigación y adaptación deben ser consideradas y diseñadas de forma complementaria, y no como alternativas mutuamente excluyentes, debido a sus diferentes características en términos de distribución geográfica y temporal de sus costos y beneficios, y dificultades técnicas que plantea la estimación de los mismos (Bosello y Chen, 2011; Bosello et al., 2010; De Bruin et al., 2009; Klein y Huq, 2008).",
+      "pagina_cita": 11,
+      "motivo": "La cita contiene lenguaje descriptivo o reportativo, sin una propuesta o instrumento explícito.",
+      "marcador_detectado": "existe",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/43407",
+      "ruta_json": "fase2/corpus/resultados/json/doc_43407.json",
+      "seccion": "/III. Resultados/C. Medidas de adaptación y políticas macroeconómicas conjuntas para lograr un desarrollo sostenible",
+      "paginas_seccion": "22-28",
+      "dimension": "propuestas_politica",
+      "cita": "al aplicar una reducción en los precios de exportación junto con la mejora en la tecnología de producción, se observan menores incrementos en el PIB (+4 a +6%), pero acompañados de mayores reducciones en el nivel de deforestación (-26 a -37%), siendo esta combinación de políticas, la más apta para lograr un desarrollo sostenible",
+      "pagina_cita": 26,
+      "motivo": "La cita contiene lenguaje descriptivo o reportativo, sin una propuesta o instrumento explícito.",
+      "marcador_detectado": "se observan",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44210",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44210.json",
+      "seccion": "/III. Experiencia mexicana: algunas lecciones",
+      "paginas_seccion": "17-20",
+      "dimension": "diagnostico_estructural",
+      "cita": "el impuesto es progresivo, debido a que la mayor parte de la población de deciles medios y bajos no posee automóvil. La afectación para esos sectores de la población provendría más bien de un aumento en los precios del transporte urbano.",
+      "pagina_cita": 19,
+      "motivo": "La cita contiene lenguaje prescriptivo o de instrumento, sin causalidad estructural explícita.",
+      "marcador_detectado": "impuesto",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44487",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44487.json",
+      "seccion": "/I. Situación actual/B. ¿Cómo fluyó el financiamiento climático en América Latina y el Caribe entre 2013 y 2016?/1. Fondos climáticos",
+      "paginas_seccion": "27-37",
+      "dimension": "tendencias",
+      "cita": "La mitigación sigue siendo el foco principal. En 2016 concentró el 95% de los recursos (véase el cuadro 10). Esto debido a la influencia del Fondo Verde del Clima, cuyos proyectos han tendido a privilegiar iniciativas de mitigación.",
+      "pagina_cita": 32,
+      "motivo": "La cita contiene lenguaje normativo o de instrumento, sin describir necesariamente una evolución temporal.",
+      "marcador_detectado": "Fondo",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44551",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44551.json",
+      "seccion": "/Capítulo V La necesaria transformación hacia sociedades sostenibles y resilientes/C. La transición energética/2. Producción y consumo sostenibles",
+      "paginas_seccion": "183-185",
+      "dimension": "oportunidades",
+      "cita": "Hacia 2030, en términos netos, se crearían más de un millón de empleos en la región en un escenario de transición energética y limitación del calentamiento global a 2 °C (CEPAL/OIT, 2018).",
+      "pagina_cita": 185,
+      "motivo": "La cita contiene lenguaje de carencia, limitación u obstáculo, potencialmente incompatible con una oportunidad.",
+      "marcador_detectado": "limitación",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44551",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44551.json",
+      "seccion": "/Capítulo VI Medios de implementación y orientaciones de política pública para la Agenda 2030 para el Desarrollo Sostenible/I. Observaciones finales",
+      "paginas_seccion": "231",
+      "dimension": "oportunidades",
+      "cita": "Esta estrategia de desarrollo sostenible abre un espacio de inversión, de innovación y de difusión de las nuevas tecnologías que permitiría reducir la brecha de ingresos y capacidades entre centro y periferia, con beneficios políticos y económicos para los dos grupos de países.",
+      "pagina_cita": 231,
+      "motivo": "La cita contiene lenguaje de carencia, limitación u obstáculo, potencialmente incompatible con una oportunidad.",
+      "marcador_detectado": "brecha",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44584",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44584.json",
+      "seccion": "/IV. ¿Desafíos para la minería del siglo XXI?: viejos y nuevos riesgos/C. Cambios institucionales y regulatorios",
+      "paginas_seccion": "44-45",
+      "dimension": "diagnostico_estructural",
+      "cita": "Desde los Gobiernos, surgió lo que denominamos la llamada “race to the bottom” (carrera hacia el fondo), que consiste en hacer que nuestros países sigan siendo atractivos para la inversión extranjera por medio de una flexibilización de los estándares y de los procedimientos ambientales y sociales, que pongan límites a las capacidades para proteger el ambiente y los mecanismos de consultas a las comunidades y a los pueblos indígenas.",
+      "pagina_cita": 44,
+      "motivo": "La cita contiene lenguaje prescriptivo o de instrumento, sin causalidad estructural explícita.",
+      "marcador_detectado": "fondo",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44584",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44584.json",
+      "seccion": "/VIII. Nuevas tecnologías e innovaciones: elementos de una minería inteligente con respecto al clima II/B. Cobre verde",
+      "paginas_seccion": "66-68",
+      "dimension": "avances_implementacion",
+      "cita": "Dentro de las metas del PMS se enfatiza la reducción del 10% del consumo de agua fresca en los procesos de concentración por tonelada tratada y la captura, para el 2030, del 99% de las emisiones de dióxido de azufre y arsénico derivadas de las fundiciones. Además, se evidencia: i) la reducción de un 40% del uso de agua fresca antes del 2030, reemplazándola por recirculación o por agua marina; ii) la reducción de los GEI de un 30% respecto a 2015, y iii) un cambio de la matriz energética, en dónde se señala que para el año 2021, la matriz energética de CODELCO estaría compuesta por un 22% de energías renovables y se espera que para el año 2030, dicho porcentaje aumente aproximadamente a un 30%.",
+      "pagina_cita": 67,
+      "motivo": "La cita contiene lenguaje prescriptivo, futuro o condicional, incompatible potencialmente con una acción ya implementada.",
+      "marcador_detectado": "se espera",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45023",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45023.json",
+      "seccion": "/II. Seguros agropecuarios indizados/C. Condiciones de mercado/3. Vínculos con otros productos e instrumentos financieros",
+      "paginas_seccion": "96-98",
+      "dimension": "oportunidades",
+      "cita": "Ante la ausencia de garantías para los créditos agropecuarios, la existencia de seguro paramétrico abriría las puertas para que las instituciones microfinancieras aumenten sus flujos de crédito y se restablezca la confianza de la banca comercial para abrir la llave del financiamiento (Mahul y Stutley, 2010).",
+      "pagina_cita": 97,
+      "motivo": "La cita contiene lenguaje de carencia, limitación u obstáculo, potencialmente incompatible con una oportunidad.",
+      "marcador_detectado": "ausencia",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45690",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45690.json",
+      "seccion": "/LA TRANSVERSALIZACIÓN DEL ENFOQUE DE GÉNERO EN LAS POLÍTICAS DE CAMBIO CLIMÁTICO EN AMÉRICA LATINA Y EL CARIBE",
+      "paginas_seccion": "10-13",
+      "dimension": "avances_implementacion",
+      "cita": "Diferentes países de la región han desarrollado sus PAGccs como acciones novedosas de y para las mujeres que deben ser promovidas a un nivel nacional y local. Los programas y proyectos responsables con las cuestiones de género ofrecen importantes co-beneficios para el cambio climático y la igualdad de género; lo que puede servir como referencia para ser replicados en otros procesos de generación política pública.",
+      "pagina_cita": 11,
+      "motivo": "La cita contiene lenguaje prescriptivo, futuro o condicional, incompatible potencialmente con una acción ya implementada.",
+      "marcador_detectado": "deben",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45693",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45693.json",
+      "seccion": "/CARACTERIZACIÓN DE LOS HOGARES RURALES EN MÉXICO",
+      "paginas_seccion": "7",
+      "dimension": "diagnostico_estructural",
+      "cita": "Este es un supuesto importante para los objetivos del presente trabajo pues, en principio, si una caída en la oferta agrícola se viese acompañada de un aumento en precios, es posible que muchos productores agrícolas vean sus ingresos crecer, lo cual podría implicar una disminución en la pobreza de los hogares agrícolas (aunque quizá un aumento en la pobreza de hogares urbanos).",
+      "pagina_cita": 7,
+      "motivo": "La cita contiene lenguaje prescriptivo o de instrumento, sin causalidad estructural explícita.",
+      "marcador_detectado": "podría",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45697",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45697.json",
+      "seccion": "/INTRODUCCIÓN",
+      "paginas_seccion": "4-5",
+      "dimension": "propuestas_politica",
+      "cita": "Esta síntesis de política pública presenta la importancia de aplicar una política eficiente de fijación del precio del hidrocarburo, así como del establecimiento de un impuesto óptimo en América Latina y el Caribe, que contribuya, tanto a la reducción de los subsidios a la gasolina, como a la reducción de las externalidades negativas ambientales que son generadas por el sector transporte.",
+      "pagina_cita": 4,
+      "motivo": "La cita contiene lenguaje descriptivo o reportativo, sin una propuesta o instrumento explícito.",
+      "marcador_detectado": "presenta",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45699",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45699.json",
+      "seccion": "/INTRODUCCIÓN",
+      "paginas_seccion": "4-5",
+      "dimension": "propuestas_politica",
+      "cita": "eficientes, es necesario comprender la estructura del mercado. Así, con base en las condiciones de competencia de mercado se ha podido evaluar que en Chile existe una mayor competencia en la generación de energía, por lo que el uso de un sistema de subasta tipo clock simple contribuiría a evitar problemas como la maldición del ganador y contar con un mayor ingreso esperado por la venta de bonos. En el caso de México, se presenta una situación de monopolio en la generación de energía eléctrica, por lo que es más recomendable el uso de un sistema de subasta tipo clock. Éste ayudaría a evitar que los participantes reduzcan sus pujas con el fin de afectar el precio final de los bonos.",
+      "pagina_cita": 4,
+      "motivo": "La cita contiene lenguaje descriptivo o reportativo, sin una propuesta o instrumento explícito.",
+      "marcador_detectado": "existe",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45699",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45699.json",
+      "seccion": "/GENERALIDADES DEL MECANISMO DE LA SUBASTA/SUBASTA TIPO CLOCK SIMPLE",
+      "paginas_seccion": "6",
+      "dimension": "propuestas_politica",
+      "cita": "Por otra parte, cuando existe el problema de que los postores no tienen información adecuada sobre el valor del bien a subastar, entonces es una buena alternativa contar con un esquema de subasta de formato abierto que permita ajustar las expectativas de los postores sobre el valor de los bonos al observar las pujas de los demás.",
+      "pagina_cita": 6,
+      "motivo": "La cita contiene lenguaje descriptivo o reportativo, sin una propuesta o instrumento explícito.",
+      "marcador_detectado": "existe",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45703",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45703.json",
+      "seccion": "/CALIDAD DE LAS INSTITUCIONES",
+      "paginas_seccion": "8-9",
+      "dimension": "diagnostico_estructural",
+      "cita": "Por otra parte, el desarrollo de políticas dictadas desde el gobierno central, con las que se puedan clausurar plantas que son ineficientes y altamente contaminantes, podría generar tensión social a nivel local debido a que éstas representarían fuentes de trabajo y de impuestos importantes.",
+      "pagina_cita": 8,
+      "motivo": "La cita contiene lenguaje prescriptivo o de instrumento, sin causalidad estructural explícita.",
+      "marcador_detectado": "podría",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46433",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46433.json",
+      "seccion": "/III. Gobernanza e institucionalidad de la cadena de valor de café/A. Gobernanza de la cadena",
+      "paginas_seccion": "76-76",
+      "dimension": "diagnostico_estructural",
+      "cita": "Los acuerdos formales e informales entre actores a lo largo de la cadena de café adquieren características especiales en el caso de la República Dominicana, dado el poder y control que ejerce la empresa dominante (INDUBAN) y su incidencia directamente en el sistema de coordinación, regulación y control en la generación de valor agregado.",
+      "pagina_cita": 76,
+      "motivo": "La cita contiene lenguaje prescriptivo o de instrumento, sin causalidad estructural explícita.",
+      "marcador_detectado": "regulación",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47883",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47883.json",
+      "seccion": "/II. Selección de límites: el caso de Chile/A. Flujos Biogeoquímicos/1. Nitrógeno",
+      "paginas_seccion": "20-25",
+      "dimension": "oportunidades",
+      "cita": "Si consideramos que el excedente no es utilizado por las plantas, parte de la brecha ambiental puede ser fácilmente reducible y con ganancias para la agricultura.",
+      "pagina_cita": 24,
+      "motivo": "La cita contiene lenguaje de carencia, limitación u obstáculo, potencialmente incompatible con una oportunidad.",
+      "marcador_detectado": "brecha",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47883",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47883.json",
+      "seccion": "/V. Brechas de conocimiento y recomendaciones de política pública/B. Recomendaciones de política pública",
+      "paginas_seccion": "80-83",
+      "dimension": "brechas_implementacion",
+      "cita": "Sin embargo, los mecanismos de financiamiento para que los pequeños propietarios realmente manejen restauren y conserven sus bosques nativos son complicados, y los montos no cubren los costos reales y los costos de oportunidad asociados a las actividades de conservación, lo que explica su falta de éxito (Cruz et al., 2012).",
+      "pagina_cita": 81,
+      "motivo": "La cita contiene lenguaje de logro o implementación, potencialmente incompatible con una brecha.",
+      "marcador_detectado": "éxito",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48166",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48166.json",
+      "seccion": "/I. La ciudad de Santo Domingo de Guzmán/A. Contexto geográfico",
+      "paginas_seccion": {
+        "inicio": 15,
+        "fin": 17
+      },
+      "dimension": "diagnostico_estructural",
+      "cita": "Al mismo tiempo, el Distrito Nacional es una de las demarcaciones con más alta vulnerabilidad climática de la República Dominicana, como resultado de debilidades en la planificación y regulación del crecimiento urbano que ha provocado que grandes concentraciones de población se ubiquen en las zonas con mayor riesgo de ser impactadas por los efectos del cambio climático.",
+      "pagina_cita": 15,
+      "motivo": "La cita contiene lenguaje prescriptivo o de instrumento, sin causalidad estructural explícita.",
+      "marcador_detectado": "regulación",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48543",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48543.json",
+      "seccion": "/V. Las oportunidades para apoyar y ampliar la integración/H. El diálogo y participación de gobiernos subnacionales y actores locales",
+      "paginas_seccion": "66-67",
+      "dimension": "propuestas_politica",
+      "cita": "Todos los actores entrevistados afirmaron que existe una necesidad urgente de incluir o incrementar la participación de los gobiernos locales y subnacionales",
+      "pagina_cita": 66,
+      "motivo": "La cita contiene lenguaje descriptivo o reportativo, sin una propuesta o instrumento explícito.",
+      "marcador_detectado": "existe",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/67979",
+      "ruta_json": "fase2/corpus/resultados/json/doc_67979.json",
+      "seccion": "/III. Modelo econométrico",
+      "paginas_seccion": "21-23",
+      "dimension": "diagnostico_estructural",
+      "cita": "Esto podría ocurrir, por ejemplo, si las pérdidas contemporáneas alteran el ritmo de las estrategias de inversión o de acumulación de capital humano, alterando así la productividad futura",
+      "pagina_cita": 22,
+      "motivo": "La cita contiene lenguaje prescriptivo o de instrumento, sin causalidad estructural explícita.",
+      "marcador_detectado": "podría",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68704",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68704.json",
+      "seccion": "/V. Marco normativo e instrumentos para el análisis de riesgos climáticos en países miembros de la REDLASEIA/A. Argentina",
+      "paginas_seccion": "33-34",
+      "dimension": "brechas_implementacion",
+      "cita": "En Argentina, la Ley General del Ambiente N°25.675 establece los presupuestos mínimos para el logro de una gestión sustentable y adecuada del ambiente, la preservación y protección de la diversidad biológica y la implementación del desarrollo sustentable, pero no incorpora la variable cambio climático en los procesos de evaluación ambiental.",
+      "pagina_cita": 33,
+      "motivo": "La cita contiene lenguaje de logro o implementación, potencialmente incompatible con una brecha.",
+      "marcador_detectado": "logro",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68704",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68704.json",
+      "seccion": "/V. Marco normativo e instrumentos para el análisis de riesgos climáticos en países miembros de la REDLASEIA/C. Chile",
+      "paginas_seccion": "35-36",
+      "dimension": "avances_implementacion",
+      "cita": "En este contexto, cabe mencionar que en enero de 2023 el SEA publicó la “Guía Metodológica para la Consideración del Cambio Climático en el SEIA”44 y se espera contar con el desarrollo de criterios de evaluación del recurso hídrico en consideración del cambio climático en el corto plazo.",
+      "pagina_cita": 36,
+      "motivo": "La cita contiene lenguaje prescriptivo, futuro o condicional, incompatible potencialmente con una acción ya implementada.",
+      "marcador_detectado": "se espera",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68756",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68756.json",
+      "seccion": "/Introducción",
+      "paginas_seccion": "15",
+      "dimension": "propuestas_politica",
+      "cita": "Esta publicación presenta una propuesta de canales de impacto que trazan la causalidad del riesgo de desastres-cambio climático en la infraestructura vial con una adecuada consideración de su entorno socioambiental",
+      "pagina_cita": 15,
+      "motivo": "La cita contiene lenguaje descriptivo o reportativo, sin una propuesta o instrumento explícito.",
+      "marcador_detectado": "presenta",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68756",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68756.json",
+      "seccion": "/V. Impactos del cambio climático en la infraestructura vial/G. Alta presencia de agua, inundaciones y avenidas torrenciales/3. Puentes",
+      "paginas_seccion": "46",
+      "dimension": "diagnostico_estructural",
+      "cita": "El aumento de los caudales pico podría afectar las tasas de socavación e influir en los requisitos de diseño para los puentes y alcantarillas",
+      "pagina_cita": 46,
+      "motivo": "La cita contiene lenguaje prescriptivo o de instrumento, sin causalidad estructural explícita.",
+      "marcador_detectado": "podría",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/69216",
+      "ruta_json": "fase2/corpus/resultados/json/doc_69216.json",
+      "seccion": "/Capítulo III El gasto público vinculado con el cambio climático en América Latina/A. Revisión de los principales enfoques internacionales para definir los marcadores o el etiquetado del gasto público asociado al cambio climático/8. Propuestas de la Comisión Económica para América Latina y el Caribe (CEPAL) para la medición del gasto en protección ambiental",
+      "paginas_seccion": "106-107",
+      "dimension": "propuestas_politica",
+      "cita": "También presenta una propuesta metodológica para el cálculo del gasto en protección ambiental del gobierno general, que considera tres etapas: preparación, análisis de información y estimación del gasto en protección ambiental.",
+      "pagina_cita": 107,
+      "motivo": "La cita contiene lenguaje descriptivo o reportativo, sin una propuesta o instrumento explícito.",
+      "marcador_detectado": "presenta",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/80561",
+      "ruta_json": "fase2/corpus/resultados/json/doc_80561.json",
+      "seccion": "/IV. Sesión III: Metodologías de priorización de inversiones/A. Criterios ambientales y climáticos en metodologías para la priorización de inversiones en adaptación",
+      "paginas_seccion": "37-41",
+      "dimension": "propuestas_politica",
+      "cita": "A continuación se presenta una propuesta para incorporar criterios ambientales y climáticos en los procesos de priorización de inversiones asociadas a la adaptación al cambio climático.",
+      "pagina_cita": 38,
+      "motivo": "La cita contiene lenguaje descriptivo o reportativo, sin una propuesta o instrumento explícito.",
+      "marcador_detectado": "presenta",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/81149",
+      "ruta_json": "fase2/corpus/resultados/json/doc_81149.json",
+      "seccion": "/I. R evisión de los principales enfoques internacionales para definir los marcadores o etiquetado del gasto público asociado al cambio climático/H. Propuestas de la",
+      "paginas_seccion": "16-18",
+      "dimension": "propuestas_politica",
+      "cita": "También presenta una propuesta metodológica para el cálculo del gasto en protección ambiental del gobierno general que considera tres etapas: preparación, análisis de información y estimación del gasto en protección ambiental, al tiempo que ofrece recomendaciones y lineamientos básicos para que cada país pueda adaptar esa propuesta a su realidad y necesidades específicas.",
+      "pagina_cita": 18,
+      "motivo": "La cita contiene lenguaje descriptivo o reportativo, sin una propuesta o instrumento explícito.",
+      "marcador_detectado": "presenta",
+      "decision": "pendiente"
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/82026",
+      "ruta_json": "fase2/corpus/resultados/json/doc_82026.json",
+      "seccion": "/III. Recommendations to improve the alignment of national green economic development plans with climate goals",
+      "paginas_seccion": "19-20",
+      "dimension": "propuestas_politica",
+      "cita": "Presenting an associated investment plan with designated climate-focused programs of transformative change in explicit and direct connection with NDCs, which shall the describe WHAT investments are to be mobilized to meet the transformation in question, by identifying priority programs and needed projects that shall include not only mitigation- and adaptation-related investments but also investments in just transition and information on how fairness considerations shall be met, considering distributive impacts, vulnerability assessment and equity concerns associated with structural transitions.",
+      "pagina_cita": 20,
+      "motivo": "La cita contiene lenguaje descriptivo o reportativo, sin una propuesta o instrumento explícito.",
+      "marcador_detectado": "describe",
+      "decision": "pendiente"
+    }
+  ]
+}

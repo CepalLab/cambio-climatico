@@ -48,9 +48,21 @@
       "paginas": "9-14",
       "resumen": "Define los residuos sólidos urbanos y las aguas residuales como fuentes de CH4 y N2O y sitúa el problema en la urbanización argentina. En 2001, el 94% de la población vivía en 273 ciudades de más de 20.000 habitantes; en 2008, 258 ciudades depositaban RSU a cielo abierto y generaban aproximadamente 5.770.580 Mg. El apartado vincula la generación de residuos con el nivel socioeconómico y el PBI, y describe la respuesta institucional de ENGIRSU y PNGIRSU, con infraestructura, fortalecimiento institucional e inclusión de recuperadores. La implicación climática es que la disposición desigual y poco controlada de residuos concentra riesgos ambientales y demanda gestión integral multinivel.",
       "dimensiones": [
-        {"dimension": "estado_de_situacion", "cita": "Las 258 ciudades restantes de más de 20.000 habitantes depositaban sus residuos sólidos urbanos en vertederos a cielo abierto, lo que representa un verdadero problema ambiental y de salud pública", "pagina": 12},
-        {"dimension": "diagnostico_estructural", "cita": "Existe una estrecha relación entre la generación de basura y el nivel socioeconómico de la población", "pagina": 12},
-        {"dimension": "propuestas_politica", "cita": "En este proyecto se prevé la financiación de los costos de infraestructura para la disposición final y sus sistemas asociados, a través de la construcción de rellenos sanitarios, plantas de tratamiento, estaciones de transferencia y el cierre de basurales a cielo abierto", "pagina": 14}
+        {
+          "dimension": "estado_de_situacion",
+          "cita": "Las 258 ciudades restantes de más de 20.000 habitantes depositaban sus residuos sólidos urbanos en vertederos a cielo abierto, lo que representa un verdadero problema ambiental y de salud pública",
+          "pagina": 12
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Existe una estrecha relación entre la generación de basura y el nivel socioeconómico de la población",
+          "pagina": 12
+        },
+        {
+          "dimension": "propuestas_politica",
+          "cita": "En este proyecto se prevé la financiación de los costos de infraestructura para la disposición final y sus sistemas asociados, a través de la construcción de rellenos sanitarios, plantas de tratamiento, estaciones de transferencia y el cierre de basurales a cielo abierto",
+          "pagina": 14
+        }
       ],
       "subsecciones": []
     },
@@ -60,9 +72,21 @@
       "paginas": "15-20",
       "resumen": "Explica cómo se estiman emisiones y proyecciones diferenciando la disponibilidad de datos. Para rellenos controlados aplica el método de descomposición de primer orden y para ciudades sin datos de actividad usa el método por defecto del IPCC; para aguas residuales también emplea parámetros por defecto. Las proyecciones 2009-2030 relacionan RSU per cápita con PBI per cápita en rellenos controlados y población con RSU en depósitos a cielo abierto, con ecuaciones y límites explícitos. El diseño metodológico hace comparable un inventario nacional heterogéneo, pero deja identificada la dependencia de supuestos poblacionales, económicos y de factores de emisión.",
       "dimensiones": [
-        {"dimension": "contexto_antecedentes", "cita": "Debido a esta complejidad, y en base al árbol de decisión aplicable a las emisiones de CH4 procedentes de los vertederos de residuos sólidos (Manual de Buenas Prácticas y Manejo de Incertidumbres en los Inventarios Nacionales de Gases de Efecto Invernadero del IPCC) (IPCC, 2000), se aplicaron metodologías diferentes según la información disponible", "pagina": 16},
-        {"dimension": "diagnostico_estructural", "cita": "Las emisiones de CH4 en la Argentina son una categoría principal de fuente según los inventarios anteriores (1991-1994, 1997 y 2000)", "pagina": 16},
-        {"dimension": "tendencias", "cita": "La ecuación resultante fue: y = 0,0000947x – 0,1509 (r2 = 0,750, F = 16,8, p < 0,001)", "pagina": 19}
+        {
+          "dimension": "contexto_antecedentes",
+          "cita": "Debido a esta complejidad, y en base al árbol de decisión aplicable a las emisiones de CH4 procedentes de los vertederos de residuos sólidos (Manual de Buenas Prácticas y Manejo de Incertidumbres en los Inventarios Nacionales de Gases de Efecto Invernadero del IPCC) (IPCC, 2000), se aplicaron metodologías diferentes según la información disponible",
+          "pagina": 16
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Las emisiones de CH4 en la Argentina son una categoría principal de fuente según los inventarios anteriores (1991-1994, 1997 y 2000)",
+          "pagina": 16
+        },
+        {
+          "dimension": "tendencias",
+          "cita": "La ecuación resultante fue: y = 0,0000947x – 0,1509 (r2 = 0,750, F = 16,8, p < 0,001)",
+          "pagina": 19
+        }
       ],
       "subsecciones": []
     },
@@ -79,8 +103,16 @@
           "paginas": "21-22",
           "resumen": "Revisa el inventario y establece la magnitud y la forma del aumento histórico. Las emisiones totales del sector residuos crecieron 266% entre 1990 y 2008, el subsector RSU creció 365% y la serie presenta un incremento exponencial con tasa anual 0,056. El texto atribuye la trayectoria al aumento de residuos per cápita, población y ciudades incorporadas a rellenos controlados, por lo que identifica una presión estructural sobre la gestión de residuos y las emisiones de CH4.",
           "dimensiones": [
-            {"dimension": "estado_de_situacion", "cita": "Las emisiones totales generadas por el sector residuos se incrementaron un 266% entre los años 1990 y 2008, correspondiendo el mayor incremento al período comprendido entre los años 2000 y 2006", "pagina": 22},
-            {"dimension": "tendencias", "cita": "El crecimiento de las emisiones, en el período registrado (1990-2008), muestra un incremento exponencial de las mismas", "pagina": 22}
+            {
+              "dimension": "estado_de_situacion",
+              "cita": "Las emisiones totales generadas por el sector residuos se incrementaron un 266% entre los años 1990 y 2008, correspondiendo el mayor incremento al período comprendido entre los años 2000 y 2006",
+              "pagina": 22
+            },
+            {
+              "dimension": "tendencias",
+              "cita": "El crecimiento de las emisiones, en el período registrado (1990-2008), muestra un incremento exponencial de las mismas",
+              "pagina": 22
+            }
           ],
           "subsecciones": []
         },
@@ -97,9 +129,22 @@
               "paginas": "23-25",
               "resumen": "Calcula la generación y emisión futura de RSU separando rellenos sanitarios y depósitos a cielo abierto. El cálculo proyecta un aumento de 36,28% de los residuos entre 2009 y 2030 y de las emisiones de CH4 desde 727,4 hasta 1.300,6 Gg. La cobertura de rellenos subiría de 68,5% a 76,4% de los RSU, en parte por la concentración urbana y por leyes y programas nacionales y provinciales que promueven rellenos, recuperación de gases y prohibición de basurales a cielo abierto.",
               "dimensiones": [
-                {"dimension": "tendencias", "cita": "La generación total de residuos sólidos urbanos con este cálculo conservador (cuadro 9), pasaría de 15.476 Gg en el año 2009 a 21.091 Gg en el año 2030, lo que representa un incremento del 36,28%", "pagina": 24},
-                {"dimension": "avances_implementacion", "cita": "el Estado Nacional ha sancionado en el año 2004 la ley Nª 25.916 de Gestión de Residuos Domiciliarios y la Secretaría de Ambiente y Desarrollo Sustentable (SAyDS) ha implementado un Proyecto Nacional para la Gestión Integral de los Residuos Sólidos Urbanos (PNGIRSU)", "pagina": 24},
-                {"dimension": "brechas_implementacion", "subtipo_brecha": "retrospectiva", "cita": "se prohíben los depósitos a cielo abierto promoviendo la implementación de rellenos sanitarios para las fracciones orgánicas remanentes", "pagina": 24}
+                {
+                  "dimension": "tendencias",
+                  "cita": "La generación total de residuos sólidos urbanos con este cálculo conservador (cuadro 9), pasaría de 15.476 Gg en el año 2009 a 21.091 Gg en el año 2030, lo que representa un incremento del 36,28%",
+                  "pagina": 24
+                },
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "el Estado Nacional ha sancionado en el año 2004 la ley Nª 25.916 de Gestión de Residuos Domiciliarios y la Secretaría de Ambiente y Desarrollo Sustentable (SAyDS) ha implementado un Proyecto Nacional para la Gestión Integral de los Residuos Sólidos Urbanos (PNGIRSU)",
+                  "pagina": 24
+                },
+                {
+                  "dimension": "brechas_implementacion",
+                  "subtipo_brecha": "retrospectiva",
+                  "cita": "se prohíben los depósitos a cielo abierto promoviendo la implementación de rellenos sanitarios para las fracciones orgánicas remanentes",
+                  "pagina": 24
+                }
               ],
               "subsecciones": []
             },
@@ -109,8 +154,16 @@
               "paginas": "26-27",
               "resumen": "Proyecta el CH4 y N2O de aguas residuales domésticas e industriales y explica que el aumento se asocia principalmente al crecimiento poblacional. El CH4 sube de 339,9 Gg en 2009 a 446,2 Gg en 2030, con una composición que pasa de 65,1% doméstica y 34,9% industrial a 60,9% y 39,1%. El caso del Gran Buenos Aires muestra que plantas de tratamiento para 4.000.000 de habitantes podrían reducir significativamente el CH4, conectando la proyección con infraestructura sanitaria concreta.",
               "dimensiones": [
-                {"dimension": "tendencias", "cita": "Las emisiones de CH4 generadas por este subsector pasarían de 339,9 Gg en el año 2009 a 446,2 en el año 2030, lo que representaría un incremento del 23,8% en los próximos 21 años", "pagina": 27},
-                {"dimension": "propuestas_politica", "cita": "existe un plan de obras de saneamiento que incluye la construcción de plantas de tratamiento de los residuos cloacales en las cuales se reduce en forma significativa la emisión de CH4", "pagina": 27}
+                {
+                  "dimension": "tendencias",
+                  "cita": "Las emisiones de CH4 generadas por este subsector pasarían de 339,9 Gg en el año 2009 a 446,2 en el año 2030, lo que representaría un incremento del 23,8% en los próximos 21 años",
+                  "pagina": 27
+                },
+                {
+                  "dimension": "avances_implementacion",
+                  "cita": "existe un plan de obras de saneamiento que incluye la construcción de plantas de tratamiento de los residuos cloacales en las cuales se reduce en forma significativa la emisión de CH4",
+                  "pagina": 27
+                }
               ],
               "subsecciones": []
             }
@@ -129,9 +182,21 @@
               "paginas": "28-31",
               "resumen": "Compara tecnologías de mitigación y cuantifica la recuperación de metano en rellenos sanitarios. El texto identifica reciclaje, compostaje, incineración y recuperación de CH4; estima que entre 50% y 75% del metano puede recuperarse y proyecta una recuperación acumulada de 8.351,9 a 12.527,8 Gg entre 2009 y 2030. También muestra que el reciclaje por sí solo no basta para cumplir las metas de Basura Cero, porque los residuos alimenticios y de poda requieren compostaje y sistemas complementarios.",
               "dimensiones": [
-                {"dimension": "oportunidades", "cita": "El compostaje, un proceso aeróbico para tratar los residuos orgánicos húmedos que genera poca o ninguna cantidad de CH4, es más aplicable en los países no-Anexo I del citado Protocolo", "pagina": 29},
-                {"dimension": "propuestas_politica", "cita": "La reducción de tierras disponibles para el establecimiento de rellenos sanitarios y la potencial utilización de la energía producida está incrementando la incineración de residuos en muchos países", "pagina": 29},
-                {"dimension": "tendencias", "cita": "La opción tecnológica de mitigación, a través de la recuperación del metano generado en los rellenos sanitarios y en los depósitos de basura, es aplicable tanto a los depósitos existentes cómo a los futuros", "pagina": 29}
+                {
+                  "dimension": "oportunidades",
+                  "cita": "El compostaje, un proceso aeróbico para tratar los residuos orgánicos húmedos que genera poca o ninguna cantidad de CH4, es más aplicable en los países no-Anexo I del citado Protocolo",
+                  "pagina": 29
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "La reducción de tierras disponibles para el establecimiento de rellenos sanitarios y la potencial utilización de la energía producida está incrementando la incineración de residuos en muchos países",
+                  "pagina": 29
+                },
+                {
+                  "dimension": "tendencias",
+                  "cita": "La opción tecnológica de mitigación, a través de la recuperación del metano generado en los rellenos sanitarios y en los depósitos de basura, es aplicable tanto a los depósitos existentes cómo a los futuros",
+                  "pagina": 29
+                }
               ],
               "subsecciones": []
             },
@@ -141,9 +206,22 @@
               "paginas": "32-40",
               "resumen": "Evalúa la costo-efectividad de proyectos de recolección de gas, quema y generación eléctrica mediante costos de capital, operación, mantenimiento, precio del metano y electricidad. La CABA solo podría cumplir la meta de 2010 retirando reciclables y las metas de 2012 y 2017 son difíciles; por eso el texto propone trabajar con compostaje, regulación del packaging y educación. El análisis de 14 rellenos concluye que ningún proyecto de generación eléctrica es rentable, mientras la quema directa pierde rentabilidad bajo 200 Mg de CH4 en 2010, de modo que el volumen y la estructura de costos condicionan la implementación.",
               "dimensiones": [
-                {"dimension": "brechas_implementacion", "subtipo_brecha": "retrospectiva", "cita": "Las metas establecidas para los años 2012 y 2017 son de difícil cumplimiento, retirando de los residuos recolectados solamente los materiales que pueden ser reciclados", "pagina": 32},
-                {"dimension": "propuestas_politica", "cita": "Entre éstas se debería trabajar sobre la fracción más importante en volumen de los residuos, los desechos alimenticios y los residuos de poda y jardín, por ejemplo mediante el “compostado”", "pagina": 32},
-                {"dimension": "estado_de_situacion", "cita": "Ninguno de los proyectos de generación eléctrica es rentable y los de quema directa comienzan a perder rentabilidad cuando las emisiones del año 2010 son menores a 200 Mg de CH4", "pagina": 35}
+                {
+                  "dimension": "brechas_implementacion",
+                  "subtipo_brecha": "retrospectiva",
+                  "cita": "Las metas establecidas para los años 2012 y 2017 son de difícil cumplimiento, retirando de los residuos recolectados solamente los materiales que pueden ser reciclados",
+                  "pagina": 32
+                },
+                {
+                  "dimension": "propuestas_politica",
+                  "cita": "Entre éstas se debería trabajar sobre la fracción más importante en volumen de los residuos, los desechos alimenticios y los residuos de poda y jardín, por ejemplo mediante el “compostado”",
+                  "pagina": 32
+                },
+                {
+                  "dimension": "estado_de_situacion",
+                  "cita": "Ninguno de los proyectos de generación eléctrica es rentable y los de quema directa comienzan a perder rentabilidad cuando las emisiones del año 2010 son menores a 200 Mg de CH4",
+                  "pagina": 35
+                }
               ],
               "subsecciones": []
             }
@@ -157,9 +235,21 @@
       "paginas": "41-48",
       "resumen": "Extiende los escenarios hasta 2100 incorporando supuestos sobre población, generación per cápita de residuos, cierre y reemplazo de rellenos, conexión a redes cloacales y producción industrial. Las emisiones de CH4 de RSU alcanzarían 3.917,45 Gg en 2100, 165,5% más que en 2031, y las de aguas residuales llegarían a 1.020,0 Gg; aumenta también la cobertura de red pública de 43% en 2001 a 85% en 2050. La sección muestra que aun con mejoras tecnológicas y sanitarias las emisiones siguen creciendo en el escenario, por lo que la mitigación requiere cambiar los supuestos de generación y tratamiento.",
       "dimensiones": [
-        {"dimension": "tendencias", "cita": "Según está proyección, las emisiones en el país aumentarán exponencialmente con una tasa de 0,017 anual hasta alcanzar en el año 2100 un total de 3.917,45 Gg", "pagina": 44},
-        {"dimension": "desafios", "cita": "Sabiendo que en el año 2001 el 43% de la población estaba conectada a una red cloacal pública, en la proyección se consideró que en el 2010 ese porcentaje pasará al 50% y llegará al 85% en el año 2050", "pagina": 45},
-        {"dimension": "diagnostico_estructural", "cita": "Es importante destacar que los valores proyectados asumen que los incrementos se producirán, principalmente por el crecimiento poblacional debido al método de proyección utilizado que se ha explicado anteriormente", "pagina": 45}
+        {
+          "dimension": "tendencias",
+          "cita": "Según está proyección, las emisiones en el país aumentarán exponencialmente con una tasa de 0,017 anual hasta alcanzar en el año 2100 un total de 3.917,45 Gg",
+          "pagina": 44
+        },
+        {
+          "dimension": "desafios",
+          "cita": "Sabiendo que en el año 2001 el 43% de la población estaba conectada a una red cloacal pública, en la proyección se consideró que en el 2010 ese porcentaje pasará al 50% y llegará al 85% en el año 2050",
+          "pagina": 45
+        },
+        {
+          "dimension": "diagnostico_estructural",
+          "cita": "Es importante destacar que los valores proyectados asumen que los incrementos se producirán, principalmente por el crecimiento poblacional debido al método de proyección utilizado que se ha explicado anteriormente",
+          "pagina": 45
+        }
       ],
       "subsecciones": []
     }
@@ -168,33 +258,65 @@
     "gran_impulso_ambiental_concreto": {
       "veredicto": "No",
       "evidencia": "Es un estudio de inventario, proyección y evaluación de proyectos sectoriales; no propone un paquete coordinado de inversiones a escala del modelo de desarrollo ni conecta sectores estratégicos con empleo y cambio estructural. Sus opciones son tecnológicas y acotadas a residuos, como reciclaje, compostaje, incineración y recuperación de metano.",
-      "citas": [{"cita": "Las opciones tecnológicas de mitigación que dispone un país para reducir las emisiones de CH4 de los rellenos sanitarios están relacionadas con la reducción de las fuentes y con la recuperación y/o reducción del CH4 desde los residuos", "pagina": 29}],
+      "citas": [
+        {
+          "cita": "Las opciones tecnológicas de mitigación que dispone un país para reducir las emisiones de CH4 de los rellenos sanitarios están relacionadas con la reducción de las fuentes y con la recuperación y/o reducción del CH4 desde los residuos",
+          "pagina": 29
+        }
+      ],
       "nota": "El No responde a la naturaleza diagnóstica y sectorial del documento, no a una omisión de una agenda de inversión propia."
     },
     "articulacion_actores": {
       "veredicto": "Parcial",
       "evidencia": "El documento reconoce que la magnitud del problema exige varios niveles de gobierno y describe ENGIRSU y PNGIRSU, con asistencia técnica y económica a provincias y municipios. Sin embargo, esos mecanismos aparecen principalmente como políticas y proyectos ya diseñados por terceros; el estudio no desarrolla una arquitectura propia de coordinación multiactor para ejecutar su agenda.",
-      "citas": [{"cita": "Si bien los municipios son los responsables directos del manejo de los residuos, la magnitud de la problemática requiere de la participación de los distintos niveles de gobierno", "pagina": 14}, {"cita": "El proyecto brinda asistencia técnica y económica a modo de incentivo para que las provincias y sus municipios puedan elaborar sus propios planes y sistemas de gestión integral", "pagina": 14}],
+      "citas": [
+        {
+          "cita": "Si bien los municipios son los responsables directos del manejo de los residuos, la magnitud de la problemática requiere de la participación de los distintos niveles de gobierno",
+          "pagina": 14
+        },
+        {
+          "cita": "El proyecto brinda asistencia técnica y económica a modo de incentivo para que las provincias y sus municipios puedan elaborar sus propios planes y sistemas de gestión integral",
+          "pagina": 14
+        }
+      ],
       "nota": "Se aplica el umbral restrictivo: hay programas y niveles de gobierno identificables, pero no un mecanismo de gobernanza propuesto por el documento."
     },
     "oportunidades_productivas_sostenibles": {
       "veredicto": "No",
       "evidencia": "El texto enumera tecnologías y actividades de manejo de residuos, pero no desarrolla un vínculo explícito con empleo, productividad o reducción de desigualdad. El compostaje aparece por su potencial de reducción de CH4 y uso como fertilizante, no como estrategia productiva-laboral.",
-      "citas": [{"cita": "Un beneficio secundario de este proceso es que los productos pueden utilizarse como fertilizantes", "pagina": 29}],
+      "citas": [
+        {
+          "cita": "Un beneficio secundario de este proceso es que los productos pueden utilizarse como fertilizantes",
+          "pagina": 29
+        }
+      ],
       "nota": "Chequeo negativo explícito: no se identifica una enumeración de oportunidades productivas sostenibles con desarrollo de empleo, productividad o desigualdad."
     },
     "como_hacerlo_concreto": {
       "veredicto": "No",
       "evidencia": "El documento formula medidas concretas dentro del análisis —compostaje, regulación del packaging, campañas de educación y recuperación de metano—, pero no contiene una sección de recomendaciones propia en el cierre; termina con proyecciones y bibliografía. Por la regla de unidad de cierre, esas medidas no constituyen una lista normativa final del documento.",
-      "citas": [{"cita": "Todas estas medidas deberían ser acompañadas de una amplia e intensa campaña de educación desde las escuelas y la información pública para la toma de conciencia de la población sobre este problema", "pagina": 32}],
+      "citas": [
+        {
+          "cita": "Todas estas medidas deberían ser acompañadas de una amplia e intensa campaña de educación desde las escuelas y la información pública para la toma de conciencia de la población sobre este problema",
+          "pagina": 32
+        }
+      ],
       "desglose_items": [],
       "tally": "0 de 0 ítems",
       "nota": "El No deriva de la ausencia de un cierre formal de recomendaciones, aunque el cuerpo contenga medidas específicas."
     }
   },
   "tipologia": {
-    "transformacion_primaria": {"numero": 6, "nombre": "Sostenibilidad ambiental", "certeza": "Alta"},
-    "transformacion_secundaria": {"numero": 11, "nombre": "Capacidades del Estado", "certeza": "Alta"},
+    "transformacion_primaria": {
+      "numero": 6,
+      "nombre": "Sostenibilidad ambiental",
+      "certeza": "Alta"
+    },
+    "transformacion_secundaria": {
+      "numero": 11,
+      "nombre": "Capacidades del Estado",
+      "certeza": "Alta"
+    },
     "razonamiento_5_pasos": {
       "tension_dialectica": "El documento procesa la tensión entre el crecimiento urbano y económico que aumenta la generación de residuos y la necesidad de reducir emisiones de CH4 y N2O. La salida que examina es ambiental y tecnológica —gestión integral, recuperación de gas, compostaje y tratamiento—, pero queda limitada por la capacidad institucional y la rentabilidad de los proyectos.",
       "filtro_categoria_primaria": "El objeto principal es transformar la trayectoria ambiental del sector residuos: inventaría GEI, proyecta emisiones y compara mitigación. Aunque usa costos, PBI y rentabilidad, esos son instrumentos de evaluación; no son el objeto macroeconómico o fiscal del estudio, por lo que se descarta #10 y se mantiene #6.",

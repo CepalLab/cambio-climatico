@@ -77,7 +77,7 @@
           "pagina": 5
         },
         {
-          "dimension": "propuestas_politica",
+          "dimension": "estado_de_situacion",
           "cita": "Sin embargo, existe evidencia de que la asignación gratuita de estos bonos solamente aumenta las utilidades de las industrias involucradas.",
           "pagina": 5
         }
@@ -109,7 +109,7 @@
           "resumen": "Explica la mecánica de la subasta tipo clock con fijación dinámica de precios por ronda y pagos calculados al precio prevaleciente cuando las unidades son asignadas. Destaca que este mecanismo incentiva a los postores con alto poder de mercado a revelar sus demandas de manera sincera al obtener sus primeras unidades a precios más bajos, evitando la manipulación del precio final.",
           "dimensiones": [
             {
-              "dimension": "propuestas_politica",
+              "dimension": "contexto_antecedentes",
               "cita": "En el caso en el que existe un exceso de demanda, el subastador sube el precio y pregunta nuevamente la magnitud de la cantidad demandada por cada postor al nuevo precio.",
               "pagina": 6
             },
