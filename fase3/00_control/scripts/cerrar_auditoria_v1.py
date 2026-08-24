@@ -5,10 +5,10 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
-BASE = Path(__file__).resolve().parent
-VALIDACION = BASE / "validacion_esquema_activo_v1.json"
-REVISION_PAGINACION = BASE / "revision_paginacion_v1.csv"
-SALIDA = BASE / "cierre_auditoria_v1.json"
+BASE = Path(__file__).resolve().parents[1]
+VALIDACION = BASE / "auditorias" / "validacion_esquema_activo_v1.json"
+REVISION_PAGINACION = BASE / "revisiones" / "revision_paginacion_v1.csv"
+SALIDA = BASE / "auditorias" / "cierre_auditoria_v1.json"
 
 
 def main() -> None:

@@ -23,7 +23,7 @@ python3 fase2/pipeline/ledger.py status --json
 
 1. Consultar el ledger; no usar manifiestos históricos como cola viva.
 2. Fase 2 está cerrada: no hay enriquecimientos pendientes ni lotes activos.
-3. El inventario unificado de Fase 3 está en `../fase3/inventario_corpus_v1.json` y registra los 17 pilotos y
+3. El inventario unificado de Fase 3 está en `../fase3/00_control/inventario/inventario_corpus_v1.json` y registra los 17 pilotos y
    227 resultados de producción.
 4. Para cualquier ampliación futura, consultar primero el ledger y reservar un nuevo lote desde la cola viva.
 5. Generar `indice_fuente.json` desde `tramos/` antes de construir cada borrador.
@@ -33,6 +33,12 @@ python3 fase2/pipeline/ledger.py status --json
 8. Generar `validacion_final.json` con `certificar_promocion.py`. Tras revisión humana OK, copiar atómicamente
    el borrador a `corpus/resultados/json/` y su certificado gemelo `doc_<id>.validation.json` a
    `corpus/resultados/certificados/`, y sincronizar el ledger.
+
+## Estado de Fase 3
+
+La prefase 3 quedó cerrada el 2026-08-24. El corpus activo es de 238 documentos,
+con normalización v1, base SQLite y EDA descriptivo disponibles. El detalle del
+cierre y el próximo relevo está en `../fase3/CIERRE_PREFASE3_2026-08-24.md`.
 
 ## Criterio para documentos extensos
 

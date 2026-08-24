@@ -8,10 +8,11 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 
-REPO_DIR = Path(__file__).resolve().parent.parent
-DEFAULT_INVENTORY = Path(__file__).resolve().parent / "inventario_corpus_v1.json"
-DEFAULT_EXCLUSIONS = Path(__file__).resolve().parent / "exclusiones_corpus_v1.csv"
-DEFAULT_OUTPUT = Path(__file__).resolve().parent / "validacion_esquema_activo_v1.json"
+REPO_DIR = Path(__file__).resolve().parents[3]
+CONTROL_DIR = REPO_DIR / "fase3" / "00_control"
+DEFAULT_INVENTORY = CONTROL_DIR / "inventario" / "inventario_corpus_v1.json"
+DEFAULT_EXCLUSIONS = CONTROL_DIR / "inventario" / "exclusiones_corpus_v1.csv"
+DEFAULT_OUTPUT = CONTROL_DIR / "auditorias" / "validacion_esquema_activo_v1.json"
 VALIDATOR = REPO_DIR / "fase2" / "pipeline" / "validar_esquema.py"
 
 

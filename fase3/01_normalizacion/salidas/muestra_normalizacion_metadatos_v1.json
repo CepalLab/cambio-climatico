@@ -1,0 +1,3131 @@
+{
+  "version": "muestra-normalizacion-metadatos-v1",
+  "generado_en": "2026-08-24T21:39:17+00:00",
+  "fuentes": {
+    "inventario": "fase3/00_control/inventario/inventario_corpus_v1.json",
+    "exclusiones": "fase3/00_control/inventario/exclusiones_corpus_v1.csv",
+    "diccionario": "fase3/01_normalizacion/salidas/diccionario_normalizacion_v1.json"
+  },
+  "denominador": {
+    "historico": 244,
+    "activo": 238,
+    "muestra": 20
+  },
+  "documentos": [
+    {
+      "documento_id": "https://hdl.handle.net/11362/3955",
+      "handle": "https://hdl.handle.net/11362/3955",
+      "ruta_json": "fase2/pilot/doc01_efectos_costa.json",
+      "sha256_json": "61dc02fd86c18cb2feff08cfbe758e85b4fc3d863e5e38cafba2ac5846c97b85",
+      "titulo": "Efectos del cambio climático en la costa de América Latina y el Caribe: dinámicas, tendencias y variabilidad climática",
+      "fecha": "2015-09",
+      "autoria": {
+        "original": "Instituto de Hidráulica Ambiental de la Universidad de Cantabria (dirección: Iñigo Losada Rodríguez; coordinación: Fernando J. Méndez Incera; equipo de investigación encabezado por Borja González Reguero), en colaboración con la División de Desarrollo Sostenible y Asentamientos Humanos de la CEPAL (Carlos de Miguel, José Javier Gómez, Karina Martínez y Mauricio Pereira)",
+        "candidatos": [
+          "Instituto de Hidráulica Ambiental de la Universidad de Cantabria (dirección: Iñigo Losada Rodríguez",
+          "coordinación: Fernando J. Méndez Incera",
+          "equipo de investigación encabezado por Borja González Reguero)",
+          "en colaboración con la División de Desarrollo Sostenible",
+          "Asentamientos Humanos de la CEPAL (Carlos de Miguel",
+          "José Javier Gómez",
+          "Karina Martínez",
+          "Mauricio Pereira)"
+        ],
+        "requiere_revision": true,
+        "metodo": "delimitadores_conservadores"
+      },
+      "tipo_documento": {
+        "original": "Documento de proyecto o estudio técnico (informe técnico regional, primero de una serie de cuatro del proyecto C3A)",
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "Documento de proyecto o estudio técnico",
+              "Documento de Proyecto",
+              "informe técnico",
+              "estudio técnico"
+            ]
+          }
+        ]
+      },
+      "ambito_aplicacion_original": "Costa de América Latina y el Caribe en su conjunto, de aproximadamente 72.182 km, subdividida en cuatro zonas geográficas: Norteamérica (México), Centroamérica, Sudamérica e Islas del Caribe (p.28), con resultados calculados en 1.132 puntos costeros en profundidades indefinidas y comparaciones puntuales en localizaciones específicas de casi todos los países ribereños (p.60, cuadro 1.10)",
+      "referentes_dependencias_original": "España, a través de la Oficina Española de Cambio Climático (Ministerio de Medio Ambiente y Medio Rural y Marino) y el Ministerio de Asuntos Exteriores y de Cooperación, como financiador y origen de la metodología UC/OECC de evaluación de impactos costeros que se aplica en el estudio (p.27); Estados Unidos, como origen de las bases de datos de reanálisis atmosférico NCEP/NCAR, la base de datos de huracanes HURDAT y la red de boyas NDBC de la NOAA (p.40, p.223); el IPCC (informes TAR y AR4) como fuente de los escenarios de emisión y proyecciones de nivel del mar contrastados en el documento (p.43-45)",
+      "ambito_aplicacion": {
+        "original": "Costa de América Latina y el Caribe en su conjunto, de aproximadamente 72.182 km, subdividida en cuatro zonas geográficas: Norteamérica (México), Centroamérica, Sudamérica e Islas del Caribe (p.28), con resultados calculados en 1.132 puntos costeros en profundidades indefinidas y comparaciones puntuales en localizaciones específicas de casi todos los países ribereños (p.60, cuadro 1.10)",
+        "candidatos": [
+          {
+            "id": "regional",
+            "nombre": "Regional",
+            "aliases": [
+              "América Latina y el Caribe"
+            ]
+          },
+          {
+            "id": "subregional",
+            "nombre": "Subregional",
+            "aliases": [
+              "Centroamérica",
+              "Caribe"
+            ]
+          }
+        ],
+        "detalle_subnacional": [],
+        "requiere_revision": true,
+        "metodo": "alias_y_regla_multinivel"
+      },
+      "paises": [
+        {
+          "id": "mexico",
+          "nombre": "México",
+          "aliases": [
+            "México"
+          ]
+        }
+      ],
+      "subregiones": [
+        {
+          "id": "alc",
+          "nombre": "América Latina y el Caribe",
+          "aliases": [
+            "América Latina y el Caribe"
+          ]
+        },
+        {
+          "id": "centroamerica",
+          "nombre": "Centroamérica",
+          "aliases": [
+            "Centroamérica"
+          ]
+        },
+        {
+          "id": "caribe",
+          "nombre": "Caribe",
+          "aliases": [
+            "Caribe"
+          ]
+        }
+      ],
+      "sectores": {
+        "original": "Dinámica oceanográfica y costera (nivel del mar, oleaje, mareas, temperatura, salinidad, viento, huracanes) como insumo físico para la ingeniería de costas y puertos, la planificación de infraestructura portuaria y turística, y la gestión integral del riesgo climático costero (p.26-27); no aborda directamente sectores productivos, energéticos ni sociales",
+        "candidatos": [
+          {
+            "id": "transporte",
+            "nombre": "Transporte",
+            "aliases": [
+              "puertos"
+            ]
+          },
+          {
+            "id": "ecosistemas",
+            "nombre": "Ecosistemas y biodiversidad",
+            "aliases": [
+              "costero"
+            ]
+          }
+        ]
+      },
+      "organizaciones": [
+        {
+          "id": "ipcc",
+          "nombre": "IPCC",
+          "aliases": [
+            "IPCC"
+          ]
+        }
+      ],
+      "trazabilidad": {
+        "fuente": "fase2_json_canonico",
+        "nivel": "documento",
+        "estado": "candidato_no_adjudicado"
+      }
+    },
+    {
+      "documento_id": "https://hdl.handle.net/11362/39840",
+      "handle": "https://hdl.handle.net/11362/39840",
+      "ruta_json": "fase2/pilot/doc02_ocho_tesis.json",
+      "sha256_json": "93755ab8da191784ecc2fa86b66a02f6fe1ea46da0e242d7c3eefc57c6e78fcc",
+      "titulo": "Ocho tesis sobre el cambio climático y el desarrollo sostenible en América Latina",
+      "fecha": "2015-12",
+      "autoria": {
+        "original": "Luis Miguel Galindo, Joseluis Samaniego, José Eduardo Alatorre, Jimy Ferrer Carbonell, Orlando Reyes, Luis Sánchez",
+        "candidatos": [
+          "Luis Miguel Galindo",
+          "Joseluis Samaniego",
+          "José Eduardo Alatorre",
+          "Jimy Ferrer Carbonell",
+          "Orlando Reyes",
+          "Luis Sánchez"
+        ],
+        "requiere_revision": false,
+        "metodo": "delimitadores_conservadores"
+      },
+      "tipo_documento": {
+        "original": "Documento de Proyecto",
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "Documento de Proyecto"
+            ]
+          }
+        ]
+      },
+      "ambito_aplicacion_original": "América Latina y el Caribe en conjunto, con desagregación por país en cuadros y gráficos: encuestas de gasto de los hogares de Argentina, Brasil, Chile, Colombia, Costa Rica, El Salvador, México, Nicaragua y Uruguay (Gráficos 8-12), y datos de emisiones/tasa de motorización de Argentina, Bolivia, Brasil, Chile, Colombia, Cuba, Ecuador, El Salvador, Guatemala, Haití, Honduras, Jamaica, México, Nicaragua, Panamá, Paraguay, Perú, República Dominicana, Trinidad y Tobago, Uruguay y Venezuela.",
+      "referentes_dependencias_original": "Países de la OCDE (excluyendo Chile y México) como referente de comparación de elasticidades de la demanda de gasolina (Cuadro 3, p.26); Estados Unidos, Australia, España, Italia, Noruega, Países Bajos, Dinamarca y República de Corea como referentes de tasa de motorización de países desarrollados (Gráfico 15, p.25).",
+      "ambito_aplicacion": {
+        "original": "América Latina y el Caribe en conjunto, con desagregación por país en cuadros y gráficos: encuestas de gasto de los hogares de Argentina, Brasil, Chile, Colombia, Costa Rica, El Salvador, México, Nicaragua y Uruguay (Gráficos 8-12), y datos de emisiones/tasa de motorización de Argentina, Bolivia, Brasil, Chile, Colombia, Cuba, Ecuador, El Salvador, Guatemala, Haití, Honduras, Jamaica, México, Nicaragua, Panamá, Paraguay, Perú, República Dominicana, Trinidad y Tobago, Uruguay y Venezuela.",
+        "candidatos": [
+          {
+            "id": "regional",
+            "nombre": "Regional",
+            "aliases": [
+              "América Latina y el Caribe"
+            ]
+          },
+          {
+            "id": "subregional",
+            "nombre": "Subregional",
+            "aliases": [
+              "Caribe"
+            ]
+          },
+          {
+            "id": "nacional",
+            "nombre": "Nacional",
+            "aliases": [
+              "país"
+            ]
+          }
+        ],
+        "detalle_subnacional": [],
+        "requiere_revision": true,
+        "metodo": "alias_y_regla_multinivel"
+      },
+      "paises": [
+        {
+          "id": "argentina",
+          "nombre": "Argentina",
+          "aliases": [
+            "Argentina"
+          ]
+        },
+        {
+          "id": "bolivia",
+          "nombre": "Bolivia (Estado Plurinacional de)",
+          "aliases": [
+            "Bolivia"
+          ]
+        },
+        {
+          "id": "brasil",
+          "nombre": "Brasil",
+          "aliases": [
+            "Brasil"
+          ]
+        },
+        {
+          "id": "chile",
+          "nombre": "Chile",
+          "aliases": [
+            "Chile"
+          ]
+        },
+        {
+          "id": "colombia",
+          "nombre": "Colombia",
+          "aliases": [
+            "Colombia"
+          ]
+        },
+        {
+          "id": "costa_rica",
+          "nombre": "Costa Rica",
+          "aliases": [
+            "Costa Rica"
+          ]
+        },
+        {
+          "id": "cuba",
+          "nombre": "Cuba",
+          "aliases": [
+            "Cuba"
+          ]
+        },
+        {
+          "id": "ecuador",
+          "nombre": "Ecuador",
+          "aliases": [
+            "Ecuador"
+          ]
+        },
+        {
+          "id": "el_salvador",
+          "nombre": "El Salvador",
+          "aliases": [
+            "El Salvador"
+          ]
+        },
+        {
+          "id": "guatemala",
+          "nombre": "Guatemala",
+          "aliases": [
+            "Guatemala"
+          ]
+        },
+        {
+          "id": "haiti",
+          "nombre": "Haití",
+          "aliases": [
+            "Haití"
+          ]
+        },
+        {
+          "id": "honduras",
+          "nombre": "Honduras",
+          "aliases": [
+            "Honduras"
+          ]
+        },
+        {
+          "id": "jamaica",
+          "nombre": "Jamaica",
+          "aliases": [
+            "Jamaica"
+          ]
+        },
+        {
+          "id": "mexico",
+          "nombre": "México",
+          "aliases": [
+            "México"
+          ]
+        },
+        {
+          "id": "nicaragua",
+          "nombre": "Nicaragua",
+          "aliases": [
+            "Nicaragua"
+          ]
+        },
+        {
+          "id": "panama",
+          "nombre": "Panamá",
+          "aliases": [
+            "Panamá"
+          ]
+        },
+        {
+          "id": "paraguay",
+          "nombre": "Paraguay",
+          "aliases": [
+            "Paraguay"
+          ]
+        },
+        {
+          "id": "peru",
+          "nombre": "Perú",
+          "aliases": [
+            "Perú"
+          ]
+        },
+        {
+          "id": "republica_dominicana",
+          "nombre": "República Dominicana",
+          "aliases": [
+            "República Dominicana"
+          ]
+        },
+        {
+          "id": "uruguay",
+          "nombre": "Uruguay",
+          "aliases": [
+            "Uruguay"
+          ]
+        },
+        {
+          "id": "venezuela",
+          "nombre": "Venezuela (República Bolivariana de)",
+          "aliases": [
+            "Venezuela"
+          ]
+        }
+      ],
+      "subregiones": [
+        {
+          "id": "alc",
+          "nombre": "América Latina y el Caribe",
+          "aliases": [
+            "América Latina y el Caribe"
+          ]
+        },
+        {
+          "id": "caribe",
+          "nombre": "Caribe",
+          "aliases": [
+            "Caribe"
+          ]
+        }
+      ],
+      "sectores": {
+        "original": "Clima físico (proyecciones IPCC-CMIP5), energía y transporte (consumo y elasticidad de la demanda de gasolina), consumo de los hogares por quintil de ingreso, sector agropecuario, salud (contaminación atmosférica urbana) y macroeconomía/pobreza (elasticidades crecimiento-pobreza-desigualdad).",
+        "candidatos": [
+          {
+            "id": "agricultura",
+            "nombre": "Agricultura",
+            "aliases": [
+              "agropecuario"
+            ]
+          },
+          {
+            "id": "energia",
+            "nombre": "Energía",
+            "aliases": [
+              "energía"
+            ]
+          },
+          {
+            "id": "transporte",
+            "nombre": "Transporte",
+            "aliases": [
+              "transporte"
+            ]
+          },
+          {
+            "id": "salud",
+            "nombre": "Salud",
+            "aliases": [
+              "salud"
+            ]
+          },
+          {
+            "id": "proteccion_social",
+            "nombre": "Protección social",
+            "aliases": [
+              "desigualdad",
+              "pobreza"
+            ]
+          }
+        ]
+      },
+      "organizaciones": [
+        {
+          "id": "ipcc",
+          "nombre": "IPCC",
+          "aliases": [
+            "IPCC"
+          ]
+        },
+        {
+          "id": "ocde",
+          "nombre": "OCDE",
+          "aliases": [
+            "OCDE"
+          ]
+        }
+      ],
+      "trazabilidad": {
+        "fuente": "fase2_json_canonico",
+        "nivel": "documento",
+        "estado": "candidato_no_adjudicado"
+      }
+    },
+    {
+      "documento_id": "https://hdl.handle.net/11362/42230",
+      "handle": "https://hdl.handle.net/11362/42230",
+      "ruta_json": "fase2/pilot/doc03_green_bonds.json",
+      "sha256_json": "5d08a16002be71cecfea8c9e33cda48ae5d3e6337b229fc0837ba571d845445a",
+      "titulo": "The rise of green bonds: Financing for development in Latin America and the Caribbean",
+      "fecha": "2017-10",
+      "autoria": {
+        "original": "Helvia Velloso (ECLAC Washington Office), bajo la supervisión de Inés Bustillo; con la colaboración de Thomas Játiva en la investigación",
+        "candidatos": [
+          "Helvia Velloso (ECLAC Washington Office)",
+          "bajo la supervisión de Inés Bustillo",
+          "con la colaboración de Thomas Játiva en la investigación"
+        ],
+        "requiere_revision": true,
+        "metodo": "delimitadores_conservadores"
+      },
+      "tipo_documento": {
+        "original": "Estudio técnico / informe de análisis de mercado (serie LC/WAS/TS, ECLAC Washington Office)",
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "estudio técnico"
+            ]
+          }
+        ]
+      },
+      "ambito_aplicacion_original": "América Latina y el Caribe en conjunto, con desagregación empírica a nivel de ocho jurisdicciones emisoras entre diciembre de 2014 y agosto de 2017: Argentina, Brasil, Chile, Colombia, Costa Rica, México, Perú y un emisor supranacional centroamericano (CABEI); incluye un caso subnacional (Ciudad de México) y un caso de banca multilateral con foco regional (B-Bond de la IIC/BID para un proyecto en Uruguay).",
+      "referentes_dependencias_original": "China, Estados Unidos, Francia, el Reino Unido y Polonia como referentes del tamaño y evolución del mercado global de bonos verdes (p.19-21); el Banco Europeo de Inversiones y el Banco Mundial como emisores fundacionales del mercado en 2007 (p.11); organismos normativos internacionales citados como fuente de estándares voluntarios (Green Bond Principles de ICMA, Climate Bonds Initiative) y la OCDE como fuente de proyecciones globales de inversión climática — todos citados como marco o comparación externa, no como sujeto de análisis regional.",
+      "ambito_aplicacion": {
+        "original": "América Latina y el Caribe en conjunto, con desagregación empírica a nivel de ocho jurisdicciones emisoras entre diciembre de 2014 y agosto de 2017: Argentina, Brasil, Chile, Colombia, Costa Rica, México, Perú y un emisor supranacional centroamericano (CABEI); incluye un caso subnacional (Ciudad de México) y un caso de banca multilateral con foco regional (B-Bond de la IIC/BID para un proyecto en Uruguay).",
+        "candidatos": [
+          {
+            "id": "regional",
+            "nombre": "Regional",
+            "aliases": [
+              "América Latina y el Caribe"
+            ]
+          },
+          {
+            "id": "subregional",
+            "nombre": "Subregional",
+            "aliases": [
+              "Caribe"
+            ]
+          },
+          {
+            "id": "subnacional",
+            "nombre": "Subnacional",
+            "aliases": [
+              "subnacional",
+              "ciudad"
+            ]
+          }
+        ],
+        "detalle_subnacional": [
+          "ciudad"
+        ],
+        "requiere_revision": true,
+        "metodo": "alias_y_regla_multinivel"
+      },
+      "paises": [
+        {
+          "id": "argentina",
+          "nombre": "Argentina",
+          "aliases": [
+            "Argentina"
+          ]
+        },
+        {
+          "id": "brasil",
+          "nombre": "Brasil",
+          "aliases": [
+            "Brasil"
+          ]
+        },
+        {
+          "id": "chile",
+          "nombre": "Chile",
+          "aliases": [
+            "Chile"
+          ]
+        },
+        {
+          "id": "colombia",
+          "nombre": "Colombia",
+          "aliases": [
+            "Colombia"
+          ]
+        },
+        {
+          "id": "costa_rica",
+          "nombre": "Costa Rica",
+          "aliases": [
+            "Costa Rica"
+          ]
+        },
+        {
+          "id": "mexico",
+          "nombre": "México",
+          "aliases": [
+            "México"
+          ]
+        },
+        {
+          "id": "peru",
+          "nombre": "Perú",
+          "aliases": [
+            "Perú"
+          ]
+        },
+        {
+          "id": "uruguay",
+          "nombre": "Uruguay",
+          "aliases": [
+            "Uruguay"
+          ]
+        }
+      ],
+      "subregiones": [
+        {
+          "id": "alc",
+          "nombre": "América Latina y el Caribe",
+          "aliases": [
+            "América Latina y el Caribe"
+          ]
+        },
+        {
+          "id": "caribe",
+          "nombre": "Caribe",
+          "aliases": [
+            "Caribe"
+          ]
+        }
+      ],
+      "sectores": {
+        "original": "Mercado de capitales y financiamiento para el desarrollo, con foco en bonos etiquetados como \"verdes\" o alineados con criterios climáticos (\"climate-aligned\") que financian proyectos de energía renovable, eficiencia energética, transporte sostenible, gestión de agua y saneamiento, silvicultura sostenible y conservación de biodiversidad, control de contaminación, e infraestructura multisectorial.",
+        "candidatos": [
+          {
+            "id": "agua",
+            "nombre": "Agua y recursos hídricos",
+            "aliases": [
+              "saneamiento",
+              "agua"
+            ]
+          },
+          {
+            "id": "energia",
+            "nombre": "Energía",
+            "aliases": [
+              "energética",
+              "energía"
+            ]
+          },
+          {
+            "id": "transporte",
+            "nombre": "Transporte",
+            "aliases": [
+              "transporte"
+            ]
+          },
+          {
+            "id": "finanzas",
+            "nombre": "Finanzas y financiamiento",
+            "aliases": [
+              "financiamiento",
+              "bonos"
+            ]
+          },
+          {
+            "id": "ecosistemas",
+            "nombre": "Ecosistemas y biodiversidad",
+            "aliases": [
+              "biodiversidad"
+            ]
+          }
+        ]
+      },
+      "organizaciones": [
+        {
+          "id": "ocde",
+          "nombre": "OCDE",
+          "aliases": [
+            "OCDE"
+          ]
+        },
+        {
+          "id": "banco_mundial",
+          "nombre": "Banco Mundial",
+          "aliases": [
+            "Banco Mundial"
+          ]
+        }
+      ],
+      "trazabilidad": {
+        "fuente": "fase2_json_canonico",
+        "nivel": "documento",
+        "estado": "candidato_no_adjudicado"
+      }
+    },
+    {
+      "documento_id": "https://hdl.handle.net/11362/42355",
+      "handle": "https://hdl.handle.net/11362/42355",
+      "ruta_json": "fase2/pilot/doc04_honduras.json",
+      "sha256_json": "c20c760603dde61179f03fa8dbc92c9a20a0633c0844c3beb46fa7eb68a4e9e4",
+      "titulo": "Economía del Cambio Climático en Honduras: documento técnico 2017",
+      "fecha": "2017-10",
+      "autoria": {
+        "original": "Karina Caballero (autora principal), en el marco de la iniciativa Economía del Cambio Climático en Centroamérica (ECC CA) de la CEPAL, con el apoyo de la Secretaría de Energía, Recursos Naturales, Ambiente y Minas de Honduras (MiAmbiente+), el Banco Interamericano de Desarrollo (BID) y el Nordic Development Fund (NDF)",
+        "candidatos": [
+          "Karina Caballero (autora principal)",
+          "en el marco de la iniciativa Economía del Cambio Climático en Centroamérica (ECC CA) de la CEPAL",
+          "con el apoyo de la Secretaría de Energía",
+          "Recursos Naturales",
+          "Ambiente",
+          "Minas de Honduras (MiAmbiente+)",
+          "el Banco Interamericano de Desarrollo (BID)",
+          "el Nordic Development Fund (NDF)"
+        ],
+        "requiere_revision": false,
+        "metodo": "delimitadores_conservadores"
+      },
+      "tipo_documento": {
+        "original": "Documento técnico institucional de la serie \"La Economía del Cambio Climático en Centroamérica\" (ECC CA) — estudio cuantitativo de impactos y costos económicos del cambio climático a escala nacional (Honduras), con proyecciones a 2100 bajo los escenarios climáticos B2 y A2 en ocho ámbitos sectoriales (macroeconomía/demografía, clima, recursos hídricos/hidroelectricidad, agricultura, ecosistemas, salud, emisiones de GEI y costos económicos agregados)",
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "Documento técnico institucional"
+            ]
+          }
+        ]
+      },
+      "ambito_aplicacion_original": "Honduras a nivel nacional, con desagregación departamental en los capítulos de clima, agua, agricultura y salud (18 departamentos); el documento aplica al caso hondureño la metodología de la serie regional \"La Economía del Cambio Climático en Centroamérica\" (ECC CA) de la CEPAL.",
+      "referentes_dependencias_original": "Centroamérica (los otros seis países del SICA) como marco de comparación regional en emisiones, salud y proyectos MDL; la sede subregional de la CEPAL en México como coordinadora técnica de la iniciativa ECC CA; el Banco Interamericano de Desarrollo (BID) como agencia ejecutora de componentes de salud y financiamiento (NDF); COMISCA, la OPS, el Instituto de Meteorología de Cuba (INSMET) y el Instituto Nacional de Salud Pública de México (INSP) como cooperantes técnicos del componente salud; el Mecanismo de Desarrollo Limpio (MDL) y sus contrapartes internacionales (Finlandia, Japón, Suiza, Reino Unido, entre otros) como financiadores de los 32 proyectos de reducción de emisiones registrados hasta 2016 (p.199-201).",
+      "ambito_aplicacion": {
+        "original": "Honduras a nivel nacional, con desagregación departamental en los capítulos de clima, agua, agricultura y salud (18 departamentos); el documento aplica al caso hondureño la metodología de la serie regional \"La Economía del Cambio Climático en Centroamérica\" (ECC CA) de la CEPAL.",
+        "candidatos": [
+          {
+            "id": "subregional",
+            "nombre": "Subregional",
+            "aliases": [
+              "Centroamérica"
+            ]
+          },
+          {
+            "id": "nacional",
+            "nombre": "Nacional",
+            "aliases": [
+              "a nivel nacional"
+            ]
+          },
+          {
+            "id": "subnacional",
+            "nombre": "Subnacional",
+            "aliases": [
+              "departamental"
+            ]
+          },
+          {
+            "id": "multinivel",
+            "nombre": "Multinivel",
+            "aliases": [
+              "inferencia: nacional + subnacional"
+            ]
+          }
+        ],
+        "detalle_subnacional": [
+          "departamental"
+        ],
+        "requiere_revision": true,
+        "metodo": "alias_y_regla_multinivel"
+      },
+      "paises": [
+        {
+          "id": "honduras",
+          "nombre": "Honduras",
+          "aliases": [
+            "Honduras"
+          ]
+        }
+      ],
+      "subregiones": [
+        {
+          "id": "centroamerica",
+          "nombre": "Centroamérica",
+          "aliases": [
+            "Centroamérica"
+          ]
+        }
+      ],
+      "sectores": {
+        "original": "Multisectorial: macroeconomía y demografía, cambio de uso de tierra, energía, clima (temperatura, precipitación, aridez, eventos extremos), recursos hídricos, hidroelectricidad, agricultura (granos básicos y café), seguridad alimentaria y nutricional, aseguramiento agropecuario, biodiversidad y ecosistemas, salud (enfermedades sensibles al clima), emisiones de gases de efecto invernadero y costos económicos agregados.",
+        "candidatos": [
+          {
+            "id": "agricultura",
+            "nombre": "Agricultura",
+            "aliases": [
+              "agropecuario",
+              "agricultura"
+            ]
+          },
+          {
+            "id": "agua",
+            "nombre": "Agua y recursos hídricos",
+            "aliases": [
+              "recursos hídricos"
+            ]
+          },
+          {
+            "id": "energia",
+            "nombre": "Energía",
+            "aliases": [
+              "energía"
+            ]
+          },
+          {
+            "id": "salud",
+            "nombre": "Salud",
+            "aliases": [
+              "salud"
+            ]
+          },
+          {
+            "id": "ecosistemas",
+            "nombre": "Ecosistemas y biodiversidad",
+            "aliases": [
+              "biodiversidad",
+              "ecosistemas"
+            ]
+          }
+        ]
+      },
+      "organizaciones": [
+        {
+          "id": "cepal",
+          "nombre": "CEPAL",
+          "aliases": [
+            "CEPAL"
+          ]
+        },
+        {
+          "id": "bid",
+          "nombre": "BID",
+          "aliases": [
+            "Banco Interamericano de Desarrollo",
+            "BID"
+          ]
+        }
+      ],
+      "trazabilidad": {
+        "fuente": "fase2_json_canonico",
+        "nivel": "documento",
+        "estado": "candidato_no_adjudicado"
+      }
+    },
+    {
+      "documento_id": "https://hdl.handle.net/11362/46101",
+      "handle": "https://hdl.handle.net/11362/46101",
+      "ruta_json": "fase2/pilot/doc06_tragedia_ambiental.json",
+      "sha256_json": "5aaa6b737ee8fdb931fd46746b65ef0ae10cb02294d9dbc068162ff582ac3cdc",
+      "titulo": "La tragedia ambiental de América Latina y el Caribe",
+      "fecha": "2020",
+      "autoria": {
+        "original": "Nicolo Gligo (coordinador), Gisela Alonso, David Barkin, Antonio Brailovsky, Francisco Brzovic, Julio Carrizosa, Hernán Durán, Patricio Fernández, Gilberto Gallopín, José Leal, Margarita Marino de Botero, César Morales, Fernando Ortiz Monasterio, Daniel Panario, Walter Pengue, Manuel Rodríguez Becerra, Alejandro Rofman, René Saa, Héctor Sejenovich, Osvaldo Sunkel y José Villamil (los \"pensadores fundacionales del desarrollo sostenible\" convocados por la División de Desarrollo Sostenible y Asentamientos Humanos de la CEPAL)",
+        "candidatos": [
+          "Nicolo Gligo (coordinador)",
+          "Gisela Alonso",
+          "David Barkin",
+          "Antonio Brailovsky",
+          "Francisco Brzovic",
+          "Julio Carrizosa",
+          "Hernán Durán",
+          "Patricio Fernández",
+          "Gilberto Gallopín",
+          "José Leal",
+          "Margarita Marino de Botero",
+          "César Morales",
+          "Fernando Ortiz Monasterio",
+          "Daniel Panario",
+          "Walter Pengue",
+          "Manuel Rodríguez Becerra",
+          "Alejandro Rofman",
+          "René Saa",
+          "Héctor Sejenovich",
+          "Osvaldo Sunkel",
+          "José Villamil (los \"pensadores fundacionales del desarrollo sostenible\" convocados por la División de Desarrollo Sostenible",
+          "Asentamientos Humanos de la CEPAL)"
+        ],
+        "requiere_revision": false,
+        "metodo": "delimitadores_conservadores"
+      },
+      "tipo_documento": {
+        "original": "Libro institucional (Libros de la CEPAL N° 161) — compilación de ensayos independientes de veinte autores, insumo para el trigésimo octavo período de sesiones de la CEPAL",
+        "candidatos": [
+          {
+            "id": "compilacion",
+            "nombre": "Compilación",
+            "aliases": [
+              "compilación"
+            ]
+          }
+        ]
+      },
+      "ambito_aplicacion_original": "América Latina y el Caribe en su conjunto, con desagregaciones frecuentes por subregión (Mesoamérica y el Caribe, América del Sur, Cono Sur, países andinos, Centroamérica) y por país (México, Chile, Brasil, Argentina, Bolivia (Estado Plurinacional de), Ecuador, entre otros, en cuadros y gráficos).",
+      "referentes_dependencias_original": "Se citan como referentes o contraparte externa: China (como socio comercial extractivo de la región), la Unión Europea y el G-20 (comparación de indicadores de crecimiento y medio ambiente), Estados Unidos, el Vaticano (Carta Encíclica Laudato si'), y marcos e informes globales de origen extrarregional (IPBES, IPCC, Acuerdo de París, Informe Brundtland) usados como fuente de datos o de encuadre teórico, no como sujeto de análisis del documento.",
+      "ambito_aplicacion": {
+        "original": "América Latina y el Caribe en su conjunto, con desagregaciones frecuentes por subregión (Mesoamérica y el Caribe, América del Sur, Cono Sur, países andinos, Centroamérica) y por país (México, Chile, Brasil, Argentina, Bolivia (Estado Plurinacional de), Ecuador, entre otros, en cuadros y gráficos).",
+        "candidatos": [
+          {
+            "id": "regional",
+            "nombre": "Regional",
+            "aliases": [
+              "América Latina y el Caribe"
+            ]
+          },
+          {
+            "id": "subregional",
+            "nombre": "Subregional",
+            "aliases": [
+              "Centroamérica",
+              "Cono Sur",
+              "Caribe"
+            ]
+          },
+          {
+            "id": "nacional",
+            "nombre": "Nacional",
+            "aliases": [
+              "país"
+            ]
+          }
+        ],
+        "detalle_subnacional": [],
+        "requiere_revision": true,
+        "metodo": "alias_y_regla_multinivel"
+      },
+      "paises": [
+        {
+          "id": "argentina",
+          "nombre": "Argentina",
+          "aliases": [
+            "Argentina"
+          ]
+        },
+        {
+          "id": "bolivia",
+          "nombre": "Bolivia (Estado Plurinacional de)",
+          "aliases": [
+            "Bolivia (Estado Plurinacional de)",
+            "Bolivia"
+          ]
+        },
+        {
+          "id": "brasil",
+          "nombre": "Brasil",
+          "aliases": [
+            "Brasil"
+          ]
+        },
+        {
+          "id": "chile",
+          "nombre": "Chile",
+          "aliases": [
+            "Chile"
+          ]
+        },
+        {
+          "id": "ecuador",
+          "nombre": "Ecuador",
+          "aliases": [
+            "Ecuador"
+          ]
+        },
+        {
+          "id": "mexico",
+          "nombre": "México",
+          "aliases": [
+            "México"
+          ]
+        }
+      ],
+      "subregiones": [
+        {
+          "id": "alc",
+          "nombre": "América Latina y el Caribe",
+          "aliases": [
+            "América Latina y el Caribe"
+          ]
+        },
+        {
+          "id": "centroamerica",
+          "nombre": "Centroamérica",
+          "aliases": [
+            "Centroamérica"
+          ]
+        },
+        {
+          "id": "caribe",
+          "nombre": "Caribe",
+          "aliases": [
+            "Caribe"
+          ]
+        },
+        {
+          "id": "cono_sur",
+          "nombre": "Cono Sur",
+          "aliases": [
+            "Cono Sur"
+          ]
+        }
+      ],
+      "sectores": {
+        "original": "Transversal a política ambiental (explícita e implícita), ordenamiento territorial, teoría económica y cuentas nacionales, ciencia y tecnología, energía, agricultura y agricultura familiar, pueblos indígenas y campesinos, y cambio climático (mitigación y adaptación).",
+        "candidatos": [
+          {
+            "id": "agricultura",
+            "nombre": "Agricultura",
+            "aliases": [
+              "agricultura"
+            ]
+          },
+          {
+            "id": "energia",
+            "nombre": "Energía",
+            "aliases": [
+              "energía"
+            ]
+          }
+        ]
+      },
+      "organizaciones": [
+        {
+          "id": "ipcc",
+          "nombre": "IPCC",
+          "aliases": [
+            "IPCC"
+          ]
+        }
+      ],
+      "trazabilidad": {
+        "fuente": "fase2_json_canonico",
+        "nivel": "documento",
+        "estado": "candidato_no_adjudicado"
+      }
+    },
+    {
+      "documento_id": "https://hdl.handle.net/11362/46792",
+      "handle": "https://hdl.handle.net/11362/46792",
+      "ruta_json": "fase2/pilot/doc08_gestion_agua.json",
+      "sha256_json": "a271e57abe603b026280df0a3268e834b025d2b0824e965de4fc58352f584f08",
+      "titulo": "Reflexiones sobre la gestión del agua en América Latina y el Caribe. Textos seleccionados 2002-2020",
+      "fecha": "2021",
+      "autoria": {
+        "original": "Andrei Jouravlev, Silvia Saravia Matus y Marina Gil Sevilla (compiladores). Autores de los textos originales compilados: M. Ballestero Vargas, J. Bautista Justo, G. Chávez, A. Dourojeanni, A. Embid, M. Hantke-Domas, A. Jouravlev, M. Liber-Justo, T. López Lee, L. Martín, L. Naranjo, H. Peña, F. Saulino, M. Solanes, B. Willaarts y E. Zegarra.",
+        "candidatos": [
+          "Andrei Jouravlev",
+          "Silvia Saravia Matus",
+          "Marina Gil Sevilla (compiladores). Autores de los textos originales compilados: M. Ballestero Vargas",
+          "J. Bautista Justo",
+          "G. Chávez",
+          "A. Dourojeanni",
+          "A. Embid",
+          "M. Hantke-Domas",
+          "A. Jouravlev",
+          "M. Liber-Justo",
+          "T. López Lee",
+          "L. Martín",
+          "L. Naranjo",
+          "H. Peña",
+          "F. Saulino",
+          "M. Solanes",
+          "B. Willaarts",
+          "E. Zegarra"
+        ],
+        "requiere_revision": true,
+        "metodo": "delimitadores_conservadores"
+      },
+      "tipo_documento": {
+        "original": "Compilación institucional de la colección \"Páginas Selectas de la CEPAL\", que reúne extractos de estudios elaborados entre 2002 y 2020 por la División de Recursos Naturales de la CEPAL, organizados en tres capítulos con múltiples obras fuente. El Capítulo I (gobernanza hídrica, gestión de cuencas, seguridad hídrica y conflictos por el agua) compila cuatro documentos de proyecto/serie distintos (Solanes y Jouravlev, 2005; Dourojeanni, Jouravlev y Chávez, 2002; Peña, 2016; Martín y Bautista Justo, 2015). El Capítulo II (derecho humano al agua potable y saneamiento, y regulación de sus servicios) compila dos (Bautista Justo, 2013; Hantke-Domas y Jouravlev, 2011). El Capítulo III (el Nexo entre el agua, la energía y la alimentación) compila seis estudios conceptuales y de caso (Embid y Martín, 2017; Ballestero y López, 2017; Naranjo y Willaarts, 2020; Peña, 2018; Saulino, 2011; Zegarra, 2018). El cambio climático no es el tema central de ninguna de las tres partes: aparece de forma dispersa como uno de varios factores de riesgo y estrés sobre la gestión hídrica, la generación hidroeléctrica y la seguridad alimentaria.",
+        "candidatos": [
+          {
+            "id": "compilacion",
+            "nombre": "Compilación",
+            "aliases": [
+              "compilación"
+            ]
+          }
+        ]
+      },
+      "ambito_aplicacion_original": "América Latina y el Caribe en su conjunto, con estudios de caso nacionales y subnacionales específicos: Chile (gobernanza hídrica y reforma del Código de Aguas de 2005; Nexo agua-energía-alimentación 1995-2017), Perú (valle de Ica: sobreexplotación de acuíferos, agroexportación y trasvase Choclococha; Ley de Recursos Hídricos de 2009), Costa Rica (cuenca alta del río Reventazón: interdependencia ICE-AyA-JASEC-SENARA), Argentina (conflictos interjurisdiccionales por el río Atuel, Laguna del Maule transfronteriza en la práctica, caso Tucumán/biocombustibles), Brasil (Agencia Nacional de Aguas, biocombustibles de caña de azúcar), México (Comisión Nacional de Agua, trasvases urbanos, precios de energía para bombeo agrícola), Bolivia (Cochabamba, Ley de la Década del Riego), y numerosos otros casos de país dispersos por capítulo.",
+      "referentes_dependencias_original": "Estados Unidos (jurisprudencia de derechos de agua, Tennessee Valley Authority, principios regulatorios de servicios públicos), España (Ley de Aguas de 1879, planificación por cuenca desde 1926), Francia (organismos de cuenca, contratos de \"délégation de service public\"), la Unión Europea (Directiva Marco del Agua 2000/60/CE), y organismos internacionales (Banco Mundial, Global Water Partnership, OCDE, IPCC, ONU-Agua, Foro Económico Mundial) como referentes conceptuales y normativos incorporados al análisis regional, sin ser objeto de la propuesta de política del documento.",
+      "ambito_aplicacion": {
+        "original": "América Latina y el Caribe en su conjunto, con estudios de caso nacionales y subnacionales específicos: Chile (gobernanza hídrica y reforma del Código de Aguas de 2005; Nexo agua-energía-alimentación 1995-2017), Perú (valle de Ica: sobreexplotación de acuíferos, agroexportación y trasvase Choclococha; Ley de Recursos Hídricos de 2009), Costa Rica (cuenca alta del río Reventazón: interdependencia ICE-AyA-JASEC-SENARA), Argentina (conflictos interjurisdiccionales por el río Atuel, Laguna del Maule transfronteriza en la práctica, caso Tucumán/biocombustibles), Brasil (Agencia Nacional de Aguas, biocombustibles de caña de azúcar), México (Comisión Nacional de Agua, trasvases urbanos, precios de energía para bombeo agrícola), Bolivia (Cochabamba, Ley de la Década del Riego), y numerosos otros casos de país dispersos por capítulo.",
+        "candidatos": [
+          {
+            "id": "regional",
+            "nombre": "Regional",
+            "aliases": [
+              "América Latina y el Caribe"
+            ]
+          },
+          {
+            "id": "subregional",
+            "nombre": "Subregional",
+            "aliases": [
+              "Caribe"
+            ]
+          },
+          {
+            "id": "nacional",
+            "nombre": "Nacional",
+            "aliases": [
+              "país"
+            ]
+          },
+          {
+            "id": "subnacional",
+            "nombre": "Subnacional",
+            "aliases": [
+              "cuenca"
+            ]
+          },
+          {
+            "id": "multinivel",
+            "nombre": "Multinivel",
+            "aliases": [
+              "inferencia: nacional + subnacional"
+            ]
+          }
+        ],
+        "detalle_subnacional": [
+          "cuenca"
+        ],
+        "requiere_revision": true,
+        "metodo": "alias_y_regla_multinivel"
+      },
+      "paises": [
+        {
+          "id": "argentina",
+          "nombre": "Argentina",
+          "aliases": [
+            "Argentina"
+          ]
+        },
+        {
+          "id": "bolivia",
+          "nombre": "Bolivia (Estado Plurinacional de)",
+          "aliases": [
+            "Bolivia"
+          ]
+        },
+        {
+          "id": "brasil",
+          "nombre": "Brasil",
+          "aliases": [
+            "Brasil"
+          ]
+        },
+        {
+          "id": "chile",
+          "nombre": "Chile",
+          "aliases": [
+            "Chile"
+          ]
+        },
+        {
+          "id": "costa_rica",
+          "nombre": "Costa Rica",
+          "aliases": [
+            "Costa Rica"
+          ]
+        },
+        {
+          "id": "mexico",
+          "nombre": "México",
+          "aliases": [
+            "México"
+          ]
+        },
+        {
+          "id": "peru",
+          "nombre": "Perú",
+          "aliases": [
+            "Perú"
+          ]
+        }
+      ],
+      "subregiones": [
+        {
+          "id": "alc",
+          "nombre": "América Latina y el Caribe",
+          "aliases": [
+            "América Latina y el Caribe"
+          ]
+        },
+        {
+          "id": "caribe",
+          "nombre": "Caribe",
+          "aliases": [
+            "Caribe"
+          ]
+        }
+      ],
+      "sectores": {
+        "original": "Cobertura multisectorial: gobernanza y legislación de aguas, gestión de cuencas, seguridad hídrica, conflictos por el agua, derecho humano al agua potable y saneamiento, regulación económica y tarifaria de servicios públicos de agua, y el nexo intersectorial entre agua, energía (hidroelectricidad, biocombustibles, minería) y alimentación (riego, agroexportación).",
+        "candidatos": [
+          {
+            "id": "agua",
+            "nombre": "Agua y recursos hídricos",
+            "aliases": [
+              "saneamiento",
+              "hídrica",
+              "riego",
+              "agua"
+            ]
+          },
+          {
+            "id": "energia",
+            "nombre": "Energía",
+            "aliases": [
+              "energía"
+            ]
+          }
+        ]
+      },
+      "organizaciones": [
+        {
+          "id": "ipcc",
+          "nombre": "IPCC",
+          "aliases": [
+            "IPCC"
+          ]
+        },
+        {
+          "id": "naciones_unidas",
+          "nombre": "Naciones Unidas",
+          "aliases": [
+            "ONU"
+          ]
+        },
+        {
+          "id": "ocde",
+          "nombre": "OCDE",
+          "aliases": [
+            "OCDE"
+          ]
+        },
+        {
+          "id": "banco_mundial",
+          "nombre": "Banco Mundial",
+          "aliases": [
+            "Banco Mundial"
+          ]
+        }
+      ],
+      "trazabilidad": {
+        "fuente": "fase2_json_canonico",
+        "nivel": "documento",
+        "estado": "candidato_no_adjudicado"
+      }
+    },
+    {
+      "documento_id": "https://hdl.handle.net/11362/48603",
+      "handle": "https://hdl.handle.net/11362/48603",
+      "ruta_json": "fase2/pilot/doc09_caribbean_power.json",
+      "sha256_json": "9dd4d4a157d1250aa4269cb8530d280d6baf78a6662227fa308eb48274b410cb",
+      "titulo": "Building a climate resilient power sector in the context of the Caribbean small island developing States' energy transition. Policy Brief",
+      "fecha": "2022-12-15",
+      "autoria": {
+        "original": null,
+        "candidatos": [],
+        "requiere_revision": false,
+        "metodo": null
+      },
+      "tipo_documento": {
+        "original": "Policy Brief",
+        "candidatos": [
+          {
+            "id": "policy_brief",
+            "nombre": "Policy brief",
+            "aliases": [
+              "Policy Brief",
+              "policy brief"
+            ]
+          }
+        ]
+      },
+      "ambito_aplicacion_original": "Pequeños Estados insulares en desarrollo (SIDS) del Caribe, con CARICOM como marco institucional; no cubre América Latina continental",
+      "referentes_dependencias_original": "Estados Unidos (comparación de tarifas eléctricas; NREL y Rocky Mountain Institute como fuentes de marcos técnicos); Puerto Rico como caso ilustrativo de colapso de red; IEA, IRENA y Banco Mundial como fuentes de datos y metodologías",
+      "ambito_aplicacion": {
+        "original": "Pequeños Estados insulares en desarrollo (SIDS) del Caribe, con CARICOM como marco institucional; no cubre América Latina continental",
+        "candidatos": [
+          {
+            "id": "subregional",
+            "nombre": "Subregional",
+            "aliases": [
+              "Caribe"
+            ]
+          }
+        ],
+        "detalle_subnacional": [],
+        "requiere_revision": true,
+        "metodo": "alias_y_regla_multinivel"
+      },
+      "paises": [],
+      "subregiones": [
+        {
+          "id": "caribe",
+          "nombre": "Caribe",
+          "aliases": [
+            "Caribe"
+          ]
+        }
+      ],
+      "sectores": {
+        "original": "Sector eléctrico (generación, transmisión y distribución, demanda) exclusivamente",
+        "candidatos": []
+      },
+      "organizaciones": [
+        {
+          "id": "banco_mundial",
+          "nombre": "Banco Mundial",
+          "aliases": [
+            "Banco Mundial"
+          ]
+        }
+      ],
+      "trazabilidad": {
+        "fuente": "fase2_json_canonico",
+        "nivel": "documento",
+        "estado": "candidato_no_adjudicado"
+      }
+    },
+    {
+      "documento_id": "https://hdl.handle.net/11362/47745",
+      "handle": "https://hdl.handle.net/11362/47745",
+      "ruta_json": "fase2/pilot/doc10_agenda_2030.json",
+      "sha256_json": "719a28c537087e3b9cfc7e0200d7934bb7237447624340b373bcf71a8d7ac0a3",
+      "titulo": "Una década de acción para un cambio de época. Quinto informe sobre el progreso y los desafíos regionales de la Agenda 2030 para el Desarrollo Sostenible en América Latina y el Caribe",
+      "fecha": "2022-03",
+      "autoria": {
+        "original": null,
+        "candidatos": [],
+        "requiere_revision": false,
+        "metodo": null
+      },
+      "tipo_documento": {
+        "original": "Informe de seguimiento intergubernamental (informe insignia de la CEPAL para el Foro de los Países de América Latina y el Caribe sobre el Desarrollo Sostenible)",
+        "candidatos": [
+          {
+            "id": "informe_insignia_panorama",
+            "nombre": "Informe insignia o Panorama",
+            "aliases": [
+              "informe insignia"
+            ]
+          }
+        ]
+      },
+      "ambito_aplicacion_original": "Los 33 países de América Latina y el Caribe en su conjunto, con análisis diferenciado por subregiones: Centroamérica, México y República Dominicana; el Caribe (incluidos los pequeños Estados insulares en desarrollo); y América del Sur.",
+      "referentes_dependencias_original": "Estados Unidos y China, cuya rivalidad geopolítica y ciclo económico condicionan la recuperación regional (p.152); la Unión Europea y el G20, citados como referentes de estímulos fiscales y mecanismos financieros (Next Generation EU, Glasgow Financial Alliance for Net Zero, First Movers Coalition) que la región busca emular o ante los cuales negocia cooperación, sin ser estos el sujeto de análisis del documento.",
+      "ambito_aplicacion": {
+        "original": "Los 33 países de América Latina y el Caribe en su conjunto, con análisis diferenciado por subregiones: Centroamérica, México y República Dominicana; el Caribe (incluidos los pequeños Estados insulares en desarrollo); y América del Sur.",
+        "candidatos": [
+          {
+            "id": "regional",
+            "nombre": "Regional",
+            "aliases": [
+              "América Latina y el Caribe"
+            ]
+          },
+          {
+            "id": "subregional",
+            "nombre": "Subregional",
+            "aliases": [
+              "Centroamérica",
+              "Caribe"
+            ]
+          }
+        ],
+        "detalle_subnacional": [],
+        "requiere_revision": true,
+        "metodo": "alias_y_regla_multinivel"
+      },
+      "paises": [
+        {
+          "id": "mexico",
+          "nombre": "México",
+          "aliases": [
+            "México"
+          ]
+        },
+        {
+          "id": "republica_dominicana",
+          "nombre": "República Dominicana",
+          "aliases": [
+            "República Dominicana"
+          ]
+        }
+      ],
+      "subregiones": [
+        {
+          "id": "alc",
+          "nombre": "América Latina y el Caribe",
+          "aliases": [
+            "América Latina y el Caribe"
+          ]
+        },
+        {
+          "id": "centroamerica",
+          "nombre": "Centroamérica",
+          "aliases": [
+            "Centroamérica"
+          ]
+        },
+        {
+          "id": "caribe",
+          "nombre": "Caribe",
+          "aliases": [
+            "Caribe"
+          ]
+        }
+      ],
+      "sectores": {
+        "original": "Multisectorial: macroeconomía y deuda soberana, mercado de trabajo y protección social, salud pública y vacunación, igualdad de género, educación, biodiversidad marina y terrestre, cambio climático, institucionalidad pública y participación de la sociedad civil y el sector privado, integración regional y arquitectura financiera internacional.",
+        "candidatos": [
+          {
+            "id": "salud",
+            "nombre": "Salud",
+            "aliases": [
+              "salud"
+            ]
+          },
+          {
+            "id": "ecosistemas",
+            "nombre": "Ecosistemas y biodiversidad",
+            "aliases": [
+              "biodiversidad"
+            ]
+          },
+          {
+            "id": "empleo",
+            "nombre": "Empleo",
+            "aliases": [
+              "trabajo"
+            ]
+          },
+          {
+            "id": "proteccion_social",
+            "nombre": "Protección social",
+            "aliases": [
+              "protección social"
+            ]
+          }
+        ]
+      },
+      "organizaciones": [],
+      "trazabilidad": {
+        "fuente": "fase2_json_canonico",
+        "nivel": "documento",
+        "estado": "candidato_no_adjudicado"
+      }
+    },
+    {
+      "documento_id": "https://hdl.handle.net/11362/82426",
+      "handle": "https://hdl.handle.net/11362/82426",
+      "ruta_json": "fase2/pilot/doc11_pobreza_infantil.json",
+      "sha256_json": "391985833121f39ce00c9f0bd212fa2cdd46fa188da5b116fddf5653289757da",
+      "titulo": "El impacto del cambio climático en la pobreza infantil y juvenil de América Latina",
+      "fecha": "2025-08",
+      "autoria": {
+        "original": "Rafael Van der Borght; elaborado por la Sección de Cambio Climático, Ambiente, Energía y Reducción del Riesgo de Desastres de UNICEF LACRO y la Unidad de Cambio Climático de la División de Desarrollo Sostenible y Asentamientos Humanos de la CEPAL",
+        "candidatos": [
+          "Rafael Van der Borght",
+          "elaborado por la Sección de Cambio Climático",
+          "Ambiente",
+          "Energía",
+          "Reducción del Riesgo de Desastres de UNICEF LACRO",
+          "la Unidad de Cambio Climático de la División de Desarrollo Sostenible",
+          "Asentamientos Humanos de la CEPAL"
+        ],
+        "requiere_revision": false,
+        "metodo": "delimitadores_conservadores"
+      },
+      "tipo_documento": {
+        "original": "Documento de proyecto o estudio técnico (modelización econométrica interinstitucional UNICEF-CEPAL)",
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "Documento de proyecto o estudio técnico",
+              "Documento de Proyecto",
+              "estudio técnico"
+            ]
+          }
+        ]
+      },
+      "ambito_aplicacion_original": "18 países de América Latina con datos de pobreza armonizados por la CEPAL vía CEPALSTAT (aprox. 95% de la población de ALC), con resultados regionales agregados y proyecciones por país",
+      "referentes_dependencias_original": "Marcos globales usados como insumo metodológico, no como sujeto de análisis: escenarios climáticos de la fase IV del NGFS, modelización de riesgos de Climate Analytics (modelo macroeconómico NiGEM, CLIMADA), trayectorias SSP, líneas internacionales de pobreza del Banco Mundial ($2.15/$3.65/$6.85) contrastadas en el anexo, y literatura econométrica de funciones de daño (Kalkuhl y Wenz 2020; Burke, Hsiang y Miguel 2015)",
+      "ambito_aplicacion": {
+        "original": "18 países de América Latina con datos de pobreza armonizados por la CEPAL vía CEPALSTAT (aprox. 95% de la población de ALC), con resultados regionales agregados y proyecciones por país",
+        "candidatos": [
+          {
+            "id": "regional",
+            "nombre": "Regional",
+            "aliases": [
+              "ALC"
+            ]
+          },
+          {
+            "id": "nacional",
+            "nombre": "Nacional",
+            "aliases": [
+              "país"
+            ]
+          }
+        ],
+        "detalle_subnacional": [],
+        "requiere_revision": true,
+        "metodo": "alias_y_regla_multinivel"
+      },
+      "paises": [],
+      "subregiones": [
+        {
+          "id": "alc",
+          "nombre": "América Latina y el Caribe",
+          "aliases": [
+            "ALC"
+          ]
+        }
+      ],
+      "sectores": {
+        "original": "Protección social y pobreza monetaria infantil y juvenil; el cambio climático entra como canal macroeconómico (escenarios de GEI → PIB per cápita → pobreza), no como objeto de política productiva o energética",
+        "candidatos": [
+          {
+            "id": "energia",
+            "nombre": "Energía",
+            "aliases": [
+              "energética"
+            ]
+          },
+          {
+            "id": "proteccion_social",
+            "nombre": "Protección social",
+            "aliases": [
+              "protección social",
+              "pobreza"
+            ]
+          }
+        ]
+      },
+      "organizaciones": [
+        {
+          "id": "banco_mundial",
+          "nombre": "Banco Mundial",
+          "aliases": [
+            "Banco Mundial"
+          ]
+        }
+      ],
+      "trazabilidad": {
+        "fuente": "fase2_json_canonico",
+        "nivel": "documento",
+        "estado": "candidato_no_adjudicado"
+      }
+    },
+    {
+      "documento_id": "https://hdl.handle.net/11362/48724",
+      "handle": "https://hdl.handle.net/11362/48724",
+      "ruta_json": "fase2/pilot/doc12_agricultura_clima.json",
+      "sha256_json": "fa6870db0f808b0f835ab54b7984c54c54a8b26a11a5eed82e1070d852cdfa4f",
+      "titulo": "Acción climática en la agricultura: la experiencia de países miembros de la Plataforma de Acción Climática en Agricultura de Latinoamérica y el Caribe",
+      "fecha": "2023",
+      "autoria": {
+        "original": "Walter Oyhantçabal y Adrián G. Rodríguez",
+        "candidatos": [
+          "Walter Oyhantçabal",
+          "Adrián G. Rodríguez"
+        ],
+        "requiere_revision": false,
+        "metodo": "delimitadores_conservadores"
+      },
+      "tipo_documento": {
+        "original": "Documento de trabajo — serie Recursos Naturales y Desarrollo N° 215 (CEPAL)",
+        "candidatos": [
+          {
+            "id": "documento_trabajo",
+            "nombre": "Documento de trabajo",
+            "aliases": [
+              "Documento de trabajo"
+            ]
+          }
+        ]
+      },
+      "ambito_aplicacion_original": "12 países miembros de PLACA: Argentina, Bahamas, Brasil, Colombia, Costa Rica, Chile, Guatemala, Haití, México, Perú, República Dominicana y Uruguay (p.9)",
+      "referentes_dependencias_original": "CMNUCC, Acuerdo de París, IPCC, y las organizaciones que apoyan técnica o financieramente a PLACA y a los casos de éxito (FAO, CEPAL, CGIAR-CCAFS, GIZ, BID-FOMIN, GEF, Banco Mundial, Fondo de Adaptación) — citadas como cooperantes, no como sujeto de análisis (p.9-10, 80-97)",
+      "ambito_aplicacion": {
+        "original": "12 países miembros de PLACA: Argentina, Bahamas, Brasil, Colombia, Costa Rica, Chile, Guatemala, Haití, México, Perú, República Dominicana y Uruguay (p.9)",
+        "candidatos": [
+          {
+            "id": "regional",
+            "nombre": "Regional",
+            "aliases": [
+              "inferencia: múltiples países"
+            ]
+          }
+        ],
+        "detalle_subnacional": [],
+        "requiere_revision": true,
+        "metodo": "alias_y_regla_multinivel"
+      },
+      "paises": [
+        {
+          "id": "argentina",
+          "nombre": "Argentina",
+          "aliases": [
+            "Argentina"
+          ]
+        },
+        {
+          "id": "bahamas",
+          "nombre": "Bahamas",
+          "aliases": [
+            "Bahamas"
+          ]
+        },
+        {
+          "id": "brasil",
+          "nombre": "Brasil",
+          "aliases": [
+            "Brasil"
+          ]
+        },
+        {
+          "id": "chile",
+          "nombre": "Chile",
+          "aliases": [
+            "Chile"
+          ]
+        },
+        {
+          "id": "colombia",
+          "nombre": "Colombia",
+          "aliases": [
+            "Colombia"
+          ]
+        },
+        {
+          "id": "costa_rica",
+          "nombre": "Costa Rica",
+          "aliases": [
+            "Costa Rica"
+          ]
+        },
+        {
+          "id": "guatemala",
+          "nombre": "Guatemala",
+          "aliases": [
+            "Guatemala"
+          ]
+        },
+        {
+          "id": "haiti",
+          "nombre": "Haití",
+          "aliases": [
+            "Haití"
+          ]
+        },
+        {
+          "id": "mexico",
+          "nombre": "México",
+          "aliases": [
+            "México"
+          ]
+        },
+        {
+          "id": "peru",
+          "nombre": "Perú",
+          "aliases": [
+            "Perú"
+          ]
+        },
+        {
+          "id": "republica_dominicana",
+          "nombre": "República Dominicana",
+          "aliases": [
+            "República Dominicana"
+          ]
+        },
+        {
+          "id": "uruguay",
+          "nombre": "Uruguay",
+          "aliases": [
+            "Uruguay"
+          ]
+        }
+      ],
+      "subregiones": [],
+      "sectores": {
+        "original": "Sector agropecuario (agricultura, ganadería, silvicultura y otros usos de la tierra — AFOLU) en su articulación con la política climática nacional de mitigación y adaptación",
+        "candidatos": [
+          {
+            "id": "agricultura",
+            "nombre": "Agricultura",
+            "aliases": [
+              "agropecuario",
+              "agricultura",
+              "ganadería"
+            ]
+          }
+        ]
+      },
+      "organizaciones": [
+        {
+          "id": "cepal",
+          "nombre": "CEPAL",
+          "aliases": [
+            "CEPAL"
+          ]
+        },
+        {
+          "id": "bid",
+          "nombre": "BID",
+          "aliases": [
+            "BID"
+          ]
+        },
+        {
+          "id": "fao",
+          "nombre": "FAO",
+          "aliases": [
+            "FAO"
+          ]
+        },
+        {
+          "id": "ipcc",
+          "nombre": "IPCC",
+          "aliases": [
+            "IPCC"
+          ]
+        },
+        {
+          "id": "banco_mundial",
+          "nombre": "Banco Mundial",
+          "aliases": [
+            "Banco Mundial"
+          ]
+        }
+      ],
+      "trazabilidad": {
+        "fuente": "fase2_json_canonico",
+        "nivel": "documento",
+        "estado": "candidato_no_adjudicado"
+      }
+    },
+    {
+      "documento_id": "https://hdl.handle.net/11362/68639",
+      "handle": "https://hdl.handle.net/11362/68639",
+      "ruta_json": "fase2/pilot/doc13_carbono_frontera.json",
+      "sha256_json": "bd05bfd46f11bcc20c30ca74f94d72fbe696995c82b0d4f4de03fad14c75696d",
+      "titulo": "Comercio, cambio climático y el impuesto fronterizo al carbono",
+      "fecha": "2023-10-23",
+      "autoria": {
+        "original": "So Jeong Lee (Unidad de Comercio Internacional e Industria, sede subregional de la CEPAL en México)",
+        "candidatos": [
+          "So Jeong Lee (Unidad de Comercio Internacional",
+          "Industria",
+          "sede subregional de la CEPAL en México)"
+        ],
+        "requiere_revision": false,
+        "metodo": "delimitadores_conservadores"
+      },
+      "tipo_documento": {
+        "original": "Documento de proyecto / estudio técnico",
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "Documento de Proyecto",
+              "estudio técnico"
+            ]
+          }
+        ]
+      },
+      "ambito_aplicacion_original": "Subregión de la sede subregional de la CEPAL en México: Costa Rica, Cuba, El Salvador, Guatemala, Haití, Honduras, México, Nicaragua, Panamá y República Dominicana (p.13, nota 1); con referencias al conjunto de América Latina y el Caribe en las secciones de política fiscal y cooperación",
+      "referentes_dependencias_original": "Unión Europea (sujeto regulador del EU-ETS y del CBAM); República de Corea, Canadá y Japón (diálogos bilaterales con la UE citados como referente, Cuadro 8); Estados Unidos y China (socios comerciales dominantes de la subregión); Chile (primer impuesto al carbono de ALC, Recuadro 10); G7 (club climático, Recuadro 4); BRICS y Australia (críticas al CBAM)",
+      "ambito_aplicacion": {
+        "original": "Subregión de la sede subregional de la CEPAL en México: Costa Rica, Cuba, El Salvador, Guatemala, Haití, Honduras, México, Nicaragua, Panamá y República Dominicana (p.13, nota 1); con referencias al conjunto de América Latina y el Caribe en las secciones de política fiscal y cooperación",
+        "candidatos": [
+          {
+            "id": "regional",
+            "nombre": "Regional",
+            "aliases": [
+              "América Latina y el Caribe"
+            ]
+          },
+          {
+            "id": "subregional",
+            "nombre": "Subregional",
+            "aliases": [
+              "subregional",
+              "Caribe"
+            ]
+          }
+        ],
+        "detalle_subnacional": [],
+        "requiere_revision": true,
+        "metodo": "alias_y_regla_multinivel"
+      },
+      "paises": [
+        {
+          "id": "costa_rica",
+          "nombre": "Costa Rica",
+          "aliases": [
+            "Costa Rica"
+          ]
+        },
+        {
+          "id": "cuba",
+          "nombre": "Cuba",
+          "aliases": [
+            "Cuba"
+          ]
+        },
+        {
+          "id": "el_salvador",
+          "nombre": "El Salvador",
+          "aliases": [
+            "El Salvador"
+          ]
+        },
+        {
+          "id": "guatemala",
+          "nombre": "Guatemala",
+          "aliases": [
+            "Guatemala"
+          ]
+        },
+        {
+          "id": "haiti",
+          "nombre": "Haití",
+          "aliases": [
+            "Haití"
+          ]
+        },
+        {
+          "id": "honduras",
+          "nombre": "Honduras",
+          "aliases": [
+            "Honduras"
+          ]
+        },
+        {
+          "id": "mexico",
+          "nombre": "México",
+          "aliases": [
+            "México"
+          ]
+        },
+        {
+          "id": "nicaragua",
+          "nombre": "Nicaragua",
+          "aliases": [
+            "Nicaragua"
+          ]
+        },
+        {
+          "id": "panama",
+          "nombre": "Panamá",
+          "aliases": [
+            "Panamá"
+          ]
+        },
+        {
+          "id": "republica_dominicana",
+          "nombre": "República Dominicana",
+          "aliases": [
+            "República Dominicana"
+          ]
+        }
+      ],
+      "subregiones": [
+        {
+          "id": "alc",
+          "nombre": "América Latina y el Caribe",
+          "aliases": [
+            "América Latina y el Caribe"
+          ]
+        },
+        {
+          "id": "caribe",
+          "nombre": "Caribe",
+          "aliases": [
+            "Caribe"
+          ]
+        }
+      ],
+      "sectores": {
+        "original": "Comercio internacional, política fiscal/ambiental, mercado laboral; sectores del CBAM: hierro/acero, cemento, fertilizantes, aluminio, electricidad/hidrógeno (versión actual) y metales, cal, vidrio, cerámica, pulpa/papel, químicos (versión expandida hipotética)",
+        "candidatos": [
+          {
+            "id": "energia",
+            "nombre": "Energía",
+            "aliases": [
+              "electricidad"
+            ]
+          },
+          {
+            "id": "comercio",
+            "nombre": "Comercio",
+            "aliases": [
+              "comercio"
+            ]
+          },
+          {
+            "id": "empleo",
+            "nombre": "Empleo",
+            "aliases": [
+              "laboral"
+            ]
+          }
+        ]
+      },
+      "organizaciones": [],
+      "trazabilidad": {
+        "fuente": "fase2_json_canonico",
+        "nivel": "documento",
+        "estado": "candidato_no_adjudicado"
+      }
+    },
+    {
+      "documento_id": "https://hdl.handle.net/11362/80727",
+      "handle": "https://hdl.handle.net/11362/80727",
+      "ruta_json": "fase2/pilot/doc14_trampas_desarrollo.json",
+      "sha256_json": "688d49ea0a654acd154f845e3326bd35946952a92b9484d32784cd549adc8947",
+      "titulo": "América Latina y el Caribe ante las trampas del desarrollo: transformaciones indispensables y cómo gestionarlas",
+      "fecha": "2024",
+      "autoria": {
+        "original": null,
+        "candidatos": [],
+        "requiere_revision": false,
+        "metodo": null
+      },
+      "tipo_documento": {
+        "original": "Documento institucional de posición estratégica presentado en el cuadragésimo período de sesiones de la CEPAL (2024): propone tres \"grandes transformaciones indispensables\" para superar las trampas del desarrollo de la región (transformación productiva, reducción de la desigualdad, y sostenibilidad ambiental/cambio climático), más dos ejes transversales (capacidades institucionales y financiamiento). El cambio climático es el objeto exclusivo de solo uno de los siete capítulos (Capítulo VI); en el resto del documento aparece de forma dispersa y secundaria.",
+        "candidatos": [
+          {
+            "id": "informe_estrategico",
+            "nombre": "Informe estratégico",
+            "aliases": [
+              "Documento institucional de posición estratégica",
+              "posición estratégica"
+            ]
+          }
+        ]
+      },
+      "ambito_aplicacion_original": "América Latina y el Caribe en su conjunto (33 países), con desagregaciones frecuentes por subregión (América del Sur, Centroamérica y México, el Caribe) y casos nacionales ilustrativos (Chile y Colombia en electromovilidad, Bolivia en litio, Brasil y Colombia en bioeconomía, entre muchos otros) a lo largo de los siete capítulos.",
+      "referentes_dependencias_original": "Estados Unidos, la Unión Europea y China como referentes de política industrial y climática (Ley de Reducción de la Inflación, Pacto Verde Europeo, XIV Plan Quinquenal chino, cuadro I.1 y cuadro VI.1); la OCDE como comparador de presión tributaria, inversión pública y gasto en desarrollo productivo; el G20 y las Naciones Unidas como foros de reforma de la arquitectura financiera internacional (Cumbre del Futuro, Cuarta Conferencia Internacional sobre la Financiación para el Desarrollo de 2025); Alemania y la Unión Europea (BIO2REG) como referentes de clústeres de bioeconomía.",
+      "ambito_aplicacion": {
+        "original": "América Latina y el Caribe en su conjunto (33 países), con desagregaciones frecuentes por subregión (América del Sur, Centroamérica y México, el Caribe) y casos nacionales ilustrativos (Chile y Colombia en electromovilidad, Bolivia en litio, Brasil y Colombia en bioeconomía, entre muchos otros) a lo largo de los siete capítulos.",
+        "candidatos": [
+          {
+            "id": "regional",
+            "nombre": "Regional",
+            "aliases": [
+              "América Latina y el Caribe"
+            ]
+          },
+          {
+            "id": "subregional",
+            "nombre": "Subregional",
+            "aliases": [
+              "Centroamérica",
+              "Caribe"
+            ]
+          }
+        ],
+        "detalle_subnacional": [],
+        "requiere_revision": true,
+        "metodo": "alias_y_regla_multinivel"
+      },
+      "paises": [
+        {
+          "id": "bolivia",
+          "nombre": "Bolivia (Estado Plurinacional de)",
+          "aliases": [
+            "Bolivia"
+          ]
+        },
+        {
+          "id": "brasil",
+          "nombre": "Brasil",
+          "aliases": [
+            "Brasil"
+          ]
+        },
+        {
+          "id": "chile",
+          "nombre": "Chile",
+          "aliases": [
+            "Chile"
+          ]
+        },
+        {
+          "id": "colombia",
+          "nombre": "Colombia",
+          "aliases": [
+            "Colombia"
+          ]
+        },
+        {
+          "id": "mexico",
+          "nombre": "México",
+          "aliases": [
+            "México"
+          ]
+        }
+      ],
+      "subregiones": [
+        {
+          "id": "alc",
+          "nombre": "América Latina y el Caribe",
+          "aliases": [
+            "América Latina y el Caribe"
+          ]
+        },
+        {
+          "id": "centroamerica",
+          "nombre": "Centroamérica",
+          "aliases": [
+            "Centroamérica"
+          ]
+        },
+        {
+          "id": "caribe",
+          "nombre": "Caribe",
+          "aliases": [
+            "Caribe"
+          ]
+        }
+      ],
+      "sectores": {
+        "original": "Cobertura multisectorial completa: política de desarrollo productivo, tributación, protección social, educación, sociedad del cuidado, planificación urbana (transformaciones productiva y de desigualdad, capítulos II a V); y, específicamente para la transformación de sostenibilidad (Capítulo VI), transición energética, hidrógeno verde, electromovilidad, minerales críticos, gestión hídrica, turismo sostenible, bioeconomía y economía circular. El Capítulo VII cubre movilización de financiamiento (fiscal, privado, internacional) para el desarrollo en general, incluida la inversión climática.",
+        "candidatos": [
+          {
+            "id": "agua",
+            "nombre": "Agua y recursos hídricos",
+            "aliases": [
+              "hídrica"
+            ]
+          },
+          {
+            "id": "energia",
+            "nombre": "Energía",
+            "aliases": [
+              "energética"
+            ]
+          },
+          {
+            "id": "finanzas",
+            "nombre": "Finanzas y financiamiento",
+            "aliases": [
+              "financiamiento",
+              "inversión"
+            ]
+          },
+          {
+            "id": "proteccion_social",
+            "nombre": "Protección social",
+            "aliases": [
+              "protección social",
+              "desigualdad"
+            ]
+          }
+        ]
+      },
+      "organizaciones": [
+        {
+          "id": "naciones_unidas",
+          "nombre": "Naciones Unidas",
+          "aliases": [
+            "Naciones Unidas"
+          ]
+        },
+        {
+          "id": "ocde",
+          "nombre": "OCDE",
+          "aliases": [
+            "OCDE"
+          ]
+        }
+      ],
+      "trazabilidad": {
+        "fuente": "fase2_json_canonico",
+        "nivel": "documento",
+        "estado": "candidato_no_adjudicado"
+      }
+    },
+    {
+      "documento_id": "https://hdl.handle.net/11362/37310",
+      "handle": "https://hdl.handle.net/11362/37310",
+      "ruta_json": "fase2/pilot/doc15_paradojas_desafios.json",
+      "sha256_json": "ebf4432e6900388cf9c5eb8935e953f1e8101af765d93a7b38af93550acd7070",
+      "titulo": "La economía del cambio climático en América Latina y el Caribe: paradojas y desafíos del desarrollo sostenible",
+      "fecha": "2015-02",
+      "autoria": {
+        "original": "Luis Miguel Galindo y Joseluis Samaniego (coordinación y redacción general), con la participación de un equipo técnico de la CEPAL",
+        "candidatos": [
+          "Luis Miguel Galindo",
+          "Joseluis Samaniego (coordinación",
+          "redacción general)",
+          "con la participación de un equipo técnico de la CEPAL"
+        ],
+        "requiere_revision": true,
+        "metodo": "delimitadores_conservadores"
+      },
+      "tipo_documento": {
+        "original": "Informe institucional de síntesis regional",
+        "candidatos": [
+          {
+            "id": "informe",
+            "nombre": "Informe",
+            "aliases": [
+              "Informe"
+            ]
+          }
+        ]
+      },
+      "ambito_aplicacion_original": "América Latina y el Caribe en su conjunto, con estudios de caso subregionales y nacionales específicos desarrollados en el capítulo III: Centroamérica, el Caribe, la Argentina, Chile y el Uruguay.",
+      "referentes_dependencias_original": "Escenarios y modelos climáticos globales del IPCC (RCP2.6/4.5/6.0/8.5, Quinto Informe de Evaluación); estimaciones de organismos internacionales (Banco Mundial, PNUD, PNUMA, BID, Stern Review); y una comparación puntual con países de la OCDE para las elasticidades de la demanda de gasolina (cuadro VI.1) -citados como referencia comparativa metodológica, no como sujeto de análisis del documento.",
+      "ambito_aplicacion": {
+        "original": "América Latina y el Caribe en su conjunto, con estudios de caso subregionales y nacionales específicos desarrollados en el capítulo III: Centroamérica, el Caribe, la Argentina, Chile y el Uruguay.",
+        "candidatos": [
+          {
+            "id": "regional",
+            "nombre": "Regional",
+            "aliases": [
+              "América Latina y el Caribe"
+            ]
+          },
+          {
+            "id": "subregional",
+            "nombre": "Subregional",
+            "aliases": [
+              "Centroamérica",
+              "Caribe"
+            ]
+          }
+        ],
+        "detalle_subnacional": [],
+        "requiere_revision": true,
+        "metodo": "alias_y_regla_multinivel"
+      },
+      "paises": [
+        {
+          "id": "argentina",
+          "nombre": "Argentina",
+          "aliases": [
+            "Argentina"
+          ]
+        },
+        {
+          "id": "chile",
+          "nombre": "Chile",
+          "aliases": [
+            "Chile"
+          ]
+        },
+        {
+          "id": "uruguay",
+          "nombre": "Uruguay",
+          "aliases": [
+            "Uruguay"
+          ]
+        }
+      ],
+      "subregiones": [
+        {
+          "id": "alc",
+          "nombre": "América Latina y el Caribe",
+          "aliases": [
+            "América Latina y el Caribe"
+          ]
+        },
+        {
+          "id": "centroamerica",
+          "nombre": "Centroamérica",
+          "aliases": [
+            "Centroamérica"
+          ]
+        },
+        {
+          "id": "caribe",
+          "nombre": "Caribe",
+          "aliases": [
+            "Caribe"
+          ]
+        }
+      ],
+      "sectores": {
+        "original": "Multisectorial: agricultura y ganadería, recursos hídricos, salud urbana y calidad del aire, zonas costeras y turismo, biodiversidad y bosques, gestión del riesgo de desastres, energía y transporte, y finanzas públicas.",
+        "candidatos": [
+          {
+            "id": "agricultura",
+            "nombre": "Agricultura",
+            "aliases": [
+              "agricultura",
+              "ganadería"
+            ]
+          },
+          {
+            "id": "agua",
+            "nombre": "Agua y recursos hídricos",
+            "aliases": [
+              "recursos hídricos"
+            ]
+          },
+          {
+            "id": "energia",
+            "nombre": "Energía",
+            "aliases": [
+              "energía"
+            ]
+          },
+          {
+            "id": "transporte",
+            "nombre": "Transporte",
+            "aliases": [
+              "transporte"
+            ]
+          },
+          {
+            "id": "salud",
+            "nombre": "Salud",
+            "aliases": [
+              "salud"
+            ]
+          },
+          {
+            "id": "finanzas",
+            "nombre": "Finanzas y financiamiento",
+            "aliases": [
+              "finanzas"
+            ]
+          },
+          {
+            "id": "ecosistemas",
+            "nombre": "Ecosistemas y biodiversidad",
+            "aliases": [
+              "biodiversidad",
+              "bosques"
+            ]
+          }
+        ]
+      },
+      "organizaciones": [
+        {
+          "id": "bid",
+          "nombre": "BID",
+          "aliases": [
+            "BID"
+          ]
+        },
+        {
+          "id": "ipcc",
+          "nombre": "IPCC",
+          "aliases": [
+            "IPCC"
+          ]
+        },
+        {
+          "id": "ocde",
+          "nombre": "OCDE",
+          "aliases": [
+            "OCDE"
+          ]
+        },
+        {
+          "id": "banco_mundial",
+          "nombre": "Banco Mundial",
+          "aliases": [
+            "Banco Mundial"
+          ]
+        }
+      ],
+      "trazabilidad": {
+        "fuente": "fase2_json_canonico",
+        "nivel": "documento",
+        "estado": "candidato_no_adjudicado"
+      }
+    },
+    {
+      "documento_id": "https://hdl.handle.net/11362/43301",
+      "handle": "https://hdl.handle.net/11362/43301",
+      "ruta_json": "fase2/pilot/doc16_acceso_informacion.json",
+      "sha256_json": "6c2499f5412e1a4ad34ce4ad7de3eb75d85a7a98fa560df6afdf1194b78c8908",
+      "titulo": "Acceso a la información, la participación y la justicia en asuntos ambientales en América Latina y el Caribe: hacia el logro de la Agenda 2030 para el Desarrollo Sostenible",
+      "fecha": "2018",
+      "autoria": {
+        "original": "Valeria Torres (redacción), con la participación de Carlos de Miguel y David Barrio; colaboraron Francisca Aguilar, Brayden Koslowsky, Sebastián Donoso, Lina Arestizabal y Birgit Altmann; el análisis de los conflictos socioambientales del capítulo VI fue realizado por Francisca Reyes, con la colaboración de Emilia Ríos (funcionarios y consultores de la División de Desarrollo Sostenible y Asentamientos Humanos de la CEPAL)",
+        "candidatos": [
+          "Valeria Torres (redacción)",
+          "con la participación de Carlos de Miguel",
+          "David Barrio",
+          "colaboraron Francisca Aguilar",
+          "Brayden Koslowsky",
+          "Sebastián Donoso",
+          "Lina Arestizabal",
+          "Birgit Altmann",
+          "el análisis de los conflictos socioambientales del capítulo VI fue realizado por Francisca Reyes",
+          "con la colaboración de Emilia Ríos (funcionarios",
+          "consultores de la División de Desarrollo Sostenible",
+          "Asentamientos Humanos de la CEPAL)"
+        ],
+        "requiere_revision": true,
+        "metodo": "delimitadores_conservadores"
+      },
+      "tipo_documento": {
+        "original": "Documento técnico institucional — informe temático de actualización (versión anterior de 2013) sobre el Principio 10 de la Declaración de Río, revisión comparada de marcos legales e institucionales de gobernanza ambiental en los 33 países de América Latina y el Caribe",
+        "candidatos": [
+          {
+            "id": "informe",
+            "nombre": "Informe",
+            "aliases": [
+              "override explícito de muestra"
+            ]
+          }
+        ]
+      },
+      "ambito_aplicacion_original": "América Latina y el Caribe (33 países), con revisión país por país de marcos constitucionales, legales, institucionales y jurisprudenciales en materia de acceso a la información, participación y justicia ambiental",
+      "referentes_dependencias_original": "Convención de Aarhus / Comisión Económica para Europa (CEPE) como instrumento vinculante de referencia (p.24-25); Estados Unidos, el Canadá y México a través del TLCAN/ACAAN, y la Unión Europea a través de acuerdos de asociación y del CARIFORUM, como antecedentes de incorporación de derechos de acceso en tratados de libre comercio (p.35); la OCDE como organismo evaluador externo (evaluaciones de desempeño ambiental conjuntas con la CEPAL, p.36-37) — citados como marco comparado o evaluador externo, no como sujeto de análisis del documento",
+      "ambito_aplicacion": {
+        "original": "América Latina y el Caribe (33 países), con revisión país por país de marcos constitucionales, legales, institucionales y jurisprudenciales en materia de acceso a la información, participación y justicia ambiental",
+        "candidatos": [
+          {
+            "id": "regional",
+            "nombre": "Regional",
+            "aliases": [
+              "América Latina y el Caribe"
+            ]
+          },
+          {
+            "id": "subregional",
+            "nombre": "Subregional",
+            "aliases": [
+              "Caribe"
+            ]
+          },
+          {
+            "id": "nacional",
+            "nombre": "Nacional",
+            "aliases": [
+              "país"
+            ]
+          }
+        ],
+        "detalle_subnacional": [],
+        "requiere_revision": true,
+        "metodo": "alias_y_regla_multinivel"
+      },
+      "paises": [],
+      "subregiones": [
+        {
+          "id": "alc",
+          "nombre": "América Latina y el Caribe",
+          "aliases": [
+            "América Latina y el Caribe"
+          ]
+        },
+        {
+          "id": "caribe",
+          "nombre": "Caribe",
+          "aliases": [
+            "Caribe"
+          ]
+        }
+      ],
+      "sectores": {
+        "original": "Gobernanza ambiental transversal: acceso a la información pública y ambiental, registros de emisiones y contaminantes, evaluación de impacto ambiental y evaluación ambiental estratégica, participación pública y consulta a pueblos indígenas y afrodescendientes, acceso a la justicia ambiental (tribunales, fiscalías, defensorías) y prevención de conflictos socioambientales",
+        "candidatos": []
+      },
+      "organizaciones": [
+        {
+          "id": "cepal",
+          "nombre": "CEPAL",
+          "aliases": [
+            "CEPAL"
+          ]
+        },
+        {
+          "id": "ocde",
+          "nombre": "OCDE",
+          "aliases": [
+            "OCDE"
+          ]
+        }
+      ],
+      "trazabilidad": {
+        "fuente": "fase2_json_canonico",
+        "nivel": "documento",
+        "estado": "candidato_no_adjudicado"
+      }
+    },
+    {
+      "documento_id": "https://hdl.handle.net/11362/67989",
+      "handle": "https://hdl.handle.net/11362/67989",
+      "ruta_json": "fase2/pilot/doc17_estudio_economico_2023.json",
+      "sha256_json": "0cb2166e8714ca69ade4d90009507669c6ceac47587c389379229465c33337be",
+      "titulo": "Estudio Económico de América Latina y el Caribe 2023. El financiamiento de una transición sostenible: inversión para crecer y enfrentar el cambio climático",
+      "fecha": "2023",
+      "autoria": {
+        "original": "Documento institucional coordinado por Daniel Titelman, Director de la División de Desarrollo Económico de la CEPAL (Parte I, junto con Ramón Pineda Salazar; Parte II, junto con Noel Pérez Benítez para los capítulos II y III, y con Christine Carton como autora del capítulo IV), con la colaboración de un amplio equipo de la División de Desarrollo Económico, la División de Estadísticas, la División de Comercio Internacional e Integración y las sedes subregionales y oficinas nacionales de la CEPAL (créditos completos en p.4).",
+        "candidatos": [
+          "Documento institucional coordinado por Daniel Titelman",
+          "Director de la División de Desarrollo Económico de la CEPAL (Parte I",
+          "junto con Ramón Pineda Salazar",
+          "Parte II",
+          "junto con Noel Pérez Benítez para los capítulos II",
+          "III",
+          "y con Christine Carton como autora del capítulo IV)",
+          "con la colaboración de un amplio equipo de la División de Desarrollo Económico",
+          "la División de Estadísticas",
+          "la División de Comercio Internacional",
+          "Integración",
+          "las sedes subregionales",
+          "oficinas nacionales de la CEPAL (créditos completos en p.4)"
+        ],
+        "requiere_revision": true,
+        "metodo": "delimitadores_conservadores"
+      },
+      "tipo_documento": {
+        "original": "Informe insignia anual de la CEPAL (Estudio Económico de América Latina y el Caribe, 75ª edición), con una monografía especial de tres capítulos sobre financiamiento climático en su segunda parte — es un híbrido entre el panorama macroeconómico regional estándar de la serie y un análisis climático-fiscal especializado.",
+        "candidatos": [
+          {
+            "id": "informe_insignia_panorama",
+            "nombre": "Informe insignia o Panorama",
+            "aliases": [
+              "override explícito de muestra"
+            ]
+          }
+        ]
+      },
+      "ambito_aplicacion_original": "América Latina y el Caribe en su conjunto (33 países) para el panorama macroeconómico general de la Parte I y para los capítulos III y IV de la Parte II (financiamiento y banca central); un grupo de seis países de Centroamérica y el Caribe especialmente vulnerables —Barbados, El Salvador, Guatemala, Honduras, República Dominicana y Santa Lucía— para el modelo de crecimiento y sostenibilidad de la deuda del capítulo II (p.153).",
+      "referentes_dependencias_original": "Estados Unidos, la Unión Europea y China como socios comerciales y como origen de shocks financieros externos (política monetaria de la Reserva Federal, crisis bancaria de marzo de 2023); las economías emergentes y en desarrollo de Asia y las economías avanzadas de la OCDE como puntos de comparación en inversión pública (11,7% y 3,5% del PIB frente al 2,8% de la región, p.196-197), presión tributaria (34,1% del PIB en la OCDE frente al 21,7% regional, p.204) y tasas de interés efectivas de la deuda (2,8% en Asia emergente y 1,4% en economías avanzadas frente a promedios regionales muy superiores, p.201); la Unión Europea (Banco Central Europeo, taxonomía verde de la UE) como referente metodológico para las taxonomías verdes e iniciativas de banca central de la región.",
+      "ambito_aplicacion": {
+        "original": "América Latina y el Caribe en su conjunto (33 países) para el panorama macroeconómico general de la Parte I y para los capítulos III y IV de la Parte II (financiamiento y banca central); un grupo de seis países de Centroamérica y el Caribe especialmente vulnerables —Barbados, El Salvador, Guatemala, Honduras, República Dominicana y Santa Lucía— para el modelo de crecimiento y sostenibilidad de la deuda del capítulo II (p.153).",
+        "candidatos": [
+          {
+            "id": "regional",
+            "nombre": "Regional",
+            "aliases": [
+              "América Latina y el Caribe"
+            ]
+          },
+          {
+            "id": "subregional",
+            "nombre": "Subregional",
+            "aliases": [
+              "Centroamérica",
+              "Caribe"
+            ]
+          }
+        ],
+        "detalle_subnacional": [],
+        "requiere_revision": true,
+        "metodo": "alias_y_regla_multinivel"
+      },
+      "paises": [
+        {
+          "id": "barbados",
+          "nombre": "Barbados",
+          "aliases": [
+            "Barbados"
+          ]
+        },
+        {
+          "id": "el_salvador",
+          "nombre": "El Salvador",
+          "aliases": [
+            "El Salvador"
+          ]
+        },
+        {
+          "id": "guatemala",
+          "nombre": "Guatemala",
+          "aliases": [
+            "Guatemala"
+          ]
+        },
+        {
+          "id": "honduras",
+          "nombre": "Honduras",
+          "aliases": [
+            "Honduras"
+          ]
+        },
+        {
+          "id": "republica_dominicana",
+          "nombre": "República Dominicana",
+          "aliases": [
+            "República Dominicana"
+          ]
+        },
+        {
+          "id": "santa_lucia",
+          "nombre": "Santa Lucía",
+          "aliases": [
+            "Santa Lucía"
+          ]
+        }
+      ],
+      "subregiones": [
+        {
+          "id": "alc",
+          "nombre": "América Latina y el Caribe",
+          "aliases": [
+            "América Latina y el Caribe"
+          ]
+        },
+        {
+          "id": "centroamerica",
+          "nombre": "Centroamérica",
+          "aliases": [
+            "Centroamérica"
+          ]
+        },
+        {
+          "id": "caribe",
+          "nombre": "Caribe",
+          "aliases": [
+            "Caribe"
+          ]
+        }
+      ],
+      "sectores": {
+        "original": "Panorama macroeconómico regional completo (contexto internacional, liquidez global, sector externo, desempeño interno, política fiscal y monetaria) en la Parte I; en la Parte II: estructuras económicas vulnerables al clima (agricultura, turismo), inversión pública y privada, sostenibilidad de la deuda pública, tributación ambiental, mercados de capitales y bonos temáticos, cooperación internacional para el desarrollo, mecanismos de alivio de deuda climática, y el papel de los bancos centrales y supervisores financieros en la gestión de riesgos climáticos y el escalamiento de finanzas sostenibles.",
+        "candidatos": [
+          {
+            "id": "agricultura",
+            "nombre": "Agricultura",
+            "aliases": [
+              "agricultura"
+            ]
+          },
+          {
+            "id": "finanzas",
+            "nombre": "Finanzas y financiamiento",
+            "aliases": [
+              "inversión",
+              "finanzas",
+              "bonos"
+            ]
+          }
+        ]
+      },
+      "organizaciones": [
+        {
+          "id": "ocde",
+          "nombre": "OCDE",
+          "aliases": [
+            "OCDE"
+          ]
+        }
+      ],
+      "trazabilidad": {
+        "fuente": "fase2_json_canonico",
+        "nivel": "documento",
+        "estado": "candidato_no_adjudicado"
+      }
+    },
+    {
+      "documento_id": "https://hdl.handle.net/11362/69031",
+      "handle": "https://hdl.handle.net/11362/69031",
+      "ruta_json": "fase2/pilot/doc18_financiamiento_transicion.json",
+      "sha256_json": "d6a698a0109feea9be487642898661e11454fa91bc49d8def9c5f088c40a567c",
+      "titulo": "La economía del cambio climático en América Latina y el Caribe, 2023: necesidades de financiamiento y herramientas de política para la transición hacia economías con bajas emisiones de carbono y resilientes al cambio climático",
+      "fecha": "2024",
+      "autoria": {
+        "original": "Carlos de Miguel, Santiago Lorenzo, José Javier Gómez, José Eduardo Alatorre y Jimy Ferrer (funcionarios de la Unidad de Cambio Climático, División de Desarrollo Sostenible y Asentamientos Humanos de la CEPAL), y Lucía Rezza e Ignacio Fernández (consultores de la misma División)",
+        "candidatos": [
+          "Carlos de Miguel",
+          "Santiago Lorenzo",
+          "José Javier Gómez",
+          "José Eduardo Alatorre",
+          "Jimy Ferrer (funcionarios de la Unidad de Cambio Climático",
+          "División de Desarrollo Sostenible",
+          "Asentamientos Humanos de la CEPAL)",
+          "y Lucía Rezza",
+          "Ignacio Fernández (consultores de la misma División)"
+        ],
+        "requiere_revision": true,
+        "metodo": "delimitadores_conservadores"
+      },
+      "tipo_documento": {
+        "original": "Documento técnico institucional — serie La economía del cambio climático en América Latina y el Caribe (CEPAL), elaborado en el marco del programa EUROCLIMA+ con apoyo de la Unión Europea",
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "Documento técnico institucional"
+            ]
+          }
+        ]
+      },
+      "ambito_aplicacion_original": "América Latina y el Caribe (33 países), con desagregación por país en cuadros y gráficos de emisiones, CDN, autobuses eléctricos e impuestos al carbono (p.20-25, 35-38, 54-58)",
+      "referentes_dependencias_original": "Estados Unidos, China, India y la República de Corea (comparación de tasas de inversión sobre PIB, p.28); Países Bajos (estándar de protección frente a inundaciones costeras adoptado como referencia de diseño, p.41); y un grupo de países de la OCDE (Reino Unido, Francia, Alemania, Noruega, Finlandia, Dinamarca, Canadá, Australia, Japón, Suecia, Países Bajos) citados como comparación de estimaciones nacionales del precio social del carbono (p.58) — citados como referentes de metodología o de escala, no como sujeto de análisis del documento",
+      "ambito_aplicacion": {
+        "original": "América Latina y el Caribe (33 países), con desagregación por país en cuadros y gráficos de emisiones, CDN, autobuses eléctricos e impuestos al carbono (p.20-25, 35-38, 54-58)",
+        "candidatos": [
+          {
+            "id": "regional",
+            "nombre": "Regional",
+            "aliases": [
+              "América Latina y el Caribe"
+            ]
+          },
+          {
+            "id": "subregional",
+            "nombre": "Subregional",
+            "aliases": [
+              "Caribe"
+            ]
+          },
+          {
+            "id": "nacional",
+            "nombre": "Nacional",
+            "aliases": [
+              "país"
+            ]
+          }
+        ],
+        "detalle_subnacional": [],
+        "requiere_revision": true,
+        "metodo": "alias_y_regla_multinivel"
+      },
+      "paises": [],
+      "subregiones": [
+        {
+          "id": "alc",
+          "nombre": "América Latina y el Caribe",
+          "aliases": [
+            "América Latina y el Caribe"
+          ]
+        },
+        {
+          "id": "caribe",
+          "nombre": "Caribe",
+          "aliases": [
+            "Caribe"
+          ]
+        }
+      ],
+      "sectores": {
+        "original": "Economía del cambio climático en su conjunto: sistema energético, transporte, agricultura y deforestación, biodiversidad, agua y saneamiento, infraestructura de adaptación, sistema y regulación financiera",
+        "candidatos": [
+          {
+            "id": "agricultura",
+            "nombre": "Agricultura",
+            "aliases": [
+              "agricultura"
+            ]
+          },
+          {
+            "id": "agua",
+            "nombre": "Agua y recursos hídricos",
+            "aliases": [
+              "saneamiento",
+              "agua"
+            ]
+          },
+          {
+            "id": "energia",
+            "nombre": "Energía",
+            "aliases": [
+              "energético"
+            ]
+          },
+          {
+            "id": "transporte",
+            "nombre": "Transporte",
+            "aliases": [
+              "transporte"
+            ]
+          },
+          {
+            "id": "ecosistemas",
+            "nombre": "Ecosistemas y biodiversidad",
+            "aliases": [
+              "biodiversidad"
+            ]
+          }
+        ]
+      },
+      "organizaciones": [
+        {
+          "id": "ocde",
+          "nombre": "OCDE",
+          "aliases": [
+            "OCDE"
+          ]
+        }
+      ],
+      "trazabilidad": {
+        "fuente": "fase2_json_canonico",
+        "nivel": "documento",
+        "estado": "candidato_no_adjudicado"
+      }
+    },
+    {
+      "documento_id": "https://hdl.handle.net/11362/69075",
+      "handle": "https://hdl.handle.net/11362/69075",
+      "ruta_json": "fase2/pilot/doc19_gestion_publica.json",
+      "sha256_json": "dab202c304f29f7a75faf4acc6e378cd383c1dfb915fd0db0df08a242980eb9a",
+      "titulo": "Panorama de la Gestión Pública en América Latina y el Caribe, 2023: un Estado preparado para la acción climática",
+      "fecha": "2024",
+      "autoria": {
+        "original": "Dante Arenas, Alejandra Naser, Verona Fideleff y Paulina Pizarro (ILPES/CEPAL); Marianela Armijo, Juan Pablo Mottola y María José Beck (consultores del ILPES); bajo la supervisión de Cielo Morales (ILPES/CEPAL) y la coordinación de Valeria Torres y Annie Dufey (ILPES/CEPAL)",
+        "candidatos": [
+          "Dante Arenas",
+          "Alejandra Naser",
+          "Verona Fideleff",
+          "Paulina Pizarro (ILPES/CEPAL)",
+          "Marianela Armijo",
+          "Juan Pablo Mottola",
+          "María José Beck (consultores del ILPES)",
+          "bajo la supervisión de Cielo Morales (ILPES/CEPAL)",
+          "la coordinación de Valeria Torres",
+          "Annie Dufey (ILPES/CEPAL)"
+        ],
+        "requiere_revision": true,
+        "metodo": "delimitadores_conservadores"
+      },
+      "tipo_documento": {
+        "original": "Informe institucional periódico de la serie Panorama de la Gestión Pública en América Latina y el Caribe (CEPAL/ILPES)",
+        "candidatos": [
+          {
+            "id": "informe_insignia_panorama",
+            "nombre": "Informe insignia o Panorama",
+            "aliases": [
+              "Panorama"
+            ]
+          }
+        ]
+      },
+      "ambito_aplicacion_original": "Los 33 países de América Latina y el Caribe, con análisis comparado de instrumentos, marcos legales e institucionalidad de sus administraciones públicas nacionales (planificación, hacienda/presupuesto, inversión pública, monitoreo y evaluación, servicio civil, compras públicas) y, en menor medida, ejemplos subnacionales (por ejemplo, gobiernos locales miembros de la Alianza para el Gobierno Abierto o el estado de Guanajuato en México).",
+      "referentes_dependencias_original": "Se usan como referentes comparativos la OCDE (presupuesto verde, panorama de administraciones públicas, índice de gobierno electrónico), la Unión Europea, y experiencias puntuales extrarregionales citadas como modelo (Nueva Zelandia —Presupuesto del Bienestar—, Reino Unido —costo de mitigación para el precio social del carbono—, Estados Unidos —costo social del carbono del IWG—, República de Corea —sistema e-Saram de gestión de recursos humanos adoptado por Uruguay—).",
+      "ambito_aplicacion": {
+        "original": "Los 33 países de América Latina y el Caribe, con análisis comparado de instrumentos, marcos legales e institucionalidad de sus administraciones públicas nacionales (planificación, hacienda/presupuesto, inversión pública, monitoreo y evaluación, servicio civil, compras públicas) y, en menor medida, ejemplos subnacionales (por ejemplo, gobiernos locales miembros de la Alianza para el Gobierno Abierto o el estado de Guanajuato en México).",
+        "candidatos": [
+          {
+            "id": "regional",
+            "nombre": "Regional",
+            "aliases": [
+              "América Latina y el Caribe"
+            ]
+          },
+          {
+            "id": "subregional",
+            "nombre": "Subregional",
+            "aliases": [
+              "Caribe"
+            ]
+          }
+        ],
+        "detalle_subnacional": [],
+        "requiere_revision": true,
+        "metodo": "alias_y_regla_multinivel"
+      },
+      "paises": [
+        {
+          "id": "mexico",
+          "nombre": "México",
+          "aliases": [
+            "México"
+          ]
+        }
+      ],
+      "subregiones": [
+        {
+          "id": "alc",
+          "nombre": "América Latina y el Caribe",
+          "aliases": [
+            "América Latina y el Caribe"
+          ]
+        },
+        {
+          "id": "caribe",
+          "nombre": "Caribe",
+          "aliases": [
+            "Caribe"
+          ]
+        }
+      ],
+      "sectores": {
+        "original": "Gestión pública transversal a todos los sectores de gobierno: planificación para el desarrollo, presupuestación pública, gestión de la inversión pública, sistemas de monitoreo y evaluación de políticas, y modernización del Estado (gobierno abierto, gobierno digital, servicio civil, compras públicas sostenibles), analizados en cada caso bajo el lente de la mitigación y adaptación al cambio climático y la gestión del riesgo de desastres.",
+        "candidatos": [
+          {
+            "id": "finanzas",
+            "nombre": "Finanzas y financiamiento",
+            "aliases": [
+              "inversión"
+            ]
+          }
+        ]
+      },
+      "organizaciones": [
+        {
+          "id": "ocde",
+          "nombre": "OCDE",
+          "aliases": [
+            "OCDE"
+          ]
+        }
+      ],
+      "trazabilidad": {
+        "fuente": "fase2_json_canonico",
+        "nivel": "documento",
+        "estado": "candidato_no_adjudicado"
+      }
+    },
+    {
+      "documento_id": "https://hdl.handle.net/11362/37791",
+      "handle": "https://hdl.handle.net/11362/37791",
+      "ruta_json": "fase2/corpus/resultados/json/doc_37791.json",
+      "sha256_json": "36418d9ba81d451dba1c54329e4262db01f5ef151853b4614d42aae2ed1cb390",
+      "titulo": "El desafío de la sostenibilidad ambiental en América Latina y el Caribe. Textos seleccionados 2012-2014",
+      "fecha": "2015-01-01",
+      "autoria": {
+        "original": "Carlos de Miguel • Marcia Tavares (compiladores)",
+        "candidatos": [
+          "Carlos de Miguel",
+          "Marcia Tavares (compiladores)"
+        ],
+        "requiere_revision": true,
+        "metodo": "delimitadores_conservadores"
+      },
+      "tipo_documento": {
+        "original": "Compilación de textos seleccionados",
+        "candidatos": [
+          {
+            "id": "compilacion",
+            "nombre": "Compilación",
+            "aliases": [
+              "Compilación de textos seleccionados",
+              "compilación"
+            ]
+          }
+        ]
+      },
+      "ambito_aplicacion_original": "América Latina y el Caribe",
+      "referentes_dependencias_original": "Naciones Unidas (como origen de la agenda post-2015 y Rio+20); PNUMA (p.43, por su estudio sobre desarrollo sostenible y igualdad); OMS (p.66, por su estimado de muertes por contaminación atmosférica); IPCC (p.122, por los escenarios de ascenso del nivel del mar AR4); IEA/IRENA (como marcos técnicos para el brief de energía limpia); Banco Mundial (como fuente de datos sobre finanzas públicas)",
+      "ambito_aplicacion": {
+        "original": "América Latina y el Caribe",
+        "candidatos": [
+          {
+            "id": "regional",
+            "nombre": "Regional",
+            "aliases": [
+              "América Latina y el Caribe"
+            ]
+          },
+          {
+            "id": "subregional",
+            "nombre": "Subregional",
+            "aliases": [
+              "Caribe"
+            ]
+          }
+        ],
+        "detalle_subnacional": [],
+        "requiere_revision": true,
+        "metodo": "alias_y_regla_multinivel"
+      },
+      "paises": [],
+      "subregiones": [
+        {
+          "id": "alc",
+          "nombre": "América Latina y el Caribe",
+          "aliases": [
+            "América Latina y el Caribe"
+          ]
+        },
+        {
+          "id": "caribe",
+          "nombre": "Caribe",
+          "aliases": [
+            "Caribe"
+          ]
+        }
+      ],
+      "sectores": {
+        "original": "Multisectorial: energía, transporte, tributación, comercio, gobernanza ambiental, urbanismo",
+        "candidatos": [
+          {
+            "id": "energia",
+            "nombre": "Energía",
+            "aliases": [
+              "energía"
+            ]
+          },
+          {
+            "id": "transporte",
+            "nombre": "Transporte",
+            "aliases": [
+              "transporte"
+            ]
+          },
+          {
+            "id": "ciudades_vivienda",
+            "nombre": "Ciudades y vivienda",
+            "aliases": [
+              "urbanismo"
+            ]
+          },
+          {
+            "id": "comercio",
+            "nombre": "Comercio",
+            "aliases": [
+              "comercio"
+            ]
+          }
+        ]
+      },
+      "organizaciones": [
+        {
+          "id": "ipcc",
+          "nombre": "IPCC",
+          "aliases": [
+            "IPCC"
+          ]
+        },
+        {
+          "id": "naciones_unidas",
+          "nombre": "Naciones Unidas",
+          "aliases": [
+            "Naciones Unidas"
+          ]
+        },
+        {
+          "id": "banco_mundial",
+          "nombre": "Banco Mundial",
+          "aliases": [
+            "Banco Mundial"
+          ]
+        }
+      ],
+      "trazabilidad": {
+        "fuente": "fase2_json_canonico",
+        "nivel": "documento",
+        "estado": "candidato_no_adjudicado"
+      }
+    },
+    {
+      "documento_id": "https://hdl.handle.net/11362/37879",
+      "handle": "https://hdl.handle.net/11362/37879",
+      "ruta_json": "fase2/corpus/resultados/json/doc_37879.json",
+      "sha256_json": "3e8a3914c6fe7df9ce3ff28d51799ed16982a1d9b14ebfc8dd4acb79218b3825",
+      "titulo": "Impactos económicos del cambio climático en Colombia. Síntesis",
+      "fecha": "2015",
+      "autoria": {
+        "original": null,
+        "candidatos": [],
+        "requiere_revision": false,
+        "metodo": null
+      },
+      "tipo_documento": {
+        "original": "Monografía / Síntesis de estudio de impactos económicos",
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "Monografía"
+            ]
+          }
+        ]
+      },
+      "ambito_aplicacion_original": "Colombia, con análisis a nivel nacional, sectorial y regional (cuencas del río Guavio, río Fraile y laguna de Fúquene)",
+      "referentes_dependencias_original": "BID (coautor y financiador), CEPAL (coautora técnica), IPCC (escenarios de emisiones), IDEAM (datos climáticos), WorldClim y MCG (modelos climáticos), FAO (datos pesqueros y forestales)",
+      "ambito_aplicacion": {
+        "original": "Colombia, con análisis a nivel nacional, sectorial y regional (cuencas del río Guavio, río Fraile y laguna de Fúquene)",
+        "candidatos": [
+          {
+            "id": "nacional",
+            "nombre": "Nacional",
+            "aliases": [
+              "a nivel nacional"
+            ]
+          },
+          {
+            "id": "multinivel",
+            "nombre": "Multinivel",
+            "aliases": [
+              "nacional, sectorial y regional"
+            ]
+          },
+          {
+            "id": "regional",
+            "nombre": "Regional",
+            "aliases": [
+              "inferencia: alcance regional"
+            ]
+          }
+        ],
+        "detalle_subnacional": [
+          "cuencas"
+        ],
+        "requiere_revision": true,
+        "metodo": "alias_y_regla_multinivel"
+      },
+      "paises": [
+        {
+          "id": "colombia",
+          "nombre": "Colombia",
+          "aliases": [
+            "Colombia"
+          ]
+        }
+      ],
+      "subregiones": [],
+      "sectores": {
+        "original": "Multisectorial: ganadería, agricultura, sector forestal, pesca, transporte, recurso hídrico, especies nativas de biocomercio",
+        "candidatos": [
+          {
+            "id": "agricultura",
+            "nombre": "Agricultura",
+            "aliases": [
+              "agricultura",
+              "ganadería",
+              "pesca"
+            ]
+          },
+          {
+            "id": "transporte",
+            "nombre": "Transporte",
+            "aliases": [
+              "transporte"
+            ]
+          },
+          {
+            "id": "ecosistemas",
+            "nombre": "Ecosistemas y biodiversidad",
+            "aliases": [
+              "forestal"
+            ]
+          }
+        ]
+      },
+      "organizaciones": [
+        {
+          "id": "cepal",
+          "nombre": "CEPAL",
+          "aliases": [
+            "CEPAL"
+          ]
+        },
+        {
+          "id": "bid",
+          "nombre": "BID",
+          "aliases": [
+            "BID"
+          ]
+        },
+        {
+          "id": "fao",
+          "nombre": "FAO",
+          "aliases": [
+            "FAO"
+          ]
+        },
+        {
+          "id": "ipcc",
+          "nombre": "IPCC",
+          "aliases": [
+            "IPCC"
+          ]
+        }
+      ],
+      "trazabilidad": {
+        "fuente": "fase2_json_canonico",
+        "nivel": "documento",
+        "estado": "candidato_no_adjudicado"
+      }
+    },
+    {
+      "documento_id": "https://hdl.handle.net/11362/37910",
+      "handle": "https://hdl.handle.net/11362/37910",
+      "ruta_json": "fase2/corpus/resultados/json/doc_37910.json",
+      "sha256_json": "62979e11dfd4d10b56ac9d31c338b1c3714f96ccea7c0402122d9532588cf26c",
+      "titulo": "Financiamiento para el cambio climático en América Latina en 2013",
+      "fecha": "2015-10",
+      "autoria": {
+        "original": "Joseluis Samaniego y Heloísa Schneider",
+        "candidatos": [
+          "Joseluis Samaniego",
+          "Heloísa Schneider"
+        ],
+        "requiere_revision": false,
+        "metodo": "delimitadores_conservadores"
+      },
+      "tipo_documento": {
+        "original": "Documento de proyecto o estudio técnico",
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "Documento de proyecto o estudio técnico",
+              "Documento de Proyecto",
+              "estudio técnico"
+            ]
+          }
+        ]
+      },
+      "ambito_aplicacion_original": "América Latina y el Caribe",
+      "referentes_dependencias_original": "Convención Marco de las Naciones Unidas sobre el Cambio Climático, Panel Intergubernamental de Expertos sobre el Cambio Climático, Organización para la Cooperación y el Desarrollo Económicos, Club Internacional de Financiamiento para el Desarrollo (IDFC), Heinrich-Böll Stiftung, Climate Funds Update, Bloomberg New Energy Finance y Foro Económico Mundial",
+      "ambito_aplicacion": {
+        "original": "América Latina y el Caribe",
+        "candidatos": [
+          {
+            "id": "regional",
+            "nombre": "Regional",
+            "aliases": [
+              "América Latina y el Caribe"
+            ]
+          },
+          {
+            "id": "subregional",
+            "nombre": "Subregional",
+            "aliases": [
+              "Caribe"
+            ]
+          }
+        ],
+        "detalle_subnacional": [],
+        "requiere_revision": true,
+        "metodo": "alias_y_regla_multinivel"
+      },
+      "paises": [],
+      "subregiones": [
+        {
+          "id": "alc",
+          "nombre": "América Latina y el Caribe",
+          "aliases": [
+            "América Latina y el Caribe"
+          ]
+        },
+        {
+          "id": "caribe",
+          "nombre": "Caribe",
+          "aliases": [
+            "Caribe"
+          ]
+        }
+      ],
+      "sectores": {
+        "original": "financiamiento climático, fondos climáticos específicos, bancos multilaterales de desarrollo, bancos públicos de desarrollo, banca privada, fondos de pensiones, energías renovables, eficiencia energética, mitigación y adaptación",
+        "candidatos": [
+          {
+            "id": "energia",
+            "nombre": "Energía",
+            "aliases": [
+              "energética"
+            ]
+          },
+          {
+            "id": "finanzas",
+            "nombre": "Finanzas y financiamiento",
+            "aliases": [
+              "financiamiento",
+              "banca"
+            ]
+          }
+        ]
+      },
+      "organizaciones": [
+        {
+          "id": "naciones_unidas",
+          "nombre": "Naciones Unidas",
+          "aliases": [
+            "Naciones Unidas"
+          ]
+        }
+      ],
+      "trazabilidad": {
+        "fuente": "fase2_json_canonico",
+        "nivel": "documento",
+        "estado": "candidato_no_adjudicado"
+      }
+    }
+  ]
+}

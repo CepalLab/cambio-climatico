@@ -8,9 +8,9 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 
-REPO_DIR = Path(__file__).resolve().parent.parent
+REPO_DIR = Path(__file__).resolve().parents[3]
 FASE2_DIR = REPO_DIR / "fase2"
-DEFAULT_OUTPUT = Path(__file__).resolve().parent / "inventario_corpus_v1.json"
+DEFAULT_OUTPUT = REPO_DIR / "fase3" / "00_control" / "inventario" / "inventario_corpus_v1.json"
 
 
 def normalize_handle(value: str) -> str:

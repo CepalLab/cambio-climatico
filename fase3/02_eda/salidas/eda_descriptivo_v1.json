@@ -1,0 +1,515 @@
+{
+  "version": "eda-descriptivo-v1",
+  "generado_en": "2026-08-24T21:44:49+00:00",
+  "fuente": "fase3_analitica_v1.sqlite",
+  "denominador": {
+    "documentos_activos": 238
+  },
+  "documentos_por_tipo": [
+    {
+      "tipo": "Estudio técnico",
+      "documentos": 101
+    },
+    {
+      "tipo": "Sin clasificar",
+      "documentos": 84
+    },
+    {
+      "tipo": "Informe",
+      "documentos": 19
+    },
+    {
+      "tipo": "Policy brief",
+      "documentos": 12
+    },
+    {
+      "tipo": "Informe insignia o Panorama",
+      "documentos": 9
+    },
+    {
+      "tipo": "Memoria de seminario",
+      "documentos": 6
+    },
+    {
+      "tipo": "Compilación",
+      "documentos": 5
+    },
+    {
+      "tipo": "Documento de trabajo",
+      "documentos": 1
+    },
+    {
+      "tipo": "Informe estratégico",
+      "documentos": 1
+    }
+  ],
+  "dimensiones": [
+    {
+      "dimension": "propuestas_politica",
+      "citas": 1971
+    },
+    {
+      "dimension": "estado_de_situacion",
+      "citas": 1655
+    },
+    {
+      "dimension": "diagnostico_estructural",
+      "citas": 1203
+    },
+    {
+      "dimension": "desafios",
+      "citas": 719
+    },
+    {
+      "dimension": "avances_implementacion",
+      "citas": 684
+    },
+    {
+      "dimension": "oportunidades",
+      "citas": 553
+    },
+    {
+      "dimension": "brechas_implementacion",
+      "citas": 526
+    },
+    {
+      "dimension": "tendencias",
+      "citas": 512
+    },
+    {
+      "dimension": "contexto_antecedentes",
+      "citas": 506
+    }
+  ],
+  "transformaciones_primarias": [
+    {
+      "transformacion": "Sostenibilidad ambiental",
+      "documentos": 132
+    },
+    {
+      "transformacion": "Capacidades del Estado",
+      "documentos": 59
+    },
+    {
+      "transformacion": "Macroeconomía y fiscalidad",
+      "documentos": 20
+    },
+    {
+      "transformacion": "Igualdad de género",
+      "documentos": 8
+    },
+    {
+      "transformacion": "Reducción de la desigualdad",
+      "documentos": 7
+    },
+    {
+      "transformacion": "Desarrollo productivo",
+      "documentos": 6
+    },
+    {
+      "transformacion": "Integración económica",
+      "documentos": 6
+    }
+  ],
+  "transformaciones_secundarias": [
+    {
+      "transformacion": "Sostenibilidad ambiental",
+      "documentos": 102
+    },
+    {
+      "transformacion": "Capacidades del Estado",
+      "documentos": 91
+    },
+    {
+      "transformacion": "Desarrollo productivo",
+      "documentos": 20
+    },
+    {
+      "transformacion": "Macroeconomía y fiscalidad",
+      "documentos": 18
+    },
+    {
+      "transformacion": "Reducción de la desigualdad",
+      "documentos": 3
+    },
+    {
+      "transformacion": "Igualdad de género",
+      "documentos": 2
+    },
+    {
+      "transformacion": "Educación y formación profesional",
+      "documentos": 1
+    },
+    {
+      "transformacion": "Integración económica",
+      "documentos": 1
+    }
+  ],
+  "paises": [
+    {
+      "pais": "México",
+      "documentos": 59,
+      "relaciones": 59
+    },
+    {
+      "pais": "Chile",
+      "documentos": 54,
+      "relaciones": 54
+    },
+    {
+      "pais": "Brasil",
+      "documentos": 50,
+      "relaciones": 50
+    },
+    {
+      "pais": "Costa Rica",
+      "documentos": 48,
+      "relaciones": 48
+    },
+    {
+      "pais": "Colombia",
+      "documentos": 45,
+      "relaciones": 45
+    },
+    {
+      "pais": "República Dominicana",
+      "documentos": 45,
+      "relaciones": 45
+    },
+    {
+      "pais": "Honduras",
+      "documentos": 42,
+      "relaciones": 42
+    },
+    {
+      "pais": "Argentina",
+      "documentos": 41,
+      "relaciones": 41
+    },
+    {
+      "pais": "Perú",
+      "documentos": 40,
+      "relaciones": 40
+    },
+    {
+      "pais": "Ecuador",
+      "documentos": 37,
+      "relaciones": 37
+    },
+    {
+      "pais": "Guatemala",
+      "documentos": 37,
+      "relaciones": 37
+    },
+    {
+      "pais": "Panamá",
+      "documentos": 34,
+      "relaciones": 34
+    },
+    {
+      "pais": "Nicaragua",
+      "documentos": 32,
+      "relaciones": 32
+    },
+    {
+      "pais": "Uruguay",
+      "documentos": 32,
+      "relaciones": 32
+    },
+    {
+      "pais": "El Salvador",
+      "documentos": 30,
+      "relaciones": 30
+    },
+    {
+      "pais": "Bolivia (Estado Plurinacional de)",
+      "documentos": 24,
+      "relaciones": 24
+    },
+    {
+      "pais": "Belice",
+      "documentos": 19,
+      "relaciones": 19
+    },
+    {
+      "pais": "Paraguay",
+      "documentos": 18,
+      "relaciones": 18
+    },
+    {
+      "pais": "Cuba",
+      "documentos": 17,
+      "relaciones": 17
+    },
+    {
+      "pais": "Barbados",
+      "documentos": 14,
+      "relaciones": 14
+    },
+    {
+      "pais": "Guyana",
+      "documentos": 14,
+      "relaciones": 14
+    },
+    {
+      "pais": "Venezuela (República Bolivariana de)",
+      "documentos": 14,
+      "relaciones": 14
+    },
+    {
+      "pais": "Bahamas",
+      "documentos": 13,
+      "relaciones": 13
+    },
+    {
+      "pais": "Jamaica",
+      "documentos": 13,
+      "relaciones": 13
+    },
+    {
+      "pais": "Santa Lucía",
+      "documentos": 12,
+      "relaciones": 12
+    },
+    {
+      "pais": "Haití",
+      "documentos": 10,
+      "relaciones": 10
+    },
+    {
+      "pais": "Antigua y Barbuda",
+      "documentos": 8,
+      "relaciones": 8
+    },
+    {
+      "pais": "Granada",
+      "documentos": 7,
+      "relaciones": 7
+    },
+    {
+      "pais": "Dominica",
+      "documentos": 6,
+      "relaciones": 6
+    },
+    {
+      "pais": "Suriname",
+      "documentos": 6,
+      "relaciones": 6
+    },
+    {
+      "pais": "Saint Kitts y Nevis",
+      "documentos": 5,
+      "relaciones": 5
+    },
+    {
+      "pais": "San Vicente y las Granadinas",
+      "documentos": 5,
+      "relaciones": 5
+    },
+    {
+      "pais": "Trinidad y Tabago",
+      "documentos": 5,
+      "relaciones": 5
+    }
+  ],
+  "sectores": [
+    {
+      "sector": "Energía",
+      "documentos": 133,
+      "relaciones": 133
+    },
+    {
+      "sector": "Agricultura",
+      "documentos": 117,
+      "relaciones": 117
+    },
+    {
+      "sector": "Transporte",
+      "documentos": 100,
+      "relaciones": 100
+    },
+    {
+      "sector": "Agua y recursos hídricos",
+      "documentos": 83,
+      "relaciones": 83
+    },
+    {
+      "sector": "Ecosistemas y biodiversidad",
+      "documentos": 74,
+      "relaciones": 74
+    },
+    {
+      "sector": "Finanzas y financiamiento",
+      "documentos": 70,
+      "relaciones": 70
+    },
+    {
+      "sector": "Salud",
+      "documentos": 60,
+      "relaciones": 60
+    },
+    {
+      "sector": "Ciudades y vivienda",
+      "documentos": 34,
+      "relaciones": 34
+    },
+    {
+      "sector": "Industria",
+      "documentos": 32,
+      "relaciones": 32
+    },
+    {
+      "sector": "Protección social",
+      "documentos": 32,
+      "relaciones": 32
+    },
+    {
+      "sector": "Comercio",
+      "documentos": 26,
+      "relaciones": 26
+    },
+    {
+      "sector": "Empleo",
+      "documentos": 26,
+      "relaciones": 26
+    }
+  ],
+  "subregiones": [
+    {
+      "subregion": "Caribe",
+      "documentos": 144
+    },
+    {
+      "subregion": "América Latina y el Caribe",
+      "documentos": 119
+    },
+    {
+      "subregion": "Centroamérica",
+      "documentos": 36
+    },
+    {
+      "subregion": "Región Andina",
+      "documentos": 3
+    },
+    {
+      "subregion": "Cono Sur",
+      "documentos": 1
+    }
+  ],
+  "interpelacion": [
+    {
+      "criterio": "articulacion_actores",
+      "veredicto": "Sí",
+      "documentos": 139
+    },
+    {
+      "criterio": "articulacion_actores",
+      "veredicto": "Parcial",
+      "documentos": 57
+    },
+    {
+      "criterio": "articulacion_actores",
+      "veredicto": "No",
+      "documentos": 42
+    },
+    {
+      "criterio": "como_hacerlo_concreto",
+      "veredicto": "Sí",
+      "documentos": 116
+    },
+    {
+      "criterio": "como_hacerlo_concreto",
+      "veredicto": "No",
+      "documentos": 65
+    },
+    {
+      "criterio": "como_hacerlo_concreto",
+      "veredicto": "Parcial",
+      "documentos": 57
+    },
+    {
+      "criterio": "gran_impulso_ambiental_concreto",
+      "veredicto": "Parcial",
+      "documentos": 107
+    },
+    {
+      "criterio": "gran_impulso_ambiental_concreto",
+      "veredicto": "No",
+      "documentos": 68
+    },
+    {
+      "criterio": "gran_impulso_ambiental_concreto",
+      "veredicto": "Sí",
+      "documentos": 63
+    },
+    {
+      "criterio": "oportunidades_productivas_sostenibles",
+      "veredicto": "Sí",
+      "documentos": 108
+    },
+    {
+      "criterio": "oportunidades_productivas_sostenibles",
+      "veredicto": "Parcial",
+      "documentos": 78
+    },
+    {
+      "criterio": "oportunidades_productivas_sostenibles",
+      "veredicto": "No",
+      "documentos": 52
+    }
+  ],
+  "documentos_por_anio": [
+    {
+      "anio": "2014",
+      "documentos": 1
+    },
+    {
+      "anio": "2015",
+      "documentos": 30
+    },
+    {
+      "anio": "2016",
+      "documentos": 12
+    },
+    {
+      "anio": "2017",
+      "documentos": 35
+    },
+    {
+      "anio": "2018",
+      "documentos": 20
+    },
+    {
+      "anio": "2019",
+      "documentos": 13
+    },
+    {
+      "anio": "2020",
+      "documentos": 17
+    },
+    {
+      "anio": "2021",
+      "documentos": 15
+    },
+    {
+      "anio": "2022",
+      "documentos": 26
+    },
+    {
+      "anio": "2023",
+      "documentos": 23
+    },
+    {
+      "anio": "2024",
+      "documentos": 19
+    },
+    {
+      "anio": "2025",
+      "documentos": 15
+    },
+    {
+      "anio": "2026",
+      "documentos": 6
+    }
+  ]
+}

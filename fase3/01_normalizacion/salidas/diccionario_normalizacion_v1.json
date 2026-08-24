@@ -1,0 +1,93 @@
+{
+  "version": "diccionario-normalizacion-v1",
+  "paises": [
+    {"id": "antigua_barbuda", "nombre": "Antigua y Barbuda", "iso3": "ATG", "alias": ["Antigua y Barbuda", "Antigua and Barbuda"]},
+    {"id": "argentina", "nombre": "Argentina", "iso3": "ARG", "alias": ["Argentina"]},
+    {"id": "bahamas", "nombre": "Bahamas", "iso3": "BHS", "alias": ["Bahamas", "The Bahamas"]},
+    {"id": "barbados", "nombre": "Barbados", "iso3": "BRB", "alias": ["Barbados"]},
+    {"id": "belice", "nombre": "Belice", "iso3": "BLZ", "alias": ["Belice", "Belize"]},
+    {"id": "bolivia", "nombre": "Bolivia (Estado Plurinacional de)", "iso3": "BOL", "alias": ["Bolivia", "Estado Plurinacional de Bolivia", "Bolivia (Estado Plurinacional de)"]},
+    {"id": "brasil", "nombre": "Brasil", "iso3": "BRA", "alias": ["Brasil", "Brazil"]},
+    {"id": "chile", "nombre": "Chile", "iso3": "CHL", "alias": ["Chile"]},
+    {"id": "colombia", "nombre": "Colombia", "iso3": "COL", "alias": ["Colombia"]},
+    {"id": "costa_rica", "nombre": "Costa Rica", "iso3": "CRI", "alias": ["Costa Rica"]},
+    {"id": "cuba", "nombre": "Cuba", "iso3": "CUB", "alias": ["Cuba"]},
+    {"id": "dominica", "nombre": "Dominica", "iso3": "DMA", "alias": ["Dominica"]},
+    {"id": "ecuador", "nombre": "Ecuador", "iso3": "ECU", "alias": ["Ecuador"]},
+    {"id": "el_salvador", "nombre": "El Salvador", "iso3": "SLV", "alias": ["El Salvador"]},
+    {"id": "granada", "nombre": "Granada", "iso3": "GRD", "alias": ["Granada", "Grenada"]},
+    {"id": "guatemala", "nombre": "Guatemala", "iso3": "GTM", "alias": ["Guatemala"]},
+    {"id": "guyana", "nombre": "Guyana", "iso3": "GUY", "alias": ["Guyana"]},
+    {"id": "haiti", "nombre": "Haití", "iso3": "HTI", "alias": ["Haití", "Haiti"]},
+    {"id": "honduras", "nombre": "Honduras", "iso3": "HND", "alias": ["Honduras"]},
+    {"id": "jamaica", "nombre": "Jamaica", "iso3": "JAM", "alias": ["Jamaica"]},
+    {"id": "mexico", "nombre": "México", "iso3": "MEX", "alias": ["México", "Mexico"]},
+    {"id": "nicaragua", "nombre": "Nicaragua", "iso3": "NIC", "alias": ["Nicaragua"]},
+    {"id": "panama", "nombre": "Panamá", "iso3": "PAN", "alias": ["Panamá", "Panama"]},
+    {"id": "paraguay", "nombre": "Paraguay", "iso3": "PRY", "alias": ["Paraguay"]},
+    {"id": "peru", "nombre": "Perú", "iso3": "PER", "alias": ["Perú", "Peru"]},
+    {"id": "republica_dominicana", "nombre": "República Dominicana", "iso3": "DOM", "alias": ["República Dominicana", "Dominican Republic"]},
+    {"id": "san_cristobal_nieves", "nombre": "Saint Kitts y Nevis", "iso3": "KNA", "alias": ["Saint Kitts y Nevis", "Saint Kitts and Nevis"]},
+    {"id": "santa_lucia", "nombre": "Santa Lucía", "iso3": "LCA", "alias": ["Santa Lucía", "Saint Lucia"]},
+    {"id": "san_vicente_granadinas", "nombre": "San Vicente y las Granadinas", "iso3": "VCT", "alias": ["San Vicente y las Granadinas", "Saint Vincent and the Grenadines"]},
+    {"id": "suriname", "nombre": "Suriname", "iso3": "SUR", "alias": ["Suriname"]},
+    {"id": "trinidad_tobago", "nombre": "Trinidad y Tabago", "iso3": "TTO", "alias": ["Trinidad y Tabago", "Trinidad and Tobago"]},
+    {"id": "uruguay", "nombre": "Uruguay", "iso3": "URY", "alias": ["Uruguay"]},
+    {"id": "venezuela", "nombre": "Venezuela (República Bolivariana de)", "iso3": "VEN", "alias": ["Venezuela", "República Bolivariana de Venezuela"]}
+  ],
+  "subregiones": [
+    {"id": "alc", "nombre": "América Latina y el Caribe", "alias": ["América Latina y el Caribe", "Latin America and the Caribbean", "ALC"]},
+    {"id": "centroamerica", "nombre": "Centroamérica", "alias": ["Centroamérica", "Central America"]},
+    {"id": "caribe", "nombre": "Caribe", "alias": ["Caribe", "Caribbean"]},
+    {"id": "cono_sur", "nombre": "Cono Sur", "alias": ["Cono Sur", "Southern Cone"]},
+    {"id": "region_andina", "nombre": "Región Andina", "alias": ["Región Andina", "Andean Region"]}
+  ],
+  "niveles_aplicacion": [
+    {"id": "regional", "nombre": "Regional", "alias": ["América Latina y el Caribe", "Latin America and the Caribbean", "ALC"]},
+    {"id": "subregional", "nombre": "Subregional", "alias": ["subregional", "Centroamérica", "Caribe", "Cono Sur", "Región Andina"]},
+    {"id": "nacional", "nombre": "Nacional", "alias": ["a nivel nacional", "escala nacional", "alcance nacional", "país"]},
+    {"id": "subnacional", "nombre": "Subnacional", "alias": ["subnacional", "ciudad", "municipio", "municipal", "provincia", "provincial", "departamento", "departamental", "región", "cuenca", "local", "urbano", "rural", "comunal", "metropolitana", "insular"]},
+    {"id": "multinivel", "nombre": "Multinivel", "alias": ["multinivel", "nacional y subnacional", "regional y nacional", "nacional, sectorial y regional"]}
+  ],
+  "sectores": [
+    {"id": "agricultura", "nombre": "Agricultura", "alias": ["agricultura", "agrícola", "agropecuario", "cultivos", "ganadería", "pesca"]},
+    {"id": "agua", "nombre": "Agua y recursos hídricos", "alias": ["agua", "recursos hídricos", "hidrico", "hídrica", "riego", "saneamiento"]},
+    {"id": "energia", "nombre": "Energía", "alias": ["energía", "energético", "energética", "electricidad", "hidroeléctrica"]},
+    {"id": "transporte", "nombre": "Transporte", "alias": ["transporte", "vial", "puertos", "movilidad"]},
+    {"id": "salud", "nombre": "Salud", "alias": ["salud", "sanitario"]},
+    {"id": "ciudades_vivienda", "nombre": "Ciudades y vivienda", "alias": ["urbano", "urbanismo", "ciudades", "vivienda", "asentamientos humanos"]},
+    {"id": "industria", "nombre": "Industria", "alias": ["industria", "industrial", "manufactura"]},
+    {"id": "comercio", "nombre": "Comercio", "alias": ["comercio", "exportaciones", "importaciones", "aduana"]},
+    {"id": "finanzas", "nombre": "Finanzas y financiamiento", "alias": ["financiamiento", "finanzas", "banca", "bonos", "inversión"]},
+    {"id": "ecosistemas", "nombre": "Ecosistemas y biodiversidad", "alias": ["ecosistemas", "biodiversidad", "bosques", "forestal", "costero"]},
+    {"id": "empleo", "nombre": "Empleo", "alias": ["empleo", "laboral", "trabajo"]},
+    {"id": "proteccion_social", "nombre": "Protección social", "alias": ["protección social", "pobreza", "desigualdad"]}
+  ],
+  "tipos_documentales": [
+    {"id": "estudio_tecnico", "nombre": "Estudio técnico", "alias": ["Documento de proyecto o estudio técnico", "Documento de Proyecto", "Documento técnico institucional", "Monografía", "informe técnico", "estudio técnico"]},
+    {"id": "informe", "nombre": "Informe", "alias": ["Informe", "Estudio Económico"]},
+    {"id": "informe_insignia_panorama", "nombre": "Informe insignia o Panorama", "alias": ["Panorama", "informe insignia"]},
+    {"id": "policy_brief", "nombre": "Policy brief", "alias": ["Policy Brief", "policy brief"]},
+    {"id": "nota_tecnica", "nombre": "Nota técnica", "alias": ["Nota técnica", "nota tecnica"]},
+    {"id": "compilacion", "nombre": "Compilación", "alias": ["Compilación de textos seleccionados", "compilación"]},
+    {"id": "documento_trabajo", "nombre": "Documento de trabajo", "alias": ["Documento de trabajo"]},
+    {"id": "informe_estrategico", "nombre": "Informe estratégico", "alias": ["posición estratégica", "Documento institucional de posición estratégica"]},
+    {"id": "memoria_seminario", "nombre": "Memoria de seminario", "alias": ["Memoria de seminario", "Serie Seminarios y Conferencias"]},
+    {"id": "catalogo", "nombre": "Catálogo", "alias": ["Catálogo temático", "catálogo"]},
+    {"id": "otro", "nombre": "Otro", "alias": []}
+  ],
+  "tipo_documental_overrides": {
+    "https://hdl.handle.net/11362/43301": "informe",
+    "https://hdl.handle.net/11362/67989": "informe_insignia_panorama"
+  },
+  "organizaciones": [
+    {"id": "cepal", "nombre": "CEPAL", "alias": ["CEPAL", "Comisión Económica para América Latina y el Caribe"]},
+    {"id": "bid", "nombre": "BID", "alias": ["BID", "Banco Interamericano de Desarrollo"]},
+    {"id": "fao", "nombre": "FAO", "alias": ["FAO", "Organización de las Naciones Unidas para la Alimentación y la Agricultura"]},
+    {"id": "ipcc", "nombre": "IPCC", "alias": ["IPCC", "Grupo Intergubernamental de Expertos sobre el Cambio Climático"]},
+    {"id": "naciones_unidas", "nombre": "Naciones Unidas", "alias": ["Naciones Unidas", "ONU", "United Nations"]},
+    {"id": "ocde", "nombre": "OCDE", "alias": ["OCDE", "OECD"]},
+    {"id": "banco_mundial", "nombre": "Banco Mundial", "alias": ["Banco Mundial", "World Bank"]}
+  ],
+  "roles": ["autor", "editor", "compilador", "institucion_autora", "financiador", "colaborador", "referente"]
+}

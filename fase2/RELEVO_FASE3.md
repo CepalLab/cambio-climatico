@@ -1,7 +1,11 @@
-# Relevo hacia Fase 3 — limpieza, revisión transversal y análisis agregados
+# Relevo hacia Fase 3 — limpieza, normalización y análisis agregados
 
 **Corte:** 2026-08-24
 **Estado de Fase 2:** cerrado. El ledger registra 244/244 publicaciones aprobadas; no quedan lotes activos.
+
+**Estado actualizado:** la prefase 3 quedó cerrada el 2026-08-24. La normalización v1,
+la base SQLite y el primer EDA descriptivo están operativos sobre 238 documentos activos.
+El siguiente trabajo corresponde al análisis agregado y de contenido de Fase 3.
 
 ## Congelamiento de entrada
 
@@ -23,7 +27,7 @@ el corpus, sin perder la trazabilidad sección–dimensión–cita de Fase 2.
 
 ## Artefacto de entrada
 
-El universo unificado se registra en `../fase3/inventario_corpus_v1.json`: reúne los 17 pilotos y los 227
+El universo unificado se registra en `../fase3/00_control/inventario/inventario_corpus_v1.json`: reúne los 17 pilotos y los 227
 resultados de producción sin moverlos de sus ubicaciones originales. El manifiesto conserva origen, ruta,
 handle, título, fecha, hashes del JSON y del certificado cuando existe, y las claves superiores observadas.
 Su validación actual confirma 244 handles únicos y correspondencia exacta con las 244 filas del CSV de
@@ -41,7 +45,7 @@ histórico conserva las 244 y los JSON originales no se eliminan.
 
 ## Secuencia recomendada
 
-1. **Inventario y congelamiento.** [completado] Manifiesto construido en `../fase3/inventario_corpus_v1.json`; verificar handles únicos y
+1. **Inventario y congelamiento.** [completado] Manifiesto construido en `../fase3/00_control/inventario/inventario_corpus_v1.json`; verificar handles únicos y
    correspondencia con el CSV de trazabilidad, y registrar la presencia/ausencia de certificados como
    metadato de procedencia, no como condición retroactiva de validez.
 2. **Auditoría transversal.** Medir completitud, cardinalidades y valores de las dimensiones, tipologías,
@@ -65,35 +69,36 @@ histórico conserva las 244 y los JSON originales no se eliminan.
    heredado por error el rango completo de su capítulo se ajustaron a su página inicial, y se amplió el
    resumen de la sección B del capítulo IV por debajo del piso proporcional. El documento pasa el esquema;
    la validación bruta queda en 230 sin observaciones y 8 alertas de paginación aceptadas.
-   La auditoría queda formalmente cerrada en `fase3/cierre_auditoria_v1.json` y
-   `fase3/cierre_auditoria_v1.md`: las 8 entradas que aún aparecen en la validación bruta corresponden
+   La auditoría queda formalmente cerrada en `fase3/00_control/auditorias/cierre_auditoria_v1.json` y
+   `fase3/00_control/auditorias/cierre_auditoria_v1.md`: las 8 entradas que aún aparecen en la validación bruta corresponden
    exclusivamente a 11 alertas de paginación aceptadas y documentadas, por lo que los pendientes efectivos
-   son `0`. La siguiente etapa es diseñar la normalización de derivados.
+   son `0`. La normalización de derivados v1 quedó completada y validada; sus artefactos están en
+   `fase3/01_normalizacion/` y la capa analítica en `fase3/02_eda/`.
    La Fase 3.1 de revisión semántica dimensión–cita revisó inicialmente 8.344 dimensiones y produjo 117
    candidatos. Tras la adjudicación y aplicación quedaron 8.329 dimensiones/citas; el cribado residual se
-   conserva en `fase3/auditoria_dimensiones_v1.json` y `fase3/auditoria_dimensiones_v1.md`.
+   conserva en `fase3/00_control/auditorias/auditoria_dimensiones_v1.json` y `fase3/00_control/auditorias/auditoria_dimensiones_v1.md`.
    Como primera adjudicación experta se revisaron los casos 12, 17, 40, 50, 59, 81, 88, 89 y 95:
    siete se mantienen, dos se reclasifican (`43419`: `diagnostico_estructural` → `propuestas_politica`;
    `47730`: `diagnostico_estructural` → `estado_de_situacion`) y ninguno se excluye. El detalle queda en
-   `fase3/revision_semantica_casos_usuario_v1.csv`; se actualizaron hashes y se recertificó `47730`.
+   `fase3/00_control/revisiones/revision_semantica_casos_usuario_v1.csv`; se actualizaron hashes y se recertificó `47730`.
    La matriz semántica consolidada de los 117 candidatos quedó completa en
-   `fase3/revision_semantica_117_v1.csv`: 41 mantenimientos, 75 reclasificaciones y 1 exclusión de
+   `fase3/00_control/revisiones/revision_semantica_117_v1.csv`: 41 mantenimientos, 75 reclasificaciones y 1 exclusión de
    dimensión; no hay decisiones pendientes, duplicados ni slugs no canónicos. Las 76 decisiones de cambio
    fueron aplicadas individualmente, con actualización de hashes y recertificación cuando las compuertas
    estuvieron disponibles.
    Las 11 alertas de paginación fueron revisadas y aceptadas como `mantener`: 7 corresponden a la heurística
    de rango de recomendaciones aplicada a desgloses que reúnen varios capítulos, y 4 a solapamientos normales
    entre rangos de subsecciones. Estas alertas no requieren modificar los JSON; el detalle queda en
-   `fase3/revision_paginacion_v1.csv` y `fase3/revision_paginacion_v1.md`. La equivalencia PDF/visor/TXT queda
+   `fase3/00_control/revisiones/revision_paginacion_v1.csv` y `fase3/00_control/revisiones/revision_paginacion_v1.md`. La equivalencia PDF/visor/TXT queda
    explícitamente diferida.
-3. **Normalización.** Diseñar tablas derivadas separadas, al menos `documentos`, `secciones`,
+3. **Normalización.** [completada v1] Se construyeron tablas derivadas separadas, al menos `documentos`, `secciones`,
    `dimensiones`, `citas`, `interpelaciones` y `tipologias`. Conservar `handle`, ruta jerárquica de sección,
    página y un identificador de versión del resultado de origen.
-4. **Diccionario y reglas.** Declarar taxonomías, mapeos, valores faltantes, deduplicación de citas y reglas
+4. **Diccionario y reglas.** [completado v1] Se declararon taxonomías, mapeos, valores faltantes, deduplicación de citas y reglas
    para lenguaje, geografía, nivel de aplicación y fechas. Versionar todo mapeo manual.
-5. **Control de calidad.** Ejecutar validaciones de unicidad, integridad referencial, cobertura y muestras
+5. **Control de calidad.** [completado v1] Se ejecutaron validaciones de unicidad, integridad referencial, cobertura y muestras
    humanas de los registros normalizados. Las correcciones deben ser idempotentes y regenerables.
-6. **Análisis agregados.** Solo después de aprobar los derivados: tabulados por transformación, dimensión,
+6. **Análisis agregados.** [siguiente etapa] Tabulados por transformación, dimensión,
    criterio de interpelación, período, geografía y tipo documental; explicitar denominadores y exclusiones.
 
 ## Procedimiento de revisión

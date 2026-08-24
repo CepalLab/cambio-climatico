@@ -1,6 +1,6 @@
 {
   "version": "inventario-corpus-v1",
-  "generado_en": "2026-08-24T14:22:15+00:00",
+  "generado_en": "2026-08-24T21:40:23+00:00",
   "fuentes": {
     "pilotos": "fase2/pilot/",
     "produccion": "fase2/corpus/resultados/json/",
@@ -11,7 +11,7 @@
     "total": 244,
     "pilotos": 17,
     "produccion": 227,
-    "certificados_disponibles": 106
+    "certificados_disponibles": 111
   },
   "validacion": {
     "handles_unicos": true,
@@ -2195,9 +2195,9 @@
       "origen": "produccion",
       "ruta_json": "fase2/corpus/resultados/json/doc_45604.json",
       "sha256_json": "a31c566e7118d6f2f529030df70ca44f3f54d0e3a9b9716383c59409c3caeec4",
-      "certificado_disponible": false,
-      "ruta_certificado": null,
-      "sha256_certificado": null,
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_45604.validation.json",
+      "sha256_certificado": "230d64c2ff8bbd660e99778570d7c9c2f402a778c5f12e02b84d29234b1aa5ff",
       "claves_superiores": [
         "documento",
         "interpelacion",
@@ -2309,9 +2309,9 @@
       "origen": "produccion",
       "ruta_json": "fase2/corpus/resultados/json/doc_45693.json",
       "sha256_json": "80d8bcc9540508be0e7a07ad595295a5664ad98476998f8cd1757cdc4022e096",
-      "certificado_disponible": false,
-      "ruta_certificado": null,
-      "sha256_certificado": null,
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_45693.validation.json",
+      "sha256_certificado": "d1ffa5b211a5ed3bceec98ca8a5cb1409c7156c4b8385bc4b9e1273556aef2fc",
       "claves_superiores": [
         "documento",
         "interpelacion",
@@ -2385,9 +2385,9 @@
       "origen": "produccion",
       "ruta_json": "fase2/corpus/resultados/json/doc_45699.json",
       "sha256_json": "8d3b81da73fd1c53aaaca5bf3633e98b01d42109ff419750f3df091be400984f",
-      "certificado_disponible": false,
-      "ruta_certificado": null,
-      "sha256_certificado": null,
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_45699.validation.json",
+      "sha256_certificado": "3a0f78bda565f04da8284744e3f5f0ed3a0bf906c6e85260f84ad88394b1d356",
       "claves_superiores": [
         "documento",
         "interpelacion",
@@ -2651,9 +2651,9 @@
       "origen": "produccion",
       "ruta_json": "fase2/corpus/resultados/json/doc_46499.json",
       "sha256_json": "92397e441e1403428ba5db5dd04fd6d7bd8c5fe10dbcbb59aeacb9f690396816",
-      "certificado_disponible": false,
-      "ruta_certificado": null,
-      "sha256_certificado": null,
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_46499.validation.json",
+      "sha256_certificado": "45fdf2eb26b3a5604a12840b7b628ac4f10432efdc18d11ceb319ce854c68ce3",
       "claves_superiores": [
         "documento",
         "interpelacion",
@@ -2765,9 +2765,9 @@
       "origen": "produccion",
       "ruta_json": "fase2/corpus/resultados/json/doc_46853.json",
       "sha256_json": "4b0af26b9dd755ba1d3ef287bc418a124b454e28ace11759d3e0013684a5b783",
-      "certificado_disponible": false,
-      "ruta_certificado": null,
-      "sha256_certificado": null,
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_46853.validation.json",
+      "sha256_certificado": "bfe88b88bc9d31c3d8247d3ca885974741a2bc2f367d508c7465c670d28ebe33",
       "claves_superiores": [
         "documento",
         "interpelacion",

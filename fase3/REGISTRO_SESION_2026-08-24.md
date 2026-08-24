@@ -2,7 +2,7 @@
 
 ## Alcance
 
-Cierre de depuración, auditoría transversal y revisión semántica previa a la normalización de derivados.
+Cierre de depuración, auditoría transversal, normalización de derivados y preparación del análisis de Fase 3.
 
 ## Trabajo realizado
 
@@ -30,16 +30,16 @@ Cierre de depuración, auditoría transversal y revisión semántica previa a la
 
 ## Artefactos principales
 
-- `fase3/inventario_corpus_v1.json`
-- `fase3/auditoria_transversal_v1.json`
-- `fase3/validacion_esquema_activo_v1.json`
-- `fase3/cierre_auditoria_v1.json`
-- `fase3/revision_semantica_117_v1.csv`
-- `fase3/aplicacion_revision_semantica_v1.json`
-- `fase3/revision_paginacion_v1.csv`
+- `fase3/00_control/inventario/inventario_corpus_v1.json`
+- `fase3/00_control/auditorias/auditoria_transversal_v1.json`
+- `fase3/00_control/auditorias/validacion_esquema_activo_v1.json`
+- `fase3/00_control/auditorias/cierre_auditoria_v1.json`
+- `fase3/00_control/revisiones/revision_semantica_117_v1.csv`
+- `fase3/00_control/revisiones/aplicacion_revision_semantica_v1.json`
+- `fase3/00_control/revisiones/revision_paginacion_v1.csv`
 
-## Próxima etapa: normalización de derivados
+## Próxima etapa: análisis agregado y de contenido
 
-La sesión siguiente debe iniciar limpiamente desde `fase3/inventario_corpus_v1.json` como manifiesto de entrada. Los JSON de Fase 2 siguen siendo la fuente canónica; la normalización debe crear derivados versionados (`documentos`, `secciones`, `dimensiones`, `citas`, `interpelaciones` y `tipologias`) sin reescribirlos masivamente.
+La sesión siguiente debe iniciar limpiamente desde `fase3/00_control/inventario/inventario_corpus_v1.json` como manifiesto de entrada o desde `fase3/02_eda/salidas/fase3_analitica_v1.sqlite` para consultas agregadas. Los JSON de Fase 2 siguen siendo la fuente canónica; los derivados v1 ya están creados y validados sin reescritura masiva del canon.
 
 Debe conservarse `documento.handle`, la ruta jerárquica, páginas, citas y hash del resultado de origen. Antes de análisis agregados se deberán validar unicidad, integridad referencial, cobertura e idempotencia.

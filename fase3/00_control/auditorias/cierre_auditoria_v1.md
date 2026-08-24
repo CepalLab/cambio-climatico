@@ -1,6 +1,6 @@
 # Cierre de auditoría v1
 
-Generado: `2026-08-24T20:03:40+00:00`
+Generado: `2026-08-24T21:40:48+00:00`
 
 Corpus activo: **238** documentos.
 

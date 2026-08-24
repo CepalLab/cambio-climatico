@@ -1,9 +1,9 @@
 {
   "version": "cierre-auditoria-v1",
-  "generado_en": "2026-08-24T20:03:40+00:00",
+  "generado_en": "2026-08-24T21:40:48+00:00",
   "fuentes": {
-    "validacion": "fase3/validacion_esquema_activo_v1.json",
-    "revision_paginacion": "fase3/revision_paginacion_v1.csv"
+    "validacion": "00_control/auditorias/validacion_esquema_activo_v1.json",
+    "revision_paginacion": "00_control/revisiones/revision_paginacion_v1.csv"
   },
   "denominador": {
     "historico": 244,

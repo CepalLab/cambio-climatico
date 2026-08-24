@@ -1,9 +1,9 @@
 {
   "version": "validacion-esquema-activo-v1",
-  "generado_en": "2026-08-24T20:03:29+00:00",
+  "generado_en": "2026-08-24T21:40:39+00:00",
   "fuentes": {
-    "inventario": "fase3/inventario_corpus_v1.json",
-    "exclusiones": "fase3/exclusiones_corpus_v1.csv",
+    "inventario": "fase3/00_control/inventario/inventario_corpus_v1.json",
+    "exclusiones": "fase3/00_control/inventario/exclusiones_corpus_v1.csv",
     "validador": "fase2/pipeline/validar_esquema.py"
   },
   "denominador": {

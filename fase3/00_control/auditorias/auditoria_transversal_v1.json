@@ -1,9 +1,9 @@
 {
   "version": "auditoria-transversal-v1",
-  "generado_en": "2026-08-24T20:03:30+00:00",
+  "generado_en": "2026-08-24T21:40:48+00:00",
   "fuentes": {
-    "inventario": "fase3/inventario_corpus_v1.json",
-    "exclusiones": "fase3/exclusiones_corpus_v1.csv"
+    "inventario": "fase3/00_control/inventario/inventario_corpus_v1.json",
+    "exclusiones": "fase3/00_control/inventario/exclusiones_corpus_v1.csv"
   },
   "denominador": {
     "historico": 244,
@@ -309,7 +309,7 @@
     "secciones": 7812,
     "dimensiones": 8329,
     "citas_dimension": 8329,
-    "certificados": 102
+    "certificados": 107
   },
   "anomalies": [],
   "documentos": [
@@ -2678,7 +2678,7 @@
         "Parcial": 1,
         "Sí": 3
       },
-      "certificado_disponible": false,
+      "certificado_disponible": true,
       "anomalies": []
     },
     {
@@ -2805,7 +2805,7 @@
         "No": 3,
         "Parcial": 1
       },
-      "certificado_disponible": false,
+      "certificado_disponible": true,
       "anomalies": []
     },
     {
@@ -2887,7 +2887,7 @@
         "Parcial": 3,
         "Sí": 1
       },
-      "certificado_disponible": false,
+      "certificado_disponible": true,
       "anomalies": []
     },
     {
@@ -3179,7 +3179,7 @@
         "No": 1,
         "Sí": 3
       },
-      "certificado_disponible": false,
+      "certificado_disponible": true,
       "anomalies": []
     },
     {
@@ -3306,7 +3306,7 @@
         "No": 1,
         "Sí": 3
       },
-      "certificado_disponible": false,
+      "certificado_disponible": true,
       "anomalies": []
     },
     {

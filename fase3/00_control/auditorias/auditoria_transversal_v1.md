@@ -1,6 +1,6 @@
 # Auditoría transversal v1
 
-Generada: `2026-08-24T20:03:30+00:00`
+Generada: `2026-08-24T21:40:48+00:00`
 
 ## Denominador
 
@@ -13,7 +13,7 @@ Generada: `2026-08-24T20:03:30+00:00`
 - secciones: **7812**
 - dimensiones: **8329**
 - citas_dimension: **8329**
-- certificados: **102**
+- certificados: **107**
 
 ## Anomalías
 

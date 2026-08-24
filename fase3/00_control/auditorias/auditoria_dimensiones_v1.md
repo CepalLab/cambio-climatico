@@ -1,6 +1,6 @@
 # Auditoría semántica de dimensiones v1
 
-Generada: `2026-08-24T20:03:54+00:00`
+Generada: `2026-08-24T21:41:22+00:00`
 
 ## Alcance
 

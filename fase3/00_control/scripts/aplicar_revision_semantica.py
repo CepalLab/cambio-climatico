@@ -5,11 +5,12 @@ from collections import defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
 
-BASE = Path(__file__).resolve().parent.parent
-MATRIX = BASE / "fase3" / "revision_semantica_117_v1.csv"
-INVENTORY = BASE / "fase3" / "inventario_corpus_v1.json"
-LOG = BASE / "fase3" / "aplicacion_revision_semantica_v1.json"
-AUDIT = BASE / "fase3" / "auditoria_dimensiones_v1.json"
+REPO_DIR = Path(__file__).resolve().parents[3]
+CONTROL_DIR = REPO_DIR / "fase3" / "00_control"
+MATRIX = CONTROL_DIR / "revisiones" / "revision_semantica_117_v1.csv"
+INVENTORY = CONTROL_DIR / "inventario" / "inventario_corpus_v1.json"
+LOG = CONTROL_DIR / "revisiones" / "aplicacion_revision_semantica_v1.json"
+AUDIT = CONTROL_DIR / "auditorias" / "auditoria_dimensiones_v1.json"
 
 
 def walk(sections):

@@ -1,6 +1,6 @@
 # Validación exhaustiva de esquema v1
 
-Generada: `2026-08-24T20:03:29+00:00`
+Generada: `2026-08-24T21:40:39+00:00`
 
 Corpus histórico: **244**
 Exclusiones aplicadas: **6**
