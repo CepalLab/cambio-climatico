@@ -93,7 +93,7 @@ Dimensiones: 0; páginas de cuerpo: 24; densidad: 0.00/página.
 - 11362/43159, 11362/43407 y 11362/43334 promovidos a resultados tras revisión humana OK; reportes finales frescos y limpios.
 
 
-- 11362/42725 promovido a corpus/resultados/doc_42725.json tras corrección, revisión humana aprobada y reportes finales frescos.
+- 11362/42725 promovido a corpus/resultados/json/doc_42725.json tras corrección, revisión humana aprobada y reportes finales frescos.
 
 ### 2026-08-16
 

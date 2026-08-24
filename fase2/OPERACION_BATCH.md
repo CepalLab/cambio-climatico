@@ -4,7 +4,7 @@ Al cerrar una sesión, aplicar el protocolo de relevo de `ESTADO_OPERATIVO_ACTUA
 ledger, confirmar los artefactos y validaciones por documento, registrar el cierre del lote, documentar issues
 estructurales y dejar el comando exacto para la siguiente misión.
 
-El ledger operativo mantiene el estado de ejecución de las 244 publicaciones sin sustituir los productos analíticos. SQLite registra estados, lotes, intentos, checkpoints, errores y costos; los JSON de `corpus/resultados/` siguen siendo la fuente canónica del análisis.
+El ledger operativo mantiene el estado de ejecución de las 244 publicaciones sin sustituir los productos analíticos. SQLite registra estados, lotes, intentos, checkpoints, errores y costos; los JSON de `corpus/resultados/json/` siguen siendo la fuente canónica del análisis.
 
 ## Estrategia de ejecucion por extension
 
@@ -22,7 +22,9 @@ Para documentos tecnicos o de mas de aproximadamente 130 paginas, la consolidaci
 | `estado/snapshots/` | Exportaciones CSV/JSON legibles | Versionable si se decide conservarlas |
 | `corpus/lotes/L####.json` | Manifiesto inmutable de cada lote | Versionado |
 | `corpus/intermedios/` | Artefactos recuperables por etapa | Ignorado |
-| `corpus/resultados/` | JSON analíticos canónicos | Versionado |
+| `corpus/resultados/json/` | JSON analíticos canónicos | Versionado |
+| `corpus/resultados/certificados/` | Certificados de promoción disponibles | Versionado |
+| `corpus/resultados/archivo/` | Borradores y artefactos no canónicos | Versionado si corresponde |
 
 ## Estados
 
@@ -97,7 +99,7 @@ python3 fase2/pipeline/auditar_densidad.py \
 python3 fase2/pipeline/ledger.py checkpoint 11362/XXXXX validation \
   --artifact fase2/corpus/intermedios/XXXXX/validacion.txt
 python3 fase2/pipeline/ledger.py complete 11362/XXXXX \
-  --result fase2/corpus/resultados/doc_XXXXX.json --review-required
+  --result fase2/corpus/resultados/json/doc_XXXXX.json --review-required
 python3 fase2/pipeline/ledger.py approve 11362/XXXXX
 ```
 
@@ -192,4 +194,4 @@ python3 fase2/pipeline/ledger.py export
 5. Cambiar prompts, modelo o metodología no sobrescribe el intento anterior: abre uno nuevo y registra sus versiones y costos.
 6. `num_muestra` usa el `corpus_order` estable del manifiesto, no la posición dentro del lote.
 7. `--model` identifica proveedor, modelo y harness de forma inequívoca. Tokens y costo se informan solo cuando existen datos reales; nunca se registra `0` como marcador provisional.
-8. Antes de emitir un prompt o asignar un agente, verificar el handle contra `resume --batch` y `corpus/resultados/`.
+8. Antes de emitir un prompt o asignar un agente, verificar el handle contra `resume --batch` y `corpus/resultados/json/`.

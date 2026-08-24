@@ -1,6 +1,6 @@
 # Estado operativo actual - Fase 2
 
-**Corte:** 2026-08-21
+**Corte:** 2026-08-24
 
 ## Estado del corpus
 
@@ -12,7 +12,8 @@
 - No hay lotes activos. L0015 fue promovido con 16 certificados gemelos válidos (15 fuentes
   `pdf_tramos` y 1 `endpoint_apto`).
 
-Los JSON aprobados viven en `corpus/resultados/`. El estado vivo se consulta siempre en el ledger:
+Los JSON aprobados viven en `corpus/resultados/json/`. Los certificados disponibles viven en
+`corpus/resultados/certificados/`. El estado vivo se consulta siempre en el ledger:
 
 ```bash
 python3 fase2/pipeline/ledger.py status --json
@@ -21,14 +22,17 @@ python3 fase2/pipeline/ledger.py status --json
 ## Relevo para una sesión nueva
 
 1. Consultar el ledger; no usar manifiestos históricos como cola viva.
-2. No hay enriquecimientos pendientes en el corpus actual; ante una ampliación, consultar primero el ledger
-   y reservar un nuevo lote desde la cola viva.
-3. Generar `indice_fuente.json` desde `tramos/` antes de construir cada borrador.
-4. Para documentos extensos, separar por bloques contiguos y consolidar después de que los parciales estén listos.
-5. Ejecutar y guardar esquema, orden JSON, índice, citas con `--page-source tramos --strict-quality`, densidad y
+2. Fase 2 está cerrada: no hay enriquecimientos pendientes ni lotes activos.
+3. El inventario unificado de Fase 3 está en `../fase3/inventario_corpus_v1.json` y registra los 17 pilotos y
+   227 resultados de producción.
+4. Para cualquier ampliación futura, consultar primero el ledger y reservar un nuevo lote desde la cola viva.
+5. Generar `indice_fuente.json` desde `tramos/` antes de construir cada borrador.
+6. Para documentos extensos, separar por bloques contiguos y consolidar después de que los parciales estén listos.
+7. Ejecutar y guardar esquema, orden JSON, índice, citas con `--page-source tramos --strict-quality`, densidad y
    `auditar_pre_promocion.py`; en documentos de más de 80 páginas, usar `--strict-coverage`.
-6. Generar `validacion_final.json` con `certificar_promocion.py`. Tras revisión humana OK, copiar atómicamente
-   el borrador y su certificado gemelo `doc_<id>.validation.json` a `corpus/resultados/` y sincronizar el ledger.
+8. Generar `validacion_final.json` con `certificar_promocion.py`. Tras revisión humana OK, copiar atómicamente
+   el borrador a `corpus/resultados/json/` y su certificado gemelo `doc_<id>.validation.json` a
+   `corpus/resultados/certificados/`, y sincronizar el ledger.
 
 ## Criterio para documentos extensos
 
@@ -81,8 +85,8 @@ y `manifest.json`. L0007 no se reprocesó porque sus documentos ya habían sido 
 
 ## Siguiente misión
 
-Mientras L0014 termina su enriquecimiento, una sesión nueva puede iniciar el enriquecimiento de L0015
-usando sus fuentes preflight validadas y conservando la separación entre ambos lotes.
+Iniciar Fase 3.0 con el inventario unificado: revisar exclusiones del corpus activo y producir el manifiesto
+de decisiones antes de auditar dimensiones, citas y campos de procedencia.
 
 ## Protocolo de cierre y relevo
 

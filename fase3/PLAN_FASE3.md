@@ -7,6 +7,12 @@ producidos y certificados durante Fase 2.
 
 ## Secuencia de trabajo
 
+### Artefacto inicial
+
+`inventario_corpus_v1.json` es el manifiesto único de entrada: integra los 17 pilotos y los 227 resultados
+de producción, conserva sus rutas de origen y registra procedencia, hashes y disponibilidad de certificados.
+Antes de generar derivados, debe comprobarse que mantenga 244 handles únicos y correspondencia con el CSV.
+
 ### Fase 3.0 — Depuración del universo
 
 Identificar las publicaciones que se incorporaron al corpus por error y excluirlas antes de construir

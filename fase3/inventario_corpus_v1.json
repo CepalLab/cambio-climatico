@@ -1,0 +1,4661 @@
+{
+  "version": "inventario-corpus-v1",
+  "generado_en": "2026-08-24T13:01:48+00:00",
+  "fuentes": {
+    "pilotos": "fase2/pilot/",
+    "produccion": "fase2/corpus/resultados/json/",
+    "certificados": "fase2/corpus/resultados/certificados/",
+    "trazabilidad": "documentos_definitivos_trazabilidad.csv"
+  },
+  "conteos": {
+    "total": 244,
+    "pilotos": 17,
+    "produccion": 227,
+    "certificados_disponibles": 106
+  },
+  "validacion": {
+    "handles_unicos": true,
+    "handles_duplicados": [],
+    "filas_csv": 244,
+    "handles_fuera_del_csv": [],
+    "handles_faltantes_del_inventario": []
+  },
+  "documentos": [
+    {
+      "handle": "https://hdl.handle.net/11362/3955",
+      "titulo": "Efectos del cambio climático en la costa de América Latina y el Caribe: dinámicas, tendencias y variabilidad climática",
+      "fecha": "2015-09",
+      "num_muestra": 1,
+      "origen": "piloto",
+      "ruta_json": "fase2/pilot/doc01_efectos_costa.json",
+      "sha256_json": "61dc02fd86c18cb2feff08cfbe758e85b4fc3d863e5e38cafba2ac5846c97b85",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39840",
+      "titulo": "Ocho tesis sobre el cambio climático y el desarrollo sostenible en América Latina",
+      "fecha": "2015-12",
+      "num_muestra": 2,
+      "origen": "piloto",
+      "ruta_json": "fase2/pilot/doc02_ocho_tesis.json",
+      "sha256_json": "93755ab8da191784ecc2fa86b66a02f6fe1ea46da0e242d7c3eefc57c6e78fcc",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/42230",
+      "titulo": "The rise of green bonds: Financing for development in Latin America and the Caribbean",
+      "fecha": "2017-10",
+      "num_muestra": 3,
+      "origen": "piloto",
+      "ruta_json": "fase2/pilot/doc03_green_bonds.json",
+      "sha256_json": "5d08a16002be71cecfea8c9e33cda48ae5d3e6337b229fc0837ba571d845445a",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/42355",
+      "titulo": "Economía del Cambio Climático en Honduras: documento técnico 2017",
+      "fecha": "2017-10",
+      "num_muestra": 4,
+      "origen": "piloto",
+      "ruta_json": "fase2/pilot/doc04_honduras.json",
+      "sha256_json": "0d6b9d37ef40e44d11de6d9667f49fd536b6c88439719e3684ff4e9b4d1f6346",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46101",
+      "titulo": "La tragedia ambiental de América Latina y el Caribe",
+      "fecha": "2020",
+      "num_muestra": 6,
+      "origen": "piloto",
+      "ruta_json": "fase2/pilot/doc06_tragedia_ambiental.json",
+      "sha256_json": "c68622f2588a2d7e3bd70614137d63e2eb3923779ff976b7e871128ef4badabc",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46792",
+      "titulo": "Reflexiones sobre la gestión del agua en América Latina y el Caribe. Textos seleccionados 2002-2020",
+      "fecha": "2021",
+      "num_muestra": 8,
+      "origen": "piloto",
+      "ruta_json": "fase2/pilot/doc08_gestion_agua.json",
+      "sha256_json": "a271e57abe603b026280df0a3268e834b025d2b0824e965de4fc58352f584f08",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48603",
+      "titulo": "Building a climate resilient power sector in the context of the Caribbean small island developing States' energy transition. Policy Brief",
+      "fecha": "2022-12-15",
+      "num_muestra": 9,
+      "origen": "piloto",
+      "ruta_json": "fase2/pilot/doc09_caribbean_power.json",
+      "sha256_json": "9dd4d4a157d1250aa4269cb8530d280d6baf78a6662227fa308eb48274b410cb",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47745",
+      "titulo": "Una década de acción para un cambio de época. Quinto informe sobre el progreso y los desafíos regionales de la Agenda 2030 para el Desarrollo Sostenible en América Latina y el Caribe",
+      "fecha": "2022-03",
+      "num_muestra": 10,
+      "origen": "piloto",
+      "ruta_json": "fase2/pilot/doc10_agenda_2030.json",
+      "sha256_json": "719a28c537087e3b9cfc7e0200d7934bb7237447624340b373bcf71a8d7ac0a3",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/82426",
+      "titulo": "El impacto del cambio climático en la pobreza infantil y juvenil de América Latina",
+      "fecha": "2025-08",
+      "num_muestra": 11,
+      "origen": "piloto",
+      "ruta_json": "fase2/pilot/doc11_pobreza_infantil.json",
+      "sha256_json": "391985833121f39ce00c9f0bd212fa2cdd46fa188da5b116fddf5653289757da",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48724",
+      "titulo": "Acción climática en la agricultura: la experiencia de países miembros de la Plataforma de Acción Climática en Agricultura de Latinoamérica y el Caribe",
+      "fecha": "2023",
+      "num_muestra": 12,
+      "origen": "piloto",
+      "ruta_json": "fase2/pilot/doc12_agricultura_clima.json",
+      "sha256_json": "fa6870db0f808b0f835ab54b7984c54c54a8b26a11a5eed82e1070d852cdfa4f",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68639",
+      "titulo": "Comercio, cambio climático y el impuesto fronterizo al carbono",
+      "fecha": "2023-10-23",
+      "num_muestra": 13,
+      "origen": "piloto",
+      "ruta_json": "fase2/pilot/doc13_carbono_frontera.json",
+      "sha256_json": "1c6126cc8f6b4ebea19ea353ad3c7196635b053f981052671ec3f2897ab45d7b",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/80727",
+      "titulo": "América Latina y el Caribe ante las trampas del desarrollo: transformaciones indispensables y cómo gestionarlas",
+      "fecha": "2024",
+      "num_muestra": 14,
+      "origen": "piloto",
+      "ruta_json": "fase2/pilot/doc14_trampas_desarrollo.json",
+      "sha256_json": "688d49ea0a654acd154f845e3326bd35946952a92b9484d32784cd549adc8947",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/37310",
+      "titulo": "La economía del cambio climático en América Latina y el Caribe: paradojas y desafíos del desarrollo sostenible",
+      "fecha": "2015-02",
+      "num_muestra": 15,
+      "origen": "piloto",
+      "ruta_json": "fase2/pilot/doc15_paradojas_desafios.json",
+      "sha256_json": "ebf4432e6900388cf9c5eb8935e953f1e8101af765d93a7b38af93550acd7070",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/43301",
+      "titulo": "Acceso a la información, la participación y la justicia en asuntos ambientales en América Latina y el Caribe: hacia el logro de la Agenda 2030 para el Desarrollo Sostenible",
+      "fecha": "2018",
+      "num_muestra": 16,
+      "origen": "piloto",
+      "ruta_json": "fase2/pilot/doc16_acceso_informacion.json",
+      "sha256_json": "6c2499f5412e1a4ad34ce4ad7de3eb75d85a7a98fa560df6afdf1194b78c8908",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/67989",
+      "titulo": "Estudio Económico de América Latina y el Caribe 2023. El financiamiento de una transición sostenible: inversión para crecer y enfrentar el cambio climático",
+      "fecha": "2023",
+      "num_muestra": 17,
+      "origen": "piloto",
+      "ruta_json": "fase2/pilot/doc17_estudio_economico_2023.json",
+      "sha256_json": "0cb2166e8714ca69ade4d90009507669c6ceac47587c389379229465c33337be",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/69031",
+      "titulo": "La economía del cambio climático en América Latina y el Caribe, 2023: necesidades de financiamiento y herramientas de política para la transición hacia economías con bajas emisiones de carbono y resilientes al cambio climático",
+      "fecha": "2024",
+      "num_muestra": 18,
+      "origen": "piloto",
+      "ruta_json": "fase2/pilot/doc18_financiamiento_transicion.json",
+      "sha256_json": "d6a698a0109feea9be487642898661e11454fa91bc49d8def9c5f088c40a567c",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/69075",
+      "titulo": "Panorama de la Gestión Pública en América Latina y el Caribe, 2023: un Estado preparado para la acción climática",
+      "fecha": "2024",
+      "num_muestra": 19,
+      "origen": "piloto",
+      "ruta_json": "fase2/pilot/doc19_gestion_publica.json",
+      "sha256_json": "3c0c04c5914415a54a6249180b3568e1e08243fc49a83c700ba72cfedfc35323",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/37791",
+      "titulo": "El desafío de la sostenibilidad ambiental en América Latina y el Caribe. Textos seleccionados 2012-2014",
+      "fecha": "2015-01-01",
+      "num_muestra": 2,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_37791.json",
+      "sha256_json": "36418d9ba81d451dba1c54329e4262db01f5ef151853b4614d42aae2ed1cb390",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/37879",
+      "titulo": "Impactos económicos del cambio climático en Colombia. Síntesis",
+      "fecha": "2015",
+      "num_muestra": 20,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_37879.json",
+      "sha256_json": "86a1099877acafd2b78b6518cc6edc868a1efab593065d44381a8abf84ff0178",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/37910",
+      "titulo": "Financiamiento para el cambio climático en América Latina en 2013",
+      "fecha": "2015-10",
+      "num_muestra": 4,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_37910.json",
+      "sha256_json": "0b3f6a4c423d40cda17a414b8f41b567225cd6e7bc55d263f756bf0e48cf639e",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/37911",
+      "titulo": "Agricultura y cambio climático: economía y modelación. Memoria del cuarto seminario regional de agricultura y cambio climático",
+      "fecha": "2015-04",
+      "num_muestra": 5,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_37911.json",
+      "sha256_json": "d4579f46aa28fb5f75591826e89d9cb2c9194c3e72478b827a2daf05c757171c",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/37955",
+      "titulo": "The effects of climate change in the coastal areas of Latin America and the Caribbean: impacts",
+      "fecha": "2015-04",
+      "num_muestra": 6,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_37955.json",
+      "sha256_json": "68a0201d75b4d881dfdf04354f3de48b0c0abf9eb5502b0c9e70a5828158e227",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/38120",
+      "titulo": "Investigación científica en agricultura y cambio climático en América Latina y el Caribe",
+      "fecha": "2015-05",
+      "num_muestra": 7,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_38120.json",
+      "sha256_json": "c9c77f5d06a9c44a479788164cc9b0c5f092218bcc850744b87c91fc04b00ad3",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/38274",
+      "titulo": "La incertidumbre de los recursos hídricos y sus riesgos frente al cambio climático: herramientas para los tomadores de decisiones de los sectores público y privado",
+      "fecha": "2015-05",
+      "num_muestra": 8,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_38274.json",
+      "sha256_json": "77362e2536e001382b139f0ef919054a84742c38d9e2f7278c8e9f2843bca571",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/38985",
+      "titulo": "Sostenibilidad ambiental y competitividad internacional: la huella de carbono de las exportaciones de alimentos",
+      "fecha": "2015-09",
+      "num_muestra": 9,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_38985.json",
+      "sha256_json": "9177c44a7084c0ee79ec94bda2e84c598bd640f576ba34f25ef73a2ff23bc408",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39009",
+      "titulo": "Evaluación de los impactos del cambio climático sobre la salud: economía del cambio climático en la Argentina",
+      "fecha": "2015-10",
+      "num_muestra": 10,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39009.json",
+      "sha256_json": "19ef92c53a54baff5249cb7b411f4a308084f9a026d4861075efbc8f3ed958e0",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39089",
+      "titulo": "The Economics of Climate Change in Central America: Summary 2012",
+      "fecha": "2015-10",
+      "num_muestra": 11,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39089.json",
+      "sha256_json": "bbd8537412776a73878feafb825872c175f88629725800976585c1a80b16f82f",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39135",
+      "titulo": "Emisiones de gases de efecto invernadero y mitigación en el sector de uso del suelo, cambio en el uso del suelo y silvicultura. Economía del cambio climático en la Argentina",
+      "fecha": "2015-10",
+      "num_muestra": 12,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39135.json",
+      "sha256_json": "9ec1b7609c1adf7794270912c7314779fb1dcb201bcb62132b90847f4ee7e719",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39140",
+      "titulo": "Impactos y vulnerabilidad al cambio climático de los principales ríos de Mendoza y San Juan a partir de la evolución de los glaciares cordilleranos. La economía del cambio climático en la Argentina",
+      "fecha": "2015-11",
+      "num_muestra": 13,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39140.json",
+      "sha256_json": "ebe7f003ea339a6a616044b515281c270cc7a560acc6010ed21a859d2dd30567",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39149",
+      "titulo": "Cambio climático en Centroamérica: Impactos potenciales y opciones de política pública",
+      "fecha": "2015-11",
+      "num_muestra": 14,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39149.json",
+      "sha256_json": "74824b72af7e0e818d436546abcf15e4061fe62cb2f5b3d50e74f89ff293e845",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39286",
+      "titulo": "The Caribbean and the post-2015 development agenda",
+      "fecha": "2015-11",
+      "num_muestra": 15,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39286.json",
+      "sha256_json": "10477c88ba87b906359bb4d7ada79d5248d98b23af3e31e5723d759394124062",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39360",
+      "titulo": "Emisiones de gases de efecto invernadero y mitigación en el sector residuos. La economía del cambio climático en la Argentina",
+      "fecha": "2015-11",
+      "num_muestra": 16,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39360.json",
+      "sha256_json": "85e89141851ba8f2789fe2a72ef43f75f476fb8bcdb9395f52a5dcb3de84b88e",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39367",
+      "titulo": "Financiamiento para el cambio climático en América Latina y el Caribe en 2014",
+      "fecha": "2015-11",
+      "num_muestra": 17,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39367.json",
+      "sha256_json": "85f83903d727fc7b2e9a52f8056b73dade0e4210eb1c94b0acb60110f84ccd9e",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39407",
+      "titulo": "Producto interno bruto, pobreza y cambio climático en Centroamérica: una exploración metodológica inicial",
+      "fecha": "2015-11",
+      "num_muestra": 18,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39407.json",
+      "sha256_json": "1936b4ac50ed7d85efe7d1bbc2afa977363498cdc48e05d490282743538ff542",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39534",
+      "titulo": "Innovaciones institucionales y en políticas sobre agricultura y cambio climático: evidencia en América Latina y el Caribe",
+      "fecha": "2015-12",
+      "num_muestra": 19,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39534.json",
+      "sha256_json": "bb47a39e81586dee9526e4f432e21c1f678b45a637c41e833d73be2c32822fdb",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39661",
+      "titulo": "Federalismo ambiental en América Latina: una revisión",
+      "fecha": "2015-12",
+      "num_muestra": 18,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39661.json",
+      "sha256_json": "d15d69503623f4d3bf91ce2fc7e3f4e5127358e5bab9699409a2de41823b61dd",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39751",
+      "titulo": "El cambio climático y la energía en América Latina",
+      "fecha": "2015-12",
+      "num_muestra": 19,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39751.json",
+      "sha256_json": "2afde5f3819e5c1e9b09ebf339fa841047b9d602ba8eeb23aa5f787c0f7d82c3",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39752",
+      "titulo": "Estilos de desarrollo, heterogeneidad estructural y cambio climático en América Latina",
+      "fecha": "2015-12",
+      "num_muestra": 20,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39752.json",
+      "sha256_json": "a687d657da1f0fa0f13c791f3260bf2a27ca8bfef7e3e9a2e746e54689aa9df5",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39781",
+      "titulo": "Medidas de adaptación y mitigación frente al cambio climático en América Latina y el Caribe: Una revisión general",
+      "fecha": "2015-12",
+      "num_muestra": 24,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39781.json",
+      "sha256_json": "4771c95d18d48c90b9b8c82913a12c0a3f05d7847b803d4955afcc7cd467e1ce",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39824",
+      "titulo": "Cambio climático y actividades agropecuarias en América Latina",
+      "fecha": "2015-12",
+      "num_muestra": 25,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39824.json",
+      "sha256_json": "3ba1003e7978ae1a5207e14e9a70d6fc79232c1b34722ad03c800b00abe0cbfa",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39842",
+      "titulo": "Adaptación al cambio climático en América Latina y el Caribe",
+      "fecha": "2015-12",
+      "num_muestra": 27,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39842.json",
+      "sha256_json": "811568e05f40e7ba368034982232f5278bb498bfcb03939f5911db9671ced002",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39843",
+      "titulo": "Sendas de desarrollo bajas en carbono en ciudades metropolitanas de América Latina",
+      "fecha": "2015-12",
+      "num_muestra": 28,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39843.json",
+      "sha256_json": "e6f9efd6f361d266d3c71ca431034b798d9f75720e443d209a950b380fe42e73",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39855",
+      "titulo": "El cambio climático y sus efectos en la biodiversidad en América Latina",
+      "fecha": "2015-12",
+      "num_muestra": 29,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39855.json",
+      "sha256_json": "74a4b3e070bbcbad7575dc30de445da43381da137ea0ddf1b99d415b4c8ee776",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/39977",
+      "titulo": "Reflexiones sobre el desarrollo en América Latina y el Caribe: conferencias magistrales 2015",
+      "fecha": "2016-01-01",
+      "num_muestra": 30,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_39977.json",
+      "sha256_json": "a3b4db9a564d82531b72570cbb0e8cbf4ada382ab617dcc3591c77e0e473b18a",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40159",
+      "titulo": "Horizontes 2030: la igualdad en el centro del desarrollo sostenible",
+      "fecha": "2016-07",
+      "num_muestra": 235,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40159.json",
+      "sha256_json": "0877f929674570986470ca03b25d4ec4749402674999cb1b238115b11f5b154b",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_40159.validation.json",
+      "sha256_certificado": "4ed5af89b262c59d98b2d201675d2b37d5f9437ac54af768fad3918a4df8ccfa",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40253",
+      "titulo": "Proposal on debt for climate adaptation swaps: a strategy for growth and economic transformation of Caribbean economies",
+      "fecha": "2016-04",
+      "num_muestra": 31,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40253.json",
+      "sha256_json": "e6ce074987f7c6344b7ce584f132b7d024435558caedda3cb19edc7c6c946c07",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40297",
+      "titulo": "Efectos distributivos de las políticas públicas para la mitigación del cambio climático en América Latina: una aproximación con un meta-análisis",
+      "fecha": "2016-07",
+      "num_muestra": 32,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40297.json",
+      "sha256_json": "edaa7e77f5d37c8dab224f48183fc84f8b59e73f9061ca2d1ef21ab684b464a7",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40299",
+      "titulo": "Agrobiodiversidad, agricultura familiar y cambio climático",
+      "fecha": "2016-06",
+      "num_muestra": 33,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40299.json",
+      "sha256_json": "c1cb0fec5aef6705bb4b333efe8a20c62ded95f760e49bc7a2059ed87ebcb9ef",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40308",
+      "titulo": "Evaluaciones del desempeño ambiental: Chile 2016",
+      "fecha": "2016",
+      "num_muestra": 34,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40308.json",
+      "sha256_json": "d41efcb0f28c692f4c90b9593d157570c1c85f53c19588cb7f4c1dc5b18788c8",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40457",
+      "titulo": "Evaluation report of the regional dialogue on energy efficiency and renewable energy policy in The Caribbean",
+      "fecha": "2016-07-18",
+      "num_muestra": null,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40457.json",
+      "sha256_json": "debb8e7ad6a5b1afdc9ab8c88fbccceebded75933c676fccf3371986fa429b89",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40642",
+      "titulo": "Generación de bases de datos climáticos para el análisis de riesgos en las costas de Santa Catarina (Brasil)",
+      "fecha": "2016-09",
+      "num_muestra": 999,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40642.json",
+      "sha256_json": "94942247fa0edf44d3d733108eddeffbe53280db416a1ad4271baf57d1e44e17",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40669",
+      "titulo": "La Unión Europea y América Latina y el Caribe ante la Agenda 2030 para el Desarrollo Sostenible: el gran impulso ambiental",
+      "fecha": "2016-10",
+      "num_muestra": 37,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40669.json",
+      "sha256_json": "40f0d7856df23b3349aaa9450958e13fbdcba2360498ccd63a56af750b7d8f0d",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40708",
+      "titulo": "La Economía del Cambio Climático en Honduras: Mensajes Clave 2016",
+      "fecha": "2016-11",
+      "num_muestra": 38,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40708.json",
+      "sha256_json": "bb5243f5f640c86e9a76614ec62a7b7433af772054615e4a02aa137350c8fa23",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40841",
+      "titulo": "Cambio climático, políticas públicas y demanda de energía y gasolinas en América Latina: Un meta-análisis",
+      "fecha": "2014-01",
+      "num_muestra": 0,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40841.json",
+      "sha256_json": "026ab3651e301c7ea6946590c2d930183b3a6e6c2f56a3889b6bf2150da713f6",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40843",
+      "titulo": "Avaliação do Fundo Clima",
+      "fecha": "2016",
+      "num_muestra": 9,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40843.json",
+      "sha256_json": "86099194e651c1899d712ad94dd3dfb1824d2cc109aade94dfa38935df142100",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40867",
+      "titulo": "De los cambios cuadráticos a los cambios exponenciales: relación entre estructura económica y sostenibilidad",
+      "fecha": "2016-12",
+      "num_muestra": 40867,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40867.json",
+      "sha256_json": "5e9b03aad5e6f96504ffe971f5db50449f2578176886eb16921877e08f659c0e",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40887",
+      "titulo": "Factibilidad legal, regulatoria e institucional de la participación del Banco de Fomento Agropecuario de El Salvador en los seguros agropecuarios",
+      "fecha": "2017-01-20",
+      "num_muestra": null,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40887.json",
+      "sha256_json": "6c5e5d6eb0b0f34470ac99cede0f404e784940c6ecff5e80870a1aec238f34e8",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40895",
+      "titulo": "OCDE - Avaliações de Desempenho Ambiental: Brasil 2015",
+      "fecha": "2015",
+      "num_muestra": 9,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40895.json",
+      "sha256_json": "7e6f4f3301faeb4d67d3fedf6816b5f7ea399b7dc112d25ed8f3f319c14b1cca",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/40922",
+      "titulo": "Cambio climático y políticas públicas forestales en América Latina: una visión preliminar",
+      "fecha": "2017-01",
+      "num_muestra": null,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_40922.json",
+      "sha256_json": "069850c8a68d44ca15efba088c201a55fdc9d4eec98b4e6256bc4e7ce2884816",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/41010",
+      "titulo": "Financiamiento para el cambio climático en América Latina y el Caribe en 2015",
+      "fecha": "2017-02",
+      "num_muestra": 41010,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_41010.json",
+      "sha256_json": "b7ecdad589de907e688791ffef397475f5cd64498418c9016b8753a323412efe",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/41041",
+      "titulo": "Vulnerabilidad y adaptación de las ciudades de América Latina al cambio climático",
+      "fecha": "2016-12",
+      "num_muestra": 41041,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_41041.json",
+      "sha256_json": "0f8be04354e9e37173162444d61261a4ed4cdbf5a43cb6b10850e44d88a7e88c",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/41101",
+      "titulo": "La transversalización del enfoque de género en las políticas públicas frente al cambio climático en América Latina",
+      "fecha": "2017-03",
+      "num_muestra": 47,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_41101.json",
+      "sha256_json": "3935939ca960869b9086393a99f033aa04d4f0dfd1c4614d814a13139b0b5976",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/41173",
+      "titulo": "Informe anual sobre el progreso y los desafíos regionales de la Agenda 2030 para el Desarrollo Sostenible en América Latina y el Caribe",
+      "fecha": "2017",
+      "num_muestra": 41173,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_41173.json",
+      "sha256_json": "b7578bb1f49ece2f5699db8d6be7602cb0b8d28070ed6825b32a7f3d64de45a4",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_41173.validation.json",
+      "sha256_certificado": "c1a56f5c6a775508c9d0f14630920ca33835d6fdb1e6dd2d4cd0589a5cfafa42",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/41783",
+      "titulo": "Estimación de costos asociados a la seguridad hídrica en la agricultura como medida de adaptación al cambio climático en Chile",
+      "fecha": "2017-06",
+      "num_muestra": 41783,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_41783.json",
+      "sha256_json": "88b3b6b54fb1ea64f80e3954d12d498224559c4d4aa56d10ba0b5acd4182315a",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/41830",
+      "titulo": "Valoración económica de los cobeneficios del aprovechamiento energético de los residuos agrícolas en el Ecuador",
+      "fecha": "2017-06",
+      "num_muestra": 49,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_41830.json",
+      "sha256_json": "d81ece79f8f5db685aec576622aa2903f52ba11792e3e0b65b2f93f228fd271d",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/41832",
+      "titulo": "Metodologías para apoyar la estimación de costos en la implementación del Plan Nacional de Adaptación y Mitigación al Cambio Climático en Guatemala",
+      "fecha": "2017-06",
+      "num_muestra": 0,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_41832.json",
+      "sha256_json": "9a6115719e4f5492ae537341f61193135ad1699be1a148445f39dec4ee719d9c",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/41867",
+      "titulo": "Efectos potenciales de un impuesto al carbono sobre el producto interno bruto en los países de América Latina",
+      "fecha": "2017-06",
+      "num_muestra": null,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_41867.json",
+      "sha256_json": "1fec35c6956433b8a276d98a1a8da576d98354461b66384ec5b38ff9691d5e3c",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/42057",
+      "titulo": "Identificación de instrumentos económicos, financieros, regulatorios y fiscales implementados por el Gobierno del Perú para un enfoque integrado del cambio climático",
+      "fecha": "2017-06",
+      "num_muestra": 11,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_42057.json",
+      "sha256_json": "c68b1567406b8c21c51d200a02712179490291d3ecbeb49c857bf1780bb0acf6",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/42140",
+      "titulo": "Energía, cambio climático y desarrollo sostenible: los desafíos para América Latina",
+      "fecha": "2017-09",
+      "num_muestra": 53,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_42140.json",
+      "sha256_json": "6f83904e1069acd7e126d693c8836067a59ec7305988baa4337f1fc962550c02",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/42154",
+      "titulo": "Informe del seminario sobre metodologías para el análisis de los potenciales impactos del cambio climático sobre la seguridad alimentaria y tradicional en los países del sistema de la integración Centroamericana (SICA)",
+      "fecha": "2017-09-27",
+      "num_muestra": 54,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_42154.json",
+      "sha256_json": "eefba24c18965372e00421d726de10d5097c41af73277b47800c828facfada38",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/42175",
+      "titulo": "Mainstreaming disaster risk management strategies in development instruments: Policy briefs for selected member countries of the Caribbean Development and Cooperation Committee",
+      "fecha": "2017-09",
+      "num_muestra": 42175,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_42175.json",
+      "sha256_json": "e01b4fc4f8b7d0cce7b46a1b5752b4a42dd5de61a0ce11347cf15335227ea626",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/42228",
+      "titulo": "La economía del cambio climático en América Latina y el Caribe: una visión gráfica",
+      "fecha": "2018",
+      "num_muestra": 56,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_42228.json",
+      "sha256_json": "8c98963b7a0ddf60a3533516e3c2940e9afea6dbcbccc03033b4a3677b0ef42a",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/42426",
+      "titulo": "Impactos potenciales del cambio climático en el ámbito hidroeléctrico en Panamá y la República Dominicana",
+      "fecha": "2017-11",
+      "num_muestra": 59,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_42426.json",
+      "sha256_json": "66f054b7fc53b1d7a326fd5250e881332e938443ab3d90b13749cf5f7c4164c1",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/42527",
+      "titulo": "Evaluaciones del desempeño ambiental: Perú",
+      "fecha": "2017",
+      "num_muestra": 42527,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_42527.json",
+      "sha256_json": "eee1d16e610e2f973891f7a998da54524fa932285529bf617db6ba056de4fbac",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/42723",
+      "titulo": "Estimación del valor económico de la captura de carbono por efecto de la forestación en el Uruguay",
+      "fecha": "2017-12",
+      "num_muestra": 42723,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_42723.json",
+      "sha256_json": "b137c9f72842efcd34dd08042a8e239561774d4d88a286bb432ceb22ef1c6ae1",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/42725",
+      "titulo": "Portafolio de políticas públicas de adaptación al cambio climático y mitigación de sus efectos con beneficios adicionales o 'sin arrepentimiento' en América Latina",
+      "fecha": "2017-12",
+      "num_muestra": null,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_42725.json",
+      "sha256_json": "df8a89841c59eb52165b63edce5a246be0807b81540ce7a6f44f3aaabfac96c7",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/43123",
+      "titulo": "Políticas públicas sectoriales para el cambio climático en América Latina: una aproximación",
+      "fecha": "2017-12",
+      "num_muestra": 63,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_43123.json",
+      "sha256_json": "906e260c88d790d1bbbef151c92949f2a529d2a6a47f99d93bbb1efdc21f0278",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/43159",
+      "titulo": "Estudio de las opciones y repercusiones de la aplicación de un sistema de permisos comercializables para la reducción de emisiones de carbono en Panamá",
+      "fecha": "2017-12",
+      "num_muestra": 64,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_43159.json",
+      "sha256_json": "9b76a6f4beddcda53ea6ed2a26298f7c3c349654e1e5a740c26f94ff6521a1e9",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/43334",
+      "titulo": "Beyond the copper sector: Chile’s engagement in international production networks",
+      "fecha": "2018-02",
+      "num_muestra": 66,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_43334.json",
+      "sha256_json": "a693f0606cbeec555639d3acdd5b82b346b752e32209fbecc6743a5208306cb4",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/43407",
+      "titulo": "Impactos, medidas de adaptación y costos sociales del cambio climático en el sector agrícola del Estado Plurinacional de Bolivia: La vinculación de políticas microeconómicas y macroeconómicas para un desarrollo sostenible",
+      "fecha": "2018-03",
+      "num_muestra": 67,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_43407.json",
+      "sha256_json": "ff1a9e2cdddaaeb247164f07c6e6decdd2134fe2086e406105b8cf3c52504ebe",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/43415",
+      "titulo": "Segundo informe anual sobre el progreso y los desafíos regionales de la Agenda 2030 para el Desarrollo Sostenible en América Latina y el Caribe",
+      "fecha": "2018-01",
+      "num_muestra": 43415,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_43415.json",
+      "sha256_json": "dfac379250564722559600de2413966166880bb962cf70531fad47f9ab942fb3",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_43415.validation.json",
+      "sha256_certificado": "d9449bfc40f3a473390dbd2dd46010d629c2ccdd93e7d23dcdcec95392e657ee",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/43419",
+      "titulo": "Análisis económico y ambiental de las contribuciones previstas determinadas a nivel nacional presentadas en América Latina y el Caribe: posibles impactos en las metas planteadas",
+      "fecha": "2018-03",
+      "num_muestra": 68,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_43419.json",
+      "sha256_json": "3c97064e88580dcce4130bbdace3b7a2792a988b9d5f5810a6cf551b2c3b7ea1",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/43442",
+      "titulo": "La ineficiencia de la desigualdad",
+      "fecha": "2018-05",
+      "num_muestra": 43442,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_43442.json",
+      "sha256_json": "cdebf236933a4ab9ee00f525a9dd2607b5ce26a7c992f782fcb45639b08c1a86",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_43442.validation.json",
+      "sha256_certificado": "bebb48201dc477bb81c84dcb639226a5fffa3924b6d79bc3e182f8644516a2b1",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/43581",
+      "titulo": "The Caribbean Outlook, 2018",
+      "fecha": "2018",
+      "num_muestra": 69,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_43581.json",
+      "sha256_json": "cddb091f0cf8c08f049e826f6438685240fea6090f01f40f4a01724bce177591",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/43583",
+      "titulo": "Regional Agreement on Access to Information, Public Participation and Justice in Environmental Matters in Latin America and the Caribbean",
+      "fecha": "2023",
+      "num_muestra": 70,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_43583.json",
+      "sha256_json": "6b0d0ec9ed8a8a99e248f0844e9b948e5641a4abfeca42593c7733eda0631ca2",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/43725",
+      "titulo": "La economía del cambio climático en Guatemala • Documento técnico 2018",
+      "fecha": "2018",
+      "num_muestra": 43725,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_43725.json",
+      "sha256_json": "17a3632f986e5a4200cabe2f8fa8e5cad82bd128a99996ca4c9de449e1b87632",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/43825",
+      "titulo": "Contribuciones a un gran impulso ambiental en América Latina y el Caribe: bioeconomía",
+      "fecha": "2018",
+      "num_muestra": 43825,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_43825.json",
+      "sha256_json": "8f8e49255a9cfc0d6b1ebf058c10d3d2df0425ff54a357447cb351fafc112ce1",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44056",
+      "titulo": "Cambio climático y seguridad alimentaria y nutricional en Centroamérica y la República Dominicana: propuestas metodológicas",
+      "fecha": "2018-09",
+      "num_muestra": 73,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44056.json",
+      "sha256_json": "96d08366f5a626b5a843071b1f35be9f70b205372125b1ad366cd6d9957ae394",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44096",
+      "titulo": "Efectos del cambio climático en la costa de América Latina y el Caribe: metodologías y herramientas para la evaluación de impactos de la inundación y la erosión por efecto del cambio climático",
+      "fecha": "2018",
+      "num_muestra": 74,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44096.json",
+      "sha256_json": "b49d1369f5868b406d8897373caf6754fe64f389bfac408116fe61d9d4131778",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44102",
+      "titulo": "Efectos del cambio climático en la costa de América Latina y el Caribe: reconstrucción histórica y proyecciones del efecto del cambio climático sobre el oleaje en la costa de Cuba",
+      "fecha": "2018-06",
+      "num_muestra": 75,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44102.json",
+      "sha256_json": "7a92ae46e858459afd8151224e3c54c3179d255cf72e7f3bdf3ea35dedfdaedd",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44103",
+      "titulo": "Efectos del cambio climático en la costa de América Latina y el Caribe: evaluación de los sistemas de protección de los corales y manglares de Cuba",
+      "fecha": "2018",
+      "num_muestra": 76,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44103.json",
+      "sha256_json": "0756f5056a6d6c609803e3069eae21d8e8843f9e7475bd8dbdb6cf4fbdb71e2a",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44162",
+      "titulo": "Acompañamiento técnico y fortalecimiento de capacidades de los productores agropecuarios en el contexto del cambio climático en Costa Rica: líneas de acción para la revitalización del servicio de extensión agropecuaria del Ministerio de Agricultura y Ganadería (MAG)",
+      "fecha": "2018-10",
+      "num_muestra": 77,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44162.json",
+      "sha256_json": "b04824dccfc4ef2c51522b8a9db8df85cb0de628ab5de31b07ce8cfaa682fb8a",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44163",
+      "titulo": "Café y cambio climático en la República Dominicana: Impactos potenciales y opciones de respuesta",
+      "fecha": "2018-10",
+      "num_muestra": 78,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44163.json",
+      "sha256_json": "a8741a3ac4b397d2128a31cde9052fdfaf5f3c08ecf71245e4d0373e9133da21",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44210",
+      "titulo": "El impuesto óptimo a la gasolina en Guatemala",
+      "fecha": "2018-06",
+      "num_muestra": 79,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44210.json",
+      "sha256_json": "d11d48431bbbe4c8c151057ec8a78ba2a1bc8df335750b4c49e20e1a88a7a50d",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44216",
+      "titulo": "Política económica y contribuciones determinadas a nivel nacional en los países de América Latina y el Caribe",
+      "fecha": "2018",
+      "num_muestra": 80,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44216.json",
+      "sha256_json": "6fcdae812f157797f1204818ab6a44cf4dcec56ebd2c4290991a9eddd93cc03d",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44218",
+      "titulo": "Potenciar la resiliencia de las ciudades y sus territorios de pertenencia en el marco de los acuerdos sobre cambio climático y de la Nueva Agenda Urbana",
+      "fecha": "2018-09",
+      "num_muestra": null,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44218.json",
+      "sha256_json": "9bb84d94370c933e6f2b308080bc61cd4c4201da42bc6d7d3344e29bf6451f18",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44280",
+      "titulo": "Estimación del impacto del cambio climático sobre los principales cultivos de 14 países del Caribe",
+      "fecha": "2018-12",
+      "num_muestra": 82,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44280.json",
+      "sha256_json": "3ae226d8f7b823b568672681264d8b9dfa5fa678756fb6db81bdab961285b198",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44371",
+      "titulo": "Ruralidad, hambre y pobreza en América Latina y el Caribe",
+      "fecha": "2018",
+      "num_muestra": 83,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44371.json",
+      "sha256_json": "b152aeaa66692a47a98fe25df1a7ff0da33958e05a5974f53587ca163c8760a5",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44472",
+      "titulo": "Mainstreaming disaster risk management strategies in development instruments (II): policy briefs for Barbados, Guyana, Saint Lucia, Suriname, and Trinidad and Tobago",
+      "fecha": "2019-01",
+      "num_muestra": 84,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44472.json",
+      "sha256_json": "6e7441bcbaa9721c97d7d43061bd935786c3c814a60c825f9f571da494277295",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44486",
+      "titulo": "A economia da mudança climática na América Latina e no Caribe: uma visão gráfica",
+      "fecha": "2019",
+      "num_muestra": 85,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44486.json",
+      "sha256_json": "cef0761fa27a4eec243b39eea1abb32799a17ece444c9d5f7737b939d2dc67dc",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44487",
+      "titulo": "Cuarto informe sobre financiamiento para el cambio climático en América Latina y el Caribe, 2013-2016",
+      "fecha": "2019",
+      "num_muestra": 86,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44487.json",
+      "sha256_json": "ea58e4a60ca3ab34fe20d00acca87ea9c4b3949f121ca0bd2cee5352db6711d9",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44551",
+      "titulo": "Informe de avance cuatrienal sobre el progreso y los desafíos regionales de la Agenda 2030 para el Desarrollo Sostenible en América Latina y el Caribe",
+      "fecha": null,
+      "num_muestra": 44551,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44551.json",
+      "sha256_json": "af461d464921af14fac15048acdddab5a61c123718d341927029051f9dbb6f9e",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_44551.validation.json",
+      "sha256_certificado": "58f2f89a44fdf1b021c937c364dbfc1aa0542114b7b8d8bc6f01ae3de0e6dee4",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44584",
+      "titulo": "Minería para un futuro bajo en carbono: oportunidades y desafíos para el desarrollo sostenible",
+      "fecha": "2019",
+      "num_muestra": 87,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44584.json",
+      "sha256_json": "46097aebc649a86eb79913c0c81112402c7d5798fb1064e9d9fbdc4f4595fa6e",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44590",
+      "titulo": "Logros y desafíos de la integración centroamericana: aportes de la CEPAL",
+      "fecha": "2019",
+      "num_muestra": 88,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44590.json",
+      "sha256_json": "5e4ffe29e2689436a073e30408352d44c1e914e4bf177d5fae47ae08cb79c4f1",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44640",
+      "titulo": "Hacia una bioeconomía sostenible en América Latina y el Caribe: elementos para una visión regional",
+      "fecha": "2019",
+      "num_muestra": 44640,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44640.json",
+      "sha256_json": "4c4b4bbe0e206182fbb9a23b7059ae218f0ef4fe4b777c54a528b454c0a1f8b5",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44970",
+      "titulo": "Cambio climático y derechos humanos: contribuciones desde y para América Latina y el Caribe",
+      "fecha": "2019-12",
+      "num_muestra": 90,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44970.json",
+      "sha256_json": "5c476d89bb5d0e233dd4497fc588746c6d62cce832190653f8272c1a1852a776",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/44974",
+      "titulo": "Panorama de las contribuciones determinadas a nivel nacional en América Latina y el Caribe, 2019: avances para el cumplimiento del Acuerdo de París",
+      "fecha": "2019-12",
+      "num_muestra": 91,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_44974.json",
+      "sha256_json": "e4b3d01ad8fe72c575dbe6394206871327bc51b397ad33f46b56ac1cc43f0a15",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45023",
+      "titulo": "Índices climáticos, políticas de aseguramiento agropecuario y gestión integral de riesgos en Centroamérica y la República Dominicana: experiencias internacionales y avances regionales",
+      "fecha": "2019-12",
+      "num_muestra": 92,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45023.json",
+      "sha256_json": "5b41740a3bcda4410a7ed5c80b3d69beddf7a7b649944165f95aecc066a7e9c2",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45046",
+      "titulo": "Study on trends in energy efficiency in selected Caribbean countries",
+      "fecha": "2019",
+      "num_muestra": 93,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45046.json",
+      "sha256_json": "0358dde0bdd2d016420fd2e17b7042bbf1e99531afcc69491e49a535f82851b0",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45066",
+      "titulo": "Synthesis of the Caribbean subregion midterm review report of the Small Island Developing States (SIDS) Accelerated Modalities of Action (SAMOA) Pathway",
+      "fecha": "2019-12",
+      "num_muestra": 94,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45066.json",
+      "sha256_json": "e312e4563e53a168bb0b51b092f7f627cca2aedeb65f665722d84d18cf5c02f4",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45098",
+      "titulo": "The enhancement of resilience to disasters and climate change in the Caribbean through the modernization of the energy sector",
+      "fecha": "2020-01",
+      "num_muestra": 95,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45098.json",
+      "sha256_json": "428f8589c00766d8a9c1aa2d6de3f5c9e72b01dbff548c69f9028f348254d6f0",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45108",
+      "titulo": "Promoting debt sustainability to facilitate financing sustainable development in selected Caribbean countries: A scenario analysis of the ECLAC debt for climate adaptation swap initiative",
+      "fecha": "2020",
+      "num_muestra": 96,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45108.json",
+      "sha256_json": "6af50b6a36ad52c268e7ace91deb87da60fe9181ca70c0aaf0d7a399f2a54847",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45111",
+      "titulo": "Perspectivas de la agricultura y del desarrollo rural en las Américas: una mirada hacia América Latina y el Caribe 2019-2020",
+      "fecha": "2019",
+      "num_muestra": 97,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45111.json",
+      "sha256_json": "75f09f3809ceca0c1a696664bf0d4fc6be42c26b6e87ce4507af1228eb3eb6fb",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45252",
+      "titulo": "La gestión y manejo de residuos sólidos y sus propuestas regulatorias e impositivas",
+      "fecha": "2017-04",
+      "num_muestra": 98,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45252.json",
+      "sha256_json": "c79565a76632988b658d4c9668eb1b957829732cb5cf1dc988f0655d05776e65",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45604",
+      "titulo": "Iniciativas para transparentar los aspectos ambientales y sociales en las cadenas de abastecimiento de la minería: tendencias internacionales y desafíos para los países andinos",
+      "fecha": "2020",
+      "num_muestra": 99,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45604.json",
+      "sha256_json": "4d13b85e589954b2a7b641a56fca2c987e09fc2371aecf282eebbab13f471105",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45677",
+      "titulo": "La emergencia del cambio climático en América Latina y el Caribe: ¿seguimos esperando la catástrofe o pasamos a la acción?",
+      "fecha": "2020-02",
+      "num_muestra": 100,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45677.json",
+      "sha256_json": "384b989f4f8d94ed817b8604e983debbd2968e9538a91c2127a9b044d07f627e",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45689",
+      "titulo": "Procesos de adaptación al cambio climático: análisis de América Latina",
+      "fecha": "2017-04",
+      "num_muestra": 101,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45689.json",
+      "sha256_json": "719401a6afa71d187df3e23415ff1c582aecd985685ba7f26cec2eb121d688eb",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45690",
+      "titulo": "La transversalización del enfoque de género en las políticas públicas frente al cambio climático en América Latina",
+      "fecha": "2017-04",
+      "num_muestra": 102,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45690.json",
+      "sha256_json": "afff9ae68555c95c5917c567da339e8a8507ad32de2c464809a8d9a2fdb33820",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45691",
+      "titulo": "El cambio climático y la economía política de las externalidades negativas y fiscales en América Latina",
+      "fecha": "2017-04",
+      "num_muestra": 103,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45691.json",
+      "sha256_json": "bb492dd856e47dffe82bb0304ebdeb8687e981a37397b3144cde3da9b1d3ef9a",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45692",
+      "titulo": "El cambio climático y sus efectos en la biodiversidad de América Latina",
+      "fecha": "2017-04",
+      "num_muestra": 104,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45692.json",
+      "sha256_json": "d6a5b02474bd8eb3bd651b3c0bc400160ef908702f1ba37c2a1a5b83c18c9e2c",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45693",
+      "titulo": "El cambio climático, la distribución del ingreso y la pobreza: el caso de México",
+      "fecha": "2017-04",
+      "num_muestra": 105,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45693.json",
+      "sha256_json": "bfa5dfe81e1950c24ce246d0747c18842de124c3ae00de09f6d89efe93c47054",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45696",
+      "titulo": "El cambio climático, la agricultura y la pobreza en América Latina",
+      "fecha": "2017-04",
+      "num_muestra": 106,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45696.json",
+      "sha256_json": "914ddb922f26840a822b4ac31de45a521a917e126a69186463dffbe1eb4e166f",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45697",
+      "titulo": "El cambio climático, las externalidades negativas y el impuesto sobre las gasolinas: aplicación para el Ecuador, El Salvador y México",
+      "fecha": "2017-04",
+      "num_muestra": 107,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45697.json",
+      "sha256_json": "0d67a515ec48b6ca69cabf8e5526c331a2d5405024fb5557e7d8f6113cc13660",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45698",
+      "titulo": "El cambio climático, las políticas públicas y la demanda de energía y gasolinas en América Latina",
+      "fecha": "2017-04",
+      "num_muestra": 108,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45698.json",
+      "sha256_json": "99853be8fa0e9b41aa287acc3f0f4b6f416ad8e8094967a43fec1027d4416e5e",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45699",
+      "titulo": "Propuesta de subasta de bonos de carbono para Chile y México",
+      "fecha": "2017-04",
+      "num_muestra": 109,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45699.json",
+      "sha256_json": "d1f36884af40379b9fd5f8f86b6275ea7f0405f2d71acc55029f95d919fabd79",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45700",
+      "titulo": "El cambio climático y el sector de energía en América Latina",
+      "fecha": "2017-04",
+      "num_muestra": 110,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45700.json",
+      "sha256_json": "bc5588b53d64b3831956885d1256b24493a7d6da58ef7bf6dc60e9f0700e8db7",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45703",
+      "titulo": "Federalismo ambiental en América Latina",
+      "fecha": "2017-04",
+      "num_muestra": 111,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45703.json",
+      "sha256_json": "011a81d0de800deeba321d875fd3d4bde1978e539333ae2aee174a6855f056d4",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45704",
+      "titulo": "Medidas de mitigación y adaptación al cambio climático en América Latina y el Caribe",
+      "fecha": "2017-04",
+      "num_muestra": 112,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45704.json",
+      "sha256_json": "fbaae1890c36a2f5b290bcd67e098ba7002097439cefac5eb59279b03e0add91",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45705",
+      "titulo": "El crecimiento bajo en carbono y la adopción de tecnologías para la mitigación",
+      "fecha": "2017-04",
+      "num_muestra": 113,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45705.json",
+      "sha256_json": "24c2e7788f5306f9fc8f71fc7aa68e5e3c05ba49548e238a71929d69c4b1982a",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45737",
+      "titulo": "Policy Brief: Planning for resilience: an integrated approach to tackle climate change in the Caribbean",
+      "fecha": "2020-07-02",
+      "num_muestra": 114,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45737.json",
+      "sha256_json": "ba5cde870efe4564873e742ab89782d5961a71f80450eb543f117e7f5f926ed7",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45966",
+      "titulo": "Assessment of the effects and impacts of the Hurricane Matthew: the Bahamas",
+      "fecha": "2020",
+      "num_muestra": 115,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45966.json",
+      "sha256_json": "120ba23cf7e1e9c793202401f7d99e1e41960259e41f904b747176b3db68f313",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45967",
+      "titulo": "Assessment of the effects and impacts caused by Hurricane Irma: the Bahamas 2017",
+      "fecha": "2020",
+      "num_muestra": 116,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45967.json",
+      "sha256_json": "e5f06d5887f09823c600f61e564725c3e224395393ae884c03e3ea2ad29d040c",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/45968",
+      "titulo": "Assessment of the effects and impacts of Hurricane Dorian in the Bahamas",
+      "fecha": "2020",
+      "num_muestra": 117,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_45968.json",
+      "sha256_json": "b8a751a42c95e614b775fbfbd9dac069fa17e4c9b4f27df34c83ecb795ecc9cb",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46019",
+      "titulo": "Escenarios para un desarrollo sostenible en la República Dominicana: un modelo econométrico estructural de emisiones de dióxido de carbono",
+      "fecha": "2020",
+      "num_muestra": 118,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46019.json",
+      "sha256_json": "96fb487d5a806058f76d9760e28ae18b77e2d26026f01964cabbc731b4fb00b8",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46227",
+      "titulo": "Construir un nuevo futuro: una recuperación transformadora con igualdad y sostenibilidad",
+      "fecha": null,
+      "num_muestra": 46227,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46227.json",
+      "sha256_json": "ec10d197aa67c0a4fe55d4947982eade1b1e7e1e0612a7203e412a519554052b",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_46227.validation.json",
+      "sha256_certificado": "8d79afbcfca0c4a3d7e2016c38efbe2f9197ec05dd18fb3fbf5b6fc38fc168cb",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46317",
+      "titulo": "Cambio climático y adaptación basada en la naturaleza: el potencial de la cobertura boscosa para reducir el impacto económico de las inundaciones en la República Dominicana",
+      "fecha": "2020",
+      "num_muestra": 120,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46317.json",
+      "sha256_json": "87cc517681a2acccaea7e4ef00d338e3748873c0e51276b23f9aef31b1b7bc22",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46433",
+      "titulo": "Fortalecimiento de la cadena de valor de café en la República Dominicana: en respuesta al cambio climático",
+      "fecha": "2020-11",
+      "num_muestra": 121,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46433.json",
+      "sha256_json": "72a5ad77776a1a45168eeebb3707f9e478f0f806eba6c4b35fe0984e6f83b320",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46482",
+      "titulo": "Transición energética de la República Dominicana: ¿cómo las estrategias de descarbonización del sector eléctrico aceleran la participación del sector privado en la contribución determinada a nivel nacional CDN?",
+      "fecha": "2020",
+      "num_muestra": 122,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46482.json",
+      "sha256_json": "6695c2b1580acb8245414fc67637f86d89d56eb5d82246f60e457c5c654c97c5",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46499",
+      "titulo": "Análisis espacial de datos históricos y escenarios de cambio climático en México, Centroamérica, Cuba, Haití y la República Dominicana",
+      "fecha": "2020",
+      "num_muestra": 123,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46499.json",
+      "sha256_json": "14033e1dad8467e024028cbfc7b5925a805eecd48360db2fda9ef4b4f6c8f32e",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46529",
+      "titulo": "Caribbean in Brief: an information document for Caribbean Small Island Developing States",
+      "fecha": "2020-12-22",
+      "num_muestra": 124,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46529.json",
+      "sha256_json": "3f4dfa6a6e95fab5578806d5046d822f6ebbc61d0bc59b027000c14ec4ecce86",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46575",
+      "titulo": "Amenazas de cambio climático, métricas de mitigación y adaptación en ciudades de América Latina y el Caribe",
+      "fecha": "2020",
+      "num_muestra": 125,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46575.json",
+      "sha256_json": "022672de3ae0c9334301da6ba2e4461ae341dba24c085e6a4701c7b86d4497d7",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46643",
+      "titulo": "A dimensão de gênero no Big Push para a Sustentabilidade no Brasil: As mulheres no contexto da transformação social e ecológica da economia brasileira",
+      "fecha": "2021",
+      "num_muestra": null,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46643.json",
+      "sha256_json": "91a31adabc93cfa8f6d1fbb591f003f3b423cad9a434e3f354b8c0b2bbf6ad87",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46681",
+      "titulo": "Evaluación de los efectos e impactos de las depresiones tropicales Eta y Iota en Guatemala",
+      "fecha": "2021",
+      "num_muestra": 127,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46681.json",
+      "sha256_json": "3b10bb71bbffb2d7c5a16b04aa61759aa591db71f8351226c56a3e6c16795432",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46682",
+      "titulo": "Construir un futuro mejor: acciones para fortalecer la Agenda 2030 para el Desarrollo Sostenible",
+      "fecha": null,
+      "num_muestra": 46682,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46682.json",
+      "sha256_json": "5b311095c59efdcfeeebfe383c732e1c6d58ef1c4cbbc4148293da13116abe7c",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_46682.validation.json",
+      "sha256_certificado": "4001790814d033c8772ad0ac465c708fbadcecfbd3efacba15a2a184bca79daa",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46853",
+      "titulo": "Evaluación de los efectos e impactos causados por la tormenta tropical Eta y el huracán Iota en Honduras",
+      "fecha": "2021-05",
+      "num_muestra": 129,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46853.json",
+      "sha256_json": "8f15dcf6adbcc719f5a9e63a1a53417a360a9c31ede284aadae34692b8b973e9",
+      "certificado_disponible": false,
+      "ruta_certificado": null,
+      "sha256_certificado": null,
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46957",
+      "titulo": "Metodología para la estimación del precio social del carbono en Chile y los países de América Latina y el Caribe",
+      "fecha": "2021",
+      "num_muestra": 130,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46957.json",
+      "sha256_json": "c4d7d013eb0ba062ef4d429dbeb573728e5909953a95091f6843090046175b5b",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_46957.validation.json",
+      "sha256_certificado": "8f7a76a05a2c5da19b8611e34ff69d0b7c21a8a5bf3d2fda96b9fb302359eb41",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46992",
+      "titulo": "Technologies for adapting to climate change: A case study of Korean cities and implications for Latin American cities",
+      "fecha": "2021",
+      "num_muestra": 9,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46992.json",
+      "sha256_json": "d6766aa9a885954e798da40f750be610a1e0f49e22ac7c83256fa6ccc2ea7537",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_46992.validation.json",
+      "sha256_certificado": "b63ed000b4a34218d46bc12ff64684676b0cb6037516a6a110aff4e2da1be0a5",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/46996",
+      "titulo": "La igualdad de género ante el cambio climático: ¿qué pueden hacer los mecanismos para el adelanto de las mujeres de América Latina y el Caribe?",
+      "fecha": "2021",
+      "num_muestra": 132,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_46996.json",
+      "sha256_json": "95d8e92e3a950a2832ecbbad48dbfb71afcf415568d0476708154ad10a0cc543",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_46996.validation.json",
+      "sha256_certificado": "dcb3ba2a8d02d5e35b0d05144d4927f036b6576a85510597341c64631a363cb0",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47041",
+      "titulo": "Estado de la implementación del Programa de Acción de Viena en favor de los Países en Desarrollo Sin Litoral para el Decenio 2014-2024",
+      "fecha": "2021",
+      "num_muestra": 133,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47041.json",
+      "sha256_json": "9c67b07732d6f5fcaff6afc9d2d6bd77164fac6e92f919ce67240e0ec46a969a",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_47041.validation.json",
+      "sha256_certificado": "409f8dbcd848604342303c2a9ff81b8f2bc2bc45dc900bd42b9b5dd07ac197b7",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47109",
+      "titulo": "Impacto de las medidas y/o tecnologías de Remoción de Dióxido de Carbono sobre los Objetivos de Desarrollo Sostenible en América Latina y el Caribe: Resumen para responsables de políticas",
+      "fecha": "2021-03",
+      "num_muestra": 134,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47109.json",
+      "sha256_json": "d548a692f7c512b413a1de0b18e80a1ce2326016e3d74b1916a561b821323a5a",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_47109.validation.json",
+      "sha256_certificado": "6f9d0894c7c0330ac6904a2e5a8a1b7265afa24aec15e11799bd9b445457f2ed",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47270",
+      "titulo": "Prácticas promisorias que promueven la igualdad de género y la autonomía de las mujeres en la respuesta al cambio climático en América Latina y el Caribe",
+      "fecha": "2021",
+      "num_muestra": 135,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47270.json",
+      "sha256_json": "1d9dd9b71e7b9d653438b883558553278157bb9675ddfcfe27ff1795f721478b",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_47270.validation.json",
+      "sha256_certificado": "3f5c39663025f39c0bb521aa0b91adf91190e6532a2f6836e21a6e0c0f5d69e9",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47534",
+      "titulo": "Salud y cambio climático: metodologías y políticas públicas",
+      "fecha": "2021",
+      "num_muestra": 136,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47534.json",
+      "sha256_json": "a043e021dbe195e2906db67e1886436db7f70ee63e8af22bd5439640f241e8c6",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_47534.validation.json",
+      "sha256_certificado": "bf496e9f6b888b1ade98b844d219582d93ae87a9d5beede78d515cc1098165a4",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47604",
+      "titulo": "Conceptualizing a circular economy in the Caribbean: perspectives and possibilities. Policy Brief",
+      "fecha": "2021-12-09",
+      "num_muestra": 137,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47604.json",
+      "sha256_json": "fd54a34aee1b6e7ed9ecdb90293ed2187c910ca39f55235b6ba8487a5dafa485",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_47604.validation.json",
+      "sha256_certificado": "9b0abf8282a2a428aef743544607b37cd035c700a832f047351af2fc30e7948d",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47624",
+      "titulo": "Essential elements of the ECLAC Caribbean Resilience Fund: a segregated portfolio trust fund. Policy Brief",
+      "fecha": "2021-12-21",
+      "num_muestra": 138,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47624.json",
+      "sha256_json": "3c19c884757d439bbd4e9ccba58c09a22806f0175d6fb909502c76b0e31a2a62",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_47624.validation.json",
+      "sha256_certificado": "d3535617f5bd6a1851871ed62137d95911df718374811d84b5296027cd66c9c9",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47676",
+      "titulo": "Soluciones basadas en la naturaleza: el potencial de la restauración y conservación de bosques para la adaptación al cambio climático en Centroamérica",
+      "fecha": "2021",
+      "num_muestra": 139,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47676.json",
+      "sha256_json": "3617c213b55b9008ff904772270a91965949111970ee237e2249f22a807d3a60",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_47676.validation.json",
+      "sha256_certificado": "742cbd01e80b472dc7ceb6950a765dda2790dcc32b4df40b1e0b98eb0c6bed89",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47714",
+      "titulo": "La autonomía de las mujeres y la igualdad de género en el centro de la acción climática en América Latina y el Caribe",
+      "fecha": "2022-01",
+      "num_muestra": 140,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47714.json",
+      "sha256_json": "9ea18ededbfd0cfdbb0e98a4f4dccfa9d3168b93c27a71b1d76addda725073a4",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_47714.validation.json",
+      "sha256_certificado": "0dbc7d02718fcc056cd4d4a23f0c4efad7f4ad34788c58689c28a9afcad4b31d",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47720",
+      "titulo": "Cómo financiar el desarrollo sostenible: recuperación de los efectos del COVID-19 en América Latina y el Caribe",
+      "fecha": "2022-01-27",
+      "num_muestra": 141,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47720.json",
+      "sha256_json": "bac14714f49713c81a94bda9b0e757d6142a0bddfbef55f1304790c06c3f7cb5",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_47720.validation.json",
+      "sha256_certificado": "95f141cc78bbf260cd2ea1ca94385030da88cc601ac1b98bbdfd6d19ee979e08",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47729",
+      "titulo": "Aumento de la ambición en la adaptación al cambio climático en América Latina y el Caribe: necesidad de métricas comunes",
+      "fecha": "2021-01",
+      "num_muestra": 142,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47729.json",
+      "sha256_json": "219c9f2b5182614283e10ae9ca572e318ec4575f57b4aa69d710177fbdc02a47",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_47729.validation.json",
+      "sha256_certificado": "390f3c66d24236d683fc9fde3d2e15a56b241fb891478d4832a614f3977d8f16",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47730",
+      "titulo": "Efecto del impuesto al CO2 en el sector de la energía de países seleccionados de América Latina y el Caribe",
+      "fecha": "2022",
+      "num_muestra": 143,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47730.json",
+      "sha256_json": "338a50c58f8c61732c0a861662dd39abf51ce60d3ad76018ced6881538a29d3c",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_47730.validation.json",
+      "sha256_certificado": "6e21a5fa6da85e404741a0f35de50d8d5934e28a9629b1c7cb2de55bbbcef3df",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47732",
+      "titulo": "Herramientas para acelerar la implementación de los planes de acción climática en América Latina y el Caribe",
+      "fecha": "2022",
+      "num_muestra": 144,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47732.json",
+      "sha256_json": "a7518027e8805f796c6dbb3dab40b011d952485867079505bbf1fd1042b63986",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_47732.validation.json",
+      "sha256_certificado": "4c793573ab2b2febf34a854d5e9ae32a687ab760b86699141d9de4a0a7ecf282",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47733",
+      "titulo": "Panorama de las actualizaciones de las contribuciones determinadas a nivel nacional de cara a la COP 26",
+      "fecha": "2022",
+      "num_muestra": 145,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47733.json",
+      "sha256_json": "ee42d7387e7589884ae4f16ae09ce735802166ca74b11a3febea3b18f049514d",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_47733.validation.json",
+      "sha256_certificado": "155bcdff77589305b095d2a82decb9b9e22e9a6654b274c23a498c4bd3131f33",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47855",
+      "titulo": "Panorama de las relaciones fiscales entre niveles de gobierno de países de América Latina y el Caribe",
+      "fecha": "2022",
+      "num_muestra": 146,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47855.json",
+      "sha256_json": "6420f94d6fd2816fe9bb2c931baa4b91e05d61706bf9adf72798fec0ce324a11",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_47855.validation.json",
+      "sha256_certificado": "f1bdd5a192cf14601a11a8f99722077eb2400e0f9ea63ff4064ba95774e6613e",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47868",
+      "titulo": "Reducing emissions from the energy sector for a more resilient and low-carbon post-pandemic recovery in Latin America and the Caribbean",
+      "fecha": "2022",
+      "num_muestra": 147,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47868.json",
+      "sha256_json": "98697f1e5fec8554c68ca66449fa90f73af7329416ff0d55c21892e9a5529306",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_47868.validation.json",
+      "sha256_certificado": "36d403bfb2510362f9e0b4db7d5d79f22fb0354b89304fa2e0ab6f948d885b22",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47883",
+      "titulo": "Las tres brechas del desarrollo sostenible y el cierre de la brecha ambiental en Chile: oportunidades para una recuperación pospandemia más sostenible y con bajas emisiones de carbono en América Latina y el Caribe",
+      "fecha": "2022",
+      "num_muestra": 148,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47883.json",
+      "sha256_json": "792ee22c352eccdd26f7980fe83f96be7a927377a05d6d1f2a6d311133f13ea3",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_47883.validation.json",
+      "sha256_certificado": "c55ddbf0b02f0fe1824c8d046354a40ae07c0d8fa8462e91ba6872872ff93e58",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/47903",
+      "titulo": "Cuentas ambientales para la formulación e implementación de la política climática",
+      "fecha": "2022",
+      "num_muestra": 149,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_47903.json",
+      "sha256_json": "e491ce8690c5c9feda76db0846ea37c4a46ef68f3b1d5cc7ec88dd702a0e8ac8",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_47903.validation.json",
+      "sha256_certificado": "50439d5ac61892a465c057a1ce90ee7a986b4737f97098c9217188fc22c89ed8",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48071",
+      "titulo": "La autonomía de las mujeres y la igualdad de género en el centro de la acción climática en América Latina y el Caribe",
+      "fecha": "2022",
+      "num_muestra": 48071,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48071.json",
+      "sha256_json": "a6ebd4f3725919ddd76ef88e8379494bdd6f7d75bc91ddefc1ab92f9b2006c7d",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_48071.validation.json",
+      "sha256_certificado": "902f81be4dbfec0402843c6f9a60ff13e1b2d41c9ed947df0ca175a099b2c596",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48097",
+      "titulo": "Climate action guidelines 2022–2030: City of Belmopan, Belize",
+      "fecha": "2022",
+      "num_muestra": 151,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48097.json",
+      "sha256_json": "addec883533a4d20581dd86f13dcc8e2aefec0816520cee4b31be9bab1e800f5",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_48097.validation.json",
+      "sha256_certificado": "905d9821fe074b8252168511400d0ca755b314977d5044c7fd17d4c19d4f1d0b",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48102",
+      "titulo": "Compendio preliminar de proyectos de inversión en acción climática para América Latina y el Caribe",
+      "fecha": "2022",
+      "num_muestra": 152,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48102.json",
+      "sha256_json": "8397140ed0565e6b5c6db4227d4f96688bd511053faba0f630cb29974f632bfa",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_48102.validation.json",
+      "sha256_certificado": "c71501ad627fd040868a441175b782609e8d303e429ddf5d9fa20d97831da4a4",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48118",
+      "titulo": "Llaqtapa Allinllanakuy, Willakuyman Yaykunapaq, Lliw Llaqta Runakunaman Chayananpaq, Chaynallataq Pachamamamanta Kamachikunapaq, América Latina y el Caribe Suyukunapi",
+      "fecha": "2019-08",
+      "num_muestra": 48118,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48118.json",
+      "sha256_json": "272d67dbdaae901ebee2eefa12be6ef5f568bb39d7b1e80be77b1ab2cf091cd0",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_48118.validation.json",
+      "sha256_certificado": "3b485143ed3400a56d461117590581ece0c098d8f20d4b8246d2d9797a566bd5",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48122",
+      "titulo": "Panorama de los planes de acción climática en ciudades de América Latina y el Caribe",
+      "fecha": "2022",
+      "num_muestra": 154,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48122.json",
+      "sha256_json": "6f40fc648f87e54e54e8fd56fe82ab0ce36f080f8fbaf0ac69c6ca065cfc97ff",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_48122.validation.json",
+      "sha256_certificado": "0873f3cc45c71a8d0c6276e358bd8af8883c366fbd7d1c44cd5592daf7bdf049",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48144",
+      "titulo": "Resilient and affordable housing in the Caribbean: Policy recommendations towards a transformative, green and inclusive recovery strategy. Policy Brief",
+      "fecha": "2023-01-30",
+      "num_muestra": 48144,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48144.json",
+      "sha256_json": "44f35de3c2ed2cf60ec1ab147f069887350b685305b08c6a809e14bd3a073373",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_48144.validation.json",
+      "sha256_certificado": "7f57d9a5711592af67268c8ec2d1a7f30feab1b259c39a8b78a29398ac190c70",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48156",
+      "titulo": "Gobernanza corporativa en América Latina y el Caribe: el uso de instrumentos de deuda ambientales, sociales y de gobernanza para financiar proyectos de inversión sostenible",
+      "fecha": "2022",
+      "num_muestra": 48156,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48156.json",
+      "sha256_json": "104d4b0c2dfec120b799d6106ccc956ad56c66e16fea3ee0b27c12d7de2c070b",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_48156.validation.json",
+      "sha256_certificado": "cfc3dd63d45f35cd93a7273f5c4fe1637fef831ebd1bc947f9797cbb666e96d3",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48166",
+      "titulo": "Lineamientos para la acción climática de Santo Domingo, Distrito Nacional, 2022-2030",
+      "fecha": "2022",
+      "num_muestra": 48166,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48166.json",
+      "sha256_json": "ce31081d26eb305909eb6558cccc82240d318fc7a97eed4c6c52f5463bee9d75",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_48166.validation.json",
+      "sha256_certificado": "bc53fb3fcbe7cafc1b37ad2c8e4e52af91c37b17095bcee25ad71054b6bc7c12",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48200",
+      "titulo": "La recuperación del turismo como pilar del gran impulso para la sostenibilidad",
+      "fecha": "2022",
+      "num_muestra": 158,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48200.json",
+      "sha256_json": "ab4da0d26c464c726ca27016405db96a68b39c49226d7380ddefdc66b3988c51",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_48200.validation.json",
+      "sha256_certificado": "fa1a4fe0f15562bb7363e5b9efbb140d5b21d1b4ffc5c8fe04790433760426a0",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48290",
+      "titulo": "Reglas de procedimiento de la Conferencia de las Partes",
+      "fecha": "2022",
+      "num_muestra": 159,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48290.json",
+      "sha256_json": "d5c5f7205ff369751d6b944f83ab532c9b1b6486e3da842afb97549b190e399b",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_48290.validation.json",
+      "sha256_certificado": "592301eacf88d4a46352bf11216c113c31f7c85d7377336534a9ef9edb8bf083",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48304",
+      "titulo": "Hacia la transformación del modelo de desarrollo en América Latina y el Caribe: producción, inclusión y sostenibilidad. Síntesis",
+      "fecha": "2022",
+      "num_muestra": 48304,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48304.json",
+      "sha256_json": "11368f552c05c00db3daf5970351b458ca9148c3720f509f447e7ba31c13ae13",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_48304.validation.json",
+      "sha256_certificado": "79b198caec5be4daf411ed45dc55d87578409b2e66ab2c176f2255c663064733",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48413",
+      "titulo": "Acción climática con igualdad de género: hacia una recuperación transformadora para la sostenibilidad y la igualdad de género en América Latina y el Caribe",
+      "fecha": "2022",
+      "num_muestra": 160,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48413.json",
+      "sha256_json": "99160dfa0e59759540293bed7180210b652294a86fed414a5c964f251d3634da",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_48413.validation.json",
+      "sha256_certificado": "9a50091df2ecc2e300607246962c4cbabe0665ac00408405eecbe835aa9cc81b",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48491",
+      "titulo": "Diagnóstico situacional de los sistemas nacionales de inversión pública: Panamá 2020",
+      "fecha": "2020",
+      "num_muestra": 2,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48491.json",
+      "sha256_json": "e6ffafc99b316a671a9a71d4eea091ea9ca69b73526da06eb2e4bac6031090a2",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_48491.validation.json",
+      "sha256_certificado": "fcc3a197f88fbfa770aa7931b17e48336c33256fa5b7d27d3e73278987329e65",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48524",
+      "titulo": "Impactos macroeconómicos del cambio climático en América Latina y el Caribe: revisión de la literatura, 2010-2021",
+      "fecha": "2022",
+      "num_muestra": 0,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48524.json",
+      "sha256_json": "3e60086eda27104328ae65e10e320b90d3b3c388f482d5f1f004d276a83e66e7",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_48524.validation.json",
+      "sha256_certificado": "6982c5343346c563bd3dfaf2f7712641b60ce8f3d498d9702df3b2845d631418",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48541",
+      "titulo": "Enfoques y prácticas de gobernanza en América Latina y el Caribe para el cambio transformativo a favor de la biodiversidad",
+      "fecha": "2022",
+      "num_muestra": 48541,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48541.json",
+      "sha256_json": "145bbc52bf78ce8c31ca9310cd620ba906c36f965a95edf8292488734139e437",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_48541.validation.json",
+      "sha256_certificado": "9e947377480802aaabb9613b377d28718825a9eab5cb8291a83d8a55741ef3d7",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48543",
+      "titulo": "Experiencias de integración de la biodiversidad en los sectores productivos, económicos y financieros de América Latina y el Caribe",
+      "fecha": "2022",
+      "num_muestra": 164,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48543.json",
+      "sha256_json": "515c6fe457b407458cf3408820bfcc2de359e51d5eabe7168ac5f4217b3fb683",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_48543.validation.json",
+      "sha256_certificado": "ea0af39bcc3a9e5f8d21eb4fbd37a55338b2b2f3dafc2b2f945ab263156c7941",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48555",
+      "titulo": "Potential trade implications of Latin America and the Caribbean’s climate commitments under the Paris Agreement",
+      "fecha": "2022",
+      "num_muestra": 165,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48555.json",
+      "sha256_json": "d75c6bdaa587343c75feb7557789437d23a239f92524e42a60ac844c3afcfdc1",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_48555.validation.json",
+      "sha256_certificado": "755b97dfa7597f458fda8554686c55b6dcb2bfceaa3573fc858b5738e6afbcb9",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48611",
+      "titulo": "Diagnóstico situacional de los sistemas nacionales de inversión pública: Nicaragua 2020",
+      "fecha": "2022",
+      "num_muestra": 0,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48611.json",
+      "sha256_json": "04495812c535a611833fae1ba5dba3b78543f74afc43d78f306266cb75c08673",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_48611.validation.json",
+      "sha256_certificado": "7e6e108e620d69982e85448c97384c164f861472262a4960507c5aa9e618e005",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48736",
+      "titulo": "Diagnóstico situacional de los sistemas nacionales de inversión pública: Honduras 2020",
+      "fecha": "2023",
+      "num_muestra": 169,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48736.json",
+      "sha256_json": "91527d6fd5e436b4e408a9c74009148f042032df21dc81aa444cd6205d21dbee",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_48736.validation.json",
+      "sha256_certificado": "52e37dc9e14ed73706469b168df06e53b8dbabd7f45bab60840248f33bea959c",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48823",
+      "titulo": "América Latina y el Caribe en la mitad del camino hacia 2030: avances y propuestas de aceleración",
+      "fecha": null,
+      "num_muestra": 48823,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48823.json",
+      "sha256_json": "fe7622766cf446b75c1a3a21dc9990b65270d3feea316c7160b8a87222b418d9",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_48823.validation.json",
+      "sha256_certificado": "ac22f138dc21c8dc13d843d5585b575e3ec75d3fa959f4238b1c268156322403",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48880",
+      "titulo": "Costos asociados a la inacción frente al cambio climático en Chile: síntesis",
+      "fecha": "2023",
+      "num_muestra": 9,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48880.json",
+      "sha256_json": "638685d6915865f3a4f1adcda80a0eb2a90e9205fc26b53f12cd202bb02ad460",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_48880.validation.json",
+      "sha256_certificado": "4c318ebdf71a41e4cea633e41a4f417a0922f5345b91804ad5ed5e16dd71d016",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48901",
+      "titulo": "Estudo comparativo sobre normas e critérios de patenteabilidade de invenções biotecnológicas. Sumário executivo",
+      "fecha": "2023",
+      "num_muestra": 48901,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48901.json",
+      "sha256_json": "45e7b58f26c7f65eeafd0a20abc5e4fa61dd4fb4b0b5e3caae5f1ec659ea15a7",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_48901.validation.json",
+      "sha256_certificado": "107a2c5e17271408bc0c71d0f92fb2f98ca872b1d2ad644f6cd5fb378ef5ad11",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/48958",
+      "titulo": "Advancing geospatial information management for disaster risk management in the Caribbean",
+      "fecha": "2023",
+      "num_muestra": 48958,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_48958.json",
+      "sha256_json": "36a77b73c845196ec79ddaf0dbfb3ae85a8b6d9fb22eec8ff09833b16886750c",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_48958.validation.json",
+      "sha256_certificado": "fce3de2529e024bce6d0e774ca118bf8627b1506b3213839adc3f843ee78a9ce",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/49053",
+      "titulo": "Estándares y certificaciones internacionales voluntarias en materia de minería sostenible en los países andinos",
+      "fecha": "2023",
+      "num_muestra": 175,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_49053.json",
+      "sha256_json": "1dba0cd874da90f59d3a0277ac058cb1f637dd5244baa04325d11486efbf0623",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_49053.validation.json",
+      "sha256_certificado": "f87840370779c8648d981ff0f3eeb9b5dd8cbf4dd721d470acff668b95518a49",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/67979",
+      "titulo": "Los efectos del cambio climático en la actividad económica de América Latina y el Caribe: una perspectiva empírica",
+      "fecha": "2023",
+      "num_muestra": 67979,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_67979.json",
+      "sha256_json": "61b98f34e75bd0b95a7036494cab0f1a0f3e2cf1634572850e1799c705e134e6",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_67979.validation.json",
+      "sha256_certificado": "2e351ebff786483762bddb55f53f409c1fc919e122a06f97f36e2bb5f8187232",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68644",
+      "titulo": "Modelo conceptual para integrar la reducción del riesgo de desastres y la adaptación sostenible e incluyente al cambio climático en la inversión pública",
+      "fecha": "2023",
+      "num_muestra": 177,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68644.json",
+      "sha256_json": "d95ea6a11cff3f53b73622121d7af875fcbe47eb9458f1ad945c7affeb96ce0e",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_68644.validation.json",
+      "sha256_certificado": "29d03f919c4aba9a19da986d830aeca332b1e1fe47e7e8c0321b5e6be752edcc",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68648",
+      "titulo": "Análisis de vulnerabilidad agrícola al cambio climático para la región del Sistema de la Integración Centroamericana (SICA)",
+      "fecha": "2023",
+      "num_muestra": 178,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68648.json",
+      "sha256_json": "4554a1982ec8a754c2b6eb1bd44d6ecb471c4f4aac93d4b14e17c26c40ad5440",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_68648.validation.json",
+      "sha256_certificado": "42644f36a360aaea5dc8545011fc8d38626de2932f34ff372c6fc08319640fae",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68657",
+      "titulo": "Estudo Econômico da América Latina e do Caribe 2023. O financiamento de uma transição sustentável: investimento para crescer e enfrentar a mudança climática. Resumo executivo",
+      "fecha": "2023",
+      "num_muestra": 17,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68657.json",
+      "sha256_json": "e8976ee95cf7851dbc6b9f5568610705128b549ed01f68136845d3a23a0eab71",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_68657.validation.json",
+      "sha256_certificado": "8dd1782ad9598779b42fb168dac53431a4c2b23a9879db44936686286a08a8b5",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68686",
+      "titulo": "Información climática disponible y recomendaciones para su uso en la inversión pública en los países del COSEFIN/SICA",
+      "fecha": "2023",
+      "num_muestra": 68686,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68686.json",
+      "sha256_json": "1d16694b98a43dca75d1343ae7c003d306357a116d0a2cccf98efe99b5010877",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_68686.validation.json",
+      "sha256_certificado": "8a2fbb98e642bf72dd4fb8cbe0e7a75d7d270b2045df48bea73aeb76b2e2fea7",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68704",
+      "titulo": "Criterios para la integración del cambio climático en la evaluación ambiental de proyectos de inversión",
+      "fecha": "2023",
+      "num_muestra": 181,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68704.json",
+      "sha256_json": "fc35e785e0dda89eead6277bb662b30770f4dfcc9144eb51724a91266a42be04",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_68704.validation.json",
+      "sha256_certificado": "304ecd675a694c59b2d87983fae660e3ed5a668a664c395ed191ce0f398066d1",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68712",
+      "titulo": "The economics of climate change in Latin America and the Caribbean, 2023: financing needs and policy tools for the transition to low-carbon and climate-resilient economies",
+      "fecha": "2023",
+      "num_muestra": 182,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68712.json",
+      "sha256_json": "2caf96e79ffca6a12630401705b45382ff8af7461127ffd8b2c3095ee1fdf1ad",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_68712.validation.json",
+      "sha256_certificado": "40869101df8a45f86827b4694a68e2e2c34248033dab8e73a179794ea81bbb32",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68756",
+      "titulo": "Canales de impacto del cambio climático en la infraestructura vial",
+      "fecha": "2023",
+      "num_muestra": 0,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68756.json",
+      "sha256_json": "ea98c05a461a56a3bc90b80e2d55ed03b5d7a09e9f0d04b3ea9e02cc5a23a6f4",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_68756.validation.json",
+      "sha256_certificado": "b8f47ba551a0427a51bdd924b3045f0d442b12a865e76de7a2fd7375dec43fe4",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68761",
+      "titulo": "Exposición macroeconómica de los países de América Latina en la transición verde",
+      "fecha": "2023",
+      "num_muestra": 68761,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68761.json",
+      "sha256_json": "27b5ad8a1bf7393bee4ca7e69b39b124d8209bef89541e9331d44edecfa5b43a",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_68761.validation.json",
+      "sha256_certificado": "81ecb1efdaec5e7647a09db076b5f37301d8a6260c8b9730bc620b2dbbe30e85",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68770",
+      "titulo": "Modelo econométrico estructural de emisiones de gases de efecto invernadero y cambio climático para América Latina y el Caribe",
+      "fecha": "2023",
+      "num_muestra": 68770,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68770.json",
+      "sha256_json": "d223170985281a6f4a23902b8736fcd929dc2e0d645d91df23f4e59e50fa8fc8",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_68770.validation.json",
+      "sha256_certificado": "6d831202c8ede0fb8a27813c2e0df05f506689a525afba7fe00f799a4afe5b64",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68796",
+      "titulo": "Geospatial information management to support sustainable development in Caribbean small island developing States. Policy Brief",
+      "fecha": "2023-12-28",
+      "num_muestra": 68796,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68796.json",
+      "sha256_json": "ebac08f60e641063725b3a5ae979fe073b00a8b17a7d0c3b1b7fcd7cbf47ee98",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_68796.validation.json",
+      "sha256_certificado": "6ce5b60fcfd0ac54ab6051ad3b8418c415b6609f6c43883cac1fcbd14172ebc6",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68797",
+      "titulo": "Progress in implementation of the Samoa Pathway: Caribbean regional synthesis report",
+      "fecha": "2023",
+      "num_muestra": 121,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68797.json",
+      "sha256_json": "6e5d2c32a1aacb19c8b4df75abe5400db6ccde0c8709adbf1f2e514da7bfed41",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_68797.validation.json",
+      "sha256_certificado": "a156d99a1fbd6bdb06d05f9fd3009dcb35606420f8d53b8c3efdcbd6bdeb6d56",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68818",
+      "titulo": "Caribbean Outlook: Considering a Caribbean emissions trading scheme. Policy Brief",
+      "fecha": "2024-01-05",
+      "num_muestra": 188,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68818.json",
+      "sha256_json": "4892cb0aaa6315aa96dd256faa99e38a5117f10e4e301ab7f6cdb593be3a53bc",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_68818.validation.json",
+      "sha256_certificado": "8eb8f363b417302f9d6f9ea2c62035563ad052bd145499a83e151a83a7de42d0",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/68877",
+      "titulo": "Legislación marco de cambio climático en América Latina y el Caribe. Boletín legislativo",
+      "fecha": "2024",
+      "num_muestra": 68877,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_68877.json",
+      "sha256_json": "5aaa4aebac3a77dffd02708b8ebe77a56ff5d4172fc6ea35dd3359a5b18354d9",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_68877.validation.json",
+      "sha256_certificado": "4b5ffd1aa0a8c61d53ce33e16b0531d5fb677cf685a34c0ade2503e09c4eb18a",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/69132",
+      "titulo": "América Latina y el Caribe ante el desafío de acelerar el paso hacia el cumplimiento de la Agenda 2030",
+      "fecha": null,
+      "num_muestra": 69132,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_69132.json",
+      "sha256_json": "5865aba4970dc4539f1dd0d7e27fc282986c7efc4cccb58c91f4d4ddd4705076",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_69132.validation.json",
+      "sha256_certificado": "99f004602ab2d5bb5159b3be198c1d27e98dd77f2e92e9e37f2a913625828ac6",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/69216",
+      "titulo": "Panorama Fiscal de América Latina y el Caribe, 2024: política fiscal para enfrentar los desafíos del cambio climático",
+      "fecha": "2024",
+      "num_muestra": 69216,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_69216.json",
+      "sha256_json": "588f8a0aa1ac45e0f956c29c05c7c7e46809535376098efb0035707d6018fd6a",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_69216.validation.json",
+      "sha256_certificado": "4d1777684a2190c9f8be82c2242a548fa9bd20be7b1ebd7b2eafa96bacb329a2",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/80433",
+      "titulo": "Reversing direction in the used clothing crisis: Global, European, and Chilean perspectives",
+      "fecha": "2024",
+      "num_muestra": 193,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_80433.json",
+      "sha256_json": "1a2385663a435513a0a31c298c7c1b4e4102265c227634574b905d2ece7bf3ec",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_80433.validation.json",
+      "sha256_certificado": "4361fa077ad441e5eaaf24cd37dd0a756ee803495c77606ee3baafdc00be1886",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/80499",
+      "titulo": "Política económica y cambio climático: fijación de precios del carbono en América Latina y el Caribe",
+      "fecha": "2024",
+      "num_muestra": 194,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_80499.json",
+      "sha256_json": "2e10f433578f5812975507d7b8ad27daa2ca1a05c670f8080154a29581b5d843",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_80499.validation.json",
+      "sha256_certificado": "05dd9de573fc47f07c3b9323912c552842d5a85bcc6045b9ecf2fd1e0b88ce96",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/80561",
+      "titulo": "Desafíos y oportunidades para la ejecución de proyectos de inversión pública con criterios de sostenibilidad: presentaciones en el XI Seminario de la Red de los Sistemas Nacionales de Inversión Pública de América Latina y el Caribe",
+      "fecha": "2024",
+      "num_muestra": 80561,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_80561.json",
+      "sha256_json": "cc2f9214e03198bbdb33214152e8557cc50204e87b89245a866c4f8f4a677daa",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_80561.validation.json",
+      "sha256_certificado": "d3b62a4d430c82ce692c874e58f46fa05e77a500ccc12752d65ab152f7aa9248",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/80595",
+      "titulo": "Estudio Económico de América Latina y el Caribe, 2024: trampa de bajo crecimiento, cambio climático y dinámica del empleo",
+      "fecha": "2024",
+      "num_muestra": null,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_80595.json",
+      "sha256_json": "a84b516296770f8fc6177b2b05c2759c5c2ee878773c9f5373bf3480d6a111cc",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_80595.validation.json",
+      "sha256_certificado": "28efaa35a7d23e34e961b843231c571dd355143269971ab54f8977238ba2452b",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/80695",
+      "titulo": "Report of the expert group meeting on facilitating the implementation of Caribbean Nationally Determined Contributions: Considering the development of a regional emissions trading scheme",
+      "fecha": "2024-09-25",
+      "num_muestra": 197,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_80695.json",
+      "sha256_json": "18b4dcdd70cf9b405e6d6501f48c11b0fb08ea5bafc46c1ad82dd40a386489b0",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_80695.validation.json",
+      "sha256_certificado": "dde43c9e04b7b4de31b423a708475733cc6cca8d2b556b6a981d3d41ad19713c",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/80737",
+      "titulo": "Strengthening regional capacities to address the risk of and from overshooting 1.5°C global warming in Latin America and the Caribbean",
+      "fecha": "2023-09",
+      "num_muestra": 198,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_80737.json",
+      "sha256_json": "c5b3f9f95708c7dc5d796f7ab5c9ef37c0a6f67ef0d1a90f44cfec7bf71049fc",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_80737.validation.json",
+      "sha256_certificado": "bff33ac9b481c29f04860d9335b077e5b20242a2da6db02e554c0825684d5d3e",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/80746",
+      "titulo": "Estimación del precio social del carbono para la evaluación de la inversión pública en el Perú",
+      "fecha": "2024",
+      "num_muestra": 0,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_80746.json",
+      "sha256_json": "3627bed4477b84a21de140882dba4b078ca735319fa19ceeee0178afd2bd3566",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_80746.validation.json",
+      "sha256_certificado": "33525fe0c3f097c716a4785306f01c3b3e1728cc074bc006232a2ab2537f3354",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/80762",
+      "titulo": "El sector de la economía del conocimiento en Santiago del Estero (Argentina): potencialidades y desafíos",
+      "fecha": "2024",
+      "num_muestra": 200,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_80762.json",
+      "sha256_json": "9e6928dbefd0690633fc631eed1087d279d295ccab0a5391cf76ea57a6d9f235",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_80762.validation.json",
+      "sha256_certificado": "6d7b7a5d1c15b722f76a37e0b49596312f650009f27ad8699c769d1326d0aa73",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/80769",
+      "titulo": "Management of the end-of-life vehicle recycling in the Caribbean. Policy Brief",
+      "fecha": "2024-10-15",
+      "num_muestra": 201,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_80769.json",
+      "sha256_json": "97d340b099b06739440e6c728c6924a9007810d98955ce8f5cce17190498d5bb",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_80769.validation.json",
+      "sha256_certificado": "32617353400706e0ceaa84a97df9c335b6204441860ec1ef98954c7f95f3955f",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/80952",
+      "titulo": "Distributional implications of climate change and policy recommendations for an inclusive, just and sustainable transition",
+      "fecha": "2024",
+      "num_muestra": 202,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_80952.json",
+      "sha256_json": "810050815af95d761db7aa72079540c23e3622f8f470ee971057be18fa63616f",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_80952.validation.json",
+      "sha256_certificado": "595101346710ef63658562abd2fd974f1730a03c9b22348b297f60454d552e9c",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/80955",
+      "titulo": "Metodología y estimación de los impactos y necesidades de inversión en la red eléctrica de San José para la implementación de la electromovilidad",
+      "fecha": "2024",
+      "num_muestra": 203,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_80955.json",
+      "sha256_json": "7939c043424fdd4bb6f20dc909047797d72bff8f128196bbd0a172e2b371c3e9",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_80955.validation.json",
+      "sha256_certificado": "ef936bc4c311247dfe3b4ce0aed14c10d1ec04a5c739bff3544bb884ee95d878",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/80987",
+      "titulo": "Indicadores quantitativos da OCDE e o Brasil : meio ambiente",
+      "fecha": "2024",
+      "num_muestra": 204,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_80987.json",
+      "sha256_json": "c267249ae73c245015e419e73032d24bd877f67d036d0df0717b23a4a8d6b7ba",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_80987.validation.json",
+      "sha256_certificado": "4bc746240e46e7d748eadd66d00b45d5221d956ff61c426a3ef27e7ceffebcc3",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/81035",
+      "titulo": "Avaliação dos efeitos e impactos das inundações no Rio Grande do Sul. Novembro 2024",
+      "fecha": "2024-11",
+      "num_muestra": 205,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_81035.json",
+      "sha256_json": "f77e1a36c507f53d6e9291aaa6c9a20527c02259472c226613da54c3dad53ca5",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_81035.validation.json",
+      "sha256_certificado": "105ff29028c23cf6d916c3b3784f9aa0692b7c9f4d4b605ad9be3969388fac71",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/81051",
+      "titulo": "Climate change financing in the Caribbean: an analysis from a gender perspective",
+      "fecha": "2024",
+      "num_muestra": 206,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_81051.json",
+      "sha256_json": "626a2ee0d864ee29fcfcf0f878e5d249555bef2e71f26fd8d2cab06df2aa1d92",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_81051.validation.json",
+      "sha256_certificado": "df54964f9b5f88bec9dbda95da0a7a0c3e9c595a94ec5164509a0b1e41515534",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/81084",
+      "titulo": "Report of the seminar on health equity for women and girls of African descent: a consultation to promote health and well-being for women and girls of African descent in the Caribbean",
+      "fecha": "2024-12-11",
+      "num_muestra": 207,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_81084.json",
+      "sha256_json": "af1fa9582a309fa9a808cb8d78923693f6eac5e0d13fa258171fe218d7121ddd",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_81084.validation.json",
+      "sha256_certificado": "bf4b4b3e2ff892269a8b8548751719b2f6573d8e94ad739a1d7bd30a23b3afd0",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/81101",
+      "titulo": "Manual centroamericano de mantenimiento de carreteras con enfoque de reducción de riesgo de desastres, adaptación sostenible e incluyente al cambio climático y seguridad vial",
+      "fecha": "2024",
+      "num_muestra": 208,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_81101.json",
+      "sha256_json": "5fb08731b68393a173591072828395d2d7a4d9666a78ed873e422338a9afe0c5",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_81101.validation.json",
+      "sha256_certificado": "f9a184f7a1387a45a244ae6aa118a6ede641e04f504450ca66935d3ab4ec013e",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/81149",
+      "titulo": "El gasto público vinculado con el cambio climático en América Latina",
+      "fecha": "2024",
+      "num_muestra": 209,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_81149.json",
+      "sha256_json": "a46a7e8f80208caf8a59ba0aa5da5d4e6c52988cb501fd6e421414d8fde28229",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_81149.validation.json",
+      "sha256_certificado": "5986bf775f9812a1f405da48f4b9e69674845a8498e3f1011af2d8e7f5c77680",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/81194",
+      "titulo": "Enhancing critical forms of financing and aid effectiveness through collaborative partnerships. Policy Brief",
+      "fecha": "2025-01-03",
+      "num_muestra": 210,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_81194.json",
+      "sha256_json": "82b2b2d4823fa37ff566355c1797cf773e9ddde2e46a32a5a3f6ae299d314022",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_81194.validation.json",
+      "sha256_certificado": "57f4817315f943e8fd2692ffe23d7d282ce0e4f012dcbb35e997d8aa7604735c",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/81405",
+      "titulo": "América Latina y el Caribe y la Agenda 2030 a cinco años de la meta",
+      "fecha": null,
+      "num_muestra": 81405,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_81405.json",
+      "sha256_json": "4b8a1c9c9a56ad6c6192e6db9e2fbb927a22545f4343a2f071e29c666ee5b14c",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_81405.validation.json",
+      "sha256_certificado": "907bd832cfbb2d89945c14a988f36a42500054d8551774ec4f89d2c75c9139ae",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/81535",
+      "titulo": "Financiamiento del desarrollo urbano: suelo y movilidad pública en ciudades de Asia y América Latina",
+      "fecha": "2025",
+      "num_muestra": 81535,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_81535.json",
+      "sha256_json": "02d0f560fcf1d7cf2626a538c83e690c50c8a50f4c3cb809ffa792abbf1fa879",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_81535.validation.json",
+      "sha256_certificado": "64ea19bc325a390bfbe64018183fe213a0f091ea542c4432974a3d4dacd81ecf",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/81661",
+      "titulo": "Catálogo temático: Desarrollo Sostenible y Asentamientos Humanos",
+      "fecha": "2025-12-18",
+      "num_muestra": 212,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_81661.json",
+      "sha256_json": "bf55a45b373982a4c04a7c8c3e548b244f5ce6ce039e5978d7787129b1b483f8",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_81661.validation.json",
+      "sha256_certificado": "6fe806bad3725b6639ce4102ad1f671f8c803b70488beb717f73b4e19b245e38",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/81772",
+      "titulo": "Panorama del océano, los mares y los recursos marinos y su contribución al desarrollo sostenible de América Latina y el Caribe",
+      "fecha": "2025",
+      "num_muestra": 81772,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_81772.json",
+      "sha256_json": "79a18c70c1ada8f351bf1f471f8bf09aafc31e66a34fa208bdb525adfbd96165",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_81772.validation.json",
+      "sha256_certificado": "0c27f2746de73fc5bcdd82a019b0380948de29b90012acc290fefaa763688f09",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/81875",
+      "titulo": "Diagnóstico y propuestas para una Meta Regional de Mitigación y Adaptación al Cambio Climático en el Sector Energético de los Países del SICA",
+      "fecha": "2025",
+      "num_muestra": 14,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_81875.json",
+      "sha256_json": "c0c062ed4df1cac49166c29c41a31fbab3c5163f9489dd8cd1397e9e429d1d62",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_81875.validation.json",
+      "sha256_certificado": "9e70dcf095e14300da89f250c70710108c625d52710977ab68823e367d137b38",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/81886",
+      "titulo": "Empleos verdes y sistemas de protección social: aportes a la transformación del modelo de desarrollo",
+      "fecha": "2025",
+      "num_muestra": 81886,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_81886.json",
+      "sha256_json": "6f697d57f75ebcea227c147e178a177d2ae68455f0cd7a55c0d5370570995fca",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_81886.validation.json",
+      "sha256_certificado": "b646fba69a2fd2e8979c9dea7e6b15ae5bdc6195fc1aeca73a9837e8706bb4c3",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/81906",
+      "titulo": "Climate change and monetary policy in Latin America and the Caribbean",
+      "fecha": "2025",
+      "num_muestra": 216,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_81906.json",
+      "sha256_json": "c2652deeaefcca944377e400b22ee0622c1822dfcb942295e33b2d7b0b1bd6d7",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_81906.validation.json",
+      "sha256_certificado": "e1061089eb9b32f7a476989ad5cb60e4f8445ec3150f3ade38559fcc59bc15a1",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/82026",
+      "titulo": "National economic development plans and their contributions to climate goals under the Paris Agreement",
+      "fecha": "2025",
+      "num_muestra": 217,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_82026.json",
+      "sha256_json": "ce61251918877c3fe61c3d02713edf993b15af88af8bf6bc4c35cd6bb3f8f102",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_82026.validation.json",
+      "sha256_certificado": "058288d595546e9b79f0c2ecbfa9c88258136f3c79a756842c175f61ed58376b",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/82157",
+      "titulo": "Assessment of the effects and impacts of Hurricane Beryl on Barbados, 2024",
+      "fecha": "2025",
+      "num_muestra": 0,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_82157.json",
+      "sha256_json": "fddc410934b765abb03fef137199c8fbcf84403396f67cc977e9e16243d166e6",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_82157.validation.json",
+      "sha256_certificado": "dd33845822e3b4d8124dd7d307718c70ad03b0452f94c6c3231cc20c90d7564c",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/82449",
+      "titulo": "Enhancing data for development: policy imperatives for tracking the implementation of the Antigua and Barbuda Agenda for Small Island Developing States in the Caribbean. Policy Brief",
+      "fecha": "2025-09-09",
+      "num_muestra": 220,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_82449.json",
+      "sha256_json": "016605b431174bd9bc1b949855d55c258b974380b4ac5569052b1b23ab9e97cc",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_82449.validation.json",
+      "sha256_certificado": "13dce28d47b11ecd8d66cd3e0f7efc17a06f12e08481e8ffd8628a193c6367a8",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/82456",
+      "titulo": "La vivienda y el desarrollo urbano como motores de inclusión social y acción climática en América Latina y el Caribe: intervenciones en la XXXIII Asamblea General del Foro de Ministros y Autoridades Máximas de la Vivienda y el Desarrollo Urbano de América Latina y el Caribe (MINURVI)",
+      "fecha": "2025-09",
+      "num_muestra": null,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_82456.json",
+      "sha256_json": "2e208ae41bc1a85fa32737cbe521ad464cb63dcacdf06768f17665aa748b0436",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_82456.validation.json",
+      "sha256_certificado": "475f1e87c63cbba5f40d07753e4bf62f67fdd2e2586ff53c69457b525b7908d5",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/82476",
+      "titulo": "Evaluación de los efectos e impactos Tormenta Tropical Sara en Honduras",
+      "fecha": "2025-02",
+      "num_muestra": 82476,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_82476.json",
+      "sha256_json": "519d6af73ebe624edd6f7d2e2dc362c090e9bcc81e898d55300d0d61e696f3ff",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_82476.validation.json",
+      "sha256_certificado": "194f6784b234cf9b184b82b6b16c1b8b15403accbfb03e98fd75bc7f7a883ce6",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/82547",
+      "titulo": "Criterios para la sostenibilidad y la resiliencia de las inversiones públicas agropecuarias en Centroamérica y la República Dominicana",
+      "fecha": "2025",
+      "num_muestra": null,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_82547.json",
+      "sha256_json": "7aa485b4c45292a7e6e140ab0583a412fae162500754471b1fe9c94051ad50ba",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_82547.validation.json",
+      "sha256_certificado": "6a3596db8f5021bb23e56ade17abed17391463c23813ba84a1bfab6dfddc7a2c",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/84499",
+      "titulo": "La situación de las estadísticas, indicadores y cuentas ambientales en América Latina y el Caribe, 2023",
+      "fecha": "2025",
+      "num_muestra": 0,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_84499.json",
+      "sha256_json": "15b14c32ce760122de55c8bd6e74fa03494a0b71d7b044705639bfcc9689b884",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_84499.validation.json",
+      "sha256_certificado": "08a7b20ce6801f83dd8a0531f274845daac139cf6294c8b704070042da09de88",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/84510",
+      "titulo": "Financiamiento del cambio climático en el Caribe: análisis desde una perspectiva de género",
+      "fecha": "2025",
+      "num_muestra": 225,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_84510.json",
+      "sha256_json": "bf1362be5db3db792797b84a7606830171fce9adf44ebb279d7bef6862207510",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_84510.validation.json",
+      "sha256_certificado": "3262d4d3a77f98e5710aaa6b576abecae7097d69c46b90b24323ebec166bf064",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/85930",
+      "titulo": "Repositioning science, technology and innovation for sustainable development in Caribbean SIDS. Policy Brief",
+      "fecha": "2026-01-29",
+      "num_muestra": 226,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_85930.json",
+      "sha256_json": "f75ec638b2a44f3939dce61384bd631991496e66743ea3741a977e43585a81d0",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_85930.validation.json",
+      "sha256_certificado": "e1a802a7c9f8ae47963f4ac201c1a5e0d246f9b93ad3c04c4b52975e34784162",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/86527",
+      "titulo": "La economía del cambio climático en América Latina y el Caribe, 2025: la acción climática para superar las trampas del desarrollo",
+      "fecha": "2026",
+      "num_muestra": 227,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_86527.json",
+      "sha256_json": "8f62a57867032b501a0db07a2644ef2e07617f938ed8c031f51f56bd00da0335",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_86527.validation.json",
+      "sha256_certificado": "9d62109394b44a85c188fcd67bd1aff534d0913e9f4798e6e6215d1c53ca9920",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/89774",
+      "titulo": "Agenda 2030 en América Latina y el Caribe: ¿cómo acelerar el paso hacia su cumplimiento en la nueva era de incertidumbre y fragmentación geopolítica?",
+      "fecha": "2026",
+      "num_muestra": 10,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_89774.json",
+      "sha256_json": "7f89b3e582880f0ccad439521146a05845174929f77d3a68fd10e60e3e9228b5",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_89774.validation.json",
+      "sha256_certificado": "ba684745ccbdf75bb4179cb19064a8c5f89766d9333a9a14d924f9c5977eb561",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/89932",
+      "titulo": "Informe de la Secretaría sobre registros de emisiones y transferencias de contaminantes en América Latina y el Caribe: Estado actual, buenas prácticas y recomendaciones",
+      "fecha": "2026-04-15",
+      "num_muestra": 89932,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_89932.json",
+      "sha256_json": "444119f175fd58a3dd6cb916ef1aef0a218af358be2212a56ffccebe21084d97",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_89932.validation.json",
+      "sha256_certificado": "3ebd17de0141a9b991449a07a816c7eb26d45de22b65242b02e82f19334a118b",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/89934",
+      "titulo": "Road map for the implementation in Belize of the Regional Agreement on Access to Information, Public Participation and Justice in Environmental Matters in Latin America and the Caribbean",
+      "fecha": "2026",
+      "num_muestra": 9,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_89934.json",
+      "sha256_json": "00995f7a03a537d54ec044de53206a2d21e84fa6a0e18a9889d65ae4362e4183",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_89934.validation.json",
+      "sha256_certificado": "222931fe6e8c5b29bf67bf0e06e02087c85f870f60eedc90736588736b59aacb",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    },
+    {
+      "handle": "https://hdl.handle.net/11362/90001",
+      "titulo": "El mundo del trabajo frente a las transformaciones ambientales: desafíos para la inclusión laboral",
+      "fecha": "2026",
+      "num_muestra": 90001,
+      "origen": "produccion",
+      "ruta_json": "fase2/corpus/resultados/json/doc_90001.json",
+      "sha256_json": "7be4d80314e485fd45ade18ef2cf44ccbf14498119c347c8fadee0d74245fd37",
+      "certificado_disponible": true,
+      "ruta_certificado": "fase2/corpus/resultados/certificados/doc_90001.validation.json",
+      "sha256_certificado": "d7283dcf7e82ff0965d030225acaef5a98e411419e922c701e5e44730ecd8cdc",
+      "claves_superiores": [
+        "documento",
+        "interpelacion",
+        "resumen_enriquecido",
+        "resumen_secciones",
+        "tipologia"
+      ]
+    }
+  ]
+}

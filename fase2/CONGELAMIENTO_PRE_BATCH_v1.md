@@ -16,7 +16,7 @@
 ## Resultados aceptados
 
 - Los 17 JSON canónicos de `fase2/pilot/doc*.json` constituyen la muestra cerrada.
-- `fase2/corpus/resultados/doc20_colombia.json` es el resultado canónico aceptado de `https://hdl.handle.net/11362/37879` y se excluye de la cola pendiente.
+- `fase2/corpus/resultados/json/doc_37879.json` es el resultado canónico aceptado de `https://hdl.handle.net/11362/37879` y se excluye de la cola pendiente.
 - Doc10 queda resuelto como primaria #11 Capacidades del Estado y secundaria #6 Sostenibilidad ambiental.
 
 ## Ambigüedad tipológica

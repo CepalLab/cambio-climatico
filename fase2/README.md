@@ -79,7 +79,8 @@ El escalamiento usa un ledger SQLite recuperable que mantiene separados el contr
 - **2026-08-21** — cierre de producción: los 244 documentos del corpus están enriquecidos y promovidos con
   sus certificados gemelos. El relevo para limpieza, revisión transversal y normalización de derivados para
   análisis agregados está en [RELEVO_FASE3.md](RELEVO_FASE3.md). Los JSON de
-  `corpus/resultados/` son el congelamiento canónico de entrada a Fase 3.
+  `corpus/resultados/json/` son el congelamiento canónico de entrada a Fase 3; los certificados disponibles
+  están separados en `corpus/resultados/certificados/`.
 
 - **2026-07-06** — creación de esta carpeta, codebook v0 y muestra de calibración; housekeeping dearchivos sueltos en la raíz del repo (ver commit `945ebda` y siguientes).
 - **2026-07-06** — plan de análisis profundo (enriquecimiento documental, resumen por sección, interpelación institucional, tipología) con piloto ejecutado sobre 2 documentos de la muestra; ver [PLAN_ANALISIS_PROFUNDO.md](PLAN_ANALISIS_PROFUNDO.md) y [pilot/](pilot/). Corrección: la nota conceptual tiene 9 preguntas de investigación, no 8.

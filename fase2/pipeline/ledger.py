@@ -79,7 +79,7 @@ def event(
 def canonical_results() -> dict[str, str]:
     results = {}
     paths = sorted((FASE2_DIR / "pilot").glob("doc*.json"))
-    paths += sorted((FASE2_DIR / "corpus" / "resultados").glob("doc*.json"))
+    paths += sorted((FASE2_DIR / "corpus" / "resultados" / "json").glob("doc_*.json"))
     for path in paths:
         try:
             data = json.loads(path.read_text(encoding="utf-8"))
@@ -520,11 +520,11 @@ def complete_document(
     expected_name = f"doc_{handle.rsplit('/', 1)[-1]}.json"
     if result_file.name != expected_name:
         raise ValueError(f"Nombre de resultado inválido: se esperaba {expected_name}")
-    certificate = result_file.with_suffix(".validation.json")
+    certificate = result_file.parent.parent / "certificados" / f"{result_file.stem}.validation.json"
     if not certificate.is_file():
         raise ValueError(
             f"Falta certificado de promoción: {display_path(certificate)}. "
-            "Ejecute certificar_promocion.py sobre el borrador final y copie el certificado junto al resultado."
+            "Ejecute certificar_promocion.py sobre el borrador final y copie el certificado a resultados/certificados/."
         )
     try:
         sealed = json.loads(certificate.read_text(encoding="utf-8"))

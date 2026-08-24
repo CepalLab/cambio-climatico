@@ -69,11 +69,11 @@ El intento anterior fue rechazado. Debes reconstruir el análisis desde la extra
 
 7. Solo después de ambas validaciones, copia el borrador validado a la ruta canónica exacta:
 
-   `fase2/corpus/resultados/doc_37791.json`
+   `fase2/corpus/resultados/json/doc_37791.json`
 
 8. Completa con `--review-required`:
 
-   `python3 fase2/pipeline/ledger.py complete 11362/37791 --result fase2/corpus/resultados/doc_37791.json --review-required`
+   `python3 fase2/pipeline/ledger.py complete 11362/37791 --result fase2/corpus/resultados/json/doc_37791.json --review-required`
 
    Registra tokens y costo únicamente si el harness entrega valores reales; si no están disponibles, omite esos argumentos, nunca uses cero como marcador.
 

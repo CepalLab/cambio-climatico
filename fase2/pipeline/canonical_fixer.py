@@ -116,7 +116,7 @@ def main():
         
         # Rutas posibles
         paths = [
-            f"corpus/resultados/doc_{doc_id}.json",
+            f"corpus/resultados/json/doc_{doc_id}.json",
             f"corpus/resultados/borrador_{doc_id}.json",
             f"corpus/intermedios/11362/{doc_id}/borrador_preprueba.json"
         ]

@@ -302,7 +302,7 @@ Durante el procesamiento de `doc20_colombia` se detectó que el pipeline dejaba 
 | 1 | El pipeline no extrae dimensiones de secciones hoja que tienen contenido climático, dejándolas con `dimensiones: []` | Se refuerza la regla 6bis en [esquema_json_v1.md](esquema_json_v1.md) con la obligación inversa explícita: hojas con señal climática → al menos una dimensión | [esquema_json_v1.md §2 regla 6bis](esquema_json_v1.md) |
 | 2 | La [Guía operativa](GUIA_OPERATIVA_PIPELINE.md) no advertía que dejar `dimensiones: []` en una hoja con contenido climático es un error del pipeline | Se agrega instrucción explícita en Etapa 3 con la lista de palabras-clave de señal climática y el patrón de error frecuente | [GUIA_OPERATIVA_PIPELINE.md §Etapa 3](GUIA_OPERATIVA_PIPELINE.md) |
 | 3 | El validador no detectaba dimensiones vacías en hojas con contenido climático | Se agrega chequeo heurístico en [pipeline/validar_esquema.py](pipeline/validar_esquema.py): regex `KEYWORDS_CLIMA` sobre el resumen de cada hoja; si tiene coincidencia y `dimensiones` vacía → observación | [pipeline/validar_esquema.py](pipeline/validar_esquema.py) |
-| 4 | `doc20_colombia` tenía hojas con dimensión vacía y contenido climático | Se corrigió y auditó el JSON completo de `doc20`, que se aceptó como publicación procesada para el escalamiento | `fase2/corpus/resultados/doc20_colombia.json` |
+| 4 | `doc_37879` tenía hojas con dimensión vacía y contenido climático | Se corrigió y auditó el JSON completo de `doc_37879`, que se aceptó como publicación procesada para el escalamiento | `fase2/corpus/resultados/json/doc_37879.json` |
 
 **Impacto en el corpus existente**: el nuevo chequeo heurístico detectó observaciones en `doc08`, `doc14` y `doc17`. La auditoría posterior separó falsos positivos de omisiones reales y añadió dimensiones únicamente con cita verificable; los tres documentos pasan el validador sin pendientes.
 
@@ -314,7 +314,7 @@ Ambos quedan con certeza Alta, `ambiguedad_pendiente_validacion: null` y razonam
 
 ### Ronda 12 (2026-08-05) — limpieza y canonización pre-batch
 
-Se cerró la auditoría de `doc08`, `doc14` y `doc17` y se revisó `doc20` contra el texto fuente. En `doc20` se corrigieron rangos de páginas, secciones omitidas, resúmenes breves, dimensiones vacías y citas fuera de sección; el resultado se promovió a `fase2/corpus/resultados/doc20_colombia.json`. El validador ahora incluye resultados de producción, ignora referencias legítimas dentro de `validacion_anclas` y comprueba que la página de cada cita pertenezca al rango de su sección. La aplicación retrospectiva de este último control permitió corregir desajustes puntuales de rangos o evidencia en `doc04`, `doc12`, `doc14`, `doc15`, `doc16`, `doc17` y `doc19`.
+Se cerró la auditoría de `doc08`, `doc14` y `doc17` y se revisó `doc20` contra el texto fuente. En `doc20` se corrigieron rangos de páginas, secciones omitidas, resúmenes breves, dimensiones vacías y citas fuera de sección; el resultado se promovió a `fase2/corpus/resultados/json/doc_37879.json`. El validador ahora incluye resultados de producción, ignora referencias legítimas dentro de `validacion_anclas` y comprueba que la página de cada cita pertenezca al rango de su sección. La aplicación retrospectiva de este último control permitió corregir desajustes puntuales de rangos o evidencia en `doc04`, `doc12`, `doc14`, `doc15`, `doc16`, `doc17` y `doc19`.
 
 ### Ronda 13 (2026-08-05) — ledger operativo para producción
 
