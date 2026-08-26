@@ -42,10 +42,21 @@ Los conteos de países, sectores y subregiones se basan en relaciones candidatas
 
 ## Próxima capa analítica
 
-1. EDA descriptivo y control de denominadores.
-2. Respuestas a las preguntas de investigación de la nota conceptual.
-3. Patrones del diagnóstico de CEPAL y evolución de enfoques.
-4. Análisis específico de gobernanza multinivel.
-5. Refinamiento paralelo de relaciones y generación de versiones posteriores.
+El estado consolidado de la Fase 3.3, incluidos artefactos, validaciones y
+comandos de reanudacion, esta en
+[03_analisis_contenido/CHECKPOINT_FASE3_3_2026-08-26.md](03_analisis_contenido/CHECKPOINT_FASE3_3_2026-08-26.md).
+
+La Fase 3.3 inicia con el contrato documentado en
+[03_analisis_contenido/ESPECIFICACION_ANALITICA_v2.md](03_analisis_contenido/ESPECIFICACION_ANALITICA_v2.md).
+El informe de 30 páginas es el camino crítico; el activo analítico vivo y el
+grafo son derivados incrementales del mismo trabajo de evidencia.
+
+1. Crear formatos de preguntas, conceptos, hallazgos, decisiones y grafo.
+2. Construir paquetes de evidencia reproducibles por pregunta.
+3. Ejecutar los pilotos de evolución de enfoques y gobernanza multinivel.
+4. Estabilizar el protocolo y responder las nueve preguntas de investigación.
+5. Redactar el informe y habilitar el visor de evidencia y relaciones.
+6. Refinar en paralelo relaciones y generar versiones posteriores cuando
+	corresponda.
 
 Cada producto analítico debe declarar versión de la base, denominador, filtros, exclusiones y limitaciones.

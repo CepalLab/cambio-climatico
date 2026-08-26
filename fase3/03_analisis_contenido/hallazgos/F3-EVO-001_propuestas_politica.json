@@ -1,0 +1,25 @@
+{
+  "finding_id": "F3-EVO-001",
+  "question_id": "P6",
+  "title": "Persistencia y mayor densidad de las propuestas de politica",
+  "claim": "Las propuestas de politica aparecen en una proporcion muy alta de documentos en los tres periodos y concentran mas citas por documento desde P2. Las citas ancla sugieren un desplazamiento de instrumentos de adaptacion y financiamiento especifico hacia carteras de politica publica y alineacion entre decisiones climaticas, inversion y presupuesto.",
+  "scope": {"periods": ["P1", "P2", "P3"], "filters": ["dimension = propuestas_politica"], "is_draft": true},
+  "quantitative_support": [
+    {"period_id": "P1", "documents_with_dimension": 92, "denominator": 99, "document_proportion": 0.929293, "citations": 501, "citations_per_document": 5.445652},
+    {"period_id": "P2", "documents_with_dimension": 74, "denominator": 75, "document_proportion": 0.986667, "citations": 807, "citations_per_document": 10.905405},
+    {"period_id": "P3", "documents_with_dimension": 63, "denominator": 64, "document_proportion": 0.984375, "citations": 663, "citations_per_document": 10.52381}
+  ],
+  "evidence": [
+    {"document_id": "https://hdl.handle.net/11362/41832", "dimension_id": 1935, "dimension": "propuestas_politica", "page": "85", "quote": "Se recomienda desarrollar la valoración económica de los planes estratégicos institucionales de reducción de vulnerabilidad, adaptación y mitigación al cambio climático, así como una estrategia de financiamiento que tome en cuenta las fuentes existentes (es decir, un análisis de la inversión pública que se realiza en adaptación y mitigación, si bien es cierto que el presente estudio proporciona una buena base, su carácter sólo es indicativo) y una investigación de espacios fiscales que permita identificar las posibles fuentes que existen en el prepuesto público.", "source_path": "fase2/corpus/resultados/json/doc_41832.json", "source_sha256": "9a6115719e4f5492ae537341f61193135ad1699be1a148445f39dec4ee719d9c"},
+    {"document_id": "https://hdl.handle.net/11362/47720", "dimension_id": 5351, "dimension": "propuestas_politica", "page": "22", "quote": "Es necesario orientar los rendimientos de la inversión, palanca del cambio estructural, en la dirección correcta mediante los instrumentos de política pública —fiscalidad, política financiera, política tecnológica y política regulatoria— para aumentar las rentabilidades relativas en favor de los sectores dinamizadores.", "source_path": "fase2/corpus/resultados/json/doc_47720.json", "source_sha256": "bac14714f49713c81a94bda9b0e757d6142a0bddfbef55f1304790c06c3f7cb5"},
+    {"document_id": "https://hdl.handle.net/11362/81405", "dimension_id": 7500, "dimension": "propuestas_politica", "page": "137", "quote": "Mediante la creación de instrumentos como las CDN y las estrategias climáticas de largo plazo, los países pueden transversalizar las decisiones en materia de cambio climático en diversos sectores y vincularlas con sus planes de desarrollo e inversión, así como con los presupuestos nacionales, para reforzar la coordinación y la coherencia imprescindibles entre los actores y las políticas en favor del desarrollo sostenible.", "source_path": "fase2/corpus/resultados/json/doc_81405.json", "source_sha256": "4b8a1c9c9a56ad6c6192e6db9e2fbb927a22545f4343a2f071e29c666ee5b14c"}
+  ],
+  "exceptions": [{"type": "interpretation_limit", "note": "La mayor densidad de citas puede reflejar longitud o estructura de los documentos, no una mayor importancia sustantiva de las propuestas."}],
+  "confidence": "medium",
+  "status": "superseded",
+  "base_version": "fase3-analitica-v1",
+  "created_at": "2026-08-26",
+  "created_by": "fase3_m4",
+  "review_questions": ["Las tres citas representan un cambio de encuadre o solo casos coexistentes?", "Que propuestas relevantes contradicen la integracion con inversion y presupuesto?"],
+  "review": {"reviewer": null, "reviewed_at": "2026-08-26", "notes": "Pausado por la reorientacion documental; conserva utilidad como evidencia microanalitica."}
+}

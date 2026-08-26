@@ -1,0 +1,135 @@
+{
+  "version": "decisiones-v1",
+  "decisions": [
+    {
+      "decision_id": "DEC-F3-2026-08-26-001",
+      "date": "2026-08-26",
+      "status": "adopted",
+      "decision": "Adoptar formatos versionados para preguntas, conceptos, hallazgos, decisiones y exportacion de grafo.",
+      "rationale": "Permite extender el corpus sin modificar los JSON canonicos y mantiene trazabilidad hacia SQLite y Fase 2.",
+      "impact": "El informe usa solo hallazgos approved; los artefactos draft son trabajo analitico revisable.",
+      "affected_artifacts": ["preguntas/catalogo_preguntas_v1.json", "conceptos/catalogo_conceptos_v1.json", "hallazgos/F3-M2-EJEMPLO-001.json", "grafo/grafo_m2_ejemplo_v1.json"],
+      "owner": "fase3_m2"
+    },
+    {
+      "decision_id": "DEC-F3-2026-08-26-002",
+      "date": "2026-08-26",
+      "status": "adopted",
+      "decision": "Usar paquetes de evidencia reproducibles como insumo obligatorio antes de crear hallazgos sustantivos.",
+      "rationale": "Separa metricas y citas candidatas de la interpretacion, y permite regenerar cada piloto desde la base SQLite versionada.",
+      "impact": "Los paquetes de evolucion de enfoques y gobernanza multinivel quedan disponibles para M4; no son conclusiones del informe.",
+      "affected_artifacts": ["scripts/generar_paquetes_evidencia_v1.py", "salidas/paquete_evolucion_enfoques_v1.json", "salidas/paquete_gobernanza_multinivel_v1.json"],
+      "owner": "fase3_m3"
+    },
+    {
+      "decision_id": "DEC-F3-2026-08-26-003",
+      "date": "2026-08-26",
+      "status": "adopted",
+      "decision": "Iniciar M4 con una muestra de cobertura compacta y revision humana obligatoria antes de formular hallazgos.",
+      "rationale": "La cobertura por periodo-dimension y los contrastes de interpelacion permiten iniciar lectura comparativa sin tratar una seleccion automatica como evidencia sustantiva.",
+      "impact": "La primera ronda contiene 15 filas para evolucion de enfoques y 33 para gobernanza multinivel. Las decisiones keep, replace, exception, exclude y needs_context alimentaran las fichas draft.",
+      "affected_artifacts": ["scripts/seleccionar_muestra_piloto_v1.py", "GUIA_REVISION_HUMANA_PILOTO_v1.md", "salidas/revision_humana_evolucion_enfoques_v1.csv", "salidas/revision_humana_gobernanza_multinivel_v1.csv"],
+      "owner": "fase3_m4"
+    },
+    {
+      "decision_id": "DEC-F3-2026-08-26-004",
+      "date": "2026-08-26",
+      "status": "adopted",
+      "decision": "Hacer la revision humana sobre fichas de hallazgo draft y usar las planillas de citas como respaldo de trazabilidad.",
+      "rationale": "La revision de citas aisladas es demasiado granular para la decision sustantiva; los hallazgos comparativos permiten evaluar interpretacion, metricas, evidencia y excepciones en conjunto.",
+      "impact": "El siguiente producto de M4 sera un conjunto breve de hallazgos borrador por piloto. Las planillas solo se abren para verificar o reemplazar evidencia concreta.",
+      "affected_artifacts": ["GUIA_REVISION_HUMANA_PILOTO_v1.md", "hallazgos/", "salidas/revision_humana_evolucion_enfoques_v1.csv", "salidas/revision_humana_gobernanza_multinivel_v1.csv"],
+      "owner": "fase3_m4"
+    },
+    {
+      "decision_id": "DEC-F3-2026-08-26-005",
+      "date": "2026-08-26",
+      "status": "adopted",
+      "decision": "Presentar cinco hallazgos draft de evolucion de enfoques para revision humana antes de extender el analisis al piloto de gobernanza.",
+      "rationale": "Permite probar el formato de hallazgo comparativo con metricas, evidencia literal y limites antes de escalar la interpretacion al resto de preguntas.",
+      "impact": "F3-EVO-001 a F3-EVO-005 quedan en estado draft y no pueden utilizarse como conclusiones del informe sin revision humana.",
+      "affected_artifacts": ["hallazgos/F3-EVO-001_propuestas_politica.json", "hallazgos/F3-EVO-002_diagnostico_estructural.json", "hallazgos/F3-EVO-003_brechas_implementacion.json", "hallazgos/F3-EVO-004_tendencias.json", "hallazgos/F3-EVO-005_desafios.json", "hallazgos/REVISION_HALLAZGOS_EVOLUCION_v1.md"],
+      "owner": "fase3_m4"
+    },
+    {
+      "decision_id": "DEC-F3-2026-08-26-006",
+      "date": "2026-08-26",
+      "status": "adopted",
+      "decision": "Reorientar el analisis de Fase 3.3 desde perfiles documentales completos y dejar las citas como capa de trazabilidad.",
+      "rationale": "Preguntas, ambitos, resumenes, hallazgos, conclusiones y recomendaciones permiten responder primero que estudia CEPAL y como organiza sus variables; una cita aislada no es una unidad adecuada para esa sintesis global.",
+      "impact": "Los perfiles documentales v1 y la taxonomia documental pasan a ser la entrada activa. F3-EVO-001 a F3-EVO-005 se conservan como ejercicios microanaliticos en estado superseded.",
+      "affected_artifacts": ["PLAN_REORIENTACION_DOCUMENTAL_v1.md", "TAXONOMIA_DOCUMENTAL_ANALITICA_v1.md", "scripts/construir_perfiles_documentales_v1.py", "salidas/perfiles_documentales_v1.json", "salidas/panorama_perfiles_documentales_v1.md"],
+      "owner": "fase3_reorientacion"
+    },
+    {
+      "decision_id": "DEC-F3-2026-08-26-007",
+      "date": "2026-08-26",
+      "status": "adopted",
+      "decision": "Usar una matriz documental ponderada como cola de calibracion, no como resultado experto del corpus.",
+      "rationale": "La primera prueba lexica asignaba demasiados objetos y dominios por documento. Ponderar titulo y pregunta mejora el objeto principal candidato, pero requiere control sobre perfiles completos antes de agregar conclusiones.",
+      "impact": "La revision humana inicial se concentra en 10 perfiles diversos de la muestra de calibracion. Los conteos de la matriz solo son exploratorios hasta que esa calibracion cierre.",
+      "affected_artifacts": ["scripts/clasificar_perfiles_documentales_v1.py", "scripts/seleccionar_calibracion_documental_v1.py", "salidas/matriz_documental_candidata_v1.json", "salidas/calibracion_documental_taxonomia_v1.md"],
+      "owner": "fase3_reorientacion"
+    },
+    {
+      "decision_id": "DEC-F3-2026-08-26-008",
+      "date": "2026-08-26",
+      "status": "adopted",
+      "decision": "Incorporar ambito territorial y tipologia con tension dialectica como ejes complementarios del perfil y matriz documental.",
+      "rationale": "La escala territorial permite distinguir regional, subregional, nacional, subnacional y multinivel; la tipologia aporta una lectura ya adjudicada sobre la transformacion y tension de desarrollo que estructura cada documento.",
+      "impact": "Los panoramas ahora reportan escalas territoriales candidatas y transformaciones primarias. La tension dialectica se conserva para el futuro grafo y analisis cualitativo, sin reducirse a causalidad automatica.",
+      "affected_artifacts": ["TAXONOMIA_DOCUMENTAL_ANALITICA_v1.md", "scripts/construir_perfiles_documentales_v1.py", "scripts/clasificar_perfiles_documentales_v1.py", "salidas/perfiles_documentales_v1.json", "salidas/matriz_documental_candidata_v1.json"],
+      "owner": "fase3_reorientacion"
+    },
+    {
+      "decision_id": "DEC-F3-2026-08-26-009",
+      "date": "2026-08-26",
+      "status": "adopted",
+      "decision": "Producir una primera lectura global documental antes de reabrir la capa de citas para trazabilidad de hallazgos.",
+      "rationale": "El paquete panoramico permite sintetizar objetos, escalas, tipologia, conclusiones y recomendaciones desde documentos completos; las citas se reservan para verificar afirmaciones concretas durante la siguiente revision.",
+      "impact": "LECTURA_GLOBAL_DOCUMENTAL_BORRADOR_v1.md se convierte en el nuevo objeto principal de revision sustantiva. No es una conclusion final ni un sustituto de la futura revision de evidencia literal.",
+      "affected_artifacts": ["ADJUDICACION_CALIBRACION_TAXONOMIA_v1.md", "scripts/construir_paquete_panoramico_documental_v1.py", "salidas/paquete_panoramico_documental_v1.json", "LECTURA_GLOBAL_DOCUMENTAL_BORRADOR_v1.md"],
+      "owner": "fase3_reorientacion"
+    },
+    {
+      "decision_id": "DEC-F3-2026-08-26-010",
+      "date": "2026-08-26",
+      "status": "adopted",
+      "decision": "Escalar la lectura global piloto a la sintesis documental completa de los 238 perfiles activos.",
+      "rationale": "El corpus completo ya dispone de preguntas, ambitos, resumenes, conclusiones y recomendaciones directas, por lo que la narrativa global puede contrastar los tres periodos sin depender solo de 30 documentos representativos.",
+      "impact": "SINTESIS_GLOBAL_COMPLETA_BORRADOR_v1.md reemplaza al piloto como objeto activo de revision sustantiva. La siguiente fase recupera evidencia literal solo para los hallazgos que sobrevivan la revision.",
+      "affected_artifacts": ["scripts/construir_corpus_sintesis_documental_v1.py", "salidas/corpus_sintesis_documental_v1.json", "SINTESIS_GLOBAL_COMPLETA_BORRADOR_v1.md"],
+      "owner": "fase3_reorientacion"
+    },
+    {
+      "decision_id": "DEC-F3-2026-08-26-011",
+      "date": "2026-08-26",
+      "status": "adopted",
+      "decision": "Abrir el segundo frente de sintesis para responder las nueve preguntas de investigacion con paneles de modos analiticos, Big Push e interpelacion.",
+      "rationale": "El panorama global describe la evolucion del objeto de estudio, pero las preguntas requieren una lectura separada de impactos, diagnostico, instrumentos, herramientas, implementacion, tendencias, desafios, oportunidades y participacion.",
+      "impact": "RESPUESTAS_PREGUNTAS_FASE3_3_BORRADOR_v1.md y los paneles v1 pasan a revision sustantiva. Las citas se recuperaran solo para los hallazgos y cuadros aprobados.",
+      "affected_artifacts": ["scripts/generar_paneles_analiticos_v1.py", "salidas/paneles_analiticos_v1.json", "PLAN_CUADROS_GRAFICOS_v1.md", "RESPUESTAS_PREGUNTAS_FASE3_3_BORRADOR_v1.md"],
+      "owner": "fase3_reorientacion"
+    },
+    {
+      "decision_id": "DEC-F3-2026-08-26-012",
+      "date": "2026-08-26",
+      "status": "adopted",
+      "decision": "Transformar los borradores analiticos en prosa narrativa basada en documentos ancla, conclusiones, recomendaciones y citas selectivas.",
+      "rationale": "Los mapas y paneles son necesarios para organizar el corpus, pero el informe requiere argumentos desarrollados que expliquen los conceptos, presenten casos y limiten sus inferencias.",
+      "impact": "La guia de redaccion y el piloto P8 se convierten en el patron para los capitulos posteriores. La nomenclatura de interpelacion se explicara conceptualmente y se relegara a notas, cuadros o metodologia cuando corresponda.",
+      "affected_artifacts": ["GUIA_REDACCION_NARRATIVA_Y_EVIDENCIA_v1.md", "PILOTO_PROSA_NARRATIVA_P8_BIG_PUSH_v1.md", "SINTESIS_GLOBAL_COMPLETA_BORRADOR_v1.md", "RESPUESTAS_PREGUNTAS_FASE3_3_BORRADOR_v1.md"],
+      "owner": "fase3_reorientacion"
+    },
+    {
+      "decision_id": "DEC-F3-2026-08-26-013",
+      "date": "2026-08-26",
+      "status": "adopted",
+      "decision": "Exigir español UTF-8 completo y expandir P1, P2 y P3 en la primera mención de toda prosa final.",
+      "rationale": "Los archivos analíticos intermedios pueden conservar identificadores técnicos, pero el informe debe ser legible y no asumir que el lector conoce la división temporal del análisis.",
+      "impact": "La prosa final conservará tildes, eñes y puntuación española. P1 se presentará como 2015–2018, P2 como 2019–2022 y P3 como 2023–2026, aclarando que el corpus disponible llega hasta 2025.",
+      "affected_artifacts": ["GUIA_REDACCION_NARRATIVA_Y_EVIDENCIA_v1.md", "PILOTO_PROSA_NARRATIVA_P8_BIG_PUSH_v1.md"],
+      "owner": "fase3_reorientacion"
+    }
+  ]
+}

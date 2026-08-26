@@ -1,0 +1,481 @@
+{
+  "version": "muestra-lectura-v1",
+  "package_id": "evolucion_enfoques",
+  "generated_at": "2026-08-26T19:23:56+00:00",
+  "base_version": "fase3-analitica-v1",
+  "source_package": "paquete_evolucion_enfoques_v1.json",
+  "purpose": "Muestra de cobertura para lectura humana; no es una muestra estadistica ni evidencia seleccionada para el informe.",
+  "selection_counts": {
+    "dimension_coverage": 15,
+    "interpellation_contrast": 0,
+    "multilevel_candidate": 0,
+    "total": 15
+  },
+  "selections": [
+    {
+      "selection_id": "evolucion_enfoques:dimension:P1:brechas_implementacion",
+      "selection_type": "dimension_coverage",
+      "stratum": {
+        "period_id": "P1",
+        "dimension": "brechas_implementacion"
+      },
+      "selection_rule": "Una cita por celda periodo-dimension; se prioriza puntaje de calidad textual, despues un documento no usado y finalmente hash estable.",
+      "selection_quality": {
+        "score": 6,
+        "signals": [
+          "quote_length_20_140_words",
+          "page_present",
+          "propositional_punctuation",
+          "dimension_keywords:insuf"
+        ]
+      },
+      "evidence": {
+        "dimension_id": 2213,
+        "document_id": "https://hdl.handle.net/11362/42527",
+        "anio": 2017,
+        "title": "Evaluaciones del desempeño ambiental: Perú",
+        "section_id": "https://hdl.handle.net/11362/42527#section-9.1",
+        "section_title": "Conclusiones y recomendaciones",
+        "dimension": "brechas_implementacion",
+        "quote": "El Tesoro Público aporta la mayor parte del financiamiento para la conservación de la biodiversidad, que ha aumentado en un 500% entre 2004 y 2010, aunque sigue siendo insuficiente.",
+        "page": "227",
+        "source_path": "fase2/corpus/resultados/json/doc_42527.json",
+        "source_sha256": "4d5bf261ab10e5ae21892f9d164d8ba5980457aa3d03d30325bdac1b3153e9d5"
+      }
+    },
+    {
+      "selection_id": "evolucion_enfoques:dimension:P1:desafios",
+      "selection_type": "dimension_coverage",
+      "stratum": {
+        "period_id": "P1",
+        "dimension": "desafios"
+      },
+      "selection_rule": "Una cita por celda periodo-dimension; se prioriza puntaje de calidad textual, despues un documento no usado y finalmente hash estable.",
+      "selection_quality": {
+        "score": 6,
+        "signals": [
+          "quote_length_20_140_words",
+          "page_present",
+          "propositional_punctuation",
+          "dimension_keywords:riesgo"
+        ]
+      },
+      "evidence": {
+        "dimension_id": 1073,
+        "document_id": "https://hdl.handle.net/11362/39009",
+        "anio": 2015,
+        "title": "Evaluación de los impactos del cambio climático sobre la salud: economía del cambio climático en la Argentina",
+        "section_id": "https://hdl.handle.net/11362/39009#section-4.2",
+        "section_title": "B. Malaria",
+        "dimension": "desafios",
+        "quote": "Por otro lado, las zonas de mayor cantidad de casos no coinciden con las predichas como de mayor riesgo (mapa 6).",
+        "page": "21",
+        "source_path": "fase2/corpus/resultados/json/doc_39009.json",
+        "source_sha256": "19ef92c53a54baff5249cb7b411f4a308084f9a026d4861075efbc8f3ed958e0"
+      }
+    },
+    {
+      "selection_id": "evolucion_enfoques:dimension:P1:diagnostico_estructural",
+      "selection_type": "dimension_coverage",
+      "stratum": {
+        "period_id": "P1",
+        "dimension": "diagnostico_estructural"
+      },
+      "selection_rule": "Una cita por celda periodo-dimension; se prioriza puntaje de calidad textual, despues un documento no usado y finalmente hash estable.",
+      "selection_quality": {
+        "score": 6,
+        "signals": [
+          "quote_length_20_140_words",
+          "page_present",
+          "propositional_punctuation",
+          "dimension_keywords:product"
+        ]
+      },
+      "evidence": {
+        "dimension_id": 1525,
+        "document_id": "https://hdl.handle.net/11362/40159",
+        "anio": 2016,
+        "title": "Horizontes 2030: la igualdad en el centro del desarrollo sostenible",
+        "section_id": "https://hdl.handle.net/11362/40159#section-5.1",
+        "section_title": "A. Poca productividad e infraestructura deficiente",
+        "dimension": "diagnostico_estructural",
+        "quote": "Los motores del crecimiento en el largo plazo son la diversificación productiva y el aumento del peso de los sectores de mayor intensidad tecnológica, materializado en un gran impulso (big push) ambiental de inversiones bajas en carbono.",
+        "page": "114",
+        "source_path": "fase2/corpus/resultados/json/doc_40159.json",
+        "source_sha256": "0877f929674570986470ca03b25d4ec4749402674999cb1b238115b11f5b154b"
+      }
+    },
+    {
+      "selection_id": "evolucion_enfoques:dimension:P1:propuestas_politica",
+      "selection_type": "dimension_coverage",
+      "stratum": {
+        "period_id": "P1",
+        "dimension": "propuestas_politica"
+      },
+      "selection_rule": "Una cita por celda periodo-dimension; se prioriza puntaje de calidad textual, despues un documento no usado y finalmente hash estable.",
+      "selection_quality": {
+        "score": 6,
+        "signals": [
+          "quote_length_20_140_words",
+          "page_present",
+          "propositional_punctuation",
+          "dimension_keywords:estrateg"
+        ]
+      },
+      "evidence": {
+        "dimension_id": 3950,
+        "document_id": "https://hdl.handle.net/11362/45689",
+        "anio": 2017,
+        "title": "Procesos de adaptación al cambio climático: análisis de América Latina",
+        "section_id": "https://hdl.handle.net/11362/45689#section-4",
+        "section_title": "DIRECTRICES DE LAS OPCIONES DE ADAPTACIÓN",
+        "dimension": "propuestas_politica",
+        "quote": " Las estrategias de adaptación, requieren proteger a la población más vulnerable y los activos naturales. Asimismo, pueden contribuir a la eficiencia energética e hídrica, salud y contaminación atmosférica en las ciudades, seguridad alimentaria y energética, las actividades agrícolas, la prevención de los eventos climáticos extremos y la biodiversidad. La priorización de cada uno de estos aspectos variaría según el contexto regional o local.",
+        "page": "10",
+        "source_path": "fase2/corpus/resultados/json/doc_45689.json",
+        "source_sha256": "719401a6afa71d187df3e23415ff1c582aecd985685ba7f26cec2eb121d688eb"
+      }
+    },
+    {
+      "selection_id": "evolucion_enfoques:dimension:P1:tendencias",
+      "selection_type": "dimension_coverage",
+      "stratum": {
+        "period_id": "P1",
+        "dimension": "tendencias"
+      },
+      "selection_rule": "Una cita por celda periodo-dimension; se prioriza puntaje de calidad textual, despues un documento no usado y finalmente hash estable.",
+      "selection_quality": {
+        "score": 6,
+        "signals": [
+          "quote_length_20_140_words",
+          "page_present",
+          "propositional_punctuation",
+          "dimension_keywords:dismin,entre"
+        ]
+      },
+      "evidence": {
+        "dimension_id": 1186,
+        "document_id": "https://hdl.handle.net/11362/39149",
+        "anio": 2015,
+        "title": "Cambio climático en Centroamérica: Impactos potenciales y opciones de política pública",
+        "section_id": "https://hdl.handle.net/11362/39149#section-4.4.2",
+        "section_title": "Hidroelectricidad",
+        "dimension": "tendencias",
+        "quote": "En el escenario menos pesimista (B2) se espera un incremento de entre 4% y 6% en ambas plantas para el corte 2020 respecto del período histórico. A partir de 2020, las estimaciones se vuelven negativas hasta llegar a una disminución del 26% en Chixoy y del 17% en Cerrón Grande a 2100.",
+        "page": "126",
+        "source_path": "fase2/corpus/resultados/json/doc_39149.json",
+        "source_sha256": "71e3eb9836613242bb7caff7918a7277fcfa175bcfa5e72c9d462690a0ca12d3"
+      }
+    },
+    {
+      "selection_id": "evolucion_enfoques:dimension:P2:brechas_implementacion",
+      "selection_type": "dimension_coverage",
+      "stratum": {
+        "period_id": "P2",
+        "dimension": "brechas_implementacion"
+      },
+      "selection_rule": "Una cita por celda periodo-dimension; se prioriza puntaje de calidad textual, despues un documento no usado y finalmente hash estable.",
+      "selection_quality": {
+        "score": 6,
+        "signals": [
+          "quote_length_20_140_words",
+          "page_present",
+          "propositional_punctuation",
+          "dimension_keywords:brecha"
+        ]
+      },
+      "evidence": {
+        "dimension_id": 4524,
+        "document_id": "https://hdl.handle.net/11362/46227",
+        "anio": 2020,
+        "title": "Construir un nuevo futuro: una recuperación transformadora con igualdad y sostenibilidad",
+        "section_id": "https://hdl.handle.net/11362/46227#section-3",
+        "section_title": "Capítulo II Un modelo de tres brechas y los escenarios del desarrollo sostenible",
+        "dimension": "brechas_implementacion",
+        "quote": "Estas crisis están estrechamente interrelacionadas y, en este capítulo, esas interrelaciones se analizan en términos de un modelo de tres brechas, cuyo punto de partida es el reconocimiento de que la economía internacional presenta grandes asimetrías tecnológicas, financieras, institucionales y de poder, que se reproducen endógenamente, conformando un sistema centro-periferia.",
+        "page": "75",
+        "source_path": "fase2/corpus/resultados/json/doc_46227.json",
+        "source_sha256": "a89d1c59c71ffeafd05958847e1cdef685e33c97f2fb1a342a917884bb6d6ce4"
+      }
+    },
+    {
+      "selection_id": "evolucion_enfoques:dimension:P2:desafios",
+      "selection_type": "dimension_coverage",
+      "stratum": {
+        "period_id": "P2",
+        "dimension": "desafios"
+      },
+      "selection_rule": "Una cita por celda periodo-dimension; se prioriza puntaje de calidad textual, despues un documento no usado y finalmente hash estable.",
+      "selection_quality": {
+        "score": 6,
+        "signals": [
+          "quote_length_20_140_words",
+          "page_present",
+          "propositional_punctuation",
+          "dimension_keywords:riesgo"
+        ]
+      },
+      "evidence": {
+        "dimension_id": 3383,
+        "document_id": "https://hdl.handle.net/11362/45023",
+        "anio": 2019,
+        "title": "Índices climáticos, políticas de aseguramiento agropecuario y gestión integral de riesgos en Centroamérica y la República Dominicana: experiencias internacionales y avances regionales",
+        "section_id": "https://hdl.handle.net/11362/45023#section-1",
+        "section_title": "Introducción",
+        "dimension": "desafios",
+        "quote": "La discrepancia entre los daños en las cosechas en los productores y los pagos registrados por las compañías aseguradoras se conoce como riesgo de base y uno de los objetivos de un programa de aseguramiento agropecuario debería ser minimizarlo.",
+        "page": "39",
+        "source_path": "fase2/corpus/resultados/json/doc_45023.json",
+        "source_sha256": "6b63b794cefe1706f2ff3de712f633c7a2fdf113fcf89aafe5bc549d83dca9a8"
+      }
+    },
+    {
+      "selection_id": "evolucion_enfoques:dimension:P2:diagnostico_estructural",
+      "selection_type": "dimension_coverage",
+      "stratum": {
+        "period_id": "P2",
+        "dimension": "diagnostico_estructural"
+      },
+      "selection_rule": "Una cita por celda periodo-dimension; se prioriza puntaje de calidad textual, despues un documento no usado y finalmente hash estable.",
+      "selection_quality": {
+        "score": 6,
+        "signals": [
+          "quote_length_20_140_words",
+          "page_present",
+          "propositional_punctuation",
+          "dimension_keywords:product"
+        ]
+      },
+      "evidence": {
+        "dimension_id": 4653,
+        "document_id": "https://hdl.handle.net/11362/46433",
+        "anio": 2020,
+        "title": "Fortalecimiento de la cadena de valor de café en la República Dominicana: en respuesta al cambio climático",
+        "section_id": "https://hdl.handle.net/11362/46433#section-3.2",
+        "section_title": "B. Los circuitos comerciales",
+        "dimension": "diagnostico_estructural",
+        "quote": "Un circuito es una red que permite establecer una comunicación entre zonas de producción y algunos mercados, además del flujo del producto.",
+        "page": "72",
+        "source_path": "fase2/corpus/resultados/json/doc_46433.json",
+        "source_sha256": "72a5ad77776a1a45168eeebb3707f9e478f0f806eba6c4b35fe0984e6f83b320"
+      }
+    },
+    {
+      "selection_id": "evolucion_enfoques:dimension:P2:propuestas_politica",
+      "selection_type": "dimension_coverage",
+      "stratum": {
+        "period_id": "P2",
+        "dimension": "propuestas_politica"
+      },
+      "selection_rule": "Una cita por celda periodo-dimension; se prioriza puntaje de calidad textual, despues un documento no usado y finalmente hash estable.",
+      "selection_quality": {
+        "score": 6,
+        "signals": [
+          "quote_length_20_140_words",
+          "page_present",
+          "propositional_punctuation",
+          "dimension_keywords:plan"
+        ]
+      },
+      "evidence": {
+        "dimension_id": 2775,
+        "document_id": "https://hdl.handle.net/11362/44472",
+        "anio": 2019,
+        "title": "Mainstreaming disaster risk management strategies in development instruments (II): policy briefs for Barbados, Guyana, Saint Lucia, Suriname, and Trinidad and Tobago",
+        "section_id": "https://hdl.handle.net/11362/44472#section-2.5",
+        "section_title": "E. Sectoral approach",
+        "dimension": "propuestas_politica",
+        "quote": "Launched by the Caribbean Disaster Emergency Management Agency (CDEMA) in 2018, this initiative will “provide guidelines for specific protocols and procedures […] and influence a comprehensive approach to planning for and managing a myriad of potential natural and man-made hazards and safety issues within schools”.",
+        "page": "27",
+        "source_path": "fase2/corpus/resultados/json/doc_44472.json",
+        "source_sha256": "6e7441bcbaa9721c97d7d43061bd935786c3c814a60c825f9f571da494277295"
+      }
+    },
+    {
+      "selection_id": "evolucion_enfoques:dimension:P2:tendencias",
+      "selection_type": "dimension_coverage",
+      "stratum": {
+        "period_id": "P2",
+        "dimension": "tendencias"
+      },
+      "selection_rule": "Una cita por celda periodo-dimension; se prioriza puntaje de calidad textual, despues un documento no usado y finalmente hash estable.",
+      "selection_quality": {
+        "score": 6,
+        "signals": [
+          "quote_length_20_140_words",
+          "page_present",
+          "propositional_punctuation",
+          "dimension_keywords:tend,evolu"
+        ]
+      },
+      "evidence": {
+        "dimension_id": 4733,
+        "document_id": "https://hdl.handle.net/11362/46482",
+        "anio": 2020,
+        "title": "Transición energética de la República Dominicana: ¿cómo las estrategias de descarbonización del sector eléctrico aceleran la participación del sector privado en la contribución determinada a nivel nacional CDN?",
+        "section_id": "https://hdl.handle.net/11362/46482#section-4.1.3",
+        "section_title": "3. Dictamen sobre la consistencia de la NDC",
+        "dimension": "tendencias",
+        "quote": "El escenario inercial (Bussiness As Usual -BAU-) al 2030 considera un crecimiento del PIB de 5%, similar al observado históricamente, una evolución de la eficiencia energética similar a la observada para el periodo 2010 – 2017 y una penetración de re novables tendencial.",
+        "page": "35",
+        "source_path": "fase2/corpus/resultados/json/doc_46482.json",
+        "source_sha256": "6695c2b1580acb8245414fc67637f86d89d56eb5d82246f60e457c5c654c97c5"
+      }
+    },
+    {
+      "selection_id": "evolucion_enfoques:dimension:P3:brechas_implementacion",
+      "selection_type": "dimension_coverage",
+      "stratum": {
+        "period_id": "P3",
+        "dimension": "brechas_implementacion"
+      },
+      "selection_rule": "Una cita por celda periodo-dimension; se prioriza puntaje de calidad textual, despues un documento no usado y finalmente hash estable.",
+      "selection_quality": {
+        "score": 6,
+        "signals": [
+          "quote_length_20_140_words",
+          "page_present",
+          "propositional_punctuation",
+          "dimension_keywords:brecha,falta,limit"
+        ]
+      },
+      "evidence": {
+        "dimension_id": 671,
+        "document_id": "https://hdl.handle.net/11362/69075",
+        "anio": 2024,
+        "title": "Panorama de la Gestión Pública en América Latina y el Caribe, 2023: un Estado preparado para la acción climática",
+        "section_id": "https://hdl.handle.net/11362/69075#section-2.1",
+        "section_title": "A. La planificación a largo plazo para la gestión pública",
+        "dimension": "brechas_implementacion",
+        "quote": "la falta de información y la necesidad de seguir fortaleciendo los sistemas estadísticos nacionales siguen constituyendo uno de los desafíos más urgentes... especialmente en los del Caribe, donde la brecha estadística limita su capacidad para desarrollar indicadores",
+        "page": "39",
+        "source_path": "fase2/pilot/doc19_gestion_publica.json",
+        "source_sha256": "dab202c304f29f7a75faf4acc6e378cd383c1dfb915fd0db0df08a242980eb9a"
+      }
+    },
+    {
+      "selection_id": "evolucion_enfoques:dimension:P3:desafios",
+      "selection_type": "dimension_coverage",
+      "stratum": {
+        "period_id": "P3",
+        "dimension": "desafios"
+      },
+      "selection_rule": "Una cita por celda periodo-dimension; se prioriza puntaje de calidad textual, despues un documento no usado y finalmente hash estable.",
+      "selection_quality": {
+        "score": 6,
+        "signals": [
+          "quote_length_20_140_words",
+          "page_present",
+          "propositional_punctuation",
+          "dimension_keywords:desafi"
+        ]
+      },
+      "evidence": {
+        "dimension_id": 7260,
+        "document_id": "https://hdl.handle.net/11362/81035",
+        "anio": 2024,
+        "title": "Avaliação dos efeitos e impactos das inundações no Rio Grande do Sul. Novembro 2024",
+        "section_id": "https://hdl.handle.net/11362/81035#section-2.2.3",
+        "section_title": "B. População Afetada",
+        "dimension": "desafios",
+        "quote": "A identificação de crianças e seus responsáveis foi desafiadora, especialmente quando estavam em abrigos diferentes e as crianças muitas vezes não sabiam sua identificação completa.",
+        "page": "71",
+        "source_path": "fase2/corpus/resultados/json/doc_81035.json",
+        "source_sha256": "f77e1a36c507f53d6e9291aaa6c9a20527c02259472c226613da54c3dad53ca5"
+      }
+    },
+    {
+      "selection_id": "evolucion_enfoques:dimension:P3:diagnostico_estructural",
+      "selection_type": "dimension_coverage",
+      "stratum": {
+        "period_id": "P3",
+        "dimension": "diagnostico_estructural"
+      },
+      "selection_rule": "Una cita por celda periodo-dimension; se prioriza puntaje de calidad textual, despues un documento no usado y finalmente hash estable.",
+      "selection_quality": {
+        "score": 6,
+        "signals": [
+          "quote_length_20_140_words",
+          "page_present",
+          "propositional_punctuation",
+          "dimension_keywords:estruct"
+        ]
+      },
+      "evidence": {
+        "dimension_id": 8316,
+        "document_id": "https://hdl.handle.net/11362/90001",
+        "anio": 2026,
+        "title": "El mundo del trabajo frente a las transformaciones ambientales: desafíos para la inclusión laboral",
+        "section_id": "https://hdl.handle.net/11362/90001#section-4.2.4",
+        "section_title": "4. Aumento de trabajo no remunerado y cambios en asignación de tiempo",
+        "dimension": "diagnostico_estructural",
+        "quote": "Estos cambios incrementan el tiempo que las mujeres destinan a tareas de cuidado, especialmente en lugares que carecen de infraestructura básica.",
+        "page": "22",
+        "source_path": "fase2/corpus/resultados/json/doc_90001.json",
+        "source_sha256": "7be4d80314e485fd45ade18ef2cf44ccbf14498119c347c8fadee0d74245fd37"
+      }
+    },
+    {
+      "selection_id": "evolucion_enfoques:dimension:P3:propuestas_politica",
+      "selection_type": "dimension_coverage",
+      "stratum": {
+        "period_id": "P3",
+        "dimension": "propuestas_politica"
+      },
+      "selection_rule": "Una cita por celda periodo-dimension; se prioriza puntaje de calidad textual, despues un documento no usado y finalmente hash estable.",
+      "selection_quality": {
+        "score": 6,
+        "signals": [
+          "quote_length_20_140_words",
+          "page_present",
+          "propositional_punctuation",
+          "dimension_keywords:debe"
+        ]
+      },
+      "evidence": {
+        "dimension_id": 6900,
+        "document_id": "https://hdl.handle.net/11362/69216",
+        "anio": 2024,
+        "title": "Panorama Fiscal de América Latina y el Caribe, 2024: política fiscal para enfrentar los desafíos del cambio climático",
+        "section_id": "https://hdl.handle.net/11362/69216#section-2.2",
+        "section_title": "A. La lucha contra el cambio climático exige inversiones excepcionales, pero la inversión pública enfrenta fuertes limitaciones fiscales",
+        "dimension": "propuestas_politica",
+        "quote": "Este esfuerzo inversor también deberá alinearse con las metas de reducción de emisiones de GEI aprobadas por los países de la región en virtud del Acuerdo de París.",
+        "page": "52",
+        "source_path": "fase2/corpus/resultados/json/doc_69216.json",
+        "source_sha256": "588f8a0aa1ac45e0f956c29c05c7c7e46809535376098efb0035707d6018fd6a"
+      }
+    },
+    {
+      "selection_id": "evolucion_enfoques:dimension:P3:tendencias",
+      "selection_type": "dimension_coverage",
+      "stratum": {
+        "period_id": "P3",
+        "dimension": "tendencias"
+      },
+      "selection_rule": "Una cita por celda periodo-dimension; se prioriza puntaje de calidad textual, despues un documento no usado y finalmente hash estable.",
+      "selection_quality": {
+        "score": 6,
+        "signals": [
+          "quote_length_20_140_words",
+          "page_present",
+          "propositional_punctuation",
+          "dimension_keywords:aument"
+        ]
+      },
+      "evidence": {
+        "dimension_id": 6532,
+        "document_id": "https://hdl.handle.net/11362/68686",
+        "anio": 2023,
+        "title": "Información climática disponible y recomendaciones para su uso en la inversión pública en los países del COSEFIN/SICA",
+        "section_id": "https://hdl.handle.net/11362/68686#section-2.2.1",
+        "section_title": "1. Evidencia de cambios en la temperatura en la región del SICA",
+        "dimension": "tendencias",
+        "quote": "La evidencia del cambio en el clima durante el período histórico en la región indica un aumento de la temperatura sostenido en todos los países de la región, con algunas diferencias.",
+        "page": "38",
+        "source_path": "fase2/corpus/resultados/json/doc_68686.json",
+        "source_sha256": "1d16694b98a43dca75d1343ae7c003d306357a116d0a2cccf98efe99b5010877"
+      }
+    }
+  ]
+}

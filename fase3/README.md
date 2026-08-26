@@ -13,7 +13,11 @@ son derivados y pueden ajustarse mediante nuevas versiones del diccionario.
 - `00_control/`: espacio reservado para manifiestos, auditorías, exclusiones y registros.
 - `01_normalizacion/`: espacio reservado para scripts, diccionarios, muestras, salidas y revisiones.
 - `02_eda/`: base SQLite, scripts y salidas del análisis exploratorio.
-- `03_analisis_contenido/`: análisis de preguntas de investigación, patrones y gobernanza multinivel.
+- `03_analisis_contenido/`: análisis de preguntas de investigación, patrones,
+  gobernanza multinivel y activo analítico vivo. Su contrato y plan de inicio
+  están en [03_analisis_contenido/ESPECIFICACION_ANALITICA_v2.md](03_analisis_contenido/ESPECIFICACION_ANALITICA_v2.md).
+- El punto de reanudación documentado al 2026-08-26 está en
+    [03_analisis_contenido/CHECKPOINT_FASE3_3_2026-08-26.md](03_analisis_contenido/CHECKPOINT_FASE3_3_2026-08-26.md).
 
 Los artefactos históricos de auditoría están agrupados en `00_control`; los documentos
 de orientación en la raíz funcionan como puntos de entrada.
@@ -27,6 +31,8 @@ de orientación en la raíz funcionan como puntos de entrada.
 - `01_normalizacion/revision/cola_revision_metadatos_v1.csv`: refinamientos pendientes.
 - `02_eda/salidas/fase3_analitica_v1.sqlite`: capa tabular para consultas y agregados.
 - `02_eda/salidas/eda_descriptivo_v1.md`: lectura humana del primer EDA.
+- `03_analisis_contenido/ESPECIFICACION_ANALITICA_v2.md`: contrato de Fase
+	3.3, modelo de evidencia y plan de ejecución.
 - `TRANSICION_FASE3.md`: estado, controles y comandos reproducibles.
 - `CIERRE_PREFASE3_2026-08-24.md`: acta de cierre y relevo hacia el análisis.
 

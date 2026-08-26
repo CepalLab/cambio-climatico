@@ -1,0 +1,19 @@
+{
+  "version": "grafo-m2-ejemplo-v1",
+  "base_version": "fase3-analitica-v1",
+  "is_example": true,
+  "nodes": [
+    {"node_id": "question:P1", "node_type": "Question", "label": "Estado de la gestion del cambio climatico e impactos"},
+    {"node_id": "concept:CON-0001", "node_type": "Concept", "label": "Dinamicas costeras", "status": "draft"},
+    {"node_id": "document:https://hdl.handle.net/11362/3955", "node_type": "Document", "label": "https://hdl.handle.net/11362/3955"},
+    {"node_id": "dimension:1", "node_type": "Dimension", "label": "contexto_antecedentes, p. 26"},
+    {"node_id": "finding:F3-M2-EJEMPLO-001", "node_type": "Finding", "label": "Ejemplo de trazabilidad", "status": "draft"}
+  ],
+  "edges": [
+    {"edge_id": "E-001", "edge_type": "CONTAINS", "source": "document:https://hdl.handle.net/11362/3955", "target": "dimension:1", "derived_from": "sqlite", "status": "verified"},
+    {"edge_id": "E-002", "edge_type": "MENTIONS", "source": "dimension:1", "target": "concept:CON-0001", "evidence_refs": [{"document_id": "https://hdl.handle.net/11362/3955", "dimension_id": 1}], "status": "draft"},
+    {"edge_id": "E-003", "edge_type": "EVIDENCES", "source": "dimension:1", "target": "finding:F3-M2-EJEMPLO-001", "evidence_refs": [{"document_id": "https://hdl.handle.net/11362/3955", "dimension_id": 1}], "status": "draft"},
+    {"edge_id": "E-004", "edge_type": "ADDRESSES", "source": "finding:F3-M2-EJEMPLO-001", "target": "question:P1", "status": "draft"},
+    {"edge_id": "E-005", "edge_type": "QUALIFIES", "source": "concept:CON-0001", "target": "finding:F3-M2-EJEMPLO-001", "status": "draft"}
+  ]
+}

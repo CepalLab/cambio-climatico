@@ -1,0 +1,22 @@
+# Piloto de prosa narrativa - P8 Gran Impulso y oportunidades
+
+**Estado:** piloto de estilo y evidencia; no es texto final del informe.  
+**Base:** perfiles canónicos, panel de interpelación y cita literal verificada.
+
+## De la oportunidad sectorial a una estrategia de transformación
+
+En el corpus CEPAL, la oportunidad climática no se limita a identificar una tecnología verde o un nuevo nicho de mercado. Su formulación más ambiciosa aparece en la idea del Gran Impulso Ambiental, también denominada Gran Impulso para la Sostenibilidad: una estrategia de desarrollo basada en inversiones coordinadas, instrumentos fiscales y regulatorios, y sectores capaces de combinar cambio tecnológico, empleo y reducción de emisiones. La pregunta no es solamente qué sectores pueden crecer, sino qué arreglos permiten que ese crecimiento altere el patrón de desarrollo.
+
+*Horizontes 2030: la igualdad en el centro del desarrollo sostenible* formula ese problema de manera directa al preguntar cómo puede América Latina y el Caribe combinar igualdad, cambio estructural progresivo y sostenibilidad ambiental. Su conclusión sostiene que la transición no surge espontáneamente del mercado, sino que requiere instituciones capaces de coordinar inversiones, proteger derechos y distribuir beneficios. El texto sintetiza ese horizonte en una frase que conviene conservar como ancla: "Los motores del crecimiento en el largo plazo son la diversificación productiva y el aumento del peso de los sectores de mayor intensidad tecnológica, materializado en un gran impulso (big push) ambiental de inversiones bajas en carbono." (p. 114).
+
+Esa formulación permite distinguir entre una oportunidad y un impulso de transformación. Una oportunidad puede ser una cadena de valor, una tecnología o un recurso; el Gran Impulso exige, además, escala de inversión, coordinación de políticas y efectos simultáneos sobre productividad, demanda y ambiente. La evidencia agregada del corpus muestra que la articulación de actores y las recomendaciones operativas se vuelven más frecuentes entre **P1 (2015–2018)**, **P2 (2019–2022)** y **P3 (2023–2026; el corpus disponible llega hasta 2025)**: los documentos con mecanismos de articulación identificables pasan de 38,4% a 73,3% y 71,9%, mientras que las propuestas consideradas operativamente concretas pasan de 32,3% a 57,3% y 64,1%. Sin embargo, los documentos que alcanzan el estándar más exigente de estrategia de impulso coordinado son menos: 16,2% en P1, 36,0% en P2 y 31,3% en P3. El corpus, por tanto, muestra una creciente densidad de instrumentos y coordinación, pero no una conversión automática de toda oportunidad verde en transformación estructural.
+
+La bioeconomía ilustra cómo el argumento puede aterrizarse. *Contribuciones a un gran impulso ambiental en América Latina y el Caribe: bioeconomía* pregunta de qué manera los recursos biológicos, los sectores estratégicos y las barreras regulatorias y de mercado pueden convertir la bioeconomía en motor de un impulso ambiental. El documento concluye que la bioeconomía contribuye a un cambio estructural basado en recursos biológicos y aprovechamiento integral de biomasa bajo una lógica circular. Pero no presenta esa salida como automática: recomienda combinar recursos económicos, institucionalidad y recursos humanos, y propone un ecosistema de bioeconomía sostenido por acciones e inversiones coordinadas y simultáneas.
+
+La diferencia es decisiva para la interpretación del corpus. La bioeconomía, la movilidad sostenible, las renovables, la economía circular o la infraestructura resiliente son oportunidades documentadas. Se aproximan a un Gran Impulso cuando se conectan con financiamiento, capacidades, regulación, empleo, coordinación y protección ambiental; se quedan en una oportunidad sectorial cuando esos enlaces no aparecen o no se desarrollan. Esta distinción también explica por qué el informe debe discutir no solo qué se propone, sino con qué mecanismos, a qué escala y con qué distribución de costos y beneficios.
+
+## Inserciones sugeridas
+
+- **Gráfico:** panel 100% apilado de los cuatro criterios de interpelación por período, presentado después del segundo párrafo.
+- **Cuadro:** oportunidades sectoriales, condición habilitante, riesgo distributivo y documento ancla, colocado después del caso de bioeconomía.
+- **Nota metodológica:** definición operativa de los cuatro criterios de interpelación y sus límites; va al pie del gráfico o en un recuadro, no en el cuerpo argumental.

@@ -1,0 +1,25 @@
+{
+  "finding_id": "F3-EVO-005",
+  "question_id": "P6",
+  "title": "Los desafios permanecen como lente transversal con expresiones sectoriales cambiantes",
+  "claim": "La dimension desafios se mantiene presente en una proporcion alta de documentos: 85.9% en P1, 84.0% en P2 y 79.7% en P3. Las citas ancla van desde vulnerabilidad alimentaria hasta arquitectura financiera y resiliencia de la inversion publica. Esto sugiere persistencia de una lente de desafios que cambia de sector e instrumento, sin que la leve baja de presencia pruebe una reduccion sustantiva de la relevancia de los problemas.",
+  "scope": {"periods": ["P1", "P2", "P3"], "filters": ["dimension = desafios"], "is_draft": true},
+  "quantitative_support": [
+    {"period_id": "P1", "documents_with_dimension": 85, "denominator": 99, "document_proportion": 0.858586, "citations": 264, "citations_per_document": 3.105882},
+    {"period_id": "P2", "documents_with_dimension": 63, "denominator": 75, "document_proportion": 0.84, "citations": 290, "citations_per_document": 4.603175},
+    {"period_id": "P3", "documents_with_dimension": 51, "denominator": 64, "document_proportion": 0.796875, "citations": 165, "citations_per_document": 3.235294}
+  ],
+  "evidence": [
+    {"document_id": "https://hdl.handle.net/11362/44056", "dimension_id": 2496, "dimension": "desafios", "page": "94", "quote": "Un sistema alimentario y nutricional vulnerable a los efectos del cambio climático es un riesgo que aumenta la inseguridad alimentaria y nutricional. Las sequías, las inundaciones y los eventos climáticos extremos limitan la disponibilidad y consumo de alimentos, por no mencionar la diversidad de la dieta.", "source_path": "fase2/corpus/resultados/json/doc_44056.json", "source_sha256": "96d08366f5a626b5a843071b1f35be9f70b205372125b1ad366cd6d9957ae394"},
+    {"document_id": "https://hdl.handle.net/11362/44551", "dimension_id": 3030, "dimension": "desafios", "page": "217", "quote": "La arquitectura financiera a nivel mundial, regional y nacional debe responder a tres grandes desafíos: promover una mayor estabilidad financiera como bien público global; mejorar la estructura de la gobernanza de las instituciones financieras multilaterales, que es asimétrica en cuanto a la representación y participación de las economías emergentes y los países de renta media, y ampliar su limitada capacidad de canalizar recursos para el financiamiento de un desarrollo inclusivo y sostenible (CEPAL, 2018e).", "source_path": "fase2/corpus/resultados/json/doc_44551.json", "source_sha256": "af461d464921af14fac15048acdddab5a61c123718d341927029051f9dbb6f9e"},
+    {"document_id": "https://hdl.handle.net/11362/80561", "dimension_id": 7019, "dimension": "desafios", "page": "35", "quote": "Ante el auge de la crisis climática y sus efectos, resulta urgente e impostergable la plena incorporación de los enfoques de resiliencia y reducción de riesgo de desastres en los procesos de inversión, tanto pública como privada, lo que es un desafío mayúsculo.", "source_path": "fase2/corpus/resultados/json/doc_80561.json", "source_sha256": "1b2f7e460585b4247bbb2d3395594db2ba8ae2d3316a7a962e42a4040bb0a144"}
+  ],
+  "exceptions": [{"type": "interpretation_limit", "note": "Los desafios cubren sectores heterogeneos; la categoria agregada no permite afirmar que un sector haya desplazado a otro sin una codificacion adicional."}],
+  "confidence": "medium",
+  "status": "superseded",
+  "base_version": "fase3-analitica-v1",
+  "created_at": "2026-08-26",
+  "created_by": "fase3_m4",
+  "review_questions": ["La variedad sectorial es una evolucion temporal o una propiedad constante del corpus?", "Que contraejemplos muestran desafios institucionales o territoriales que no encajan en estas tres anclas?"],
+  "review": {"reviewer": null, "reviewed_at": "2026-08-26", "notes": "Pausado por la reorientacion documental; conserva utilidad como evidencia microanalitica."}
+}

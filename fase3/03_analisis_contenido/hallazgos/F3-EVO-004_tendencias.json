@@ -1,0 +1,25 @@
+{
+  "finding_id": "F3-EVO-004",
+  "question_id": "P6",
+  "title": "La codificacion explicita de tendencias no sigue una trayectoria monotona",
+  "claim": "La proporcion de documentos con la dimension tendencias baja de 74.7% en P1 a 57.3% en P2 y se recupera a 67.2% en P3; las citas por documento pasan de 3.35 a 3.81 y luego a 2.33. Las citas ancla mantienen evidencia sobre cambios fisicos y sectoriales, pero la metrica no permite interpretar la variacion como menor o mayor importancia del cambio climatico en la agenda CEPAL.",
+  "scope": {"periods": ["P1", "P2", "P3"], "filters": ["dimension = tendencias"], "is_draft": true},
+  "quantitative_support": [
+    {"period_id": "P1", "documents_with_dimension": 74, "denominator": 99, "document_proportion": 0.747475, "citations": 248, "citations_per_document": 3.351351},
+    {"period_id": "P2", "documents_with_dimension": 43, "denominator": 75, "document_proportion": 0.573333, "citations": 164, "citations_per_document": 3.813953},
+    {"period_id": "P3", "documents_with_dimension": 43, "denominator": 64, "document_proportion": 0.671875, "citations": 100, "citations_per_document": 2.325581}
+  ],
+  "evidence": [
+    {"document_id": "https://hdl.handle.net/11362/39140", "dimension_id": 1129, "dimension": "tendencias", "page": "16", "quote": "En la actualidad la tendencia al aumento de la temperatura está alterando el hidrograma de los ríos andinos ya que el proceso de fusión de la nieve comienza más temprano, incrementando el caudal en los meses de primavera, con el pico de máximo que se traslada más temprano en el ciclo hidrológico y la disminución de los caudales de verano por agotamiento de la masa de nieve de ablación.", "source_path": "fase2/corpus/resultados/json/doc_39140.json", "source_sha256": "ebe7f003ea339a6a616044b515281c270cc7a560acc6010ed21a859d2dd30567"},
+    {"document_id": "https://hdl.handle.net/11362/47883", "dimension_id": 5566, "dimension": "tendencias", "page": "56", "quote": "No obstante, el análisis sugiere que una tendencia hacia una disminución de pesquerías colapsadas a partir del 2016, pero la categoría de sobreexplotadas ha ido en aumento, lo que sugiere que han ocurrido avances en la recuperación de los recursos (gráfico 16), pero también colapso en otros.", "source_path": "fase2/corpus/resultados/json/doc_47883.json", "source_sha256": "3eb83890e3fbd62345573202b97fec80b64fec5b1b47632ffbd3111b2608e079"},
+    {"document_id": "https://hdl.handle.net/11362/68686", "dimension_id": 6532, "dimension": "tendencias", "page": "38", "quote": "La evidencia del cambio en el clima durante el período histórico en la región indica un aumento de la temperatura sostenido en todos los países de la región, con algunas diferencias.", "source_path": "fase2/corpus/resultados/json/doc_68686.json", "source_sha256": "1d16694b98a43dca75d1343ae7c003d306357a116d0a2cccf98efe99b5010877"}
+  ],
+  "exceptions": [{"type": "interpretation_limit", "note": "La dimension tendencias capta solo un modo de enunciacion; documentos que discuten cambio temporal bajo otras dimensiones pueden no aparecer en este indicador."}],
+  "confidence": "medium",
+  "status": "superseded",
+  "base_version": "fase3-analitica-v1",
+  "created_at": "2026-08-26",
+  "created_by": "fase3_m4",
+  "review_questions": ["La caida en P2 refleja una diferencia real de enfoque o una limitacion de la taxonomia?", "Que evidencia temporal relevante quedo codificada como diagnostico, brecha o propuesta?"],
+  "review": {"reviewer": null, "reviewed_at": "2026-08-26", "notes": "Pausado por la reorientacion documental; conserva utilidad como evidencia microanalitica."}
+}

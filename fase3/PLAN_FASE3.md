@@ -44,8 +44,8 @@ justificación, certeza, revisor, fecha y estado (`pendiente`, `adjudicado` o `a
 revisarse contra la pregunta de investigación, resumen, conclusiones, estructura del documento y anclas de
 `TIPOLOGIA_v0.md`, distinguiendo el objeto sustantivo de los instrumentos institucionales.
 
-Los registros de trabajo son [revisiones_tipologia_v1.csv](revisiones_tipologia_v1.csv) y
-[exclusiones_corpus_v1.csv](exclusiones_corpus_v1.csv). El primer caso registrado es `11362/48413`, como
+Los registros de trabajo son [revisiones_tipologia_v1.csv](00_control/revisiones/revisiones_tipologia_v1.csv) y
+[exclusiones_corpus_v1.csv](00_control/inventario/exclusiones_corpus_v1.csv). El primer caso registrado es `11362/48413`, como
 propuesta pendiente de adjudicación; el registro de exclusiones todavía no contiene decisiones.
 
 Una decisión adjudicada se aplica solo de forma individual y explícita al JSON canónico. Se conserva un
@@ -80,6 +80,20 @@ Construir estructuras normalizadas a partir del corpus ya depurado y revisado.
 Con el corpus activo, revisado y normalizado, producir tabulados y análisis por dimensión, transformación,
 interpelación, período, geografía y tipo documental. Todo resultado debe declarar su denominador, filtros y
 exclusiones.
+
+#### Inicio operativo 2026-08-26
+
+El contrato de ejecución, el modelo de evidencia y el plan de entregables viven
+en [03_analisis_contenido/ESPECIFICACION_ANALITICA_v2.md](03_analisis_contenido/ESPECIFICACION_ANALITICA_v2.md).
+La implementación separa dos productos conectados: la síntesis de 30 páginas,
+que es el camino crítico, y un activo analítico vivo derivado para consultas
+futuras. SQLite sigue siendo el motor de agregados; el grafo se construye como
+exportación navegable y trazable, no como prerrequisito tecnológico.
+
+Antes de extender el análisis a las nueve preguntas, se ejecutarán dos pilotos:
+evolución de enfoques 2015-2025 y gobernanza multinivel, capacidades e
+implementación. Sus fichas de hallazgo deberán superar controles de evidencia,
+revisión humana y auditoría de segundo modelo.
 
 ## Regla de orden
 

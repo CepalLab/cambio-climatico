@@ -1,0 +1,16 @@
+{
+  "version": "preguntas-v1",
+  "base_version": "fase3-analitica-v1",
+  "denominador_documentos_activos": 238,
+  "questions": [
+    {"question_id": "P1", "title": "Estado de la gestion del cambio climatico e impactos", "source_dimensions": ["estado_de_situacion", "contexto_antecedentes"], "required_concepts": [], "status": "active"},
+    {"question_id": "P2", "title": "Diagnostico estructural para transicion y adaptacion", "source_dimensions": ["diagnostico_estructural"], "required_concepts": [], "status": "active"},
+    {"question_id": "P3", "title": "Enfoques, lineamientos e instrumentos de politica", "source_dimensions": ["propuestas_politica"], "required_concepts": [], "status": "active"},
+    {"question_id": "P4", "title": "Herramientas de analisis para la toma de decisiones", "source_dimensions": ["contexto_antecedentes", "propuestas_politica"], "required_concepts": ["herramientas_decision"], "status": "active"},
+    {"question_id": "P5", "title": "Avances y brechas de implementacion", "source_dimensions": ["avances_implementacion", "brechas_implementacion"], "required_concepts": [], "status": "active"},
+    {"question_id": "P6", "title": "Tendencias 2015-2025 en accion climatica", "source_dimensions": ["tendencias", "propuestas_politica"], "required_concepts": [], "status": "active"},
+    {"question_id": "P7", "title": "Desafios para la implementacion efectiva", "source_dimensions": ["desafios", "brechas_implementacion"], "required_concepts": [], "status": "active"},
+    {"question_id": "P8", "title": "Oportunidades estrategicas para la accion climatica", "source_dimensions": ["oportunidades"], "required_concepts": [], "status": "active"},
+    {"question_id": "P9", "title": "Participacion publica en la toma de decisiones", "source_dimensions": ["propuestas_politica", "contexto_antecedentes"], "required_concepts": ["participacion_publica"], "status": "active"}
+  ]
+}

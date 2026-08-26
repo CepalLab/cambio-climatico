@@ -1,0 +1,22 @@
+{
+  "version": "conceptos-v1",
+  "base_version": "fase3-analitica-v1",
+  "concepts": [
+    {
+      "concept_id": "CON-0001",
+      "slug": "dinamicas_costeras",
+      "label": "Dinamicas costeras",
+      "definition": "Cambios, procesos o condiciones de zonas costeras descritos en relacion con la variabilidad o el cambio climatico.",
+      "inclusion_criteria": ["La evidencia nombra dinamicas, cambios, riesgos o procesos costeros.", "La evidencia conecta explicitamente esos elementos con variabilidad o cambio climatico."],
+      "exclusion_criteria": ["Menciones a costas sin relacion explicita con clima.", "Referencias geograficas sin contenido analitico."],
+      "question_ids": ["P1"],
+      "status": "draft",
+      "is_example": true,
+      "created_at": "2026-08-26",
+      "created_by": "fase3_m2",
+      "evidence_refs": [
+        {"document_id": "https://hdl.handle.net/11362/3955", "dimension_id": 1, "page": "26", "source_path": "fase2/pilot/doc01_efectos_costa.json", "source_sha256": "61dc02fd86c18cb2feff08cfbe758e85b4fc3d863e5e38cafba2ac5846c97b85"}
+      ]
+    }
+  ]
+}

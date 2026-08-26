@@ -1,0 +1,3351 @@
+{
+  "version": "calibracion-documental-taxonomia-v1",
+  "generated_at": "2026-08-26T20:39:36+00:00",
+  "base_version": "fase3-analitica-v1",
+  "source_matrix": "C:/Users/abustamante/Cepal-lab/experimentos/cambio_climatico/fase3/03_analisis_contenido/salidas/matriz_documental_candidata_v1.json",
+  "purpose": "Calibrar la taxonomia documental antes de usar asignaciones candidatas en agregados.",
+  "profiles": [
+    {
+      "document_id": "https://hdl.handle.net/11362/80737",
+      "period_id": "P3",
+      "source": {
+        "source_path": "fase2/corpus/resultados/json/doc_80737.json",
+        "source_sha256": "c5b3f9f95708c7dc5d796f7ab5c9ef37c0a6f67ef0d1a90f44cfec7bf71049fc"
+      },
+      "metadata": {
+        "title": "Strengthening regional capacities to address the risk of and from overshooting 1.5°C global warming in Latin America and the Caribbean",
+        "year": 2024,
+        "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS"
+      },
+      "document_profile_summary": {
+        "research_question": "¿Cómo pueden los gobiernos y actores no estatales de América Latina y el Caribe fortalecer sus capacidades para gestionar el riesgo de un sobrepasamiento temporal de 1,5 °C y participar en conversaciones sobre el papel eventual de la modificación de la radiación solar (SRM)?",
+        "scope": {
+          "ambito_aplicacion": "América Latina y el Caribe; gobiernos, actores no estatales y cooperación regional",
+          "referentes_dependencias": "IPCC, UNEP, NASEM, UNFCCC, Convenio sobre la Diversidad Biológica, Convención de las Naciones Unidas sobre el Derecho del Mar, ENMOD, London Convention/London Protocol, Protocolo de Montreal, UNECE y literatura científica internacional",
+          "sectorial": "mitigación, adaptación, resiliencia, investigación climática, SRM y gobernanza ambiental",
+          "temporal": "escenarios del siglo XXI, con énfasis en la década actual, 2030 y preparación para las próximas décadas"
+        },
+        "territorial_scope": {
+          "normalized_candidates": [
+            {
+              "id": "regional",
+              "nombre": "Regional",
+              "aliases": [
+                "América Latina y el Caribe"
+              ]
+            },
+            {
+              "id": "subregional",
+              "nombre": "Subregional",
+              "aliases": [
+                "Caribe"
+              ]
+            }
+          ],
+          "requires_review": true,
+          "normalization_method": "alias_y_regla_multinivel",
+          "original_normalized_scope": "América Latina y el Caribe; gobiernos, actores no estatales y cooperación regional",
+          "typology_application_level": "Regional"
+        },
+        "existing_typology": {
+          "transformacion_primaria": {
+            "numero": 11,
+            "nombre": "Capacidades del Estado",
+            "certeza": "Alta"
+          },
+          "transformacion_secundaria": {
+            "numero": 6,
+            "nombre": "Sostenibilidad ambiental",
+            "certeza": "Alta"
+          },
+          "razonamiento_5_pasos": {
+            "tension_dialectica": "La tensión central es cómo una región expuesta a un sobrepasamiento climático y a una tecnología de riesgos transfronterizos puede construir capacidad científica, regulatoria y participativa antes de que existan decisiones de despliegue.",
+            "filtro_categoria_primaria": "El objeto de cierre no es desplegar SRM ni transformar un sector productivo, sino fortalecer capacidades regionales para investigar, evaluar riesgos, participar en gobernanza y regular investigación. La arquitectura institucional y de conocimiento es el objeto; el clima/SRM es el ámbito.",
+            "secundaria_obligatoria": "La sostenibilidad ambiental es la finalidad sustantiva: el análisis parte del sobrepasamiento de 1,5 °C, emisiones, adaptación, resiliencia y riesgos ecosistémicos, y busca que las capacidades estatales orienten decisiones climáticas responsables.",
+            "justificacion_anti_copia": "La primaria se justifica por la agenda concreta de investigación transdisciplinaria, evaluaciones riesgo-riesgo, monitoreo de evidencia, preguntas de política, regionalización de modelos, regulación y gobernanza. La secundaria se justifica por la finalidad de gestionar emisiones, impactos climáticos, ecosistemas y SRM; no se clasifica #6 primaria porque la recomendación final es construir capacidad para decidir sobre esas materias.",
+            "validacion_anclas": "La decisión sigue el patrón de la ancla #19 Panorama de la Gestión Pública 2023: cuando planificación, regulación, coordinación y capacidades públicas son el objeto y la acción climática es el ámbito, corresponde #11 primaria/#6 secundaria. Se diferencia de la ancla #20 porque aquí no se analiza principalmente vulnerabilidad o adaptación sectorial, sino la capacidad institucional y científica para gobernar una opción tecnológica emergente."
+          },
+          "tipo_documento_climatico": "Documento técnico de antecedentes y opciones de gobernanza climática",
+          "nivel_aplicacion": "Regional",
+          "ambiguedad_pendiente_validacion": null
+        },
+        "conclusions": [
+          "El sobrepasamiento temporal de 1,5 °C aumenta riesgos climáticos y de gobernanza para ALC, por lo que la prioridad sigue siendo reducir emisiones, adaptarse y fortalecer resiliencia; la SRM no reemplaza esas acciones.",
+          "La evidencia disponible no permite considerar ninguna técnica de SRM próxima al despliegue y muestra que sus posibles beneficios vienen acompañados de riesgos ambientales, sociales, económicos y de seguridad.",
+          "La región carece de esquemas de gobernanza nacionales e internacionales suficientes y necesita capacidades científicas, regulatorias, participativas y de coordinación para intervenir informadamente en el debate."
+        ],
+        "recommendations": [
+          "Aumentar urgentemente la acción regional para reducir emisiones e invertir en adaptación y resiliencia.",
+          "Fortalecer investigación regional y transdisciplinaria sobre sobrepasamiento, impactos y SRM, con participación de pueblos indígenas, comunidades locales y grupos subrepresentados.",
+          "Desarrollar evaluaciones riesgo-riesgo, monitorear investigación y conocimiento, identificar preguntas de política, colaborar para regionalizar modelos climáticos y explorar financiamiento.",
+          "Fortalecer capacidades regulatorias e identificar opciones de procesos de gobernanza regional e internacional que consideren los intereses de ALC."
+        ]
+      },
+      "candidate_assignments": {
+        "objects": [
+          {
+            "id": "adaptacion_resiliencia",
+            "score": 15,
+            "matched_terms_by_field": {
+              "scope_sectorial": [
+                "adaptaci",
+                "resilien"
+              ],
+              "narrative_summary": [
+                "adaptaci",
+                "resilien"
+              ],
+              "conclusions": [
+                "resilien"
+              ],
+              "recommendations": [
+                "adaptaci",
+                "resilien"
+              ]
+            }
+          },
+          {
+            "id": "gobernanza_capacidades",
+            "score": 14,
+            "matched_terms_by_field": {
+              "scope_sectorial": [
+                "gobernanza"
+              ],
+              "narrative_summary": [
+                "gobernanza",
+                "participaci"
+              ],
+              "main_findings": [
+                "gobernanza"
+              ],
+              "conclusions": [
+                "gobernanza",
+                "coordinaci"
+              ],
+              "recommendations": [
+                "gobernanza",
+                "participaci"
+              ]
+            }
+          },
+          {
+            "id": "impactos_vulnerabilidad",
+            "score": 11,
+            "matched_terms_by_field": {
+              "research_question": [
+                "riesgo"
+              ],
+              "narrative_summary": [
+                "riesgo"
+              ],
+              "conclusions": [
+                "riesgo"
+              ],
+              "recommendations": [
+                "impacto",
+                "riesgo"
+              ]
+            }
+          },
+          {
+            "id": "mitigacion_descarbonizacion",
+            "score": 10,
+            "matched_terms_by_field": {
+              "scope_sectorial": [
+                "mitigaci"
+              ],
+              "narrative_summary": [
+                "mitigaci"
+              ],
+              "main_findings": [
+                "mitigaci",
+                "emisiones"
+              ],
+              "conclusions": [
+                "emisiones"
+              ],
+              "recommendations": [
+                "emisiones"
+              ]
+            }
+          }
+        ],
+        "primary_object": "adaptacion_resiliencia",
+        "domains": [
+          {
+            "id": "institucional",
+            "score": 24,
+            "matched_terms_by_field": {
+              "research_question": [
+                "capacidad"
+              ],
+              "scope_sectorial": [
+                "gobernanza"
+              ],
+              "narrative_summary": [
+                "gobernanza",
+                "capacidad",
+                "participaci"
+              ],
+              "main_findings": [
+                "gobernanza"
+              ],
+              "conclusions": [
+                "gobernanza",
+                "capacidad",
+                "coordinaci"
+              ],
+              "recommendations": [
+                "gobernanza",
+                "capacidad",
+                "participaci"
+              ]
+            }
+          },
+          {
+            "id": "ambiental",
+            "score": 8,
+            "matched_terms_by_field": {
+              "abstract": [
+                "clima"
+              ],
+              "scope_sectorial": [
+                "ambient"
+              ],
+              "main_findings": [
+                "emisiones"
+              ],
+              "conclusions": [
+                "ambient",
+                "emisiones"
+              ],
+              "recommendations": [
+                "emisiones"
+              ]
+            }
+          }
+        ],
+        "functions": [
+          {
+            "id": "evalua_implementacion",
+            "score": 5,
+            "matched_terms_by_field": {
+              "narrative_summary": [
+                "evaluación"
+              ],
+              "main_findings": [
+                "implementaci"
+              ],
+              "recommendations": [
+                "evaluacion"
+              ]
+            }
+          },
+          {
+            "id": "analiza",
+            "score": 4,
+            "matched_terms_by_field": {
+              "narrative_summary": [
+                "evalua"
+              ],
+              "recommendations": [
+                "evalua"
+              ]
+            }
+          }
+        ],
+        "source_fields": [
+          "abstract",
+          "conclusions",
+          "main_findings",
+          "narrative_summary",
+          "recommendations",
+          "research_question",
+          "scope_sectorial",
+          "title"
+        ],
+        "status": "candidate_weighted_keyword_v1"
+      }
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/45692",
+      "period_id": "P1",
+      "source": {
+        "source_path": "fase2/corpus/resultados/json/doc_45692.json",
+        "source_sha256": "d6a5b02474bd8eb3bd651b3c0bc400160ef908702f1ba37c2a1a5b83c18c9e2c"
+      },
+      "metadata": {
+        "title": "El cambio climático y sus efectos en la biodiversidad de América Latina",
+        "year": 2017,
+        "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS"
+      },
+      "document_profile_summary": {
+        "research_question": "¿Cuáles son los impactos previstos del cambio climático sobre la biodiversidad y los servicios ecosistémicos en América Latina y el Caribe, y qué efectividad, costos, beneficios económicos y métodos de valoración presentan las estrategias de política pública (regulaciones, pagos por servicios ambientales, áreas naturales protegidas, corredores biológicos y adaptación basada en ecosistemas) para su conservación y adaptación climática?",
+        "scope": {
+          "ambito_aplicacion": "América Latina y el Caribe (con análisis empírico y datos de Belice, Bolivia, Brasil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Honduras, México, Panamá, Paraguay, Perú y República Dominicana)",
+          "referentes_dependencias": "Unión Europea (Programa EUROCLIMA), UICN, PNUMA (UNEP), IPCC, FAO, REDPARQUES, Fondo Mundial para la Naturaleza (WWF), Banco Interamericano de Desarrollo (BID) y convenios internacionales (Ramsar, CDB)",
+          "sectorial": "Biodiversidad, servicios ecosistémicos, áreas naturales protegidas, corredores biológicos, recursos forestales e hídricos, agricultura, pesca, turismo y economía ambiental",
+          "temporal": "2000-2016 (con proyecciones de cambio climático y evaluación de políticas de conservación)"
+        },
+        "territorial_scope": {
+          "normalized_candidates": [
+            {
+              "id": "regional",
+              "nombre": "Regional",
+              "aliases": [
+                "América Latina y el Caribe"
+              ]
+            },
+            {
+              "id": "subregional",
+              "nombre": "Subregional",
+              "aliases": [
+                "Caribe"
+              ]
+            }
+          ],
+          "requires_review": true,
+          "normalization_method": "alias_y_regla_multinivel",
+          "original_normalized_scope": "América Latina y el Caribe (con análisis empírico y datos de Belice, Bolivia, Brasil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Honduras, México, Panamá, Paraguay, Perú y República Dominicana)",
+          "typology_application_level": "Regional (América Latina y el Caribe) con análisis empírico en Belice, Bolivia, Brasil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Honduras, México y Perú"
+        },
+        "existing_typology": {
+          "transformacion_primaria": {
+            "numero": 6,
+            "nombre": "Sostenibilidad ambiental",
+            "certeza": "Alta"
+          },
+          "transformacion_secundaria": {
+            "numero": 1,
+            "nombre": "Desarrollo productivo",
+            "certeza": "Alta"
+          },
+          "razonamiento_5_pasos": {
+            "tension_dialectica": "El documento aborda la encrucijada entre la acelerada pérdida de biodiversidad inducida por el cambio climático y la degradación de servicios ecosistémicos críticos en América Latina, frente a la urgente necesidad de fundamentar económicamente las inversiones en conservación para viabilizar actividades productivas clave (como la agricultura de exportación, la pesca y el ecoturismo) y la adaptación territorial.",
+            "filtro_categoria_primaria": "Se clasifica primariamente en #6 Sostenibilidad ambiental porque el eje temático y analítico estructurante es la preservación de los ecosistemas, la mitigación y adaptación al cambio climático mediante Áreas Naturales Protegidas, corredores biológicos y Adaptación basada en Ecosistemas (AbE), así como la cuantificación del Valor Económico Total (VET) de los servicios ambientales.",
+            "secundaria_obligatoria": "Se selecciona #1 Desarrollo productivo como transformación secundaria debido a que el documento articula sistemáticamente la conservación ambiental con el sostenimiento de sectores productivos vitales (la agricultura bajo riego dependiente de cuencas protegidas, la pesca que aporta seguridad alimentaria y empleo, y el ecoturismo generador de ingresos), demostrando cómo los servicios ecosistémicos constituyen la base productiva y de competitividad en la región.",
+            "justificacion_anti_copia": "A diferencia de documentos de conservación biológica estrictamente conservacionista o de estudios agropecuarios sectoriales, esta síntesis cuantifica monetariamente los aportes de las ANPs al PIB exportador agrícola (513 millones USD en Perú), la mitigación de costos de desastres en Belice y el empleo turístico en Bolivia, proponiendo herramientas de economía ambiental (PSA, VET) para integrar la sostenibilidad en la toma de decisiones económicas y productivas.",
+            "validacion_anclas": "Se compara con el caso ancla doc18 (La economía del cambio climático en América Latina y el Caribe: necesidades de financiamiento...), donde la sostenibilidad ambiental (#6) define el fin rector y los instrumentos económicos orientan la asignación productiva de recursos, diferenciándose de documentos focalizados exclusivamente en marcos macrofiscales o de políticas regulatorias generales."
+          },
+          "tipo_documento_climatico": "Policy brief / Síntesis de políticas públicas",
+          "nivel_aplicacion": "Regional (América Latina y el Caribe) con análisis empírico en Belice, Bolivia, Brasil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Honduras, México y Perú",
+          "ambiguedad_pendiente_validacion": null
+        },
+        "conclusions": [
+          "El cambio climático y la degradación de la biodiversidad en América Latina actúan de manera sinérgica, amenazando la estabilidad ecológica y los cimientos económicos de sectores altamente dependientes del capital natural como la agricultura, la pesca y el turismo (p. 4-6).",
+          "Los instrumentos de conservación como las Áreas Naturales Protegidas, los corredores biológicos y la Adaptación basada en Ecosistemas (AbE) proveen cuantiosos retornos económicos y sociales, pero su sostenibilidad está comprometida por la insuficiencia y marcada asimetría de las asignaciones presupuestarias públicas y la falta de inventarios actualizados (p. 10-13).",
+          "La carencia de evaluaciones económicas rigurosas que estimen los costos de implementación y cuantifiquen monetariamente los beneficios de los servicios ecosistémicos mediante el marco del Valor Económico Total (VET) impide priorizar con eficiencia las inversiones públicas y privadas de adaptación climática (p. 4, 9, 13)."
+        ],
+        "recommendations": [
+          "Desarrollar estudios y evaluaciones económicas exhaustivas que cuantifiquen objetivamente los costos y beneficios de las distintas estrategias de conservación para priorizar inversiones eficientes en mitigación y adaptación al cambio climático (p. 4, 9, 13).",
+          "Fortalecer la capacidad institucional y científica de modelación y predicción sobre los efectos climáticos y sus impactos económicos, sociales y biológicos en los ecosistemas regionales (p. 4, 5).",
+          "Priorizar el fortalecimiento presupuestario, legal y operativo de los Sistemas Nacionales de Áreas Protegidas y los corredores biológicos transfronterizos para reducir la vulnerabilidad territorial ante eventos extremos (p. 4, 10-12).",
+          "Diseñar e implementar estrategias de Adaptación basada en Ecosistemas (AbE) y restauración ecológica que integren la gobernanza participativa local y comités de cuencas, asegurando viabilidad sociocultural y eficiencia económica (p. 4, 12-13)."
+        ]
+      },
+      "candidate_assignments": {
+        "objects": [
+          {
+            "id": "ecosistemas_recursos",
+            "score": 39,
+            "matched_terms_by_field": {
+              "title": [
+                "biodivers"
+              ],
+              "abstract": [
+                "biodivers",
+                "ecosistema"
+              ],
+              "research_question": [
+                "biodivers",
+                "ecosistema"
+              ],
+              "scope_sectorial": [
+                "biodivers"
+              ],
+              "narrative_summary": [
+                "biodivers",
+                "marino",
+                "ecosistema"
+              ],
+              "main_findings": [
+                "biodivers",
+                "agua",
+                "agrícola",
+                "costa",
+                "marino",
+                "ecosistema"
+              ],
+              "conclusions": [
+                "biodivers",
+                "ecosistema"
+              ],
+              "recommendations": [
+                "ecosistema"
+              ]
+            }
+          },
+          {
+            "id": "adaptacion_resiliencia",
+            "score": 15,
+            "matched_terms_by_field": {
+              "abstract": [
+                "adaptaci"
+              ],
+              "research_question": [
+                "adaptaci"
+              ],
+              "narrative_summary": [
+                "adaptaci",
+                "resilien"
+              ],
+              "main_findings": [
+                "adaptaci"
+              ],
+              "conclusions": [
+                "adaptaci"
+              ],
+              "recommendations": [
+                "adaptaci"
+              ]
+            }
+          },
+          {
+            "id": "gobernanza_capacidades",
+            "score": 12,
+            "matched_terms_by_field": {
+              "research_question": [
+                "regulaci"
+              ],
+              "narrative_summary": [
+                "regulaci"
+              ],
+              "main_findings": [
+                "gobernanza",
+                "regulaci"
+              ],
+              "recommendations": [
+                "gobernanza",
+                "institucional"
+              ]
+            }
+          },
+          {
+            "id": "impactos_vulnerabilidad",
+            "score": 12,
+            "matched_terms_by_field": {
+              "research_question": [
+                "impacto"
+              ],
+              "narrative_summary": [
+                "impacto"
+              ],
+              "main_findings": [
+                "impacto",
+                "desastre"
+              ],
+              "recommendations": [
+                "impacto",
+                "vulnerabil"
+              ]
+            }
+          },
+          {
+            "id": "financiamiento_inversion",
+            "score": 7,
+            "matched_terms_by_field": {
+              "abstract": [
+                "inversi"
+              ],
+              "narrative_summary": [
+                "inversi"
+              ],
+              "main_findings": [
+                "financiam"
+              ],
+              "conclusions": [
+                "inversi"
+              ],
+              "recommendations": [
+                "inversi"
+              ]
+            }
+          }
+        ],
+        "primary_object": "ecosistemas_recursos",
+        "domains": [
+          {
+            "id": "ambiental",
+            "score": 47,
+            "matched_terms_by_field": {
+              "title": [
+                "biodivers"
+              ],
+              "abstract": [
+                "ambient",
+                "ecosistema",
+                "biodivers"
+              ],
+              "research_question": [
+                "ambient",
+                "ecosistema",
+                "biodivers"
+              ],
+              "scope_sectorial": [
+                "ambient",
+                "biodivers"
+              ],
+              "narrative_summary": [
+                "ambient",
+                "ecosistema",
+                "biodivers"
+              ],
+              "main_findings": [
+                "clima",
+                "ambient",
+                "ecosistema",
+                "biodivers",
+                "agua"
+              ],
+              "conclusions": [
+                "ecosistema",
+                "biodivers"
+              ],
+              "recommendations": [
+                "ecosistema"
+              ]
+            }
+          },
+          {
+            "id": "institucional",
+            "score": 13,
+            "matched_terms_by_field": {
+              "research_question": [
+                "regulaci"
+              ],
+              "narrative_summary": [
+                "regulaci"
+              ],
+              "main_findings": [
+                "gobernanza",
+                "regulaci"
+              ],
+              "recommendations": [
+                "institucional",
+                "gobernanza",
+                "capacidad"
+              ]
+            }
+          },
+          {
+            "id": "sectorial",
+            "score": 13,
+            "matched_terms_by_field": {
+              "scope_sectorial": [
+                "agric",
+                "pesca"
+              ],
+              "main_findings": [
+                "energ",
+                "agric",
+                "agua",
+                "industria",
+                "pesca"
+              ],
+              "conclusions": [
+                "agric",
+                "pesca"
+              ]
+            }
+          },
+          {
+            "id": "financiero",
+            "score": 8,
+            "matched_terms_by_field": {
+              "abstract": [
+                "inversi"
+              ],
+              "narrative_summary": [
+                "inversi"
+              ],
+              "main_findings": [
+                "financiam",
+                "bono"
+              ],
+              "conclusions": [
+                "inversi"
+              ],
+              "recommendations": [
+                "inversi"
+              ]
+            }
+          },
+          {
+            "id": "productivo",
+            "score": 7,
+            "matched_terms_by_field": {
+              "scope_sectorial": [
+                "agricultura"
+              ],
+              "main_findings": [
+                "productiv",
+                "industria",
+                "agricultura"
+              ],
+              "conclusions": [
+                "agricultura"
+              ]
+            }
+          }
+        ],
+        "functions": [
+          {
+            "id": "analiza",
+            "score": 11,
+            "matched_terms_by_field": {
+              "narrative_summary": [
+                "analiza",
+                "análisis",
+                "evalúa"
+              ],
+              "conclusions": [
+                "evalua"
+              ],
+              "recommendations": [
+                "evalua"
+              ]
+            }
+          },
+          {
+            "id": "diagnostica",
+            "score": 5,
+            "matched_terms_by_field": {
+              "narrative_summary": [
+                "brecha"
+              ],
+              "main_findings": [
+                "brecha"
+              ],
+              "recommendations": [
+                "vulnerabil"
+              ]
+            }
+          }
+        ],
+        "source_fields": [
+          "abstract",
+          "conclusions",
+          "main_findings",
+          "narrative_summary",
+          "recommendations",
+          "research_question",
+          "scope_sectorial",
+          "title"
+        ],
+        "status": "candidate_weighted_keyword_v1"
+      }
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/47720",
+      "period_id": "P2",
+      "source": {
+        "source_path": "fase2/corpus/resultados/json/doc_47720.json",
+        "source_sha256": "bac14714f49713c81a94bda9b0e757d6142a0bddfbef55f1304790c06c3f7cb5"
+      },
+      "metadata": {
+        "title": "Cómo financiar el desarrollo sostenible: recuperación de los efectos del COVID-19 en América Latina y el Caribe",
+        "year": 2022,
+        "division": "CEPAL - SE - Institucional"
+      },
+      "document_profile_summary": {
+        "research_question": "¿Cómo puede América Latina y el Caribe orientar la recuperación pospandemia hacia un desarrollo sostenible, cerrando simultáneamente las brechas social, económica y ambiental mediante inversión, políticas coherentes y fuentes de financiamiento adicionales?",
+        "scope": {
+          "ambito_aplicacion": "América Latina y el Caribe, considerada como región y con datos de países seleccionados como Brasil, Chile, Colombia, Panamá, Jamaica, México, Perú y otros países latinoamericanos y caribeños.",
+          "referentes_dependencias": "Agenda 2030, Acuerdo de París, CEPAL, PNUMA, Universidad de Oxford, FMI, IPCC, CIDH, INPE y WWF; se usan como marcos, fuentes de datos o referencias externas.",
+          "sectorial": "Energías renovables; transporte público y tecnologías limpias; agua y saneamiento; economía circular; restauración ambiental; bioeconomía; soluciones basadas en la naturaleza; economía digital; turismo sostenible; manufactura de la salud; economía del cuidado; fiscalidad, bonos verdes y fondos climáticos.",
+          "temporal": "Diagnóstico de la pandemia y la recuperación hasta 2021, con horizonte de inversión y financiamiento 2021-2030 y referencia a la Agenda 2030 y el Acuerdo de París."
+        },
+        "territorial_scope": {
+          "normalized_candidates": [
+            {
+              "id": "regional",
+              "nombre": "Regional",
+              "aliases": [
+                "América Latina y el Caribe"
+              ]
+            },
+            {
+              "id": "subregional",
+              "nombre": "Subregional",
+              "aliases": [
+                "Caribe"
+              ]
+            },
+            {
+              "id": "subnacional",
+              "nombre": "Subnacional",
+              "aliases": [
+                "región"
+              ]
+            }
+          ],
+          "requires_review": true,
+          "normalization_method": "alias_y_regla_multinivel",
+          "original_normalized_scope": "América Latina y el Caribe, considerada como región y con datos de países seleccionados como Brasil, Chile, Colombia, Panamá, Jamaica, México, Perú y otros países latinoamericanos y caribeños.",
+          "typology_application_level": "Regional (América Latina y el Caribe), con datos y ejemplos nacionales."
+        },
+        "existing_typology": {
+          "transformacion_primaria": {
+            "numero": 6,
+            "nombre": "Sostenibilidad ambiental",
+            "certeza": "Alta"
+          },
+          "transformacion_secundaria": {
+            "numero": 10,
+            "nombre": "Macroeconomía y fiscalidad",
+            "certeza": "Alta"
+          },
+          "razonamiento_5_pasos": {
+            "tension_dialectica": "La tensión central enfrenta la urgencia de reactivar crecimiento y empleo tras la pandemia con el riesgo de consolidar una estructura productiva de alta huella y mayor desigualdad. La inversión y el financiamiento son el canal para resolver esa tensión, mientras el objetivo sustantivo es una recuperación baja en carbono que cierre las tres brechas.",
+            "filtro_categoria_primaria": "La categoría #6 es primaria porque el título, el diagnóstico y el cierre organizan la propuesta alrededor de sostenibilidad, reducción de huella ambiental, energías limpias, biodiversidad, cambio climático y cumplimiento del Acuerdo de París. La fiscalidad y el financiamiento se subordinan a esa transformación ambiental.",
+            "secundaria_obligatoria": "La categoría #10 es secundaria porque el documento dedica una sección extensa a la orientación del gasto, la tasa de inversión, el espacio fiscal, los subsidios fósiles, la evasión, los bonos verdes, los fondos climáticos y la composición de las fuentes de financiamiento para una recuperación transformadora.",
+            "justificacion_anti_copia": "No es #10/#6 porque, aunque cuantifica inversión y diseña fuentes financieras, esos instrumentos responden a una finalidad ambiental explícita y no a un análisis autónomo del sistema macrofiscal. Tampoco es #11 porque la concertación, la información y las compras públicas son habilitadores de la inversión sostenible, no el objeto principal del informe.",
+            "validacion_anclas": "Se contrasta con la ancla ID 17, “Estudio Económico 2023: financiamiento de una transición sostenible”, que corresponde a #10/#6 cuando el aparato macrofinanciero domina la unidad completa. En 11362/47720, el financiamiento es el medio para orientar una recuperación de baja huella y cerrar la brecha ambiental, por lo que corresponde #6/#10; también se distingue de la ancla ID 3, “The rise of green bonds”, donde el mercado financiero es el objeto."
+          },
+          "tipo_documento_climatico": "Informe Especial COVID-19 de diagnóstico ambiental y propuesta de financiamiento para una recuperación sostenible.",
+          "nivel_aplicacion": "Regional (América Latina y el Caribe), con datos y ejemplos nacionales.",
+          "ambiguedad_pendiente_validacion": null
+        },
+        "conclusions": [
+          "La recuperación no es sostenible si reproduce el patrón productivo previo: el bajo peso de la inversión verde y la orientación tradicional de los estímulos mantienen las brechas social, económica y ambiental.",
+          "Cerrar las tres brechas es viable mediante inversión adicional en sectores dinamizadores de baja huella ambiental, con una combinación de instrumentos financieros, fiscales, regulatorios y de inversión pública y privada.",
+          "La transformación requiere coherencia de políticas, información para comparar alternativas, concertación entre actores y un cambio de dirección de la inversión que combine crecimiento, empleo, inclusión y reducción de la huella ambiental."
+        ],
+        "recommendations": [
+          "Focalizar regulación, gasto, inversión pública, compras públicas e inversión privada en sectores dinamizadores de baja huella ambiental y alto efecto sobre PIB y empleo.",
+          "Orientar la inversión mediante fiscalidad, política financiera, política tecnológica y política regulatoria, y combinar bonos verdes, fondos climáticos, ahorro por subsidios fósiles y tasa al carbono.",
+          "Producir información y datos sobre empleos, bienestar, crecimiento, inclusión y huella ambiental para apoyar decisiones transformadoras y fortalecer la concertación entre actores sociales."
+        ]
+      },
+      "candidate_assignments": {
+        "objects": [
+          {
+            "id": "financiamiento_inversion",
+            "score": 33,
+            "matched_terms_by_field": {
+              "research_question": [
+                "financiam",
+                "inversi"
+              ],
+              "scope_sectorial": [
+                "fiscal",
+                "bonos verdes"
+              ],
+              "narrative_summary": [
+                "inversi",
+                "fiscal",
+                "bonos verdes"
+              ],
+              "main_findings": [
+                "financiam",
+                "inversi",
+                "bonos verdes"
+              ],
+              "conclusions": [
+                "inversi",
+                "fiscal"
+              ],
+              "recommendations": [
+                "inversi",
+                "fiscal",
+                "bonos verdes"
+              ]
+            }
+          },
+          {
+            "id": "transicion_productiva",
+            "score": 10,
+            "matched_terms_by_field": {
+              "scope_sectorial": [
+                "bioeconom",
+                "economía circular"
+              ],
+              "narrative_summary": [
+                "economía circular"
+              ],
+              "main_findings": [
+                "economía circular"
+              ]
+            }
+          },
+          {
+            "id": "ecosistemas_recursos",
+            "score": 8,
+            "matched_terms_by_field": {
+              "scope_sectorial": [
+                "agua"
+              ],
+              "narrative_summary": [
+                "biodivers"
+              ],
+              "main_findings": [
+                "biodivers",
+                "bosque"
+              ]
+            }
+          },
+          {
+            "id": "impactos_vulnerabilidad",
+            "score": 6,
+            "matched_terms_by_field": {
+              "abstract": [
+                "impacto",
+                "vulnerabil"
+              ],
+              "narrative_summary": [
+                "riesgo"
+              ],
+              "main_findings": [
+                "vulnerabil"
+              ]
+            }
+          },
+          {
+            "id": "territorio_ciudad",
+            "score": 5,
+            "matched_terms_by_field": {
+              "abstract": [
+                "territorio"
+              ],
+              "narrative_summary": [
+                "urbano"
+              ],
+              "main_findings": [
+                "urbano"
+              ]
+            }
+          }
+        ],
+        "primary_object": "financiamiento_inversion",
+        "domains": [
+          {
+            "id": "financiero",
+            "score": 33,
+            "matched_terms_by_field": {
+              "research_question": [
+                "financiam",
+                "inversi"
+              ],
+              "scope_sectorial": [
+                "fiscal",
+                "bono"
+              ],
+              "narrative_summary": [
+                "inversi",
+                "fiscal",
+                "bono"
+              ],
+              "main_findings": [
+                "financiam",
+                "inversi",
+                "bono"
+              ],
+              "conclusions": [
+                "inversi",
+                "fiscal"
+              ],
+              "recommendations": [
+                "inversi",
+                "fiscal",
+                "bono"
+              ]
+            }
+          },
+          {
+            "id": "ambiental",
+            "score": 24,
+            "matched_terms_by_field": {
+              "abstract": [
+                "ambient"
+              ],
+              "research_question": [
+                "ambient"
+              ],
+              "scope_sectorial": [
+                "ambient",
+                "agua"
+              ],
+              "narrative_summary": [
+                "ambient",
+                "biodivers"
+              ],
+              "main_findings": [
+                "ambient",
+                "emisiones",
+                "biodivers",
+                "bosque"
+              ],
+              "conclusions": [
+                "ambient"
+              ],
+              "recommendations": [
+                "ambient"
+              ]
+            }
+          },
+          {
+            "id": "sectorial",
+            "score": 16,
+            "matched_terms_by_field": {
+              "scope_sectorial": [
+                "energ",
+                "transporte",
+                "agua",
+                "salud"
+              ],
+              "narrative_summary": [
+                "energ"
+              ],
+              "main_findings": [
+                "salud"
+              ]
+            }
+          },
+          {
+            "id": "social",
+            "score": 14,
+            "matched_terms_by_field": {
+              "scope_sectorial": [
+                "salud"
+              ],
+              "narrative_summary": [
+                "cuidados",
+                "empleo"
+              ],
+              "main_findings": [
+                "salud",
+                "cuidados",
+                "empleo"
+              ],
+              "conclusions": [
+                "empleo"
+              ],
+              "recommendations": [
+                "empleo"
+              ]
+            }
+          },
+          {
+            "id": "macroeconomico",
+            "score": 7,
+            "matched_terms_by_field": {
+              "narrative_summary": [
+                "pib"
+              ],
+              "main_findings": [
+                "pib"
+              ],
+              "conclusions": [
+                "crecimiento"
+              ],
+              "recommendations": [
+                "pib",
+                "crecimiento"
+              ]
+            }
+          },
+          {
+            "id": "territorial",
+            "score": 5,
+            "matched_terms_by_field": {
+              "abstract": [
+                "territorio"
+              ],
+              "narrative_summary": [
+                "urbano"
+              ],
+              "main_findings": [
+                "urbano"
+              ]
+            }
+          }
+        ],
+        "functions": [
+          {
+            "id": "diagnostica",
+            "score": 15,
+            "matched_terms_by_field": {
+              "abstract": [
+                "vulnerabil",
+                "condicion"
+              ],
+              "research_question": [
+                "brecha"
+              ],
+              "narrative_summary": [
+                "diagnóstico",
+                "brecha"
+              ],
+              "main_findings": [
+                "vulnerabil"
+              ],
+              "conclusions": [
+                "brecha"
+              ]
+            }
+          }
+        ],
+        "source_fields": [
+          "abstract",
+          "conclusions",
+          "main_findings",
+          "narrative_summary",
+          "recommendations",
+          "research_question",
+          "scope_sectorial",
+          "title"
+        ],
+        "status": "candidate_weighted_keyword_v1"
+      }
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/48118",
+      "period_id": "P2",
+      "source": {
+        "source_path": "fase2/corpus/resultados/json/doc_48118.json",
+        "source_sha256": "272d67dbdaae901ebee2eefa12be6ef5f568bb39d7b1e80be77b1ab2cf091cd0"
+      },
+      "metadata": {
+        "title": "Llaqtapa Allinllanakuy, Willakuyman Yaykunapaq, Lliw Llaqta Runakunaman Chayananpaq, Chaynallataq Pachamamamanta Kamachikunapaq, América Latina y el Caribe Suyukunapi",
+        "year": 2019,
+        "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS"
+      },
+      "document_profile_summary": {
+        "research_question": "¿Cómo deben garantizar los países de América Latina y el Caribe el acceso a la información, la participación pública y la justicia en asuntos ambientales?",
+        "scope": {
+          "ambito_aplicacion": "América Latina y el Caribe; Estados Parte del Acuerdo de Escazú.",
+          "referentes_dependencias": "Costa Rica, Naciones Unidas, CEPAL y el Depositario del Acuerdo.",
+          "sectorial": "Información ambiental, participación pública, evaluación de impacto ambiental, defensores ambientales y justicia ambiental.",
+          "temporal": "Adopción en Escazú, Costa Rica, marzo de 2018; apertura a firma 2018-2020 y reglas de entrada en vigor posteriores."
+        },
+        "territorial_scope": {
+          "normalized_candidates": [
+            {
+              "id": "regional",
+              "nombre": "Regional",
+              "aliases": [
+                "América Latina y el Caribe"
+              ]
+            },
+            {
+              "id": "subregional",
+              "nombre": "Subregional",
+              "aliases": [
+                "Caribe"
+              ]
+            }
+          ],
+          "requires_review": true,
+          "normalization_method": "alias_y_regla_multinivel",
+          "original_normalized_scope": "América Latina y el Caribe; Estados Parte del Acuerdo de Escazú.",
+          "typology_application_level": "Regional y nacional; implementación por los Estados Parte."
+        },
+        "existing_typology": {
+          "transformacion_primaria": {
+            "numero": 11,
+            "nombre": "Capacidades del Estado",
+            "certeza": "Alta"
+          },
+          "transformacion_secundaria": {
+            "numero": 6,
+            "nombre": "Sostenibilidad ambiental",
+            "certeza": "Alta"
+          },
+          "razonamiento_5_pasos": {
+            "tension_dialectica": "El documento procesa la tensión entre derechos ambientales reconocidos y la capacidad real de las instituciones para informar, escuchar y reparar. Su solución no es describir un impacto climático específico, sino construir reglas, órganos y procedimientos regionales que hagan exigible la gobernanza ambiental.",
+            "filtro_categoria_primaria": "La arquitectura jurídica —autoridades competentes, obligaciones de información, participación, justicia, cooperación y órganos del acuerdo— es el objeto transformador; la sostenibilidad ambiental es el ámbito y finalidad. Por eso se descarta #6 como primaria: el texto no organiza una transformación sectorial ambiental, sino capacidades públicas para gobernarla.",
+            "secundaria_obligatoria": "#6 cumple la función de finalidad sustantiva: las capacidades creadas se aplican a información ambiental, participación en decisiones con impacto ambiental, protección de defensores y remedios frente a daños ambientales.",
+            "justificacion_anti_copia": "La clasificación se apoya en tres rasgos propios: el régimen de acceso a información ambiental; las garantías de participación temprana y culturalmente pertinente; y la justicia ambiental con asistencia técnica y jurídica, junto con la Conferencia de las Partes, la Secretaría y el comité de apoyo.",
+            "validacion_anclas": "Se aproxima al ancla Doc16 de gobernanza ambiental, donde órganos, derechos de acceso y mecanismos de tutela son el objeto institucional y lo ambiental delimita el ámbito. Se diferencia de un documento de impacto o adaptación porque aquí no se cuantifica vulnerabilidad ni se diseña inversión sectorial."
+          },
+          "tipo_documento_climatico": "Acuerdo jurídico regional sobre gobernanza y derechos ambientales",
+          "nivel_aplicacion": "Regional y nacional; implementación por los Estados Parte.",
+          "ambiguedad_pendiente_validacion": null
+        },
+        "conclusions": [
+          "El Acuerdo convierte los derechos ambientales de acceso en un marco regional de obligaciones estatales, garantías procesales y cooperación.",
+          "La efectividad depende de capacidades institucionales para producir información, incluir al público y ofrecer remedios oportunos, especialmente a grupos vulnerables y defensores ambientales."
+        ],
+        "recommendations": [
+          "Los Estados deben adecuar legislación, autoridades, procedimientos de información, participación y justicia a las garantías y mecanismos previstos por el Acuerdo.",
+          "La institucionalidad regional debe sostener cooperación, asistencia técnica, intercambio de experiencias y seguimiento de la implementación."
+        ]
+      },
+      "candidate_assignments": {
+        "objects": [
+          {
+            "id": "gobernanza_capacidades",
+            "score": 21,
+            "matched_terms_by_field": {
+              "research_question": [
+                "participaci"
+              ],
+              "scope_sectorial": [
+                "participaci"
+              ],
+              "narrative_summary": [
+                "gobernanza",
+                "participaci",
+                "escazú"
+              ],
+              "main_findings": [
+                "participaci"
+              ],
+              "conclusions": [
+                "institucional"
+              ],
+              "recommendations": [
+                "institucional",
+                "participaci"
+              ]
+            }
+          }
+        ],
+        "primary_object": "gobernanza_capacidades",
+        "domains": [
+          {
+            "id": "institucional",
+            "score": 22,
+            "matched_terms_by_field": {
+              "research_question": [
+                "participaci"
+              ],
+              "scope_sectorial": [
+                "participaci"
+              ],
+              "narrative_summary": [
+                "gobernanza",
+                "capacidad",
+                "participaci"
+              ],
+              "main_findings": [
+                "participaci"
+              ],
+              "conclusions": [
+                "institucional",
+                "capacidad"
+              ],
+              "recommendations": [
+                "institucional",
+                "participaci"
+              ]
+            }
+          },
+          {
+            "id": "ambiental",
+            "score": 13,
+            "matched_terms_by_field": {
+              "research_question": [
+                "ambient"
+              ],
+              "scope_sectorial": [
+                "ambient"
+              ],
+              "narrative_summary": [
+                "ambient"
+              ],
+              "main_findings": [
+                "ambient"
+              ],
+              "conclusions": [
+                "ambient"
+              ]
+            }
+          }
+        ],
+        "functions": [
+          {
+            "id": "evalua_implementacion",
+            "score": 8,
+            "matched_terms_by_field": {
+              "scope_sectorial": [
+                "evaluación"
+              ],
+              "narrative_summary": [
+                "implementaci"
+              ],
+              "main_findings": [
+                "implementaci"
+              ],
+              "recommendations": [
+                "implementaci"
+              ]
+            }
+          },
+          {
+            "id": "propone_intervenir",
+            "score": 6,
+            "matched_terms_by_field": {
+              "research_question": [
+                "debe"
+              ],
+              "recommendations": [
+                "debe"
+              ]
+            }
+          }
+        ],
+        "source_fields": [
+          "abstract",
+          "conclusions",
+          "main_findings",
+          "narrative_summary",
+          "recommendations",
+          "research_question",
+          "scope_sectorial",
+          "title"
+        ],
+        "status": "candidate_weighted_keyword_v1"
+      }
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/84510",
+      "period_id": "P3",
+      "source": {
+        "source_path": "fase2/corpus/resultados/json/doc_84510.json",
+        "source_sha256": "bf1362be5db3db792797b84a7606830171fce9adf44ebb279d7bef6862207510"
+      },
+      "metadata": {
+        "title": "Financiamiento del cambio climático en el Caribe: análisis desde una perspectiva de género",
+        "year": 2025,
+        "division": "ASUNTOS DE GÉNERO"
+      },
+      "document_profile_summary": {
+        "research_question": "¿Cómo se distribuye y puede mejorarse el financiamiento climático en el Caribe para integrar de manera efectiva la igualdad de género y la autonomía de las mujeres?",
+        "scope": {
+          "ambito_aplicacion": "Caribe, con atención a los PEID del Caribe, CARICOM y países y proyectos caribeños específicos.",
+          "referentes_dependencias": "CMNUCC, FVC, FIC, Fondo de Adaptación, BID, CDB, ONU-Mujeres y experiencias de América Latina, Asia y otras regiones.",
+          "sectorial": "Financiamiento climático público y privado; adaptación, mitigación, agua, energía, transporte, agricultura, pesca, infraestructura, servicios financieros y economía del cuidado.",
+          "temporal": "Principalmente 2003-2023, con proyecciones y necesidades hasta 2030 y 2050."
+        },
+        "territorial_scope": {
+          "normalized_candidates": [
+            {
+              "id": "subregional",
+              "nombre": "Subregional",
+              "aliases": [
+                "Caribe"
+              ]
+            }
+          ],
+          "requires_review": true,
+          "normalization_method": "alias_y_regla_multinivel",
+          "original_normalized_scope": "Caribe, con atención a los PEID del Caribe, CARICOM y países y proyectos caribeños específicos.",
+          "typology_application_level": "Subregional (Caribe) y regional (CARICOM/PEID del Caribe)"
+        },
+        "existing_typology": {
+          "transformacion_primaria": {
+            "numero": 6,
+            "nombre": "Sostenibilidad ambiental",
+            "certeza": "Alta"
+          },
+          "transformacion_secundaria": {
+            "numero": 5,
+            "nombre": "Igualdad de género",
+            "certeza": "Alta"
+          },
+          "razonamiento_5_pasos": {
+            "tension_dialectica": "El documento procesa la contradicción entre una región altamente expuesta a huracanes, deuda y pérdidas climáticas y una arquitectura financiera insuficiente y poco accesible para quienes más necesitan resiliencia. También tensiona la formalización institucional del género en los fondos con resultados locales débiles, participación irregular y recursos que no alcanzan a organizaciones de mujeres.",
+            "filtro_categoria_primaria": "El objeto de cambio es orientar financiamiento e inversión hacia adaptación, mitigación, resiliencia y transformación verde del Caribe; por eso la sostenibilidad ambiental es primaria. La igualdad de género es una condición de diseño, distribución y justicia del financiamiento, pero funciona como finalidad distributiva y criterio de implementación, no como el único objeto sectorial del informe.",
+            "secundaria_obligatoria": "La igualdad de género habilita la transformación climática al corregir quién accede a fondos, quién participa en proyectos y quién se beneficia de sectores, infraestructura y empleo verdes. La secundaria se concreta en políticas de género del FVC y FIC, datos desglosados, bonos de género, pequeñas subvenciones, autonomía económica y economía del cuidado.",
+            "justificacion_anti_copia": "La clasificación se ancla en rasgos propios: el análisis cuantifica 84 millones de dólares anuales para el Caribe Oriental y su composición; compara FVC, FIC y Fondo de Adaptación; examina al CCCCC y el FRC de canje de deuda; y cierra con instrumentos concretos como ventanillas especiales, CPIER con género, financiamiento sectorial y economía del cuidado. La perspectiva de género atraviesa el acceso y la distribución, pero el hilo conductor sigue siendo la arquitectura de financiamiento de la acción climática.",
+            "validacion_anclas": "Se aproxima al ancla #18, La economía del cambio climático, 2023: necesidades de financiamiento, porque el financiamiento es el medio para una transición climática; se diferencia porque aquí la lente de género y autonomía de las mujeres organiza el diagnóstico, los casos de fondos y las recomendaciones. No es el patrón #3, The rise of green bonds, porque los bonos son solo una parte de una arquitectura climática regional más amplia."
+          },
+          "tipo_documento_climatico": "Documento de proyecto o estudio técnico sobre financiamiento climático y género",
+          "nivel_aplicacion": "Subregional (Caribe) y regional (CARICOM/PEID del Caribe)",
+          "ambiguedad_pendiente_validacion": null
+        },
+        "conclusions": [
+          "El financiamiento climático disponible para el Caribe es insuficiente, difícil de medir y desigualmente accesible; la arquitectura vigente incorpora el género formalmente, pero no garantiza que los recursos lleguen a mujeres, organizaciones de mujeres ni comunidades con impactos diferenciados.",
+          "La integración efectiva del género exige pasar de requisitos administrativos e indicadores básicos a mecanismos de acceso, participación, seguimiento y asignación que conecten los fondos con las necesidades productivas, sociales y climáticas de las mujeres caribeñas.",
+          "El FRC y los instrumentos innovadores pueden ampliar la resiliencia y diversificar la economía, pero sus efectos sobre la autonomía económica de las mujeres dependerán de incorporar desde el diseño evaluaciones, recursos, formación, representación y salvaguardas de género."
+        ],
+        "recommendations": [
+          "Mejorar la recolección y el monitoreo de datos cuantitativos y cualitativos desglosados por sexo.",
+          "Integrar de manera significativa el género en políticas, planes e instrumentos climáticos y reforzar instituciones financieras regionales y mecanismos nacionales para la promoción de la mujer.",
+          "Crear pequeñas subvenciones, productos financieros para mipymes de mujeres, ventanillas especiales, consultas participativas y vías de acceso directo para organizaciones comunitarias y de mujeres.",
+          "Vincular la presupuestación con perspectiva de género con los exámenes institucionales y del gasto público para el clima, y asegurar financiamiento sectorial y de la economía del cuidado.",
+          "Simplificar criterios y condicionalidades, mejorar la comunicación y potenciar la participación equilibrada e informada de las mujeres en la toma de decisiones climáticas."
+        ]
+      },
+      "candidate_assignments": {
+        "objects": [
+          {
+            "id": "igualdad_proteccion_social",
+            "score": 25,
+            "matched_terms_by_field": {
+              "title": [
+                "género"
+              ],
+              "abstract": [
+                "desigualdad",
+                "género"
+              ],
+              "research_question": [
+                "género"
+              ],
+              "narrative_summary": [
+                "desigualdad",
+                "género",
+                "cuidados"
+              ],
+              "main_findings": [
+                "género"
+              ],
+              "conclusions": [
+                "género"
+              ],
+              "recommendations": [
+                "género"
+              ]
+            }
+          },
+          {
+            "id": "financiamiento_inversion",
+            "score": 22,
+            "matched_terms_by_field": {
+              "title": [
+                "financiam"
+              ],
+              "abstract": [
+                "financiam"
+              ],
+              "research_question": [
+                "financiam"
+              ],
+              "scope_sectorial": [
+                "financiam"
+              ],
+              "narrative_summary": [
+                "financiam"
+              ],
+              "main_findings": [
+                "financiam",
+                "inversi"
+              ],
+              "conclusions": [
+                "financiam"
+              ],
+              "recommendations": [
+                "financiam"
+              ]
+            }
+          },
+          {
+            "id": "adaptacion_resiliencia",
+            "score": 13,
+            "matched_terms_by_field": {
+              "abstract": [
+                "resilien"
+              ],
+              "scope_sectorial": [
+                "adaptaci"
+              ],
+              "narrative_summary": [
+                "adaptaci",
+                "resilien"
+              ],
+              "main_findings": [
+                "adaptaci",
+                "resilien"
+              ],
+              "conclusions": [
+                "resilien"
+              ]
+            }
+          },
+          {
+            "id": "informacion_prospectiva",
+            "score": 12,
+            "matched_terms_by_field": {
+              "abstract": [
+                "escenario"
+              ],
+              "narrative_summary": [
+                "indicador",
+                "datos"
+              ],
+              "main_findings": [
+                "indicador",
+                "datos"
+              ],
+              "conclusions": [
+                "indicador"
+              ],
+              "recommendations": [
+                "datos",
+                "monitoreo"
+              ]
+            }
+          },
+          {
+            "id": "gobernanza_capacidades",
+            "score": 11,
+            "matched_terms_by_field": {
+              "narrative_summary": [
+                "institucional",
+                "participaci"
+              ],
+              "main_findings": [
+                "participaci",
+                "coordinaci"
+              ],
+              "conclusions": [
+                "participaci"
+              ],
+              "recommendations": [
+                "institucional",
+                "participaci"
+              ]
+            }
+          }
+        ],
+        "primary_object": "igualdad_proteccion_social",
+        "domains": [
+          {
+            "id": "social",
+            "score": 25,
+            "matched_terms_by_field": {
+              "title": [
+                "género"
+              ],
+              "abstract": [
+                "desigualdad",
+                "género"
+              ],
+              "research_question": [
+                "género"
+              ],
+              "narrative_summary": [
+                "desigualdad",
+                "género",
+                "cuidados"
+              ],
+              "main_findings": [
+                "género"
+              ],
+              "conclusions": [
+                "género"
+              ],
+              "recommendations": [
+                "género"
+              ]
+            }
+          },
+          {
+            "id": "financiero",
+            "score": 22,
+            "matched_terms_by_field": {
+              "title": [
+                "financiam"
+              ],
+              "abstract": [
+                "financiam"
+              ],
+              "research_question": [
+                "financiam"
+              ],
+              "scope_sectorial": [
+                "financiam"
+              ],
+              "narrative_summary": [
+                "financiam"
+              ],
+              "main_findings": [
+                "financiam",
+                "inversi"
+              ],
+              "conclusions": [
+                "financiam"
+              ],
+              "recommendations": [
+                "financiam"
+              ]
+            }
+          },
+          {
+            "id": "sectorial",
+            "score": 16,
+            "matched_terms_by_field": {
+              "scope_sectorial": [
+                "energ",
+                "transporte",
+                "agric",
+                "agua",
+                "pesca"
+              ],
+              "conclusions": [
+                "agua"
+              ]
+            }
+          },
+          {
+            "id": "informacion_prospectiva",
+            "score": 12,
+            "matched_terms_by_field": {
+              "abstract": [
+                "escenario"
+              ],
+              "narrative_summary": [
+                "indicador",
+                "datos"
+              ],
+              "main_findings": [
+                "indicador",
+                "datos"
+              ],
+              "conclusions": [
+                "indicador"
+              ],
+              "recommendations": [
+                "datos",
+                "monitoreo"
+              ]
+            }
+          },
+          {
+            "id": "institucional",
+            "score": 11,
+            "matched_terms_by_field": {
+              "narrative_summary": [
+                "institucional",
+                "participaci"
+              ],
+              "main_findings": [
+                "coordinaci",
+                "participaci"
+              ],
+              "conclusions": [
+                "participaci"
+              ],
+              "recommendations": [
+                "institucional",
+                "participaci"
+              ]
+            }
+          },
+          {
+            "id": "ambiental",
+            "score": 5,
+            "matched_terms_by_field": {
+              "scope_sectorial": [
+                "agua"
+              ],
+              "conclusions": [
+                "agua"
+              ],
+              "recommendations": [
+                "clima"
+              ]
+            }
+          },
+          {
+            "id": "productivo",
+            "score": 5,
+            "matched_terms_by_field": {
+              "scope_sectorial": [
+                "agricultura"
+              ],
+              "main_findings": [
+                "productiv"
+              ],
+              "conclusions": [
+                "productiv"
+              ]
+            }
+          }
+        ],
+        "functions": [
+          {
+            "id": "analiza",
+            "score": 15,
+            "matched_terms_by_field": {
+              "title": [
+                "análisis"
+              ],
+              "abstract": [
+                "analiza",
+                "análisis",
+                "evalua"
+              ],
+              "narrative_summary": [
+                "análisis"
+              ],
+              "main_findings": [
+                "analiza",
+                "evalua"
+              ],
+              "conclusions": [
+                "evalua"
+              ]
+            }
+          },
+          {
+            "id": "evalua_implementacion",
+            "score": 6,
+            "matched_terms_by_field": {
+              "abstract": [
+                "evaluación"
+              ],
+              "narrative_summary": [
+                "avance"
+              ],
+              "main_findings": [
+                "evaluacion"
+              ],
+              "conclusions": [
+                "evaluacion"
+              ]
+            }
+          }
+        ],
+        "source_fields": [
+          "abstract",
+          "conclusions",
+          "main_findings",
+          "narrative_summary",
+          "recommendations",
+          "research_question",
+          "scope_sectorial",
+          "title"
+        ],
+        "status": "candidate_weighted_keyword_v1"
+      }
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/43725",
+      "period_id": "P1",
+      "source": {
+        "source_path": "fase2/corpus/resultados/json/doc_43725.json",
+        "source_sha256": "687fe2576f08552e17f8e7b4e560d8462adcb6ffabd0939d415df719589c5cd0"
+      },
+      "metadata": {
+        "title": "La economía del cambio climático en Guatemala • Documento técnico 2018",
+        "year": 2018,
+        "division": "México"
+      },
+      "document_profile_summary": {
+        "research_question": "¿Cuáles son los impactos económicos proyectados del cambio climático en los sectores clave de Guatemala y qué estrategias institucionales y financieras se requieren para mitigar estos riesgos y fomentar la resiliencia?",
+        "scope": {
+          "ambito_aplicacion": "Guatemala",
+          "referentes_dependencias": "IPCC, SICA, CARICOM",
+          "sectorial": "Multisectorial (Agua, Energía, Agricultura, Salud, Ecosistemas)",
+          "temporal": "Proyecciones a 2100"
+        },
+        "territorial_scope": {
+          "normalized_candidates": [],
+          "requires_review": false,
+          "normalization_method": "alias_y_regla_multinivel",
+          "original_normalized_scope": "Guatemala",
+          "typology_application_level": "Nacional"
+        },
+        "existing_typology": {
+          "transformacion_primaria": {
+            "numero": 6,
+            "nombre": "Sostenibilidad ambiental",
+            "certeza": "Alta"
+          },
+          "transformacion_secundaria": {
+            "numero": 11,
+            "nombre": "Capacidades del Estado",
+            "certeza": "Alta"
+          },
+          "razonamiento_5_pasos": {
+            "tension_dialectica": "El documento procesa la contradicción entre la trayectoria actual de desarrollo insostenible (deforestación, alta demanda energética) y los riesgos existenciales que el cambio climático impone sobre la economía y la seguridad humana de Guatemala.",
+            "filtro_categoria_primaria": "La transformación primaria es la Sostenibilidad ambiental (#6) porque el objeto central es la adaptación y mitigación del cambio climático para asegurar la resiliencia de los sistemas naturales y productivos.",
+            "secundaria_obligatoria": "La secundaria es Capacidades del Estado (#11) ya que el documento enfatiza que la respuesta climática requiere un marco legal (Ley Marco), planificación territorial y coordinación intersectorial robusta.",
+            "justificacion_anti_copia": "Analiza la economía del cambio climático específicamente para Guatemala, proyectando caídas del 83% en la generación de Chixoy y del 22% en el maíz, vinculando estos datos con la Ley Marco de 2013.",
+            "validacion_anclas": "Se asemeja al ancla de 'Impactos económicos' (doc20) donde la sostenibilidad ambiental es el objeto y la institucionalidad el medio para la adaptación."
+          },
+          "tipo_documento_climatico": "Documento técnico",
+          "nivel_aplicacion": "Nacional",
+          "ambiguedad_pendiente_validacion": null
+        },
+        "conclusions": [
+          "El cambio climático es el mayor fracaso del mercado y un pasivo público contingente que amenaza la seguridad humana en Guatemala (p. 251, 254).",
+          "Se proyectan reducciones críticas en la disponibilidad de agua (88%) y en los rendimientos agrícolas, especialmente en granos básicos y café (p. 114, 141, 173).",
+          "Los costos económicos de la inacción climática podrían superar el 63% del PIB de 2008 hacia finales de siglo (p. 250)."
+        ],
+        "recommendations": [
+          "Adoptar instrumentos de aseguramiento agropecuario basados en índices climáticos para micros y pequeños productores (p. 252).",
+          "Recuperar y rehabilitar tierras degradadas mediante tecnologías apropiadas y manejo sostenible (p. 252).",
+          "Aumentar las áreas naturales protegidas y corredores biológicos para conservar la biodiversidad (p. 252).",
+          "Mejorar la gestión forestal y el control de incendios para proteger los sumideros de carbono (p. 252).",
+          "Incrementar la generación de energía limpia y mejorar el aprovechamiento de desechos (p. 253).",
+          "Fortalecer la coordinación intersectorial a través del Consejo Nacional de Cambio Climático (p. 255)."
+        ]
+      },
+      "candidate_assignments": {
+        "objects": [
+          {
+            "id": "impactos_vulnerabilidad",
+            "score": 17,
+            "matched_terms_by_field": {
+              "abstract": [
+                "impacto"
+              ],
+              "research_question": [
+                "impacto",
+                "riesgo"
+              ],
+              "narrative_summary": [
+                "impacto",
+                "vulnerabil"
+              ]
+            }
+          },
+          {
+            "id": "ecosistemas_recursos",
+            "score": 15,
+            "matched_terms_by_field": {
+              "scope_sectorial": [
+                "agua",
+                "ecosistema"
+              ],
+              "narrative_summary": [
+                "biodivers"
+              ],
+              "main_findings": [
+                "biodivers",
+                "agua",
+                "bosque"
+              ],
+              "conclusions": [
+                "agua",
+                "agrícola"
+              ],
+              "recommendations": [
+                "biodivers"
+              ]
+            }
+          },
+          {
+            "id": "adaptacion_resiliencia",
+            "score": 9,
+            "matched_terms_by_field": {
+              "research_question": [
+                "resilien"
+              ],
+              "narrative_summary": [
+                "adaptaci"
+              ],
+              "main_findings": [
+                "resilien"
+              ]
+            }
+          },
+          {
+            "id": "informacion_prospectiva",
+            "score": 7,
+            "matched_terms_by_field": {
+              "abstract": [
+                "escenario",
+                "modelo"
+              ],
+              "narrative_summary": [
+                "escenario"
+              ],
+              "main_findings": [
+                "escenario",
+                "modelo"
+              ]
+            }
+          },
+          {
+            "id": "gobernanza_capacidades",
+            "score": 6,
+            "matched_terms_by_field": {
+              "research_question": [
+                "institucional"
+              ],
+              "recommendations": [
+                "coordinaci"
+              ]
+            }
+          },
+          {
+            "id": "mitigacion_descarbonizacion",
+            "score": 5,
+            "matched_terms_by_field": {
+              "narrative_summary": [
+                "emisiones"
+              ],
+              "main_findings": [
+                "carbono"
+              ],
+              "recommendations": [
+                "carbono"
+              ]
+            }
+          }
+        ],
+        "primary_object": "impactos_vulnerabilidad",
+        "domains": [
+          {
+            "id": "sectorial",
+            "score": 23,
+            "matched_terms_by_field": {
+              "abstract": [
+                "energ"
+              ],
+              "scope_sectorial": [
+                "energ",
+                "agric",
+                "agua",
+                "salud"
+              ],
+              "narrative_summary": [
+                "energ",
+                "agric"
+              ],
+              "main_findings": [
+                "energ",
+                "agua"
+              ],
+              "conclusions": [
+                "agua"
+              ],
+              "recommendations": [
+                "energ"
+              ]
+            }
+          },
+          {
+            "id": "ambiental",
+            "score": 20,
+            "matched_terms_by_field": {
+              "scope_sectorial": [
+                "ecosistema",
+                "agua"
+              ],
+              "narrative_summary": [
+                "ambient",
+                "emisiones",
+                "biodivers"
+              ],
+              "main_findings": [
+                "biodivers",
+                "agua",
+                "bosque"
+              ],
+              "conclusions": [
+                "agua"
+              ],
+              "recommendations": [
+                "biodivers"
+              ]
+            }
+          },
+          {
+            "id": "productivo",
+            "score": 8,
+            "matched_terms_by_field": {
+              "scope_sectorial": [
+                "agricultura"
+              ],
+              "narrative_summary": [
+                "agricultura"
+              ],
+              "main_findings": [
+                "productiv"
+              ],
+              "recommendations": [
+                "agropecuari"
+              ]
+            }
+          },
+          {
+            "id": "informacion_prospectiva",
+            "score": 7,
+            "matched_terms_by_field": {
+              "abstract": [
+                "escenario",
+                "modelo"
+              ],
+              "narrative_summary": [
+                "escenario"
+              ],
+              "main_findings": [
+                "escenario",
+                "modelo"
+              ]
+            }
+          },
+          {
+            "id": "institucional",
+            "score": 7,
+            "matched_terms_by_field": {
+              "research_question": [
+                "institucional"
+              ],
+              "main_findings": [
+                "capacidad"
+              ],
+              "recommendations": [
+                "coordinaci"
+              ]
+            }
+          },
+          {
+            "id": "social",
+            "score": 6,
+            "matched_terms_by_field": {
+              "scope_sectorial": [
+                "salud"
+              ],
+              "narrative_summary": [
+                "pobreza"
+              ]
+            }
+          },
+          {
+            "id": "financiero",
+            "score": 5,
+            "matched_terms_by_field": {
+              "narrative_summary": [
+                "fiscal"
+              ],
+              "main_findings": [
+                "bono"
+              ],
+              "recommendations": [
+                "bono"
+              ]
+            }
+          }
+        ],
+        "functions": [
+          {
+            "id": "prospecta",
+            "score": 5,
+            "matched_terms_by_field": {
+              "abstract": [
+                "escenario"
+              ],
+              "narrative_summary": [
+                "escenario"
+              ],
+              "main_findings": [
+                "escenario"
+              ]
+            }
+          },
+          {
+            "id": "analiza",
+            "score": 4,
+            "matched_terms_by_field": {
+              "abstract": [
+                "análisis"
+              ],
+              "narrative_summary": [
+                "analiza"
+              ]
+            }
+          }
+        ],
+        "source_fields": [
+          "abstract",
+          "conclusions",
+          "main_findings",
+          "narrative_summary",
+          "recommendations",
+          "research_question",
+          "scope_sectorial",
+          "title"
+        ],
+        "status": "candidate_weighted_keyword_v1"
+      }
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/80987",
+      "period_id": "P3",
+      "source": {
+        "source_path": "fase2/corpus/resultados/json/doc_80987.json",
+        "source_sha256": "c267249ae73c245015e419e73032d24bd877f67d036d0df0717b23a4a8d6b7ba"
+      },
+      "metadata": {
+        "title": "Indicadores quantitativos da OCDE e o Brasil : meio ambiente",
+        "year": 2024,
+        "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS"
+      },
+      "document_profile_summary": {
+        "research_question": "Qual é o estado do alinhamento do Brasil com os indicadores ambientais e climáticos da OCDE, quais capacidades e lacunas aparecem na comparação internacional e que respostas de política podem melhorar esse alinhamento?",
+        "scope": {
+          "ambito_aplicacion": "Brasil, com análise de políticas públicas, estatísticas nacionais e sua comparabilidade internacional.",
+          "referentes_dependencias": "OCDE e o relatório Environment at a Glance; FAO, IEA, IUCN, UNEP-WCMC, OMS, Banco Mundial, Ompi, IBGE, Inpe, ANA, SNIS, ICMBio, Ibama e outras bases e instituições citadas.",
+          "sectorial": "Mudança do clima; qualidade do ar; recursos hídricos; economia circular, materiais e resíduos; recursos biológicos e biodiversidade; economia oceânica sustentável; e práticas contra a pesca ilegal, não relatada e não regulamentada.",
+          "temporal": "Séries principalmente de 1990 a 2022, com anos de referência variáveis por indicador e consultas às bases realizadas sobretudo em 2023."
+        },
+        "territorial_scope": {
+          "normalized_candidates": [],
+          "requires_review": false,
+          "normalization_method": "alias_y_regla_multinivel",
+          "original_normalized_scope": "Brasil, com análise de políticas públicas, estatísticas nacionais e sua comparabilidade internacional.",
+          "typology_application_level": "Nacional (Brasil), com comparação internacional da OCDE"
+        },
+        "existing_typology": {
+          "transformacion_primaria": {
+            "numero": 6,
+            "nombre": "Sostenibilidad ambiental",
+            "certeza": "Alta"
+          },
+          "transformacion_secundaria": {
+            "numero": 11,
+            "nombre": "Capacidades del Estado",
+            "certeza": "Media"
+          },
+          "razonamiento_5_pasos": {
+            "tension_dialectica": "A tensão central é entre o potencial de desenvolvimento e integração internacional do Brasil e a necessidade de conservar capital natural, reduzir emissões, ampliar eficiência e tornar políticas ambientais implementáveis e verificáveis.",
+            "filtro_categoria_primaria": "A unidade tem como objeto principal a sustentabilidade ambiental: mede clima, ar, água, materiais, biodiversidade e oceanos, identifica pressões e compara respostas ambientais. Desenvolvimento produtivo, emprego e inovação aparecem como meios ou co-benefícios, não como objeto ordenador.",
+            "secundaria_obligatoria": "Capacidades do Estado é a melhor secundária porque o diagnóstico recorre repetidamente a regulação, orçamento, fiscalização, sistemas de informação, coordenação federativa, bases de dados e implementação de instrumentos. A efetividade das respostas depende de instituições que produzam dados e executem políticas.",
+            "justificacion_anti_copia": "A classificação não copia a secundária de um instrumento específico: a primária decorre do domínio material do estudo, enquanto a secundária decorre da recorrência de capacidades de governança, monitoramento e coordenação como condição transversal para clima, água, biodiversidade e oceanos.",
+            "validacion_anclas": "A decisão é compatível com a âncora metodológica #6, Sostenibilidad ambiental, porque a transformação avaliada é a conservação e o uso sustentável dos recursos. A diferença própria desta unidade é o formato de estudo técnico comparativo de indicadores, que torna Capacidades del Estado uma função secundária de dados, regulação e execução, e não o objeto principal."
+          },
+          "tipo_documento_climatico": "Estudo técnico comparativo de indicadores climáticos e ambientais",
+          "nivel_aplicacion": "Nacional (Brasil), com comparação internacional da OCDE",
+          "ambiguedad_pendiente_validacion": null
+        },
+        "conclusions": [
+          "O Brasil apresenta alinhamento parcial e desigual com os indicadores da OCDE: demonstra capacidades estatísticas, regulatórias e de conservação em vários domínios, mas não converte essas capacidades em desempenho ambiental consistente.",
+          "A principal assimetria climática está na centralidade do desmatamento e do uso da terra, enquanto energia, transporte, materiais e oceanos exigem aceleração de descarbonização e maior eficiência.",
+          "As limitações de acesso, desagregação, atualização e harmonização dos dados reduzem a comparabilidade internacional e também dificultam o acompanhamento da implementação das políticas brasileiras.",
+          "O livro é sobretudo um diagnóstico comparativo: identifica instrumentos e programas concretos, mas não apresenta um pacote único, financiado e calendarizado de transformação ambiental."
+        ],
+        "recommendations": [
+          "Retomar e ampliar políticas de controle do desmatamento, com coordenação entre níveis de governo, fiscalização, orçamento e cobertura de outros biomas além da Amazônia.",
+          "Ampliar instrumentos econômicos ambientais, incluindo tributação e preços de carbono mais efetivos, sem perder de vista os setores e grupos que precisam de transição.",
+          "Fortalecer MonitorAr, SNIS, bases florestais, dados de pesca, indicadores costeiros e estatísticas oceânicas, com acesso público, desagregação territorial e interoperabilidade.",
+          "Aumentar eficiência energética e material, diversificar a economia para além de atividades intensivas em recursos e apoiar pesquisa, inovação, reciclagem, energia oceânica e combustíveis marítimos de baixa emissão.",
+          "Conservar e manejar efetivamente áreas protegidas e ecossistemas, associando unidades de conservação, SAMGe, instrumentos de biodiversidade, gestão costeira e combate à pesca IUU."
+        ]
+      },
+      "candidate_assignments": {
+        "objects": [
+          {
+            "id": "informacion_prospectiva",
+            "score": 17,
+            "matched_terms_by_field": {
+              "title": [
+                "indicador"
+              ],
+              "abstract": [
+                "indicador"
+              ],
+              "research_question": [
+                "indicador"
+              ],
+              "narrative_summary": [
+                "indicador"
+              ],
+              "conclusions": [
+                "indicador"
+              ],
+              "recommendations": [
+                "indicador"
+              ]
+            }
+          },
+          {
+            "id": "ecosistemas_recursos",
+            "score": 9,
+            "matched_terms_by_field": {
+              "abstract": [
+                "biodivers"
+              ],
+              "scope_sectorial": [
+                "biodivers"
+              ],
+              "narrative_summary": [
+                "biodivers"
+              ],
+              "main_findings": [
+                "biodivers"
+              ],
+              "recommendations": [
+                "biodivers"
+              ]
+            }
+          },
+          {
+            "id": "mitigacion_descarbonizacion",
+            "score": 5,
+            "matched_terms_by_field": {
+              "narrative_summary": [
+                "descarbon"
+              ],
+              "conclusions": [
+                "descarbon"
+              ],
+              "recommendations": [
+                "carbono"
+              ]
+            }
+          }
+        ],
+        "primary_object": "informacion_prospectiva",
+        "domains": [
+          {
+            "id": "ambiental",
+            "score": 31,
+            "matched_terms_by_field": {
+              "title": [
+                "ambient"
+              ],
+              "abstract": [
+                "clima",
+                "ambient",
+                "biodivers"
+              ],
+              "research_question": [
+                "ambient"
+              ],
+              "scope_sectorial": [
+                "clima",
+                "biodivers"
+              ],
+              "narrative_summary": [
+                "ambient",
+                "biodivers"
+              ],
+              "main_findings": [
+                "ambient",
+                "biodivers"
+              ],
+              "conclusions": [
+                "ambient"
+              ],
+              "recommendations": [
+                "ambient",
+                "biodivers"
+              ]
+            }
+          },
+          {
+            "id": "informacion_prospectiva",
+            "score": 17,
+            "matched_terms_by_field": {
+              "title": [
+                "indicador"
+              ],
+              "abstract": [
+                "indicador"
+              ],
+              "research_question": [
+                "indicador"
+              ],
+              "narrative_summary": [
+                "indicador"
+              ],
+              "conclusions": [
+                "indicador"
+              ],
+              "recommendations": [
+                "indicador"
+              ]
+            }
+          },
+          {
+            "id": "sectorial",
+            "score": 13,
+            "matched_terms_by_field": {
+              "scope_sectorial": [
+                "pesca"
+              ],
+              "narrative_summary": [
+                "energ"
+              ],
+              "main_findings": [
+                "energ",
+                "transporte",
+                "agric"
+              ],
+              "conclusions": [
+                "energ",
+                "transporte"
+              ],
+              "recommendations": [
+                "energ",
+                "pesca"
+              ]
+            }
+          },
+          {
+            "id": "institucional",
+            "score": 9,
+            "matched_terms_by_field": {
+              "research_question": [
+                "capacidad"
+              ],
+              "narrative_summary": [
+                "capacidad"
+              ],
+              "conclusions": [
+                "capacidad"
+              ]
+            }
+          },
+          {
+            "id": "financiero",
+            "score": 5,
+            "matched_terms_by_field": {
+              "narrative_summary": [
+                "financiam"
+              ],
+              "recommendations": [
+                "fiscal",
+                "bono"
+              ]
+            }
+          }
+        ],
+        "functions": [
+          {
+            "id": "diagnostica",
+            "score": 4,
+            "matched_terms_by_field": {
+              "narrative_summary": [
+                "diagnóstico"
+              ],
+              "conclusions": [
+                "diagnóstico"
+              ]
+            }
+          }
+        ],
+        "source_fields": [
+          "abstract",
+          "conclusions",
+          "main_findings",
+          "narrative_summary",
+          "recommendations",
+          "research_question",
+          "scope_sectorial",
+          "title"
+        ],
+        "status": "candidate_weighted_keyword_v1"
+      }
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/39360",
+      "period_id": "P1",
+      "source": {
+        "source_path": "fase2/corpus/resultados/json/doc_39360.json",
+        "source_sha256": "e7609740d01e54d0c2d0d874c9e7c9136f3d9eccdf5abf02969666c2e51a2ee8"
+      },
+      "metadata": {
+        "title": "Emisiones de gases de efecto invernadero y mitigación en el sector residuos. La economía del cambio climático en la Argentina",
+        "year": 2015,
+        "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS"
+      },
+      "document_profile_summary": {
+        "research_question": "¿Cuál es la trayectoria de las emisiones de GEI del sector residuos en la Argentina y qué opciones de mitigación son técnica y económicamente viables?",
+        "scope": {
+          "ambito_aplicacion": "Argentina, con desagregación nacional y de ciudades con rellenos sanitarios",
+          "referentes_dependencias": "IPCC, USEPA, LandGEM, CABA, CEAMSE y experiencias de Japón y Minas Gerais (Brasil)",
+          "sectorial": "Residuos sólidos urbanos, aguas residuales domésticas e industriales; emisiones de CH4 y N2O",
+          "temporal": "Inventario 1990-2008; proyecciones 2009-2030 y 2030-2100"
+        },
+        "territorial_scope": {
+          "normalized_candidates": [
+            {
+              "id": "multinivel",
+              "nombre": "Multinivel",
+              "aliases": [
+                "inferencia: nacional + subnacional"
+              ]
+            }
+          ],
+          "requires_review": true,
+          "normalization_method": "alias_y_regla_multinivel",
+          "original_normalized_scope": "Argentina, con desagregación nacional y de ciudades con rellenos sanitarios",
+          "typology_application_level": "Nacional y subnacional/sectorial"
+        },
+        "existing_typology": {
+          "transformacion_primaria": {
+            "numero": 6,
+            "nombre": "Sostenibilidad ambiental",
+            "certeza": "Alta"
+          },
+          "transformacion_secundaria": {
+            "numero": 11,
+            "nombre": "Capacidades del Estado",
+            "certeza": "Alta"
+          },
+          "razonamiento_5_pasos": {
+            "tension_dialectica": "El documento procesa la tensión entre el crecimiento urbano y económico que aumenta la generación de residuos y la necesidad de reducir emisiones de CH4 y N2O. La salida que examina es ambiental y tecnológica —gestión integral, recuperación de gas, compostaje y tratamiento—, pero queda limitada por la capacidad institucional y la rentabilidad de los proyectos.",
+            "filtro_categoria_primaria": "El objeto principal es transformar la trayectoria ambiental del sector residuos: inventaría GEI, proyecta emisiones y compara mitigación. Aunque usa costos, PBI y rentabilidad, esos son instrumentos de evaluación; no son el objeto macroeconómico o fiscal del estudio, por lo que se descarta #10 y se mantiene #6.",
+            "secundaria_obligatoria": "#11 es secundaria porque la implementación depende de ENGIRSU, PNGIRSU, municipios, provincias, infraestructura sanitaria, rellenos controlados y sistemas de recuperación de gas. La capacidad estatal habilita el resultado ambiental: el estudio muestra que la coordinación multinivel y la inversión pública convierten el diagnóstico en gestión integral.",
+            "justificacion_anti_copia": "La clasificación se ancla en tres rasgos propios: el inventario encuentra un aumento de 266% del sector y 365% de RSU entre 1990 y 2008; el modelo proyecta 1.300,6 Gg de CH4 de RSU en 2030 y 3.917,45 Gg en 2100; y la evaluación de 14 rellenos separa quema directa de generación eléctrica, concluyendo que esta última no es rentable. El método DPO/IPCC y la comparación de eficiencias de recuperación de 50% y 75% muestran que la transformación ambiental es el problema central y la institucionalidad, su condición de ejecución.",
+            "validacion_anclas": "Se aproxima al ancla 20, Impactos económicos del cambio climático en Colombia, porque el impacto ambiental sectorial es el objeto y la planificación estatal es el medio; se diferencia porque este documento no estudia vulnerabilidad de sectores productivos sino emisiones de residuos, rellenos y aguas residuales. No corresponde al ancla 12 de capacidades del Estado: aquí ENGIRSU y PNGIRSU son instrumentos del análisis ambiental, no el objeto institucional principal."
+          },
+          "tipo_documento_climatico": "Estudio sectorial de inventario, proyecciones y mitigación",
+          "nivel_aplicacion": "Nacional y subnacional/sectorial",
+          "ambiguedad_pendiente_validacion": null
+        },
+        "conclusions": [
+          "El sector residuos presenta una trayectoria creciente de emisiones, dominada por los residuos sólidos urbanos y asociada al crecimiento de la generación de residuos, por lo que las medidas de gestión integral y recuperación de metano son determinantes.",
+          "La recuperación y quema de metano es económicamente más favorable que la generación eléctrica en los proyectos evaluados, aunque su viabilidad depende del volumen de emisiones del relleno."
+        ],
+        "recommendations": [
+          "Avanzar más allá de la recuperación de materiales reciclables mediante compostaje de desechos alimenticios y residuos de poda y jardín, regulación del packaging y campañas de educación e información pública (p. 32)."
+        ]
+      },
+      "candidate_assignments": {
+        "objects": [
+          {
+            "id": "mitigacion_descarbonizacion",
+            "score": 44,
+            "matched_terms_by_field": {
+              "title": [
+                "mitigaci",
+                "emisiones"
+              ],
+              "abstract": [
+                "mitigaci",
+                "emisiones",
+                "gei"
+              ],
+              "research_question": [
+                "mitigaci",
+                "emisiones",
+                "gei"
+              ],
+              "scope_sectorial": [
+                "emisiones"
+              ],
+              "narrative_summary": [
+                "mitigaci",
+                "emisiones",
+                "gei"
+              ],
+              "main_findings": [
+                "emisiones"
+              ],
+              "conclusions": [
+                "emisiones"
+              ]
+            }
+          },
+          {
+            "id": "territorio_ciudad",
+            "score": 10,
+            "matched_terms_by_field": {
+              "abstract": [
+                "ciudad",
+                "urbano"
+              ],
+              "scope_sectorial": [
+                "urbano"
+              ],
+              "narrative_summary": [
+                "urbano"
+              ],
+              "main_findings": [
+                "urbano"
+              ],
+              "conclusions": [
+                "urbano"
+              ]
+            }
+          },
+          {
+            "id": "ecosistemas_recursos",
+            "score": 8,
+            "matched_terms_by_field": {
+              "abstract": [
+                "agua"
+              ],
+              "scope_sectorial": [
+                "agua"
+              ],
+              "narrative_summary": [
+                "agua"
+              ],
+              "main_findings": [
+                "agua"
+              ]
+            }
+          }
+        ],
+        "primary_object": "mitigacion_descarbonizacion",
+        "domains": [
+          {
+            "id": "ambiental",
+            "score": 28,
+            "matched_terms_by_field": {
+              "title": [
+                "emisiones"
+              ],
+              "abstract": [
+                "emisiones",
+                "agua"
+              ],
+              "research_question": [
+                "emisiones"
+              ],
+              "scope_sectorial": [
+                "emisiones",
+                "agua"
+              ],
+              "narrative_summary": [
+                "emisiones",
+                "agua"
+              ],
+              "main_findings": [
+                "emisiones",
+                "agua"
+              ],
+              "conclusions": [
+                "emisiones"
+              ]
+            }
+          },
+          {
+            "id": "sectorial",
+            "score": 13,
+            "matched_terms_by_field": {
+              "abstract": [
+                "agua",
+                "industria"
+              ],
+              "scope_sectorial": [
+                "agua",
+                "industria"
+              ],
+              "narrative_summary": [
+                "agua"
+              ],
+              "main_findings": [
+                "agua",
+                "industria"
+              ]
+            }
+          },
+          {
+            "id": "territorial",
+            "score": 10,
+            "matched_terms_by_field": {
+              "abstract": [
+                "ciudad",
+                "urbano"
+              ],
+              "scope_sectorial": [
+                "urbano"
+              ],
+              "narrative_summary": [
+                "urbano"
+              ],
+              "main_findings": [
+                "urbano"
+              ],
+              "conclusions": [
+                "urbano"
+              ]
+            }
+          },
+          {
+            "id": "productivo",
+            "score": 5,
+            "matched_terms_by_field": {
+              "abstract": [
+                "industria"
+              ],
+              "scope_sectorial": [
+                "industria"
+              ],
+              "main_findings": [
+                "industria"
+              ]
+            }
+          }
+        ],
+        "functions": [
+          {
+            "id": "prospecta",
+            "score": 8,
+            "matched_terms_by_field": {
+              "research_question": [
+                "trayectoria"
+              ],
+              "main_findings": [
+                "proyecci",
+                "escenario"
+              ],
+              "conclusions": [
+                "trayectoria"
+              ]
+            }
+          },
+          {
+            "id": "analiza",
+            "score": 5,
+            "matched_terms_by_field": {
+              "abstract": [
+                "analiza"
+              ],
+              "narrative_summary": [
+                "evalua"
+              ],
+              "conclusions": [
+                "evalua"
+              ]
+            }
+          }
+        ],
+        "source_fields": [
+          "abstract",
+          "conclusions",
+          "main_findings",
+          "narrative_summary",
+          "recommendations",
+          "research_question",
+          "scope_sectorial",
+          "title"
+        ],
+        "status": "candidate_weighted_keyword_v1"
+      }
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/48097",
+      "period_id": "P2",
+      "source": {
+        "source_path": "fase2/corpus/resultados/json/doc_48097.json",
+        "source_sha256": "addec883533a4d20581dd86f13dcc8e2aefec0816520cee4b31be9bab1e800f5"
+      },
+      "metadata": {
+        "title": "Climate action guidelines 2022–2030: City of Belmopan, Belize",
+        "year": 2022,
+        "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS"
+      },
+      "document_profile_summary": {
+        "research_question": "¿Qué hoja de ruta municipal puede permitir a Belmopan reducir sus emisiones y gestionar sus riesgos climáticos mediante capacidades, infraestructura, regulación y participación local?",
+        "scope": {
+          "ambito_aplicacion": "Ciudad de Belmopan, Belize; con vínculos al nivel nacional de Belize",
+          "referentes_dependencias": "Belize NDC, Belize Climate Change Office, UN-ECLAC, MCR2030/UNDRR, CCCCC, BEL, fondos climáticos y cooperación bilateral/multilateral",
+          "sectorial": "Gobernanza municipal, energía, transporte, residuos, agua y drenaje, uso del suelo, infraestructura, educación y gestión de información",
+          "temporal": "2022–2030; incluye plazos de 3 meses a largo plazo y actualización periódica"
+        },
+        "territorial_scope": {
+          "normalized_candidates": [
+            {
+              "id": "subnacional",
+              "nombre": "Subnacional",
+              "aliases": [
+                "ciudad"
+              ]
+            },
+            {
+              "id": "multinivel",
+              "nombre": "Multinivel",
+              "aliases": [
+                "inferencia: nacional + subnacional"
+              ]
+            }
+          ],
+          "requires_review": true,
+          "normalization_method": "alias_y_regla_multinivel",
+          "original_normalized_scope": "Ciudad de Belmopan, Belize; con vínculos al nivel nacional de Belize",
+          "typology_application_level": "Subnacional (ciudad de Belmopan), con articulación nacional"
+        },
+        "existing_typology": {
+          "transformacion_primaria": {
+            "numero": 6,
+            "nombre": "Sostenibilidad ambiental",
+            "certeza": "Alta"
+          },
+          "transformacion_secundaria": {
+            "numero": 11,
+            "nombre": "Capacidades del Estado",
+            "certeza": "Alta"
+          },
+          "razonamiento_5_pasos": {
+            "tension_dialectica": "El documento debe convertir la vulnerabilidad y las emisiones de una ciudad en una agenda municipal ejecutable, bajo una arquitectura nacional de gobernanza y con capacidades locales insuficientes. La tensión central es ambiental —resiliencia y descarbonización— frente al instrumento institucional que permite implementarlas.",
+            "filtro_categoria_primaria": "La transformación primaria es #6 porque el objeto explícito del documento es una ciudad baja en emisiones y resiliente, con medidas de mitigación, adaptación, naturaleza, residuos, movilidad, agua y drenaje.",
+            "secundaria_obligatoria": "La secundaria es #11 porque el diagnóstico y el cierre identifican City Hall/City Council, datos, capacitación, procesos, regulación, fiscalización, monitoreo y coordinación como condiciones para que la acción ambiental funcione.",
+            "justificacion_anti_copia": "La clasificación se sostiene en la combinación específica de un inventario de GEI municipal, el plan de arborización, compostaje y valorización, rutas peatonales y ciclistas, drenaje, gestión de la cuenca Roaring Creek, evaluación de vulnerabilidad y estudio técnico de emisiones. La dimensión estatal no es el fin principal: es la capacidad operativa, informacional y regulatoria que el cierre exige a City Hall.",
+            "validacion_anclas": "La decisión sigue el patrón de documentos donde la transformación climática es el objeto y las capacidades públicas el medio, contrastado con las anclas de la tabla metodológica de TIPOLOGIA_v0.md; no se adopta #11 como primaria porque el cierre está orientado a resultados de mitigación y adaptación municipales."
+          },
+          "tipo_documento_climatico": "Documento técnico de acción climática municipal",
+          "nivel_aplicacion": "Subnacional (ciudad de Belmopan), con articulación nacional",
+          "ambiguedad_pendiente_validacion": null
+        },
+        "conclusions": [
+          "La acción climática municipal es necesaria para cumplir la NDC de Belize y proteger el bienestar futuro de Belmopan.",
+          "La implementación depende de mejorar capacidades de City Hall, coordinación interinstitucional y evidencia local sobre vulnerabilidad y emisiones."
+        ],
+        "recommendations": [
+          "Establecer alianzas estratégicas con gobierno nacional, organizaciones no gubernamentales, sector privado y sociedad civil.",
+          "Capacitar personal, desarrollar procesos, actualizar zonificación y reforzar fiscalización y monitoreo.",
+          "Realizar una evaluación de vulnerabilidad climática y un estudio técnico riguroso de emisiones de GEI.",
+          "Revisar y actualizar las directrices cuando estén disponibles las evaluaciones y nueva información.",
+          "Evaluar y actualizar periódicamente las directrices como documento vivo."
+        ]
+      },
+      "candidate_assignments": {
+        "objects": [
+          {
+            "id": "territorio_ciudad",
+            "score": 24,
+            "matched_terms_by_field": {
+              "research_question": [
+                "municip",
+                "infraestructura"
+              ],
+              "scope_sectorial": [
+                "municip",
+                "infraestructura"
+              ],
+              "narrative_summary": [
+                "urbano",
+                "municip"
+              ],
+              "main_findings": [
+                "infraestructura"
+              ],
+              "conclusions": [
+                "municip"
+              ]
+            }
+          },
+          {
+            "id": "gobernanza_capacidades",
+            "score": 18,
+            "matched_terms_by_field": {
+              "research_question": [
+                "regulaci",
+                "participaci"
+              ],
+              "scope_sectorial": [
+                "gobernanza"
+              ],
+              "narrative_summary": [
+                "gobernanza"
+              ],
+              "conclusions": [
+                "institucional",
+                "coordinaci"
+              ]
+            }
+          },
+          {
+            "id": "impactos_vulnerabilidad",
+            "score": 16,
+            "matched_terms_by_field": {
+              "abstract": [
+                "vulnerabil"
+              ],
+              "research_question": [
+                "riesgo"
+              ],
+              "narrative_summary": [
+                "vulnerabil",
+                "riesgo"
+              ],
+              "main_findings": [
+                "vulnerabil",
+                "riesgo"
+              ],
+              "conclusions": [
+                "vulnerabil"
+              ],
+              "recommendations": [
+                "vulnerabil"
+              ]
+            }
+          },
+          {
+            "id": "mitigacion_descarbonizacion",
+            "score": 16,
+            "matched_terms_by_field": {
+              "research_question": [
+                "emisiones"
+              ],
+              "narrative_summary": [
+                "mitigaci",
+                "emisiones"
+              ],
+              "main_findings": [
+                "mitigaci",
+                "emisiones"
+              ],
+              "conclusions": [
+                "emisiones"
+              ],
+              "recommendations": [
+                "emisiones",
+                "gei"
+              ]
+            }
+          },
+          {
+            "id": "financiamiento_inversion",
+            "score": 5,
+            "matched_terms_by_field": {
+              "narrative_summary": [
+                "financiam"
+              ],
+              "main_findings": [
+                "financiam"
+              ],
+              "recommendations": [
+                "fiscal"
+              ]
+            }
+          },
+          {
+            "id": "informacion_prospectiva",
+            "score": 5,
+            "matched_terms_by_field": {
+              "narrative_summary": [
+                "datos"
+              ],
+              "main_findings": [
+                "datos"
+              ],
+              "recommendations": [
+                "monitoreo"
+              ]
+            }
+          }
+        ],
+        "primary_object": "territorio_ciudad",
+        "domains": [
+          {
+            "id": "institucional",
+            "score": 27,
+            "matched_terms_by_field": {
+              "research_question": [
+                "regulaci",
+                "capacidad",
+                "participaci"
+              ],
+              "scope_sectorial": [
+                "gobernanza"
+              ],
+              "narrative_summary": [
+                "gobernanza",
+                "capacidad"
+              ],
+              "conclusions": [
+                "institucional",
+                "capacidad",
+                "coordinaci"
+              ]
+            }
+          },
+          {
+            "id": "ambiental",
+            "score": 25,
+            "matched_terms_by_field": {
+              "title": [
+                "clima"
+              ],
+              "abstract": [
+                "clima"
+              ],
+              "research_question": [
+                "emisiones"
+              ],
+              "scope_sectorial": [
+                "agua"
+              ],
+              "narrative_summary": [
+                "clima",
+                "emisiones"
+              ],
+              "main_findings": [
+                "emisiones",
+                "agua"
+              ],
+              "conclusions": [
+                "emisiones"
+              ],
+              "recommendations": [
+                "emisiones"
+              ]
+            }
+          },
+          {
+            "id": "territorial",
+            "score": 24,
+            "matched_terms_by_field": {
+              "research_question": [
+                "municip",
+                "infraestructura"
+              ],
+              "scope_sectorial": [
+                "municip",
+                "infraestructura"
+              ],
+              "narrative_summary": [
+                "municip",
+                "urbano"
+              ],
+              "main_findings": [
+                "infraestructura"
+              ],
+              "conclusions": [
+                "municip"
+              ]
+            }
+          },
+          {
+            "id": "sectorial",
+            "score": 12,
+            "matched_terms_by_field": {
+              "scope_sectorial": [
+                "energ",
+                "transporte",
+                "agua"
+              ],
+              "main_findings": [
+                "energ",
+                "agric",
+                "agua"
+              ]
+            }
+          },
+          {
+            "id": "financiero",
+            "score": 5,
+            "matched_terms_by_field": {
+              "narrative_summary": [
+                "financiam"
+              ],
+              "main_findings": [
+                "financiam"
+              ],
+              "recommendations": [
+                "fiscal"
+              ]
+            }
+          },
+          {
+            "id": "informacion_prospectiva",
+            "score": 5,
+            "matched_terms_by_field": {
+              "narrative_summary": [
+                "datos"
+              ],
+              "main_findings": [
+                "datos"
+              ],
+              "recommendations": [
+                "monitoreo"
+              ]
+            }
+          }
+        ],
+        "functions": [
+          {
+            "id": "diagnostica",
+            "score": 10,
+            "matched_terms_by_field": {
+              "abstract": [
+                "vulnerabil"
+              ],
+              "narrative_summary": [
+                "diagnóstico",
+                "vulnerabil"
+              ],
+              "main_findings": [
+                "vulnerabil"
+              ],
+              "conclusions": [
+                "vulnerabil"
+              ],
+              "recommendations": [
+                "vulnerabil"
+              ]
+            }
+          },
+          {
+            "id": "evalua_implementacion",
+            "score": 9,
+            "matched_terms_by_field": {
+              "narrative_summary": [
+                "implementaci",
+                "evaluacion"
+              ],
+              "conclusions": [
+                "implementaci"
+              ],
+              "recommendations": [
+                "evaluación",
+                "evaluacion"
+              ]
+            }
+          },
+          {
+            "id": "analiza",
+            "score": 4,
+            "matched_terms_by_field": {
+              "narrative_summary": [
+                "evalua"
+              ],
+              "recommendations": [
+                "evalua"
+              ]
+            }
+          }
+        ],
+        "source_fields": [
+          "abstract",
+          "conclusions",
+          "main_findings",
+          "narrative_summary",
+          "recommendations",
+          "research_question",
+          "scope_sectorial",
+          "title"
+        ],
+        "status": "candidate_weighted_keyword_v1"
+      }
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/40159",
+      "period_id": "P1",
+      "source": {
+        "source_path": "fase2/corpus/resultados/json/doc_40159.json",
+        "source_sha256": "0877f929674570986470ca03b25d4ec4749402674999cb1b238115b11f5b154b"
+      },
+      "metadata": {
+        "title": "Horizontes 2030: la igualdad en el centro del desarrollo sostenible",
+        "year": 2016,
+        "division": "CEPAL - SE - Institucional"
+      },
+      "document_profile_summary": {
+        "research_question": "¿Cómo puede América Latina y el Caribe transitar hacia un nuevo estilo de desarrollo que combine igualdad, cambio estructural progresivo y sostenibilidad ambiental en el horizonte de la Agenda 2030?",
+        "scope": {
+          "ambito_aplicacion": "América Latina y el Caribe, con análisis subregional de América del Sur, Centroamérica y el Caribe, y propuestas aplicables en los niveles mundial, regional, nacional y local.",
+          "referentes_dependencias": "Agenda 2030 y ODS, Naciones Unidas, IPCC, Acuerdo de París, Protocolo de Kyoto, FMI, Banco Mundial, G20, OMC, China, Estados Unidos, Unión Europea, BRICS y acuerdos comerciales megarregionales.",
+          "sectorial": "Transformación productiva e industrial, macroeconomía y finanzas, comercio e integración, energía, transporte urbano, bioeconomía, agricultura, protección social, educación, salud, tecnologías digitales y gobernanza ambiental.",
+          "temporal": "Diagnóstico de tendencias principalmente entre 1970 y 2015; compromisos y metas de la Agenda 2030; horizonte de transformación de largo plazo, incluido un horizonte de 15 años para las coaliciones y pactos."
+        },
+        "territorial_scope": {
+          "normalized_candidates": [
+            {
+              "id": "regional",
+              "nombre": "Regional",
+              "aliases": [
+                "América Latina y el Caribe"
+              ]
+            },
+            {
+              "id": "subregional",
+              "nombre": "Subregional",
+              "aliases": [
+                "Centroamérica",
+                "subregional",
+                "Caribe"
+              ]
+            },
+            {
+              "id": "subnacional",
+              "nombre": "Subnacional",
+              "aliases": [
+                "local"
+              ]
+            },
+            {
+              "id": "multinivel",
+              "nombre": "Multinivel",
+              "aliases": [
+                "inferencia: nacional + subnacional"
+              ]
+            }
+          ],
+          "requires_review": true,
+          "normalization_method": "alias_y_regla_multinivel",
+          "original_normalized_scope": "América Latina y el Caribe, con análisis subregional de América del Sur, Centroamérica y el Caribe, y propuestas aplicables en los niveles mundial, regional, nacional y local.",
+          "typology_application_level": "Mundial, regional (América Latina y el Caribe), subregional, nacional y local"
+        },
+        "existing_typology": {
+          "transformacion_primaria": {
+            "numero": 6,
+            "nombre": "Sostenibilidad ambiental",
+            "certeza": "Alta"
+          },
+          "transformacion_secundaria": {
+            "numero": 11,
+            "nombre": "Capacidades del Estado",
+            "certeza": "Alta"
+          },
+          "razonamiento_5_pasos": {
+            "tension_dialectica": "El documento procesa la contradicción entre un patrón productivo que genera crecimiento, empleo e inserción externa mediante recursos naturales y un límite ambiental que vuelve insostenibles sus emisiones, desigualdades y formas de consumo. También enfrenta la tensión entre la urgencia de invertir y la restricción externa, fiscal e institucional de la región: la salida propuesta no es abandonar el desarrollo, sino cambiar su estructura mediante un gran impulso ambiental y coaliciones capaces de sostenerlo.",
+            "filtro_categoria_primaria": "El objeto principal es transformar el estilo de desarrollo para desacoplar producción, emisiones y uso predatorio de recursos, con energías renovables, transporte sostenible, bioeconomía, adaptación y acuerdos climáticos como contenido sustantivo. Las finanzas, la macroeconomía, el comercio y las instituciones son instrumentos habilitadores de esa transformación; por eso se descartan #10 Macroeconomía y fiscalidad y #11 Capacidades del Estado como primaria, aunque ambas sean decisivas en el diseño del paquete.",
+            "secundaria_obligatoria": "#11 Capacidades del Estado cumple la función habilitadora: el texto exige planificación plurianual, coordinación interinstitucional, centros nacionales para seguir las contribuciones climáticas, regulación financiera y ambiental, datos, rendición de cuentas y pactos que sobrevivan a ciclos electorales. Sin esas capacidades, las inversiones limpias, la protección social y la transferencia tecnológica quedarían como objetivos normativos sin implementación.",
+            "justificacion_anti_copia": "La clasificación se ancla en rasgos propios del documento: la definición de tres eficiencias del cambio estructural progresivo; el paquete coordinado que articula energía, transporte, educación y producción; la enumeración de bioeconomía, biomateriales, ciudades inteligentes y cadenas de valor; y el cierre que conecta COP21, macroeconomía, política industrial, comercio, tecnología y protección social. La combinación de diagnóstico regional, agenda de gobernanza global y propuesta de fondos de resiliencia distingue el objeto ambiental del mero estudio financiero o institucional.",
+            "validacion_anclas": "Se contrasta con el ancla #9, Building a climate resilient power sector in the Caribbean: ambos colocan la transformación climática como objeto y las capacidades institucionales como medio, pero este documento amplía la escala desde resiliencia energética caribeña a un cambio estructural regional con bioeconomía, transporte, protección social y gobernanza global. También se distancia del ancla #18, La economía del cambio climático, 2023: necesidades de financiamiento, porque aquí el financiamiento organiza instrumentos dentro de una agenda ambiental-productiva más amplia y no es el objeto dominante."
+          },
+          "tipo_documento_climatico": "Informe institucional de cambio estructural y agenda climática para la implementación de la Agenda 2030",
+          "nivel_aplicacion": "Mundial, regional (América Latina y el Caribe), subregional, nacional y local",
+          "ambiguedad_pendiente_validacion": null
+        },
+        "conclusions": [
+          "La transición sostenible no se desprende espontáneamente del mercado: depende de un cambio estructural progresivo que integre las eficiencias productiva, de demanda y ambiental con instituciones capaces de coordinar inversiones, proteger derechos y distribuir los beneficios.",
+          "La región enfrenta una restricción doble: la vulnerabilidad externa y la desigualdad interna pueden frustrar la inversión y la acción climática si no se construyen capacidades tecnológicas endógenas, espacio fiscal y cooperación regional.",
+          "El Acuerdo de París aporta una señal y un marco universal, pero sus metas, financiamiento y mecanismos de cumplimiento son insuficientes para cerrar la brecha entre la urgencia climática y las decisiones económicas.",
+          "La viabilidad política del nuevo estilo de desarrollo depende de coaliciones y pactos de largo plazo que vinculen Estado, mercado y ciudadanía, con protección social y aumento sostenido de productividad y empleo de calidad."
+        ],
+        "recommendations": [
+          "Coordinar políticas fiscales, financieras y cambiarias para sostener la inversión y reducir la volatilidad, con una arquitectura financiera internacional más representativa.",
+          "Crear fondos para adaptación, transferencia tecnológica, resiliencia y alivio de deuda, y establecer mecanismos regionales para comprar y licenciar patentes sostenibles.",
+          "Aumentar las energías limpias, desarrollar capacidades tecnológicas, retirar gradualmente subsidios fósiles, aplicar impuestos a actividades intensivas en carbono e incorporar costos ambientales al crédito.",
+          "Profundizar la integración regional mediante redes de seguridad financiera, cadenas de valor ambientales, estándares comunes y un mercado único digital.",
+          "Universalizar protección social, salud y educación, junto con capacitación permanente, formalización laboral, seguro de desempleo, cuidados y políticas de inclusión.",
+          "Construir coaliciones y pactos sociales de largo plazo que aseguren transparencia, participación, coordinación interinstitucional y continuidad de las políticas más allá de los ciclos electorales."
+        ]
+      },
+      "candidate_assignments": {
+        "objects": [
+          {
+            "id": "transicion_productiva",
+            "score": 16,
+            "matched_terms_by_field": {
+              "abstract": [
+                "cambio estructural"
+              ],
+              "research_question": [
+                "cambio estructural"
+              ],
+              "scope_sectorial": [
+                "transformación productiva",
+                "bioeconom"
+              ],
+              "narrative_summary": [
+                "bioeconom"
+              ],
+              "conclusions": [
+                "cambio estructural"
+              ]
+            }
+          },
+          {
+            "id": "financiamiento_inversion",
+            "score": 13,
+            "matched_terms_by_field": {
+              "narrative_summary": [
+                "financiam",
+                "inversi"
+              ],
+              "main_findings": [
+                "financiam",
+                "inversi"
+              ],
+              "conclusions": [
+                "financiam",
+                "inversi",
+                "fiscal"
+              ],
+              "recommendations": [
+                "inversi",
+                "fiscal"
+              ]
+            }
+          },
+          {
+            "id": "igualdad_proteccion_social",
+            "score": 12,
+            "matched_terms_by_field": {
+              "scope_sectorial": [
+                "protección social"
+              ],
+              "narrative_summary": [
+                "protección social"
+              ],
+              "main_findings": [
+                "desigualdad",
+                "protección social"
+              ],
+              "conclusions": [
+                "desigualdad",
+                "protección social"
+              ],
+              "recommendations": [
+                "cuidados",
+                "protección social"
+              ]
+            }
+          },
+          {
+            "id": "territorio_ciudad",
+            "score": 8,
+            "matched_terms_by_field": {
+              "scope_sectorial": [
+                "urbano"
+              ],
+              "narrative_summary": [
+                "ciudad"
+              ],
+              "main_findings": [
+                "territorio"
+              ],
+              "conclusions": [
+                "ciudad"
+              ]
+            }
+          },
+          {
+            "id": "gobernanza_capacidades",
+            "score": 7,
+            "matched_terms_by_field": {
+              "scope_sectorial": [
+                "gobernanza"
+              ],
+              "main_findings": [
+                "gobernanza"
+              ],
+              "recommendations": [
+                "institucional",
+                "participaci",
+                "coordinaci"
+              ]
+            }
+          }
+        ],
+        "primary_object": "transicion_productiva",
+        "domains": [
+          {
+            "id": "sectorial",
+            "score": 24,
+            "matched_terms_by_field": {
+              "scope_sectorial": [
+                "energ",
+                "transporte",
+                "agric",
+                "salud",
+                "industria"
+              ],
+              "narrative_summary": [
+                "energ",
+                "transporte"
+              ],
+              "main_findings": [
+                "energ"
+              ],
+              "recommendations": [
+                "energ",
+                "salud"
+              ]
+            }
+          },
+          {
+            "id": "social",
+            "score": 19,
+            "matched_terms_by_field": {
+              "scope_sectorial": [
+                "salud",
+                "protección social"
+              ],
+              "narrative_summary": [
+                "protección social"
+              ],
+              "main_findings": [
+                "desigualdad",
+                "empleo",
+                "protección social"
+              ],
+              "conclusions": [
+                "desigualdad",
+                "empleo",
+                "protección social"
+              ],
+              "recommendations": [
+                "salud",
+                "cuidados",
+                "empleo",
+                "protección social"
+              ]
+            }
+          },
+          {
+            "id": "financiero",
+            "score": 17,
+            "matched_terms_by_field": {
+              "narrative_summary": [
+                "financiam",
+                "inversi"
+              ],
+              "main_findings": [
+                "financiam",
+                "inversi",
+                "bono",
+                "impuesto"
+              ],
+              "conclusions": [
+                "financiam",
+                "inversi",
+                "fiscal"
+              ],
+              "recommendations": [
+                "inversi",
+                "fiscal",
+                "bono",
+                "impuesto"
+              ]
+            }
+          },
+          {
+            "id": "ambiental",
+            "score": 15,
+            "matched_terms_by_field": {
+              "abstract": [
+                "ambient"
+              ],
+              "research_question": [
+                "ambient"
+              ],
+              "scope_sectorial": [
+                "ambient"
+              ],
+              "narrative_summary": [
+                "ambient"
+              ],
+              "main_findings": [
+                "ambient"
+              ],
+              "conclusions": [
+                "ambient"
+              ],
+              "recommendations": [
+                "ambient"
+              ]
+            }
+          },
+          {
+            "id": "productivo",
+            "score": 14,
+            "matched_terms_by_field": {
+              "scope_sectorial": [
+                "productiv",
+                "industria",
+                "agricultura"
+              ],
+              "narrative_summary": [
+                "productiv"
+              ],
+              "main_findings": [
+                "productiv"
+              ],
+              "conclusions": [
+                "productiv"
+              ]
+            }
+          },
+          {
+            "id": "institucional",
+            "score": 13,
+            "matched_terms_by_field": {
+              "scope_sectorial": [
+                "gobernanza"
+              ],
+              "narrative_summary": [
+                "capacidad"
+              ],
+              "main_findings": [
+                "gobernanza",
+                "capacidad"
+              ],
+              "conclusions": [
+                "capacidad"
+              ],
+              "recommendations": [
+                "institucional",
+                "capacidad",
+                "coordinaci",
+                "participaci"
+              ]
+            }
+          },
+          {
+            "id": "macroeconomico",
+            "score": 8,
+            "matched_terms_by_field": {
+              "scope_sectorial": [
+                "comercio",
+                "macroecon"
+              ],
+              "main_findings": [
+                "crecimiento"
+              ],
+              "recommendations": [
+                "deuda"
+              ]
+            }
+          },
+          {
+            "id": "territorial",
+            "score": 8,
+            "matched_terms_by_field": {
+              "scope_sectorial": [
+                "urbano"
+              ],
+              "narrative_summary": [
+                "ciudad"
+              ],
+              "main_findings": [
+                "territorio"
+              ],
+              "conclusions": [
+                "ciudad"
+              ]
+            }
+          }
+        ],
+        "functions": [
+          {
+            "id": "prospecta",
+            "score": 11,
+            "matched_terms_by_field": {
+              "title": [
+                "horizonte"
+              ],
+              "research_question": [
+                "horizonte"
+              ]
+            }
+          },
+          {
+            "id": "diagnostica",
+            "score": 9,
+            "matched_terms_by_field": {
+              "narrative_summary": [
+                "diagnóstico",
+                "brecha"
+              ],
+              "main_findings": [
+                "brecha"
+              ],
+              "conclusions": [
+                "brecha",
+                "vulnerabil"
+              ]
+            }
+          }
+        ],
+        "source_fields": [
+          "abstract",
+          "conclusions",
+          "main_findings",
+          "narrative_summary",
+          "recommendations",
+          "research_question",
+          "scope_sectorial",
+          "title"
+        ],
+        "status": "candidate_weighted_keyword_v1"
+      }
+    }
+  ]
+}

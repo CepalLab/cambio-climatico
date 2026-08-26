@@ -1,0 +1,25 @@
+{
+  "finding_id": "F3-EVO-003",
+  "question_id": "P6",
+  "title": "Las brechas de implementacion ganan presencia y se concretan en capacidades de financiamiento e informacion",
+  "claim": "La presencia documental de brechas de implementacion aumenta de 59.6% en P1 a 76.0% en P2 y permanece alta en P3 (70.3%). Las citas ancla recorren brechas economicas, sociales y territoriales; restricciones de financiamiento e innovacion; y limitaciones de informacion y sistemas estadisticos. El borrador propone que la categoria se vuelve mas concreta en capacidades operativas, pero esa interpretacion requiere contraste adicional.",
+  "scope": {"periods": ["P1", "P2", "P3"], "filters": ["dimension = brechas_implementacion"], "is_draft": true},
+  "quantitative_support": [
+    {"period_id": "P1", "documents_with_dimension": 59, "denominator": 99, "document_proportion": 0.59596, "citations": 155, "citations_per_document": 2.627119},
+    {"period_id": "P2", "documents_with_dimension": 57, "denominator": 75, "document_proportion": 0.76, "citations": 181, "citations_per_document": 3.175439},
+    {"period_id": "P3", "documents_with_dimension": 45, "denominator": 64, "document_proportion": 0.703125, "citations": 190, "citations_per_document": 4.222222}
+  ],
+  "evidence": [
+    {"document_id": "https://hdl.handle.net/11362/40159", "dimension_id": 1524, "dimension": "brechas_implementacion", "page": "114", "quote": "Las brechas económicas, sociales, territoriales y ambientales dificultan el avance en virtud de un crecimiento económico sostenible y limitan la posibilidad de transitar hacia economías y sociedades más inclusivas.", "source_path": "fase2/corpus/resultados/json/doc_40159.json", "source_sha256": "0877f929674570986470ca03b25d4ec4749402674999cb1b238115b11f5b154b"},
+    {"document_id": "https://hdl.handle.net/11362/44640", "dimension_id": 3289, "dimension": "brechas_implementacion", "page": "18", "quote": "La falta de recursos de financiamiento es una restricción a la innovación en América Latina, especialmente en nuevos ámbitos, como la bioeconomía. Los fondos públicos disponibles son escasos y por lo general se limitan al financiamiento de las fases iniciales de investigación y desarrollo; el mercado de capital de riesgo es incipiente en la mayoría de los países; y no existe una cultura generalizada de inversión en innovación por parte del sector privado.", "source_path": "fase2/corpus/resultados/json/doc_44640.json", "source_sha256": "4c4b4bbe0e206182fbb9a23b7059ae218f0ef4fe4b777c54a528b454c0a1f8b5"},
+    {"document_id": "https://hdl.handle.net/11362/69075", "dimension_id": 671, "dimension": "brechas_implementacion", "page": "39", "quote": "la falta de información y la necesidad de seguir fortaleciendo los sistemas estadísticos nacionales siguen constituyendo uno de los desafíos más urgentes... especialmente en los del Caribe, donde la brecha estadística limita su capacidad para desarrollar indicadores", "source_path": "fase2/pilot/doc19_gestion_publica.json", "source_sha256": "dab202c304f29f7a75faf4acc6e378cd383c1dfb915fd0db0df08a242980eb9a"}
+  ],
+  "exceptions": [{"type": "interpretation_limit", "note": "El incremento de presencia entre P1 y P2 puede responder a cambios en composicion documental o codificacion, y no demuestra por si solo que las brechas se hayan agravado."}],
+  "confidence": "medium",
+  "status": "superseded",
+  "base_version": "fase3-analitica-v1",
+  "created_at": "2026-08-26",
+  "created_by": "fase3_m4",
+  "review_questions": ["La secuencia evidencia un cambio semantico real hacia capacidades operativas?", "Que citas P3 muestran brechas distintas de datos, financiamiento y capacidades institucionales?"],
+  "review": {"reviewer": null, "reviewed_at": "2026-08-26", "notes": "Pausado por la reorientacion documental; conserva utilidad como evidencia microanalitica."}
+}
