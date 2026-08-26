@@ -21,6 +21,11 @@ CREATE TABLE documents (
     handle TEXT NOT NULL UNIQUE,
     title TEXT,
     publication_date TEXT,
+    anio INTEGER,
+    division TEXT,
+    sdg_json TEXT,
+    topic_spa_json TEXT,
+    abstract TEXT,
     source_path TEXT NOT NULL,
     source_sha256 TEXT NOT NULL,
     type_original TEXT,
@@ -98,9 +103,15 @@ def build_database(normalized_path: Path, output_path: Path) -> dict:
     )
     documents = source["documentos"]
     connection.executemany(
-        "INSERT INTO documents VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+        "INSERT INTO documents VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
         [(
-            document["documento_id"], document["handle"], document["titulo"], document.get("fecha"), document["ruta_json"],
+            document["documento_id"], document["handle"], document["titulo"], document.get("fecha"),
+            document.get("anio"),
+            document.get("division"),
+            json.dumps(document.get("sdg") or [], ensure_ascii=False) if document.get("sdg") is not None else None,
+            json.dumps(document.get("topic_spa") or [], ensure_ascii=False) if document.get("topic_spa") is not None else None,
+            document.get("abstract"),
+            document["ruta_json"],
             document["sha256_json"], document["tipo_documento_original"],
             (document.get("tipo_documento_normalizado") or {}).get("id"),
             (document.get("tipo_documento_normalizado") or {}).get("nombre"),

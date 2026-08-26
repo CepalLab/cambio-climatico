@@ -1,6 +1,6 @@
 # EDA descriptivo v1
 
-Generado: `2026-08-24T21:44:49+00:00`
+Generado: `2026-08-26T13:36:55+00:00`
 
 
 
