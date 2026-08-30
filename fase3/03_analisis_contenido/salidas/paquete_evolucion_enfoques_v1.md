@@ -1,8 +1,8 @@
-# Evolucion de enfoques CEPAL sobre cambio climatico, 2015-2025
+# Evolucion de enfoques CEPAL sobre cambio climatico, 2015-2026
 
-**Paquete:** `evolucion_enfoques`  
-**Generado:** `2026-08-26T17:03:35+00:00`  
-**Base:** `fase3-analitica-v1`  
+**Paquete:** `evolucion_enfoques`
+**Generado:** `2026-08-27T19:04:41+00:00`
+**Base:** `fase3-analitica-v1`
 **Denominador:** 238 documentos activos; 6 exclusiones aplicadas.
 
 ## Seleccion
@@ -18,7 +18,7 @@
   "interpellation_criteria": [],
   "year_range": [
     2015,
-    2025
+    2026
   ],
   "periods": [
     {
@@ -73,6 +73,6 @@ Se exportaron **4931** citas candidatas con `dimension_id`, pagina, ruta y hash 
 
 ## Limitaciones
 
-- P3 es un periodo abierto: el corpus disponible llega hasta 2025.
+- P3 cubre 2023-2026 e incluye seis publicaciones fechadas en 2026.
 - Las frecuencias describen presencia e intensidad de codificacion; no miden importancia sustantiva.
 - Las citas candidatas requieren seleccion y lectura cualitativa antes de convertirse en hallazgo.

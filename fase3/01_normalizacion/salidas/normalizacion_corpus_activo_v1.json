@@ -1,6 +1,6 @@
 {
   "version": "normalizacion-corpus-activo-v1",
-  "generado_en": "2026-08-26T13:36:17+00:00",
+  "generado_en": "2026-08-26T22:29:48+00:00",
   "fuentes": {
     "inventario": "fase3/00_control/inventario/inventario_corpus_v1.json",
     "exclusiones": "fase3/00_control/inventario/exclusiones_corpus_v1.csv",
@@ -4014,7 +4014,15 @@
       },
       "tipo_documento": {
         "original": "Resumen",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "resumen_ejecutivo",
+            "nombre": "Resumen ejecutivo",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Centroamérica",
       "referentes_dependencias_original": null,
@@ -4107,7 +4115,15 @@
       },
       "tipo_documento": {
         "original": "Estudio sectorial técnico",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Argentina, con análisis de sus regiones forestales y proyecciones sectoriales nacionales.",
       "referentes_dependencias_original": "Segunda Comunicación Nacional, inventarios nacionales, FAO, IPCC, Fundación Bariloche y propuesta REDD.",
@@ -4506,7 +4522,15 @@
       },
       "tipo_documento": {
         "original": "Estudio sectorial técnico de modelización y evaluación de mitigación",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Argentina, con desagregación nacional y de ciudades con rellenos sanitarios",
       "referentes_dependencias_original": "IPCC, USEPA, LandGEM, CABA, CEAMSE y experiencias de Japón y Minas Gerais (Brasil)",
@@ -6641,7 +6665,15 @@
       },
       "tipo_documento": {
         "original": "Propuesta de política / documento técnico regional",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Caribe: países caribeños miembros de la CEPAL y pequeños Estados insulares en desarrollo, con tratamiento diferenciado según su estructura de deuda.",
       "referentes_dependencias_original": "ECLAC, Green Climate Fund (GCF), Caribbean Resilience Fund (CRF), acreedores multilaterales, bilaterales y privados, IMF, CARICOM y UNFCCC.",
@@ -7129,7 +7161,15 @@
       },
       "tipo_documento": {
         "original": "Documento técnico",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Santa Catarina, Brasil",
       "referentes_dependencias_original": null,
@@ -7407,7 +7447,15 @@
       },
       "tipo_documento": {
         "original": "Meta-análisis",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina",
       "referentes_dependencias_original": "Países de la OCDE",
@@ -7473,7 +7521,15 @@
       },
       "tipo_documento": {
         "original": "Relatório de avaliação",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "informe",
+            "nombre": "Informe",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Brasil",
       "referentes_dependencias_original": "México, Fundo Amazônia, Fundo Socioambiental (Caixa)",
@@ -7681,7 +7737,15 @@
       },
       "tipo_documento": {
         "original": "Avaliação de Desempenho Ambiental",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "informe",
+            "nombre": "Informe",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Brasil",
       "referentes_dependencias_original": "Países de la OCDE y BRICS",
@@ -8007,7 +8071,15 @@
       },
       "tipo_documento": {
         "original": "Documentos de Proyectos",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe (ALC)",
       "referentes_dependencias_original": "Unión Europea (Programa EUROCLIMA), Alemania, Reino Unido, Dinamarca, Banco Mundial, BID, CAF.",
@@ -8124,7 +8196,15 @@
       },
       "tipo_documento": {
         "original": "Documentos de Proyectos",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe",
       "referentes_dependencias_original": "Unión Europea (programa EUROCLIMA), IPCC, diversos casos internacionales (Tokio, Nueva York)",
@@ -8225,7 +8305,15 @@
       },
       "tipo_documento": {
         "original": "Estudios y Perspectivas - Cambio Climático",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe",
       "referentes_dependencias_original": "Convención Marco de las Naciones Unidas sobre el Cambio Climático (CMNUCC), Objetivos de Desarrollo Sostenible (ODS), Plataforma de Acción de Beijing, CEDAW",
@@ -8450,7 +8538,15 @@
       },
       "tipo_documento": {
         "original": "Documentos de Proyectos",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Chile",
       "referentes_dependencias_original": null,
@@ -8517,7 +8613,15 @@
       },
       "tipo_documento": {
         "original": "Documentos de Proyectos",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Ecuador (provincias de Guayas y Los Ríos)",
       "referentes_dependencias_original": null,
@@ -8878,7 +8982,15 @@
       },
       "tipo_documento": {
         "original": "Documento de Proyectos",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Perú (nacional), tres sectores: gestión del recurso hídrico, agricultura y gestión del riesgo por desastres",
       "referentes_dependencias_original": "Experiencias internacionales de instrumentos económicos ambientales; clasificación de Panayotou (1998); experiencias de otros países en bonos CAT y seguros paramétricos",
@@ -9755,7 +9867,15 @@
       },
       "tipo_documento": {
         "original": "Evaluación del desempeño ambiental",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "informe",
+            "nombre": "Informe",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Perú (nacional)",
       "referentes_dependencias_original": "OCDE (marco de crecimiento verde, comparaciones internacionales), convenios de Estocolmo, Viena, Montreal, Minamata y el Acuerdo de París",
@@ -9904,7 +10024,15 @@
       },
       "tipo_documento": {
         "original": "Documento de proyectos",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe",
       "referentes_dependencias_original": "Unión Europea, Estados Unidos, Reino Unido, Países Bajos, Australia",
@@ -10011,7 +10139,15 @@
       },
       "tipo_documento": {
         "original": "Documentos de Proyectos",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina (incluyendo análisis y cuadros comparativos para Argentina, Bolivia, Brasil, Chile, Colombia, Costa Rica, Cuba, Ecuador, El Salvador, Guatemala, Honduras, México, Nicaragua, Panamá, Paraguay, Perú, República Dominicana, Uruguay y Venezuela).",
       "referentes_dependencias_original": "Países desarrollados (principalmente del norte de Europa: Dinamarca, Finlandia, Suecia y Noruega; y otros países de la OCDE) como referentes para la aplicación de impuestos al carbono y reformas fiscales ambientales.",
@@ -10232,7 +10368,15 @@
       },
       "tipo_documento": {
         "original": "Documentos de Proyectos",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Panamá",
       "referentes_dependencias_original": "Corea del Sur (Korean Emissions Trading Scheme–KETS), Estados Unidos (Acid Rain Trading Program, California Cap and Trade Program), Unión Europea (EU Emissions Trading System–EU-ETS), Quebec (Canadá)",
@@ -10312,7 +10456,15 @@
       },
       "tipo_documento": {
         "original": "Documentos de Proyectos",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Estado Plurinacional de Bolivia, con foco analítico y experimental específico en las cinco principales zonas de producción agrícola del departamento de Santa Cruz (Mineros, Pailón, San Julián, Yapacaní y Guarayos).",
       "referentes_dependencias_original": "Argentina y Brasil (citados como referentes regionales de agricultura tecnificada y planificada con acceso a riego, p. 8), Filipinas y Estados Unidos (referentes metodológicos en la literatura de modelos CGE y de uso de suelo, pp. 11-12).",
@@ -10536,7 +10688,15 @@
       },
       "tipo_documento": {
         "original": "Documentos de Proyectos",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe",
       "referentes_dependencias_original": "China, India, Turquía, EEUU, Unión Europea, entre otros países competidores",
@@ -10637,7 +10797,15 @@
       },
       "tipo_documento": {
         "original": "Documento de posición de la CEPAL",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "informe_estrategico",
+            "nombre": "Informe estratégico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe, con comparaciones globales y ejemplos nacionales, urbanos, rurales y subregionales.",
       "referentes_dependencias_original": "Agenda 2030 y Objetivos de Desarrollo Sostenible, Acuerdo de París, Nueva Agenda Urbana, instituciones de la CEPAL y marcos de gobernanza y cooperación regional.",
@@ -10815,7 +10983,15 @@
       },
       "tipo_documento": {
         "original": "Tratado / Instrumento Jurídico",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "instrumento_normativo",
+            "nombre": "Instrumento normativo",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Latin America and the Caribbean (33 countries)",
       "referentes_dependencias_original": "Principle 10 of the Rio Declaration on Environment and Development; 2030 Agenda for Sustainable Development",
@@ -10877,7 +11053,15 @@
       },
       "tipo_documento": {
         "original": "Documento técnico",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Guatemala",
       "referentes_dependencias_original": "IPCC, SICA, CARICOM",
@@ -11134,7 +11318,15 @@
       },
       "tipo_documento": {
         "original": "Propuesta metodológica",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "guia_metodologica",
+            "nombre": "Guía metodológica",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Centroamérica y República Dominicana (países del SICA)",
       "referentes_dependencias_original": "CEPAL, FAO, CGIAR/CCAFS, PROGRESAN-SICA, INCAP",
@@ -11905,7 +12097,15 @@
       },
       "tipo_documento": {
         "original": "Estudios del Cambio Climático en América Latina",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Mesoamérica, Triángulo del Norte y arco Chiapas-Tabasco. Caso: Tenosique, Tabasco.",
       "referentes_dependencias_original": "Agenda 2030, Acuerdo de París, Nueva Agenda Urbana, Desarrollo a Escala Humana.",
@@ -12135,7 +12335,15 @@
       },
       "tipo_documento": {
         "original": "Documentos de Proyectos",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe (14 países analizados: Bolivia, Brasil, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Honduras, México, Nicaragua, Panamá, Paraguay, Perú y República Dominicana), con identificación de 1.975 entidades territoriales locales.",
       "referentes_dependencias_original": "División de Desarrollo Productivo y Empresarial de la CEPAL, Instituto Latinoamericano y del Caribe de Planificación Económica y Social (ILPES) y Oficina Regional de la FAO para América Latina y el Caribe (FAO/RLC).",
@@ -12344,7 +12552,15 @@
       },
       "tipo_documento": {
         "original": "Serie Estudios y Perspectivas - Sede Subregional de la CEPAL para el Caribe",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Barbados, Guyana, Santa Lucía, Suriname y Trinidad y Tabago (Caribe)",
       "referentes_dependencias_original": "Comunidad del Caribe (CARICOM), Agencia Caribeña para la Gestión de Emergencias por Desastres (CDEMA), Fondo de Seguros contra Riesgos de Catástrofe para el Caribe (CCRIF SPC), Banco Interamericano de Desarrollo (BID), Banco de Desarrollo del Caribe (CDB), Asociación de Estados del Caribe (AEC), Marco de Sendai para la Reducción del Riesgo de Desastres 2015-2030, Objetivos de Desarrollo Sostenible (ODS)",
@@ -12476,7 +12692,15 @@
       },
       "tipo_documento": {
         "original": "Documentos de Proyectos",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe (análisis regional agregado y desagregado por países de América Latina y del Caribe en gráficos y cuadros de emisiones, metas CND, gasto de los hogares, agricultura, energía, urbanización y zonas costeras)",
       "referentes_dependencias_original": "Países de la OCDE y de la Unión Europea (como referentes comparativos en recaudación fiscal ambiental, elasticidades de demanda de combustibles y normas de calidad del aire), acuerdos internacionales de la CMNUCC (Acuerdo de París, COP 21), Objetivos de Desarrollo Sostenible (ODS), Hábitat III y Conferencia de Addis Abeba sobre Financiamiento para el Desarrollo",
@@ -12593,7 +12817,15 @@
       },
       "tipo_documento": {
         "original": "Documentos de Proyectos",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe (con seguimiento de 20 países: Argentina, Bahamas, Barbados, Belice, Brasil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Guyana, Honduras, Jamaica, México, Nicaragua, Panamá, Paraguay, Perú y Uruguay, y desglose para el Caribe en BDC)",
       "referentes_dependencias_original": "Convención Marco de las Naciones Unidas sobre el Cambio Climático (CMNUCC), Acuerdo de París, Panel Intergubernamental sobre Cambio Climático (IPCC), International Development Finance Club (IDFC), Joint Report on Multilateral Development Banks Climate Finance, Climate Policy Initiative (CPI), Climate Bonds Initiative (CBI), NAMA Facility, Unión Europea (Programa EUROCLIMA)",
@@ -13148,7 +13380,15 @@
       },
       "tipo_documento": {
         "original": "Libro o documento institucional",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "compilacion",
+            "nombre": "Compilación",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Países miembros del Sistema de la Integración Centroamericana (SICA): Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panamá y República Dominicana.",
       "referentes_dependencias_original": "CEPAL, ODECA, MCCA, SIECA, BCIE, COSEFIN, CAC, COMISCA, CCE, Unión Europea, Estados Unidos (DR-CAFTA).",
@@ -13272,7 +13512,15 @@
       },
       "tipo_documento": {
         "original": "Serie Recursos Naturales y Desarrollo",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Regional (América Latina y el Caribe), con énfasis en experiencias y procesos de Argentina, Brasil, Colombia, Costa Rica, Ecuador y Uruguay.",
       "referentes_dependencias_original": "CEPAL (División de Recursos Naturales / Unidad de Desarrollo Agrícola y Biodiversidad), FAO, IICA, CIAT, Cooperación Alemana (GIZ), Programa de Trabajo CEPAL-Francia, Cumbre Global de Bioeconomía (GBS).",
@@ -13414,7 +13662,15 @@
       },
       "tipo_documento": {
         "original": "Documentos de proyectos",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe (análisis regional comparado sobre 33 países, con detalle sistemático sobre 26 a 28 países con marcos legislativos, estrategias y planes climáticos analizados)",
       "referentes_dependencias_original": "Convención Marco de las Naciones Unidas sobre el Cambio Climático (CMNUCC), Acuerdo de París, Consejo de Derechos Humanos de las Naciones Unidas, comités de órganos de tratados de la ONU, Examen Periódico Universal (EPU), Sistema Interamericano de Derechos Humanos (Corte IDH y CIDH) y Unión Europea (Programa EUROCLIMA+)",
@@ -13672,7 +13928,15 @@
       },
       "tipo_documento": {
         "original": "Documentos de proyectos",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Centroamérica y la República Dominicana (países miembros del Sistema de la Integración Centroamericana - SICA: Belice, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panamá y República Dominicana)",
       "referentes_dependencias_original": "Comisión Económica para América Latina y el Caribe (CEPAL), Secretaría Ejecutiva del Consejo Agropecuario Centroamericano (SECAC), Grupo Técnico de Cambio Climático y Gestión Integral de Riesgos (GTCCGIR), Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO), Microinsurance Catastrophe Risk Organisation (MiCRO), Swiss Re, Banco Centroamericano de Integración Económica (BCIE), Centro de Coordinación para la Prevención de los Desastres en América Central y República Dominicana (CEPREDENAC), Comité Regional de Recursos Hidráulicos (CRRH), Instituto Interamericano de Cooperación para la Agricultura (IICA)",
@@ -13820,7 +14084,15 @@
       },
       "tipo_documento": {
         "original": "Project Documents",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Regional (Caribe: Barbados, Guyana, Santa Lucía, y Trinidad y Tabago)",
       "referentes_dependencias_original": "CEPAL (División de Recursos Naturales e Infraestructura y Sede Subregional para el Caribe), ADEME (Agencia de Medio Ambiente y Gestión de la Energía de Francia), GIZ, Enerdata y agencias nacionales participantes (Division of Energy and Telecommunications de Barbados, Guyana Energy Agency, Renewable Energy Division de Santa Lucía, Ministry of Energy Industries de Trinidad y Tabago)",
@@ -13955,7 +14227,15 @@
       },
       "tipo_documento": {
         "original": "Estudios y Perspectivas - Sede Subregional para el Caribe",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Pequeños Estados Insulares en Desarrollo (SIDS) y territorios no independientes del Caribe (Antigua y Barbuda, Bahamas, Barbados, Belice, Cuba, Dominica, República Dominicana, Granada, Guyana, Haití, Jamaica, Saint Kitts y Nevis, Santa Lucía, San Vicente y las Granadinas, Surinam, Trinidad y Tobago, Anguila, Aruba, Bermudas, Islas Vírgenes Británicas, Islas Caimán, Curazao, Guadalupe, Martinica, Montserrat, Puerto Rico, Sint Maarten, Islas Turcas y Caicos, e Islas Vírgenes de los Estados Unidos)",
       "referentes_dependencias_original": "Marcos multilaterales globales (Trayectoria de Samoa 2014, Agenda 2030 / ODS, Marco de Sendai para la Reducción del Riesgo de Desastres 2015-2030, Acuerdo de París sobre Cambio Climático, Agenda de Acción de Addis Abeba sobre Financiamiento para el Desarrollo, Nueva Agenda Urbana, Declaración de Estambul para PMA); Unión Europea; organismos internacionales (PNUMA, FAO, OIEA, OIT, OMS/OPS, Banco Mundial, UIT, OACI) y socios de cooperación (Canadá, Alemania, Japón, Nueva Zelanda, Estados Unidos)",
@@ -14185,7 +14465,15 @@
       },
       "tipo_documento": {
         "original": "Estudios y Perspectivas - Sede Subregional de la CEPAL para el Caribe",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Subregión del Caribe (Pequeños Estados Insulares en Desarrollo - SIDS de CARICOM y Estados miembros de la CEPAL, con estudios de caso a profundidad en Trinidad y Tabago y Granada)",
       "referentes_dependencias_original": "Costa Rica, Islandia, Nueva Zelanda, Noruega, Islas Cook, Niue, Tuvalu, Fiji, Vanuatu, Islas Salomón, Unión Europea, Estados Unidos (NREL), CARICOM, CDEMA, CARILEC, CCCCC, CDB, GEF, FVC/GCF, Carbon War Room, OFID, OEA, MIDEPLAN de Costa Rica",
@@ -14285,7 +14573,15 @@
       },
       "tipo_documento": {
         "original": "Studies and Perspectives series-ECLAC Subregional Headquarters for the Caribbean, No. 89",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Regional (Caribe: Antigua y Barbuda, Santa Lucía, San Vicente y las Granadinas)",
       "referentes_dependencias_original": "CEPAL (Sede Subregional para el Caribe), Fondo Verde para el Clima (GCF), Banco Central del Caribe Oriental (ECCB), Banco de Desarrollo del Caribe (CDB), Fondo Monetario Internacional (FMI), Banco Mundial, Club de París, PetroCaribe y ALBA",
@@ -14601,7 +14897,15 @@
       },
       "tipo_documento": {
         "original": "Síntesis de políticas públicas",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "policy_brief",
+            "nombre": "Policy brief",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Chile, Colombia, Perú y Uruguay (América Latina)",
       "referentes_dependencias_original": "CEPAL, BMZ (Ministerio Federal de Cooperación Económica y Desarrollo de Alemania), GIZ (Agencia Alemana de Cooperación Internacional), OCDE, Banco Mundial (WDI), BID, Protocolo de Kioto (Mecanismo de Desarrollo Limpio - MDL)",
@@ -14837,7 +15141,15 @@
       },
       "tipo_documento": {
         "original": "Libros de la CEPAL",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "compilacion",
+            "nombre": "Compilación",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe en su conjunto, con análisis subregionales exhaustivos sobre la vulnerabilidad de Centroamérica y los países insulares del Caribe, y casos de estudio empíricos y sectoriales en la Argentina, el Brasil, Chile, Colombia, el Ecuador, México, el Perú y el Uruguay.",
       "referentes_dependencias_original": "Comisión Económica para América Latina y el Caribe (CEPAL), División de Desarrollo Sostenible y Asentamientos Humanos, Acuerdo de París, Convención Marco de las Naciones Unidas sobre el Cambio Climático (CMNUCC), Banco Interamericano de Desarrollo (BID), Banco de Desarrollo de América Latina (CAF), Banco Mundial, Organización para la Cooperación y el Desarrollo Económicos (OCDE), Grupo Intergubernamental de Expertos sobre el Cambio Climático (IPCC).",
@@ -15077,7 +15389,15 @@
       },
       "tipo_documento": {
         "original": "Síntesis de políticas públicas sobre cambio climático",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "policy_brief",
+            "nombre": "Policy brief",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe (con análisis a nivel agregado regional y perfiles comparativos de vulnerabilidad social en Argentina, Bolivia, Brasil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Honduras, México, Nicaragua, Panamá, Paraguay, Perú, República Dominicana, Uruguay y Venezuela)",
       "referentes_dependencias_original": "Comisión Económica para América Latina y el Caribe (CEPAL); Programa EUROCLIMA de la Unión Europea (CEC/14/001); Panel Intergubernamental sobre el Cambio Climático (IPCC); Banco Interamericano de Desarrollo (BID); World Wildlife Fund (WWF); Organización para la Cooperación y el Desarrollo Económicos (OCDE); Banco Mundial; Programa de las Naciones Unidas para el Medio Ambiente (PNUMA)",
@@ -15365,7 +15685,15 @@
       },
       "tipo_documento": {
         "original": "Síntesis de política pública",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "policy_brief",
+            "nombre": "Policy brief",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe",
       "referentes_dependencias_original": "Convención Marco de las Naciones Unidas sobre el Cambio Climático (CMNUCC), Conferencia de las Partes (COP20 - Plan de Trabajo de Lima sobre género), Objetivos de Desarrollo Sostenible (ODS 5, 6, 11, 13) y Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW)",
@@ -15487,7 +15815,15 @@
       },
       "tipo_documento": {
         "original": "Síntesis de políticas públicas",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "policy_brief",
+            "nombre": "Policy brief",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe (con análisis de casos en México, Venezuela, Ecuador y Uruguay)",
       "referentes_dependencias_original": "Estados Unidos, Unión Europea y Japón (mercados de destino de exportaciones con protocolos ambientales) y organismos multilaterales de crédito",
@@ -15600,7 +15936,15 @@
       },
       "tipo_documento": {
         "original": "Síntesis de políticas públicas",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "policy_brief",
+            "nombre": "Policy brief",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe (con análisis empírico y datos de Belice, Bolivia, Brasil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Honduras, México, Panamá, Paraguay, Perú y República Dominicana)",
       "referentes_dependencias_original": "Unión Europea (Programa EUROCLIMA), UICN, PNUMA (UNEP), IPCC, FAO, REDPARQUES, Fondo Mundial para la Naturaleza (WWF), Banco Interamericano de Desarrollo (BID) y convenios internacionales (Ramsar, CDB)",
@@ -15821,7 +16165,15 @@
       },
       "tipo_documento": {
         "original": "Síntesis de políticas públicas",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "policy_brief",
+            "nombre": "Policy brief",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "México (sector rural, 80 comunidades rurales de la muestra ENHRUM)",
       "referentes_dependencias_original": "Modelos climáticos globales HADLEY (Hadley Centre), PCM (Parallel Climate Model) y MIMR (Center for Climate System Research) bajo escenario A2 del IPCC; línea de pobreza alimentaria rural del CONEVAL (2006); literatura empírica internacional de función ricardiana y microeconometría climática (Mendelsohn, Stern, Nordhaus, Horowitz).",
@@ -15908,7 +16260,15 @@
       },
       "tipo_documento": {
         "original": "Síntesis de política pública",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "policy_brief",
+            "nombre": "Policy brief",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe (con desagregación para 17 países: Estado Plurinacional de Bolivia, Brasil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Honduras, México, Nicaragua, Panamá, Paraguay, Perú, República Dominicana, Uruguay y República Bolivariana de Venezuela)",
       "referentes_dependencias_original": "Panel Intergubernamental de Expertos sobre el Cambio Climático (IPCC, 2007), Informe Stern (2007), Indicadores de Desarrollo Mundial del Banco Mundial, CEPALSTAT, FAO e IICA",
@@ -16159,7 +16519,15 @@
       },
       "tipo_documento": {
         "original": "Síntesis de políticas públicas",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "policy_brief",
+            "nombre": "Policy brief",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina (con aplicación empírica y estimación econométrica para el Ecuador, El Salvador y México)",
       "referentes_dependencias_original": "Países de la OCDE (Alemania, Francia, Gran Bretaña, Estados Unidos y Japón), Agencia Alemana de Cooperación Internacional (GIZ) y Ministerio Federal de Cooperación Económica y Desarrollo de Alemania (BMZ)",
@@ -16244,7 +16612,15 @@
       },
       "tipo_documento": {
         "original": "Síntesis de política pública",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "policy_brief",
+            "nombre": "Policy brief",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe",
       "referentes_dependencias_original": "División de Desarrollo Sostenible y Asentamientos Humanos de la CEPAL, Agencia Alemana de Cooperación Internacional (GIZ), Ministerio Federal de Cooperación Económica y Desarrollo de Alemania (BMZ) y Organización para la Cooperación y el Desarrollo Económicos (OCDE)",
@@ -16358,7 +16734,15 @@
       },
       "tipo_documento": {
         "original": "Síntesis de políticas públicas",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "policy_brief",
+            "nombre": "Policy brief",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Chile y México",
       "referentes_dependencias_original": "América Latina y el Caribe, Banco Mundial y literatura económica internacional (NBER, EPA)",
@@ -16442,7 +16826,15 @@
       },
       "tipo_documento": {
         "original": "Síntesis de política pública",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "policy_brief",
+            "nombre": "Policy brief",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe",
       "referentes_dependencias_original": "División de Desarrollo Sostenible y Asentamientos Humanos de la CEPAL y Unión Europea (Programa EUROCLIMA)",
@@ -16556,7 +16948,15 @@
       },
       "tipo_documento": {
         "original": "Síntesis de política pública",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "policy_brief",
+            "nombre": "Policy brief",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe (con análisis empírico de casos en México y Brasil)",
       "referentes_dependencias_original": "Convención Marco de las Naciones Unidas sobre el Cambio Climático (CMNUCC), Conferencia de las Naciones Unidas sobre el Medio Ambiente y el Desarrollo (Río 1992), y literatura teórica y empírica de federalismo fiscal y ambiental (Oates, Williams, Grasso, Díaz, Magaloni y Weingast)",
@@ -16663,7 +17063,15 @@
       },
       "tipo_documento": {
         "original": "Síntesis de políticas públicas",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "policy_brief",
+            "nombre": "Policy brief",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe",
       "referentes_dependencias_original": "División de Desarrollo Sostenible y Asentamientos Humanos de la CEPAL, Programa EUROCLIMA de la Unión Europea, Panel Intergubernamental sobre Cambio Climático (IPCC), Convención Marco de las Naciones Unidas sobre el Cambio Climático (CMNUCC) y Programa de las Naciones Unidas para el Medio Ambiente (PNUMA)",
@@ -16805,7 +17213,15 @@
       },
       "tipo_documento": {
         "original": "Síntesis de políticas públicas",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "policy_brief",
+            "nombre": "Policy brief",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe (con estudios empíricos aplicados a Argentina y Brasil)",
       "referentes_dependencias_original": "División de Desarrollo Sostenible y Asentamientos Humanos de la Comisión Económica para América Latina y el Caribe (CEPAL), Programa EUROCLIMA de la Unión Europea, Panel Intergubernamental sobre Cambio Climático (IPCC), Organización para la Cooperación y el Desarrollo Económicos (OCDE)",
@@ -17080,7 +17496,15 @@
       },
       "tipo_documento": {
         "original": "Estudio de caso / Evaluación de desastre",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "informe",
+            "nombre": "Informe",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Las Bahamas (con foco en las islas más afectadas: New Providence, Grand Bahama, Andros y Berry Islands)",
       "referentes_dependencias_original": "Comisión Económica para América Latina y el Caribe (CEPAL), Banco Interamericano de Desarrollo (BID), Organización Panamericana de la Salud (OPS/PAHO), Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO), National Emergency Management Agency (NEMA), Ministry of Works (MOW), Grand Bahama Port Authority (GBPA), Utilities Regulation and Competition Authority (URCA)",
@@ -17232,7 +17656,15 @@
       },
       "tipo_documento": {
         "original": "Documentos de Proyectos",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Bahamas (especialmente las islas meridionales y Out Islands: Acklins, Bimini, Grand Bahama, Great Inagua y Ragged Island, además de impactos agregados en New Providence)",
       "referentes_dependencias_original": "Comisión Económica para América Latina y el Caribe (CEPAL), Banco Interamericano de Desarrollo (BID), Organización Panamericana de la Salud (OPS/OMS), National Emergency Management Agency (NEMA), Ministerio de Finanzas, Ministerio de Educación, Ministerio de Obras Públicas, Bahamas Power and Light (BPL), Water and Sewerage Corporation (WSC), Bahamas Telecommunications Company (BTC), Caribbean Catastrophe Risk Insurance Facility (CCRIF SPC)",
@@ -17344,7 +17776,15 @@
       },
       "tipo_documento": {
         "original": "Estudio de caso / Evaluación de desastre",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "informe",
+            "nombre": "Informe",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Las Bahamas (específicamente las islas de Gran Bahama y Ábaco, junto con los cayos adyacentes como Elbow Cay, Green Turtle Cay y Man-o-War Cay)",
       "referentes_dependencias_original": "Comisión Económica para América Latina y el Caribe (CEPAL), Banco Interamericano de Desarrollo (BID), Organización Panamericana de la Salud (OPS/PAHO), National Emergency Management Agency (NEMA), Ministry of Disaster Preparedness, Management and Reconstruction, Bahamas Power and Light (BPL), Grand Bahama Power Company (GBPC), Water and Sewerage Corporation (WSC), Grand Bahama Utility Company (GBUC), Bahamas Telecommunications Company (BTC), ALIV, Caribbean Catastrophe Risk Insurance Facility (CCRIF SPC)",
@@ -17483,7 +17923,15 @@
       },
       "tipo_documento": {
         "original": "Documentos de Proyectos",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "República Dominicana",
       "referentes_dependencias_original": "CEPAL, Ministerio de Economía, Planificación y Desarrollo de la República Dominicana (MEPyD), Ministerio Federal de Cooperación Económica y Desarrollo de Alemania (BMZ), Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ), Expertise France, Banco Central de la República Dominicana, Banco Mundial",
@@ -17700,7 +18148,15 @@
       },
       "tipo_documento": {
         "original": "Documentos de Proyectos",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "República Dominicana (análisis espacial a nivel de píxel en todo el territorio nacional)",
       "referentes_dependencias_original": "División de Desarrollo Sostenible y Asentamientos Humanos de la CEPAL (Unidad de Economía del Cambio Climático), Ministerio de Economía, Planificación y Desarrollo de la República Dominicana (MEPyD), Oficina Nacional de Meteorología (ONAMET), Ministerio para Europa y de Asuntos Exteriores de Francia (Expertise France), y Ministerio Federal de Cooperación Económica y Desarrollo de Alemania (BMZ / GIZ)",
@@ -17759,7 +18215,15 @@
       },
       "tipo_documento": {
         "original": "Documentos de proyectos",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "República Dominicana (zonas cafetaleras y cadena de valor nacional de café)",
       "referentes_dependencias_original": "Instituto Dominicano del Café (INDOCAFE), Consejo Nacional para el Cambio Climático y Mecanismo de Desarrollo Limpio (CNCCMDL), Ministerio de Agricultura, Ministerio de Medio Ambiente y Recursos Naturales (MIMARENA), Banco Agrícola, Instituto Dominicano de Investigaciones Agropecuarias y Forestales (IDIAF), IDECOOP, CONIAF, UTEPDA, PROMECAFÉ",
@@ -17819,7 +18283,15 @@
       },
       "tipo_documento": {
         "original": "Documentos de Proyectos",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "República Dominicana (Sistema Eléctrico Nacional Interconectado SENI y sistemas aislados)",
       "referentes_dependencias_original": "Experiencias internacionales y regionales de transición energética (IRENA, BID, CEPAL, CMNUCC)",
@@ -18092,7 +18564,15 @@
       },
       "tipo_documento": {
         "original": "Documento informativo",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "documento_referencia",
+            "nombre": "Documento de referencia",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Pequeños Estados Insulares en Desarrollo (SIDS) del Caribe y Estados miembros de CARICOM",
       "referentes_dependencias_original": "CEPAL (Sede Subregional para el Caribe), Conferencia de las Naciones Unidas sobre los Océanos (Lisboa, copresidida por Kenia y Portugal), Asamblea General de las Naciones Unidas (Decenio de las Ciencias Oceánicas 2021-2030), CARICOM, PNUMA, UNESCO/COI, FAO, CANARI, UWI (Centre for Resources Management and Environmental Studies y Five Islands Campus) y Convenio de Cartagena",
@@ -18187,7 +18667,15 @@
       },
       "tipo_documento": {
         "original": "Documentos de Proyectos",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe (con análisis detallado en Ciudad de México, Medellín, Guayaquil, Región Puno y Recife)",
       "referentes_dependencias_original": "IPCC, ONU-Hábitat, Banco Mundial, C40 Cities Climate Leadership Group, ICLEI, CAF, GIZ/BMZ",
@@ -18332,7 +18820,15 @@
       },
       "tipo_documento": {
         "original": "Documentos de Proyectos",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Brasil, abrangendo a dinâmica macroeconômica nacional, o mercado de trabalho formal e informal, os setores de infraestrutura sustentável e as assimetrias socioespaciais e raciais em áreas urbanas e rurais.",
       "referentes_dependencias_original": "Comissão Econômica para a América Latina e o Caribe (CEPAL), Fundação Friedrich Ebert Stiftung (FES Brasil), Convenção-Quadro das Nações Unidas sobre Mudança do Clima (UNFCCC), Agenda 2030 (ODS 5 e ODS 13), Estratégia de Montevidéu e Compromisso de Santiago.",
@@ -18412,7 +18908,15 @@
       },
       "tipo_documento": {
         "original": "Documentos de Proyectos",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Guatemala, con foco prioritario en los diez departamentos declarados en estado de calamidad pública: Alta Verapaz, Izabal, Quiché, Huehuetenango, Petén, Zacapa, Chiquimula, Jalapa, Jutiapa y Santa Rosa.",
       "referentes_dependencias_original": "Metodología DaLA de la CEPAL; Secretaría de Planificación y Programación de la Presidencia (SEGEPLAN); Coordinadora Nacional para la Reducción de Desastres (CONRED); ministerios sectoriales (MSPAS, MINEDUC, CIV, MAGA, MEM, MARN, MIDES, MINFIN); Instituto Nacional de Sismología, Vulcanología, Meteorología e Hidrología (INSIVUMEH); Instituto Nacional de Bosques (INAB); Consejo Nacional de Áreas Protegidas (CONAP); Banco de Guatemala (BANGUAT); Sistema de Naciones Unidas en Guatemala (OPS/OMS, UNICEF, OIM, OCHA, PMA, PNUD).",
@@ -18668,7 +19172,15 @@
       },
       "tipo_documento": {
         "original": "Evaluación de impacto de desastres (metodología DaLA)",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "informe",
+            "nombre": "Informe",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Honduras a nivel nacional, con énfasis prioritario en los departamentos de la zona norte y noroccidental (especialmente el Valle de Sula, Cortés, Yoro, Atlántida, Colón, Santa Bárbara y Copán), que concentraron los mayores daños y pérdidas por inundaciones y deslizamientos.",
       "referentes_dependencias_original": "La evaluación fue realizada conjuntamente por la CEPAL y el Banco Interamericano de Desarrollo (BID), con la coordinación del Gobierno de Honduras (Secretaría de Coordinación General de Gobierno - SCGG y Secretaría de Finanzas - SEFIN) y la colaboración del Banco Mundial, el Sistema de las Naciones Unidas en Honduras (OPS/OMS, FAO, UNESCO, UNICEF, OIM, UNOPS, UNFPA, ONU Mujeres, ACNUR, PNUD) y entidades sectoriales hondureñas (COPECO, CONASA, SEDUC, SESAL, INSEP, INVEST-H, SEDECOAS, CONVIVIENDA, ICF, SAG, HONDUTEL, CONATEL, ENEE, ERSAPS, entre otras).",
@@ -19423,7 +19935,15 @@
       },
       "tipo_documento": {
         "original": "Resumen para responsables de políticas",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "policy_brief",
+            "nombre": "Policy brief",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe, con análisis detallado de Argentina y Colombia",
       "referentes_dependencias_original": "IPCC, Acuerdo de París, Unión Europea, C2G, CEPAL y Programa Euroclima+",
@@ -20123,7 +20643,15 @@
       },
       "tipo_documento": {
         "original": "Documento de referencia para consulta regional",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "documento_referencia",
+            "nombre": "Documento de referencia",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe, con referencias a Caribe, América Central, países de la región y niveles nacional, regional y local",
       "referentes_dependencias_original": "ONU Mujeres, PNUD, CMNUCC, CEDAW, Acuerdo de París, Acuerdo de Escazú, IPCC y mecanismos financieros climáticos internacionales",
@@ -21585,7 +22113,15 @@
       },
       "tipo_documento": {
         "original": "Documento de Proyectos",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe, con referencias específicas al Caribe, América Central y a instrumentos nacionales de países de la región",
       "referentes_dependencias_original": "CMNUCC, Acuerdo de París, CEDAW, Acuerdo de Escazú, ONU-Mujeres, PNUD, PNUMA, IPCC y mecanismos financieros climáticos internacionales",
@@ -21785,7 +22321,15 @@
       },
       "tipo_documento": {
         "original": "Compendio preliminar y cartera de proyectos de inversión climática",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "compilacion",
+            "nombre": "Compilación",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe, con proyectos en 24 países y un bloque específico para los PEID del Caribe; los proyectos individuales se aplican en países y ciudades concretas.",
       "referentes_dependencias_original": "CEPAL, BID, CAF, GEF, GCF, AFD, LAIF, CELAC, CARICOM y socios financieros privados; la COP27 y los ODS funcionan como marco internacional.",
@@ -21884,7 +22428,15 @@
       },
       "tipo_documento": {
         "original": "Acuerdo internacional traducido; texto normativo",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "instrumento_normativo",
+            "nombre": "Instrumento normativo",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe; Estados Parte del Acuerdo de Escazú.",
       "referentes_dependencias_original": "Costa Rica, Naciones Unidas, CEPAL y el Depositario del Acuerdo.",
@@ -22614,7 +23166,15 @@
       },
       "tipo_documento": {
         "original": "Reglas de procedimiento / documento normativo institucional",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "instrumento_normativo",
+            "nombre": "Instrumento normativo",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Conferencia de las Partes y órganos subsidiarios del Acuerdo de Escazú en América Latina y el Caribe",
       "referentes_dependencias_original": "Acuerdo Regional sobre el Acceso a la Información, la Participación Pública y el Acceso a la Justicia en Asuntos Ambientales; Reglamento de la CEPAL como régimen subsidiario",
@@ -23658,7 +24218,15 @@
       },
       "tipo_documento": {
         "original": "Documento técnico",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Honduras, con foco en el Sistema Nacional de Inversión Pública de Honduras (SNIPH).",
       "referentes_dependencias_original": "SICA/COSEFIN, CEPREDENAC, organismos de cooperación y estándares multilaterales citados como apoyo técnico y financiero.",
@@ -24239,7 +24807,15 @@
       },
       "tipo_documento": {
         "original": "Documento técnico de la serie Medio Ambiente y Desarrollo",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Bolivia, Chile, Colombia, Ecuador y Perú; con análisis regional de los países andinos",
       "referentes_dependencias_original": "ICMM, The Copper Mark, IRMA, TSM, LMEpassport y la propuesta de Directiva de debida diligencia de la Unión Europea; GRI, ISO 14001, ISO 45001 y Protocolo GEI como marcos de referencia",
@@ -24587,7 +25163,15 @@
       },
       "tipo_documento": {
         "original": "Documento técnico",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Belice, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panamá y República Dominicana, con análisis municipal y aplicaciones regionales, nacionales y locales.",
       "referentes_dependencias_original": "IPCC, CMIP6, CMNUCC y fuentes nacionales de información climática, territorial y socioeconómica.",
@@ -24830,7 +25414,15 @@
       },
       "tipo_documento": {
         "original": "Documento técnico / estudio aplicado del proyecto RIDASICC",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Regional: países del COSEFIN/SICA —Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panamá y República Dominicana—, con aplicación en los sistemas nacionales de inversión pública, plataformas SIG, módulos de inversión y proyectos de infraestructura.",
       "referentes_dependencias_original": "IPCC, OMM, CEPAL/CAC-SICA, Copernicus/ECMWF, CRU, Worldclim, CHIRPS, CCAFS-Climate, AEMET, Banco Mundial, universidades y servicios meteorológicos nacionales; se examinan instrumentos de México como referencia técnica, sin trasladar su alcance institucional al COSEFIN/SICA.",
@@ -25004,7 +25596,15 @@
       },
       "tipo_documento": {
         "original": "Documento técnico / guía metodológica",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "guia_metodologica",
+            "nombre": "Guía metodológica",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Proyectos de inversión y sistemas de evaluación de impacto ambiental de Argentina, Brasil, Chile, Colombia, Costa Rica y Perú, en el marco regional de la REDLASEIA; la red también incluye a Ecuador y Uruguay.",
       "referentes_dependencias_original": "Tratados climáticos internacionales y legislación, guías y herramientas de Alemania, Canadá, España, Estados Unidos, Nueva Zelanda, Reino Unido y la Unión Europea.",
@@ -26058,7 +26658,15 @@
       },
       "tipo_documento": {
         "original": "Boletín legislativo comparado",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "documento_referencia",
+            "nombre": "Documento de referencia",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe, con estudios de caso de Argentina, Brasil, Bolivia (Estado Plurinacional de), Chile, Colombia, Costa Rica, Guatemala y Uruguay.",
       "referentes_dependencias_original": "Convención Marco de las Naciones Unidas sobre el Cambio Climático, Acuerdo de París, IPCC, contribuciones determinadas a nivel nacional y planes nacionales o sectoriales de los países estudiados.",
@@ -27201,7 +27809,15 @@
       },
       "tipo_documento": {
         "original": "Background paper",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "documento_referencia",
+            "nombre": "Documento de referencia",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe; gobiernos, actores no estatales y cooperación regional",
       "referentes_dependencias_original": "IPCC, UNEP, NASEM, UNFCCC, Convenio sobre la Diversidad Biológica, Convención de las Naciones Unidas sobre el Derecho del Mar, ENMOD, London Convention/London Protocol, Protocolo de Montreal, UNECE y literatura científica internacional",
@@ -27805,7 +28421,15 @@
       },
       "tipo_documento": {
         "original": "Estudo técnico",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Brasil, com análise de políticas públicas, estatísticas nacionais e sua comparabilidade internacional.",
       "referentes_dependencias_original": "OCDE e o relatório Environment at a Glance; FAO, IEA, IUCN, UNEP-WCMC, OMS, Banco Mundial, Ompi, IBGE, Inpe, ANA, SNIS, ICMBio, Ibama e outras bases e instituições citadas.",
@@ -27889,7 +28513,15 @@
       },
       "tipo_documento": {
         "original": "Estudo técnico de avaliação de danos, perdas e custos adicionais (DaLA)",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Estado de Rio Grande do Sul, Brasil, con análisis estatal, municipal, territorial y por cuenca hidrográfica.",
       "referentes_dependencias_original": "Metodología DaLA de la CEPAL; Quadro de Sendai para la Redução do Risco de Desastres 2015-2030; bases y organismos técnicos IBGE, IPEA, Banco Mundial, Defesa Civil y entidades sectoriales brasileñas.",
@@ -28170,7 +28802,15 @@
       },
       "tipo_documento": {
         "original": "Manual técnico",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "guia_metodologica",
+            "nombre": "Guía metodológica",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Subregional: países miembros del SICA/COSEFIN, con énfasis en la red vial centroamericana y República Dominicana.",
       "referentes_dependencias_original": "SICA, COMITRAN/SIECA, CEPREDENAC, CRRH, PCGIR, Marco de Sendai, Acuerdo de París, Agenda 2030, EM-DAT, SNIP y RIDASICC.",
@@ -29033,7 +29673,15 @@
       },
       "tipo_documento": {
         "original": "Documento de Proyectos",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "América Latina y el Caribe, con referencias específicas a países como Argentina, Brasil, Chile, Colombia, Ecuador, Guatemala, Honduras, México, Paraguay, Perú, Uruguay y varios centroamericanos y caribeños",
       "referentes_dependencias_original": "OIT, PNUMA, Foro Económico Mundial (WEF), McKinsey Global Institute, Unión Europea, España (Plan Territorial de Transición Justa), Estados Unidos (Inflation Reduction Act)",
@@ -29411,7 +30059,15 @@
       },
       "tipo_documento": {
         "original": "Documentos de proyectos e investigación",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Economías del G20 (17 planes y estrategias seleccionados; Sudáfrica e Indonesia como plataformas de país explícitas)",
       "referentes_dependencias_original": "G20 Reference Framework for Effective Country Platforms (2020); IEG (2023); OCDE, PNUMA y ECLAC (big push for sustainability)",
@@ -29469,7 +30125,15 @@
       },
       "tipo_documento": {
         "original": "Project Documents / assessment of effects and impacts",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "estudio_tecnico",
+            "nombre": "Estudio técnico",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Barbados, con atención a Bridgetown, las parroquias y las costas sur y oeste; el análisis sectorial cubre población, vivienda, educación, pesca, agricultura, turismo, energía, telecomunicaciones, transporte, ambiente y macroeconomía.",
       "referentes_dependencias_original": "Caribe y SIDS; Sendai Framework, iGOPP/CDEMA, CROSQ, IDB, CCRIF, NHC-NOAA, FAO y fuentes regionales e internacionales de valoración y gestión del riesgo.",
@@ -31066,7 +31730,15 @@
       },
       "tipo_documento": {
         "original": "Road map / implementation plan",
-        "candidatos": []
+        "candidatos": [
+          {
+            "id": "plan_accion",
+            "nombre": "Hoja de ruta o plan de acción",
+            "aliases": [
+              "adjudicacion explicita del diccionario"
+            ]
+          }
+        ]
       },
       "ambito_aplicacion_original": "Belize, con cooperación prevista para los Estados Parte del Caribe y de América Latina y el Caribe",
       "referentes_dependencias_original": "Acuerdo de Escazú; ECLAC; OECD; Naciones Unidas; Saint Lucia, Argentina y Ecuador; CARICOM, Caribbean Court of Justice y University of the West Indies",

@@ -1,0 +1,197 @@
+@page {
+  size: A4;
+  margin: 2cm 2.1cm 2.2cm;
+}
+
+body {
+  color: #24353b;
+  font-family: "Aptos", "Segoe UI", sans-serif;
+  font-size: 11.5pt;
+  line-height: 1.52;
+}
+
+p {
+  text-align: justify;
+}
+
+h1, h2, h3 {
+  color: #30383b;
+  font-family: Georgia, serif;
+  line-height: 1.18;
+}
+
+h1 {
+  border-bottom: 1.2pt solid #4d585b;
+  font-size: 25pt;
+  margin: 0 0 1.2cm;
+  padding-bottom: 0.3cm;
+}
+
+h2 {
+  border-bottom: 0.6pt solid #9ba8aa;
+  font-size: 16pt;
+  margin-top: 1.2cm;
+  padding-bottom: 0.12cm;
+}
+
+h3 {
+  font-size: 12pt;
+}
+
+p, li {
+  orphans: 3;
+  widows: 3;
+}
+
+img {
+  display: block;
+  height: auto;
+  margin: 0.45cm auto 0.2cm;
+  max-height: 18cm;
+  max-width: 100%;
+  page-break-inside: avoid;
+}
+
+blockquote {
+  background: #f1f6f5;
+  border-left: 4pt solid #d99a3d;
+  margin: 0.55cm 0;
+  padding: 0.25cm 0.4cm;
+}
+
+table {
+  border-collapse: collapse;
+  font-size: 8.5pt;
+  margin: 0.4cm auto;
+  page-break-inside: avoid;
+  width: 100%;
+}
+
+th {
+  background: #4d585b;
+  color: #ffffff;
+}
+
+td, th {
+  border: 0.5pt solid #b9c8c9;
+  padding: 0.14cm;
+  text-align: left;
+  vertical-align: top;
+}
+
+nav#TOC {
+  background: #f5f6f5;
+  border-left: 3pt solid #4d585b;
+  border-top: 0.6pt solid #b7bec0;
+  margin: 0.8cm 0 0;
+  padding: 0.35cm 0.55cm 0.45cm;
+  page-break-after: always;
+  break-after: page;
+}
+
+nav#TOC::before {
+  color: #30383b;
+  content: "Contenido";
+  display: block;
+  font-family: Georgia, serif;
+  font-size: 16pt;
+  font-weight: 700;
+  margin-bottom: 0.18cm;
+}
+
+nav#TOC ul {
+  list-style: none;
+  margin: 0.08cm 0;
+  padding-left: 0.35cm;
+}
+
+nav#TOC li {
+  margin: 0.08cm 0;
+}
+
+nav#TOC a {
+  color: #30383b;
+  text-decoration: none;
+}
+
+h1#anexo-técnico-trazabilidad-y-límites-de-lectura {
+  break-before: page;
+  page-break-before: always;
+}
+
+h2#introducción-un-corpus-para-leer-una-agenda-institucional {
+  break-before: page;
+  page-break-before: always;
+}
+
+.cover {
+  background: #ffffff;
+  box-sizing: border-box;
+  color: #233c42;
+  display: flex;
+  flex-direction: column;
+  height: 25.7cm;
+  margin: -2cm -2.1cm -2.2cm;
+  padding: 2cm 2.3cm 0.9cm;
+  page-break-after: always;
+}
+
+.cover-logo {
+  width: 6.5cm;
+}
+
+.cover-logo img {
+  margin: 0;
+  max-width: 100%;
+}
+
+.cover-label {
+  color: #30383b;
+  font-size: 10pt;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  margin: 6.5cm 0 0.35cm;
+  text-align: left;
+}
+
+.cover-title {
+  color: #30383b;
+  font-family: Georgia, serif;
+  font-size: 27pt;
+  line-height: 1.12;
+  margin: 0;
+  max-width: 14cm;
+  text-align: left;
+}
+
+.cover-rule {
+  border: 0;
+  border-top: 1.2pt solid #4d585b;
+  margin: 0.75cm 0;
+  width: 100%;
+}
+
+.cover-meta {
+  color: #30383b;
+  font-size: 10pt;
+  margin: 0;
+  text-align: left;
+}
+
+.cover-note {
+  color: #3d484b;
+  font-size: 8.5pt;
+  line-height: 1.36;
+  margin: auto 0 0;
+  max-width: 14cm;
+  text-align: left;
+}
+
+.cover-note strong {
+  color: #30383b;
+}
+
+.page-break {
+  break-after: page;
+  page-break-after: always;
+}

@@ -18,15 +18,19 @@ Este panorama describe campos directos de los JSON canonicos. Todavia no aplica 
 
 | Categoria | Documentos |
 |---|---:|
-| Estudio técnico | 101 |
-| Sin clasificar | 84 |
-| Informe | 19 |
-| Policy brief | 12 |
+| Estudio técnico | 148 |
+| Policy brief | 27 |
+| Informe | 25 |
 | Informe insignia o Panorama | 9 |
+| Compilación | 8 |
 | Memoria de seminario | 6 |
-| Compilación | 5 |
+| Documento de referencia | 4 |
+| Guía metodológica | 3 |
+| Instrumento normativo | 3 |
+| Informe estratégico | 2 |
 | Documento de trabajo | 1 |
-| Informe estratégico | 1 |
+| Hoja de ruta o plan de acción | 1 |
+| Resumen ejecutivo | 1 |
 
 ## Divisiones
 

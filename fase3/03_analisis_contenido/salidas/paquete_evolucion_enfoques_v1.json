@@ -1,12 +1,12 @@
 {
   "version": "paquete-evidencia-v1",
   "package_id": "evolucion_enfoques",
-  "title": "Evolucion de enfoques CEPAL sobre cambio climatico, 2015-2025",
-  "generated_at": "2026-08-26T17:03:35+00:00",
+  "title": "Evolucion de enfoques CEPAL sobre cambio climatico, 2015-2026",
+  "generated_at": "2026-08-27T19:04:41+00:00",
   "base_version": "fase3-analitica-v1",
   "source": {
     "database": "C:/Users/abustamante/Cepal-lab/experimentos/cambio_climatico/fase3/02_eda/salidas/fase3_analitica_v1.sqlite",
-    "database_sha256": "234df38ee8a10a57819b3a972dce041342cabac57a00963f291d0151915f3ba3",
+    "database_sha256": "2b8ffd2bab1942e84701f32f69c90e8fa725fb3ba5581e600fc55cf11f73c8e0",
     "documents_active": 238,
     "exclusions_applied": 6
   },
@@ -24,7 +24,7 @@
     "interpellation_criteria": [],
     "year_range": [
       2015,
-      2025
+      2026
     ],
     "periods": [
       {
@@ -48,7 +48,7 @@
     ]
   },
   "limitations": [
-    "P3 es un periodo abierto: el corpus disponible llega hasta 2025.",
+    "P3 cubre 2023-2026 e incluye seis publicaciones fechadas en 2026.",
     "Las frecuencias describen presencia e intensidad de codificacion; no miden importancia sustantiva.",
     "Las citas candidatas requieren seleccion y lectura cualitativa antes de convertirse en hallazgo."
   ],

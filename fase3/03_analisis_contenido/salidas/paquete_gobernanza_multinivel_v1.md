@@ -1,8 +1,8 @@
 # Gobernanza multinivel, capacidades e implementacion
 
-**Paquete:** `gobernanza_multinivel`  
-**Generado:** `2026-08-26T17:03:36+00:00`  
-**Base:** `fase3-analitica-v1`  
+**Paquete:** `gobernanza_multinivel`
+**Generado:** `2026-08-27T19:04:41+00:00`
+**Base:** `fase3-analitica-v1`
 **Denominador:** 238 documentos activos; 6 exclusiones aplicadas.
 
 ## Seleccion
@@ -20,7 +20,7 @@
   ],
   "year_range": [
     2015,
-    2025
+    2026
   ],
   "periods": [
     {

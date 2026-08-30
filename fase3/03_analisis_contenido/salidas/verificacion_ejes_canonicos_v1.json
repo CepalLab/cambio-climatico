@@ -1,0 +1,3234 @@
+{
+  "version": "verificacion-ejes-canonicos-v1",
+  "generated_at": "2026-08-26T22:22:39+00:00",
+  "base_version": "fase3-analitica-v1",
+  "method": {
+    "input": "C:/Users/abustamante/Cepal-lab/experimentos/cambio_climatico/fase3/01_normalizacion/salidas/corpus_activo_normalizado_v1.json",
+    "input_sha256": "fb8bba656183205a15a439d6be91f041939b050cdfe2d2c9dce629d5606b3e32",
+    "documents_active": 238,
+    "exclusions_applied": 6,
+    "matching": "Regex sobre todos los valores de texto de cada JSON canonico activo; conteo por documento con al menos una coincidencia.",
+    "loss_and_damage_classification": "Clasificacion candidata por terminos de contexto; requiere revision humana antes de informar sentidos sustantivos."
+  },
+  "summaries": {
+    "perdidas_danos": {
+      "label": "Pérdidas y daños",
+      "documents": 27,
+      "documents_by_period": {
+        "P1": 2,
+        "P2": 10,
+        "P3": 15
+      },
+      "evidence_candidates": 56,
+      "candidate_senses": {
+        "evaluacion_danos_candidata": 13,
+        "politica_financiamiento_candidata": 12,
+        "requiere_revision": 31
+      }
+    },
+    "transicion_justa": {
+      "label": "Transición justa",
+      "documents": 22,
+      "documents_by_period": {
+        "P1": 1,
+        "P2": 8,
+        "P3": 13
+      },
+      "evidence_candidates": 71,
+      "candidate_senses": {}
+    },
+    "responsabilidades_diferenciadas": {
+      "label": "Responsabilidades comunes pero diferenciadas",
+      "documents": 7,
+      "documents_by_period": {
+        "P1": 3,
+        "P2": 3,
+        "P3": 1
+      },
+      "evidence_candidates": 14,
+      "candidate_senses": {}
+    }
+  },
+  "documents": [
+    {
+      "document_id": "https://hdl.handle.net/11362/3955",
+      "title": "Efectos del cambio climático en la costa de América Latina y el Caribe: dinámicas, tendencias y variabilidad climática",
+      "year": 2015,
+      "period_id": "P1",
+      "source_path": "fase2/pilot/doc01_efectos_costa.json",
+      "source_sha256": "61dc02fd86c18cb2feff08cfbe758e85b4fc3d863e5e38cafba2ac5846c97b85",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/39840",
+      "title": "Ocho tesis sobre el cambio climático y el desarrollo sostenible en América Latina",
+      "year": 2015,
+      "period_id": "P1",
+      "source_path": "fase2/pilot/doc02_ocho_tesis.json",
+      "source_sha256": "93755ab8da191784ecc2fa86b66a02f6fe1ea46da0e242d7c3eefc57c6e78fcc",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/42230",
+      "title": "The rise of green bonds: Financing for development in Latin America and the Caribbean",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/pilot/doc03_green_bonds.json",
+      "source_sha256": "5d08a16002be71cecfea8c9e33cda48ae5d3e6337b229fc0837ba571d845445a",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/42355",
+      "title": "Economía del Cambio Climático en Honduras: documento técnico 2017",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/pilot/doc04_honduras.json",
+      "source_sha256": "c20c760603dde61179f03fa8dbc92c9a20a0633c0844c3beb46fa7eb68a4e9e4",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/46101",
+      "title": "La tragedia ambiental de América Latina y el Caribe",
+      "year": 2020,
+      "period_id": "P2",
+      "source_path": "fase2/pilot/doc06_tragedia_ambiental.json",
+      "source_sha256": "5aaa6b737ee8fdb931fd46746b65ef0ae10cb02294d9dbc068162ff582ac3cdc",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/46792",
+      "title": "Reflexiones sobre la gestión del agua en América Latina y el Caribe. Textos seleccionados 2002-2020",
+      "year": 2021,
+      "period_id": "P2",
+      "source_path": "fase2/pilot/doc08_gestion_agua.json",
+      "source_sha256": "a271e57abe603b026280df0a3268e834b025d2b0824e965de4fc58352f584f08",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/48603",
+      "title": "Building a climate resilient power sector in the context of the Caribbean small island developing States' energy transition. Policy Brief",
+      "year": 2022,
+      "period_id": "P2",
+      "source_path": "fase2/pilot/doc09_caribbean_power.json",
+      "source_sha256": "9dd4d4a157d1250aa4269cb8530d280d6baf78a6662227fa308eb48274b410cb",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/47745",
+      "title": "Una década de acción para un cambio de época. Quinto informe sobre el progreso y los desafíos regionales de la Agenda 2030 para el Desarrollo Sostenible en América Latina y el Caribe",
+      "year": 2022,
+      "period_id": "P2",
+      "source_path": "fase2/pilot/doc10_agenda_2030.json",
+      "source_sha256": "719a28c537087e3b9cfc7e0200d7934bb7237447624340b373bcf71a8d7ac0a3",
+      "evidence": [
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[4].subsecciones[2].subsecciones[1].seccion",
+          "page": null,
+          "quote": "2. Políticas sociales, un componente central de la transición justa",
+          "candidate_sense": null
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/82426",
+      "title": "El impacto del cambio climático en la pobreza infantil y juvenil de América Latina",
+      "year": 2025,
+      "period_id": "P3",
+      "source_path": "fase2/pilot/doc11_pobreza_infantil.json",
+      "source_sha256": "391985833121f39ce00c9f0bd212fa2cdd46fa188da5b116fddf5653289757da",
+      "evidence": [
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[3].resumen",
+          "page": null,
+          "quote": "...rogramas combinados de salud, nutrición y cuidado temprano centrados en los primeros 1.000 días, escuelas resistentes al clima y agua y saneamiento; (2) financiamiento climático sensible a la infancia, con recursos para pérdidas y daños, mecanismos de evaluación con datos desagregados por edad y sexo, y coordinación entre sector privado, fondos multilaterales, instituciones financieras y ministerios; (3) protección social adaptativa y respuesta a emerg...",
+          "candidate_sense": "requiere_revision"
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.interpelacion.oportunidades_productivas_sostenibles.citas[1].cita",
+          "page": 26,
+          "quote": "...bre la desigualdad. El efecto neto sobre el empleo, la reconfiguración productiva o los impactos sobre los precios de los alimentos y de la energía deben ser considerados en la elaboración de políticas públicas para una transición justa",
+          "candidate_sense": null
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/48724",
+      "title": "Acción climática en la agricultura: la experiencia de países miembros de la Plataforma de Acción Climática en Agricultura de Latinoamérica y el Caribe",
+      "year": 2023,
+      "period_id": "P3",
+      "source_path": "fase2/pilot/doc12_agricultura_clima.json",
+      "source_sha256": "fa6870db0f808b0f835ab54b7984c54c54a8b26a11a5eed82e1070d852cdfa4f",
+      "evidence": [
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[1].subsecciones[7].resumen",
+          "page": null,
+          "quote": "...nos del 50% de las necesidades alimentarias y crece solo 0,8% anual frente a un crecimiento demográfico de 2,3% (Segunda Comunicación Nacional, 2013). Su CDN (2015, actualizada en 2021) prioriza adaptación y respuesta a pérdidas y daños por sobre la mitigación, con metas a 2030 de desarrollar 15 cuencas estratégicas vulnerables y proteger áreas costeras.",
+          "candidate_sense": "requiere_revision"
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/68639",
+      "title": "Comercio, cambio climático y el impuesto fronterizo al carbono",
+      "year": 2023,
+      "period_id": "P3",
+      "source_path": "fase2/pilot/doc13_carbono_frontera.json",
+      "source_sha256": "bd05bfd46f11bcc20c30ca74f94d72fbe696995c82b0d4f4de03fad14c75696d",
+      "evidence": [
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[2].subsecciones[0].resumen",
+          "page": null,
+          "quote": "Sitúa el CBAM dentro del paquete Fit for 55 (presentado el 14 de julio de 2021) y del Pacto Verde Europeo (diciembre de 2019, con un Plan de Inversión de más de 1 billón de euros y un Mecanismo de Transición Justa de ~55.000 millones de euros 2021-2027, Recuadro 2), con entrada en vigor prevista el 1 de octubre de 2023 y transición hasta 2026. Recorre las reacciones globales: preocupación por lavado verde y las directivas CSDD/CS...",
+          "candidate_sense": null
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/80727",
+      "title": "América Latina y el Caribe ante las trampas del desarrollo: transformaciones indispensables y cómo gestionarlas",
+      "year": 2024,
+      "period_id": "P3",
+      "source_path": "fase2/pilot/doc14_trampas_desarrollo.json",
+      "source_sha256": "688d49ea0a654acd154f845e3326bd35946952a92b9484d32784cd549adc8947",
+      "evidence": [
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[7].subsecciones[2].subsecciones[2].resumen",
+          "page": null,
+          "quote": "...), mecanismos de resolución de deuda soberana, capitalización de la banca multilateral (aumentos de capital del BID, BCIE, CAF, Banco Mundial) e instrumentos de derechos especiales de giro (DEG), mencionando el fondo de pérdidas y daños climáticos aprobado en la COP 28 como ejemplo reciente.",
+          "candidate_sense": "politica_financiamiento_candidata"
+        },
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[7].subsecciones[2].subsecciones[2].dimensiones[0].cita",
+          "page": 280,
+          "quote": "...noviembre de 2023, durante el 28º período de sesiones de la Conferencia de las Partes en la Convención Marco de las Naciones Unidas sobre el Cambio Climático, los países desarrollados aprobaron la operación del fondo de pérdidas y daños, un tema que había estado en la agenda de desarrollo en las últimas tres décadas.",
+          "candidate_sense": "politica_financiamiento_candidata"
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/37310",
+      "title": "La economía del cambio climático en América Latina y el Caribe: paradojas y desafíos del desarrollo sostenible",
+      "year": 2015,
+      "period_id": "P1",
+      "source_path": "fase2/pilot/doc15_paradojas_desafios.json",
+      "source_sha256": "ebf4432e6900388cf9c5eb8935e953f1e8101af765d93a7b38af93550acd7070",
+      "evidence": [
+        {
+          "concept_id": "responsabilidades_diferenciadas",
+          "path": "$.resumen_enriquecido.conclusiones_recomendaciones.recomendaciones[0]",
+          "page": null,
+          "quote": "Instrumentar de forma simultánea los procesos de adaptación y de mitigación, reconociendo responsabilidades comunes pero diferenciadas y capacidades heterogéneas entre países, en el marco de un acuerdo climático global (p.67, p.85).",
+          "candidate_sense": null
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/43301",
+      "title": "Acceso a la información, la participación y la justicia en asuntos ambientales en América Latina y el Caribe: hacia el logro de la Agenda 2030 para el Desarrollo Sostenible",
+      "year": 2018,
+      "period_id": "P1",
+      "source_path": "fase2/pilot/doc16_acceso_informacion.json",
+      "source_sha256": "6c2499f5412e1a4ad34ce4ad7de3eb75d85a7a98fa560df6afdf1194b78c8908",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/67989",
+      "title": "Estudio Económico de América Latina y el Caribe 2023. El financiamiento de una transición sostenible: inversión para crecer y enfrentar el cambio climático",
+      "year": 2023,
+      "period_id": "P3",
+      "source_path": "fase2/pilot/doc17_estudio_economico_2023.json",
+      "source_sha256": "0cb2166e8714ca69ade4d90009507669c6ceac47587c389379229465c33337be",
+      "evidence": [
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[1].subsecciones[1].subsecciones[4].resumen",
+          "page": null,
+          "quote": "...es (3% a 8% del PIB) para cerrar brechas de infraestructura y alcanzar los Objetivos de Desarrollo Sostenible, aunque estas últimas rara vez incluyen inversión en educación, salud y protección social necesarias para una transición justa.",
+          "candidate_sense": null
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/69031",
+      "title": "La economía del cambio climático en América Latina y el Caribe, 2023: necesidades de financiamiento y herramientas de política para la transición hacia economías con bajas emisiones de carbono y resilientes al cambio climático",
+      "year": 2024,
+      "period_id": "P3",
+      "source_path": "fase2/pilot/doc18_financiamiento_transicion.json",
+      "source_sha256": "d6a698a0109feea9be487642898661e11454fa91bc49d8def9c5f088c40a567c",
+      "evidence": [
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_enriquecido.resumen_narrativo",
+          "page": null,
+          "quote": "...ua, el Perú y la República Dominicana. Cierra con un llamado a integrar el cambio climático en las evaluaciones de impacto ambiental y a fortalecer la democracia ambiental bajo el Acuerdo de Escazú como condición de una transición justa.",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[3].resumen",
+          "page": null,
+          "quote": "...omías y análisis de riesgo financiero climático, instrumentos de fijación de precios del carbono e integración del clima en la evaluación ambiental, y democracia ambiental bajo el Acuerdo de Escazú como condición de una transición justa e informada.",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.interpelacion.como_hacerlo_concreto.desglose_items[3].item",
+          "page": 59,
+          "quote": "...cuerdo de Escazú (acceso a información climática, participación pública en políticas/planes/CDN, sistemas de alerta temprana, justicia ambiental y protección de defensores) como base de pactos de mitigación/adaptación y transición justa.",
+          "candidate_sense": null
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/69075",
+      "title": "Panorama de la Gestión Pública en América Latina y el Caribe, 2023: un Estado preparado para la acción climática",
+      "year": 2024,
+      "period_id": "P3",
+      "source_path": "fase2/pilot/doc19_gestion_publica.json",
+      "source_sha256": "dab202c304f29f7a75faf4acc6e378cd383c1dfb915fd0db0df08a242980eb9a",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/37791",
+      "title": "El desafío de la sostenibilidad ambiental en América Latina y el Caribe. Textos seleccionados 2012-2014",
+      "year": 2015,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_37791.json",
+      "source_sha256": "36418d9ba81d451dba1c54329e4262db01f5ef151853b4614d42aae2ed1cb390",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/37879",
+      "title": "Impactos económicos del cambio climático en Colombia. Síntesis",
+      "year": 2015,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_37879.json",
+      "source_sha256": "3e8a3914c6fe7df9ce3ff28d51799ed16982a1d9b14ebfc8dd4acb79218b3825",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/37910",
+      "title": "Financiamiento para el cambio climático en América Latina en 2013",
+      "year": 2015,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_37910.json",
+      "source_sha256": "62979e11dfd4d10b56ac9d31c338b1c3714f96ccea7c0402122d9532588cf26c",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/37911",
+      "title": "Agricultura y cambio climático: economía y modelación. Memoria del cuarto seminario regional de agricultura y cambio climático",
+      "year": 2015,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_37911.json",
+      "source_sha256": "d4579f46aa28fb5f75591826e89d9cb2c9194c3e72478b827a2daf05c757171c",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/37955",
+      "title": "The effects of climate change in the coastal areas of Latin America and the Caribbean: impacts",
+      "year": 2015,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_37955.json",
+      "source_sha256": "68a0201d75b4d881dfdf04354f3de48b0c0abf9eb5502b0c9e70a5828158e227",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/38120",
+      "title": "Investigación científica en agricultura y cambio climático en América Latina y el Caribe",
+      "year": 2015,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_38120.json",
+      "source_sha256": "9d19895e4d052644cc04062edc556c33492c4841860fbc7ac60b27e9552ebda3",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/38274",
+      "title": "La incertidumbre de los recursos hídricos y sus riesgos frente al cambio climático: herramientas para los tomadores de decisiones de los sectores público y privado",
+      "year": 2015,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_38274.json",
+      "source_sha256": "77362e2536e001382b139f0ef919054a84742c38d9e2f7278c8e9f2843bca571",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/38985",
+      "title": "Sostenibilidad ambiental y competitividad internacional: la huella de carbono de las exportaciones de alimentos",
+      "year": 2015,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_38985.json",
+      "source_sha256": "9b91993183f2e21732a835cd6b621c3d197eba67f22524dd7d465aa7b5134cfd",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/39009",
+      "title": "Evaluación de los impactos del cambio climático sobre la salud: economía del cambio climático en la Argentina",
+      "year": 2015,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_39009.json",
+      "source_sha256": "19ef92c53a54baff5249cb7b411f4a308084f9a026d4861075efbc8f3ed958e0",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/39089",
+      "title": "The Economics of Climate Change in Central America: Summary 2012",
+      "year": 2015,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_39089.json",
+      "source_sha256": "0393a228546c77ec2a55adfbbacb3ac4665e88198689ff5aad560809fff790aa",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/39135",
+      "title": "Emisiones de gases de efecto invernadero y mitigación en el sector de uso del suelo, cambio en el uso del suelo y silvicultura. Economía del cambio climático en la Argentina",
+      "year": 2015,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_39135.json",
+      "source_sha256": "868eae118589b551f02cb21ca516584453dd6847c9c30b905f35fea7d1c8a594",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/39140",
+      "title": "Impactos y vulnerabilidad al cambio climático de los principales ríos de Mendoza y San Juan a partir de la evolución de los glaciares cordilleranos. La economía del cambio climático en la Argentina",
+      "year": 2015,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_39140.json",
+      "source_sha256": "ebe7f003ea339a6a616044b515281c270cc7a560acc6010ed21a859d2dd30567",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/39149",
+      "title": "Cambio climático en Centroamérica: Impactos potenciales y opciones de política pública",
+      "year": 2015,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_39149.json",
+      "source_sha256": "71e3eb9836613242bb7caff7918a7277fcfa175bcfa5e72c9d462690a0ca12d3",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/39286",
+      "title": "The Caribbean and the post-2015 development agenda",
+      "year": 2015,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_39286.json",
+      "source_sha256": "10477c88ba87b906359bb4d7ada79d5248d98b23af3e31e5723d759394124062",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/39360",
+      "title": "Emisiones de gases de efecto invernadero y mitigación en el sector residuos. La economía del cambio climático en la Argentina",
+      "year": 2015,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_39360.json",
+      "source_sha256": "e7609740d01e54d0c2d0d874c9e7c9136f3d9eccdf5abf02969666c2e51a2ee8",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/39367",
+      "title": "Financiamiento para el cambio climático en América Latina y el Caribe en 2014",
+      "year": 2015,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_39367.json",
+      "source_sha256": "ce4779c7615ba0f7ab3bb1041cc1fe6e7e5c67dc69f0c6bb9bcadb2eb6adadf3",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/39407",
+      "title": "Producto interno bruto, pobreza y cambio climático en Centroamérica: una exploración metodológica inicial",
+      "year": 2015,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_39407.json",
+      "source_sha256": "1936b4ac50ed7d85efe7d1bbc2afa977363498cdc48e05d490282743538ff542",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/39534",
+      "title": "Innovaciones institucionales y en políticas sobre agricultura y cambio climático: evidencia en América Latina y el Caribe",
+      "year": 2015,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_39534.json",
+      "source_sha256": "bb47a39e81586dee9526e4f432e21c1f678b45a637c41e833d73be2c32822fdb",
+      "evidence": [
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[1].dimensiones[0].cita",
+          "page": 21,
+          "quote": "El cambio climático plantea desafíos para el crecimiento y el desarrollo en América Latina y el Caribe. Los eventos extremos que han enfrentado la región y los países en particular, muestran que ha habido pérdidas y daños significativos en bienes públicos como la infraestructura, así como en pérdidas humanas y económicas.",
+          "candidate_sense": "evaluacion_danos_candidata"
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/39661",
+      "title": "Federalismo ambiental en América Latina: una revisión",
+      "year": 2015,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_39661.json",
+      "source_sha256": "57f5df8b0d248518c0a9729d68497a2a8c68a7ffdab957ba6fd109376bad9c86",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/39751",
+      "title": "El cambio climático y la energía en América Latina",
+      "year": 2015,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_39751.json",
+      "source_sha256": "2afde5f3819e5c1e9b09ebf339fa841047b9d602ba8eeb23aa5f787c0f7d82c3",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/39752",
+      "title": "Estilos de desarrollo, heterogeneidad estructural y cambio climático en América Latina",
+      "year": 2015,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_39752.json",
+      "source_sha256": "a687d657da1f0fa0f13c791f3260bf2a27ca8bfef7e3e9a2e746e54689aa9df5",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/39781",
+      "title": "Medidas de adaptación y mitigación frente al cambio climático en América Latina y el Caribe: Una revisión general",
+      "year": 2015,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_39781.json",
+      "source_sha256": "4771c95d18d48c90b9b8c82913a12c0a3f05d7847b803d4955afcc7cd467e1ce",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/39824",
+      "title": "Cambio climático y actividades agropecuarias en América Latina",
+      "year": 2015,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_39824.json",
+      "source_sha256": "3ba1003e7978ae1a5207e14e9a70d6fc79232c1b34722ad03c800b00abe0cbfa",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/39842",
+      "title": "Adaptación al cambio climático en América Latina y el Caribe",
+      "year": 2015,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_39842.json",
+      "source_sha256": "811568e05f40e7ba368034982232f5278bb498bfcb03939f5911db9671ced002",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/39843",
+      "title": "Sendas de desarrollo bajas en carbono en ciudades metropolitanas de América Latina",
+      "year": 2015,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_39843.json",
+      "source_sha256": "e6f9efd6f361d266d3c71ca431034b798d9f75720e443d209a950b380fe42e73",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/39855",
+      "title": "El cambio climático y sus efectos en la biodiversidad en América Latina",
+      "year": 2015,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_39855.json",
+      "source_sha256": "20307ec3eb181e7a3a3d4e4eec444c1191385c5a5c5fff0fb2e39d3b3d5cb3aa",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/39977",
+      "title": "Reflexiones sobre el desarrollo en América Latina y el Caribe: conferencias magistrales 2015",
+      "year": 2016,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_39977.json",
+      "source_sha256": "a3b4db9a564d82531b72570cbb0e8cbf4ada382ab617dcc3591c77e0e473b18a",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/40159",
+      "title": "Horizontes 2030: la igualdad en el centro del desarrollo sostenible",
+      "year": 2016,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_40159.json",
+      "source_sha256": "0877f929674570986470ca03b25d4ec4749402674999cb1b238115b11f5b154b",
+      "evidence": [
+        {
+          "concept_id": "responsabilidades_diferenciadas",
+          "path": "$.resumen_secciones[0].subsecciones[4].resumen",
+          "page": null,
+          "quote": "La sección presenta los 17 ODS y los ejes normativos de la Agenda 2030: derechos, igualdad sustantiva, empleo, género, responsabilidades comunes pero diferenciadas, indivisibilidad, participación y rendición de cuentas. También identifica desajustes entre objetivos, metas e indicadores y advierte que la agenda carece de una gobernanza global eficaz y puede quedar en declaraciones...",
+          "candidate_sense": null
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/40253",
+      "title": "Proposal on debt for climate adaptation swaps: a strategy for growth and economic transformation of Caribbean economies",
+      "year": 2016,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_40253.json",
+      "source_sha256": "e6ce074987f7c6344b7ce584f132b7d024435558caedda3cb19edc7c6c946c07",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/40297",
+      "title": "Efectos distributivos de las políticas públicas para la mitigación del cambio climático en América Latina: una aproximación con un meta-análisis",
+      "year": 2016,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_40297.json",
+      "source_sha256": "f9a98b651d6173a828b082260c991f1cf6c271da9d5754084ce9330279904274",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/40299",
+      "title": "Agrobiodiversidad, agricultura familiar y cambio climático",
+      "year": 2016,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_40299.json",
+      "source_sha256": "c1cb0fec5aef6705bb4b333efe8a20c62ded95f760e49bc7a2059ed87ebcb9ef",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/40308",
+      "title": "Evaluaciones del desempeño ambiental: Chile 2016",
+      "year": 2016,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_40308.json",
+      "source_sha256": "d41efcb0f28c692f4c90b9593d157570c1c85f53c19588cb7f4c1dc5b18788c8",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/40642",
+      "title": "Generación de bases de datos climáticos para el análisis de riesgos en las costas de Santa Catarina (Brasil)",
+      "year": 2016,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_40642.json",
+      "source_sha256": "94942247fa0edf44d3d733108eddeffbe53280db416a1ad4271baf57d1e44e17",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/40669",
+      "title": "La Unión Europea y América Latina y el Caribe ante la Agenda 2030 para el Desarrollo Sostenible: el gran impulso ambiental",
+      "year": 2016,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_40669.json",
+      "source_sha256": "40f0d7856df23b3349aaa9450958e13fbdcba2360498ccd63a56af750b7d8f0d",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/40708",
+      "title": "La Economía del Cambio Climático en Honduras: Mensajes Clave 2016",
+      "year": 2016,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_40708.json",
+      "source_sha256": "bb5243f5f640c86e9a76614ec62a7b7433af772054615e4a02aa137350c8fa23",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/40841",
+      "title": "Cambio climático, políticas públicas y demanda de energía y gasolinas en América Latina: Un meta-análisis",
+      "year": 2016,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_40841.json",
+      "source_sha256": "026ab3651e301c7ea6946590c2d930183b3a6e6c2f56a3889b6bf2150da713f6",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/40843",
+      "title": "Avaliação do Fundo Clima",
+      "year": 2016,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_40843.json",
+      "source_sha256": "86099194e651c1899d712ad94dd3dfb1824d2cc109aade94dfa38935df142100",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/40867",
+      "title": "De los cambios cuadráticos a los cambios exponenciales: relación entre estructura económica y sostenibilidad",
+      "year": 2016,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_40867.json",
+      "source_sha256": "5e9b03aad5e6f96504ffe971f5db50449f2578176886eb16921877e08f659c0e",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/40887",
+      "title": "Factibilidad legal, regulatoria e institucional de la participación del Banco de Fomento Agropecuario de El Salvador en los seguros agropecuarios",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_40887.json",
+      "source_sha256": "a0f2dbfc0acedef243c7db1f6af068842c10dc128d88980aa62c29721615adab",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/40895",
+      "title": "OCDE - Avaliações de Desempenho Ambiental: Brasil 2015",
+      "year": 2016,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_40895.json",
+      "source_sha256": "7e6f4f3301faeb4d67d3fedf6816b5f7ea399b7dc112d25ed8f3f319c14b1cca",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/40922",
+      "title": "Cambio climático y políticas públicas forestales en América Latina: una visión preliminar",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_40922.json",
+      "source_sha256": "38a63e67dd032d7409c8a35d89b110404b8068524fcb96bef724d51a6e487885",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/41010",
+      "title": "Financiamiento para el cambio climático en América Latina y el Caribe en 2015",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_41010.json",
+      "source_sha256": "b7ecdad589de907e688791ffef397475f5cd64498418c9016b8753a323412efe",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/41041",
+      "title": "Vulnerabilidad y adaptación de las ciudades de América Latina al cambio climático",
+      "year": 2016,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_41041.json",
+      "source_sha256": "26a69f5df7032deb76f52fa54f9f1f5b4847ca7da97f518f34968ba6b6125d96",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/41101",
+      "title": "La transversalización del enfoque de género en las políticas públicas frente al cambio climático en América Latina",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_41101.json",
+      "source_sha256": "3935939ca960869b9086393a99f033aa04d4f0dfd1c4614d814a13139b0b5976",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/41173",
+      "title": "Informe anual sobre el progreso y los desafíos regionales de la Agenda 2030 para el Desarrollo Sostenible en América Latina y el Caribe",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_41173.json",
+      "source_sha256": "b7578bb1f49ece2f5699db8d6be7602cb0b8d28070ed6825b32a7f3d64de45a4",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/41783",
+      "title": "Estimación de costos asociados a la seguridad hídrica en la agricultura como medida de adaptación al cambio climático en Chile",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_41783.json",
+      "source_sha256": "88b3b6b54fb1ea64f80e3954d12d498224559c4d4aa56d10ba0b5acd4182315a",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/41830",
+      "title": "Valoración económica de los cobeneficios del aprovechamiento energético de los residuos agrícolas en el Ecuador",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_41830.json",
+      "source_sha256": "d81ece79f8f5db685aec576622aa2903f52ba11792e3e0b65b2f93f228fd271d",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/41832",
+      "title": "Metodologías para apoyar la estimación de costos en la implementación del Plan Nacional de Adaptación y Mitigación al Cambio Climático en Guatemala",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_41832.json",
+      "source_sha256": "9a6115719e4f5492ae537341f61193135ad1699be1a148445f39dec4ee719d9c",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/41867",
+      "title": "Efectos potenciales de un impuesto al carbono sobre el producto interno bruto en los países de América Latina",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_41867.json",
+      "source_sha256": "0d358c3e03d1888d79591a43a2a09764bee52f26e0e394ea38d13709e62acd2c",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/42057",
+      "title": "Identificación de instrumentos económicos, financieros, regulatorios y fiscales implementados por el Gobierno del Perú para un enfoque integrado del cambio climático",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_42057.json",
+      "source_sha256": "c68b1567406b8c21c51d200a02712179490291d3ecbeb49c857bf1780bb0acf6",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/42140",
+      "title": "Energía, cambio climático y desarrollo sostenible: los desafíos para América Latina",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_42140.json",
+      "source_sha256": "f2d8e32cfc221d1e43b87db27c617a59c928766656d90e4e137c281068508e98",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/42154",
+      "title": "Informe del seminario sobre metodologías para el análisis de los potenciales impactos del cambio climático sobre la seguridad alimentaria y tradicional en los países del sistema de la integración Centroamericana (SICA)",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_42154.json",
+      "source_sha256": "eefba24c18965372e00421d726de10d5097c41af73277b47800c828facfada38",
+      "evidence": [
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[8].dimensiones[2].cita",
+          "page": 13,
+          "quote": "los próximos pasos deben ser: a nivel regional fortalecer el trabajo de los países para impulsar el Mecanismo de Daños y Pérdidas, velar por el cumplimiento de los ODS",
+          "candidate_sense": "politica_financiamiento_candidata"
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/42175",
+      "title": "Mainstreaming disaster risk management strategies in development instruments: Policy briefs for selected member countries of the Caribbean Development and Cooperation Committee",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_42175.json",
+      "source_sha256": "e01b4fc4f8b7d0cce7b46a1b5752b4a42dd5de61a0ce11347cf15335227ea626",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/42228",
+      "title": "La economía del cambio climático en América Latina y el Caribe: una visión gráfica",
+      "year": 2018,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_42228.json",
+      "source_sha256": "8c98963b7a0ddf60a3533516e3c2940e9afea6dbcbccc03033b4a3677b0ef42a",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/42426",
+      "title": "Impactos potenciales del cambio climático en el ámbito hidroeléctrico en Panamá y la República Dominicana",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_42426.json",
+      "source_sha256": "66f054b7fc53b1d7a326fd5250e881332e938443ab3d90b13749cf5f7c4164c1",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/42527",
+      "title": "Evaluaciones del desempeño ambiental: Perú",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_42527.json",
+      "source_sha256": "4d5bf261ab10e5ae21892f9d164d8ba5980457aa3d03d30325bdac1b3153e9d5",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/42723",
+      "title": "Estimación del valor económico de la captura de carbono por efecto de la forestación en el Uruguay",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_42723.json",
+      "source_sha256": "b137c9f72842efcd34dd08042a8e239561774d4d88a286bb432ceb22ef1c6ae1",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/42725",
+      "title": "Portafolio de políticas públicas de adaptación al cambio climático y mitigación de sus efectos con beneficios adicionales o 'sin arrepentimiento' en América Latina",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_42725.json",
+      "source_sha256": "185c9b4743661163f7680ebd17250faf58fd16ce0331f8e62175f5134179273c",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/43123",
+      "title": "Políticas públicas sectoriales para el cambio climático en América Latina: una aproximación",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_43123.json",
+      "source_sha256": "906e260c88d790d1bbbef151c92949f2a529d2a6a47f99d93bbb1efdc21f0278",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/43159",
+      "title": "Estudio de las opciones y repercusiones de la aplicación de un sistema de permisos comercializables para la reducción de emisiones de carbono en Panamá",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_43159.json",
+      "source_sha256": "33a6b2f1dce0b33d651204c9a568fc67865ecfea20d1a86c57742df6b7937757",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/43407",
+      "title": "Impactos, medidas de adaptación y costos sociales del cambio climático en el sector agrícola del Estado Plurinacional de Bolivia: La vinculación de políticas microeconómicas y macroeconómicas para un desarrollo sostenible",
+      "year": 2018,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_43407.json",
+      "source_sha256": "ff1a9e2cdddaaeb247164f07c6e6decdd2134fe2086e406105b8cf3c52504ebe",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/43415",
+      "title": "Segundo informe anual sobre el progreso y los desafíos regionales de la Agenda 2030 para el Desarrollo Sostenible en América Latina y el Caribe",
+      "year": 2018,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_43415.json",
+      "source_sha256": "dfac379250564722559600de2413966166880bb962cf70531fad47f9ab942fb3",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/43419",
+      "title": "Análisis económico y ambiental de las contribuciones previstas determinadas a nivel nacional presentadas en América Latina y el Caribe: posibles impactos en las metas planteadas",
+      "year": 2018,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_43419.json",
+      "source_sha256": "52e6e8514bd04fdac39da3fc047708d44bc13a111334b921ee15a8f7566c11fd",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/43442",
+      "title": "La ineficiencia de la desigualdad",
+      "year": 2018,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_43442.json",
+      "source_sha256": "cdebf236933a4ab9ee00f525a9dd2607b5ce26a7c992f782fcb45639b08c1a86",
+      "evidence": [
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_enriquecido.conclusiones_recomendaciones.recomendaciones[3]",
+          "page": null,
+          "quote": "Proteger el acceso universal a bienes y servicios públicos y sostener una transición justa para hogares y territorios expuestos a costos de adaptación, reconversión o pobreza energética.",
+          "candidate_sense": null
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/43581",
+      "title": "The Caribbean Outlook, 2018",
+      "year": 2018,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_43581.json",
+      "source_sha256": "cddb091f0cf8c08f049e826f6438685240fea6090f01f40f4a01724bce177591",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/43583",
+      "title": "Regional Agreement on Access to Information, Public Participation and Justice in Environmental Matters in Latin America and the Caribbean",
+      "year": 2018,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_43583.json",
+      "source_sha256": "6b0d0ec9ed8a8a99e248f0844e9b948e5641a4abfeca42593c7733eda0631ca2",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/43725",
+      "title": "La economía del cambio climático en Guatemala • Documento técnico 2018",
+      "year": 2018,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_43725.json",
+      "source_sha256": "687fe2576f08552e17f8e7b4e560d8462adcb6ffabd0939d415df719589c5cd0",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/43825",
+      "title": "Contribuciones a un gran impulso ambiental en América Latina y el Caribe: bioeconomía",
+      "year": 2018,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_43825.json",
+      "source_sha256": "8f8e49255a9cfc0d6b1ebf058c10d3d2df0425ff54a357447cb351fafc112ce1",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/44056",
+      "title": "Cambio climático y seguridad alimentaria y nutricional en Centroamérica y la República Dominicana: propuestas metodológicas",
+      "year": 2018,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_44056.json",
+      "source_sha256": "96d08366f5a626b5a843071b1f35be9f70b205372125b1ad366cd6d9957ae394",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/44096",
+      "title": "Efectos del cambio climático en la costa de América Latina y el Caribe: metodologías y herramientas para la evaluación de impactos de la inundación y la erosión por efecto del cambio climático",
+      "year": 2018,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_44096.json",
+      "source_sha256": "b49d1369f5868b406d8897373caf6754fe64f389bfac408116fe61d9d4131778",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/44102",
+      "title": "Efectos del cambio climático en la costa de América Latina y el Caribe: reconstrucción histórica y proyecciones del efecto del cambio climático sobre el oleaje en la costa de Cuba",
+      "year": 2018,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_44102.json",
+      "source_sha256": "7a92ae46e858459afd8151224e3c54c3179d255cf72e7f3bdf3ea35dedfdaedd",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/44103",
+      "title": "Efectos del cambio climático en la costa de América Latina y el Caribe: evaluación de los sistemas de protección de los corales y manglares de Cuba",
+      "year": 2018,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_44103.json",
+      "source_sha256": "0756f5056a6d6c609803e3069eae21d8e8843f9e7475bd8dbdb6cf4fbdb71e2a",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/44162",
+      "title": "Acompañamiento técnico y fortalecimiento de capacidades de los productores agropecuarios en el contexto del cambio climático en Costa Rica: líneas de acción para la revitalización del servicio de extensión agropecuaria del Ministerio de Agricultura y Ganadería (MAG)",
+      "year": 2018,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_44162.json",
+      "source_sha256": "b04824dccfc4ef2c51522b8a9db8df85cb0de628ab5de31b07ce8cfaa682fb8a",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/44163",
+      "title": "Café y cambio climático en la República Dominicana: Impactos potenciales y opciones de respuesta",
+      "year": 2018,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_44163.json",
+      "source_sha256": "a8741a3ac4b397d2128a31cde9052fdfaf5f3c08ecf71245e4d0373e9133da21",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/44210",
+      "title": "El impuesto óptimo a la gasolina en Guatemala",
+      "year": 2018,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_44210.json",
+      "source_sha256": "fa69c51270bf95960fe08b412c97c73b8bcafd124a41b3b4eac08a386ce74766",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/44216",
+      "title": "Política económica y contribuciones determinadas a nivel nacional en los países de América Latina y el Caribe",
+      "year": 2018,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_44216.json",
+      "source_sha256": "76e9c9cf8ea0f45afcbc9ddc12e0636ea7a8f7c45919e5e44a8ecf8d00131023",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/44218",
+      "title": "Potenciar la resiliencia de las ciudades y sus territorios de pertenencia en el marco de los acuerdos sobre cambio climático y de la Nueva Agenda Urbana",
+      "year": 2018,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_44218.json",
+      "source_sha256": "3e58bb95eb5fbcc11e9106c52573cbb4058c96ec1d57bc52908e8d3843fe1ef6",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/44280",
+      "title": "Estimación del impacto del cambio climático sobre los principales cultivos de 14 países del Caribe",
+      "year": 2018,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_44280.json",
+      "source_sha256": "ba43946bd3affa9c50879eb5a3afdfcf1b93c6605bbc6aa6204bcccc7b067cc3",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/44371",
+      "title": "Ruralidad, hambre y pobreza en América Latina y el Caribe",
+      "year": 2018,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_44371.json",
+      "source_sha256": "b152aeaa66692a47a98fe25df1a7ff0da33958e05a5974f53587ca163c8760a5",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/44472",
+      "title": "Mainstreaming disaster risk management strategies in development instruments (II): policy briefs for Barbados, Guyana, Saint Lucia, Suriname, and Trinidad and Tobago",
+      "year": 2019,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_44472.json",
+      "source_sha256": "6e7441bcbaa9721c97d7d43061bd935786c3c814a60c825f9f571da494277295",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/44486",
+      "title": "A economia da mudança climática na América Latina e no Caribe: uma visão gráfica",
+      "year": 2019,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_44486.json",
+      "source_sha256": "cef0761fa27a4eec243b39eea1abb32799a17ece444c9d5f7737b939d2dc67dc",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/44487",
+      "title": "Cuarto informe sobre financiamiento para el cambio climático en América Latina y el Caribe, 2013-2016",
+      "year": 2019,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_44487.json",
+      "source_sha256": "ea58e4a60ca3ab34fe20d00acca87ea9c4b3949f121ca0bd2cee5352db6711d9",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/44551",
+      "title": "Informe de avance cuatrienal sobre el progreso y los desafíos regionales de la Agenda 2030 para el Desarrollo Sostenible en América Latina y el Caribe",
+      "year": 2019,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_44551.json",
+      "source_sha256": "af461d464921af14fac15048acdddab5a61c123718d341927029051f9dbb6f9e",
+      "evidence": [
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[6].subsecciones[6].dimensiones[0].cita",
+          "page": 224,
+          "quote": "...de cooperación; y por estar situados en una de las subregiones más vulnerables respecto a los fenómenos naturales extremos, potenciados por el cambio climático, sufren de choques externos reiterados que generan grandes pérdidas y daños acumulativos.",
+          "candidate_sense": "politica_financiamiento_candidata"
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/44584",
+      "title": "Minería para un futuro bajo en carbono: oportunidades y desafíos para el desarrollo sostenible",
+      "year": 2019,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_44584.json",
+      "source_sha256": "7520dad64167823eb5d760730942275ba61fe0e32efe5f964f4ddb74c32b8add",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/44590",
+      "title": "Logros y desafíos de la integración centroamericana: aportes de la CEPAL",
+      "year": 2019,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_44590.json",
+      "source_sha256": "28a9cb9e2afe67c24a6a25ed6cd06052ea6104c1d7daa77c100023dbfd69c129",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/44640",
+      "title": "Hacia una bioeconomía sostenible en América Latina y el Caribe: elementos para una visión regional",
+      "year": 2019,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_44640.json",
+      "source_sha256": "4c4b4bbe0e206182fbb9a23b7059ae218f0ef4fe4b777c54a528b454c0a1f8b5",
+      "evidence": [
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[2].subsecciones[3].resumen",
+          "page": null,
+          "quote": "Se abordan consideraciones preventivas esenciales para una transición justa y balanceada: gestionar las pérdidas económicas del sector fósil frente a los nuevos sectores bioeconómicos, prevenir la competencia en el uso de la tierra entre alimentos y bioenergía mediante la economía circular, cer...",
+          "candidate_sense": null
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/44970",
+      "title": "Cambio climático y derechos humanos: contribuciones desde y para América Latina y el Caribe",
+      "year": 2019,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_44970.json",
+      "source_sha256": "5c476d89bb5d0e233dd4497fc588746c6d62cce832190653f8272c1a1852a776",
+      "evidence": [
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[0].subsecciones[1].resumen",
+          "page": null,
+          "quote": "En esta sección se fundamenta la obligación legal y ética de incorporar un enfoque basado en derechos humanos en todas las fases de la gobernanza y acción climática (mitigación, adaptación, financiamiento y pérdidas y daños). Se detalla que un enfoque de derechos no es únicamente un imperativo normativo sino también un instrumento de eficacia que fortalece la legitimidad social, previene perjuicios colaterales de proyectos de mitigación y...",
+          "candidate_sense": "politica_financiamiento_candidata"
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/44974",
+      "title": "Panorama de las contribuciones determinadas a nivel nacional en América Latina y el Caribe, 2019: avances para el cumplimiento del Acuerdo de París",
+      "year": 2019,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_44974.json",
+      "source_sha256": "e4b3d01ad8fe72c575dbe6394206871327bc51b397ad33f46b56ac1cc43f0a15",
+      "evidence": [
+        {
+          "concept_id": "responsabilidades_diferenciadas",
+          "path": "$.resumen_secciones[2].subsecciones[4].dimensiones[0].cita",
+          "page": 55,
+          "quote": "...nes Unidas sobre el Cambio Climático, celebrado en Lima en 2014, se presentó un gran avance en las bases del Acuerdo de París, pues se asumió el compromiso de alcanzar un acuerdo ambicioso, que reflejase el principio de responsabilidades comunes pero diferenciadas según las respectivas capacidades y las diferentes circunstancias nacionales.",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "responsabilidades_diferenciadas",
+          "path": "$.resumen_secciones[2].subsecciones[4].dimensiones[0].comentario",
+          "page": 55,
+          "quote": "Examina el principio de responsabilidades comunes pero diferenciadas y la exigencia de progresividad en la ambición de las contribuciones nacionales.",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.interpelacion.oportunidades_productivas_sostenibles.evidencia",
+          "page": null,
+          "quote": "...l se formula mediante menciones conceptuales o aspiracionales aisladas (p.10, p.44), sin incorporar modelos econométricos laborales cuantitativos, estimaciones de puestos de trabajo generados ni mecanismos explícitos de transición justa de la fuerza laboral.",
+          "candidate_sense": null
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/45023",
+      "title": "Índices climáticos, políticas de aseguramiento agropecuario y gestión integral de riesgos en Centroamérica y la República Dominicana: experiencias internacionales y avances regionales",
+      "year": 2019,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_45023.json",
+      "source_sha256": "6b63b794cefe1706f2ff3de712f633c7a2fdf113fcf89aafe5bc549d83dca9a8",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/45046",
+      "title": "Study on trends in energy efficiency in selected Caribbean countries",
+      "year": 2019,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_45046.json",
+      "source_sha256": "0358dde0bdd2d016420fd2e17b7042bbf1e99531afcc69491e49a535f82851b0",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/45066",
+      "title": "Synthesis of the Caribbean subregion midterm review report of the Small Island Developing States (SIDS) Accelerated Modalities of Action (SAMOA) Pathway",
+      "year": 2020,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_45066.json",
+      "source_sha256": "e312e4563e53a168bb0b51b092f7f627cca2aedeb65f665722d84d18cf5c02f4",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/45098",
+      "title": "The enhancement of resilience to disasters and climate change in the Caribbean through the modernization of the energy sector",
+      "year": 2020,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_45098.json",
+      "source_sha256": "428f8589c00766d8a9c1aa2d6de3f5c9e72b01dbff548c69f9028f348254d6f0",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/45108",
+      "title": "Promoting debt sustainability to facilitate financing sustainable development in selected Caribbean countries: A scenario analysis of the ECLAC debt for climate adaptation swap initiative",
+      "year": 2020,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_45108.json",
+      "source_sha256": "6af50b6a36ad52c268e7ace91deb87da60fe9181ca70c0aaf0d7a399f2a54847",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/45111",
+      "title": "Perspectivas de la agricultura y del desarrollo rural en las Américas: una mirada hacia América Latina y el Caribe 2019-2020",
+      "year": 2020,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_45111.json",
+      "source_sha256": "75f09f3809ceca0c1a696664bf0d4fc6be42c26b6e87ce4507af1228eb3eb6fb",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/45252",
+      "title": "La gestión y manejo de residuos sólidos y sus propuestas regulatorias e impositivas",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_45252.json",
+      "source_sha256": "c79565a76632988b658d4c9668eb1b957829732cb5cf1dc988f0655d05776e65",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/45604",
+      "title": "Iniciativas para transparentar los aspectos ambientales y sociales en las cadenas de abastecimiento de la minería: tendencias internacionales y desafíos para los países andinos",
+      "year": 2020,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_45604.json",
+      "source_sha256": "a31c566e7118d6f2f529030df70ca44f3f54d0e3a9b9716383c59409c3caeec4",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/45677",
+      "title": "La emergencia del cambio climático en América Latina y el Caribe: ¿seguimos esperando la catástrofe o pasamos a la acción?",
+      "year": 2020,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_45677.json",
+      "source_sha256": "e0f44ec63dfc933c593c03962472ba060cef5b5a6b4944731ec6e14c70fc6136",
+      "evidence": [
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[3].subsecciones[0].subsecciones[2].dimensiones[1].cita",
+          "page": 123,
+          "quote": "La estimación de las pérdidas y daños provocados por los fenómenos extremos en algunos casos alcanza cifras que equivalen a dos dígitos del PIB; este fue el caso de las pérdidas provocadas por el huracán Iris en Belice.",
+          "candidate_sense": "evaluacion_danos_candidata"
+        },
+        {
+          "concept_id": "responsabilidades_diferenciadas",
+          "path": "$.resumen_secciones[5].subsecciones[1].subsecciones[0].resumen",
+          "page": null,
+          "quote": "(a) Examina las obligaciones de reporte, transparencia y ambición progresiva consagradas en el Acuerdo de París. (b) Analiza el principio de responsabilidades comunes pero diferenciadas y capacidades respectivas. (c) Destaca la meta de neutralidad de carbono hacia mediados de siglo.",
+          "candidate_sense": null
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/45689",
+      "title": "Procesos de adaptación al cambio climático: análisis de América Latina",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_45689.json",
+      "source_sha256": "719401a6afa71d187df3e23415ff1c582aecd985685ba7f26cec2eb121d688eb",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/45690",
+      "title": "La transversalización del enfoque de género en las políticas públicas frente al cambio climático en América Latina",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_45690.json",
+      "source_sha256": "afff9ae68555c95c5917c567da339e8a8507ad32de2c464809a8d9a2fdb33820",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/45691",
+      "title": "El cambio climático y la economía política de las externalidades negativas y fiscales en América Latina",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_45691.json",
+      "source_sha256": "bb492dd856e47dffe82bb0304ebdeb8687e981a37397b3144cde3da9b1d3ef9a",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/45692",
+      "title": "El cambio climático y sus efectos en la biodiversidad de América Latina",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_45692.json",
+      "source_sha256": "d6a5b02474bd8eb3bd651b3c0bc400160ef908702f1ba37c2a1a5b83c18c9e2c",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/45693",
+      "title": "El cambio climático, la distribución del ingreso y la pobreza: el caso de México",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_45693.json",
+      "source_sha256": "80d8bcc9540508be0e7a07ad595295a5664ad98476998f8cd1757cdc4022e096",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/45696",
+      "title": "El cambio climático, la agricultura y la pobreza en América Latina",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_45696.json",
+      "source_sha256": "914ddb922f26840a822b4ac31de45a521a917e126a69186463dffbe1eb4e166f",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/45697",
+      "title": "El cambio climático, las externalidades negativas y el impuesto sobre las gasolinas: aplicación para el Ecuador, El Salvador y México",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_45697.json",
+      "source_sha256": "5f5d8e090443d93f3ba85b73d45142fe205671e87294cf11150f285c815da4a1",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/45698",
+      "title": "El cambio climático, las políticas públicas y la demanda de energía y gasolinas en América Latina",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_45698.json",
+      "source_sha256": "99853be8fa0e9b41aa287acc3f0f4b6f416ad8e8094967a43fec1027d4416e5e",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/45699",
+      "title": "Propuesta de subasta de bonos de carbono para Chile y México",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_45699.json",
+      "source_sha256": "8d3b81da73fd1c53aaaca5bf3633e98b01d42109ff419750f3df091be400984f",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/45700",
+      "title": "El cambio climático y el sector de energía en América Latina",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_45700.json",
+      "source_sha256": "bc5588b53d64b3831956885d1256b24493a7d6da58ef7bf6dc60e9f0700e8db7",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/45703",
+      "title": "Federalismo ambiental en América Latina",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_45703.json",
+      "source_sha256": "8057c43fc5f39a3b8d9a48f5611fe8e1524f031e3996491879bc6ab80f9a6b55",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/45704",
+      "title": "Medidas de mitigación y adaptación al cambio climático en América Latina y el Caribe",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_45704.json",
+      "source_sha256": "fbaae1890c36a2f5b290bcd67e098ba7002097439cefac5eb59279b03e0add91",
+      "evidence": [
+        {
+          "concept_id": "responsabilidades_diferenciadas",
+          "path": "$.resumen_enriquecido.conclusiones_recomendaciones.recomendaciones[4]",
+          "page": null,
+          "quote": "...y de subsidios que privilegia el consumo de combustibles fósiles, evaluando la economía política subyacente y expandiendo instrumentos fiscales ambientales como impuestos al carbono y fondos verdes bajo el principio de responsabilidades comunes pero diferenciadas (p. 9, 10-11).",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "responsabilidades_diferenciadas",
+          "path": "$.resumen_secciones[4].resumen",
+          "page": null,
+          "quote": "...la región, que emite solo 9-10% global pero sufre severos impactos que golpean desproporcionadamente a los hogares de menores ingresos, obligando a incorporar el cambio climático en la agenda social bajo el principio de responsabilidades comunes pero diferenciadas.",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "responsabilidades_diferenciadas",
+          "path": "$.resumen_secciones[4].dimensiones[4].cita",
+          "page": 11,
+          "quote": "...ables. En este sentido, es importante incluir dentro de la agenda social, la temática del cambio climático (Galindo, et al., 2014), así como instrumentar medidas de adaptación y de mitigación con base en el principio de responsabilidades comunes pero diferenciadas (CMNUCC, 2014).",
+          "candidate_sense": null
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/45705",
+      "title": "El crecimiento bajo en carbono y la adopción de tecnologías para la mitigación",
+      "year": 2017,
+      "period_id": "P1",
+      "source_path": "fase2/corpus/resultados/json/doc_45705.json",
+      "source_sha256": "24c2e7788f5306f9fc8f71fc7aa68e5e3c05ba49548e238a71929d69c4b1982a",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/45737",
+      "title": "Policy Brief: Planning for resilience: an integrated approach to tackle climate change in the Caribbean",
+      "year": 2020,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_45737.json",
+      "source_sha256": "ba5cde870efe4564873e742ab89782d5961a71f80450eb543f117e7f5f926ed7",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/45966",
+      "title": "Assessment of the effects and impacts of the Hurricane Matthew: the Bahamas",
+      "year": 2020,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_45966.json",
+      "source_sha256": "120ba23cf7e1e9c793202401f7d99e1e41960259e41f904b747176b3db68f313",
+      "evidence": [
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_enriquecido.hallazgos_principales[0]",
+          "page": null,
+          "quote": "El huracán Matthew impactó Las Bahamas en octubre de 2016 como tormenta de categoría 4, provocando daños y pérdidas totales estimados en 577,1 millones de dólares (438,6 millones en daños físicos directos y 138,5 millones en pérdidas de flujos económicos), además de costos adicionales por 31,9 millones de dólares (pág. 15).",
+          "candidate_sense": "requiere_revision"
+        },
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_enriquecido.hallazgos_principales[1]",
+          "page": null,
+          "quote": "Los sectores más gravemente afectados en términos de daños y pérdidas acumuladas fueron vivienda (139,4 millones de dólares y más de 2.600 residencias afectadas), turismo (158,6 millones de dólares, principalmente por pérdidas de ingresos en Grand Bahama y New Providence) y energía eléctr...",
+          "candidate_sense": "requiere_revision"
+        },
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.interpelacion.gran_impulso_ambiental_concreto.evidencia",
+          "page": null,
+          "quote": "El documento articula un diagnóstico cuantitativo riguroso de daños y pérdidas por sectores e islas, y formula un paquete estructurado de recomendaciones organizadas en los cinco pilares del marco GFDRR/Sendai (identificación de riesgos con CVI, reducción con estándares y cimentaciones multipunto,...",
+          "candidate_sense": "requiere_revision"
+        },
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.tipologia.tipo_documento_climatico",
+          "page": null,
+          "quote": "Evaluación de desastre / Daños y pérdidas climáticas",
+          "candidate_sense": "requiere_revision"
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/45967",
+      "title": "Assessment of the effects and impacts caused by Hurricane Irma: the Bahamas 2017",
+      "year": 2020,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_45967.json",
+      "source_sha256": "e5f06d5887f09823c600f61e564725c3e224395393ae884c03e3ea2ad29d040c",
+      "evidence": [
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[1].subsecciones[1].subsecciones[0].resumen",
+          "page": null,
+          "quote": "Reseña los impactos del huracán Joaquin en octubre de 2015 como ciclón de categoría 4, el cual causó graves daños y pérdidas por 104,8 millones de dólares en las islas centrales y del sur, afectando gravemente los medios de vida agrícolas y pesqueros y erosionando la costa insular.",
+          "candidate_sense": "evaluacion_danos_candidata"
+        },
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[1].subsecciones[1].subsecciones[1].resumen",
+          "page": null,
+          "quote": "Analiza los devastadores efectos del huracán Matthew en octubre de 2016 (categoría 5), que impactó New Providence, Grand Bahama y Andros generando daños y pérdidas totales por 580,4 millones de dólares y agotando las reservas fiscales de reconstrucción previas a la llegada de Irma al año siguiente.",
+          "candidate_sense": "evaluacion_danos_candidata"
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/45968",
+      "title": "Assessment of the effects and impacts of Hurricane Dorian in the Bahamas",
+      "year": 2020,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_45968.json",
+      "source_sha256": "b8a751a42c95e614b775fbfbd9dac069fa17e4c9b4f27df34c83ecb795ecc9cb",
+      "evidence": [
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[8].resumen",
+          "page": null,
+          "quote": "El capítulo 'Roads, Airports, Ports and other Infrastructure' (páginas 84-91) cuantifica los daños y pérdidas en el sistema de transporte interinsular e intrainsular de Ábaco y Gran Bahama.",
+          "candidate_sense": "requiere_revision"
+        },
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.tipologia.razonamiento_5_pasos.filtro_categoria_primaria",
+          "page": null,
+          "quote": "El objeto central de análisis y prescripción del informe es la evaluación integral de daños y pérdidas originados por un evento climático extremo de categoría 5 y la resiliencia socioecológica de la infraestructura y los asentamientos frente a la elevación del nivel del mar y marejadas ciclónicas (#6 Sostenibilidad ambie...",
+          "candidate_sense": "requiere_revision"
+        },
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.tipologia.tipo_documento_climatico",
+          "page": null,
+          "quote": "Evaluación de daños y pérdidas por eventos climáticos extremos (DaLA)",
+          "candidate_sense": "requiere_revision"
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/46019",
+      "title": "Escenarios para un desarrollo sostenible en la República Dominicana: un modelo econométrico estructural de emisiones de dióxido de carbono",
+      "year": 2020,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_46019.json",
+      "source_sha256": "96fb487d5a806058f76d9760e28ae18b77e2d26026f01964cabbc731b4fb00b8",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/46227",
+      "title": "Construir un nuevo futuro: una recuperación transformadora con igualdad y sostenibilidad",
+      "year": 2020,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_46227.json",
+      "source_sha256": "a89d1c59c71ffeafd05958847e1cdef685e33c97f2fb1a342a917884bb6d6ce4",
+      "evidence": [
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_enriquecido.resumen_narrativo",
+          "page": null,
+          "quote": "...pleo, productividad y distribución mientras reduce emisiones y restricciones externas. El cierre atribuye al Estado la tarea de orientar rentabilidades, coordinar actores y construir pactos sociales que hagan viable una transición justa hacia 2030.",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "responsabilidades_diferenciadas",
+          "path": "$.resumen_secciones[1].subsecciones[0].subsecciones[3].seccion",
+          "page": null,
+          "quote": "4. La doble asimetría en los temas ambientales y la importancia del principio de responsabilidades comunes pero diferenciadas",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "responsabilidades_diferenciadas",
+          "path": "$.resumen_secciones[1].subsecciones[0].subsecciones[3].resumen",
+          "page": null,
+          "quote": "Desarrolla la doble asimetría de responsabilidades y vulnerabilidades ambientales y la vincula con el principio de responsabilidades comunes pero diferenciadas. El apartado cumple una función propia en la secuencia argumental: delimita el problema, aporta evidencia o escenarios y extrae implicaciones para la transformación productiva, la igualdad y la sostenibilidad.",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "responsabilidades_diferenciadas",
+          "path": "$.resumen_secciones[2].subsecciones[4].subsecciones[1].seccion",
+          "page": null,
+          "quote": "2. Segundo escenario: responsabilidades comunes pero diferenciadas en el marco del Nuevo Pacto Verde Mundial y el gran impulso para la sostenibilidad",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "responsabilidades_diferenciadas",
+          "path": "$.resumen_secciones[2].subsecciones[4].subsecciones[1].resumen",
+          "page": null,
+          "quote": "Describe una trayectoria en que instituciones, inversión y capacidades locales permiten una transición sostenible bajo responsabilidades comunes pero diferenciadas. El apartado cumple una función propia en la secuencia argumental: delimita el problema, aporta evidencia o escenarios y extrae implicaciones para la transformación productiva, la igualdad y la sostenibilidad. El desarr...",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "responsabilidades_diferenciadas",
+          "path": "$.resumen_secciones[2].subsecciones[4].subsecciones[1].dimensiones[0].cita",
+          "page": 83,
+          "quote": "Segundo escenario: responsabilidades comunes pero diferenciadas en el marco del Nuevo Pacto Verde Mundial y el gran impulso para la sostenibilidad En un escenario alternativo, los actores reconocen responsabilidades comunes sobre el deterioro ambiental y el derecho de las futuras ge...",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[3].subsecciones[3].subsecciones[1].resumen",
+          "page": null,
+          "quote": "El ejercicio chileno compara crecimiento verde, política fiscal verde, transición justa y recuperación verde, con alta penetración renovable y menor demanda eléctrica. El apartado cumple una función propia en la secuencia argumental: delimita el problema, aporta evidencia o escenarios y extrae implicacione...",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[5].subsecciones[3].resumen",
+          "page": null,
+          "quote": "Cierra con un Estado proactivo, coaliciones sociales y pactos políticos que articulen inversión pública, privada y social y permitan una transición justa. El apartado cumple una función propia en la secuencia argumental: delimita el problema, aporta evidencia o escenarios y extrae implicaciones para la transformación productiva, la igualdad y la sostenibilidad.",
+          "candidate_sense": null
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/46317",
+      "title": "Cambio climático y adaptación basada en la naturaleza: el potencial de la cobertura boscosa para reducir el impacto económico de las inundaciones en la República Dominicana",
+      "year": 2020,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_46317.json",
+      "source_sha256": "87cc517681a2acccaea7e4ef00d338e3748873c0e51276b23f9aef31b1b7bc22",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/46433",
+      "title": "Fortalecimiento de la cadena de valor de café en la República Dominicana: en respuesta al cambio climático",
+      "year": 2020,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_46433.json",
+      "source_sha256": "72a5ad77776a1a45168eeebb3707f9e478f0f806eba6c4b35fe0984e6f83b320",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/46482",
+      "title": "Transición energética de la República Dominicana: ¿cómo las estrategias de descarbonización del sector eléctrico aceleran la participación del sector privado en la contribución determinada a nivel nacional CDN?",
+      "year": 2020,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_46482.json",
+      "source_sha256": "6695c2b1580acb8245414fc67637f86d89d56eb5d82246f60e457c5c654c97c5",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/46499",
+      "title": "Análisis espacial de datos históricos y escenarios de cambio climático en México, Centroamérica, Cuba, Haití y la República Dominicana",
+      "year": 2020,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_46499.json",
+      "source_sha256": "92397e441e1403428ba5db5dd04fd6d7bd8c5fe10dbcbb59aeacb9f690396816",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/46529",
+      "title": "Caribbean in Brief: an information document for Caribbean Small Island Developing States",
+      "year": 2020,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_46529.json",
+      "source_sha256": "3f4dfa6a6e95fab5578806d5046d822f6ebbc61d0bc59b027000c14ec4ecce86",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/46575",
+      "title": "Amenazas de cambio climático, métricas de mitigación y adaptación en ciudades de América Latina y el Caribe",
+      "year": 2021,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_46575.json",
+      "source_sha256": "022672de3ae0c9334301da6ba2e4461ae341dba24c085e6a4701c7b86d4497d7",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/46643",
+      "title": "A dimensão de gênero no Big Push para a Sustentabilidade no Brasil: As mulheres no contexto da transformação social e ecológica da economia brasileira",
+      "year": 2021,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_46643.json",
+      "source_sha256": "115735032f07deebfe3b67acb727f8262ceae5b2a6bddf2d1932e045bb0eccf9",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/46681",
+      "title": "Evaluación de los efectos e impactos de las depresiones tropicales Eta y Iota en Guatemala",
+      "year": 2021,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_46681.json",
+      "source_sha256": "3b10bb71bbffb2d7c5a16b04aa61759aa591db71f8351226c56a3e6c16795432",
+      "evidence": [
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_enriquecido.hallazgos_principales[3]",
+          "page": null,
+          "quote": "El sector social acumuló el 48% de los efectos (2.877,5 millones de quetzales), dominado por el sector vivienda que sufrió daños y pérdidas por 2.446,8 millones de quetzales con decenas de miles de casas destruidas o gravemente dañadas por inundaciones y deslaves.",
+          "candidate_sense": "requiere_revision"
+        },
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_enriquecido.hallazgos_principales[5]",
+          "page": null,
+          "quote": "El sector medio ambiente reportó 366,3 millones de quetzales en daños y pérdidas por afectación de cobertura forestal, erosión severa de suelos en cuencas altas y sedimentación masiva de cuerpos de agua.",
+          "candidate_sense": "requiere_revision"
+        },
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.interpelacion.como_hacerlo_concreto.desglose_items[1].item",
+          "page": 180,
+          "quote": "Implementar un sistema nacional de captura y estandarización de datos de daños y pérdidas georreferenciados (Pilar 1, p.180)",
+          "candidate_sense": "requiere_revision"
+        },
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.tipologia.tipo_documento_climatico",
+          "page": null,
+          "quote": "Evaluación de daños y pérdidas por desastres hidrometeorológicos (DaLA)",
+          "candidate_sense": "requiere_revision"
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/46682",
+      "title": "Construir un futuro mejor: acciones para fortalecer la Agenda 2030 para el Desarrollo Sostenible",
+      "year": 2021,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_46682.json",
+      "source_sha256": "2a2092e2b12f652444f6f7e1279066258c4ac66673a77cfe2a88816c383c40b6",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/46853",
+      "title": "Evaluación de los efectos e impactos causados por la tormenta tropical Eta y el huracán Iota en Honduras",
+      "year": 2021,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_46853.json",
+      "source_sha256": "4b0af26b9dd755ba1d3ef287bc418a124b454e28ace11759d3e0013684a5b783",
+      "evidence": [
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_enriquecido.alcance.ambito_aplicacion",
+          "page": null,
+          "quote": "...duras a nivel nacional, con énfasis prioritario en los departamentos de la zona norte y noroccidental (especialmente el Valle de Sula, Cortés, Yoro, Atlántida, Colón, Santa Bárbara y Copán), que concentraron los mayores daños y pérdidas por inundaciones y deslizamientos.",
+          "candidate_sense": "requiere_revision"
+        },
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_enriquecido.alcance.sectorial",
+          "page": null,
+          "quote": "Multisectorial integral según la metodología DaLA (Evaluación de Daños y Pérdidas): sector social (salud, educación, vivienda), sector productivo (agricultura, ganadería, pesca, silvicultura, turismo, comercio e industria manufacturera), sector infraestructura (electricidad, agua potable y saneamient...",
+          "candidate_sense": "requiere_revision"
+        },
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[1].subsecciones[3].subsecciones[0].dimensiones[0].cita",
+          "page": 153,
+          "quote": "Este capítulo expone la evaluación de pérdidas y daños en el sector ambiente por el paso de la tormenta tropical Eta y el huracán Iota en Honduras.",
+          "candidate_sense": "evaluacion_danos_candidata"
+        },
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[1].subsecciones[4].dimensiones[1].cita",
+          "page": 173,
+          "quote": "La cifra total de daños y pérdidas ha de tomarse como una evaluación integral, de todos los sectores, actividades y estratos sociales afectados.",
+          "candidate_sense": "evaluacion_danos_candidata"
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/46957",
+      "title": "Metodología para la estimación del precio social del carbono en Chile y los países de América Latina y el Caribe",
+      "year": 2021,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_46957.json",
+      "source_sha256": "c4d7d013eb0ba062ef4d429dbeb573728e5909953a95091f6843090046175b5b",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/46992",
+      "title": "Technologies for adapting to climate change: A case study of Korean cities and implications for Latin American cities",
+      "year": 2021,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_46992.json",
+      "source_sha256": "d6766aa9a885954e798da40f750be610a1e0f49e22ac7c83256fa6ccc2ea7537",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/46996",
+      "title": "La igualdad de género ante el cambio climático: ¿qué pueden hacer los mecanismos para el adelanto de las mujeres de América Latina y el Caribe?",
+      "year": 2021,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_46996.json",
+      "source_sha256": "95d8e92e3a950a2832ecbbad48dbfb71afcf415568d0476708154ad10a0cc543",
+      "evidence": [
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_enriquecido.conclusiones_recomendaciones.recomendaciones[4]",
+          "page": null,
+          "quote": "Implementar y monitorear proyectos climáticos con participación plena, derechos humanos, innovación, sostenibilidad ambiental, transición justa y reducción de emisiones.",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[2].subsecciones[5].resumen",
+          "page": null,
+          "quote": "El área F identifica como reto principal pasar de compromisos y palabras a implementación, aprovechando la transición justa y la recuperación pospandemia para avanzar simultáneamente en igualdad y sostenibilidad. Define seis principios para proyectos género-responsivos: inclusión y participación, derechos humanos, innovación, sostenibilidad...",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.interpelacion.gran_impulso_ambiental_concreto.evidencia",
+          "page": null,
+          "quote": "...Sí, articula eficiencia schumpeteriana mediante conocimiento, tecnologías y CTIM; eficiencia keynesiana mediante empleo, cuidados, ingresos y reducción de pobreza; y eficiencia ambiental mediante adaptación, mitigación, transición justa y reducción de emisiones. Al cumplir el test 1 y los tests 2 y 3, el veredicto es Sí.",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.interpelacion.oportunidades_productivas_sostenibles.evidencia",
+          "page": null,
+          "quote": "...ínculo con empleo, productividad, ingresos, bienestar, pobreza y desigualdad. En particular, presenta los cuidados como sector dinamizador y la inserción de mujeres en energías limpias y formación CTIM como parte de una transición justa.",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.tipologia.razonamiento_5_pasos.secundaria_obligatoria",
+          "page": null,
+          "quote": "La secundaria es #6 Sostenibilidad ambiental porque el documento estructura sus propuestas en torno a adaptación, mitigación, reducción de emisiones, resiliencia, transición justa, biodiversidad, financiamiento climático y economía ambientalmente sostenible. Esta dimensión orienta el campo de acción, aunque no desplaza el objeto de igualdad de género.",
+          "candidate_sense": null
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/47041",
+      "title": "Estado de la implementación del Programa de Acción de Viena en favor de los Países en Desarrollo Sin Litoral para el Decenio 2014-2024",
+      "year": 2021,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_47041.json",
+      "source_sha256": "9c67b07732d6f5fcaff6afc9d2d6bd77164fac6e92f919ce67240e0ec46a969a",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/47109",
+      "title": "Impacto de las medidas y/o tecnologías de Remoción de Dióxido de Carbono sobre los Objetivos de Desarrollo Sostenible en América Latina y el Caribe: Resumen para responsables de políticas",
+      "year": 2021,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_47109.json",
+      "source_sha256": "d548a692f7c512b413a1de0b18e80a1ce2326016e3d74b1916a561b821323a5a",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/47270",
+      "title": "Prácticas promisorias que promueven la igualdad de género y la autonomía de las mujeres en la respuesta al cambio climático en América Latina y el Caribe",
+      "year": 2021,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_47270.json",
+      "source_sha256": "1d9dd9b71e7b9d653438b883558553278157bb9675ddfcfe27ff1795f721478b",
+      "evidence": [
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_enriquecido.resumen_narrativo",
+          "page": null,
+          "quote": "...lementación insuficiente para transformar estructuras de poder, cerrar brechas y garantizar acceso directo a recursos. El cierre llama a armonizar instrumentos, ampliar la participación y el financiamiento, acelerar una transición justa y producir datos interseccionales para hacer evaluable la acción climática.",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[2].subsecciones[4].resumen",
+          "page": null,
+          "quote": "...s ecológicas no son automáticamente justas. Examina oportunidades en empleo, competitividad, restauración y energía renovable, junto con barreras de cuidados, segregación laboral y acceso a formación CTIM, y plantea una transición justa que incorpore género desde el diseño.",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[3].resumen",
+          "page": null,
+          "quote": "...enciones no han transformado las estructuras de poder ni cerrado brechas. El documento pide revisar y armonizar planes de igualdad, acelerar planes de acción sectoriales, institucionalizar la participación, promover una transición justa y mejorar el acceso a financiamiento y empleos decentes. También identifica la falta de datos desagregados e interseccionales como una barrera decisiva para saber cuánto se ha avanzado hacia un desarrollo sostenible jus...",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[3].dimensiones[1].cita",
+          "page": 46,
+          "quote": "Por otra parte, es imperativo acelerar una transición justa en el marco de nuevos estilos de desarrollo para la región.",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.interpelacion.gran_impulso_ambiental_concreto.evidencia",
+          "page": null,
+          "quote": "Test 1: Parcial, el documento articula políticas, financiamiento y acciones de transición justa, pero presenta prácticas y orientaciones heterogéneas, no un paquete único de inversión coordinada a escala regional. Test 2: Sí, enumera sectores estratégicos como energía renovable, bosques, agricultura, transporte, e...",
+          "candidate_sense": null
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/47534",
+      "title": "Salud y cambio climático: metodologías y políticas públicas",
+      "year": 2021,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_47534.json",
+      "source_sha256": "d0aeb91892a470f47aa25e809c5ace2b5f5acf466dd8003bc11243014912be41",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/47604",
+      "title": "Conceptualizing a circular economy in the Caribbean: perspectives and possibilities. Policy Brief",
+      "year": 2021,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_47604.json",
+      "source_sha256": "fd54a34aee1b6e7ed9ecdb90293ed2187c910ca39f55235b6ba8487a5dafa485",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/47624",
+      "title": "Essential elements of the ECLAC Caribbean Resilience Fund: a segregated portfolio trust fund. Policy Brief",
+      "year": 2021,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_47624.json",
+      "source_sha256": "3c19c884757d439bbd4e9ccba58c09a22806f0175d6fb909502c76b0e31a2a62",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/47676",
+      "title": "Soluciones basadas en la naturaleza: el potencial de la restauración y conservación de bosques para la adaptación al cambio climático en Centroamérica",
+      "year": 2021,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_47676.json",
+      "source_sha256": "3617c213b55b9008ff904772270a91965949111970ee237e2249f22a807d3a60",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/47714",
+      "title": "La autonomía de las mujeres y la igualdad de género en el centro de la acción climática en América Latina y el Caribe",
+      "year": 2022,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_47714.json",
+      "source_sha256": "9ea18ededbfd0cfdbb0e98a4f4dccfa9d3168b93c27a71b1d76addda725073a4",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/47720",
+      "title": "Cómo financiar el desarrollo sostenible: recuperación de los efectos del COVID-19 en América Latina y el Caribe",
+      "year": 2022,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_47720.json",
+      "source_sha256": "bac14714f49713c81a94bda9b0e757d6142a0bddfbef55f1304790c06c3f7cb5",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/47729",
+      "title": "Aumento de la ambición en la adaptación al cambio climático en América Latina y el Caribe: necesidad de métricas comunes",
+      "year": 2022,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_47729.json",
+      "source_sha256": "219c9f2b5182614283e10ae9ca572e318ec4575f57b4aa69d710177fbdc02a47",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/47730",
+      "title": "Efecto del impuesto al CO2 en el sector de la energía de países seleccionados de América Latina y el Caribe",
+      "year": 2022,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_47730.json",
+      "source_sha256": "1c2c11c7d92d12a1d3a08b753ba338777a44165dd746600587da5f0fbd408d7a",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/47732",
+      "title": "Herramientas para acelerar la implementación de los planes de acción climática en América Latina y el Caribe",
+      "year": 2022,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_47732.json",
+      "source_sha256": "a7518027e8805f796c6dbb3dab40b011d952485867079505bbf1fd1042b63986",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/47733",
+      "title": "Panorama de las actualizaciones de las contribuciones determinadas a nivel nacional de cara a la COP 26",
+      "year": 2022,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_47733.json",
+      "source_sha256": "ee42d7387e7589884ae4f16ae09ce735802166ca74b11a3febea3b18f049514d",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/47855",
+      "title": "Panorama de las relaciones fiscales entre niveles de gobierno de países de América Latina y el Caribe",
+      "year": 2022,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_47855.json",
+      "source_sha256": "6420f94d6fd2816fe9bb2c931baa4b91e05d61706bf9adf72798fec0ce324a11",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/47868",
+      "title": "Reducing emissions from the energy sector for a more resilient and low-carbon post-pandemic recovery in Latin America and the Caribbean",
+      "year": 2022,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_47868.json",
+      "source_sha256": "98697f1e5fec8554c68ca66449fa90f73af7329416ff0d55c21892e9a5529306",
+      "evidence": [
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_enriquecido.resumen_narrativo",
+          "page": null,
+          "quote": "...iamiento que limitan la penetración de renovables no convencionales. El cierre propone aprovechar la recuperación para coordinar inversión limpia, reforma regulatoria, transporte sostenible, hidrógeno verde y medidas de transición justa, evitando que el apoyo a combustibles fósiles consolide nuevas emisiones.",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[3].resumen",
+          "page": null,
+          "quote": "...ación directa, indirecta e inducida de empleo, cadenas industriales, ingresos, acceso energético y reducción de desigualdad territorial. Compara solar, eólica, biomasa, hidroelectricidad y transporte eléctrico, y aborda transición justa y género. El cierre sectorial muestra que la expansión renovable puede ser una estrategia de desarrollo productivo si se acompaña con capacidades locales y protección distributiva.",
+          "candidate_sense": null
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/47883",
+      "title": "Las tres brechas del desarrollo sostenible y el cierre de la brecha ambiental en Chile: oportunidades para una recuperación pospandemia más sostenible y con bajas emisiones de carbono en América Latina y el Caribe",
+      "year": 2022,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_47883.json",
+      "source_sha256": "3eb83890e3fbd62345573202b97fec80b64fec5b1b47632ffbd3111b2608e079",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/47903",
+      "title": "Cuentas ambientales para la formulación e implementación de la política climática",
+      "year": 2022,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_47903.json",
+      "source_sha256": "a882c829d5577cd6dff91ff6f925ac1c8bccc4831ab7b3e7b02a0a580fb67805",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/48071",
+      "title": "La autonomía de las mujeres y la igualdad de género en el centro de la acción climática en América Latina y el Caribe",
+      "year": 2022,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_48071.json",
+      "source_sha256": "a6ebd4f3725919ddd76ef88e8379494bdd6f7d75bc91ddefc1ab92f9b2006c7d",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/48097",
+      "title": "Climate action guidelines 2022–2030: City of Belmopan, Belize",
+      "year": 2022,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_48097.json",
+      "source_sha256": "addec883533a4d20581dd86f13dcc8e2aefec0816520cee4b31be9bab1e800f5",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/48102",
+      "title": "Compendio preliminar de proyectos de inversión en acción climática para América Latina y el Caribe",
+      "year": 2022,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_48102.json",
+      "source_sha256": "8397140ed0565e6b5c6db4227d4f96688bd511053faba0f630cb29974f632bfa",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/48118",
+      "title": "Llaqtapa Allinllanakuy, Willakuyman Yaykunapaq, Lliw Llaqta Runakunaman Chayananpaq, Chaynallataq Pachamamamanta Kamachikunapaq, América Latina y el Caribe Suyukunapi",
+      "year": 2019,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_48118.json",
+      "source_sha256": "272d67dbdaae901ebee2eefa12be6ef5f568bb39d7b1e80be77b1ab2cf091cd0",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/48122",
+      "title": "Panorama de los planes de acción climática en ciudades de América Latina y el Caribe",
+      "year": 2022,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_48122.json",
+      "source_sha256": "23133120dd30cb935ae2142047ed32760e6974a4f64c5c7c97caec30c73f7486",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/48144",
+      "title": "Resilient and affordable housing in the Caribbean: Policy recommendations towards a transformative, green and inclusive recovery strategy. Policy Brief",
+      "year": 2022,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_48144.json",
+      "source_sha256": "44f35de3c2ed2cf60ec1ab147f069887350b685305b08c6a809e14bd3a073373",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/48156",
+      "title": "Gobernanza corporativa en América Latina y el Caribe: el uso de instrumentos de deuda ambientales, sociales y de gobernanza para financiar proyectos de inversión sostenible",
+      "year": 2022,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_48156.json",
+      "source_sha256": "104d4b0c2dfec120b799d6106ccc956ad56c66e16fea3ee0b27c12d7de2c070b",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/48166",
+      "title": "Lineamientos para la acción climática de Santo Domingo, Distrito Nacional, 2022-2030",
+      "year": 2022,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_48166.json",
+      "source_sha256": "ce31081d26eb305909eb6558cccc82240d318fc7a97eed4c6c52f5463bee9d75",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/48200",
+      "title": "La recuperación del turismo como pilar del gran impulso para la sostenibilidad",
+      "year": 2022,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_48200.json",
+      "source_sha256": "ab4da0d26c464c726ca27016405db96a68b39c49226d7380ddefdc66b3988c51",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/48290",
+      "title": "Reglas de procedimiento de la Conferencia de las Partes",
+      "year": 2022,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_48290.json",
+      "source_sha256": "d5c5f7205ff369751d6b944f83ab532c9b1b6486e3da842afb97549b190e399b",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/48304",
+      "title": "Hacia la transformación del modelo de desarrollo en América Latina y el Caribe: producción, inclusión y sostenibilidad. Síntesis",
+      "year": 2022,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_48304.json",
+      "source_sha256": "11368f552c05c00db3daf5970351b458ca9148c3720f509f447e7ba31c13ae13",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/48413",
+      "title": "Acción climática con igualdad de género: hacia una recuperación transformadora para la sostenibilidad y la igualdad de género en América Latina y el Caribe",
+      "year": 2022,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_48413.json",
+      "source_sha256": "024ca3edd51cd7a4489a3171cec4a08af57769efb10429354b3610074c58da92",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/48491",
+      "title": "Diagnóstico situacional de los sistemas nacionales de inversión pública: Panamá 2020",
+      "year": 2022,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_48491.json",
+      "source_sha256": "e6ffafc99b316a671a9a71d4eea091ea9ca69b73526da06eb2e4bac6031090a2",
+      "evidence": [
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[7].subsecciones[0].dimensiones[2].cita",
+          "page": 131,
+          "quote": "...istema de alerta temprana en cuencas hidrográficas propensas a inundaciones, en coordinación con el Sistema Nacional de Protección Civil, con lo que se contribuye a las alertas para inundaciones y a la mitigación de los daños y pérdidas de vida y bienes.",
+          "candidate_sense": "requiere_revision"
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/48524",
+      "title": "Impactos macroeconómicos del cambio climático en América Latina y el Caribe: revisión de la literatura, 2010-2021",
+      "year": 2022,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_48524.json",
+      "source_sha256": "3e60086eda27104328ae65e10e320b90d3b3c388f482d5f1f004d276a83e66e7",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/48541",
+      "title": "Enfoques y prácticas de gobernanza en América Latina y el Caribe para el cambio transformativo a favor de la biodiversidad",
+      "year": 2022,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_48541.json",
+      "source_sha256": "145bbc52bf78ce8c31ca9310cd620ba906c36f965a95edf8292488734139e437",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/48543",
+      "title": "Experiencias de integración de la biodiversidad en los sectores productivos, económicos y financieros de América Latina y el Caribe",
+      "year": 2022,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_48543.json",
+      "source_sha256": "515c6fe457b407458cf3408820bfcc2de359e51d5eabe7168ac5f4217b3fb683",
+      "evidence": [
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_enriquecido.conclusiones_recomendaciones.conclusiones[2]",
+          "page": null,
+          "quote": "La integración climático-biodiversidad y la diversificación productiva ofrecen puntos de entrada para una transición justa, siempre que se traduzcan en instrumentos y beneficios verificables.",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[8].resumen",
+          "page": null,
+          "quote": "Este capítulo convierte los retos en oportunidades de transformación: transición justa, recuperación post-COVID-19, cooperación, financiamiento, combinación de políticas, sinergias climático-biodiversidad, convenios y participación local. Su hilo común es que la biodiversidad debe entrar en decisiones eco...",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[8].subsecciones[0].seccion",
+          "page": null,
+          "quote": "A. El cambio transformativo para la biodiversidad en un marco de transición justa para todos",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[8].subsecciones[0].dimensiones[0].cita",
+          "page": 55,
+          "quote": "el cambio transformativo para la biodiversidad en un marco de transición justa para todos el pnuma (2016a), el cdb (secretaría del convenio para la diversidad biológica, 2020d), ipbes (ipbes, 2018a y 2020) y cepal (gligo y otros, 2020; cepal, 2020e) han observado la degradación del ecosistema y lo...",
+          "candidate_sense": null
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/48555",
+      "title": "Potential trade implications of Latin America and the Caribbean’s climate commitments under the Paris Agreement",
+      "year": 2022,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_48555.json",
+      "source_sha256": "d75c6bdaa587343c75feb7557789437d23a239f92524e42a60ac844c3afcfdc1",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/48611",
+      "title": "Diagnóstico situacional de los sistemas nacionales de inversión pública: Nicaragua 2020",
+      "year": 2022,
+      "period_id": "P2",
+      "source_path": "fase2/corpus/resultados/json/doc_48611.json",
+      "source_sha256": "63d842ac9ccb100483022e263a0ee13f8dd20a7ac356f305487002b4c272a35f",
+      "evidence": [
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[1].dimensiones[0].cita",
+          "page": 23,
+          "quote": "Los impactos de dichas amenazas se han traducido en daños y pérdidas en actividades productivas (principalmente en la agricultura), infraestructura (vial, energética, agua potable), ecosistemas y medios de vida humanos.",
+          "candidate_sense": "evaluacion_danos_candidata"
+        },
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[7].dimensiones[0].cita",
+          "page": 104,
+          "quote": "...se recomienda: i) considerar un análisis probabilístico que determine el grado de exposición a las amenazas, estimación de la probabilidad de ocurrencia; ii) la evaluación de la vulnerabilidad; iii) la estimación de los daños y pérdidas; iv) identificar y costear las medidas de reducción de riesgo de desastre y análisis beneficio/costo de estas.",
+          "candidate_sense": "evaluacion_danos_candidata"
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/48736",
+      "title": "Diagnóstico situacional de los sistemas nacionales de inversión pública: Honduras 2020",
+      "year": 2023,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_48736.json",
+      "source_sha256": "91527d6fd5e436b4e408a9c74009148f042032df21dc81aa444cd6205d21dbee",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/48823",
+      "title": "América Latina y el Caribe en la mitad del camino hacia 2030: avances y propuestas de aceleración",
+      "year": 2023,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_48823.json",
+      "source_sha256": "71f93badd90070c97c6d6cd6e312736c7b626187ea55fbce1b8a12ed799fd88c",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/48880",
+      "title": "Costos asociados a la inacción frente al cambio climático en Chile: síntesis",
+      "year": 2023,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_48880.json",
+      "source_sha256": "638685d6915865f3a4f1adcda80a0eb2a90e9205fc26b53f12cd202bb02ad460",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/48901",
+      "title": "Estudo comparativo sobre normas e critérios de patenteabilidade de invenções biotecnológicas. Sumário executivo",
+      "year": 2023,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_48901.json",
+      "source_sha256": "45e7b58f26c7f65eeafd0a20abc5e4fa61dd4fb4b0b5e3caae5f1ec659ea15a7",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/48958",
+      "title": "Advancing geospatial information management for disaster risk management in the Caribbean",
+      "year": 2023,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_48958.json",
+      "source_sha256": "36a77b73c845196ec79ddaf0dbfb3ae85a8b6d9fb22eec8ff09833b16886750c",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/49053",
+      "title": "Estándares y certificaciones internacionales voluntarias en materia de minería sostenible en los países andinos",
+      "year": 2023,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_49053.json",
+      "source_sha256": "bafce2a778393057c498a795ca0eeb326ab9867a20e698211e4d6d4db6921a54",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/67979",
+      "title": "Los efectos del cambio climático en la actividad económica de América Latina y el Caribe: una perspectiva empírica",
+      "year": 2023,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_67979.json",
+      "source_sha256": "61b98f34e75bd0b95a7036494cab0f1a0f3e2cf1634572850e1799c705e134e6",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/68644",
+      "title": "Modelo conceptual para integrar la reducción del riesgo de desastres y la adaptación sostenible e incluyente al cambio climático en la inversión pública",
+      "year": 2023,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_68644.json",
+      "source_sha256": "510787104df9075adc67048857c5cd13f6fc20de1d0a99d16027dfbb97712425",
+      "evidence": [
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_enriquecido.hallazgos_principales[3]",
+          "page": null,
+          "quote": "La propuesta metodológica general ordena cuatro operaciones: conocer el área de influencia, determinar daños y pérdidas esperados, identificar y evaluar medidas RRD-ASICC y evaluar integralmente los proyectos gestionando riesgos existentes y nuevos (p.45).",
+          "candidate_sense": "requiere_revision"
+        },
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[3].dimensiones[4].cita",
+          "page": 28,
+          "quote": "...s ecosistemas (como bosques y arrecifes de corales) y a las personas, de tal modo que, de forma individual o en interacción con elementos naturales, derivan en amenazas con niveles de peligrosidad que provocan riesgo de daños y pérdidas en la oferta de bienes y servicios por las afectaciones físicas y funcionales en la infraestructura pública y por cambios en el perfil (patrones y tendencias) de la demanda.",
+          "candidate_sense": "evaluacion_danos_candidata"
+        },
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[5].resumen",
+          "page": null,
+          "quote": "...ecto candado de diseños intensivos en emisiones y priorizar inversiones bajas en carbono en energía, transporte, agua, saneamiento, educación y salud. La metodología general ordena conocer el área de influencia, estimar daños y pérdidas, identificar y valorar medidas RRD-ASICC y evaluar integralmente los proyectos. Los principios acordados por el Comité Técnico Regional combinan guías prácticas, un módulo SIG, grupos técnicos, datos abiertos o software...",
+          "candidate_sense": "requiere_revision"
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/68648",
+      "title": "Análisis de vulnerabilidad agrícola al cambio climático para la región del Sistema de la Integración Centroamericana (SICA)",
+      "year": 2023,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_68648.json",
+      "source_sha256": "4554a1982ec8a754c2b6eb1bd44d6ecb471c4f4aac93d4b14e17c26c40ad5440",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/68657",
+      "title": "Estudo Econômico da América Latina e do Caribe 2023. O financiamento de uma transição sustentável: investimento para crescer e enfrentar a mudança climática. Resumo executivo",
+      "year": 2023,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_68657.json",
+      "source_sha256": "e8976ee95cf7851dbc6b9f5568610705128b549ed01f68136845d3a23a0eab71",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/68686",
+      "title": "Información climática disponible y recomendaciones para su uso en la inversión pública en los países del COSEFIN/SICA",
+      "year": 2023,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_68686.json",
+      "source_sha256": "1d16694b98a43dca75d1343ae7c003d306357a116d0a2cccf98efe99b5010877",
+      "evidence": [
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[0].dimensiones[0].cita",
+          "page": 29,
+          "quote": "En este contexto, el objetivo general del proyecto RIDASICC es contribuir a la reducción de pérdidas y daños causados por desastres y a la respuesta ante la emergencia climática mediante la integración de la RRD y la ASICC en los proyectos de inversión pública, conservando y mejorando los servicios que se brindan a la població...",
+          "candidate_sense": "evaluacion_danos_candidata"
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/68704",
+      "title": "Criterios para la integración del cambio climático en la evaluación ambiental de proyectos de inversión",
+      "year": 2023,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_68704.json",
+      "source_sha256": "fc35e785e0dda89eead6277bb662b30770f4dfcc9144eb51724a91266a42be04",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/68712",
+      "title": "The economics of climate change in Latin America and the Caribbean, 2023: financing needs and policy tools for the transition to low-carbon and climate-resilient economies",
+      "year": 2023,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_68712.json",
+      "source_sha256": "2caf96e79ffca6a12630401705b45382ff8af7461127ffd8b2c3095ee1fdf1ad",
+      "evidence": [
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_enriquecido.resumen_narrativo",
+          "page": null,
+          "quote": "...de riesgos, precios del carbono y proyectos evaluados con criterios climáticos. El cierre incorpora el Acuerdo de Escazú, la información pública y los sistemas de alerta temprana como condiciones institucionales de una transición justa.",
+          "candidate_sense": null
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/68756",
+      "title": "Canales de impacto del cambio climático en la infraestructura vial",
+      "year": 2023,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_68756.json",
+      "source_sha256": "ea98c05a461a56a3bc90b80e2d55ed03b5d7a09e9f0d04b3ea9e02cc5a23a6f4",
+      "evidence": [
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.tipologia.razonamiento_5_pasos.justificacion_anti_copia",
+          "page": null,
+          "quote": "El documento aporta rasgos propios: matrices de canales que conectan amenaza, componente, daño y pérdida; escenarios SICA con proyecciones de temperatura y precipitación para 2030 y 2080; y un catálogo de respuestas como drenajes con mayor periodo de retorno, sistemas de alerta, materiales adaptados y gestión de puentes. A...",
+          "candidate_sense": "requiere_revision"
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/68761",
+      "title": "Exposición macroeconómica de los países de América Latina en la transición verde",
+      "year": 2023,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_68761.json",
+      "source_sha256": "cd59c1e1f400a18842d61fa8b217b60a1c7689919694ff1f626ac1e0833d3436",
+      "evidence": [
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[3].subsecciones[2].dimensiones[1].cita",
+          "page": 39,
+          "quote": "No gestionar estos riesgos adecuadamente tendrá efectos macroeconómicos sustanciales que señalan la importancia de políticas industriales y tecnológicas que permitan diversificar la economía en línea con una transición justa.",
+          "candidate_sense": null
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/68770",
+      "title": "Modelo econométrico estructural de emisiones de gases de efecto invernadero y cambio climático para América Latina y el Caribe",
+      "year": 2023,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_68770.json",
+      "source_sha256": "d223170985281a6f4a23902b8736fcd929dc2e0d645d91df23f4e59e50fa8fc8",
+      "evidence": [
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_enriquecido.conclusiones_recomendaciones.conclusiones[1]",
+          "page": null,
+          "quote": "...ebe integrar el canal físico del clima con el canal distributivo, porque los impactos sobre el producto y la desigualdad afectan conjuntamente las emisiones, la pobreza, la mortalidad infantil y las posibilidades de una transición justa.",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[5].resumen",
+          "page": null,
+          "quote": "Construye cinco escenarios ilustrativos al 2030 y 2050: BAU, efectos del cambio climático, precio al carbono, transición justa con precio y distribución, y riesgos de transición. El recorrido compara impactos sobre PIB, consumo, empleo, pobreza, energía y emisiones, y muestra que la transición tardía exige reducciones de intensidad mucho mayore...",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[5].subsecciones[3].resumen",
+          "page": null,
+          "quote": "...ini desde 0,555 en América Latina y el Caribe a 0,253 en Noruega como ejercicio contrafactual. El resultado busca compatibilizar mitigación con menor pobreza y mortalidad infantil y formar una coalición estable para una transición justa. Es un escenario distributivo, no una propuesta de reforma institucional detallada.",
+          "candidate_sense": null
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/68796",
+      "title": "Geospatial information management to support sustainable development in Caribbean small island developing States. Policy Brief",
+      "year": 2023,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_68796.json",
+      "source_sha256": "ebac08f60e641063725b3a5ae979fe073b00a8b17a7d0c3b1b7fcd7cbf47ee98",
+      "evidence": [
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_enriquecido.hallazgos_principales[2]",
+          "page": null,
+          "quote": "Para la acción climática y la gestión del riesgo, los sistemas geoespaciales apoyan alertas tempranas, evaluaciones de pérdidas y daños, planes resilientes, mapas de riesgo y decisiones de emergencia más oportunas (p.4).",
+          "candidate_sense": "requiere_revision"
+        },
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[2].resumen",
+          "page": null,
+          "quote": "...ra el Caribe —blanqueamiento de corales, aumento del nivel del mar, huracanes, marejadas, salinización, inundaciones, deslizamientos, olas de calor y sequías— y explica que los datos espaciales apoyan alertas tempranas, pérdidas y daños y planes resilientes de mitigación y adaptación. La integración con sistemas nacionales y regionales permite comprender espacialmente los desafíos climáticos y alinear prioridades con requisitos de monitoreo y reporte d...",
+          "candidate_sense": "requiere_revision"
+        },
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.tipologia.razonamiento_5_pasos.justificacion_anti_copia",
+          "page": null,
+          "quote": "La clasificación se apoya en elementos específicos del brief: UN-IGIF, CARIGEO, Caribbean GeoPortal, GeoCRIS, NSDI, protocolos de interoperabilidad, mapas de riesgo, pérdida y daño y currículos de GIS. El cierre pide estructuras institucionales, legislación, estándares, financiamiento, formación y comunicación, mostrando que la información y la coordinación estatal son el objeto habilitante.",
+          "candidate_sense": "requiere_revision"
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/68797",
+      "title": "Progress in implementation of the Samoa Pathway: Caribbean regional synthesis report",
+      "year": 2023,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_68797.json",
+      "source_sha256": "6e5d2c32a1aacb19c8b4df75abe5400db6ccde0c8709adbf1f2e514da7bfed41",
+      "evidence": [
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[7].subsecciones[1].resumen",
+          "page": null,
+          "quote": "...es productivos, sociales y adaptación climática. Detalla reestructuración, índice multidimensional de vulnerabilidad, cláusulas ante desastres, recapitalización de bancos multilaterales y acceso simplificado al fondo de pérdidas y daños mediante la Bridgetown Initiative.",
+          "candidate_sense": "requiere_revision"
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/68818",
+      "title": "Caribbean Outlook: Considering a Caribbean emissions trading scheme. Policy Brief",
+      "year": 2024,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_68818.json",
+      "source_sha256": "4892cb0aaa6315aa96dd256faa99e38a5117f10e4e301ab7f6cdb593be3a53bc",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/68877",
+      "title": "Legislación marco de cambio climático en América Latina y el Caribe. Boletín legislativo",
+      "year": 2024,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_68877.json",
+      "source_sha256": "5aaa4aebac3a77dffd02708b8ebe77a56ff5d4172fc6ea35dd3359a5b18354d9",
+      "evidence": [
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_enriquecido.hallazgos_principales[3]",
+          "page": null,
+          "quote": "Las leyes no presentan una aproximación armónica, estandarizada, medible y ambiciosa para fijar metas de mitigación; ningún Estado analizado regula estrategias de transición justa o crea un instituto especializado de cambio climático (p.72).",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_enriquecido.conclusiones_recomendaciones.conclusiones[1]",
+          "page": null,
+          "quote": "La institucionalidad climática se ha fortalecido mediante articulación interministerial e intersectorial, participación ciudadana y asesoramiento científico, mientras persisten vacíos en metas de mitigación, transición justa y medidas sectoriales vinculantes.",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_enriquecido.resumen_narrativo",
+          "page": null,
+          "quote": "...es países aún carecen de ese instrumento. La comparación muestra avances en institucionalidad, planificación y herramientas económicas, pero debilidades en la fijación de metas de mitigación medibles y ambiciosas, en la transición justa y en la aplicación sectorial vinculante. El documento usa esas diferencias para identificar buenas prácticas y oportunidades de mejora legislativa regional.",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[0].subsecciones[0].dimensiones[0].cita",
+          "page": 9,
+          "quote": "El Observatorio Parlamentario de Cambio Climático y Transición Justa (OPCC) es una iniciativa realizada conjuntamente por líderes parlamentarios de diversos países de América Latina y el Caribe (ALC).",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[1].subsecciones[1].subsecciones[6].resumen",
+          "page": null,
+          "quote": "...nacional, sistema de información y mecanismos de adaptación, mitigación y financiamiento. También expone metas de la NDC, vulnerabilidades productivas y sociales, la ausencia de algunas herramientas institucionales y de transición justa y la distribución de competencias entre niveles territoriales.",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[2].resumen",
+          "page": null,
+          "quote": "...sos según existencia de ley, momento de sanción, consenso, amplitud normativa y cobertura de siete ejes. El análisis muestra avances comunes en institucionalidad y financiamiento, pero diferencias en metas, información, transición justa y medidas sectoriales.",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[2].subsecciones[0].subsecciones[4].resumen",
+          "page": null,
+          "quote": "Examina la incorporación del Acuerdo de París, metas, institucionalidad, información, participación, transición justa, finanzas y precio al carbono. Identifica como fortalezas la arquitectura institucional y financiera, y como vacíos la ausencia de transición justa, metas armonizadas y agencias especializadas.",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[3].resumen",
+          "page": null,
+          "quote": "...arado y formula oportunidades de mejora. Reconoce consenso, institucionalidad y herramientas innovadoras, pero señala que las metas de mitigación no son armónicas ni suficientemente ambiciosas, que no hay estrategias de transición justa y que debe profundizarse la cooperación y el fortalecimiento normativo.",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.tipologia.razonamiento_5_pasos.justificacion_anti_copia",
+          "page": null,
+          "quote": "...consejos, gabinetes, sistemas de información, planes, metas y mecanismos de seguimiento. El hallazgo transversal es que la mayoría de los países ha construido arreglos institucionales, pero ninguno regula estrategias de transición justa y persisten vacíos en metas medibles; por eso la capacidad estatal es el objeto y la acción climática el propósito.",
+          "candidate_sense": null
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/69132",
+      "title": "América Latina y el Caribe ante el desafío de acelerar el paso hacia el cumplimiento de la Agenda 2030",
+      "year": 2024,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_69132.json",
+      "source_sha256": "5865aba4970dc4539f1dd0d7e27fc282986c7efc4cccb58c91f4d4ddd4705076",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/69216",
+      "title": "Panorama Fiscal de América Latina y el Caribe, 2024: política fiscal para enfrentar los desafíos del cambio climático",
+      "year": 2024,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_69216.json",
+      "source_sha256": "588f8a0aa1ac45e0f956c29c05c7c7e46809535376098efb0035707d6018fd6a",
+      "evidence": [
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[2].subsecciones[5].resumen",
+          "page": null,
+          "quote": "...eren entre países. La primera hoja analiza funciones de gobierno y programas de Argentina, Colombia, Honduras, México, Nicaragua y Perú; la segunda cruza gasto corriente y de capital con adaptación, mitigación, riesgos, pérdidas y daños y categorías mixtas. El bloque aporta ejemplos de energía, transporte, agricultura, agua, residuos, salud, educación, protección social y biodiversidad, y muestra que el contexto metodológico altera la lectura de los mo...",
+          "candidate_sense": "requiere_revision"
+        },
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[2].subsecciones[5].subsecciones[1].resumen",
+          "page": null,
+          "quote": "La hoja distingue gasto corriente y capital y luego cruza esa dimensión con adaptación, mitigación, gestión de riesgos, pérdidas y daños y categorías mixtas. Argentina y México destinan 65% del gasto climático a capital, mientras Honduras, Nicaragua y Perú presentan predominio corriente; las composiciones varían según programas de agua, infraestructura,...",
+          "candidate_sense": "evaluacion_danos_candidata"
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/80433",
+      "title": "Reversing direction in the used clothing crisis: Global, European, and Chilean perspectives",
+      "year": 2024,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_80433.json",
+      "source_sha256": "1a2385663a435513a0a31c298c7c1b4e4102265c227634574b905d2ece7bf3ec",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/80499",
+      "title": "Política económica y cambio climático: fijación de precios del carbono en América Latina y el Caribe",
+      "year": 2024,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_80499.json",
+      "source_sha256": "c752631340710b22b41ce044ce839f8c50c4cf91f57480aa7f20037c83ace0e7",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/80561",
+      "title": "Desafíos y oportunidades para la ejecución de proyectos de inversión pública con criterios de sostenibilidad: presentaciones en el XI Seminario de la Red de los Sistemas Nacionales de Inversión Pública de América Latina y el Caribe",
+      "year": 2024,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_80561.json",
+      "source_sha256": "1b2f7e460585b4247bbb2d3395594db2ba8ae2d3316a7a962e42a4040bb0a144",
+      "evidence": [
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[8].subsecciones[2].resumen",
+          "page": null,
+          "quote": "...a la Inversión Pública que integran información de riesgo de desastres, cambio climático, ambiente, orografía, sectores y condiciones socioeconómicas. La arquitectura interoperable y de código abierto ofrece análisis de daños y pérdidas, demanda, medidas RRD-ASICC, beneficios ecosistémicos y evaluación socioeconómica; siete países y entidades regionales tienen acceso. Los mapas incorporan escenarios futuros de clima, precipitaciones, temperatura y agua...",
+          "candidate_sense": "requiere_revision"
+        },
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[8].subsecciones[2].dimensiones[2].cita",
+          "page": 94,
+          "quote": "incluyendo entre las medidas a las Soluciones basadas en la Naturaleza (SbN) que no solamente reducen el riesgo, daño y pérdida, sino que producen múltiples beneficios al apoyarse en el ecosistema completo.",
+          "candidate_sense": "evaluacion_danos_candidata"
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/80595",
+      "title": "Estudio Económico de América Latina y el Caribe, 2024: trampa de bajo crecimiento, cambio climático y dinámica del empleo",
+      "year": 2024,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_80595.json",
+      "source_sha256": "6559dc86e05f5c95b61fc019f8e6610a51b3183b79e252b61719c4a58999befc",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/80737",
+      "title": "Strengthening regional capacities to address the risk of and from overshooting 1.5°C global warming in Latin America and the Caribbean",
+      "year": 2024,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_80737.json",
+      "source_sha256": "c5b3f9f95708c7dc5d796f7ab5c9ef37c0a6f67ef0d1a90f44cfec7bf71049fc",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/80746",
+      "title": "Estimación del precio social del carbono para la evaluación de la inversión pública en el Perú",
+      "year": 2024,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_80746.json",
+      "source_sha256": "3627bed4477b84a21de140882dba4b078ca735319fa19ceeee0178afd2bd3566",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/80769",
+      "title": "Management of the end-of-life vehicle recycling in the Caribbean. Policy Brief",
+      "year": 2024,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_80769.json",
+      "source_sha256": "97d340b099b06739440e6c728c6924a9007810d98955ce8f5cce17190498d5bb",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/80952",
+      "title": "Distributional implications of climate change and policy recommendations for an inclusive, just and sustainable transition",
+      "year": 2024,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_80952.json",
+      "source_sha256": "810050815af95d761db7aa72079540c23e3622f8f470ee971057be18fa63616f",
+      "evidence": [
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.documento.tipo_documento",
+          "page": null,
+          "quote": "Estudio técnico sobre impactos distributivos del cambio climático y políticas para una transición justa",
+          "candidate_sense": null
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/80955",
+      "title": "Metodología y estimación de los impactos y necesidades de inversión en la red eléctrica de San José para la implementación de la electromovilidad",
+      "year": 2024,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_80955.json",
+      "source_sha256": "7939c043424fdd4bb6f20dc909047797d72bff8f128196bbd0a172e2b371c3e9",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/80987",
+      "title": "Indicadores quantitativos da OCDE e o Brasil : meio ambiente",
+      "year": 2024,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_80987.json",
+      "source_sha256": "c267249ae73c245015e419e73032d24bd877f67d036d0df0717b23a4a8d6b7ba",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/81035",
+      "title": "Avaliação dos efeitos e impactos das inundações no Rio Grande do Sul. Novembro 2024",
+      "year": 2024,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_81035.json",
+      "source_sha256": "f77e1a36c507f53d6e9291aaa6c9a20527c02259472c226613da54c3dad53ca5",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/81051",
+      "title": "Climate change financing in the Caribbean: an analysis from a gender perspective",
+      "year": 2024,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_81051.json",
+      "source_sha256": "626a2ee0d864ee29fcfcf0f878e5d249555bef2e71f26fd8d2cab06df2aa1d92",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/81101",
+      "title": "Manual centroamericano de mantenimiento de carreteras con enfoque de reducción de riesgo de desastres, adaptación sostenible e incluyente al cambio climático y seguridad vial",
+      "year": 2024,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_81101.json",
+      "source_sha256": "5fb08731b68393a173591072828395d2d7a4d9666a78ed873e422338a9afe0c5",
+      "evidence": [
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[1].subsecciones[7].subsecciones[0].resumen",
+          "page": null,
+          "quote": "La hoja diagnostica la exposición regional del transporte a desastres y cambio climático y la convierte en un problema económico y social. Aporta cifras de daños y pérdidas de Mitch, Stan, Ágatha y Eta-Iota, incluidos puentes, caminos pavimentados y no pavimentados, para justificar adaptación, mitigación y reducción del riesgo. La consecuencia de política es actualizar mantenimiento y dise...",
+          "candidate_sense": "requiere_revision"
+        },
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[1].subsecciones[7].subsecciones[2].dimensiones[0].cita",
+          "page": 55,
+          "quote": "Implementar y transversalizar la gestión del riesgo de desastres y cambio climático en todas las \nactividades relacionadas al mantenimiento de carreteras con el fin de evitar daños y pérdidas sobre los \nactivos viales, así como garantizar la seguridad de las personas y una gestión eficiente en el manejo de \nbienes en general.",
+          "candidate_sense": "evaluacion_danos_candidata"
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/81149",
+      "title": "El gasto público vinculado con el cambio climático en América Latina",
+      "year": 2024,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_81149.json",
+      "source_sha256": "a46a7e8f80208caf8a59ba0aa5da5d4e6c52988cb501fd6e421414d8fde28229",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/81194",
+      "title": "Enhancing critical forms of financing and aid effectiveness through collaborative partnerships. Policy Brief",
+      "year": 2025,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_81194.json",
+      "source_sha256": "82b2b2d4823fa37ff566355c1797cf773e9ddde2e46a32a5a3f6ae299d314022",
+      "evidence": [
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_enriquecido.alcance.referentes_dependencias",
+          "page": null,
+          "quote": "Bridgetown Initiative 2.0, G20, instituciones financieras internacionales, bancos multilaterales de desarrollo, Climate Finance Access Network, Fondo Verde para el Clima, Fondo de Pérdidas y Daños, India-UN Development Partnership Fund, India-Brazil-South Africa Trust Fund y Development Cooperation Forum de Naciones Unidas.",
+          "candidate_sense": "requiere_revision"
+        },
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[7].subsecciones[2].resumen",
+          "page": null,
+          "quote": "Propone fusionar fondos pequeños, capitalizar el Fondo de Pérdidas y Daños y ampliar el Fondo Verde para el Clima y otros mecanismos, con el fin de reducir costos administrativos y acelerar desembolsos para SIDS.",
+          "candidate_sense": "politica_financiamiento_candidata"
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/81405",
+      "title": "América Latina y el Caribe y la Agenda 2030 a cinco años de la meta",
+      "year": 2025,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_81405.json",
+      "source_sha256": "4b8a1c9c9a56ad6c6192e6db9e2fbb927a22545f4343a2f071e29c666ee5b14c",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/81535",
+      "title": "Financiamiento del desarrollo urbano: suelo y movilidad pública en ciudades de Asia y América Latina",
+      "year": 2025,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_81535.json",
+      "source_sha256": "02d0f560fcf1d7cf2626a538c83e690c50c8a50f4c3cb809ffa792abbf1fa879",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/81772",
+      "title": "Panorama del océano, los mares y los recursos marinos y su contribución al desarrollo sostenible de América Latina y el Caribe",
+      "year": 2025,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_81772.json",
+      "source_sha256": "79a18c70c1ada8f351bf1f471f8bf09aafc31e66a34fa208bdb525adfbd96165",
+      "evidence": [
+        {
+          "concept_id": "responsabilidades_diferenciadas",
+          "path": "$.resumen_secciones[1].subsecciones[2].resumen",
+          "page": null,
+          "quote": "...y otros grupos vulnerables soportan una parte desproporcionada de la degradación y de la pérdida de acceso a recursos. El cierre plantea una gobernanza global y regional más sólida, basada en cooperación internacional, responsabilidades comunes pero diferenciadas y transformación sostenible de pesca, acuacultura, transporte y turismo.",
+          "candidate_sense": null
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/81875",
+      "title": "Diagnóstico y propuestas para una Meta Regional de Mitigación y Adaptación al Cambio Climático en el Sector Energético de los Países del SICA",
+      "year": 2025,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_81875.json",
+      "source_sha256": "c0c062ed4df1cac49166c29c41a31fbab3c5163f9489dd8cd1397e9e429d1d62",
+      "evidence": [
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_enriquecido.alcance.sectorial",
+          "page": null,
+          "quote": "Sector energético: acceso, combustibles limpios, renovables, eficiencia, mitigación, adaptación, pérdidas y daños, MRV y financiamiento",
+          "candidate_sense": "politica_financiamiento_candidata"
+        },
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_enriquecido.hallazgos_principales[3]",
+          "page": null,
+          "quote": "La propuesta articula cinco pactos energéticos regionales con adaptación, pérdidas y daños, financiamiento y MRV (pp.46-52).",
+          "candidate_sense": "politica_financiamiento_candidata"
+        },
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_enriquecido.conclusiones_recomendaciones.conclusiones[0]",
+          "page": null,
+          "quote": "La Meta Regional es viable como marco integrado porque conecta pactos regionales con mitigación, adaptación, pérdidas y daños, financiamiento y MRV.",
+          "candidate_sense": "politica_financiamiento_candidata"
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_enriquecido.conclusiones_recomendaciones.conclusiones[1]",
+          "page": null,
+          "quote": "Su implementación enfrenta restricciones fiscales, prioridades nacionales divergentes y la necesidad de una transición justa para poblaciones vulnerables.",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_enriquecido.resumen_narrativo",
+          "page": null,
+          "quote": "...complementados con resiliencia, financiamiento y medición, reporte y verificación. El cierre añade coordinación multisectorial, educación, comunicación, planificación de largo plazo y participación empresarial para una transición justa e inclusiva.",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[2].subsecciones[3].seccion",
+          "page": null,
+          "quote": "D. Acciones de adaptación al cambio climático y pérdidas y daños en el sector energético para la Meta Regional",
+          "candidate_sense": "politica_financiamiento_candidata"
+        },
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[2].subsecciones[3].dimensiones[0].cita",
+          "page": 49,
+          "quote": "Así, para la propuesta de la Meta Regional se contemplan acciones de adaptación al cambio climático y acciones cuyo objetivo es contribuir a la disminución de pérdidas y daños asociados a los fenómenos meteorológicos extremos y de evolución lenta (véase el cuadro 19.) Cuadro 19 Países del SICA: propuesta de acciones de la Meta Regional de Mitigación y Adaptación al Cambio Climático en el sect...",
+          "candidate_sense": "politica_financiamiento_candidata"
+        },
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[2].subsecciones[5].dimensiones[0].cita",
+          "page": 52,
+          "quote": "...a Meta Regional combina las acciones que forman parte de los pactos energéticos regionales y que contribuyen a la mitigación del cambio climático, junto con medidas de adaptación y acciones que contribuyen a reducir las pérdidas y daños resultado de fenómenos meteorológicos extremos y de evolución lenta.",
+          "candidate_sense": "requiere_revision"
+        },
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.interpelacion.gran_impulso_ambiental_concreto.evidencia",
+          "page": null,
+          "quote": "Propone un paquete coordinado de pactos, mitigación, adaptación, pérdidas y daños, financiamiento y MRV, aterrizado en acceso, leña, renovables y eficiencia; supera los tests de coordinación y sector estratégico.",
+          "candidate_sense": "requiere_revision"
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/81886",
+      "title": "Empleos verdes y sistemas de protección social: aportes a la transformación del modelo de desarrollo",
+      "year": 2025,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_81886.json",
+      "source_sha256": "26a6a6bfdc9fd7b66a49e3d19ec817fee140267f3d82f10b6fa87b7d45128b9f",
+      "evidence": [
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_enriquecido.pregunta_investigacion",
+          "page": null,
+          "quote": "...strategias para enfrentarlo afectan la cantidad y calidad del empleo en América Latina y el Caribe, y qué políticas —articulando protección social, desarrollo productivo e inclusión laboral— se requieren para lograr una transición justa?",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_enriquecido.alcance.referentes_dependencias",
+          "page": null,
+          "quote": "OIT, PNUMA, Foro Económico Mundial (WEF), McKinsey Global Institute, Unión Europea, España (Plan Territorial de Transición Justa), Estados Unidos (Inflation Reduction Act)",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_enriquecido.conclusiones_recomendaciones.conclusiones[1]",
+          "page": null,
+          "quote": "La transición justa requiere un enfoque transversal ('todo el gobierno') y participativo que articule políticas del mercado de trabajo, protección social, desarrollo productivo y político macroeconómica, superando obstáculos como intereses...",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_enriquecido.conclusiones_recomendaciones.recomendaciones[1]",
+          "page": null,
+          "quote": "A nivel nacional: adoptar leyes, decretos y estrategias de largo plazo que incorporen expresamente la noción de transición justa; implementar políticas macroeconómicas que orienten el crecimiento hacia la sostenibilidad mediante impuestos al carbono, mercados de emisión, incentivos fiscales verdes e inversión pública en infraestructura sostenible...",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_enriquecido.resumen_narrativo",
+          "page": null,
+          "quote": "Este documento de proyectos de la CEPAL (LC/TS.2025/23), de 62 páginas, analiza el impacto del cambio climático en el empleo de América Latina y el Caribe desde una perspectiva de transición justa, partiendo de la constatación de que los mercados laborales latinoamericanos se caracterizan por elevados grados de informalidad y exclusión que el cambio climático amenaza en profundizar. El autor recorre tres ejes: el...",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[0].resumen",
+          "page": null,
+          "quote": "...de largo plazo como el cambio climático reconfiguran la estructura de riesgos sociales. Define el alcance: revisar el impacto del cambio climático en el empleo y las políticas articuladas con protección social para una transición justa.",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[1].seccion",
+          "page": null,
+          "quote": "I. Cambio climático y transición justa: un desarrollo conceptual",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[1].resumen",
+          "page": null,
+          "quote": "Capítulo que recorre el marco conceptual desde el informe Brundtland (1987) hasta las COP más recientes, documentando la evolución de la transición justa desde su origen sindical hasta su incorporación en el Acuerdo de París y las Directrices de la OIT (2015). Desarrolla el concepto de empleos verdes con las tonalidades de verde (Cuadro 1) que distingue entre empleos amb...",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[1].subsecciones[0].seccion",
+          "page": null,
+          "quote": "A. El cambio conceptual a la transición justa",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[1].subsecciones[0].resumen",
+          "page": null,
+          "quote": "...(2023), documentando el rol del movimiento sindical y la OIT. Recorre la Cumbre de Río (1992), la economía verde del PNUMA, la Cumbre Río+20 y las Directrices de política de la OIT (2015). La COP28 aprobó un programa de transición justa con al menos dos diálogos por año.",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[1].subsecciones[0].dimensiones[2].cita",
+          "page": 11,
+          "quote": "...stenible, el trabajo decente y los empleos verdes, aprobada por la Conferencia Internacional del Trabajo en 2013 (OIT, 2013c), en 2015 un grupo de expertos convocados por la OIT elaboró “Directrices de política para una transición justa hacia economías y sociedades ambientalmente sostenibles para todos” (OIT, 2015) con los cuales, una vez identificado el mencionado rol clave de las políticas, se propone orientarlas para que puedan cumplir con su objeti...",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[3].seccion",
+          "page": null,
+          "quote": "III. Políticas para fomentar la transición justa y el empleo verde",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[3].resumen",
+          "page": null,
+          "quote": "Capítulo más extenso del documento que estructura las políticas necesarias para una transición justa en cuatro áreas: (A) cooperación internacional y finanzas sostenibles a nivel global; (B) estrategias de desarrollo, leyes marco de cambio climático y política fiscal verde a nivel nacional, incluyendo la propuesta de g...",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[3].subsecciones[2].subsecciones[1].dimensiones[0].cita",
+          "page": 39,
+          "quote": "En el contexto de la transición justa, las energías renovables, sobre todo la solar, ofrecen la posibilidad de ampliar el acceso a la electricidad a zonas rurales aisladas, y en general hogares pobres, para lo cual se requieren planes de diseño e implementa...",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[3].subsecciones[3].dimensiones[0].cita",
+          "page": 44,
+          "quote": "Las políticas del mercado de trabajo deben articularse con las políticas de protección social para mejorar la efectividad de la estrategia de transición justa, sobre todo, pero no exclusivamente, para grupos vulnerables (Robles y Holz, 2023).",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[4].resumen",
+          "page": null,
+          "quote": "Sintetiza en cinco puntos: desafío climático con incertidumbre, transición justa con empleo neto positivo, empleos verdes con tonalidades, enfoque transversal y participativo, tendencias de cuestionamiento que amenazan avances.",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.interpelacion.gran_impulso_ambiental_concreto.citas[1].cita",
+          "page": 34,
+          "quote": "una estrategia de transición justa tiene que componerse de una multiplicidad de instrumentos.",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.tipologia.razonamiento_5_pasos.tension_dialectica",
+          "page": null,
+          "quote": "...l documento procesa la contradicción entre transformar patrones de producción y consumo hacia la sostenibilidad y el riesgo de profundizar desigualdades en mercados laborales con informalidad y exclusión estructural. La transición justa es el eje articulatorio.",
+          "candidate_sense": null
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/81906",
+      "title": "Climate change and monetary policy in Latin America and the Caribbean",
+      "year": 2025,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_81906.json",
+      "source_sha256": "c2652deeaefcca944377e400b22ee0622c1822dfcb942295e33b2d7b0b1bd6d7",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/82026",
+      "title": "National economic development plans and their contributions to climate goals under the Paris Agreement",
+      "year": 2025,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_82026.json",
+      "source_sha256": "ce61251918877c3fe61c3d02713edf993b15af88af8bf6bc4c35cd6bb3f8f102",
+      "evidence": [
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_enriquecido.conclusiones_recomendaciones.recomendaciones[2]",
+          "page": null,
+          "quote": "Presentar un plan de inversión asociado con programas climáticos de cambio transformador en conexión explícita y directa con las NDC, describiendo qué inversiones se movilizarán (incluyendo mitigación, adaptación, transición justa y consideraciones de equidad) y cómo se movilizarán (tipo y escala de financiamiento y coordinación de la gobernanza) (p.20).",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[2].subsecciones[1].subsecciones[2].resumen",
+          "page": null,
+          "quote": "La figura 3 ilustra los vínculos de los planes con el grupo de co-beneficios de mitigación y consideraciones de equidad de las NDC: co-beneficios de mitigación derivados de la diversificación económica, transición justa (just transition) y preocupaciones de equidad (equity concerns). El gráfico desagrega la proporción de planes con vínculo explícito y directo, implícito e indirecto o sin referencia a cada característica, contribuyendo...",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[3].resumen",
+          "page": null,
+          "quote": "...iera; presentar un plan de inversión asociado con programas climáticos de cambio transformador en conexión explícita y directa con las NDC, describiendo qué inversiones se movilizarán (incluyendo mitigación, adaptación, transición justa y consideraciones de equidad) y cómo (tipo y escala de financiamiento y coordinación de la gobernanza).",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.interpelacion.como_hacerlo_concreto.desglose_items[3].item",
+          "page": 20,
+          "quote": "...áticos de cambio transformador en conexión explícita y directa con las NDC, describiendo qué inversiones se movilizarán (programas prioritarios y proyectos necesarios), incluyendo inversiones de mitigación y adaptación, transición justa y consideraciones de equidad.",
+          "candidate_sense": null
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/82157",
+      "title": "Assessment of the effects and impacts of Hurricane Beryl on Barbados, 2024",
+      "year": 2025,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_82157.json",
+      "source_sha256": "fddc410934b765abb03fef137199c8fbcf84403396f67cc977e9e16243d166e6",
+      "evidence": [
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.tipologia.razonamiento_5_pasos.filtro_categoria_primaria",
+          "page": null,
+          "quote": "...estructura y sectores expuestos. Se descarta #11 como primaria porque códigos, datos, coordinación, seguros y capacidades estatales son medios para gobernar esa transformación ambiental, no el objeto final; el método de daños y pérdidas y el capítulo de ambiente confirman esa prioridad.",
+          "candidate_sense": "requiere_revision"
+        },
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.tipologia.razonamiento_5_pasos.validacion_anclas",
+          "page": null,
+          "quote": "...trasta con el ancla #20, Impactos económicos del cambio climático en Colombia. Síntesis: ambos tienen impactos nacionales y adaptación como objeto, y capacidades públicas como medio. Este caso es distinto porque combina daños y pérdidas de un huracán específico con reconstrucción sectorial y valoración explícita de playas y arrecifes; por eso mantiene #6 primaria y usa #11 como secundaria habilitadora.",
+          "candidate_sense": "requiere_revision"
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/82449",
+      "title": "Enhancing data for development: policy imperatives for tracking the implementation of the Antigua and Barbuda Agenda for Small Island Developing States in the Caribbean. Policy Brief",
+      "year": 2025,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_82449.json",
+      "source_sha256": "016605b431174bd9bc1b949855d55c258b974380b4ac5569052b1b23ab9e97cc",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/82456",
+      "title": "La vivienda y el desarrollo urbano como motores de inclusión social y acción climática en América Latina y el Caribe: intervenciones en la XXXIII Asamblea General del Foro de Ministros y Autoridades Máximas de la Vivienda y el Desarrollo Urbano de América Latina y el Caribe (MINURVI)",
+      "year": 2025,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_82456.json",
+      "source_sha256": "ab3de26287cce7a5bdda25b48ee038bf4e53d33e8bad61acd9bd3d80de6d2f8b",
+      "evidence": [
+        {
+          "concept_id": "perdidas_danos",
+          "path": "$.resumen_secciones[0].subsecciones[1].dimensiones[0].cita",
+          "page": 10,
+          "quote": "...urge la iniciativa de Bridgetown, que representa una vía para captar entre 3 y 5 billones de dólares anuales necesarios para la financiación climática sin requerir nuevo capital, abordando la mitigación, adaptación, las pérdidas y daños a través de una combinación de subvenciones gubernamentales directas, préstamos y financiamiento privado.",
+          "candidate_sense": "politica_financiamiento_candidata"
+        }
+      ]
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/82476",
+      "title": "Evaluación de los efectos e impactos Tormenta Tropical Sara en Honduras",
+      "year": 2025,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_82476.json",
+      "source_sha256": "78dbda2253e1982de0aabd489ae89bd499de8c2a76bf06e58f050011d2f73f54",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/82547",
+      "title": "Criterios para la sostenibilidad y la resiliencia de las inversiones públicas agropecuarias en Centroamérica y la República Dominicana",
+      "year": 2025,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_82547.json",
+      "source_sha256": "b0ecddc682b86bc3182834bebd4cd362f3054b6d44fde7d9f74f42c56fd6f01a",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/84499",
+      "title": "La situación de las estadísticas, indicadores y cuentas ambientales en América Latina y el Caribe, 2023",
+      "year": 2025,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_84499.json",
+      "source_sha256": "15b14c32ce760122de55c8bd6e74fa03494a0b71d7b044705639bfcc9689b884",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/84510",
+      "title": "Financiamiento del cambio climático en el Caribe: análisis desde una perspectiva de género",
+      "year": 2025,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_84510.json",
+      "source_sha256": "bf1362be5db3db792797b84a7606830171fce9adf44ebb279d7bef6862207510",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/85930",
+      "title": "Repositioning science, technology and innovation for sustainable development in Caribbean SIDS. Policy Brief",
+      "year": 2026,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_85930.json",
+      "source_sha256": "f75ec638b2a44f3939dce61384bd631991496e66743ea3741a977e43585a81d0",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/86527",
+      "title": "La economía del cambio climático en América Latina y el Caribe, 2025: la acción climática para superar las trampas del desarrollo",
+      "year": 2026,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_86527.json",
+      "source_sha256": "bc8459b1d1f8560826e6b4fc4f47b0f2100566b1ef554d92e8ca7a4aa4112038",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/89774",
+      "title": "Agenda 2030 en América Latina y el Caribe: ¿cómo acelerar el paso hacia su cumplimiento en la nueva era de incertidumbre y fragmentación geopolítica?",
+      "year": 2026,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_89774.json",
+      "source_sha256": "7f89b3e582880f0ccad439521146a05845174929f77d3a68fd10e60e3e9228b5",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/89932",
+      "title": "Informe de la Secretaría sobre registros de emisiones y transferencias de contaminantes en América Latina y el Caribe: Estado actual, buenas prácticas y recomendaciones",
+      "year": 2026,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_89932.json",
+      "source_sha256": "444119f175fd58a3dd6cb916ef1aef0a218af358be2212a56ffccebe21084d97",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/89934",
+      "title": "Road map for the implementation in Belize of the Regional Agreement on Access to Information, Public Participation and Justice in Environmental Matters in Latin America and the Caribbean",
+      "year": 2026,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_89934.json",
+      "source_sha256": "00995f7a03a537d54ec044de53206a2d21e84fa6a0e18a9889d65ae4362e4183",
+      "evidence": []
+    },
+    {
+      "document_id": "https://hdl.handle.net/11362/90001",
+      "title": "El mundo del trabajo frente a las transformaciones ambientales: desafíos para la inclusión laboral",
+      "year": 2026,
+      "period_id": "P3",
+      "source_path": "fase2/corpus/resultados/json/doc_90001.json",
+      "source_sha256": "7be4d80314e485fd45ade18ef2cf44ccbf14498119c347c8fadee0d74245fd37",
+      "evidence": [
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[1].subsecciones[0].resumen",
+          "page": null,
+          "quote": "...desigualdad y bajas capacidades institucionales. Los desastres erosionan capacidad productiva y fiscal, amplían exposición y vulnerabilidad de trabajadores pobres e informales, y dificultan consensos y coordinación. La transición justa requiere acceso equitativo a financiamiento, capacitación y tecnología; el diagrama traduce estas tensiones en barreras de entrada, pérdida y creación de empleos, ingresos y protección social.",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.resumen_secciones[1].subsecciones[0].dimensiones[1].cita",
+          "page": 13,
+          "quote": "Los mercados laborales segmentados, la alta informalidad y las bajas capacidades laborales complican la transición justa si no existe un acceso equitativo a la financiación, capacitación y transferencia de tecnología (Baptista et al., 2024; Saget et al., 2020; Valenzuela et al., 2025).",
+          "candidate_sense": null
+        },
+        {
+          "concept_id": "transicion_justa",
+          "path": "$.tipologia.tipo_documento_climatico",
+          "page": null,
+          "quote": "Estudio técnico sobre impactos climáticos en el mercado laboral y políticas de inclusión laboral para adaptación, respuesta y transición justa.",
+          "candidate_sense": null
+        }
+      ]
+    }
+  ]
+}

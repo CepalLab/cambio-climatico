@@ -1,10 +1,21 @@
 # Transición operativa a Fase 3
 
-## Estado al 2026-08-24
+## Estado al 2026-08-27
 
-La Fase 3 está lista para análisis agregado exploratorio y para comenzar el análisis de contenido. El universo activo es de 238 documentos: 244 históricos menos 6 exclusiones aplicadas.
+La Fase 3 completó el análisis de contenido y la integración editorial del
+informe maestro v2. El universo activo es de 238 documentos: 244 históricos
+menos 6 exclusiones aplicadas. El informe cubre 2015–2026 y el período más
+reciente incluye seis publicaciones fechadas en 2026.
 
 La fuente canónica son los JSON de Fase 2. Los derivados v1 no los reemplazan.
+El punto de reanudación es
+[03_analisis_contenido/CHECKPOINT_FASE3_3_2026-08-27.md](03_analisis_contenido/CHECKPOINT_FASE3_3_2026-08-27.md).
+Los productos vigentes son el
+[informe maestro v2](03_analisis_contenido/INFORME_MAESTRO_V2_BORRADOR.md),
+el [anexo técnico](03_analisis_contenido/ANEXO_TECNICO_INFORME_V2.md), cinco
+figuras reproducibles y cuatro cuadros. El trabajo pendiente es revisión humana
+final y producción de una versión de circulación en el formato que defina el
+equipo.
 
 ## Capas de trabajo
 
@@ -40,23 +51,16 @@ Los conteos de países, sectores y subregiones se basan en relaciones candidatas
 & .venv/Scripts/python.exe fase3/02_eda/scripts/generar_eda_v1.py
 ```
 
-## Próxima capa analítica
+## Estado y próximos pasos
 
-El estado consolidado de la Fase 3.3, incluidos artefactos, validaciones y
-comandos de reanudacion, esta en
-[03_analisis_contenido/CHECKPOINT_FASE3_3_2026-08-26.md](03_analisis_contenido/CHECKPOINT_FASE3_3_2026-08-26.md).
+La siguiente sesión no debe reiniciar las capas analíticas. Debe:
 
-La Fase 3.3 inicia con el contrato documentado en
-[03_analisis_contenido/ESPECIFICACION_ANALITICA_v2.md](03_analisis_contenido/ESPECIFICACION_ANALITICA_v2.md).
-El informe de 30 páginas es el camino crítico; el activo analítico vivo y el
-grafo son derivados incrementales del mismo trabajo de evidencia.
-
-1. Crear formatos de preguntas, conceptos, hallazgos, decisiones y grafo.
-2. Construir paquetes de evidencia reproducibles por pregunta.
-3. Ejecutar los pilotos de evolución de enfoques y gobernanza multinivel.
-4. Estabilizar el protocolo y responder las nueve preguntas de investigación.
-5. Redactar el informe y habilitar el visor de evidencia y relaciones.
-6. Refinar en paralelo relaciones y generar versiones posteriores cuando
-	corresponda.
+1. Revisar humanamente el informe maestro v2, con énfasis en tono, prioridades
+   y adecuación de las figuras para circulación.
+2. Definir el formato de entrega, por ejemplo Word o PDF.
+3. Preparar portada, índice y estilo institucional sin cambiar evidencia,
+   citas ancla ni límites metodológicos.
+4. Revisar el árbol de trabajo completo antes de un commit: existen cambios
+   acumulados de normalización, EDA y análisis que no deben descartarse.
 
 Cada producto analítico debe declarar versión de la base, denominador, filtros, exclusiones y limitaciones.

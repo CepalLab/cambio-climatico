@@ -130,6 +130,146 @@
       "impact": "La prosa final conservará tildes, eñes y puntuación española. P1 se presentará como 2015–2018, P2 como 2019–2022 y P3 como 2023–2026, aclarando que el corpus disponible llega hasta 2025.",
       "affected_artifacts": ["GUIA_REDACCION_NARRATIVA_Y_EVIDENCIA_v1.md", "PILOTO_PROSA_NARRATIVA_P8_BIG_PUSH_v1.md"],
       "owner": "fase3_reorientacion"
+    },
+    {
+      "decision_id": "DEC-F3-2026-08-26-014",
+      "date": "2026-08-26",
+      "status": "adopted",
+      "decision": "Mantener genero y agua como ejemplos sectoriales dentro de adaptacion, igualdad y territorio, sin promoverlos a ejes transversales autonomos del informe.",
+      "rationale": "Las menciones y transformaciones disponibles sugieren relevancia, pero no reemplazan una regla analitica validada ni una decision interpretativa del equipo para tratarlos como hilos transversales.",
+      "impact": "La sintesis v2 podra usar documentos ancla sobre genero, cuidados y agua cuando sostengan un argumento de adaptacion, igualdad o territorio. No se agregaran nuevos cuadros, indicadores ni secciones transversales para esos temas.",
+      "affected_artifacts": ["SINTESIS_GLOBAL_COMPLETA_BORRADOR_v1.md", "RESPUESTAS_PREGUNTAS_FASE3_3_BORRADOR_v1.md", "PLAN_CUADROS_GRAFICOS_v1.md"],
+      "owner": "fase3_reorientacion"
+    },
+    {
+      "decision_id": "DEC-F3-2026-08-26-015",
+      "date": "2026-08-26",
+      "status": "adopted",
+      "decision": "Incorporar perdidas y danos, transicion justa y responsabilidades comunes pero diferenciadas como lineas analiticas condicionadas a una verificacion reproducible contra los JSON canonicos activos.",
+      "rationale": "Los perfiles documentales no incluyen todas las citas de seccion y pueden subdetectarlas. Los conteos, sentidos y citas que se usen en el informe deben provenir de un artefacto trazable por documento, periodo, pagina y hash de fuente.",
+      "impact": "La sintesis v2 puede presentar estos ejes como resultados condicionados por la verificacion. Perdidas y danos debe distinguir entre evaluacion de danos y el marco politico-financiero; los documentos que no permitan clasificacion automatica quedan para revision.",
+      "affected_artifacts": ["scripts/verificar_ejes_canonicos_v1.py", "salidas/verificacion_ejes_canonicos_v1.json", "salidas/verificacion_ejes_canonicos_v1.md", "SINTESIS_GLOBAL_COMPLETA_BORRADOR_v2.md", "RESPUESTAS_PREGUNTAS_FASE3_3_BORRADOR_v2.md"],
+      "owner": "fase3_reorientacion"
+    },
+    {
+      "decision_id": "DEC-F3-2026-08-26-016",
+      "date": "2026-08-26",
+      "status": "adopted",
+      "decision": "Formular P6 como un cambio de enfasis del abordaje CEPAL, con persistencia de impactos, desigualdad y territorio, y no como una sucesion lineal de etapas cerradas.",
+      "rationale": "La comparacion temporal combina periodos de distinto tamano, taxonomia candidata calibrada y campos canonicos de cobertura desigual. Los contraejemplos por periodo y la lente del productor evitan sobreinterpretar la composicion del corpus como cambio sustantivo puro.",
+      "impact": "P6 y la sintesis v2 triangularan taxonomia candidata, campos canonicos directos y citas verificadas; declararan el sesgo de composicion y usaran contraejemplos en cada periodo.",
+      "affected_artifacts": ["SINTESIS_GLOBAL_COMPLETA_BORRADOR_v2.md", "RESPUESTAS_PREGUNTAS_FASE3_3_BORRADOR_v2.md", "salidas/paneles_analiticos_v1.md"],
+      "owner": "fase3_reorientacion"
+    },
+    {
+      "decision_id": "DEC-F3-2026-08-26-017",
+      "date": "2026-08-26",
+      "status": "adopted",
+      "decision": "Exigir revision humana y auditoria de segundo modelo de la sintesis v2 antes de iniciar la prosa narrativa, con foco obligatorio en P6, P8 y los nuevos ejes de financiamiento, perdidas y danos y transicion justa.",
+      "rationale": "Estos apartados combinan evidencia de distinta granularidad y nuevas afirmaciones verificadas fuera de los perfiles documentales. La compuerta evita que una correccion del mapa se convierta sin control en una conclusion del informe.",
+      "impact": "La prosa final y la arquitectura de capitulos se iniciaran solo despues de que el mapa v2 registre observaciones y resoluciones de ambas revisiones.",
+      "affected_artifacts": ["SINTESIS_GLOBAL_COMPLETA_BORRADOR_v2.md", "RESPUESTAS_PREGUNTAS_FASE3_3_BORRADOR_v2.md", "revisiones/"],
+      "owner": "fase3_reorientacion"
+    },
+    {
+      "decision_id": "DEC-F3-2026-08-26-018",
+      "date": "2026-08-26",
+      "status": "adopted",
+      "decision": "Aprobar como borrador revisado el bloque narrativo de metodo, evolucion y Gran Impulso Ambiental tras revision humana y auditoria independiente.",
+      "rationale": "La revision humana aprobo el argumento. La auditoria verifico las tres citas y detecto dos ajustes de trazabilidad y alcance, ambos corregidos y revalidados.",
+      "impact": "Se puede continuar con la siguiente entrega narrativa. La compuerta general conserva pendientes los ejes de perdidas y danos y CBDR hasta que se incorporen al capitulo correspondiente.",
+      "affected_artifacts": ["BLOQUE_NARRATIVO_01_METODO_EVOLUCION_BIG_PUSH_v1.md", "revisiones/COMPUERTA_REVISION_V2.md"],
+      "owner": "fase3_redaccion"
+    },
+    {
+      "decision_id": "DEC-F3-2026-08-26-019",
+      "date": "2026-08-26",
+      "status": "adopted",
+      "decision": "Aprobar como borrador revisado el bloque narrativo de P1-P7 y avanzar a la entrega sobre participacion, conclusiones y agenda.",
+      "rationale": "El equipo revisor aprobo la articulacion entre impactos, instrumentos, implementacion y cambios de enfasis. La auditoria independiente queda como compuerta antes de promover el bloque a version final.",
+      "impact": "Se habilita la redaccion de P9, conclusiones y agenda. Los ejes de perdidas y danos y CBDR permanecen fuera de afirmaciones sustantivas hasta su revision especifica.",
+      "affected_artifacts": ["BLOQUE_NARRATIVO_02_P1_P7_v1.md", "revisiones/COMPUERTA_REVISION_V2.md"],
+      "owner": "fase3_redaccion"
+    },
+    {
+      "decision_id": "DEC-F3-2026-08-27-020",
+      "date": "2026-08-27",
+      "status": "adopted",
+      "decision": "Aprobar como borrador revisado el bloque narrativo de participacion, conclusiones y agenda tras incorporar la evidencia de genero.",
+      "rationale": "El equipo revisor confirmo el argumento de P9 y solicito incorporar explicitamente la referencia canonica de transversalizacion de genero, correccion que se aplico y verifico contra SQLite.",
+      "impact": "Se habilita la redaccion del resumen ejecutivo y la preparacion de figuras. La auditoria independiente del bloque 03 se mantiene como requisito antes de una version final del informe.",
+      "affected_artifacts": ["BLOQUE_NARRATIVO_03_P9_CONCLUSIONES_AGENDA_v1.md", "revisiones/COMPUERTA_REVISION_V2.md"],
+      "owner": "fase3_redaccion"
+    },
+    {
+      "decision_id": "DEC-F3-2026-08-27-021",
+      "date": "2026-08-27",
+      "status": "adopted",
+      "decision": "Cerrar la auditoria independiente de los bloques narrativos 02 y 03 tras incorporar los ajustes de alcance, contraejemplos, composicion del corpus y elipsis de citas.",
+      "rationale": "La auditoria verifico 10 de 10 citas contra SQLite y los JSON canonicos. Los ajustes solicitados no modifican las tesis, sino que precisan el alcance de la evidencia y alinean la arquitectura con los documentos ancla efectivos.",
+      "impact": "Los tres bloques narrativos quedan auditados para su integracion editorial. Perdidas y danos y CBDR permanecen fuera de conclusiones sustantivas hasta completar su compuerta especifica.",
+      "affected_artifacts": ["revisiones/AUDITORIA_INDEPENDIENTE_BLOQUES_02_03_v1.md", "BLOQUE_NARRATIVO_02_P1_P7_v1.md", "BLOQUE_NARRATIVO_03_P9_CONCLUSIONES_AGENDA_v1.md", "ARQUITECTURA_INFORME_30P_v1.md", "revisiones/COMPUERTA_REVISION_V2.md"],
+      "owner": "fase3_redaccion"
+    },
+    {
+      "decision_id": "DEC-F3-2026-08-27-022",
+      "date": "2026-08-27",
+      "status": "adopted",
+      "decision": "Aprobar el plan de expansion v2 hacia un informe de aproximadamente 20 paginas de prosa, con capitulos nuevos de escalas, capacidades, tipologia, tensiones y coherencia entre propuestas, avances y brechas.",
+      "rationale": "El informe maestro v1 es un ensamblaje breve. La expansion se limita a evidencia documentada y mantiene una meta flexible de 6.800 a 7.800 palabras para evitar inflar la prosa.",
+      "impact": "Se habilita la construccion de derivados y fichas para los tres capitulos nuevos antes de reescribir el informe maestro v2.",
+      "affected_artifacts": ["PLAN_EXPANSION_INFORME_V2.md", "INFORME_MAESTRO_30P_BORRADOR_v1.md"],
+      "owner": "fase3_redaccion"
+    },
+    {
+      "decision_id": "DEC-F3-2026-08-27-023",
+      "date": "2026-08-27",
+      "status": "adopted",
+      "decision": "Tratar perdidas y danos de forma acotada en el capitulo de implementacion, proteccion financiera y evaluacion de desastres, y CBDR como nota cualitativa separada en la comparacion temporal.",
+      "rationale": "Ambos conceptos estan presentes en el corpus, pero no son pilares centrales. Perdidas y danos requiere distinguir entre evaluacion de impactos y el marco politico-financiero; CBDR refiere a responsabilidades comunes pero diferenciadas en la negociacion climatica y no es un sinonimo de perdidas y danos.",
+      "impact": "No se incorporan al resumen ejecutivo ni a las conclusiones como hallazgos centrales. Sus menciones finales deben conservar evidencia seleccionada y lenguaje de alcance acotado.",
+      "affected_artifacts": ["PLAN_EXPANSION_INFORME_V2.md", "INFORME_MAESTRO_30P_BORRADOR_v2.md"],
+      "owner": "fase3_redaccion"
+    },
+    {
+      "decision_id": "DEC-F3-2026-08-27-024",
+      "date": "2026-08-27",
+      "status": "adopted",
+      "decision": "Aprobar FE-01 con un recorrido narrativo desde SICA a la cuenca binacional del río Sixaola y a la ciudad de Belmopan.",
+      "rationale": "La secuencia permite tratar las escalas de análisis como un hilo de posibilidades y límites, sin reducir el capítulo a la etiqueta multinivel ni reutilizar el caso agrícola de FE-03.",
+      "impact": "FE-01 queda habilitada para auditoría independiente y redacción posterior. FE-02 y FE-03 conservan sus revisiones humanas pendientes.",
+      "affected_artifacts": ["FICHAS_EXPANSION_INFORME_V2.md", "revisiones/COMPUERTA_REVISION_V2.md"],
+      "owner": "fase3_redaccion"
+    },
+    {
+      "decision_id": "DEC-F3-2026-08-27-025",
+      "date": "2026-08-27",
+      "status": "adopted",
+      "decision": "Aprobar FE-02 y FE-03 para redactar los capítulos de transformaciones y tensiones, y de coherencia entre propuestas, avances y brechas.",
+      "rationale": "Las fichas cuentan con datos y citas verificadas, y la auditoría de reproducibilidad ya confirmó que sus paquetes usan la misma SQLite y rango temporal 2015-2026.",
+      "impact": "Se habilita un bloque narrativo de expansión antes de integrarlo al informe maestro v2. La prosa final conservará períodos expresados por años y trasladará identificadores internos al anexo técnico.",
+      "affected_artifacts": ["FICHAS_EXPANSION_INFORME_V2.md", "revisiones/COMPUERTA_REVISION_V2.md", "INFORME_MAESTRO_30P_BORRADOR_v2.md"],
+      "owner": "fase3_redaccion"
+    },
+    {
+      "decision_id": "DEC-F3-2026-08-27-026",
+      "date": "2026-08-27",
+      "status": "adopted",
+      "decision": "Aprobar el bloque de expansión v2 para integrarlo al informe maestro con capítulos de escalas, tensiones y coherencia de implementación.",
+      "rationale": "El equipo revisor aprobó el recorrido territorial, la interpretación prudente de tensiones y la lectura de propuestas, avances y brechas. La base de evidencia fue regenerada y auditada contra SQLite 2015-2026.",
+      "impact": "Se habilita la construcción del informe maestro v2 con prosa editorial, períodos nombrados por años y referencias públicas por título, año y página.",
+      "affected_artifacts": ["BLOQUE_NARRATIVO_04_EXPANSION_V2.md", "INFORME_MAESTRO_30P_BORRADOR_v2.md", "revisiones/COMPUERTA_REVISION_V2.md"],
+      "owner": "fase3_redaccion"
+    },
+    {
+      "decision_id": "DEC-F3-2026-08-27-027",
+      "date": "2026-08-27",
+      "status": "adopted",
+      "decision": "Cerrar la integración editorial del informe maestro v2 y pausar antes de preparar la versión de circulación.",
+      "rationale": "El informe incorporó la revisión independiente, la justificación temporal, citas públicas uniformes, figuras reproducibles ajustadas y el anexo técnico de trazabilidad. Las validaciones técnicas y de Markdown fueron satisfactorias.",
+      "impact": "La siguiente fase queda limitada a revisión humana final y producción en el formato de circulación elegido, sin reabrir la evidencia ni ampliar la prosa salvo decisión explícita.",
+      "affected_artifacts": ["INFORME_MAESTRO_V2_BORRADOR.md", "ANEXO_TECNICO_INFORME_V2.md", "CHECKPOINT_FASE3_3_2026-08-27.md", "scripts/construir_informe_maestro_v2.py", "scripts/generar_figuras_informe_v1.py"],
+      "owner": "fase3_redaccion"
     }
   ]
 }

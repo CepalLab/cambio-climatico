@@ -112,6 +112,14 @@ def normalize_record(record: dict, dictionary: dict) -> dict:
     document = data["documento"]
     scope = nested(data, "resumen_enriquecido", "alcance") or {}
     type_override = dictionary.get("tipo_documental_overrides", {}).get(record["handle"])
+    explicit_values = dictionary.get("tipo_documental_valores_explicitos", {})
+    original_type = document.get("tipo_documento")
+    explicit_type = explicit_values.get(original_type)
+    if explicit_type is None and original_type:
+        explicit_type = next(
+            (entry_type for value, entry_type in explicit_values.items() if value.casefold() == original_type.casefold()),
+            None,
+        )
     if type_override:
         type_candidates = [
             {
@@ -121,6 +129,16 @@ def normalize_record(record: dict, dictionary: dict) -> dict:
             }
             for entry in dictionary["tipos_documentales"]
             if entry["id"] == type_override
+        ]
+    elif explicit_type:
+        type_candidates = [
+            {
+                "id": entry["id"],
+                "nombre": entry["nombre"],
+                "aliases": ["adjudicacion explicita del diccionario"],
+            }
+            for entry in dictionary["tipos_documentales"]
+            if entry["id"] == explicit_type
         ]
     else:
         type_candidates = find_type_matches(document.get("tipo_documento"), dictionary["tipos_documentales"])

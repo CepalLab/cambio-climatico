@@ -1,10 +1,10 @@
 {
   "version": "perfiles-documentales-v1",
-  "generated_at": "2026-08-26T20:39:36+00:00",
+  "generated_at": "2026-08-26T22:29:51+00:00",
   "base_version": "fase3-analitica-v1",
   "source": {
     "normalized_path": "C:/Users/abustamante/Cepal-lab/experimentos/cambio_climatico/fase3/01_normalizacion/salidas/corpus_activo_normalizado_v1.json",
-    "normalized_sha256": "fb8bba656183205a15a439d6be91f041939b050cdfe2d2c9dce629d5606b3e32",
+    "normalized_sha256": "a04b76346f5959b73470940f4156909b4c7161afdc01c206a7c1e3caa36160a5",
     "documents_active": 238,
     "exclusions_applied": 6
   },
@@ -3587,7 +3587,12 @@
         "year": 2015,
         "publication_date": "2015-10",
         "division": "México",
-        "document_type": null,
+        "document_type": {
+          "id": "resumen_ejecutivo",
+          "nombre": "Resumen ejecutivo",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DESARROLLO SOSTENIBLE",
@@ -3697,7 +3702,12 @@
         "year": 2015,
         "publication_date": "2015-10",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DESARROLLO SOSTENIBLE",
@@ -4174,7 +4184,12 @@
         "year": 2015,
         "publication_date": "2015-11",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DESARROLLO SOSTENIBLE",
@@ -6039,7 +6054,12 @@
         "year": 2016,
         "publication_date": "2016-04",
         "division": "Puerto España",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGENDA 2030 PARA EL DESARROLLO SOSTENIBLE",
           "ASUNTOS FISCALES",
@@ -6497,7 +6517,12 @@
         "year": 2016,
         "publication_date": "2016-09",
         "division": "Brasilia",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGENDA 2030 PARA EL DESARROLLO SOSTENIBLE",
           "DESARROLLO SOSTENIBLE",
@@ -6878,7 +6903,12 @@
         "year": 2016,
         "publication_date": "2014-01",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "ENERGÍA",
@@ -6968,7 +6998,12 @@
         "year": 2016,
         "publication_date": "2016",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "informe",
+          "nombre": "Informe",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGENDA 2030 PARA EL DESARROLLO SOSTENIBLE",
           "CAMBIO CLIMÁTICO",
@@ -7266,7 +7301,12 @@
         "year": 2016,
         "publication_date": "2015",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "informe",
+          "nombre": "Informe",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DESARROLLO SOSTENIBLE",
@@ -7482,7 +7522,12 @@
         "year": 2017,
         "publication_date": "2017-02",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "FINANCIAMIENTO PARA EL DESARROLLO"
@@ -7606,7 +7651,12 @@
         "year": 2016,
         "publication_date": "2016-12",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CIUDADES Y ASENTAMIENTOS HUMANOS",
           "CAMBIO CLIMÁTICO",
@@ -7731,7 +7781,12 @@
         "year": 2017,
         "publication_date": "2017-03",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGENDA 2030 PARA EL DESARROLLO SOSTENIBLE",
           "CAMBIO CLIMÁTICO",
@@ -8015,7 +8070,12 @@
         "year": 2017,
         "publication_date": "2017-06",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGRICULTURA Y DESARROLLO RURAL",
           "CAMBIO CLIMÁTICO",
@@ -8108,7 +8168,12 @@
         "year": 2017,
         "publication_date": "2017-06",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGENDA 2030 PARA EL DESARROLLO SOSTENIBLE",
           "AGRICULTURA Y DESARROLLO RURAL",
@@ -8420,7 +8485,12 @@
         "year": 2017,
         "publication_date": "2017-06",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGENDA 2030 PARA EL DESARROLLO SOSTENIBLE",
           "CAMBIO CLIMÁTICO",
@@ -9186,7 +9256,12 @@
         "year": 2017,
         "publication_date": "2017",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "informe",
+          "nombre": "Informe",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "MEDIO AMBIENTE",
           "CAMBIO CLIMÁTICO",
@@ -9394,7 +9469,12 @@
         "year": 2017,
         "publication_date": "2017-12",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGENDA 2030 PARA EL DESARROLLO SOSTENIBLE",
           "CAMBIO CLIMÁTICO",
@@ -9520,7 +9600,12 @@
         "year": 2017,
         "publication_date": "2017-12",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGENDA 2030 PARA EL DESARROLLO SOSTENIBLE",
           "CAMBIO CLIMÁTICO",
@@ -9619,7 +9704,12 @@
         "year": 2017,
         "publication_date": "2017-12",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGENDA 2030 PARA EL DESARROLLO SOSTENIBLE",
           "CAMBIO CLIMÁTICO",
@@ -9717,7 +9807,12 @@
         "year": 2018,
         "publication_date": "2018-03",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGENDA 2030 PARA EL DESARROLLO SOSTENIBLE",
           "CAMBIO CLIMÁTICO",
@@ -9991,7 +10086,12 @@
         "year": 2018,
         "publication_date": "2018-03",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGENDA 2030 PARA EL DESARROLLO SOSTENIBLE",
           "CAMBIO CLIMÁTICO",
@@ -10116,7 +10216,12 @@
         "year": 2018,
         "publication_date": "2018-05",
         "division": "CEPAL - SE - Institucional",
-        "document_type": null,
+        "document_type": {
+          "id": "informe_estrategico",
+          "nombre": "Informe estratégico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGENDA 2030 PARA EL DESARROLLO SOSTENIBLE",
           "DESIGUALDAD",
@@ -10368,7 +10473,12 @@
         "year": 2018,
         "publication_date": "2023",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "instrumento_normativo",
+          "nombre": "Instrumento normativo",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGENDA 2030 PARA EL DESARROLLO SOSTENIBLE",
           "CAMBIO CLIMÁTICO",
@@ -10480,7 +10590,12 @@
         "year": 2018,
         "publication_date": "2018",
         "division": "México",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGENDA 2030 PARA EL DESARROLLO SOSTENIBLE",
           "CAMBIO CLIMÁTICO",
@@ -10725,7 +10840,12 @@
         "year": 2018,
         "publication_date": "2018-09",
         "division": "México",
-        "document_type": null,
+        "document_type": {
+          "id": "guia_metodologica",
+          "nombre": "Guía metodológica",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGENDA 2030 PARA EL DESARROLLO SOSTENIBLE",
           "AGRICULTURA Y DESARROLLO RURAL",
@@ -11651,7 +11771,12 @@
         "year": 2018,
         "publication_date": "2018-09",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGENDA 2030 PARA EL DESARROLLO SOSTENIBLE",
           "CIUDADES Y ASENTAMIENTOS HUMANOS",
@@ -11869,7 +11994,12 @@
         "year": 2018,
         "publication_date": "2018",
         "division": "PLANIFICACIÓN PARA EL DESARROLLO",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGENDA 2030 PARA EL DESARROLLO SOSTENIBLE",
           "AGRICULTURA Y DESARROLLO RURAL",
@@ -11997,7 +12127,12 @@
         "year": 2019,
         "publication_date": "2019-01",
         "division": "Puerto España",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DESARROLLO SOSTENIBLE",
@@ -12110,7 +12245,12 @@
         "year": 2019,
         "publication_date": "2019",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGENDA 2030 PARA EL DESARROLLO SOSTENIBLE",
           "CAMBIO CLIMÁTICO",
@@ -12251,7 +12391,12 @@
         "year": 2019,
         "publication_date": "2019",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGENDA 2030 PARA EL DESARROLLO SOSTENIBLE",
           "CAMBIO CLIMÁTICO",
@@ -12671,7 +12816,12 @@
         "year": 2019,
         "publication_date": "2019",
         "division": "México",
-        "document_type": null,
+        "document_type": {
+          "id": "compilacion",
+          "nombre": "Compilación",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "ASUNTOS FISCALES",
           "CAMBIO CLIMÁTICO",
@@ -12792,7 +12942,12 @@
         "year": 2019,
         "publication_date": "2019",
         "division": "RECURSOS NATURALES",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGENDA 2030 PARA EL DESARROLLO SOSTENIBLE",
           "AGRICULTURA Y DESARROLLO RURAL",
@@ -12926,7 +13081,12 @@
         "year": 2019,
         "publication_date": "2019-12",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DERECHOS HUMANOS",
@@ -13189,7 +13349,12 @@
         "year": 2019,
         "publication_date": "2019-12",
         "division": "México",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "RECURSOS NATURALES"
@@ -13302,7 +13467,12 @@
         "year": 2019,
         "publication_date": "2019",
         "division": "RECURSOS NATURALES",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DESARROLLO SOSTENIBLE",
@@ -13427,7 +13597,12 @@
         "year": 2020,
         "publication_date": "2019-12",
         "division": "Puerto España",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "CRECIMIENTO ECONÓMICO",
@@ -13545,7 +13720,12 @@
         "year": 2020,
         "publication_date": "2020-01",
         "division": "Puerto España",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DESARROLLO SOSTENIBLE",
@@ -13660,7 +13840,12 @@
         "year": 2020,
         "publication_date": "2020",
         "division": "Puerto España",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DESARROLLO SOSTENIBLE",
@@ -13925,7 +14110,12 @@
         "year": 2017,
         "publication_date": "2017-04",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "policy_brief",
+          "nombre": "Policy brief",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DESARROLLO SOSTENIBLE",
@@ -14154,7 +14344,12 @@
         "year": 2020,
         "publication_date": "2020-02",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "compilacion",
+          "nombre": "Compilación",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGENDA 2030 PARA EL DESARROLLO SOSTENIBLE",
           "AGRICULTURA Y DESARROLLO RURAL",
@@ -14288,7 +14483,12 @@
         "year": 2017,
         "publication_date": "2017-04",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "policy_brief",
+          "nombre": "Policy brief",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DESARROLLO SOSTENIBLE"
@@ -14411,7 +14611,12 @@
         "year": 2017,
         "publication_date": "2017-04",
         "division": "ASUNTOS DE GÉNERO",
-        "document_type": null,
+        "document_type": {
+          "id": "policy_brief",
+          "nombre": "Policy brief",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGENDA 2030 PARA EL DESARROLLO SOSTENIBLE",
           "CAMBIO CLIMÁTICO",
@@ -14534,7 +14739,12 @@
         "year": 2017,
         "publication_date": "2017-04",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "policy_brief",
+          "nombre": "Policy brief",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "ASUNTOS FISCALES",
           "CAMBIO CLIMÁTICO"
@@ -14656,7 +14866,12 @@
         "year": 2017,
         "publication_date": "2017-04",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "policy_brief",
+          "nombre": "Policy brief",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "BIODIVERSIDAD",
           "CAMBIO CLIMÁTICO"
@@ -14781,7 +14996,12 @@
         "year": 2017,
         "publication_date": "2017-04",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "policy_brief",
+          "nombre": "Policy brief",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGRICULTURA Y DESARROLLO RURAL",
           "CAMBIO CLIMÁTICO",
@@ -14892,7 +15112,12 @@
         "year": 2017,
         "publication_date": "2017-04",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "policy_brief",
+          "nombre": "Policy brief",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGRICULTURA Y DESARROLLO RURAL",
           "CAMBIO CLIMÁTICO",
@@ -15016,7 +15241,12 @@
         "year": 2017,
         "publication_date": "2017-04",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "policy_brief",
+          "nombre": "Policy brief",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "ASUNTOS FISCALES",
           "CAMBIO CLIMÁTICO"
@@ -15109,7 +15339,12 @@
         "year": 2017,
         "publication_date": "2017-04",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "policy_brief",
+          "nombre": "Policy brief",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "ENERGÍA"
@@ -15230,7 +15465,12 @@
         "year": 2017,
         "publication_date": "2017-04",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "policy_brief",
+          "nombre": "Policy brief",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "CRECIMIENTO ECONÓMICO"
@@ -15321,7 +15561,12 @@
         "year": 2017,
         "publication_date": "2017-04",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "policy_brief",
+          "nombre": "Policy brief",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "ENERGÍA"
@@ -15442,7 +15687,12 @@
         "year": 2017,
         "publication_date": "2017-04",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "policy_brief",
+          "nombre": "Policy brief",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DESARROLLO SOSTENIBLE",
@@ -15565,7 +15815,12 @@
         "year": 2017,
         "publication_date": "2017-04",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "policy_brief",
+          "nombre": "Policy brief",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "CRECIMIENTO ECONÓMICO"
@@ -15690,7 +15945,12 @@
         "year": 2017,
         "publication_date": "2017-04",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "policy_brief",
+          "nombre": "Policy brief",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "CRECIMIENTO ECONÓMICO",
@@ -15953,7 +16213,12 @@
         "year": 2020,
         "publication_date": "2020",
         "division": "CEPAL - SE - Institucional",
-        "document_type": null,
+        "document_type": {
+          "id": "informe",
+          "nombre": "Informe",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DESARROLLO SOSTENIBLE",
@@ -16048,7 +16313,12 @@
         "year": 2020,
         "publication_date": "2020",
         "division": "CEPAL - SE - Institucional",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DESARROLLO SOSTENIBLE",
@@ -16147,7 +16417,12 @@
         "year": 2020,
         "publication_date": "2020",
         "division": "CEPAL - SE - Institucional",
-        "document_type": null,
+        "document_type": {
+          "id": "informe",
+          "nombre": "Informe",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DESARROLLO SOSTENIBLE",
@@ -16242,7 +16517,12 @@
         "year": 2020,
         "publication_date": "2020",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DESARROLLO SOSTENIBLE",
@@ -16478,7 +16758,12 @@
         "year": 2020,
         "publication_date": "2020",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "MEDIO AMBIENTE",
@@ -16572,7 +16857,12 @@
         "year": 2020,
         "publication_date": "2020-11",
         "division": "México",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGRICULTURA Y DESARROLLO RURAL",
           "CAMBIO CLIMÁTICO",
@@ -16667,7 +16957,12 @@
         "year": 2020,
         "publication_date": "2020",
         "division": "RECURSOS NATURALES",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DESARROLLO SOSTENIBLE",
@@ -16879,7 +17174,12 @@
         "year": 2020,
         "publication_date": "2020-12-22",
         "division": "Puerto España",
-        "document_type": null,
+        "document_type": {
+          "id": "documento_referencia",
+          "nombre": "Documento de referencia",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGENDA 2030 PARA EL DESARROLLO SOSTENIBLE",
           "BIODIVERSIDAD",
@@ -17007,7 +17307,12 @@
         "year": 2021,
         "publication_date": "2020",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "CIUDADES Y ASENTAMIENTOS HUMANOS",
@@ -17148,7 +17453,12 @@
         "year": 2021,
         "publication_date": "2021",
         "division": "Brasilia",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DESARROLLO SOSTENIBLE",
@@ -17245,7 +17555,12 @@
         "year": 2021,
         "publication_date": "2021",
         "division": "CEPAL - SE - Institucional",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DESARROLLO SOSTENIBLE",
@@ -17478,7 +17793,12 @@
         "year": 2021,
         "publication_date": "2021-05",
         "division": "CEPAL - SE - Institucional",
-        "document_type": null,
+        "document_type": {
+          "id": "informe",
+          "nombre": "Informe",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DESARROLLO SOSTENIBLE",
@@ -18150,7 +18470,12 @@
         "year": 2021,
         "publication_date": "2021-03",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "policy_brief",
+          "nombre": "Policy brief",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DESARROLLO SOSTENIBLE",
@@ -18911,7 +19236,12 @@
         "year": 2022,
         "publication_date": "2022-01",
         "division": "ASUNTOS DE GÉNERO",
-        "document_type": null,
+        "document_type": {
+          "id": "documento_referencia",
+          "nombre": "Documento de referencia",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DESARROLLO SOSTENIBLE",
@@ -20255,7 +20585,12 @@
         "year": 2022,
         "publication_date": "2022",
         "division": "ASUNTOS DE GÉNERO",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DESARROLLO SOSTENIBLE",
@@ -20524,7 +20859,12 @@
         "year": 2022,
         "publication_date": "2022",
         "division": "CEPAL - SE - Institucional",
-        "document_type": null,
+        "document_type": {
+          "id": "compilacion",
+          "nombre": "Compilación",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DESARROLLO SOSTENIBLE",
@@ -20641,7 +20981,12 @@
         "year": 2019,
         "publication_date": "2019-08",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "instrumento_normativo",
+          "nombre": "Instrumento normativo",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGENDA 2030 PARA EL DESARROLLO SOSTENIBLE",
           "CAMBIO CLIMÁTICO",
@@ -21404,7 +21749,12 @@
         "year": 2022,
         "publication_date": "2022",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "instrumento_normativo",
+          "nombre": "Instrumento normativo",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGENDA 2030 PARA EL DESARROLLO SOSTENIBLE",
           "CAMBIO CLIMÁTICO",
@@ -22567,7 +22917,12 @@
         "year": 2023,
         "publication_date": "2023",
         "division": "México",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DESARROLLO SOSTENIBLE",
@@ -23168,7 +23523,12 @@
         "year": 2023,
         "publication_date": "2023",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DESARROLLO SOSTENIBLE",
@@ -23526,7 +23886,12 @@
         "year": 2023,
         "publication_date": "2023",
         "division": "México",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "AGRICULTURA Y DESARROLLO RURAL",
           "CAMBIO CLIMÁTICO"
@@ -23781,7 +24146,12 @@
         "year": 2023,
         "publication_date": "2023",
         "division": "México",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DESASTRES"
@@ -23890,7 +24260,12 @@
         "year": 2023,
         "publication_date": "2023",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "guia_metodologica",
+          "nombre": "Guía metodológica",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DESARROLLO SOSTENIBLE"
@@ -24881,7 +25256,12 @@
         "year": 2024,
         "publication_date": "2024",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "documento_referencia",
+          "nombre": "Documento de referencia",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DESARROLLO SOSTENIBLE"
@@ -25777,7 +26157,12 @@
         "year": 2024,
         "publication_date": "2023-09",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "documento_referencia",
+          "nombre": "Documento de referencia",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "DESARROLLO SOSTENIBLE"
@@ -26438,7 +26823,12 @@
         "year": 2024,
         "publication_date": "2024",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "DESARROLLO SOSTENIBLE",
           "MEDIO AMBIENTE",
@@ -26538,7 +26928,12 @@
         "year": 2024,
         "publication_date": "2024-11",
         "division": "Brasilia",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "DESASTRES",
           "CAMBIO CLIMÁTICO"
@@ -26767,7 +27162,12 @@
         "year": 2024,
         "publication_date": "2024",
         "division": "México",
-        "document_type": null,
+        "document_type": {
+          "id": "guia_metodologica",
+          "nombre": "Guía metodológica",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "INFRAESTRUCTURA",
           "DESASTRES",
@@ -27611,7 +28011,12 @@
         "year": 2025,
         "publication_date": "2025",
         "division": "DESARROLLO SOCIAL",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "PROTECCIÓN SOCIAL",
@@ -27878,7 +28283,12 @@
         "year": 2025,
         "publication_date": "2025",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "CAMBIO CLIMÁTICO",
           "PRINCIPIO 10 - ACUERDO DE ESCAZÚ",
@@ -27983,7 +28393,12 @@
         "year": 2025,
         "publication_date": "2025",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "estudio_tecnico",
+          "nombre": "Estudio técnico",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "MEDIO AMBIENTE",
           "CAMBIO CLIMÁTICO",
@@ -29354,7 +29769,12 @@
         "year": 2026,
         "publication_date": "2026",
         "division": "DESARROLLO SOSTENIBLE Y ASENTAMIENTOS HUMANOS",
-        "document_type": null,
+        "document_type": {
+          "id": "plan_accion",
+          "nombre": "Hoja de ruta o plan de acción",
+          "estado": "adjudicado_automaticamente",
+          "metodo": "alias_especifico_unico"
+        },
         "topics": [
           "PRINCIPIO 10 - ACUERDO DE ESCAZÚ",
           "MEDIO AMBIENTE",

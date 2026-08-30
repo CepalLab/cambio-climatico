@@ -46,6 +46,16 @@ Módulos de soporte:
 Además de este archivo, hay documentación de proceso que registra decisiones y metodología (no
 código):
 
+- [fase3/03_analisis_contenido/CHECKPOINT_FASE3_3_2026-08-27.md](fase3/03_analisis_contenido/CHECKPOINT_FASE3_3_2026-08-27.md)
+  — **estado operativo actual**. La Fase 3.3 cerró su análisis e integración
+  editorial: el producto vigente es el informe maestro v2, de 7.132 palabras,
+  con cinco figuras, cuatro cuadros y un anexo técnico. La próxima sesión debe
+  hacer revisión humana final y preparar la versión de circulación; no debe
+  reabrir evidencia ni expandir la prosa sin una decisión explícita.
+- [fase3/03_analisis_contenido/INFORME_MAESTRO_V2_BORRADOR.md](fase3/03_analisis_contenido/INFORME_MAESTRO_V2_BORRADOR.md)
+  y [fase3/03_analisis_contenido/ANEXO_TECNICO_INFORME_V2.md](fase3/03_analisis_contenido/ANEXO_TECNICO_INFORME_V2.md)
+  — informe editorial y trazabilidad metodológica del corpus activo de 238
+  publicaciones CEPAL (2015–2026).
 - [CLUSTERS.md](CLUSTERS.md) — mapeo tema → cluster usado por `clusters.xlsx`.
 - [SEGUNDA_FASE.md](SEGUNDA_FASE.md) y [DOCUMENTOS_EXCLUIDOS_DEFINITIVO.md](DOCUMENTOS_EXCLUIDOS_DEFINITIVO.md)
   — metodología de depuración del corpus de 244 documentos (Fase 1→2). **Desactualizados**:
@@ -116,6 +126,9 @@ local (ignorado por git para no contaminar el repo con marcas de prueba).
   Streamlit Cloud tiene cuotas; mantener mínimo.
 - No usar `st.experimental_*` — usar las APIs estables (`st.dialog`,
   `st.data_editor`, `st.navigation`).
+- No descartar ni normalizar con comandos destructivos el árbol de trabajo de
+  Fase 3: contiene derivados analíticos y editoriales acumulados que deben
+  revisarse antes de cualquier commit.
 
 ## Dependencias
 

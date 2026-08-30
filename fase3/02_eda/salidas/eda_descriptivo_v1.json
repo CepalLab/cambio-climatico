@@ -1,6 +1,6 @@
 {
   "version": "eda-descriptivo-v1",
-  "generado_en": "2026-08-26T13:36:55+00:00",
+  "generado_en": "2026-08-26T22:29:50+00:00",
   "fuente": "fase3_analitica_v1.sqlite",
   "denominador": {
     "documentos_activos": 238
@@ -8,38 +8,54 @@
   "documentos_por_tipo": [
     {
       "tipo": "Estudio técnico",
-      "documentos": 101
-    },
-    {
-      "tipo": "Sin clasificar",
-      "documentos": 84
-    },
-    {
-      "tipo": "Informe",
-      "documentos": 19
+      "documentos": 148
     },
     {
       "tipo": "Policy brief",
-      "documentos": 12
+      "documentos": 27
+    },
+    {
+      "tipo": "Informe",
+      "documentos": 25
     },
     {
       "tipo": "Informe insignia o Panorama",
       "documentos": 9
     },
     {
+      "tipo": "Compilación",
+      "documentos": 8
+    },
+    {
       "tipo": "Memoria de seminario",
       "documentos": 6
     },
     {
-      "tipo": "Compilación",
-      "documentos": 5
+      "tipo": "Documento de referencia",
+      "documentos": 4
+    },
+    {
+      "tipo": "Guía metodológica",
+      "documentos": 3
+    },
+    {
+      "tipo": "Instrumento normativo",
+      "documentos": 3
+    },
+    {
+      "tipo": "Informe estratégico",
+      "documentos": 2
     },
     {
       "tipo": "Documento de trabajo",
       "documentos": 1
     },
     {
-      "tipo": "Informe estratégico",
+      "tipo": "Hoja de ruta o plan de acción",
+      "documentos": 1
+    },
+    {
+      "tipo": "Resumen ejecutivo",
       "documentos": 1
     }
   ],

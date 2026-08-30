@@ -21,7 +21,7 @@ PERIODS = (
 
 PACKAGES = {
     "evolucion_enfoques": {
-        "title": "Evolucion de enfoques CEPAL sobre cambio climatico, 2015-2025",
+        "title": "Evolucion de enfoques CEPAL sobre cambio climatico, 2015-2026",
         "question_ids": ["P6"],
         "dimensions": (
             "propuestas_politica",
@@ -33,7 +33,7 @@ PACKAGES = {
         "interpellation_criteria": (),
         "include_application_levels": False,
         "limitations": [
-            "P3 es un periodo abierto: el corpus disponible llega hasta 2025.",
+            "P3 cubre 2023-2026 e incluye seis publicaciones fechadas en 2026.",
             "Las frecuencias describen presencia e intensidad de codificacion; no miden importancia sustantiva.",
             "Las citas candidatas requieren seleccion y lectura cualitativa antes de convertirse en hallazgo.",
         ],
@@ -240,7 +240,7 @@ def build_package(connection: sqlite3.Connection, db_path: Path, package_id: str
         "selection": {
             "dimensions": list(config["dimensions"]),
             "interpellation_criteria": list(config["interpellation_criteria"]),
-            "year_range": [2015, 2025],
+            "year_range": [2015, 2026],
             "periods": [{"period_id": period_id, "name": name, "start": start, "end": end} for period_id, name, start, end in PERIODS],
         },
         "limitations": config["limitations"],
@@ -268,7 +268,7 @@ def write_markdown(package: dict, path: Path) -> None:
     metrics = package["metrics"]
     sections = [
         f"# {package['title']}\n",
-        f"**Paquete:** `{package['package_id']}`  \n**Generado:** `{package['generated_at']}`  \n**Base:** `{package['base_version']}`  \n**Denominador:** {package['source']['documents_active']} documentos activos; 6 exclusiones aplicadas.\n",
+        f"**Paquete:** `{package['package_id']}`\n**Generado:** `{package['generated_at']}`\n**Base:** `{package['base_version']}`\n**Denominador:** {package['source']['documents_active']} documentos activos; 6 exclusiones aplicadas.\n",
         "## Seleccion\n\n" + json.dumps(package["selection"], ensure_ascii=False, indent=2),
         "## Documentos por periodo\n\n" + markdown_table(metrics["documents_by_period"], [("Periodo", "period_id"), ("Nombre", "period_name"), ("Documentos", "documents")]),
         "## Dimensiones por periodo\n\n" + markdown_table(metrics["dimensions_by_period"], [("Periodo", "period_id"), ("Dimension", "dimension"), ("Documentos", "documents_with_dimension"), ("Proporcion", "document_proportion"), ("Citas", "citations"), ("Citas por documento", "citations_per_document")]),

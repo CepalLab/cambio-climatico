@@ -1,6 +1,6 @@
 {
   "version": "muestra-normalizada-v1",
-  "generado_en": "2026-08-26T13:36:41+00:00",
+  "generado_en": "2026-08-26T22:29:50+00:00",
   "fuente": "normalizacion_corpus_activo_v1.json",
   "denominador": {
     "historico": 244,
@@ -1479,7 +1479,12 @@
       ],
       "abstract": "This report was published with the goal of discussing, disseminating and using the results of this initiative in the formulation of national and regional strategies and have been presented at national and regional events with civil servants,\nrepresentatives of non-governmental organizations, trade unions, the private sector, universities and research centers. The results have served as inputs in the training of national committees on climate change and negotiating teams, as well as in the preparation of the Regional Climate Change Strategy,\nseveral international financing projects and various national policies. The results have been presented in coordination with the Ministries of Environment at the last three Conferences of the Parties of the United Nations Framework Convention on Climate Change.",
       "tipo_documento_original": "Resumen",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "resumen_ejecutivo",
+        "nombre": "Resumen ejecutivo",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Centroamérica",
         "candidatos": [
@@ -1516,7 +1521,12 @@
       ],
       "abstract": "El sector de uso del suelo,cambio en el uso del suelo y silvicultura (USCUSS) tiene una particular relevancia para la evolución futura de las emisiones netas de gases de efecto invernadero (GEI) de la Argentina por dos motivos: hay superficie apta para plantar montes destinados a la captura de CO2 y hay una decreciente superficie de montes nativos como consecuencia de su talado.. En el presente documento se desarrollan tres escenarios —(referencial (ER), de limitación hídrica (LH) a partir de 2050 y de adaptación genética (AD) a partir de 2030)— para una plantación de dos especies hipotéticas: una destinada a generar títulos de reducción de emisiones y la otra especie para para proveer una renta con la cual sufragar los costos de implantación y gestión de la plantación de la especie destinada a la acumulación de carbono.",
       "tipo_documento_original": "Estudio sectorial técnico",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Argentina, con análisis de sus regiones forestales y proyecciones sectoriales nacionales.",
         "candidatos": [],
@@ -1715,7 +1725,12 @@
       ],
       "abstract": "En este estudio se analizaron las emisiones de gases de efecto invernadero (GEI) y su mitigación en el sector residuos. Se examinó la producción de residuos sólidos urbanos y aguas residuales domésticas e industriales, observándose una relación significativa entre ésta y el Producto Interno Bruto. Las emisiones de GEI en el sector se calcularon mediante el método de descomposición de primer orden en las ciudades con datos de actividad sobre los residuos y en las restantes con el método por defecto.",
       "tipo_documento_original": "Estudio sectorial técnico de modelización y evaluación de mitigación",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Argentina, con desagregación nacional y de ciudades con rellenos sanitarios",
         "candidatos": [
@@ -2483,7 +2498,12 @@
       ],
       "abstract": "ECLAC advocates that the Caribbean’s high debt dilemma was not principally driven by policy missteps, or the international financial crisis. Rather, it finds its roots in external shocks, compounded by the inherent structural weaknesses and vulnerabilities confronting Caribbean SIDS and their limited capacity to respond. A major factor has been the underperformance of the export sector, partly due to a decline in competitiveness and a slowdown in economic activity especially among the tourism-dependent economies.\nCaribbean countries have also accumulated debt as a consequence of increased expenditures to address the impact of extreme events and climate change attendant difficulties. Most Caribbean countries are located in the hurricane belt and are also prone to earthquakes and other hazards. Indeed, a disaster resulting in damage and losses in excess of 5 per cent of GDP can be expected to hit any Caribbean country every few years. Moreover, over the period 2000-2014, it is estimated that the economic cost of natural disasters in Caribbean countries was in excess of US$30.7 billion. The English Speaking Caribbean countries are extremely vulnerable to natural disasters.",
       "tipo_documento_original": "Propuesta de política / documento técnico regional",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Caribe: países caribeños miembros de la CEPAL y pequeños Estados insulares en desarrollo, con tratamiento diferenciado según su estructura de deuda.",
         "candidatos": [
@@ -2649,7 +2669,12 @@
       ],
       "abstract": "En este documento de síntesis se presenta el Resumen para Gestores del proyecto “Generación e integración de bases de datos climáticos históricos y de proyecciones de cambio climático para la gestión de riesgos costeros en el estado de Santa Catarina (Brasil)”, financiado por el acuerdo de cooperación técnica entre la Comisión Económica para América Latina y el Caribe (CEPAL) y el Ministerio del Medio Ambiente del Brasil, \"Desarrollo sostenible y su integración con América del Sur\", coordinado por la Oficina de la CEPAL en Brasilia.",
       "tipo_documento_original": "Documento técnico",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Santa Catarina, Brasil",
         "candidatos": [],
@@ -2797,7 +2822,12 @@
       ],
       "abstract": "El objetivo de este estudio es analizar e identificar un valor medio y los orígenes de la variación en las estimaciones empíricas de las elasticidades ingreso y precio de corto y largo plazos de la demanda de energía y gasolina en América Latina y derivar de estos valores algunas conclusiones de política pública.",
       "tipo_documento_original": "Meta-análisis",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina",
         "candidatos": [],
@@ -2829,7 +2859,12 @@
       ],
       "abstract": "Este relatório apresenta a avaliação do Fundo Nacional sobre Mudança do Clima – FNMC (conhecido como Fundo Clima), realizada por solicitação do Ministério do Meio Ambiente – MMA no âmbito do convênio de cooperação técnica com a Comissão Econômica para a América Latina e o Caribe – CEPAL, referente ao tema Desenvolvimento Sustentável Brasileiro e sua Integração com a América do Sul.  O principal objetivo desse exercício foi avaliar o desempenho e a contribuição do Fundo Clima como instrumento da Política Nacional sobre Mudança do Clima – PNMC no período entre 2011 e 2014, considerando seus aspectos positivos, suas limitações e as lições aprendidas.",
       "tipo_documento_original": "Relatório de avaliação",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "informe",
+        "nombre": "Informe",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Brasil",
         "candidatos": [],
@@ -2943,7 +2978,12 @@
       ],
       "abstract": "O Brasil alcançou progresso significativo, alinhando seus esforços de crescimento econômico e redução da pobreza com os avanços na sustentabilidade ambiental. Os recursos naturais são fundamentais ao desenvolvimento do país: o Brasil é o quarto maior produtor agrícola do mundo e importante ator global na produção de minérios e de petróleo, e as fontes hídricas geram a maior parte da sua energia elétrica. No entanto, o crescimento econômico, a urbanização, a expansão agrícola e o desenvolvimento da infraestrutura também acarretaram aumento do consumo de energia e pressões ambientais. Atualmente, o Brasil necessita retomar o crescimento e, ao mesmo tempo, dar continuidade à erradicação da pobreza, reduzir as desigualdades e a exclusão social e assegurar o uso sustentável de seu patrimônio ambiental.\nEsta é a primeira Avaliação de Desempenho Ambiental do Brasil efetuada pela OCDE. Traz a avaliação dos avanços alcançados pelo país na busca por seus objetivos ambientais, focalizando o período desde o ano 2000. A Avaliação oferece 53 recomendações para auxiliar o Brasil no “esverdeamento” da sua economia e no aprimoramento da sua governança e gestão ambiental, com forte ênfase sobre o fomento da política de biodiversidade e de manejo de áreas protegidas.",
       "tipo_documento_original": "Avaliação de Desempenho Ambiental",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "informe",
+        "nombre": "Informe",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Brasil",
         "candidatos": [],
@@ -3018,7 +3058,12 @@
       ],
       "abstract": "Disponer de información sobre los recursos movilizados para enfrentar el cambio climático es un tema crucial para estimar la capacidad para responder a los desafíos de los países para dar cumplimiento a sus políticas de cambio climático y más recientemente, a las metas definidas en sus Contribuciones Nacionalmente Acordadas, o NDCs1 por su sigla en inglés, uno de los mayores esfuerzos mundiales para evitar que la temperatura del planeta supere los 2oC. Cuantificarlos permite reconocer la situación de los países en estas materias, advertir las posibilidades que ofrecen y buscar formas para garantizar necesidades futuras.\nTomando como referencia los datos publicados por los países con relación a sus necesidades para poder cumplir con los compromisos asumidos en el marco de sus Contribuciones Nacionalmente Acordadas, el total de recursos que necesitarían los diez2 países de América Latina y el Caribe, LAC, que incluyeron esta información en los compromisos sometidos ante la Convención Marco de la Naciones Unidas para el Cambio Climático o UNFCCC3, por su sigla en inglés, alcanzaría 51 mil millones de dólares4. Los demás países de la región no incluyeron esta información, por lo que se desconocen sus reales dimensiones y las necesidades asociadas, que sin duda superan con creces este monto.",
       "tipo_documento_original": "Documentos de Proyectos",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe (ALC)",
         "candidatos": [
@@ -3066,7 +3111,12 @@
       ],
       "abstract": "El objetivo de este estudio es realizar una revisión teórica y empírica de los procesos de mitigación y adaptación al cambio climático en áreas urbanas enfocándose en América Latina. De acuerdo con los resultados recientes de la Conferencia de las Partes (COP 21, por sus siglas en inglés) en París, se espera que muchas ciudades en América Latina y de otras partes del mundo preparen planes de acción climática. Sin embargo, de acuerdo con la con la revisión realizada, no existen muchas ciudades en la región que tengan planes consistentes con un fundamento técnico solido. La revisión abarca 12 planes de 11 ciudades y regiones metropolitanas, incluyendo 2 planes para Bogotá y su Región Metropolitana, São Paulo, Ciudad de México, Buenos Aires, Río de Janeiro, Lima, Santiago de Chile, Belo Horizonte, Montevideo, Quito y Cartagena.",
       "tipo_documento_original": "Documentos de Proyectos",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe",
         "candidatos": [
@@ -3118,7 +3168,12 @@
       ],
       "abstract": "El principal objetivo de este estudio es identificar la relevancia del tema de género en las causas y consecuencias del cambio climático. Los principales resultados muestran que estos son heterogéneos y que en muchos casos agravan las desigualdades de género que existen históricamente en la sociedad. Los impactos diferenciados de los efectos del calentamiento global sobre hombres y mujeres exigen políticas públicas de adaptación y mitigación que reconozcan las diferentes necesidades que tienen ambos géneros y que promuevan la transversalización del enfoque de género en las políticas públicas frente al cambio climático. A este respecto, existen algunos avances en la región pero aún persiste un\nimportante espacio de mejora. Por ejemplo, los Planes de Acción de Género y Cambio Climático (PAGcc), adoptados en algunos países de América Latina y el Caribe, constituyen una importante iniciativa de coordinación intersectorial y ofrecen importantes co-beneficios para insertar la igualdad de género en las políticas públicas frente al cambio climático.",
       "tipo_documento_original": "Estudios y Perspectivas - Cambio Climático",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe",
         "candidatos": [
@@ -3226,7 +3281,12 @@
       ],
       "abstract": "El objetivo principal de este trabajo es agrupar las medidas de adaptación propuestas en el Plan Nacional de Adaptación al Cambio Climático del Sector Silvoagropecuario en Chile, según escenarios considerados, y categorizándolas de manera de definir el camino a seguir para cada medida en términos del proceso de evaluación de costos.\nEn este trabajo se discuten las principales dificultades para estimar los costos de adaptación del sector silvoagropecuario en lo relativo a recursos hídricos y se presenta una metodología para realizar una estimación en función de información hidrometeorológica y de modelos de simulación de cultivos. Los resultados obtenidos se comparan con el cálculo de pérdida productiva bajo un escenario de no adaptación (costo de no acción).",
       "tipo_documento_original": "Documentos de Proyectos",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Chile",
         "candidatos": [],
@@ -3258,7 +3318,12 @@
       ],
       "abstract": "Las actividades agrícolas son particularmente vulnerables a los efectos del cambio climático pero a su vez, son responsables de aproximadamente el 11% de las emisiones totales de gases de efecto invernadero (GEI) de origen antropogénico a nivel global. Una de las fuentes más importantes es la descomposición de los residuos orgánicos de los cultivos. Aunque, pueden ser aprovechados para lageneración de energía eléctrica a través del uso de diferentes tecnologías.\nAunque existen diversas experiencias de aprovechamiento de residuos en Ecuador, no se han realizado estudios de valoración económica de sus beneficios y cobeneficios. El presente estudio muestra por primera vez un estudio de valoración económica de cobeneficios para el aprovechamiento energético de los residuos de cuatro cultivos agrícolas para tres grandes escenarios de tenencia de tierra (pequeños, medianos y grandes productores).",
       "tipo_documento_original": "Documentos de Proyectos",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Ecuador (provincias de Guayas y Los Ríos)",
         "candidatos": [],
@@ -3371,7 +3436,12 @@
       ],
       "abstract": "Este documento identifica los instrumentos económicos, financieros y fiscales con los que cuenta el gobierno de Perú para incorporar un enfoque de adaptación al cambio climático o que podrían ser utilizados para promover la implementación de iniciativas que contribuyan a la adaptación del cambio climático en el país. Sin embargo, se limita a tres sectores relevantes: gestión del recurso hídrico, agricultura y gestión del riesgo por desastres.",
       "tipo_documento_original": "Documento de Proyectos",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Perú (nacional), tres sectores: gestión del recurso hídrico, agricultura y gestión del riesgo por desastres",
         "candidatos": [],
@@ -3679,7 +3749,12 @@
       ],
       "abstract": "Este informe corresponde a la primera evaluación del desempeño ambiental del Perú. En él se examinan los avances logrados en el ámbito del desarrollo sostenible y el crecimiento verde, prestando especial atención a la ordenación ambiental (aire, residuos y sustancias químicas, agua y biodiversidad) y al aprovechamiento sostenible de la base de recursos naturales. Se analiza con mayor detenimiento el desempeño ambiental de los sectores agropecuario, pesquero y minero.",
       "tipo_documento_original": "Evaluación del desempeño ambiental",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "informe",
+        "nombre": "Informe",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Perú (nacional)",
         "candidatos": [],
@@ -3747,7 +3822,12 @@
       ],
       "abstract": "El principal objetivo de este estudio es describir los criterios utilizados en la economía del cambio climático para ordenar y/o clasificar las políticas públicas, atendiendo a diversos criterios de eficiencia e incertidumbre o potenciales efectos sobre otras variables económicas, sociales o ambientales y presentar un software que determina, a través de métodos de multi-criterio, el ordenamiento jerárquico de diversas políticas públicas referidas a la adaptación y mitigación del cambio climático.",
       "tipo_documento_original": "Documento de proyectos",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe",
         "candidatos": [
@@ -3795,7 +3875,12 @@
       ],
       "abstract": "El principal objetivo de este documento es identificar conjuntos de políticas públicas para atender el desafío del cambio climático el cual, es uno de los grandes desafíos del siglo XXI ateniendo a sus causas y consecuencias globales, a sus impactos negativos sobre las actividades económicas, las condiciones sociales y los ecosistemas, a los proceso necesarios para adaptarse a las nuevas condiciones climáticas y a los esfuerzos necesarios para realizar los procesos de mitigación. En este sentido y desde una óptica económica, el cambio climático puede definirse como una externalidad negativa global que es consustancial al actual estilo de desarrollo.",
       "tipo_documento_original": "Documentos de Proyectos",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina (incluyendo análisis y cuadros comparativos para Argentina, Bolivia, Brasil, Chile, Colombia, Costa Rica, Cuba, Ecuador, El Salvador, Guatemala, Honduras, México, Nicaragua, Panamá, Paraguay, Perú, República Dominicana, Uruguay y Venezuela).",
         "candidatos": [],
@@ -3827,7 +3912,12 @@
       ],
       "abstract": "El cambio climático representa uno de los desafíos más importantes de la humanidad, el cual debe enfrentarse desde diferentes perfectivas. Aunque Panamá no se encuentra dentro de los grandes emisores, se espera que sufra sus consecuencias y se vea especialmente afectado por el fenómeno climático. Actualmente, en Panamá, existe un gran potencial para la disminución de gases de efecto invernadero, en particular en las áreas de fomento a la forestación y reforestación. Lo que además tiene efectos favorables en los procesos de adaptación. Algunas de las políticas públicas que pueden instrumentarse en el contexto de las estrategias de mitigación incluyen la aplicación de un impuesto al carbono o el establecimiento de un régimen al comercio de emisiones transables.",
       "tipo_documento_original": "Documentos de Proyectos",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Panamá",
         "candidatos": [],
@@ -3862,7 +3952,12 @@
       ],
       "abstract": "En los últimos años, la frontera agrícola en el Estado Plurinacional de Bolivia se ha expandido considerablemente. Debido al cambio climático, se espera una reducción del rendimiento de los cultivos, lo que producirá una nueva expansión en dicha frontera. Por este motivo, es necesario desarrollar una agricultura más eficiente, que incluya medidas de adaptación vinculadas a políticas macroeconómicas de protección de los recursos naturales. Para cuantificar el impacto y la eficacia de estas medidas, en el estudio se utilizan modelos de simulación matemática para el rendimiento de los cultivos, vinculados a un modelo de equilibrio genera computable dinámico recursivo. Se evalúan cuatro medidas de adaptación microeconómicas que contrarrestan el impacto del cambio climático e incrementan el rendimiento de los cultivos.",
       "tipo_documento_original": "Documentos de Proyectos",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Estado Plurinacional de Bolivia, con foco analítico y experimental específico en las cinco principales zonas de producción agrícola del departamento de Santa Cruz (Mineros, Pailón, San Julián, Yapacaní y Guarayos).",
         "candidatos": [
@@ -3971,7 +4066,12 @@
       ],
       "abstract": "Una amplia gama de actores en los países de América Latina y el Caribe están interesados en analizar el impacto potencial de las metas de mitigación de emisiones de gases de efecto invernadero que han asumido sus Gobiernos en las contribuciones previstas determinadas a nivel nacional. Entre estos se incluyen los bancos centrales, los Ministerios de Hacienda, Desarrollo Económico, Transporte, Medio Ambiente y Comercio Internacional, los gremios de los sectores productivos y los sindicatos de trabajadores, entre otros.\nLos análisis que se presentan en este estudio permitirán que los responsables de la toma de decisiones hagan una comparación sencilla y transparente de los diferentes niveles de ambición expresados en las contribuciones previstas determinadas a nivel nacional. De este modo se busca apoyar a los Gobiernos y actores interesados en el proceso de selección y diseño de políticas públicas de mitigación para que logren las metas sin distorsionar la competitividad de los sectores emisores de gases de efecto invernadero. Se espera así que estas indicaciones contribuyan a que tanto los Gobiernos como los sectores productivos regulados y la sociedad civil comprendan y puedan comparar y contrastar las metas nacionales de su país con las de los países competidores.",
       "tipo_documento_original": "Documentos de Proyectos",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe",
         "candidatos": [
@@ -4029,7 +4129,12 @@
       ],
       "abstract": "Dando continuidad al énfasis que la Comisión Económica para América Latina y el Caribe (CEPAL) ha puesto en la igualdad desde 2010, y en concordancia con el propósito de no dejar a nadie atrás expresado en la Agenda 2030 para el Desarrollo Sostenible, en este documento se analizan mecanismos mediante los cuales la desigualdad reduce la eficiencia dinámica de las economías de América Latina y el Caribe. Se analizan y miden los efectos de la desigualdad de acceso a la salud y a la educación en la productividad y los ingresos, así como las consecuencias de la desigualdad de oportunidades causada por la discriminación por razón de género o condición étnico-racial. También se examina cómo estas desigualdades se reflejan en el territorio, la infraestructura y la dinámica urbana, generando costos no solo en términos de productividad, sino también de ineficiencia energética y deterioro del medio ambiente, lo que compromete las posibilidades de desarrollo de las generaciones presentes y futuras. Las restricciones impuestas por la desigualdad a la innovación y la creatividad son más intensas porque se internalizan en la cultura de los agentes, dando lugar a una cultura del privilegio en la que los muchos bienes públicos y derechos no son impersonales y parte importante de la población no accede a ellos. Esto debilita la confianza en las interacciones sociales y en las instituciones democráticas.\nLa CEPAL propone en este documento orientaciones estratégicas para aumentar la eficiencia dinámica de las economías latinoamericanas y caribeñas sobre la base de la igualdad. El desarrollo de capacidades y la construcción de Estados de bienestar son componentes centrales de un nuevo paradigma de desarrollo en el que la revolución tecnológica se ponga al servicio de un sendero de crecimiento bajo en carbono e intensivo en tecnología. En este contexto, aumentar la inversión pública y privada en torno a un gran impulso ambiental, mediante el que se diversifique la estructura productiva y se reduzca la heterogeneidad estructural, es una tarea urgente ante la velocidad los cambios que transforman la economía global y el aumento de la incertidumbre que los acompaña.",
       "tipo_documento_original": "Documento de posición de la CEPAL",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "informe_estrategico",
+        "nombre": "Informe estratégico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe, con comparaciones globales y ejemplos nacionales, urbanos, rurales y subregionales.",
         "candidatos": [
@@ -4125,7 +4230,12 @@
       ],
       "abstract": "On 4 March 2018, the Latin American and Caribbean region made history when it adopted the Regional Agreement on Access to Information, Public Participation and Justice in Environmental Matters in Latin America and the Caribbean, at Escazú, Costa Rica. The Regional Agreement is a ground-breaking legal instrument for environmental protection, but it is also a human rights treaty. Its main beneficiaries are the people of the Latin American and Caribbean region, particularly the most vulnerable groups and communities. It aims to ensure the right of all persons to have access to information in a timely and appropriate manner, to participate significantly in making the decisions that affect their lives and their environment, and to access justice when those rights have been infringed. The treaty recognizes the rights of all individuals, provides measures to facilitate their exercise and, most importantly, establishes mechanisms to render them effective.",
       "tipo_documento_original": "Tratado / Instrumento Jurídico",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "instrumento_normativo",
+        "nombre": "Instrumento normativo",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Latin America and the Caribbean (33 countries)",
         "candidatos": [
@@ -4167,7 +4277,12 @@
       ],
       "abstract": "La CEPAL ha colaborado en la iniciativa La economía del cambio climático en Centroamérica (ECC CA) desde 2008 con el propósito de estimar y evidenciar los impactos de la variabilidad y del cambio climático, y propiciar la discusión sobre políticas públicas en sectores clave.\nEsta publicación es un resumen de los análisis de impactos potenciales del cambio climático y de las discusiones sobre opciones de políticas públicas en Guatemala generadas en el marco de la iniciativa ECC CA. Se incluyen los modelos y escenarios de crecimiento económico y poblacional, cambio de uso de tierra y consumo de energía según la información histórica disponible.",
       "tipo_documento_original": "Documento técnico",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Guatemala",
         "candidatos": [],
@@ -4261,7 +4376,12 @@
       ],
       "abstract": "En 2015 se realizó una reunión de expertos sobre retos y oportunidades para la Seguridad Alimentaria y Nutricional en los países del Sistema de la Integración Centroamericana (SICA) organizada conjuntamente por la Secretaría Ejecutiva del Consejo Agropecuario Centroamericano (SE-CAC), la Comisión Económica para América Latina y el Caribe (CEPAL), la Organización para la Alimentación y la Agricultura de Naciones Unidas (FAO) y el Programa Regional de Seguridad Alimentaria y Nutricional para Centroamérica (PRESANCA). Uno de sus objetivos fue identificar potenciales líneas de acción para fortalecer la Seguridad Alimentaria y Nutricional en esta región. Este grupo de expertos recomendó explicitar una línea de trabajo sobre Seguridad Alimentaria y Nutricional y cambio climático y dar continuidad a un espacio regional de trabajo sobre este reto.\nCon base en las recomendaciones de esta reunión y en el marco de su programa de trabajo, la SE-CAC y la CEPAL prepararon una propuesta de trabajo sobre la SAN y el cambio climático y que se expresa en el presente documento.",
       "tipo_documento_original": "Propuesta metodológica",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "guia_metodologica",
+        "nombre": "Guía metodológica",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Centroamérica y República Dominicana (países del SICA)",
         "candidatos": [
@@ -4613,7 +4733,12 @@
       ],
       "abstract": "Con el fin de impulsar la Agenda 2030 para el Desarrollo Sostenible, el Acuerdo de París y la Nueva Agenda Urbana en América Latina y el Caribe, en este estudio se establecen dos ejes. El primero consiste en promover la igualdad, al eliminar los aspectos que la impiden, y propiciar las vías que permitan avanzar hacia el cierre de las brechas de desigualdad; el segundo se refiere al fomento de actividades con un enfoque y contenido “verdes”, es decir, basadas en el aprovechamiento, la distribución y el consumo respetuosos del ambiente. Se propone la formulación de políticas públicas que contribuyan a potenciar la resiliencia de las ciudades y sus territorios de pertenencia, siendo de interés particular la región mesoamericana por la alta vulnerabilidad, tanto social como ambiental, en que se encuentra.",
       "tipo_documento_original": "Estudios del Cambio Climático en América Latina",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Mesoamérica, Triángulo del Norte y arco Chiapas-Tabasco. Caso: Tenosique, Tabasco.",
         "candidatos": [],
@@ -4688,7 +4813,12 @@
       ],
       "abstract": "Con la Agenda 2030, nuevos desafíos se plantean y con ello la necesidad de que los países generen nuevas metodologías e indicadores que les permitan dar cuenta de los avances en la generación de la sostenibilidad, para ello se ha propuesto avanzar hacia un enfoque territorial que permita a los países mover grandes números a partir de una estrategia que considere i) fortalecimiento institucional para la actualización de las estrategias nacionales de seguridad alimentaria incluidos los consejos y secretarias creadas para tal fin, ii) identificación y caracterización de los 100 territorios de América Latina y el Caribe de mayor concentración de hambre, pobreza y vulnerabilidad climática, revisando además el marco de políticas públicas, y iii) proponer medidas de política para estos espacios territoriales en situación de vulnerabilidad.\nEn este contexto, este documento da cuenta, en el marco de un trabajo conjunto de la CEPAL y la FAO, de la identificación y análisis de los territorios rurales con mayores carencias sociales y mayor incidencia de hambre para 14 países de la región, para orientar estrategias de intervención de políticas públicas en el marco de la Agenda 2030 de Desarrollo Sostenible.",
       "tipo_documento_original": "Documentos de Proyectos",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe (14 países analizados: Bolivia, Brasil, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Honduras, México, Nicaragua, Panamá, Paraguay, Perú y República Dominicana), con identificación de 1.975 entidades territoriales locales.",
         "candidatos": [
@@ -4733,7 +4863,12 @@
       ],
       "abstract": "This set of policy briefs has the objective of profiling disaster risk management (DRM) policies in five selected member States of the Caribbean Development and Cooperation Committee: Barbados, Guyana, Saint Lucia, Suriname, and Trinidad and Tobago. The present publication is the second that ECLAC has released on the mainstreaming of DRM strategies on this topic area. In 2017, a similar document was published for the following countries: The Bahamas, Belize, Dominican Republic, Haiti and Jamaica. It also aims at analysing these policies and their interactions with broader development issues and instruments such as national development plans and climate change adaptation strategies.",
       "tipo_documento_original": "Serie Estudios y Perspectivas - Sede Subregional de la CEPAL para el Caribe",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Barbados, Guyana, Santa Lucía, Suriname y Trinidad y Tabago (Caribe)",
         "candidatos": [
@@ -4782,7 +4917,12 @@
       ],
       "abstract": "A mudança climática é um dos grandes desafios do século XXI devido a suas causas e consequências globais e à magnitude dos esforços necessários e simultâneos para amortecer seus impactos negativos, adaptar-se às novas condições climáticas e realizar os processos de mitigação das emissões de gases de efeito estufa.\nO principal objetivo desta publicação é apresentar as hipóteses e as cifras básicas da economia da mudança climática na América Latina e no Caribe de forma resumida e gráfica. Esses fatos estilizados procuram contribuir para uma melhor formulação, implementação e avaliação das políticas públicas relacionadas com a mudança climática no século XXI, de maneira a permitir a transformação do atual estilo de desenvolvimento e a transição para um desenvolvimento sustentável. Além do prólogo e desta introdução, apresentam-se nove teses e sete desafios que definem as características da mudança climática na América Latina e no Caribe.",
       "tipo_documento_original": "Documentos de Proyectos",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe (análisis regional agregado y desagregado por países de América Latina y del Caribe en gráficos y cuadros de emisiones, metas CND, gasto de los hogares, agricultura, energía, urbanización y zonas costeras)",
         "candidatos": [
@@ -4827,7 +4967,12 @@
       ],
       "abstract": "En esta, que es la cuarta versión del informe sobre financiamiento para el cambio climático en América Latina y el Caribe, se describe y analiza el comportamiento entre 2013 y 2016 del flujo de recursos para el combate y la adaptación al cambio climático de 12 instituciones, que a través de diferentes instrumentos financieros movilizaron anualmente un promedio de 20.000 millones de dólares entre los países de la región.\nLas fuentes del financiamiento fueron, mayoritariamente, los bancos nacionales de desarrollo, que, si bien han cedido espacio a los bancos multilaterales, concentraron el 47% del total aprobado en el período analizado.\nEntre los recursos contabilizados se destaca la creciente participación de los bonos con fines climáticos, que en 2013 todavía no se habían utilizado y en 2016 representaron el 22% del total, y que fueron colocados principalmente por el sector privado, que concentró el 80% del total de las emisiones de este tipo de instrumentos financieros.\nEn 2016, la cantidad de recursos aprobados sumó poco más de 16.700 millones de dólares, concentrados en el Brasil y México, que en conjunto sumaron el 56% del total, con una marcada diferencia entre las fuentes. Mientras en el Brasil el principal proveedor fue la banca nacional de desarrollo, en México la principal fuente de recursos fueron los bonos con fines climáticos, emitidos por el sector privado, que ha demostrado un interés creciente en este tema en el mundo y también en la región.",
       "tipo_documento_original": "Documentos de Proyectos",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe (con seguimiento de 20 países: Argentina, Bahamas, Barbados, Belice, Brasil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Guyana, Honduras, Jamaica, México, Nicaragua, Panamá, Paraguay, Perú y Uruguay, y desglose para el Caribe en BDC)",
         "candidatos": [
@@ -5010,7 +5155,12 @@
       ],
       "abstract": "El proyecto de integración centroamericana empezó en 1951 de la mano de las propuestas intelectuales y el apoyo técnico de la Comisión Económica para América Latina y el Caribe (CEPAL). Desde entonces, la CEPAL ha trabajado con los países centroamericanos en la elaboración de propuestas para su desarrollo, entrelazadas con el planteamiento de integración regional.\nEn su septuagésimo aniversario, la CEPAL publica este libro sobre la integración centroamericana, poniendo énfasis en las áreas en las que colabora con la región, y subraya los avances más importantes y los desafíos para el futuro. En esta publicación se hace un inventario del aporte de la CEPAL al proceso de integración centroamericana y se muestra su relevancia como instrumento de desarrollo.\nLa CEPAL quiere contribuir a la permanente renovación de la propuesta de desarrollo e integración para Centroamérica, con énfasis en el cambio estructural progresivo que se puede impulsar desde diversos frentes que se abordan en este libro: el sector social, la energía, los retos del cambio climático, la infraestructura, la coordinación fiscal, el comercio, la integración productiva y la innovación. Estas nuevas ideas se construyen sobre la fructífera experiencia histórica y vislumbran nuevas áreas de colaboración con la integración centroamericana.",
       "tipo_documento_original": "Libro o documento institucional",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "compilacion",
+        "nombre": "Compilación",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Países miembros del Sistema de la Integración Centroamericana (SICA): Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panamá y República Dominicana.",
         "candidatos": [
@@ -5060,7 +5210,12 @@
       ],
       "abstract": "Este documento busca servir como marco de referencia para orientar la elaboración de estrategias nacionales para el desarrollo de la bioeconomía. Con ese fin, se propone un marco estratégico fundado en cuatro pilares: la Agenda 2030; el Acuerdo de París sobre Cambio Climático y los compromisos de los países, expresados en sus contribuciones determinadas nacionalmente; la inclusión social y el desarrollo territorial; y la innovación y diversificación productiva para la descarbonización. El documento identifica factores estructurales a ser considerados en la elaboración de estrategias para el desarrollo de la bioeconomía, destacando el potencial de ésta para articular marcos de política cuya meta común es transitar hacia la sostenibilidad. El documento también identifica limitaciones, necesidades, oportunidades y precauciones a considerar en el desarrollo de estrategias de bioeconomía.",
       "tipo_documento_original": "Serie Recursos Naturales y Desarrollo",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Regional (América Latina y el Caribe), con énfasis en experiencias y procesos de Argentina, Brasil, Colombia, Costa Rica, Ecuador y Uruguay.",
         "candidatos": [
@@ -5105,7 +5260,12 @@
       ],
       "abstract": "El cambio climático constituye la principal amenaza al pleno ejercicio de los derechos humanos. Conforme a los estándares internacionales de derechos humanos, la acción climática debe tener en cuenta y asegurar el respeto, la protección y la realización de los derechos de todas las personas, en particular las más vulnerables.\nEn los países de América Latina y el Caribe se han realizado notables avances en la incorporación de una perspectiva de derechos humanos a la acción climática. Con esta publicación conjunta, la Comisión Económica para América Latina y el Caribe (CEPAL) y la Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos (ACNUDH) ponen de relieve las numerosas contribuciones al enfoque de derechos humanos realizadas desde y para la región. Estas se manifiestan en numerosos frentes, desde los procesos y las iniciativas de la Convención Marco de las Naciones Unidas sobre el Cambio Climático (CMNUCC), hasta las contribuciones determinadas a nivel nacional (CDN), las recomendaciones de los mecanismos de derechos humanos de las Naciones Unidas, el Acuerdo Regional sobre el Acceso a la Información, la Participación Pública y el Acceso a la Justicia en Asuntos Ambientales en América Latina y el Caribe (Acuerdo de Escazú) y los marcos legales y de políticas climáticas nacionales.",
       "tipo_documento_original": "Documentos de proyectos",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe (análisis regional comparado sobre 33 países, con detalle sistemático sobre 26 a 28 países con marcos legislativos, estrategias y planes climáticos analizados)",
         "candidatos": [
@@ -5203,7 +5363,12 @@
       ],
       "abstract": "Esta publicación es producto de la Comunidad de práctica sobre seguros agropecuarios y gestión integral de riesgos en el marco del programa de trabajo conjunto entre los Ministerios de Agricultura de los países miembros del Consejo Agropecuario Centroamericano (CAC) del Sistema de la Integración Centroamericana (SICA) y la Comisión Económica para América Latina y el Caribe (CEPAL), en coordinación con la Secretaría Ejecutiva del CAC y su Grupo técnico de cambio climático y gestión integral de riesgos.",
       "tipo_documento_original": "Documentos de proyectos",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Centroamérica y la República Dominicana (países miembros del Sistema de la Integración Centroamericana - SICA: Belice, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panamá y República Dominicana)",
         "candidatos": [
@@ -5241,7 +5406,12 @@
       ],
       "abstract": "High energy costs and fossil fuel dependency contribute to dampening Caribbean competitiveness and potential growth. In this scenario, energy efficiency has the potential to reduce energy consumption, ensure an adequate supply of energy, increase energy security, reduce negative environmental impacts and, at the global level, reduce emissions of greenhouse gases. However, it is important to have a clear understanding of macro energy sector conditions before implementing energy efficiency policies. In this study, we describe and compare energy efficiency trends in four countries in the Caribbean subregion: Barbados, Guyana, Saint Lucia and Trinidad and Tobago. The report is based on data and indicators prepared for the Energy Efficiency Indicator Database (BIEE) project, carried out by the Natural Resources Division of the Economic Commission for Latin America and the Caribbean (ECLAC) under the umbrella of the Regional Observatory on Sustainable Energies, and in close cooperation with the French Environment and Energy Management Agency (ADEME).",
       "tipo_documento_original": "Project Documents",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Regional (Caribe: Barbados, Guyana, Santa Lucía, y Trinidad y Tabago)",
         "candidatos": [
@@ -5289,7 +5459,12 @@
       ],
       "abstract": "The Small Island Developing States (SIDS) Accelerated Modalities of Action Pathway (hereafter referred to as the SAMOA Pathway) was adopted in 2014 at the United Nations Third International Conference on SIDS.  The SAMOA Pathway builds on the 1994 Barbados Programme of Action for SIDS (BPOA) and the 2005 Mauritius Strategy of Implementation (MSI) for the Further Implementation of the BPOA. This document is a synthesis on the Caribbean Region- SAMOA Pathway Midterm Review Report prepared by ECLAC and in support of United Nations General Assembly (UNGA) Resolution 72/217.",
       "tipo_documento_original": "Estudios y Perspectivas - Sede Subregional para el Caribe",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Pequeños Estados Insulares en Desarrollo (SIDS) y territorios no independientes del Caribe (Antigua y Barbuda, Bahamas, Barbados, Belice, Cuba, Dominica, República Dominicana, Granada, Guyana, Haití, Jamaica, Saint Kitts y Nevis, Santa Lucía, San Vicente y las Granadinas, Surinam, Trinidad y Tobago, Anguila, Aruba, Bermudas, Islas Vírgenes Británicas, Islas Caimán, Curazao, Guadalupe, Martinica, Montserrat, Puerto Rico, Sint Maarten, Islas Turcas y Caicos, e Islas Vírgenes de los Estados Unidos)",
         "candidatos": [
@@ -5328,7 +5503,12 @@
       ],
       "abstract": "The Caribbean region is prone to disasters due to its geographic location. The exposures and resulting impacts of these disasters are aggravated by persistent social, economic and environmental vulnerabilities. Compounded with the region’s current dependence on imported fossil fuels and financial constraints, this study seeks to stimulate discussions around the complementarity of energy with every societal sector as well as its links with disaster risk management, and promote government-wide management that integrates energy policies, disaster management and climate change impacts.",
       "tipo_documento_original": "Estudios y Perspectivas - Sede Subregional de la CEPAL para el Caribe",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Subregión del Caribe (Pequeños Estados Insulares en Desarrollo - SIDS de CARICOM y Estados miembros de la CEPAL, con estudios de caso a profundidad en Trinidad y Tabago y Granada)",
         "candidatos": [
@@ -5365,7 +5545,12 @@
       ],
       "abstract": "In light of the high debt burden impacting Caribbean economies ECLAC has been pursuing an initiative designed to reduce the debt burden and advance sustainable development. The strategy has evolved over time and there is now agreement on an approach designed to bring financial resources to the Caribbean for resilience building while still emphasizing the importance of debt reduction. To address resilience and development financing, ECLAC proposes the establishment of a Caribbean Resilience Facility to be housed at a reputable financial institution. Such a facility would be capitalised by donors, including the GCF, wishing to assist in financing climate projects and other forms of resilience-building activities within the Caribbean.",
       "tipo_documento_original": "Studies and Perspectives series-ECLAC Subregional Headquarters for the Caribbean, No. 89",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Regional (Caribe: Antigua y Barbuda, Santa Lucía, San Vicente y las Granadinas)",
         "candidatos": [
@@ -5464,7 +5649,12 @@
       ],
       "abstract": "Esta síntesis de política pública discute sobre las emisiones de gases de efecto invernadero (GEI) proveniente de los residuos sólidos y de otros tipos de residuos de América Latina y el Caribe. En este sentido, es importante poder comprender las características del manejo y gestión de residuos sólidos para poder diseñar estrategias que contribuyan a la reducción de los GEI provenientes de este sector. De este modo, tomando los casos de Chile, Colombia, Perú y Uruguay, se han analizado distintas oportunidades para la incorporación de reformas en el marco regulatorio del sector, principalmente a través del uso de incentivos económicos, con los que es posible proyectar importantes disminuciones en la generación de gases de efecto invernadero en cada uno de los países y fomentar así los principios y bases para un desarrollo sostenible.",
       "tipo_documento_original": "Síntesis de políticas públicas",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "policy_brief",
+        "nombre": "Policy brief",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Chile, Colombia, Perú y Uruguay (América Latina)",
         "candidatos": [],
@@ -5550,7 +5740,12 @@
       ],
       "abstract": "En este libro se presentan los resultados de más de un decenio de trabajo realizado en la Comisión Económica para América Latina y el Caribe (CEPAL) con relación a la economía del cambio climático. Se analizan los datos concluyentes a nivel mundial y el impacto del cambio climático en la región, examinando sectores como la agricultura, la salud, el transporte y la energía. En particular, se abordan los efectos del cambio climático en las dos subregiones más vulnerables, Centroamérica y el Caribe, y se hace un recuento de los acuerdos logrados en la región para enfrentar el problema del calentamiento global.\n\nSe presentan los avances en materia climática, los flujos de financiamiento climático y las innovaciones de política pública encaminadas a avanzar hacia un desarrollo con menos emisiones de carbono y que se adapte mejor a los cambios del clima. Responder al desafío del cambio climático en América Latina y el Caribe representa un esfuerzo financiero, económico, social, cultural, distributivo y de innovación, pero también brinda una oportunidad para que la región transite hacia un desarrollo más sostenible e inclusivo.",
       "tipo_documento_original": "Libros de la CEPAL",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "compilacion",
+        "nombre": "Compilación",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe en su conjunto, con análisis subregionales exhaustivos sobre la vulnerabilidad de Centroamérica y los países insulares del Caribe, y casos de estudio empíricos y sectoriales en la Argentina, el Brasil, Chile, Colombia, el Ecuador, México, el Perú y el Uruguay.",
         "candidatos": [
@@ -5594,7 +5789,12 @@
       ],
       "abstract": "Esta síntesis de política pública presenta la importancia que tiene para América Latina y el Caribe el avanzar en la implementación de medidas de adaptación al cambio climático como parte de la estrategia de desarrollo de la región. La importancia de una estrategia de adaptación responde a las características del crecimiento económico de la región y sus riesgos colaterales, las condiciones de vulnerabilidad y pobreza de un segmento importante de la población y a las tendencias climáticas que resultarán difíciles de evitar durante el siglo XXI. De manera general, los procesos de adaptación eficientes conllevan beneficios importantes y sus costos se encuentran por debajo de los impactos del cambio climático. Aún así, existen procesos de mala adaptación que requieren ser evitados puesto que pueden llegar a ocasionar efectos negativos irreversibles. Así, existen distintos patrones dentro de los procesos de adaptación que se requieren identificar para inducir procesos de adaptación eficientes.",
       "tipo_documento_original": "Síntesis de políticas públicas sobre cambio climático",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "policy_brief",
+        "nombre": "Policy brief",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe (con análisis a nivel agregado regional y perfiles comparativos de vulnerabilidad social en Argentina, Bolivia, Brasil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Honduras, México, Nicaragua, Panamá, Paraguay, Perú, República Dominicana, Uruguay y Venezuela)",
         "candidatos": [
@@ -5638,7 +5838,12 @@
       ],
       "abstract": "El principal objetivo de esta síntesis de política pública es identificar la relevancia del género en las causas y los impactos del cambio climático. Los principales resultados muestran que las causas y los impactos del cambio climático son heterogéneos y que en muchos casos agravan las desigualdades de género que existen históricamente en la sociedad. Los impactos diferenciados de los efectos del calentamiento global sobre hombres y mujeres exigen políticas públicas de adaptación y mitigación que reconozcan las diferentes necesidades que tienen ambos géneros y que promuevan la transversalización del enfoque de género en las políticas públicas frente al cambio climático. A este respecto, existen algunos avances en la región pero aún persiste un importante espacio de mejora. Por ejemplo, los Planes de Acción de Género y Cambio Climático (PAGcc), adoptados en algunos países de América Latina y el Caribe, constituyen una importante iniciativa de coordinación intersectorial y ofrecen poderosos co-beneficios para insertar la igualdad de género en las políticas públicas frente al cambio climático.",
       "tipo_documento_original": "Síntesis de política pública",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "policy_brief",
+        "nombre": "Policy brief",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe",
         "candidatos": [
@@ -5680,7 +5885,12 @@
       ],
       "abstract": "Esta síntesis de política pública expone las potencialidades de las reformas fiscales ambientales en la transformación de los patrones de producción y consumo en América Latina, contribuyendo, de esta manera, a la conservación ambiental. El documento argumenta que para que una reforma ambiental pueda ser viable, es necesario tomar en cuenta las particularidades de los sistemas tributarios en América Latina y de los diversos factores políticos asociados con los intereses y motivaciones de los distintos grupos de interés asociados con las reformas. Con base en ello, se tendrían que desarrollar estrategias que puedan adaptarse a cada realidad nacional, que se consideren las características del momento político en el que se encuentra el gobierno y que se den a conocer los principales beneficios de la implementación de la política para poder dar viabilidad a las reformas.",
       "tipo_documento_original": "Síntesis de políticas públicas",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "policy_brief",
+        "nombre": "Policy brief",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe (con análisis de casos en México, Venezuela, Ecuador y Uruguay)",
         "candidatos": [
@@ -5723,7 +5933,12 @@
       ],
       "abstract": "Esta síntesis de política pública destaca la importancia económica, social y ambiental de los servicios que proporciona la biodiversidad en América Latina y el Caribe. Sin embargo, esta biodiversidad es vulnerable ante los efectos del cambio climático. Como respuesta, los gobiernos de la región han adoptado diferentes estrategias que, además de haber permitido obtener beneficios directos en cuanto a la conservación de la biodiversidad, han otorgado beneficios indirectos relacionados con el bienestar de la población. A pesar de ello, se desconoce en muchos casos cuáles son los beneficios económicos específicos de dichas prácticas. Este conocimiento es importante para poder priorizar las inversiones y obtener los mayores beneficios posibles de la conservación de la biodiversidad y de procesos de adaptación de los ecosistemas al cambio climático.",
       "tipo_documento_original": "Síntesis de políticas públicas",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "policy_brief",
+        "nombre": "Policy brief",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe (con análisis empírico y datos de Belice, Bolivia, Brasil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Honduras, México, Panamá, Paraguay, Perú y República Dominicana)",
         "candidatos": [
@@ -5767,7 +5982,12 @@
       ],
       "abstract": "Esta síntesis de política pública analiza la magnitud potencial de los efectos del cambio climático sobre los ingresos de la población en el sector agrícola en México. El análisis considera el impacto de las variaciones de la temperatura y las lluvias en el ingreso de los hogares rurales y, por consiguiente, en la pobreza y la desigualdad en México. Los principales resultados obtenidos indican que estas variaciones climáticas, simuladas para cada escenario específico, podrían generar un incremento en 11 puntos porcentuales de los hogares que viven en situación de pobreza extrema, así como un incremento de más del 20% en el nivel de desigualdad, medido a través del coeficiente de Gini. Finalmente, es muy probable que estos resultados puedan reflejar una situación similar en otros países de la región, principalmente en aquellos en los que el sector agrícola tiene una participación importante en la ocupación de mano de obra y en los países donde se esperan cambios importantes en la temperatura y en los niveles de lluvia.",
       "tipo_documento_original": "Síntesis de políticas públicas",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "policy_brief",
+        "nombre": "Policy brief",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "México (sector rural, 80 comunidades rurales de la muestra ENHRUM)",
         "candidatos": [
@@ -5806,7 +6026,12 @@
       ],
       "abstract": "Esta síntesis de política pública presenta los efectos potenciales del cambio climático sobre la pobreza en América Latina y el Caribe, con base en la identificación de los impactos de las variaciones climáticas sobre el crecimiento del producto agrícola y de este último sobre la pobreza. La importancia del sector agrícola en la región se puede observar, entre otros aspectos, a través de su vínculo con otros sectores de la economía y por su importancia en la participación del Producto Interno Bruto de la región. Asimismo, se observa que el impacto del crecimiento agrícola sobre la pobreza probablemente sería mayor que el impacto proveniente de otros sectores de la economía. Por otra parte, se ha estimado que un descenso de la productividad y del producto agrícola retrasaría el cumplimiento de la meta de reducción de la pobreza o implicaría desafíos en materia de seguridad alimentaria. En este sentido, resulta fundamental poder fomentar una vinculación más virtuosa del sector agrícola con el resto de la economía, contribuyendo así a un desarrollo agrícola con mayores oportunidades para la población rural, permitiendo, a su vez, garantizar la seguridad alimentaria de la región.",
       "tipo_documento_original": "Síntesis de política pública",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "policy_brief",
+        "nombre": "Policy brief",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe (con desagregación para 17 países: Estado Plurinacional de Bolivia, Brasil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Honduras, México, Nicaragua, Panamá, Paraguay, Perú, República Dominicana, Uruguay y República Bolivariana de Venezuela)",
         "candidatos": [
@@ -5848,7 +6073,12 @@
       ],
       "abstract": "Esta síntesis de política pública presenta la importancia de aplicar una política eficiente de fijación del precio del hidrocarburo, así como del establecimiento de un impuesto óptimo en América Latina y el Caribe, que contribuya, tanto a la reducción de los subsidios a la gasolina, como a la reducción de las externalidades negativas ambientales que son generadas por el sector transporte. En este sentido, se presenta una estimación del impuesto óptimo a la gasolina para los casos de México, Ecuador y El Salvador, en la que se incluyen los costos de la contaminación, la congestión y sus efectos sobre la oferta laboral y los accidentes, entre otros. De esta manera, se ha podido estimar que la magnitud de este tributo sería de 48,2 centavos de dólar por litro en México, 31,2 centavos de dólar por litro en Ecuador y 28,4 centavos de dólar por litro en El Salvador. Cabe destacar que estas estimaciones proveen una dirección del impuesto que se podría aplicar respecto al status quo y que debido a ciertos vacíos de información, estos resultados presentan cierta sensibilidad y una alta incertidumbre.",
       "tipo_documento_original": "Síntesis de políticas públicas",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "policy_brief",
+        "nombre": "Policy brief",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina (con aplicación empírica y estimación econométrica para el Ecuador, El Salvador y México)",
         "candidatos": [],
@@ -5875,7 +6105,12 @@
       ],
       "abstract": "Esta síntesis de política pública presenta una discusión sobre la relación entre crecimiento económico y el consumo de energía y de gasolinas. Así, el crecimiento económico trae consigo distintas externalidades negativas asociadas con una mayor contaminación atmosférica y el aporte de emisiones relacionadas con el cambio climático. En este sentido, es necesario desarrollar una estrategia que permita reducir las emisiones de CO2 y que, de manera simultánea, pueda mantener el crecimiento económico y, en general, el bienestar de las sociedades. Para esto, la comprensión del comportamiento de la demanda de energía y de gasolinas ante cambios en los ingresos y en los precios resulta fundamental al momento de diseñar las políticas públicas.",
       "tipo_documento_original": "Síntesis de política pública",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "policy_brief",
+        "nombre": "Policy brief",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe",
         "candidatos": [
@@ -5917,7 +6152,12 @@
       ],
       "abstract": "Esta síntesis de política pública presenta el análisis de la utilización potencial de un esquema de subastas para la asignación de bonos de carbono para uso en el sector transporte y en el sector de generación de energía eléctrica como medida para reducir las emisiones de gases de efecto invernadero en Chile y México. Para poder contar con subastas de bonos de carbono que sean eficientes, es necesario comprender la estructura del mercado. Así, con base en las condiciones de competencia de mercado se ha podido evaluar que en Chile existe una mayor competencia en la generación de energía, por lo que el uso de un sistema de subasta tipo clock simple contribuiría a evitar problemas como la maldición del ganador y contar con un mayor ingreso esperado por la venta de bonos. En el caso de México, se presenta una situación de monopolio en la generación de energía eléctrica, por lo que es más recomendable el uso de un sistema de subasta tipo clock. Éste ayudaría a evitar que los participantes reduzcan sus pujas con el fin de afectar el precio final de los bonos.",
       "tipo_documento_original": "Síntesis de políticas públicas",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "policy_brief",
+        "nombre": "Policy brief",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Chile y México",
         "candidatos": [],
@@ -5944,7 +6184,12 @@
       ],
       "abstract": "Esta síntesis de política pública discute fundamentalmente la relación entre crecimiento económico y consumo de energía y emisiones de CO2. En este sentido, los países de América Latina y el Caribe tienen el desafío de elaborar políticas públicas que procuren la reducción de las emisiones de Gases de Efecto Invernadero, principalmente aquellas provenientes del sector energético, sin menoscabar el desarrollo de los países. Para atender el problema, las políticas públicas encaminadas a incrementar la eficiencia energética y el impulso de las tecnologías limpias podrían ser congruentes con el crecimiento económico de la región. Asimismo, los gobiernos también se encuentran implementando distintos tipos de medidas para incentivar el uso de energías renovables. La factibilidad de estas medidas requiere ser contextualizada para cada país.",
       "tipo_documento_original": "Síntesis de política pública",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "policy_brief",
+        "nombre": "Policy brief",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe",
         "candidatos": [
@@ -5988,7 +6233,12 @@
       ],
       "abstract": null,
       "tipo_documento_original": "Síntesis de política pública",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "policy_brief",
+        "nombre": "Policy brief",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe (con análisis empírico de casos en México y Brasil)",
         "candidatos": [
@@ -6031,7 +6281,12 @@
       ],
       "abstract": "Esta síntesis de política pública busca documentar la creciente presencia de políticas públicas tanto de mitigación como de adaptación en América Latina. En este sentido, la región requiere implementar estrategias que le permitan cambiar su estilo de desarrollo para poder hacer frente a estos desafíos. Para esto, actualmente la región cuenta con un portafolio amplio de políticas públicas enfocado en medidas de adaptación y mitigación. Sin embargo, la instrumentación de estas medidas requiere de la evaluación de las circunstancias específicas del territorio, así como la consideración de distintas paradojas y desafíos que se presentan en la región, respecto a los efectos del cambio climático.",
       "tipo_documento_original": "Síntesis de políticas públicas",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "policy_brief",
+        "nombre": "Policy brief",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe",
         "candidatos": [
@@ -6075,7 +6330,12 @@
       ],
       "abstract": "Esta síntesis de política pública analiza la relevancia que tiene el cambio tecnológico para la mitigación de los gases de efecto invernadero y el aumento de la productividad con base en un análisis de matriz de insumo producto para Argentina y Brasil. El estudio permite identificar los sectores económicos que son responsables de estas emisiones de gases de efecto invernadero y que, además, presentan importantes encadenamientos con otras ramas de la producción, de manera que la implementación de este tipo de cambios genere los mayores beneficios posibles a lo largo de la economía de cada país. Así, con base en el uso de las matrices de insumo-producto para Argentina y Brasil, se han podido identificar que los sectores agrícola, energético y de transporte son clave para abatir las emisiones de gases de efecto invernadero y son los que, a su vez, difunden sus efectos favorables al resto de la economía. En este sentido, pueden ser considerados como sectores estratégicos que requieren de un cambio tecnológico inmediato.",
       "tipo_documento_original": "Síntesis de políticas públicas",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "policy_brief",
+        "nombre": "Policy brief",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe (con estudios empíricos aplicados a Argentina y Brasil)",
         "candidatos": [
@@ -6181,7 +6441,12 @@
       ],
       "abstract": "The passage of Hurricane Matthew through The Bahamas in October 2016 marks the second time in just over a year that the country was affected by a Category 4 hurricane. However, unlike 2015’s Hurricane Joaquin, which affected islands having a relatively low population, Hurricane Matthew’s greatest impact was felt on the country’s population centres of New Providence and Grand Bahama, as well as in the district of North Andros. Damage in these areas was caused by high winds and storm surge associated with the hurricane, and was exacerbated by construction practices and the siting of communities and infrastructure in vulnerable locations.\nSoon after the hurricane passed, the government of The Bahamas asked the Inter-American Development Bank (IDB) to assess the resulting damages, losses and additional costs. The IDB requested assistance from the United Nations Economic Commission for Latin America and the Caribbean (ECLAC) for technical assistance with the assessment. This report presents results of the assessment. It also presents recommendations to guide a resilient reconstruction process that can reduce vulnerabilities and risks for the population and for every sector of the economy.",
       "tipo_documento_original": "Estudio de caso / Evaluación de desastre",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "informe",
+        "nombre": "Informe",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Las Bahamas (con foco en las islas más afectadas: New Providence, Grand Bahama, Andros y Berry Islands)",
         "candidatos": [],
@@ -6211,7 +6476,12 @@
       ],
       "abstract": "Hurricane Irma was the ninth named hurricane of the 2017 Atlantic Hurricane Season. Being an Archipelago in the Caribbean, a great portion of The Bahamas infrastructure is in proximity to the coast, making it particularly vulnerable to tropical storms. Irma directly and primarily affected the southern islands of Inagua, Acklins, Ragged Island and Southern Andros, and affected Bimini and Grand Bahama to the north, while it also caused moderate effects across the country.\nThe effects of hurricane Irma on the population of The Bahamas were moderate. According to the reports prepared by the government entities responsible for the emergency, no fatalities or serious injuries were reported. The greatest damage which directly affected the population of the islands under analysis occurred in the housing sector.\nThe Government of The Bahamas requested from the Economic Commission for Latin America and the Caribbean (ECLAC) and the Inter-American Development Bank (IDB) an assessment of the damage, losses, and additional costs caused by hurricane Irma. ECLAC also invited PAHO to be part of the assessment team. The assessment of the effects and impacts caused by Hurricane Irma follows the Disaster Assessment Methodology developed by the Economic Commission for Latin America and the Caribbean (ECLAC).",
       "tipo_documento_original": "Documentos de Proyectos",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Bahamas (especialmente las islas meridionales y Out Islands: Acklins, Bimini, Grand Bahama, Great Inagua y Ragged Island, además de impactos agregados en New Providence)",
         "candidatos": [],
@@ -6241,7 +6511,12 @@
       ],
       "abstract": "In September 2019 , the world watched as the category 5 Hurricane Dorian rained havoc down on The Bahamas islands of Grand Bahama and Abaco and their communities, erasing any evidence of life in some neighborhoods and leaving behind a trail of heartbreak, sorrow and death. The catastrophic damage to livelihoods and billions of dollars of infrastructure on this archipelago present significant challenges to the preparedness of its tourism -dependent economy and its rescue and recovery capacity.\nThe Interamerican Development Bank (IDB) committed itself to a restoration effort that would be far -reaching and strengthen the island chain against future natural disasters. Through a partnership with the Economic Commission for Latin America and the Caribbean ECLAC), the Bank deployed a research team of experts – both local and international – to the affected sites to collect pertinent data that could be integrated in a more  sustainable  framework  for  disaster  risk  management,  policy preparedness and reconstruction methods after a natural disaster. Within this report is a comprehensive overview of the toll Hurricane Dorian had on the islands’ economies and an accounting of the losses, broken down throughout the sectors. It analyzes key vulnerabilities and threats and compiles findings from assessments with recommendations to build resilience in a way that honors the nation’s past while advancing the present and preserving its future. This report provides The Bahamas with data that supports meaningful policy reforms to promote strategic decision making regarding natural disasters.",
       "tipo_documento_original": "Estudio de caso / Evaluación de desastre",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "informe",
+        "nombre": "Informe",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Las Bahamas (específicamente las islas de Gran Bahama y Ábaco, junto con los cayos adyacentes como Elbow Cay, Green Turtle Cay y Man-o-War Cay)",
         "candidatos": [],
@@ -6271,7 +6546,12 @@
       ],
       "abstract": "El objetivo de este documento es identificar algunas de las relaciones básicas entre las variables económicas, sociales y ambientales en la República Dominicana y, sobre la base de estas relaciones, presentar algunos escenarios para 2030 como un insumo para discutir una estrategia de política pública que contribuya a un crecimiento bajo en carbono, inclusivo socialmente y con preservación medioambiental.",
       "tipo_documento_original": "Documentos de Proyectos",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "República Dominicana",
         "candidatos": [],
@@ -6361,7 +6641,12 @@
       ],
       "abstract": "En este estudio, se evalúa en qué medida la cobertura boscosa puede reducir el impacto de las lluvias extremas en la actividad económica. Para ello, se construye un panel de datos a partir de observaciones de la tierra provenientes de imágenes satélites. La actividad económica local se mide a través de la intensidad de las luces nocturnas y las lluvias extremas se caracterizan utilizando series de lluvias diarias con alta resolución espacial. Finalmente, se evalúa y cartografía la cobertura boscosa por medio del índice de vegetación mejorado. Los resultados muestran que las lluvias extremas del período 2016-2017 tuvieron un impacto significativo, aunque negativo, en la actividad económica. El nivel de cobertura boscosa, por su parte, condiciona este impacto: en las zonas con poca cobertura, el impacto acumulado de las lluvias extremas reduce las luces nocturnas un 2,3% al mes en promedio. En cambio, en las zonas con un elevado nivel de cobertura boscosa, el impacto económico de las lluvias extremas tiende a desaparecer y no es estadísticamente significativo. La simulación contrafactual indica que, con un nivel de cobertura alto en todo el país, se hubiese reducido un 70% el impacto económico de las lluvias extremas ocurridas entre 2016 y 2017.",
       "tipo_documento_original": "Documentos de Proyectos",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "República Dominicana (análisis espacial a nivel de píxel en todo el territorio nacional)",
         "candidatos": [],
@@ -6390,7 +6675,12 @@
       ],
       "abstract": "El café en la República Dominicana es un elemento integral nacional, no solamente en lo económico, comercial y productivo sino también en lo ambiental, social y cultural. En este país beber café es una tradición arraigada en la cultura y a diferencia de otros países productores, una gran parte de la producción se destina al consumo interno. La cadena de valor de café contribuye de manera directa e indirecta a la economía del país y de las comunidades productoras._x000D_\n_x000D_\nEsta copublicación forma parte de un programa de cooperación técnica iniciado en 2017 entre el Instituto Dominicano del Café (INDOCAFE), el Consejo Nacional para el Cambio Climático y Mecanismo de Desarrollo Limpio (CNCCMDL) y la sede subregional de la CEPAL en México. Esta colaboración busca generar análisis y propuestas para incrementar la productividad sostenible e incluyente del sector cafetalero, integrando medidas para la reducción de emisiones de gases efecto invernadero (GEI) y la adaptación al cambio climático.",
       "tipo_documento_original": "Documentos de proyectos",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "República Dominicana (zonas cafetaleras y cadena de valor nacional de café)",
         "candidatos": [],
@@ -6420,7 +6710,12 @@
       ],
       "abstract": "Este documento presenta el estado actual del sistema eléctrico interconectado de la República Dominicana y sus perspectivas para alcanzar las metas nacionales de reducción de emisiones de gases de efecto invernadero (GEI) establecidas en la contribución determinada a nivel nacional (CDN), así como los desafíos que enfrenta el sector para la adaptación a los impactos del cambio climático. El objetivo del documento es contribuir a empoderar a los actores clave del sector, responsables de la toma de decisiones y de la formulación de políticas, mediante la exposición de las medidas que pueden tomarse en el corto y el mediano plazo para que el sector logre ser más sostenible, genere menos emisiones y sea más resiliente a los impactos climáticos y los desastres naturales.",
       "tipo_documento_original": "Documentos de Proyectos",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "República Dominicana (Sistema Eléctrico Nacional Interconectado SENI y sistemas aislados)",
         "candidatos": [],
@@ -6505,7 +6800,12 @@
       ],
       "abstract": "This brief is intended to provide general information on the upcoming United Nations Ocean Conference on scaling up ocean actions based on science and innovation for the_x000D_\nimplementation of Agenda 2030 - Sustainable Development Goal 14 (SDG 14), with a view to stimulating more active, engaged participation of the Caribbean in the discussions. The_x000D_\nUnited Nations Ocean Conference will be co-chaired by Kenya and Portugal, and hosted by the Government of Portugal in Lisbon, during 2021. The objective of this conference is consistent with the 2017 UN General Assembly proclamation on the Decade of Ocean_x000D_\nScience (2021-2030) for Sustainable Development. The focused attention that is being given to ocean science is intended to mobilize the support of governments and global_x000D_\nocean stakeholders towards the shaping of a common framework that will most effectively harness ocean science to support countries in the achievement of the 2030 Agenda for_x000D_\nSustainable Development. The Conference aims to promote science-based innovation and the mapping of sustainable development solutions through global ocean action.",
       "tipo_documento_original": "Documento informativo",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "documento_referencia",
+        "nombre": "Documento de referencia",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Pequeños Estados Insulares en Desarrollo (SIDS) del Caribe y Estados miembros de CARICOM",
         "candidatos": [
@@ -6542,7 +6842,12 @@
       ],
       "abstract": "En este documento se aborda la relación entre ciudad y cambio climático, mediante la investigación de las tipologías, métricas y acciones aplicables al contexto de América Latina y el Caribe. Para profundizar el análisis de dichos aspectos, se seleccionaron cinco ciudades: Ciudad de México (México), Medellín (Colombia), Guayaquil (Ecuador), Puno (región) (Perú) y Recife (Brasil). En esa muestra, se analizaron el método y las herramientas de construcción del inventario de emisiones de gases de efecto invernadero, las características generales del plan de mitigación, el estudio de vulnerabilidad, el plan de adaptación y la relación de estas medidas con las contribuciones determinadas a nivel nacional.",
       "tipo_documento_original": "Documentos de Proyectos",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe (con análisis detallado en Ciudad de México, Medellín, Guayaquil, Región Puno y Recife)",
         "candidatos": [
@@ -6600,7 +6905,12 @@
       ],
       "abstract": "A atual conjuntura é marcada pelo enfrentamento da crise sanitária provocada pelo COVID-19 e busca da recuperação da atividade econômica, dos empregos e da qualidade de vida das pessoas no Brasil e no mundo. Aos aspectos conjunturais, somam-se os desafios estruturais tais como: os limites planetários, a emergência climática e as iniquidades, notadamente as de gênero. É preciso construir um novo estilo de desenvolvimento, em cujo centro estejam a igualdade e a sustentabilidade._x000D_\n_x000D_\nO objetivo deste relatório é contribuir para o debate crítico acerca das políticas e medidas ligadas ao enfrentamento da mudança do clima que possibilitem alcançar a igualdade de gênero no Brasil. O estudo aborda a dimensão de gênero e as interseccionalidades no contexto da mitigação e da adaptação às mudanças climáticas com base em evidências da literatura, de dados estatísticos, da análise do quadro de políticas a nível nacional, regional e internacional, bem como de comentários e sugestões resultantes de uma oficina virtual com participação de diferentes segmentos da sociedade, reunindo experiências ligadas a gênero, meio ambiente, clima e desenvolvimento. Ao final, são apresentadas recomendações de políticas no marco da abordagem do Big Push para a Sustentabilidade.",
       "tipo_documento_original": "Documentos de Proyectos",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Brasil, abrangendo a dinâmica macroeconômica nacional, o mercado de trabalho formal e informal, os setores de infraestrutura sustentável e as assimetrias socioespaciais e raciais em áreas urbanas e rurais.",
         "candidatos": [],
@@ -6630,7 +6940,12 @@
       ],
       "abstract": "Los huracanes Eta y Iota llegaron a Guatemala como depresiones tropicales, y las lluvias, inundaciones y deslizamientos asociados a estos eventos tuvieron un impacto importante en la población, sobre todo en las comunidades más vulnerables de Guatemala. La mayoría de las personas afectadas residen en zonas rurales, se autoidentifican como pertenecientes a pueblos indígenas y viven en niveles de pobreza por ingresos y pobreza multidimensional por debajo de la media nacional. El impacto económico de estos eventos se estima en 0,1 puntos porcentuales del PIB. Estos desastres ocurrieron, además, en el contexto del COVID-19, y todo ello en conjunto tiene graves consecuencias de corto y mediano plazo._x000D_\n_x000D_\nLos desastres son una oportunidad de repensar el desarrollo de los países y esta evaluación es un aporte en esa dirección, con un enfoque de desarrollo centrado en la resiliencia y la inclusión, lo que en un contexto de riesgo creciente de desastres causados por el cambio climático, permitirá acercar a Guatemala a la consecución de los Objetivos de Desarrollo Sostenible.",
       "tipo_documento_original": "Documentos de Proyectos",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Guatemala, con foco prioritario en los diez departamentos declarados en estado de calamidad pública: Alta Verapaz, Izabal, Quiché, Huehuetenango, Petén, Zacapa, Chiquimula, Jalapa, Jutiapa y Santa Rosa.",
         "candidatos": [],
@@ -6711,7 +7026,12 @@
       ],
       "abstract": "Honduras es un país vulnerable a distintas amenazas naturales: las más comunes son las hidrometeorológicas y las climáticas, que han tenido repercusiones periódicas de gran importancia, como las generadas por los huracanes Fifí y Mitch con 24 años de diferencia. La tormenta tropical Eta y el huracán Iota han afectado a Honduras 22 años después del huracán Mitch, y se estima que el costo total de los efectos causados por estos fenómenos meteorológicos ha sido de aproximadamente 52.099 millones de lempiras: los daños representaron el 44% de este monto, las pérdidas, el 52%, y los costos adicionales, el 4%. El impacto en la actividad económica se estima en 0,8 puntos porcentuales del PIB en 2020 y 0,3 puntos porcentuales del PIB en 2021. Estos fenómenos han causado un desastre sobre otro desastre mayor, derivado de la pandemia de enfermedad por coronavirus (COVID-19). En conjunto, estos desastres tienen consecuencias de corto plazo y mediano plazo, pero constituyen una oportunidad de repensar el desarrollo de los países. Esta evaluación es un aporte en esa dirección, y apunta a un enfoque de desarrollo centrado en la resiliencia y en la inclusión. En un contexto de creciente riesgo de desastres causados por el cambio climático, tal enfoque permitirá acercar al país al logro de los Objetivos de Desarrollo Sostenible.",
       "tipo_documento_original": "Evaluación de impacto de desastres (metodología DaLA)",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "informe",
+        "nombre": "Informe",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Honduras a nivel nacional, con énfasis prioritario en los departamentos de la zona norte y noroccidental (especialmente el Valle de Sula, Cortés, Yoro, Atlántida, Colón, Santa Bárbara y Copán), que concentraron los mayores daños y pérdidas por inundaciones y deslizamientos.",
         "candidatos": [
@@ -6971,7 +7291,12 @@
       ],
       "abstract": "Este estudio responde a una solicitud realizada a finales de 2020 por la Carnegie Climate Governance Initiative (C2G) y la Comisión Económica para América Latina y el Caribe (CEPAL) a la Fundación Torcuato Di Tella.  El informe sintetiza el mejor entendimiento de las potenciales implicaciones de la adopción de opciones basadas en la naturaleza y tecnologías para la remoción de dióxido de carbono (RDC), con el objetivo de complementar la reducción directa de emisiones de gases de efecto invernadero. Los hallazgos obtenidos se basan en la revisión de la literatura científica y técnica disponible y abordan las implicancias económicas, sociales y ambientales de la implementación de las opciones tecnológicas de RDC. Las implicaciones son examinadas de cara al logro de los Objetivos de Desarrollo Sostenible (ODS) y la contribución a la mitigación de cambio climático que la implementación de las RDC pueda tener en Argentina y Colombia, y, de modo más general ,en América Latina y el Caribe.",
       "tipo_documento_original": "Resumen para responsables de políticas",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "policy_brief",
+        "nombre": "Policy brief",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe, con análisis detallado de Argentina y Colombia",
         "candidatos": [
@@ -7284,7 +7609,12 @@
       ],
       "abstract": null,
       "tipo_documento_original": "Documento de referencia para consulta regional",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "documento_referencia",
+        "nombre": "Documento de referencia",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe, con referencias a Caribe, América Central, países de la región y niveles nacional, regional y local",
         "candidatos": [
@@ -7812,7 +8142,12 @@
       ],
       "abstract": "Este documento fue elaborado como parte del proceso de preparación hacia el 66º período de sesiones de la Comisión de la Condición Jurídica y Social de la Mujer, que tuvo como tema prioritario “El logro de la igualdad entre los géneros y el empoderamiento de todas las mujeres y las niñas en el contexto de las políticas y programas relativos al cambio climático, el medio ambiente y la reducción del riesgo de desastres”. El proceso se llevó a cabo en el marco de la 62ª Reunión de la Mesa Directiva de la Conferencia Regional sobre la Mujer de América Latina y el Caribe. El objetivo de este documento y sus recomendaciones es no solo avanzar hacia el logro de la igualdad de género y el desarrollo sostenible en la región, sino también hacer aportes innovadores y transformadores desde América Latina y el Caribe en materia de género y cambio climático, poniendo en el centro la igualdad de género y la autonomía de las mujeres.",
       "tipo_documento_original": "Documento de Proyectos",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe, con referencias específicas al Caribe, América Central y a instrumentos nacionales de países de la región",
         "candidatos": [
@@ -7916,7 +8251,12 @@
       ],
       "abstract": "Como preparativo del 27º período de sesiones de la Conferencia de las Partes en la Convención Marco de las Naciones Unidas sobre el Cambio Climático (COP 27), su Presidencia, los campeones de la acción climática y las cinco comisiones regionales de las Naciones Unidas organizan el ciclo: Hacia la COP27: Foros Regionales sobre Iniciativas para Financiar la Acción Climática y los ODS, un esfuerzo de largo aliento para impulsar la acción climática y contribuir a la consecución de los objetivos del Acuerdo de París y de la Agenda 2030. En este marco, la Comisión Económica para América Latina y el Caribe (CEPAL) es anfitriona de la Mesa redonda sobre el financiamiento climático y la transición productiva en América Latina y el Caribe, en la cual se presenta este compendio de proyectos._x000D_\nEstos proyectos están en diferentes etapas de maduración, incluyen alternativas de inversión financieramente atractivas, que contribuyen a crear mejores sociedades en América Latina y el Caribe. Su propósito es apoyar el diálogo entre los encargados de diseñar e implementar políticas públicas para la transición hacia sociedades sostenibles, inclusivas, neutras en carbono y resilientes al clima, los encargados de desarrollar proyectos que impulsan la transformación y los inversionistas, que entienden que el mundo tiene que cambiar en esa dirección y que esa nueva economía genera oportunidades.",
       "tipo_documento_original": "Compendio preliminar y cartera de proyectos de inversión climática",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "compilacion",
+        "nombre": "Compilación",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe, con proyectos en 24 países y un bloque específico para los PEID del Caribe; los proyectos individuales se aplican en países y ciudades concretas.",
         "candidatos": [
@@ -7959,7 +8299,12 @@
       ],
       "abstract": "Agenda 2030 yanapaqninmantaraq anri nisqanmanta, qamuq watakuna aswan allin kananpaq, Estadukunam, Naciones Unidaspi kaqkuna, yachaywanmi ñanninta rurarqaku, kay ñanninmi rinqa aswan sumaq, wiñay chaynallataq allin kayninkupaq qamuq watakunapi, lliw runakunapaq, tiksi muyupaq, chaynallataqmi parlaykamunku ama pitapas qepapi saqinankupaq. Kay Parlanakuymi, ñawpapiraq churan, michakun mana patachakuy kaptinqa, chaynallataq millakuy kaptinpas michakun. Chaymi chaninchan llapan runakunapaq alliqman churan allin Pachamamapi kawsanankupaq chaymantapas qamuq watakunapi aswan allin kanankupaq, qanayman churaspa llapan runakunata wakcha kaqkunata, patachayta chawpipi churaspa.",
       "tipo_documento_original": "Acuerdo internacional traducido; texto normativo",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "instrumento_normativo",
+        "nombre": "Instrumento normativo",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe; Estados Parte del Acuerdo de Escazú.",
         "candidatos": [
@@ -8265,7 +8610,12 @@
       ],
       "abstract": "Esta publicación contiene el texto íntegro del anexo 1 de la decisión I/1 de la Primera Reunión de la Conferencia de las Partes del Acuerdo Regional sobre el Acceso a la Información, la Participación Pública y el Acceso a la Justicia en Asuntos Ambientales en América Latina y el Caribe.",
       "tipo_documento_original": "Reglas de procedimiento / documento normativo institucional",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "instrumento_normativo",
+        "nombre": "Instrumento normativo",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Conferencia de las Partes y órganos subsidiarios del Acuerdo de Escazú en América Latina y el Caribe",
         "candidatos": [
@@ -8730,7 +9080,12 @@
       ],
       "abstract": "El proyecto RIDASICC tiene como objetivo contribuir a la integración de la reducción de riesgos de desastres (RRD) y la adaptación sostenible e incluyente al cambio climático (ASICC) en los proyectos de inversión pública, conservando y mejorando los servicios que brindan a la población de los países miembros del COSEFIN/SICA. La iniciativa es coordinada por la Comisión Económica para América Latina y el Caribe (CEPAL) y la Secretaría Ejecutiva del Consejo de Ministros de Hacienda o Finanzas de Centroamérica, Panamá y la República Dominicana (COSEFIN), con la estrecha participación de los siete Ministerios de Hacienda o Finanzas y tres Ministerios o Secretarías de Planificación responsables de los Sistemas Nacionales de Inversión Pública (SNIP) de dichos países y otras instituciones socias nacionales y regionales del SICA, contando con el apoyo financiero de la Agencia Suiza para el Desarrollo y la Cooperación (COSUDE).",
       "tipo_documento_original": "Documento técnico",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Honduras, con foco en el Sistema Nacional de Inversión Pública de Honduras (SNIPH).",
         "candidatos": [],
@@ -8950,7 +9305,12 @@
       ],
       "abstract": "La transición ecológica a favor del cumplimiento de los Objetivos de Desarrollo Sostenible y el Acuerdo de París sobre el cambio climático pone en relieve la importancia del desempeño social y ambiental de las actividades mineras al suponer un consumo de altas cantidades de materias. Ante el desafío de mejorar las prácticas del sector tradicionalmente asociado con efectos ambientales negativos e indiferencia hacia las comunidades locales, las principales empresas mineras han ido adoptando iniciativas encaminadas hacia la sostenibilidad._x000D_\n_x000D_\nEste informe se centra en cinco países andinos, a saber, Bolivia, Chile, Colombia, Ecuador y Perú así como en cinco esquemas voluntarios considerados más relevantes en su contexto: Mecanismo de Aseguramiento y Validación de las Expectativas de Desempeño del Consejo Internacional de Minería y Metales (ICMM, por sus siglas en inglés), The Copper Mark (TCM), el Estándar para la Minería Responsable de la Iniciativa para Garantizar la Minería Responsable (IRMA, por sus siglas en inglés), Towards Sustainable Mining (TSM) de la Asociación Minera de Canadá y LMEpassport de la Bolsa de Metales de Londres. A estas iniciativas se suma una evaluación preliminar de la propuesta de Directiva sobre sobre la diligencia debida de las empresas en materia de sostenibilidad de la Unión Europea (UE).",
       "tipo_documento_original": "Documento técnico de la serie Medio Ambiente y Desarrollo",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Bolivia, Chile, Colombia, Ecuador y Perú; con análisis regional de los países andinos",
         "candidatos": [
@@ -9080,7 +9440,12 @@
       ],
       "abstract": "Esta publicación es un producto del programa de trabajo conjunto entre la Comisión Económica para América Latina y el Caribe (CEPAL) y los ministerios de agricultura de los países miembros del Consejo Agropecuario Centroamericano del Sistema de la Integración Centroamericana (SICA), y coordinado con su Secretaría Ejecutiva (SECAC) y su Grupo técnico de cambio climático y gestión integral de riesgos. Este documento es el resultado de identificar los diferentes niveles de vulnerabilidad del sector agrícola al cambio climático a nivel municipal para los países de la región SICA con la metodología del Grupo Intergubernamental de Expertos sobre el Cambio Climático (IPCC). La construcción de mapas de vulnerabilidad de la actividad agrícola es un insumo para aplicar y medir el efecto de las políticas de adaptación al cambio climático.",
       "tipo_documento_original": "Documento técnico",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Belice, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panamá y República Dominicana, con análisis municipal y aplicaciones regionales, nacionales y locales.",
         "candidatos": [
@@ -9181,7 +9546,12 @@
       ],
       "abstract": "El proyecto RIDASICC tiene como objetivo contribuir a la integración de la reducción de riesgos de desastres (RRD) y la adaptación sostenible e incluyente al cambio climático (ASICC) en los proyectos de inversión pública, conservando y mejorando los servicios que brindan a la población de los países miembros del COSEFIN/SICA. La iniciativa es coordinada por la Comisión Económica para América Latina y el Caribe (CEPAL) y la Secretaría Ejecutiva del Consejo de Ministros de Hacienda o Finanzas de Centroamérica, Panamá y República Dominicana (COSEFIN), con la estrecha participación de los siete ministerios de hacienda o finanzas y tres ministerios o secretarías de planificación responsables de los sistemas nacionales de inversión pública (SNIP) de dichos países y otras instituciones socias nacionales y regionales del Sistema de la Integración Centroamericana (SICA), contando con el apoyo financiero de la Agencia Suiza para el Desarrollo y la Cooperación (COSUDE).",
       "tipo_documento_original": "Documento técnico / estudio aplicado del proyecto RIDASICC",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Regional: países del COSEFIN/SICA —Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panamá y República Dominicana—, con aplicación en los sistemas nacionales de inversión pública, plataformas SIG, módulos de inversión y proyectos de infraestructura.",
         "candidatos": [
@@ -9216,7 +9586,12 @@
       ],
       "abstract": "Las emisiones de gases de efecto invernadero (GEI) de América Latina y el Caribe (ALC) representan alrededor del 10% de las emisiones globales. Según el Sexto Informe de Evaluación del Grupo Intergubernamental de Expertos sobre el Cambio Climático (IPCC, por sus siglas en inglés), del total emitido por la región, las emisiones del sector agricultura, silvicultura y otros usos de la tierra representan el mayor porcentaje, seguido por el sector energético (principalmente por la quema de combustible fósiles). Tanto el IPCC como la Organización Meteorológica Mundial indican que hay subregiones (p. ej., el Caribe) y zonas (p. ej., las costas) particularmente vulnerables a los efectos del cambio climático. Estas investigaciones muestran tendencias crecientes en la frecuencia e intensidad de los eventos climatológicos extremos. Estos eventos impactan severamente a la región, exacerbando los problemas de pobreza, seguridad alimentaria y contaminación lo que, a su vez, obstaculiza los esfuerzos para alcanzar los Objetivos de Desarrollo Sostenible (ODS) de las Naciones Unidas.",
       "tipo_documento_original": "Documento técnico / guía metodológica",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "guia_metodologica",
+        "nombre": "Guía metodológica",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Proyectos de inversión y sistemas de evaluación de impacto ambiental de Argentina, Brasil, Chile, Colombia, Costa Rica y Perú, en el marco regional de la REDLASEIA; la red también incluye a Ecuador y Uruguay.",
         "candidatos": [
@@ -9596,7 +9971,12 @@
       ],
       "abstract": "El cambio climático es un tema clave de la agenda parlamentaria de América Latina y el Caribe, y su gestión adecuada puede contribuir a incrementar el desarrollo económico y la inclusión social en la región. Por ello, los legisladores y legisladoras pertenecientes al Observatorio Parlamentario de Cambio Climático y Transición Justa (OPCC) encomendaron a sus equipos parlamentarios, bajo la supervisión de la oficina de la Comisión Económica para América Latina y el Caribe (CEPAL) en Brasilia, la elaboración de este documento, en el que se analiza la legislación marco en materia de cambio climático de ocho países, seleccionados según criterios de diversidad y representación en el OPCC —Argentina, Brasil, Bolivia (Estado Plurinacional de), Chile, Colombia, Costa Rica, Guatemala y Uruguay— y se destacan algunas buenas prácticas que ofrecen oportunidades de mejora. Entre las conclusiones surgidas del análisis comparado, cabe subrayar que este tipo de legislación habitualmente se promulga con un amplio consenso y evoluciona con el tiempo, y que se tiende a regular la institucionalidad climática y los aspectos económicos de la gestión del cambio climático, pero no tanto otros elementos como la fijación de metas de mitigación o el abordaje integral de las estrategias de transición justa.",
       "tipo_documento_original": "Boletín legislativo comparado",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "documento_referencia",
+        "nombre": "Documento de referencia",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe, con estudios de caso de Argentina, Brasil, Bolivia (Estado Plurinacional de), Chile, Colombia, Costa Rica, Guatemala y Uruguay.",
         "candidatos": [
@@ -9939,7 +10319,12 @@
       ],
       "abstract": "The main objective of this background paper is to raise awareness and support Latin American and Caribbean (LAC) governments and non-state actors to strengthen their capacities to engage in and/or lead global conversations on how to manage the risk of temporary overshoot and the role -if any- of Solar Radiation Modification (SRM) in the context of achieving and safeguarding delivery of the Sustainable Development Goals (SDGs). This document was prepared by Fundación Torcuato Di Tella (FTDT), funded by the Carnegie Climate Governance Initiative (C2G), and produced in collaboration with the United Nations Economic Commission for Latin America and the Caribbean (ECLAC).",
       "tipo_documento_original": "Background paper",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "documento_referencia",
+        "nombre": "Documento de referencia",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe; gobiernos, actores no estatales y cooperación regional",
         "candidatos": [
@@ -10201,7 +10586,12 @@
       ],
       "abstract": "Este volume apresenta o status do alinhamento do Brasil com os indicadores da Organização para a Cooperação e o Desenvolvimento Econômico (OCDE) para mudança do clima, meio ambiente e biodiversidade. O tema é um dos mais relevantes no processo de acessão do Brasil à organização econômica, por ao menos dois motivos principais. Primeiro, porque os temas climáticos e ambientais vêm ganhando cada vez mais expressão na política internacional e nas políticas públicas domésticas. Isso ocorre por conta da transversalidade da questão climático-ambiental neste início de século: a ciência já demonstrou que estamos extrapolando os limites planetários para uma existência segura no planeta, portanto é preciso repensar o crescimento econômico para incorporar questões outrora consideradas externalidades. Segundo, porque o Brasil, além de estar entre os grandes emissores de gases de efeito estufa – fenômeno natural que é dos principais responsáveis pelo aumento da temperatura na Terra no longo prazo –, tem recursos ambientais cuja preservação é relevante para toda a comunidade internacional. Por essa razão, em diversos foros de negociação, o Brasil é cobrado por sua performance em relação ao clima, ao meio ambiente e à biodiversidade. Não é diferente na OCDE, e as duas revisões da performance ambiental feitas pela organização para o Brasil, em 2015 e 2021, comprovam a assertiva.",
       "tipo_documento_original": "Estudo técnico",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Brasil, com análise de políticas públicas, estatísticas nacionais e sua comparabilidade internacional.",
         "candidatos": [],
@@ -10228,7 +10618,12 @@
       ],
       "abstract": "O Estado do Rio Grande do Sul, localizado no sul do Brasil, experimentou um evento extraordinário de chuvas e inundações entre o final de abril e maio de 2024. Essa região, caracterizada por sua vulnerabilidade a diversos perigos ambientais, foi afetada por um sistema de baixa pressão que trouxe chuvas intensas e persistentes. O evento se alinhou com a temporalidade histórica regional, que prevê os maiores volumes de precipitação durante o outono.\n \nAs precipitações excederam significativamente as médias históricas, com algumas áreas registrando até 300 mm de chuva em um único dia. Isso resultou na saturação do solo e no transbordamento de rios e córregos, causando inundações generalizadas tanto em áreas urbanas como rurais. Entre os principais rios afetados estão o Jacuí, Taquari, Caí e Guaíba, que atingiram níveis críticos e causaram inundações severas nas comunidades ribeirinhas.",
       "tipo_documento_original": "Estudo técnico de avaliação de danos, perdas e custos adicionais (DaLA)",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Estado de Rio Grande do Sul, Brasil, con análisis estatal, municipal, territorial y por cuenca hidrográfica.",
         "candidatos": [
@@ -10307,7 +10702,12 @@
       ],
       "abstract": "El primer Manual centroamericano de mantenimiento de carreteras se adoptó en 2000 tras los devastadores efectos del huracán Mitch en los estados miembros del Sistema de la Integración Centroamericana (SICA). Los países de la subregión acordaron que, para hacer frente a estas amenazas, debían tomar acciones y adoptar normas técnicas aplicables a las carreteras con el propósito de reducir la vulnerabilidad de sus redes viales.\n\nEn el marco del proyecto “Fortalecimiento de capacidades para la incorporación de la reducción de riesgos de desastres y la adaptación sostenible e incluyente al cambio climático en la inversión pública de los países miembros de COSEFIN/ SICA” (RIDASICC), en 2023 se actualizó el Manual integrando actividades y elementos de reducción del riesgo de desastres y adaptación sostenible e incluyente al cambio climático, con el fin de contribuir a mantener el nivel de servicio de las vialidades y extender su vida útil. El presente Manual fue aprobado por el COMITRAN mediante la Resolución 11 de su reunión de diciembre de 2023.El primer Manual centroamericano de mantenimiento de carreteras se adoptó en 2000 tras los devastadores efectos del huracán Mitch en los estados miembros del Sistema de la Integración Centroamericana (SICA). Los países de la subregión acordaron que, para hacer frente a estas amenazas, debían tomar acciones y adoptar normas técnicas aplicables a las carreteras con el propósito de reducir la vulnerabilidad de sus redes viales. En el marco del proyecto “Fortalecimiento de capacidades para la incorporación de la reducción de riesgos de desastres y la adaptación sostenible e incluyente al cambio climático en la inversión pública de los países miembros de COSEFIN/ SICA” (RIDASICC), en 2023 se actualizó el Manual integrando actividades y elementos de reducción del riesgo de desastres y adaptación sostenible e incluyente al cambio climático, con el fin de contribuir a mantener el nivel de servicio de las vialidades y extender su vida útil. El presente Manual fue aprobado por el COMITRAN mediante la Resolución 11 de su reunión de diciembre de 2023.",
       "tipo_documento_original": "Manual técnico",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "guia_metodologica",
+        "nombre": "Guía metodológica",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Subregional: países miembros del SICA/COSEFIN, con énfasis en la red vial centroamericana y República Dominicana.",
         "candidatos": [
@@ -10628,7 +11028,12 @@
       ],
       "abstract": "En este documento se analiza el impacto del cambio climático en el empleo en América Latina y el Caribe, que se caracteriza por unos niveles elevados de informalidad y desigualdades estructurales. Este fenómeno conlleva la creación, transformación y destrucción de empleos, lo cual tiene efectos especialmente negativos en los sectores y territorios vulnerables. Las personas en situación de pobreza, los trabajadores informales, las mujeres y los pueblos indígenas afrontan mayores barreras para adaptarse y acceder a nuevas oportunidades laborales. En el informe se destaca el concepto de inclusión laboral como eje para una transición justa, entendida como el acceso equitativo a empleos de calidad con protección social, y se proponen políticas integrales que articulen el desarrollo productivo, la formación laboral, la protección social y el enfoque territorial. Asimismo, se hace hincapié en el diálogo social, la cooperación internacional y la necesidad de contar con sistemas estadísticos robustos para medir los empleos verdes y orientar la elaboración de políticas eficaces ante los desafíos del cambio climático.",
       "tipo_documento_original": "Documento de Proyectos",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "América Latina y el Caribe, con referencias específicas a países como Argentina, Brasil, Chile, Colombia, Ecuador, Guatemala, Honduras, México, Paraguay, Perú, Uruguay y varios centroamericanos y caribeños",
         "candidatos": [
@@ -10723,7 +11128,12 @@
       ],
       "abstract": "Countries often count greater growth, economic development and the fight against poverty and inequality among their priorities, but they also face global challenges related to climate action and the Paris Agreement. In this regard, economic development plans should be aligned with emissions reduction and climate resilience objectives. This report presents an analysis of the extent to which elements of Paris Agreement climate commitments (focusing on nationally determined contributions) are represented in selected national green economic development plans of Group of 20 economies. Ultimately, the analysis seeks to contribute to a better understanding of how national green economic development plans can help to mobilize investments to deliver on nationally determined contributions. The report highlights that improving the alignment of such plans with nationally determined contributions and climate goals is essential to provide investors and development partners with greater clarity and certainty on how national plans and strategies can help to fulfil climate commitments under the Paris Agreement.",
       "tipo_documento_original": "Documentos de proyectos e investigación",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Economías del G20 (17 planes y estrategias seleccionados; Sudáfrica e Indonesia como plataformas de país explícitas)",
         "candidatos": [
@@ -10762,7 +11172,12 @@
       ],
       "abstract": "Hurricane Beryl was the first major hurricane of the 2024 Atlantic season and the earliest-forming category 5 hurricane on record. It impacted Barbados as a category 3 storm while passing approximately 150 km south of the island, generating large swells and waves that affected the island’s south and west coasts. While the storm caused only moderate damage to basic infrastructure and did not trigger a humanitarian crisis, it caused substantial damage to coastal assets. The storm’s overall effects were estimated at 193 million Barbados dollars, equivalent to 0.15% of the country’s GDP. Damage accounted for 58% of the total effects, followed by losses (36%) and additional costs (5%). Tourism, fisheries and agriculture, and the environment accounted for 84% of total effects. Beryl’s early formation and its impact on Barbados serve as a reminder of the increasing unpredictability of climate patterns, which exacerbates the vulnerability of Caribbean small island developing States to extreme weather events. In this regard, it is paramount to continually strengthen all phases of disaster risk management, including risk assessment, prevention, mitigation, preparedness and response, to best equip countries and communities to navigate the impacts of extreme weather and climate change.",
       "tipo_documento_original": "Project Documents / assessment of effects and impacts",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "estudio_tecnico",
+        "nombre": "Estudio técnico",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Barbados, con atención a Bridgetown, las parroquias y las costas sur y oeste; el análisis sectorial cubre población, vivienda, educación, pesca, agricultura, turismo, energía, telecomunicaciones, transporte, ambiente y macroeconomía.",
         "candidatos": [],
@@ -11273,7 +11688,12 @@
       ],
       "abstract": "This document contains the road map for the implementation in Belize of the Regional Agreement on Access to Information, Public Participation and Justice in Environmental Matters in Latin America and the Caribbean (Escazú Agreement), prepared by the Government of Belize with the support of the Economic Commission for Latin America and the Caribbean (ECLAC). It provides a normative and practical analysis of access rights in Belize, systematizing the progress made and the gaps that remain.\n\nA consultative workshop was held with a number of stakeholders, including public officials, to discuss the legal analysis and gather proposals on priority actions for implementation of the Escazú Agreement in Belize. This document includes those priority actions and details the governance system for implementation of the Escazú Agreement in the country.",
       "tipo_documento_original": "Road map / implementation plan",
-      "tipo_documento_normalizado": null,
+      "tipo_documento_normalizado": {
+        "id": "plan_accion",
+        "nombre": "Hoja de ruta o plan de acción",
+        "estado": "adjudicado_automaticamente",
+        "metodo": "alias_especifico_unico"
+      },
       "ambito_aplicacion": {
         "original": "Belize, con cooperación prevista para los Estados Parte del Caribe y de América Latina y el Caribe",
         "candidatos": [
@@ -35372,12 +35792,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/39089",
-      "campo": "tipo_documento",
-      "valor_original": "Resumen",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/39089",
       "campo": "subregiones",
       "entidad_id": "centroamerica",
       "nombre": "Centroamérica",
@@ -35449,12 +35863,6 @@
       "documento_id": "https://hdl.handle.net/11362/39089",
       "campo": "autoria",
       "valor_original": null,
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/39135",
-      "campo": "tipo_documento",
-      "valor_original": "Estudio sectorial técnico",
       "candidatos": []
     },
     {
@@ -35724,12 +36132,6 @@
         }
       ],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/39360",
-      "campo": "tipo_documento",
-      "valor_original": "Estudio sectorial técnico de modelización y evaluación de mitigación",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/39360",
@@ -37549,12 +37951,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/40253",
-      "campo": "tipo_documento",
-      "valor_original": "Propuesta de política / documento técnico regional",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/40253",
       "campo": "subregiones",
       "entidad_id": "caribe",
       "nombre": "Caribe",
@@ -37941,12 +38337,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/40642",
-      "campo": "tipo_documento",
-      "valor_original": "Documento técnico",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/40642",
       "campo": "paises",
       "entidad_id": "brasil",
       "nombre": "Brasil",
@@ -38136,12 +38526,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/40841",
-      "campo": "tipo_documento",
-      "valor_original": "Meta-análisis",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/40841",
       "campo": "sectores",
       "entidad_id": "energia",
       "nombre": "Energía",
@@ -38173,12 +38557,6 @@
       "valor_original": "América Latina",
       "candidatos": [],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/40843",
-      "campo": "tipo_documento",
-      "valor_original": "Relatório de avaliação",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/40843",
@@ -38281,12 +38659,6 @@
       "valor_original": "El Salvador",
       "candidatos": [],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/40895",
-      "campo": "tipo_documento",
-      "valor_original": "Avaliação de Desempenho Ambiental",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/40895",
@@ -38597,12 +38969,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/41010",
-      "campo": "tipo_documento",
-      "valor_original": "Documentos de Proyectos",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/41010",
       "campo": "subregiones",
       "entidad_id": "alc",
       "nombre": "América Latina y el Caribe",
@@ -38698,12 +39064,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/41041",
-      "campo": "tipo_documento",
-      "valor_original": "Documentos de Proyectos",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/41041",
       "campo": "subregiones",
       "entidad_id": "alc",
       "nombre": "América Latina y el Caribe",
@@ -38777,12 +39137,6 @@
         }
       ],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/41101",
-      "campo": "tipo_documento",
-      "valor_original": "Estudios y Perspectivas - Cambio Climático",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/41101",
@@ -38954,12 +39308,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/41783",
-      "campo": "tipo_documento",
-      "valor_original": "Documentos de Proyectos",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/41783",
       "campo": "paises",
       "entidad_id": "chile",
       "nombre": "Chile",
@@ -38991,12 +39339,6 @@
       "valor_original": "Chile",
       "candidatos": [],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/41830",
-      "campo": "tipo_documento",
-      "valor_original": "Documentos de Proyectos",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/41830",
@@ -39287,12 +39629,6 @@
         }
       ],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/42057",
-      "campo": "tipo_documento",
-      "valor_original": "Documento de Proyectos",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/42057",
@@ -40051,12 +40387,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/42527",
-      "campo": "tipo_documento",
-      "valor_original": "Evaluación del desempeño ambiental",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/42527",
       "campo": "paises",
       "entidad_id": "peru",
       "nombre": "Perú",
@@ -40131,12 +40461,6 @@
       "valor_original": "Uruguay",
       "candidatos": [],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/42725",
-      "campo": "tipo_documento",
-      "valor_original": "Documento de proyectos",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/42725",
@@ -40222,12 +40546,6 @@
         }
       ],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/43123",
-      "campo": "tipo_documento",
-      "valor_original": "Documentos de Proyectos",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/43123",
@@ -40463,12 +40781,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/43159",
-      "campo": "tipo_documento",
-      "valor_original": "Documentos de Proyectos",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/43159",
       "campo": "paises",
       "entidad_id": "panama",
       "nombre": "Panamá",
@@ -40518,12 +40830,6 @@
       "valor_original": "Panamá",
       "candidatos": [],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/43407",
-      "campo": "tipo_documento",
-      "valor_original": "Documentos de Proyectos",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/43407",
@@ -40691,12 +40997,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/43419",
-      "campo": "tipo_documento",
-      "valor_original": "Documentos de Proyectos",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/43419",
       "campo": "subregiones",
       "entidad_id": "alc",
       "nombre": "América Latina y el Caribe",
@@ -40770,12 +41070,6 @@
         }
       ],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/43442",
-      "campo": "tipo_documento",
-      "valor_original": "Documento de posición de la CEPAL",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/43442",
@@ -40898,12 +41192,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/43583",
-      "campo": "tipo_documento",
-      "valor_original": "Tratado / Instrumento Jurídico",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/43583",
       "campo": "subregiones",
       "entidad_id": "alc",
       "nombre": "América Latina y el Caribe",
@@ -40939,12 +41227,6 @@
       "documento_id": "https://hdl.handle.net/11362/43583",
       "campo": "autoria",
       "valor_original": null,
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/43725",
-      "campo": "tipo_documento",
-      "valor_original": "Documento técnico",
       "candidatos": []
     },
     {
@@ -41161,12 +41443,6 @@
         }
       ],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/44056",
-      "campo": "tipo_documento",
-      "valor_original": "Propuesta metodológica",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/44056",
@@ -41630,12 +41906,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/44218",
-      "campo": "tipo_documento",
-      "valor_original": "Estudios del Cambio Climático en América Latina",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/44218",
       "campo": "sectores",
       "entidad_id": "ciudades_vivienda",
       "nombre": "Ciudades y vivienda",
@@ -41817,12 +42087,6 @@
         }
       ],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/44371",
-      "campo": "tipo_documento",
-      "valor_original": "Documentos de Proyectos",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/44371",
@@ -42043,12 +42307,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/44472",
-      "campo": "tipo_documento",
-      "valor_original": "Serie Estudios y Perspectivas - Sede Subregional de la CEPAL para el Caribe",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/44472",
       "campo": "paises",
       "entidad_id": "barbados",
       "nombre": "Barbados",
@@ -42154,12 +42412,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/44486",
-      "campo": "tipo_documento",
-      "valor_original": "Documentos de Proyectos",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/44486",
       "campo": "subregiones",
       "entidad_id": "alc",
       "nombre": "América Latina y el Caribe",
@@ -42251,12 +42503,6 @@
         }
       ],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/44487",
-      "campo": "tipo_documento",
-      "valor_original": "Documentos de Proyectos",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/44487",
@@ -42789,12 +43035,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/44590",
-      "campo": "tipo_documento",
-      "valor_original": "Libro o documento institucional",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/44590",
       "campo": "paises",
       "entidad_id": "costa_rica",
       "nombre": "Costa Rica",
@@ -42897,12 +43137,6 @@
         }
       ],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/44640",
-      "campo": "tipo_documento",
-      "valor_original": "Serie Recursos Naturales y Desarrollo",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/44640",
@@ -43033,12 +43267,6 @@
         }
       ],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/44970",
-      "campo": "tipo_documento",
-      "valor_original": "Documentos de proyectos",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/44970",
@@ -43243,12 +43471,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/45023",
-      "campo": "tipo_documento",
-      "valor_original": "Documentos de proyectos",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/45023",
       "campo": "paises",
       "entidad_id": "belice",
       "nombre": "Belice",
@@ -43390,12 +43612,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/45046",
-      "campo": "tipo_documento",
-      "valor_original": "Project Documents",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/45046",
       "campo": "paises",
       "entidad_id": "barbados",
       "nombre": "Barbados",
@@ -43505,12 +43721,6 @@
         }
       ],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/45066",
-      "campo": "tipo_documento",
-      "valor_original": "Estudios y Perspectivas - Sede Subregional para el Caribe",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/45066",
@@ -43754,12 +43964,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/45098",
-      "campo": "tipo_documento",
-      "valor_original": "Estudios y Perspectivas - Sede Subregional de la CEPAL para el Caribe",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/45098",
       "campo": "paises",
       "entidad_id": "granada",
       "nombre": "Granada",
@@ -43826,12 +44030,6 @@
         }
       ],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/45108",
-      "campo": "tipo_documento",
-      "valor_original": "Studies and Perspectives series-ECLAC Subregional Headquarters for the Caribbean, No. 89",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/45108",
@@ -44119,12 +44317,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/45252",
-      "campo": "tipo_documento",
-      "valor_original": "Síntesis de políticas públicas",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/45252",
       "campo": "paises",
       "entidad_id": "chile",
       "nombre": "Chile",
@@ -44304,12 +44496,6 @@
         }
       ],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/45677",
-      "campo": "tipo_documento",
-      "valor_original": "Libros de la CEPAL",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/45677",
@@ -44549,12 +44735,6 @@
         }
       ],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/45689",
-      "campo": "tipo_documento",
-      "valor_original": "Síntesis de políticas públicas sobre cambio climático",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/45689",
@@ -44868,12 +45048,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/45690",
-      "campo": "tipo_documento",
-      "valor_original": "Síntesis de política pública",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/45690",
       "campo": "subregiones",
       "entidad_id": "alc",
       "nombre": "América Latina y el Caribe",
@@ -44968,12 +45142,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/45691",
-      "campo": "tipo_documento",
-      "valor_original": "Síntesis de políticas públicas",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/45691",
       "campo": "paises",
       "entidad_id": "ecuador",
       "nombre": "Ecuador",
@@ -45056,12 +45224,6 @@
         }
       ],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/45692",
-      "campo": "tipo_documento",
-      "valor_original": "Síntesis de políticas públicas",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/45692",
@@ -45285,12 +45447,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/45693",
-      "campo": "tipo_documento",
-      "valor_original": "Síntesis de políticas públicas",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/45693",
       "campo": "paises",
       "entidad_id": "mexico",
       "nombre": "México",
@@ -45341,12 +45497,6 @@
       "detalle_subnacional": [
         "rural"
       ]
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/45696",
-      "campo": "tipo_documento",
-      "valor_original": "Síntesis de política pública",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/45696",
@@ -45606,12 +45756,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/45697",
-      "campo": "tipo_documento",
-      "valor_original": "Síntesis de políticas públicas",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/45697",
       "campo": "paises",
       "entidad_id": "ecuador",
       "nombre": "Ecuador",
@@ -45661,12 +45805,6 @@
       "valor_original": "América Latina (con aplicación empírica y estimación econométrica para el Ecuador, El Salvador y México)",
       "candidatos": [],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/45698",
-      "campo": "tipo_documento",
-      "valor_original": "Síntesis de política pública",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/45698",
@@ -45755,12 +45893,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/45699",
-      "campo": "tipo_documento",
-      "valor_original": "Síntesis de políticas públicas",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/45699",
       "campo": "paises",
       "entidad_id": "chile",
       "nombre": "Chile",
@@ -45810,12 +45942,6 @@
       "valor_original": "Chile y México",
       "candidatos": [],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/45700",
-      "campo": "tipo_documento",
-      "valor_original": "Síntesis de política pública",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/45700",
@@ -45904,12 +46030,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/45703",
-      "campo": "tipo_documento",
-      "valor_original": "Síntesis de política pública",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/45703",
       "campo": "paises",
       "entidad_id": "brasil",
       "nombre": "Brasil",
@@ -45983,12 +46103,6 @@
         }
       ],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/45704",
-      "campo": "tipo_documento",
-      "valor_original": "Síntesis de políticas públicas",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/45704",
@@ -46110,12 +46224,6 @@
         }
       ],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/45705",
-      "campo": "tipo_documento",
-      "valor_original": "Síntesis de políticas públicas",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/45705",
@@ -46345,12 +46453,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/45966",
-      "campo": "tipo_documento",
-      "valor_original": "Estudio de caso / Evaluación de desastre",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/45966",
       "campo": "paises",
       "entidad_id": "bahamas",
       "nombre": "Bahamas",
@@ -46475,12 +46577,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/45967",
-      "campo": "tipo_documento",
-      "valor_original": "Documentos de Proyectos",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/45967",
       "campo": "paises",
       "entidad_id": "bahamas",
       "nombre": "Bahamas",
@@ -46566,12 +46662,6 @@
       "valor_original": "Bahamas (especialmente las islas meridionales y Out Islands: Acklins, Bimini, Grand Bahama, Great Inagua y Ragged Island, además de impactos agregados en New Providence)",
       "candidatos": [],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/45968",
-      "campo": "tipo_documento",
-      "valor_original": "Estudio de caso / Evaluación de desastre",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/45968",
@@ -46687,12 +46777,6 @@
       "valor_original": "Las Bahamas (específicamente las islas de Gran Bahama y Ábaco, junto con los cayos adyacentes como Elbow Cay, Green Turtle Cay y Man-o-War Cay)",
       "candidatos": [],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/46019",
-      "campo": "tipo_documento",
-      "valor_original": "Documentos de Proyectos",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/46019",
@@ -46851,12 +46935,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/46317",
-      "campo": "tipo_documento",
-      "valor_original": "Documentos de Proyectos",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/46317",
       "campo": "paises",
       "entidad_id": "republica_dominicana",
       "nombre": "República Dominicana",
@@ -46882,12 +46960,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/46433",
-      "campo": "tipo_documento",
-      "valor_original": "Documentos de proyectos",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/46433",
       "campo": "paises",
       "entidad_id": "republica_dominicana",
       "nombre": "República Dominicana",
@@ -46910,12 +46982,6 @@
       "valor_original": "República Dominicana (zonas cafetaleras y cadena de valor nacional de café)",
       "candidatos": [],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/46482",
-      "campo": "tipo_documento",
-      "valor_original": "Documentos de Proyectos",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/46482",
@@ -47157,12 +47223,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/46529",
-      "campo": "tipo_documento",
-      "valor_original": "Documento informativo",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/46529",
       "campo": "subregiones",
       "entidad_id": "caribe",
       "nombre": "Caribe",
@@ -47234,12 +47294,6 @@
       "documento_id": "https://hdl.handle.net/11362/46529",
       "campo": "autoria",
       "valor_original": null,
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/46575",
-      "campo": "tipo_documento",
-      "valor_original": "Documentos de Proyectos",
       "candidatos": []
     },
     {
@@ -47366,12 +47420,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/46643",
-      "campo": "tipo_documento",
-      "valor_original": "Documentos de Proyectos",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/46643",
       "campo": "paises",
       "entidad_id": "brasil",
       "nombre": "Brasil",
@@ -47421,12 +47469,6 @@
       "valor_original": "Brasil, abrangendo a dinâmica macroeconômica nacional, o mercado de trabalho formal e informal, os setores de infraestrutura sustentável e as assimetrias socioespaciais e raciais em áreas urbanas e rurais.",
       "candidatos": [],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/46681",
-      "campo": "tipo_documento",
-      "valor_original": "Documentos de Proyectos",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/46681",
@@ -47636,12 +47678,6 @@
         }
       ],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/46853",
-      "campo": "tipo_documento",
-      "valor_original": "Evaluación de impacto de desastres (metodología DaLA)",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/46853",
@@ -48281,12 +48317,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/47109",
-      "campo": "tipo_documento",
-      "valor_original": "Resumen para responsables de políticas",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/47109",
       "campo": "paises",
       "entidad_id": "argentina",
       "nombre": "Argentina",
@@ -48827,12 +48857,6 @@
         }
       ],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/47714",
-      "campo": "tipo_documento",
-      "valor_original": "Documento de referencia para consulta regional",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/47714",
@@ -50027,12 +50051,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/48071",
-      "campo": "tipo_documento",
-      "valor_original": "Documento de Proyectos",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/48071",
       "campo": "subregiones",
       "entidad_id": "alc",
       "nombre": "América Latina y el Caribe",
@@ -50167,12 +50185,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/48102",
-      "campo": "tipo_documento",
-      "valor_original": "Compendio preliminar y cartera de proyectos de inversión climática",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/48102",
       "campo": "subregiones",
       "entidad_id": "alc",
       "nombre": "América Latina y el Caribe",
@@ -50246,12 +50258,6 @@
         }
       ],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/48118",
-      "campo": "tipo_documento",
-      "valor_original": "Acuerdo internacional traducido; texto normativo",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/48118",
@@ -50819,12 +50825,6 @@
       "valor_original": "Subregión del Sistema de la Integración Centroamericana (SICA): Belice, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panamá y República Dominicana.",
       "candidatos": [],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/48290",
-      "campo": "tipo_documento",
-      "valor_original": "Reglas de procedimiento / documento normativo institucional",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/48290",
@@ -51588,12 +51588,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/48736",
-      "campo": "tipo_documento",
-      "valor_original": "Documento técnico",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/48736",
       "campo": "paises",
       "entidad_id": "honduras",
       "nombre": "Honduras",
@@ -52025,12 +52019,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/49053",
-      "campo": "tipo_documento",
-      "valor_original": "Documento técnico de la serie Medio Ambiente y Desarrollo",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/49053",
       "campo": "paises",
       "entidad_id": "bolivia",
       "nombre": "Bolivia (Estado Plurinacional de)",
@@ -52288,12 +52276,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/68648",
-      "campo": "tipo_documento",
-      "valor_original": "Documento técnico",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/68648",
       "campo": "paises",
       "entidad_id": "belice",
       "nombre": "Belice",
@@ -52490,12 +52472,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/68686",
-      "campo": "tipo_documento",
-      "valor_original": "Documento técnico / estudio aplicado del proyecto RIDASICC",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/68686",
       "campo": "paises",
       "entidad_id": "costa_rica",
       "nombre": "Costa Rica",
@@ -52661,12 +52637,6 @@
         }
       ],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/68704",
-      "campo": "tipo_documento",
-      "valor_original": "Documento técnico / guía metodológica",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/68704",
@@ -53515,12 +53485,6 @@
       "documento_id": "https://hdl.handle.net/11362/68818",
       "campo": "autoria",
       "valor_original": null,
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/68877",
-      "campo": "tipo_documento",
-      "valor_original": "Boletín legislativo comparado",
       "candidatos": []
     },
     {
@@ -54548,12 +54512,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/80737",
-      "campo": "tipo_documento",
-      "valor_original": "Background paper",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/80737",
       "campo": "subregiones",
       "entidad_id": "alc",
       "nombre": "América Latina y el Caribe",
@@ -55004,12 +54962,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/80987",
-      "campo": "tipo_documento",
-      "valor_original": "Estudo técnico",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/80987",
       "campo": "paises",
       "entidad_id": "brasil",
       "nombre": "Brasil",
@@ -55068,12 +55020,6 @@
       "valor_original": "Brasil, com análise de políticas públicas, estatísticas nacionais e sua comparabilidade internacional.",
       "candidatos": [],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/81035",
-      "campo": "tipo_documento",
-      "valor_original": "Estudo técnico de avaliação de danos, perdas e custos adicionais (DaLA)",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/81035",
@@ -55321,12 +55267,6 @@
         }
       ],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/81101",
-      "campo": "tipo_documento",
-      "valor_original": "Manual técnico",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/81101",
@@ -55996,12 +55936,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/81886",
-      "campo": "tipo_documento",
-      "valor_original": "Documento de Proyectos",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/81886",
       "campo": "paises",
       "entidad_id": "argentina",
       "nombre": "Argentina",
@@ -56362,12 +56296,6 @@
     },
     {
       "documento_id": "https://hdl.handle.net/11362/82026",
-      "campo": "tipo_documento",
-      "valor_original": "Documentos de proyectos e investigación",
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/82026",
       "campo": "organizaciones",
       "entidad_id": "ocde",
       "nombre": "OCDE",
@@ -56389,12 +56317,6 @@
         }
       ],
       "detalle_subnacional": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/82157",
-      "campo": "tipo_documento",
-      "valor_original": "Project Documents / assessment of effects and impacts",
-      "candidatos": []
     },
     {
       "documento_id": "https://hdl.handle.net/11362/82157",
@@ -57787,12 +57709,6 @@
       "documento_id": "https://hdl.handle.net/11362/89932",
       "campo": "autoria",
       "valor_original": null,
-      "candidatos": []
-    },
-    {
-      "documento_id": "https://hdl.handle.net/11362/89934",
-      "campo": "tipo_documento",
-      "valor_original": "Road map / implementation plan",
       "candidatos": []
     },
     {
