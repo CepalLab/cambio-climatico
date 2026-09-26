@@ -58,3 +58,8 @@ fase2/monitor_*.py
 fase2/reporte_*.txt
 fase2/*.py
 fase2/*.ps1
+
+# Visualizador (Next.js estatico) — dependencias y build se regeneran
+visualizador/web/node_modules/
+visualizador/web/.next/
+visualizador/web/out/

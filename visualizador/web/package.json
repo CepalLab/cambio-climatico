@@ -1,0 +1,16 @@
+{
+  "name": "cepal-clima-visualizador",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Explorador del corpus CEPAL sobre cambio climatico (2015-2026). Inspirado en 1kpapers de Nutlope.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "export": "node scripts/check-data.mjs"
+  },
+  "dependencies": {
+    "next": "^14.2.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
