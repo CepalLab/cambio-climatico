@@ -1,13 +1,24 @@
 import { agg, docs, porId } from "../lib/datos";
-import DocCard from "../components/DocCard";
+import Carrusel from "../components/Carrusel";
 
 const T = agg.totales;
+const COLORES = ["#1f4fd8", "#cf3a26", "#2e7d4b", "#8a5a00", "#6a3ec0", "#0e7c86"];
 
-function Seccion({ id, num, titulo, bajada, children }) {
+function iniciales(nombre) {
+  return nombre
+    .split(" ")
+    .filter((w) => w.length > 2)
+    .slice(0, 2)
+    .map((w) => w[0])
+    .join("")
+    .toUpperCase();
+}
+
+function Seccion({ num, titulo, bajada, children }) {
   return (
-    <section className="bloque" id={id}>
+    <section className="bloque">
       <div className="contenedor">
-        <div className="numero-seccion">{num}</div>
+        <div className="etiqueta">{num}</div>
         <h2>{titulo}</h2>
         {bajada && <p className="bajada">{bajada}</p>}
         {children}
@@ -17,9 +28,9 @@ function Seccion({ id, num, titulo, bajada, children }) {
 }
 
 export default function Home() {
-  const maxDiv = Math.max(...agg.divisiones.map((d) => d.total));
-  const maxTema = Math.max(...agg.temas.map((d) => d.total));
   const destacados = agg.destacados.map((id) => porId[id]).filter(Boolean);
+  const topEvidencia = [...docs].sort((a, b) => b.evidencia - a.evidencia).slice(0, 3);
+  const elegido = destacados[(new Date().getDate() + new Date().getMonth()) % destacados.length];
   const brechas = agg.dimensiones.find((d) => d.dimension === "brechas_implementacion");
   const avances = agg.dimensiones.find((d) => d.dimension === "avances_implementacion");
 
@@ -27,75 +38,182 @@ export default function Home() {
     <main>
       <div className="hero">
         <div className="contenedor">
-          <div className="kicker">CEPAL Lab · 2015–2026</div>
           <h1>El clima en la CEPAL</h1>
           <p>
-            {T.documentos} publicaciones que mapean la investigación climática
-            de la CEPAL entre {T.periodo[0]} y {T.periodo[1]}, con{" "}
-            {T.dimensiones.toLocaleString("es")} fragmentos codificados y{" "}
-            {T.citas.toLocaleString("es")} citas literales.
+            {T.documentos} documentos que mapean la investigación climática de
+            la CEPAL entre {T.periodo[0]} y {T.periodo[1]}.
           </p>
+
+          <div className="tira-labs" id="divisiones">
+            <div className="celda">
+              <div className="etiqueta">Explorar por división</div>
+            </div>
+            {agg.divisiones.slice(0, 6).map((d, i) => (
+              <a className="celda" key={d.slug} href={`/division/${d.slug}/`}>
+                <span
+                  className="insignia"
+                  style={{ background: COLORES[i % COLORES.length] }}
+                >
+                  {iniciales(d.nombre)}
+                </span>
+                {d.nombre.length > 26 ? d.nombre.slice(0, 25) + "…" : d.nombre}
+              </a>
+            ))}
+          </div>
+
+          <div className="grilla-main">
+            <div id="temas">
+              <div className="etiqueta">Explorar por temas</div>
+              <ol className="lista-temas">
+                {agg.temas.slice(0, 6).map((t, i) => (
+                  <li key={t.slug}>
+                    <a href={`/tema/${t.slug}/`}>
+                      <span className="pos">{String(i + 1).padStart(2, "0")}</span>
+                      {t.nombre}
+                      <span className="n">{t.total}</span>
+                    </a>
+                  </li>
+                ))}
+              </ol>
+              <p>
+                <a className="ver-todo" href="#temas-todos">Ver todos los temas →</a>
+              </p>
+            </div>
+
+            <div className="trending" id="destacados">
+              <div className="etiqueta" style={{ color: "var(--rojo)" }}>
+                01 · Tendencia del corpus
+              </div>
+              <h2>Los documentos que movieron la agenda climática</h2>
+              <p className="bajada">
+                Seleccionados por evidencia interna: dimensiones codificadas
+                y citas literales verificadas en página.
+              </p>
+              <Carrusel docs={destacados} />
+            </div>
+
+            <div id="evidencia">
+              <div className="etiqueta" style={{ textAlign: "right", display: "block" }}>
+                Más evidencia
+              </div>
+              <ol className="ranking">
+                {topEvidencia.map((d, i) => (
+                  <li key={d.id}>
+                    <span className="pos">{String(i + 1).padStart(2, "0")}</span>
+                    <a href={`/documento/${d.id}/`}>
+                      {d.titulo}
+                      <span className="fecha"> · {d.anio}</span>
+                    </a>
+                    <span className="cifra">{d.evidencia}</span>
+                  </li>
+                ))}
+              </ol>
+            </div>
+          </div>
+
+          <div className="timeline-strip">
+            <div>
+              <div className="etiqueta" style={{ padding: "16px 20px 0" }}>
+                Explorar por año
+              </div>
+              <div className="anios">
+                {agg.timeline.map((t) => (
+                  <a key={t.anio} href={`/anio/${t.anio}/`}>
+                    <div className="a">{t.anio}</div>
+                    <div className="punto" />
+                    <div className="t">{t.total}</div>
+                  </a>
+                ))}
+              </div>
+            </div>
+            <div className="total">
+              <span className="cifra">{T.documentos}</span>
+              <span className="txt">documentos<br />curados e indexados</span>
+            </div>
+          </div>
+
+          {elegido && (
+            <div className="elegido">
+              <div>
+                <div className="marca-e">✦</div>
+                <div className="etiqueta" style={{ marginTop: 12 }}>
+                  Este documento
+                  <br />
+                  fue elegido
+                  <br />
+                  para ti
+                </div>
+              </div>
+              <div>
+                <div className="etiqueta">
+                  {elegido.division} / {elegido.anio}
+                </div>
+                <h3>{elegido.titulo}</h3>
+                <p>{(elegido.resumen || "").slice(0, 280)}…</p>
+              </div>
+              <div>
+                <a className="ver-todo" href={`/documento/${elegido.id}/`}>
+                  LEER EL DOCUMENTO →
+                </a>
+              </div>
+            </div>
+          )}
         </div>
       </div>
 
       <Seccion
-        id="divisiones"
-        num="01 · Divisiones"
-        titulo="Explorar por división"
-        bajada="El equivalente a los laboratorios del sitio de referencia: cada división de la CEPAL con su producción climática."
+        num="El benchmark de costos"
+        titulo={`¿Cuánto costó enriquecer ${T.documentos} documentos?`}
+        bajada="Sección en construcción: se completará con el usage reportado por los proveedores y la fecha de uso de cada lote. Es una comparación de costos, no un ranking de calidad."
       >
-        <div className="rejilla">
-          {agg.divisiones.map((d) => (
-            <a className="tarjeta" key={d.slug} href={`/division/${d.slug}/`}>
-              <div className="total">{d.total}</div>
-              <div className="nombre">{d.nombre}</div>
-              <div className="barra-h">
-                <span style={{ width: `${(100 * d.total) / maxDiv}%` }} />
-              </div>
-            </a>
-          ))}
+        <table className="costotabla" id="costos">
+          <thead>
+            <tr>
+              <th></th>
+              <th>MODELO</th>
+              <th>INFERENCIA TOTAL</th>
+              <th>POR DOCUMENTO</th>
+              <th>RELATIVO</th>
+            </tr>
+          </thead>
+          <tbody>
+            {[
+              ["01", "Gemini (enriquecimiento)"],
+              ["02", "Claude (calibración)"],
+            ].map(([n, m]) => (
+              <tr key={m}>
+                <td style={{ color: "var(--rojo)", fontFamily: "var(--mono)", fontSize: 12 }}>{n}</td>
+                <td className="modelo">{m}</td>
+                <td className="monto">—</td>
+                <td className="monto">—</td>
+                <td>pendiente de datos</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </Seccion>
+
+      <Seccion
+        num="Temas · Tipología · Interpelación"
+        titulo="El corpus por dentro"
+        bajada="Tres formas de agrupar los mismos 238 documentos, todas derivadas del enriquecimiento calibrado."
+      >
+        <div id="temas-todos">
+          <div className="etiqueta">Todos los temas ({agg.temas.length})</div>
+          <ol className="lista-temas" style={{ gridTemplateColumns: "repeat(auto-fill, minmax(260px, 1fr))", display: "grid", gap: "0 16px" }}>
+            {agg.temas.slice(0, 30).map((t, i) => (
+              <li key={t.slug}>
+                <a href={`/tema/${t.slug}/`}>
+                  <span className="pos">{String(i + 1).padStart(2, "0")}</span>
+                  {t.nombre}
+                  <span className="n">{t.total}</span>
+                </a>
+              </li>
+            ))}
+          </ol>
         </div>
-      </Seccion>
-
-      <Seccion
-        id="temas"
-        num="02 · Temas"
-        titulo="Explorar por tema"
-        bajada="Vocabulario controlado cepal.topicSpa. Cambio climático es el agregador de todo el corpus (como AI en el referente), así que aquí van los demás temas."
-      >
-        <ol className="lista-temas">
-          {agg.temas.slice(0, 24).map((t, i) => (
-            <li key={t.slug}>
-              <a href={`/tema/${t.slug}/`}>
-                <span className="pos">{String(i + 1).padStart(2, "0")}</span>
-                {t.nombre}
-                <span className="n">{t.total}</span>
-              </a>
-            </li>
-          ))}
-        </ol>
-      </Seccion>
-
-      <Seccion
-        id="destacados"
-        num="03 · Destacados"
-        titulo="Los documentos con más evidencia"
-        bajada="Sin citas externas, ordenamos por evidencia interna: dimensiones codificadas más citas literales verificadas en página. Es cobertura, no un ranking de calidad."
-      >
-        <div className="carrusel">
-          {destacados.map((d) => (
-            <DocCard key={d.id} doc={d} />
-          ))}
-        </div>
-      </Seccion>
-
-      <Seccion
-        id="tipologia"
-        num="04 · Transformaciones"
-        titulo="¿Qué transformación impulsa cada documento?"
-        bajada="Tipología propia calibrada con el equipo del curso, sobre el canon de las 11 Grandes Transformaciones."
-      >
-        <div className="rejilla">
+        <div className="etiqueta" style={{ marginTop: 24 }}>Transformaciones (tipología primaria)</div>
+        <div className="rejilla" style={{ marginTop: 8 }}>
           {agg.tipologia.map((t) => (
             <div className="tarjeta" key={t.nombre}>
               <div className="total">{t.total}</div>
@@ -103,15 +221,8 @@ export default function Home() {
             </div>
           ))}
         </div>
-      </Seccion>
-
-      <Seccion
-        id="interpelacion"
-        num="05 · Interpelación"
-        titulo="¿Qué le exige cada documento a la política?"
-        bajada="Cuatro criterios con veredicto Sí, Parcial o No y evidencia literal. El gran impulso ambiental es el más exigente: solo 63 documentos lo cumplen del todo."
-      >
-        <div className="rejilla">
+        <div className="etiqueta" style={{ marginTop: 24 }}>Interpelación: veredictos por criterio</div>
+        <div className="rejilla" style={{ marginTop: 8 }}>
           {agg.interpelacion.map((c) => (
             <div className="tarjeta" key={c.criterio}>
               <div className="nombre">{c.nombre}</div>
@@ -123,25 +234,16 @@ export default function Home() {
             </div>
           ))}
         </div>
-      </Seccion>
-
-      <Seccion
-        id="brechas"
-        num="06 · Brechas"
-        titulo="Avances frente a brechas de implementación"
-        bajada={`Lo reportado como avance (${avances?.total ?? "—"} fragmentos) frente a lo señalado como brecha (${brechas?.total ?? "—"}). Las dimensiones completas están en cada ficha.`}
-      >
-        <div className="rejilla">
+        <div className="etiqueta" style={{ marginTop: 24 }}>
+          Dimensiones · avances ({avances?.total}) frente a brechas ({brechas?.total})
+        </div>
+        <div className="rejilla" style={{ marginTop: 8 }}>
           {agg.dimensiones.map((d) => (
             <div className="tarjeta" key={d.dimension}>
               <div className="total">{d.total}</div>
               <div className="nombre">{d.nombre}</div>
               <div className="barra-h">
-                <span
-                  style={{
-                    width: `${(100 * d.total) / agg.dimensiones[0].total}%`,
-                  }}
-                />
+                <span style={{ width: `${(100 * d.total) / agg.dimensiones[0].total}%` }} />
               </div>
             </div>
           ))}
@@ -149,72 +251,16 @@ export default function Home() {
       </Seccion>
 
       <Seccion
-        id="timeline"
-        num="07 · Tiempo"
-        titulo="Explorar por año"
-        bajada="Tres períodos de calendario: 2015–2018, 2019–2022 y 2023–2026."
-      >
-        <div className="timeline">
-          {agg.timeline.map((t) => (
-            <a key={t.anio} href={`/anio/${t.anio}/`}>
-              <div className="a">{t.anio}</div>
-              <div className="t">{t.total} docs</div>
-            </a>
-          ))}
-        </div>
-      </Seccion>
-
-      <Seccion
-        id="costos"
-        num="08 · Costos"
-        titulo="¿Cuánto costó enriquecer el corpus?"
-        bajada="Sección en construcción: se completará con el usage reportado por los proveedores y la fecha de uso de cada lote. Metodología de costeo en el reporte metodológico interno."
-      >
-        <div className="rejilla">
-          {["Gemini (enriquecimiento)", "Claude (calibración)", "Costo total"].map(
-            (m) => (
-              <div className="tarjeta" key={m}>
-                <div className="total">—</div>
-                <div className="nombre">{m}</div>
-                <div className="doc-meta">pendiente de datos</div>
-              </div>
-            )
-          )}
-        </div>
-      </Seccion>
-
-      <Seccion
-        id="metodologia"
-        num="09 · Método"
+        num="Sobre el método"
         titulo="Cómo convertimos 238 PDFs en un atlas navegable"
         bajada="Versión simplificada. El relato completo vive en el reporte metodológico interno del proyecto."
       >
-        <ol className="pasos">
-          <li>
-            <strong>Congelar un corpus reproducible.</strong> Filtro por tema
-            cambio climático, exclusión de duplicados y administrativos, 14
-            documentos estratégicos agregados: 244 → 238.
-          </li>
-          <li>
-            <strong>Calibrar con expertos.</strong> Codebook, tipología e
-            interpelación probados en 17 documentos con revisor ciego
-            (66% → 85% de acuerdo) y confirmación del equipo del curso.
-          </li>
-          <li>
-            <strong>Leer cada PDF.</strong> Extracción de texto, índice
-            jerárquico y enriquecimiento por secciones con citas literales y
-            página declarada.
-          </li>
-          <li>
-            <strong>Validar todo.</strong> Cuatro validadores (esquema, índice,
-            citas, densidad), certificados gemelos y revisión humana por lote
-            antes de promover cada documento.
-          </li>
-          <li>
-            <strong>Sintetizar y navegar.</strong> Informe maestro, figuras
-            reproducibles y este explorador por división, tema, tipología e
-            interpelación.
-          </li>
+        <ol className="pasos" id="metodologia">
+          <li><strong>Congelar un corpus reproducible.</strong> Filtro por tema cambio climático, exclusión de duplicados y administrativos, 14 documentos estratégicos agregados: 244 → 238.</li>
+          <li><strong>Calibrar con expertos.</strong> Codebook, tipología e interpelación probados en 17 documentos con revisor ciego (66% → 85% de acuerdo).</li>
+          <li><strong>Leer cada PDF.</strong> Extracción de texto, índice jerárquico y enriquecimiento por secciones con citas literales y página declarada.</li>
+          <li><strong>Validar todo.</strong> Cuatro validadores (esquema, índice, citas, densidad), certificados gemelos y revisión humana por lote.</li>
+          <li><strong>Sintetizar y navegar.</strong> Informe maestro, figuras reproducibles y este explorador.</li>
         </ol>
       </Seccion>
     </main>

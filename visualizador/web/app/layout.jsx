@@ -12,12 +12,15 @@ export default function RootLayout({ children }) {
       <body>
         <header className="barra">
           <nav>
-            <a className="marca" href="/">Clima · CEPAL</a>
-            <a href="/#divisiones">Divisiones</a>
-            <a href="/#temas">Temas</a>
-            <a href="/#destacados">Destacados</a>
-            <a href="/#costos">Costos</a>
-            <a href="/#metodologia">Método</a>
+            <a className="marca" href="/">
+              <span className="y">C</span> El clima en la CEPAL
+            </a>
+            <a className="link activo" href="/">EL CORPUS</a>
+            <a className="link" href="/#destacados">DESTACADOS</a>
+            <a className="link" href="/#evidencia">MÁS EVIDENCIA</a>
+            <a className="link" href="/#temas">TEMAS</a>
+            <a className="link" href="/#metodologia">MÉTODO</a>
+            <span className="busca">Buscar ⌘K</span>
           </nav>
         </header>
         {children}
