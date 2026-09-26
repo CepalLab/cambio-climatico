@@ -156,7 +156,7 @@ export default function Home() {
       >
         <div className="timeline">
           {agg.timeline.map((t) => (
-            <a key={t.anio} href={`#`}>
+            <a key={t.anio} href={`/anio/${t.anio}/`}>
               <div className="a">{t.anio}</div>
               <div className="t">{t.total} docs</div>
             </a>
